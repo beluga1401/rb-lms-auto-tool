@@ -1,5 +1,5 @@
 {
-  "version": "4.6.0",
+  "version": "4.6.1",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi Auto Điền 0 vị trí đáp án trên Moodle 4.x / VnResource LMS (lọc bỏ input ẩn Clear my choice value='-1' và hỗ trợ aria-labelledby)",
-    "Tự động điền ngay lập tức khi bấm Gemini AI Giải Đề hoặc bấm Auto Điền trên trang mới mà không cần quét thủ công",
+    "Không tự động chuyển trang/tab để quét đề thi nếu người dùng chưa bấm nút Auto",
+    "Tự động quay về Trang 1, chuyển trang liên tục và điền toàn bộ các trang khi nạp file JSON đáp án hoặc bấm Auto Điền",
+    "Khắc phục triệt để lỗi Auto Điền 0 vị trí đáp án trên Moodle 4.x / VnResource LMS",
     "Nâng cấp AI Engine lên Gemini 3.7 Flash & 3.8 Flash (Dual-AI Consensus & Deep CoT) tăng độ chính xác tối đa",
-    "Tự động phân tích câu Đúng/Sai từ trang Xem lại (review.php) và tự động Thực hiện lại đề thi cho đến khi đạt 100 điểm",
     "Đồng bộ trực tiếp với GitHub Releases chính thức (beluga1401/rb-lms-auto-tool)"
   ]
 }
