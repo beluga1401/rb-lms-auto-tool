@@ -1,5 +1,5 @@
 {
-  "version": "4.7.6",
+  "version": "4.7.7",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,9 +8,9 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Nâng cấp model Gemini sang thế hệ thông minh mới nhất: gemini-3.5-flash và gemini-3-flash-preview, phản hồi siêu tốc (<2s) với đầy đủ 5 trường Chain-of-Thought (CoT)",
-    "Tối ưu kích thước batch (10 câu/batch) kết hợp đa luồng song song, loại trừ triệt để lỗi timeout, nghẽn mạng và HTTP 503 khi giải bài thi lớn",
-    "Fix lỗi kẹt đứng yên ở màn hình 'Đã hoàn thành lần làm này.' trên view.php, tự động bấm 'Tiếp tục' để nạp kết quả và chạy vòng lặp AI 100 Điểm",
-    "Tự động failover mượt mà giữa các model thông minh chính thức, cam kết 100% câu hỏi được AI suy luận chính xác, không còn đánh lụi ngẫu nhiên"
+    "Hỗ trợ 3 Google Gemini API Keys độc lập (Chính, Tăng tốc, Dự phòng) với các nút kiểm tra kết nối riêng biệt và nút Master Test",
+    "Tự động cân bằng tải đa luồng giữa các API key và cơ chế failover tức thì khi gặp lỗi hạn ngạch (429/ResourceExhausted) trước khi đổi model",
+    "Nâng cấp chu trình AI 100 Điểm & Tự Học: Tự động dừng chu trình, tải cấu hình lên GitHub Cloud và chúc mừng ngay khi đạt >= 95 điểm",
+    "Tiếp tục tự động làm lại nếu chưa đạt 95 điểm, bảo đảm an toàn và tối đa hóa điểm số trên mọi bài thi LMS"
   ]
 }
