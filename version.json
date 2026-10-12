@@ -1,17 +1,17 @@
 {
-  "version": "4.6.1",
+  "version": "4.7.0",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-11",
+  "release_date": "2026-10-12",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Không tự động chuyển trang/tab để quét đề thi nếu người dùng chưa bấm nút Auto",
-    "Tự động quay về Trang 1, chuyển trang liên tục và điền toàn bộ các trang khi nạp file JSON đáp án hoặc bấm Auto Điền",
-    "Khắc phục triệt để lỗi Auto Điền 0 vị trí đáp án trên Moodle 4.x / VnResource LMS",
-    "Nâng cấp AI Engine lên Gemini 3.7 Flash & 3.8 Flash (Dual-AI Consensus & Deep CoT) tăng độ chính xác tối đa",
+    "Nút ☁️ Auto Cloud Config: Tự động nhận diện Lớp/Khối, Unit, Bài thi hiện tại -> Tải Config từ GitHub Cloud -> Điền hết các trang & Tự động nộp bài",
+    "Tự động đồng bộ Config 95-100 điểm lên kho GitHub Cloud (beluga1401/rb-lms-auto-tool) khi đạt 95-100% hoặc khi cào đáp án bài đã nộp",
+    "Tối ưu hóa sâu bộ nhớ RAM (Chromium WebEngine memory cap, giới hạn bộ đệm Audio/Transcript & dọn rác tự động)",
+    "Giữ nguyên 100% sức mạnh AI 1-Touch 100 Điểm (Dual-AI Consensus Gemini 3.7 & 3.8 Flash + Deep CoT)",
     "Đồng bộ trực tiếp với GitHub Releases chính thức (beluga1401/rb-lms-auto-tool)"
   ]
 }
