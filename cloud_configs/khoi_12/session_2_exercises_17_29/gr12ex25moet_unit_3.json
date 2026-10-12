@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Huỳnh Lê Phong Linh",
+    "account_name": "Bùi Thiên Ân",
     "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
     "class_key": "khoi_12",
@@ -10,34 +10,34 @@
     "quiz_title": "GR12EX25MOET UNIT 3",
     "quiz_key": "gr12ex25moet_unit_3",
     "cmid": "733940",
-    "course_id": "9692",
+    "course_id": "4775",
     "repo_path": "cloud_configs/khoi_12/session_2_exercises_17_29/gr12ex25moet_unit_3.json",
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 25,
-    "updated_at": "2026-10-12 19:45:57"
+    "updated_at": "2026-10-12 20:09:46"
   },
   "answers": [
     {
       "answer": "made it dirty or unsafe with unwanted substances",
-      "id": "question-1881732-7",
+      "id": "question-1879310-7",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the food remaining inside several containers contaminated the recycling bin, so the collected materials could not be recycled as intended.",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "made it dirty or unsafe with unwanted substances"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The food remaining inside several containers contaminated the recycling bin, so the collected materials could not be recycled as intended.",
-      "questionId": "question-1881732-7",
+      "questionId": "question-1879310-7",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the food remaining inside several containers contaminated the recycling bin, so the collected materials could not be recycled as intended.",
-      "questionNumber": 13,
+      "questionNumber": 9,
       "selects": [],
       "rightAnswer": "made it dirty or unsafe with unwanted substances",
       "dragdrops": []
     },
     {
       "answer": "materials used to wrap or protect products",
-      "id": "question-1881732-1",
+      "id": "question-1879310-1",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the environmental club asked students to choose products with less packaging, especially when several plastic bags and wrappers surrounded a single item.",
       "letter": "B",
@@ -45,203 +45,203 @@
         "materials used to wrap or protect products"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The environmental club asked students to choose products with less packaging, especially when several plastic bags and wrappers surrounded a single item.",
-      "questionId": "question-1881732-1",
+      "questionId": "question-1879310-1",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the environmental club asked students to choose products with less packaging, especially when several plastic bags and wrappers surrounded a single item.",
-      "questionNumber": 8,
+      "questionNumber": 11,
       "selects": [],
       "rightAnswer": "materials used to wrap or protect products",
       "dragdrops": []
     },
     {
       "answer": "an area where unwanted materials are buried",
-      "id": "question-1881732-6",
+      "id": "question-1879310-6",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the recyclable materials were taken to a landfill after leftover food made the contents of the recycling bin unsuitable for recycling.",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "an area where unwanted materials are buried"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The recyclable materials were taken to a landfill after leftover food made the contents of the recycling bin unsuitable for recycling.",
-      "questionId": "question-1881732-6",
+      "questionId": "question-1879310-6",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the recyclable materials were taken to a landfill after leftover food made the contents of the recycling bin unsuitable for recycling.",
-      "questionNumber": 3,
+      "questionNumber": 5,
       "selects": [],
       "rightAnswer": "an area where unwanted materials are buried",
       "dragdrops": []
     },
     {
       "answer": "the quality of being easy and suitable to use",
-      "id": "question-1881732-4",
+      "id": "question-1879310-4",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.students valued the convenience of buying water from a vending machine, although they recognised that bringing reusable bottles would reduce plastic waste.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "the quality of being easy and suitable to use"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.Students valued the convenience of buying water from a vending machine, although they recognised that bringing reusable bottles would reduce plastic waste.",
-      "questionId": "question-1881732-4",
+      "questionId": "question-1879310-4",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.students valued the convenience of buying water from a vending machine, although they recognised that bringing reusable bottles would reduce plastic waste.",
-      "questionNumber": 4,
+      "questionNumber": 6,
       "selects": [],
       "rightAnswer": "the quality of being easy and suitable to use",
       "dragdrops": []
     },
     {
       "answer": "remove it or dispose of it",
-      "id": "question-1881732-14",
+      "id": "question-1879310-14",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the supermarket provides cardboard boxes so that shoppers can get rid of unnecessary plastic packaging before taking their purchases home.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "remove it or dispose of it"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The supermarket provides cardboard boxes so that shoppers can get rid of unnecessary plastic packaging before taking their purchases home.",
-      "questionId": "question-1881732-14",
+      "questionId": "question-1879310-14",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the supermarket provides cardboard boxes so that shoppers can get rid of unnecessary plastic packaging before taking their purchases home.",
-      "questionNumber": 9,
+      "questionNumber": 8,
       "selects": [],
       "rightAnswer": "remove it or dispose of it",
       "dragdrops": []
     },
     {
       "answer": "a future in which resources and the environment remain protected",
-      "id": "question-1881732-15",
+      "id": "question-1879310-15",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the green day leaflet encourages students to save resources now and protect the environment over time, contributing to a sustainable future.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "a future in which resources and the environment remain protected"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The Green Day leaflet encourages students to save resources now and protect the environment over time, contributing to a sustainable future.",
-      "questionId": "question-1881732-15",
+      "questionId": "question-1879310-15",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the green day leaflet encourages students to save resources now and protect the environment over time, contributing to a sustainable future.",
-      "questionNumber": 6,
+      "questionNumber": 15,
       "selects": [],
       "rightAnswer": "a future in which resources and the environment remain protected",
       "dragdrops": []
     },
     {
       "answer": "clean their insides with water",
-      "id": "question-1881732-12",
+      "id": "question-1879310-12",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.before recycling the empty food containers, students should rinse them out to remove food remaining inside.",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "clean their insides with water"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.Before recycling the empty food containers, students should rinse them out to remove food remaining inside.",
-      "questionId": "question-1881732-12",
+      "questionId": "question-1879310-12",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.before recycling the empty food containers, students should rinse them out to remove food remaining inside.",
-      "questionNumber": 2,
+      "questionNumber": 12,
       "selects": [],
       "rightAnswer": "clean their insides with water",
       "dragdrops": []
     },
     {
       "answer": "useful materials and supplies people can use",
-      "id": "question-1881732-3",
+      "id": "question-1879310-3",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the class hopes to save resources by reducing unnecessary use of water, paper, and electricity.",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "useful materials and supplies people can use"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The class hopes to save resources by reducing unnecessary use of water, paper, and electricity.",
-      "questionId": "question-1881732-3",
+      "questionId": "question-1879310-3",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the class hopes to save resources by reducing unnecessary use of water, paper, and electricity.",
-      "questionNumber": 15,
+      "questionNumber": 1,
       "selects": [],
       "rightAnswer": "useful materials and supplies people can use",
       "dragdrops": []
     },
     {
       "answer": "break down naturally into smaller substances",
-      "id": "question-1881732-5",
+      "id": "question-1879310-5",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.unlike fruit peels, many plastic items take a very long time to decompose after they are discarded.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "break down naturally into smaller substances"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.Unlike fruit peels, many plastic items take a very long time to decompose after they are discarded.",
-      "questionId": "question-1881732-5",
+      "questionId": "question-1879310-5",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.unlike fruit peels, many plastic items take a very long time to decompose after they are discarded.",
-      "questionNumber": 7,
+      "questionNumber": 3,
       "selects": [],
       "rightAnswer": "break down naturally into smaller substances",
       "dragdrops": []
     },
     {
       "answer": "causing little or no harm to the environment",
-      "id": "question-1881732-2",
+      "id": "question-1879310-2",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.using the blank side of old paper for notes is an eco-friendly choice because it reduces the need for new sheets.",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "causing little or no harm to the environment"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.Using the blank side of old paper for notes is an eco-friendly choice because it reduces the need for new sheets.",
-      "questionId": "question-1881732-2",
+      "questionId": "question-1879310-2",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.using the blank side of old paper for notes is an eco-friendly choice because it reduces the need for new sheets.",
-      "questionNumber": 5,
+      "questionNumber": 14,
       "selects": [],
       "rightAnswer": "causing little or no harm to the environment",
       "dragdrops": []
     },
     {
       "answer": "food that remains after a meal",
-      "id": "question-1881732-9",
+      "id": "question-1879310-9",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.instead of throwing away the leftovers, mai put the food remaining after dinner into a container and kept it in the fridge.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "food that remains after a meal"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.Instead of throwing away the leftovers, Mai put the food remaining after dinner into a container and kept it in the fridge.",
-      "questionId": "question-1881732-9",
+      "questionId": "question-1879310-9",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.instead of throwing away the leftovers, mai put the food remaining after dinner into a container and kept it in the fridge.",
-      "questionNumber": 11,
+      "questionNumber": 2,
       "selects": [],
       "rightAnswer": "food that remains after a meal",
       "dragdrops": []
     },
     {
       "answer": "in a way that avoids unnecessary waste",
-      "id": "question-1881732-10",
+      "id": "question-1879310-10",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the class uses electricity more efficiently by switching off lights and air conditioners when nobody needs them.",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "in a way that avoids unnecessary waste"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The class uses electricity more efficiently by switching off lights and air conditioners when nobody needs them.",
-      "questionId": "question-1881732-10",
+      "questionId": "question-1879310-10",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the class uses electricity more efficiently by switching off lights and air conditioners when nobody needs them.",
-      "questionNumber": 10,
+      "questionNumber": 7,
       "selects": [],
       "rightAnswer": "in a way that avoids unnecessary waste",
       "dragdrops": []
     },
     {
       "answer": "decomposed organic material added to improve soil",
-      "id": "question-1881732-11",
+      "id": "question-1879310-11",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the gardening group used compost made from naturally decomposed plant and food material to improve the soil around the school’s plants.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "decomposed organic material added to improve soil"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The gardening group used compost made from naturally decomposed plant and food material to improve the soil around the school’s plants.",
-      "questionId": "question-1881732-11",
+      "questionId": "question-1879310-11",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the gardening group used compost made from naturally decomposed plant and food material to improve the soil around the school’s plants.",
-      "questionNumber": 12,
+      "questionNumber": 13,
       "selects": [],
       "rightAnswer": "decomposed organic material added to improve soil",
       "dragdrops": []
     },
     {
       "answer": "capable of being processed and used again",
-      "id": "question-1881732-8",
+      "id": "question-1879310-8",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.the club checked which containers were recyclable before deciding what to place in the recycling bin.",
       "letter": "B",
@@ -249,101 +249,101 @@
         "capable of being processed and used again"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.The club checked which containers were recyclable before deciding what to place in the recycling bin.",
-      "questionId": "question-1881732-8",
+      "questionId": "question-1879310-8",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.the club checked which containers were recyclable before deciding what to place in the recycling bin.",
-      "questionNumber": 14,
+      "questionNumber": 10,
       "selects": [],
       "rightAnswer": "capable of being processed and used again",
       "dragdrops": []
     },
     {
       "answer": "the amount of carbon dioxide associated with its activities",
-      "id": "question-1881732-13",
+      "id": "question-1879310-13",
       "inputs": [],
       "legacyQKey": "choose the option that is closest in meaning to the bold word or phrase.turning off unnecessary electrical devices is one action the class proposes to reduce its carbon footprint.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "the amount of carbon dioxide associated with its activities"
       ],
       "question": "Choose the option that is CLOSEST in meaning to the bold word or phrase.Turning off unnecessary electrical devices is one action the class proposes to reduce its carbon footprint.",
-      "questionId": "question-1881732-13",
+      "questionId": "question-1879310-13",
       "questionKey": "choose the option that is closest in meaning to the bold word or phrase.turning off unnecessary electrical devices is one action the class proposes to reduce its carbon footprint.",
-      "questionNumber": 1,
+      "questionNumber": 4,
       "selects": [],
       "rightAnswer": "the amount of carbon dioxide associated with its activities",
       "dragdrops": []
     },
     {
       "answer": "switch on",
-      "id": "question-1881732-24",
+      "id": "question-1879310-24",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.the last student leaving the classroom should turn off the lights so that they do not remain on in an empty room.",
-      "letter": "A",
+      "letter": "C",
       "options": [
         "switch on"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.The last student leaving the classroom should turn off the lights so that they do not remain on in an empty room.",
-      "questionId": "question-1881732-24",
+      "questionId": "question-1879310-24",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.the last student leaving the classroom should turn off the lights so that they do not remain on in an empty room.",
-      "questionNumber": 16,
+      "questionNumber": 20,
       "selects": [],
       "rightAnswer": "switch on",
       "dragdrops": []
     },
     {
       "answer": "harmless",
-      "id": "question-1881732-21",
+      "id": "question-1879310-21",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.the clil discussion examines the harmful effects that some festival activities can have on the environment.",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "harmless"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.The CLIL discussion examines the harmful effects that some festival activities can have on the environment.",
-      "questionId": "question-1881732-21",
+      "questionId": "question-1879310-21",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.the clil discussion examines the harmful effects that some festival activities can have on the environment.",
-      "questionNumber": 22,
+      "questionNumber": 18,
       "selects": [],
       "rightAnswer": "harmless",
       "dragdrops": []
     },
     {
       "answer": "environmentally damaging",
-      "id": "question-1881732-17",
+      "id": "question-1879310-17",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.the club wants an eco-friendly way to organise green day, with less unnecessary packaging and fewer disposable products.",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "environmentally damaging"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.The club wants an eco-friendly way to organise Green Day, with less unnecessary packaging and fewer disposable products.",
-      "questionId": "question-1881732-17",
+      "questionId": "question-1879310-17",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.the club wants an eco-friendly way to organise green day, with less unnecessary packaging and fewer disposable products.",
-      "questionNumber": 25,
+      "questionNumber": 22,
       "selects": [],
       "rightAnswer": "environmentally damaging",
       "dragdrops": []
     },
     {
       "answer": "waste natural resources",
-      "id": "question-1881732-23",
+      "id": "question-1879310-23",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.reusing the blank side of paper helps students save natural resources rather than consume new materials unnecessarily.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "waste natural resources"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.Reusing the blank side of paper helps students save natural resources rather than consume new materials unnecessarily.",
-      "questionId": "question-1881732-23",
+      "questionId": "question-1879310-23",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.reusing the blank side of paper helps students save natural resources rather than consume new materials unnecessarily.",
-      "questionNumber": 21,
+      "questionNumber": 24,
       "selects": [],
       "rightAnswer": "waste natural resources",
       "dragdrops": []
     },
     {
       "answer": "unable to be recycled",
-      "id": "question-1881732-19",
+      "id": "question-1879310-19",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.the school collects recyclable materials separately so that they can be processed for use again.",
       "letter": "A",
@@ -351,24 +351,24 @@
         "unable to be recycled"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.The school collects recyclable materials separately so that they can be processed for use again.",
-      "questionId": "question-1881732-19",
+      "questionId": "question-1879310-19",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.the school collects recyclable materials separately so that they can be processed for use again.",
-      "questionNumber": 20,
+      "questionNumber": 19,
       "selects": [],
       "rightAnswer": "unable to be recycled",
       "dragdrops": []
     },
     {
       "answer": "wastefully",
-      "id": "question-1881732-16",
+      "id": "question-1879310-16",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.the class uses electricity efficiently by switching off devices whenever they are no longer needed.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "wastefully"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.The class uses electricity efficiently by switching off devices whenever they are no longer needed.",
-      "questionId": "question-1881732-16",
+      "questionId": "question-1879310-16",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.the class uses electricity efficiently by switching off devices whenever they are no longer needed.",
       "questionNumber": 23,
       "selects": [],
@@ -377,68 +377,68 @@
     },
     {
       "answer": "intended for one use",
-      "id": "question-1881732-20",
+      "id": "question-1879310-20",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.students are encouraged to bring reusable water bottles instead of buying a new bottle each day.",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "intended for one use"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.Students are encouraged to bring reusable water bottles instead of buying a new bottle each day.",
-      "questionId": "question-1881732-20",
+      "questionId": "question-1879310-20",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.students are encouraged to bring reusable water bottles instead of buying a new bottle each day.",
-      "questionNumber": 18,
+      "questionNumber": 21,
       "selects": [],
       "rightAnswer": "intended for one use",
       "dragdrops": []
     },
     {
       "answer": "make it dirty",
-      "id": "question-1881732-25",
+      "id": "question-1879310-25",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.before presenting their green day leaflets, the students will clean up the classroom by removing rubbish and putting materials in order.",
-      "letter": "A",
+      "letter": "C",
       "options": [
         "make it dirty"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.Before presenting their Green Day leaflets, the students will clean up the classroom by removing rubbish and putting materials in order.",
-      "questionId": "question-1881732-25",
+      "questionId": "question-1879310-25",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.before presenting their green day leaflets, the students will clean up the classroom by removing rubbish and putting materials in order.",
-      "questionNumber": 24,
+      "questionNumber": 25,
       "selects": [],
       "rightAnswer": "make it dirty",
       "dragdrops": []
     },
     {
       "answer": "free from impurities",
-      "id": "question-1881732-18",
+      "id": "question-1879310-18",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.food left inside the containers made the collected materials contaminated, so they could not be recycled as intended.",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "free from impurities"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.Food left inside the containers made the collected materials contaminated, so they could not be recycled as intended.",
-      "questionId": "question-1881732-18",
+      "questionId": "question-1879310-18",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.food left inside the containers made the collected materials contaminated, so they could not be recycled as intended.",
-      "questionNumber": 17,
+      "questionNumber": 16,
       "selects": [],
       "rightAnswer": "free from impurities",
       "dragdrops": []
     },
     {
       "answer": "unable to continue without exhausting resources",
-      "id": "question-1881732-22",
+      "id": "question-1879310-22",
       "inputs": [],
       "legacyQKey": "choose the option that is opposite in meaning to the bold word or phrase.the leaflet promotes a sustainable way of using resources so that useful supplies remain available over time.",
-      "letter": "C",
+      "letter": "A",
       "options": [
         "unable to continue without exhausting resources"
       ],
       "question": "Choose the option that is OPPOSITE in meaning to the bold word or phrase.The leaflet promotes a sustainable way of using resources so that useful supplies remain available over time.",
-      "questionId": "question-1881732-22",
+      "questionId": "question-1879310-22",
       "questionKey": "choose the option that is opposite in meaning to the bold word or phrase.the leaflet promotes a sustainable way of using resources so that useful supplies remain available over time.",
-      "questionNumber": 19,
+      "questionNumber": 17,
       "selects": [],
       "rightAnswer": "unable to continue without exhausting resources"
     }
