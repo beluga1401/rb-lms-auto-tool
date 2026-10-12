@@ -4,6 +4,7 @@ import json
 import time
 import shutil
 import subprocess
+import ssl
 import urllib.request
 import urllib.error
 from PyQt6.QtWidgets import (
@@ -14,10 +15,26 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtCore import Qt, QThread, pyqtSignal, QTimer
 from PyQt6.QtGui import QFont, QIcon
 
+
+def _make_unverified_ssl_context():
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    return ctx
+
+
+_SSL_CTX = _make_unverified_ssl_context()
+ssl._create_default_https_context = _make_unverified_ssl_context
+urllib.request.install_opener(
+    urllib.request.build_opener(
+        urllib.request.HTTPSHandler(context=_SSL_CTX)
+    )
+)
+
 APP_NAME = "RB LMS Auto Tool"
 EXE_NAME = "RB_LMS_Auto_Tool_NoKey.exe"
 SETUP_EXE_NAME = "RB_LMS_Setup.exe"
-DEFAULT_VERSION = "4.7.1"
+DEFAULT_VERSION = "4.7.2"
 DEFAULT_GITHUB_REPO = "beluga1401/rb-lms-auto-tool"
 
 INSTALL_DIR = os.path.join(os.environ.get("LOCALAPPDATA", os.path.expanduser("~")), "RB_LMS_Auto_Tool")
@@ -140,7 +157,7 @@ class UpdateCheckWorker(QThread):
         if custom_url:
             try:
                 req = urllib.request.Request(custom_url, headers=headers)
-                with urllib.request.urlopen(req, timeout=8) as resp:
+                with urllib.request.urlopen(req, timeout=8, context=_SSL_CTX) as resp:
                     data = json.loads(resp.read().decode("utf-8"))
                     result["online"] = True
                     result["version"] = str(data.get("version") or DEFAULT_VERSION).lstrip("vV")
@@ -161,7 +178,7 @@ class UpdateCheckWorker(QThread):
             api_url = f"https://api.github.com/repos/{repo}/releases/latest"
             try:
                 req = urllib.request.Request(api_url, headers=headers)
-                with urllib.request.urlopen(req, timeout=8) as resp:
+                with urllib.request.urlopen(req, timeout=8, context=_SSL_CTX) as resp:
                     rel = json.loads(resp.read().decode("utf-8"))
                     tag = str(rel.get("tag_name") or DEFAULT_VERSION).lstrip("vV")
                     body = str(rel.get("body") or "").strip()
@@ -178,6 +195,8 @@ class UpdateCheckWorker(QThread):
                             if aname.lower().endswith(".exe") and "setup" not in aname.lower():
                                 dl_url = str(asset.get("browser_download_url") or "")
                                 break
+                    if not dl_url:
+                        dl_url = f"https://github.com/{repo}/releases/latest/download/{EXE_NAME}"
                     result["online"] = True
                     result["version"] = tag or DEFAULT_VERSION
                     result["download_url"] = dl_url
@@ -194,7 +213,7 @@ class UpdateCheckWorker(QThread):
                 raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/version.json"
                 try:
                     req = urllib.request.Request(raw_url, headers=headers)
-                    with urllib.request.urlopen(req, timeout=6) as resp:
+                    with urllib.request.urlopen(req, timeout=6, context=_SSL_CTX) as resp:
                         data = json.loads(resp.read().decode("utf-8"))
                         result["online"] = True
                         result["version"] = str(data.get("version") or DEFAULT_VERSION).lstrip("vV")
@@ -222,6 +241,9 @@ class UpdateCheckWorker(QThread):
                 result["download_url"] = f"file://{cand_exe}"
                 result["source"] = "local_bundle"
                 break
+
+        if not result["download_url"] and repo and "/" in repo:
+            result["download_url"] = f"https://github.com/{repo}/releases/latest/download/{EXE_NAME}"
 
         self.finished_signal.emit(result)
 
@@ -305,52 +327,67 @@ class InstallUpdateWorker(QThread):
             local_source = ""
             if dl_url.startswith("file://"):
                 local_source = dl_url.replace("file://", "")
+            elif not dl_url:
+                dl_url = f"https://github.com/{DEFAULT_GITHUB_REPO}/releases/latest/download/{EXE_NAME}"
 
             # Try downloading from GitHub URL if http/https
             downloaded_ok = False
             if dl_url.startswith("http://") or dl_url.startswith("https://"):
-                try:
-                    headers = {"User-Agent": "RB-LMS-Updater/4.5"}
-                    if self.token:
-                        headers["Authorization"] = f"Bearer {self.token}"
-                    req = urllib.request.Request(dl_url, headers=headers)
-                    with urllib.request.urlopen(req, timeout=30) as resp:
-                        total_size = int(resp.headers.get("Content-Length", 0) or 0)
-                        downloaded = 0
-                        chunk_size = 64 * 1024
-                        t_start = time.time()
-                        with open(temp_exe, "wb") as out_f:
-                            while True:
-                                chunk = resp.read(chunk_size)
-                                if not chunk:
-                                    break
-                                out_f.write(chunk)
-                                downloaded += len(chunk)
-                                elapsed = max(0.1, time.time() - t_start)
-                                speed_mb = (downloaded / (1024 * 1024)) / elapsed
-                                if total_size > 0:
-                                    pct = min(92, int(10 + (downloaded / total_size) * 82))
-                                    mb_cur = downloaded / (1024 * 1024)
-                                    mb_tot = total_size / (1024 * 1024)
-                                    self.progress_signal.emit(
-                                        pct,
-                                        f"Đang tải bản cập nhật: {mb_cur:.1f} / {mb_tot:.1f} MB ({speed_mb:.1f} MB/s)..."
-                                    )
-                                else:
-                                    mb_cur = downloaded / (1024 * 1024)
-                                    self.progress_signal.emit(
-                                        50,
-                                        f"Đang tải bản cập nhật: {mb_cur:.1f} MB ({speed_mb:.1f} MB/s)..."
-                                    )
-                    if os.path.exists(temp_exe) and os.path.getsize(temp_exe) > 100 * 1024:
-                        shutil.move(temp_exe, target_exe)
-                        downloaded_ok = True
-                except Exception as net_err:
-                    if os.path.exists(temp_exe):
-                        try:
-                            os.remove(temp_exe)
-                        except Exception:
-                            pass
+                candidate_urls = [dl_url]
+                fallback_tag_url = f"https://github.com/{DEFAULT_GITHUB_REPO}/releases/download/v{str(self.target_version).lstrip('vV')}/{EXE_NAME}"
+                fallback_latest_url = f"https://github.com/{DEFAULT_GITHUB_REPO}/releases/latest/download/{EXE_NAME}"
+                for u in (fallback_tag_url, fallback_latest_url):
+                    if u not in candidate_urls:
+                        candidate_urls.append(u)
+
+                last_net_err = None
+                for try_url in candidate_urls:
+                    try:
+                        headers = {"User-Agent": "RB-LMS-Updater/4.7.2"}
+                        if self.token and "api.github.com" in try_url:
+                            headers["Authorization"] = f"Bearer {self.token}"
+                        req = urllib.request.Request(try_url, headers=headers)
+                        with urllib.request.urlopen(req, timeout=60, context=_SSL_CTX) as resp:
+                            total_size = int(resp.headers.get("Content-Length", 0) or 0)
+                            downloaded = 0
+                            chunk_size = 128 * 1024
+                            t_start = time.time()
+                            with open(temp_exe, "wb") as out_f:
+                                while True:
+                                    chunk = resp.read(chunk_size)
+                                    if not chunk:
+                                        break
+                                    out_f.write(chunk)
+                                    downloaded += len(chunk)
+                                    elapsed = max(0.1, time.time() - t_start)
+                                    speed_mb = (downloaded / (1024 * 1024)) / elapsed
+                                    if total_size > 0:
+                                        pct = min(92, int(10 + (downloaded / total_size) * 82))
+                                        mb_cur = downloaded / (1024 * 1024)
+                                        mb_tot = total_size / (1024 * 1024)
+                                        self.progress_signal.emit(
+                                            pct,
+                                            f"Đang tải bản cập nhật: {mb_cur:.1f} / {mb_tot:.1f} MB ({speed_mb:.1f} MB/s)..."
+                                        )
+                                    else:
+                                        mb_cur = downloaded / (1024 * 1024)
+                                        self.progress_signal.emit(
+                                            50,
+                                            f"Đang tải bản cập nhật: {mb_cur:.1f} MB ({speed_mb:.1f} MB/s)..."
+                                        )
+                        if os.path.exists(temp_exe) and os.path.getsize(temp_exe) > 100 * 1024:
+                            shutil.move(temp_exe, target_exe)
+                            downloaded_ok = True
+                            break
+                    except Exception as net_err:
+                        last_net_err = net_err
+                        if os.path.exists(temp_exe):
+                            try:
+                                os.remove(temp_exe)
+                            except Exception:
+                                pass
+
+                if not downloaded_ok:
                     # Check if local file exists as fallback
                     for cand_dir in [
                         os.path.dirname(os.path.abspath(sys.argv[0])),
@@ -363,7 +400,7 @@ class InstallUpdateWorker(QThread):
                             local_source = cand
                             break
                     if not local_source:
-                        self.finished_signal.emit(False, f"Không thể tải từ GitHub ({net_err}). Hãy kiểm tra Repo hoặc kết nối mạng.")
+                        self.finished_signal.emit(False, f"Không thể tải từ GitHub ({last_net_err}). Hãy kiểm tra Repo hoặc kết nối mạng.")
                         return
 
             if not downloaded_ok:
@@ -429,7 +466,7 @@ class GitHubPublishWorker(QThread):
             headers["Content-Type"] = "application/json"
 
         req = urllib.request.Request(url, data=data, headers=headers, method=method)
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
+        with urllib.request.urlopen(req, timeout=timeout, context=_SSL_CTX) as resp:
             body = resp.read().decode("utf-8")
             return json.loads(body) if body else {}
 
