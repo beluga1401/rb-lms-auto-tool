@@ -1,5 +1,5 @@
 {
-  "version": "4.7.4",
+  "version": "4.7.5",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Khóa kiểm duyệt Tên Config trùng khớp 100% với bài làm hiện tại: Chỉ tải và áp dụng đáp án khi tên bài thi hiện tại trùng chuẩn 100% với tên Config (tuyệt đối không lấy nhầm bài khác như UNIT 3 sang UNIT 4 hay PART 1 sang PART 2)",
-    "Đồng bộ & dùng chung Cloud Config theo SỐ KHỐI (khoi_6..khoi_12): Mọi lớp cùng khối (12XH, 12TN, 9A1, 9A2, 9B, 8, 7...) tự động dùng chung 1 bộ Config khi trùng tên bài làm",
-    "Fix lỗi SSL: CERTIFICATE_VERIFY_FAILED (unable to get local issuer certificate) trên trình cài đặt RB_LMS_Setup.exe, GitHub Cloud Config và Gemini API",
-    "Fix triệt để lỗi 'Không tìm thấy đáp án' khi cào đáp án trên trang Review Moodle 4.x / VnResource LMS",
-    "Nút ☁️ Auto Cloud Config: Tự động nhận diện Số Khối, Unit, Bài thi -> Tải Config từ GitHub Cloud -> Điền hết các trang & Tự động nộp bài"
+    "Fix triệt để chức năng '📥 Cào đáp án từ bài đã nộp (Review)' cho dạng bài gộp nhiều ô điền từ (Cloze Questions 23-30, 31-40) và tự động POST trực tiếp lên GitHub Cloud",
+    "Fix lỗi 1 ô sai (✗) trong đoạn văn Cloze làm bỏ sót 9 ô đúng (✓) còn lại khi cào đáp án trên trang Review (ví dụ bài đạt 17/18 = 94.44%)",
+    "Fix lỗi kẹt ở màn hình 'Đã hoàn thành lần làm này.' không tự bấm nút 'Tiếp tục' khi chạy AI 1-Touch 100 Điểm",
+    "Khóa kiểm duyệt Tên Config trùng khớp 100% với bài làm hiện tại: Chỉ tải và áp dụng đáp án khi tên bài thi hiện tại trùng chuẩn 100% với tên Config và đúng Số Khối (khoi_6..khoi_12)",
+    "Fix lỗi SSL: CERTIFICATE_VERIFY_FAILED trên trình cài đặt RB_LMS_Setup.exe, GitHub Cloud Config và Gemini API"
   ]
 }
