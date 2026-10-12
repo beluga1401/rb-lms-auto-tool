@@ -1,5 +1,5 @@
 {
-  "version": "4.7.3",
+  "version": "4.7.4",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Đồng bộ & dùng chung Cloud Config theo SỐ KHỐI (khoi_6..khoi_12): Mọi lớp cùng khối (12XH, 12TN, 9A1, 9A2, 9B, 8, 7...) tự động dùng chung 1 bộ Config dù khác mã lớp hay khác CMID",
+    "Khóa kiểm duyệt Tên Config trùng khớp 100% với bài làm hiện tại: Chỉ tải và áp dụng đáp án khi tên bài thi hiện tại trùng chuẩn 100% với tên Config (tuyệt đối không lấy nhầm bài khác như UNIT 3 sang UNIT 4 hay PART 1 sang PART 2)",
+    "Đồng bộ & dùng chung Cloud Config theo SỐ KHỐI (khoi_6..khoi_12): Mọi lớp cùng khối (12XH, 12TN, 9A1, 9A2, 9B, 8, 7...) tự động dùng chung 1 bộ Config khi trùng tên bài làm",
     "Fix lỗi SSL: CERTIFICATE_VERIFY_FAILED (unable to get local issuer certificate) trên trình cài đặt RB_LMS_Setup.exe, GitHub Cloud Config và Gemini API",
     "Fix triệt để lỗi 'Không tìm thấy đáp án' khi cào đáp án trên trang Review Moodle 4.x / VnResource LMS",
-    "Nút ☁️ Auto Cloud Config: Tự động nhận diện Số Khối, Unit, Bài thi -> Tải Config từ GitHub Cloud -> Điền hết các trang & Tự động nộp bài",
-    "Tự động đồng bộ Config 95-100 điểm lên kho GitHub Cloud (beluga1401/rb-lms-auto-tool) khi đạt 95-100% hoặc khi cào đáp án bài đã nộp"
+    "Nút ☁️ Auto Cloud Config: Tự động nhận diện Số Khối, Unit, Bài thi -> Tải Config từ GitHub Cloud -> Điền hết các trang & Tự động nộp bài"
   ]
 }
