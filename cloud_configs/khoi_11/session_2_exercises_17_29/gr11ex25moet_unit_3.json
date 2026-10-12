@@ -1,0 +1,694 @@
+{
+  "metadata": {
+    "account_name": "Trịnh Quốc Tiến",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR11EX25MOET UNIT 3",
+    "quiz_key": "gr11ex25moet_unit_3",
+    "cmid": "733918",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex25moet_unit_3.json",
+    "score": "96.00 trên 100.00",
+    "score_pct": 96.0,
+    "question_count": 42,
+    "updated_at": "2026-10-12 21:58:09"
+  },
+  "answers": [
+    {
+      "answer": "community",
+      "id": "question-1869655-4",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.shared spaces will allow neighbours to meet, help one another, and feel that they belong to the same local group. these relationships can build a strong sense of ________.",
+      "letter": "A",
+      "options": [
+        "community"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.Shared spaces will allow neighbours to meet, help one another, and feel that they belong to the same local group. These relationships can build a strong sense of ________.",
+      "questionId": "question-1869655-4",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.shared spaces will allow neighbours to meet, help one another, and feel that they belong to the same local group. these relationships can build a strong sense of ________.",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": "community"
+    },
+    {
+      "answer": "emissions",
+      "id": "question-1869655-3",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants its transport system to release fewer gases that contribute to climate change. its aim is to reduce greenhouse gas ________.",
+      "letter": "B",
+      "options": [
+        "emissions"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The group wants its transport system to release fewer gases that contribute to climate change. Its aim is to reduce greenhouse gas ________.",
+      "questionId": "question-1869655-3",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants its transport system to release fewer gases that contribute to climate change. its aim is to reduce greenhouse gas ________.",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": "emissions"
+    },
+    {
+      "answer": "save",
+      "id": "question-1869655-5",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.smart streetlights will stop operating when they are unnecessary. by avoiding wasted electricity, the system will help the city ________ energy.",
+      "letter": "D",
+      "options": [
+        "save"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.Smart streetlights will stop operating when they are unnecessary. By avoiding wasted electricity, the system will help the city ________ energy.",
+      "questionId": "question-1869655-5",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.smart streetlights will stop operating when they are unnecessary. by avoiding wasted electricity, the system will help the city ________ energy.",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": "save"
+    },
+    {
+      "answer": "turn off",
+      "id": "question-1869655-10",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when the streets are empty and the lights are no longer needed, the system will ________ the streetlights completely so that they stop operating.",
+      "letter": "C",
+      "options": [
+        "turn off"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.When the streets are empty and the lights are no longer needed, the system will ________ the streetlights completely so that they stop operating.",
+      "questionId": "question-1869655-10",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when the streets are empty and the lights are no longer needed, the system will ________ the streetlights completely so that they stop operating.",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": "turn off"
+    },
+    {
+      "answer": "collection",
+      "id": "question-1869655-8",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when sensors report that bins are full, teams will arrive to take the rubbish away. this information will help organize waste ________.",
+      "letter": "C",
+      "options": [
+        "collection"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.When sensors report that bins are full, teams will arrive to take the rubbish away. This information will help organize waste ________.",
+      "questionId": "question-1869655-8",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when sensors report that bins are full, teams will arrive to take the rubbish away. this information will help organize waste ________.",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": "collection"
+    },
+    {
+      "answer": "get around",
+      "id": "question-1869655-9",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed transport network will connect different neighbourhoods, helping residents ________ more easily when travelling from one part of the city to another.",
+      "letter": "A",
+      "options": [
+        "get around"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The proposed transport network will connect different neighbourhoods, helping residents ________ more easily when travelling from one part of the city to another.",
+      "questionId": "question-1869655-9",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed transport network will connect different neighbourhoods, helping residents ________ more easily when travelling from one part of the city to another.",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": "get around"
+    },
+    {
+      "answer": "solve",
+      "id": "question-1869655-7",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed homes will provide suitable accommodation for residents who cannot currently find it. the group hopes this plan will help ________ housing problems.",
+      "letter": "D",
+      "options": [
+        "solve"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The proposed homes will provide suitable accommodation for residents who cannot currently find it. The group hopes this plan will help ________ housing problems.",
+      "questionId": "question-1869655-7",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed homes will provide suitable accommodation for residents who cannot currently find it. the group hopes this plan will help ________ housing problems.",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": "solve"
+    },
+    {
+      "answer": "protect",
+      "id": "question-1869655-6",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants residents’ private details to remain safe from unauthorised use. its smart services should therefore ________ personal information.",
+      "letter": "D",
+      "options": [
+        "protect"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The group wants residents’ private details to remain safe from unauthorised use. Its smart services should therefore ________ personal information.",
+      "questionId": "question-1869655-6",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants residents’ private details to remain safe from unauthorised use. its smart services should therefore ________ personal information.",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": "protect"
+    },
+    {
+      "answer": "pollution",
+      "id": "question-1869655-13",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the transport section of the poster explains how the proposed system could help reduce air ________ in busy urban areas.",
+      "letter": "C",
+      "options": [
+        "pollution"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. The transport section of the poster explains how the proposed system could help reduce air ________ in busy urban areas.",
+      "questionId": "question-1869655-13",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the transport section of the poster explains how the proposed system could help reduce air ________ in busy urban areas.",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": "pollution"
+    },
+    {
+      "answer": "protection",
+      "id": "question-1869655-18",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group identifies the ________ of personal information as an important consideration when planning smart services.",
+      "letter": "A",
+      "options": [
+        "protection"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The group identifies the ________ of personal information as an important consideration when planning smart services.",
+      "questionId": "question-1869655-18",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group identifies the ________ of personal information as an important consideration when planning smart services.",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": "protection"
+    },
+    {
+      "answer": "interaction",
+      "id": "question-1869655-16",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the group includes shared spaces in its design to encourage face-to-face ________ among neighbours.",
+      "letter": "C",
+      "options": [
+        "interaction"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. The group includes shared spaces in its design to encourage face-to-face ________ among neighbours.",
+      "questionId": "question-1869655-16",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the group includes shared spaces in its design to encourage face-to-face ________ among neighbours.",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": "interaction"
+    },
+    {
+      "answer": "sustainability",
+      "id": "question-1869655-12",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group explains that the long-term ________ of its proposed city depends on using resources carefully and limiting environmental harm.",
+      "letter": "B",
+      "options": [
+        "sustainability"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The group explains that the long-term ________ of its proposed city depends on using resources carefully and limiting environmental harm.",
+      "questionId": "question-1869655-12",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group explains that the long-term ________ of its proposed city depends on using resources carefully and limiting environmental harm.",
+      "questionNumber": 14,
+      "selects": [],
+      "rightAnswer": "sustainability"
+    },
+    {
+      "answer": "information",
+      "id": "question-1869655-19",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.before choosing the city’s features, students need accurate ________ about the benefits and possible disadvantages of smart technologies.",
+      "letter": "A",
+      "options": [
+        "information"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.Before choosing the city’s features, students need accurate ________ about the benefits and possible disadvantages of smart technologies.",
+      "questionId": "question-1869655-19",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.before choosing the city’s features, students need accurate ________ about the benefits and possible disadvantages of smart technologies.",
+      "questionNumber": 15,
+      "selects": [],
+      "rightAnswer": "information"
+    },
+    {
+      "answer": "renewable",
+      "id": "question-1869655-15",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the city proposal includes ________ energy sources, such as sunlight and wind, that are naturally replaced rather than permanently used up.",
+      "letter": "B",
+      "options": [
+        "renewable"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The city proposal includes ________ energy sources, such as sunlight and wind, that are naturally replaced rather than permanently used up.",
+      "questionId": "question-1869655-15",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the city proposal includes ________ energy sources, such as sunlight and wind, that are naturally replaced rather than permanently used up.",
+      "questionNumber": 16,
+      "selects": [],
+      "rightAnswer": "renewable"
+    },
+    {
+      "answer": "environmentally",
+      "id": "question-1869655-20",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group wants an ________ responsible city design that limits damage to nature while meeting residents’ needs.",
+      "letter": "B",
+      "options": [
+        "environmentally"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The group wants an ________ responsible city design that limits damage to nature while meeting residents’ needs.",
+      "questionId": "question-1869655-20",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group wants an ________ responsible city design that limits damage to nature while meeting residents’ needs.",
+      "questionNumber": 17,
+      "selects": [],
+      "rightAnswer": "environmentally"
+    },
+    {
+      "answer": "diverse",
+      "id": "question-1869655-14",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.to support biodiversity, the group plans green spaces that can provide a home for a ________ range of plants and animals.",
+      "letter": "D",
+      "options": [
+        "diverse"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.To support biodiversity, the group plans green spaces that can provide a home for a ________ range of plants and animals.",
+      "questionId": "question-1869655-14",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.to support biodiversity, the group plans green spaces that can provide a home for a ________ range of plants and animals.",
+      "questionNumber": 18,
+      "selects": [],
+      "rightAnswer": "diverse"
+    },
+    {
+      "answer": "decision",
+      "id": "question-1869655-11",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.after comparing several transport options, the group will make a final ________ about which system to include in its poster.",
+      "letter": "C",
+      "options": [
+        "decision"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.After comparing several transport options, the group will make a final ________ about which system to include in its poster.",
+      "questionId": "question-1869655-11",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.after comparing several transport options, the group will make a final ________ about which system to include in its poster.",
+      "questionNumber": 19,
+      "selects": [],
+      "rightAnswer": "decision"
+    },
+    {
+      "answer": "collection",
+      "id": "question-1869655-17",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.sensors will report when bins are full so that regular waste ________ can take place at suitable times.",
+      "letter": "C",
+      "options": [
+        "collection"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.Sensors will report when bins are full so that regular waste ________ can take place at suitable times.",
+      "questionId": "question-1869655-17",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.sensors will report when bins are full so that regular waste ________ can take place at suitable times.",
+      "questionNumber": 20,
+      "selects": [],
+      "rightAnswer": "collection"
+    },
+    {
+      "answer": "an area intended for walking where vehicles are usually excluded",
+      "id": "question-1869653-8",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the shopping street will become a pedestrian zone. people will be able to walk between shops without ordinary vehicle traffic passing through the area. the phrase pedestrian zone is closest in meaning to ________.",
+      "letter": "D",
+      "options": [
+        "an area intended for walking where vehicles are usually excluded"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. The shopping street will become a pedestrian zone. People will be able to walk between shops without ordinary vehicle traffic passing through the area. The phrase pedestrian zone is closest in meaning to ________.",
+      "questionId": "question-1869653-8",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the shopping street will become a pedestrian zone. people will be able to walk between shops without ordinary vehicle traffic passing through the area. the phrase pedestrian zone is closest in meaning to ________.",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": "an area intended for walking where vehicles are usually excluded"
+    },
+    {
+      "answer": "the variety of plants and animals in a place",
+      "id": "question-1869653-6",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the poster includes green spaces that can support different plants and animals. the group explains that these spaces will help maintain biodiversity. the word biodiversity is closest in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "the variety of plants and animals in a place"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. The poster includes green spaces that can support different plants and animals. The group explains that these spaces will help maintain biodiversity. The word biodiversity is closest in meaning to ________.",
+      "questionId": "question-1869653-6",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the poster includes green spaces that can support different plants and animals. the group explains that these spaces will help maintain biodiversity. the word biodiversity is closest in meaning to ________.",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": "the variety of plants and animals in a place"
+    },
+    {
+      "answer": "the process of selecting what should be done",
+      "id": "question-1869653-12",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. before choosing the city’s transport system, the group compares several options and their likely benefits. this decision-making requires careful thought rather than an immediate choice. the word decision-making is closest in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "the process of selecting what should be done"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. Before choosing the city’s transport system, the group compares several options and their likely benefits. This decision-making requires careful thought rather than an immediate choice. The word decision-making is closest in meaning to ________.",
+      "questionId": "question-1869653-12",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. before choosing the city’s transport system, the group compares several options and their likely benefits. this decision-making requires careful thought rather than an immediate choice. the word decision-making is closest in meaning to ________.",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": "the process of selecting what should be done"
+    },
+    {
+      "answer": "comfortable, safe, and suitable for people to live in",
+      "id": "question-1869653-9",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the group wants its city to be liveable, so its design includes convenient services, pleasant surroundings, and places where residents can move around safely. the word liveable is closest in meaning to ________.",
+      "letter": "C",
+      "options": [
+        "comfortable, safe, and suitable for people to live in"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. The group wants its city to be liveable, so its design includes convenient services, pleasant surroundings, and places where residents can move around safely. The word liveable is closest in meaning to ________.",
+      "questionId": "question-1869653-9",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the group wants its city to be liveable, so its design includes convenient services, pleasant surroundings, and places where residents can move around safely. the word liveable is closest in meaning to ________.",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": "comfortable, safe, and suitable for people to live in"
+    },
+    {
+      "answer": "the state of being free from unwanted observation",
+      "id": "question-1869653-11",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. some residents are concerned about their privacy because cameras in public areas may record where they go and what they do. the word privacy is closest in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "the state of being free from unwanted observation"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. Some residents are concerned about their privacy because cameras in public areas may record where they go and what they do. The word privacy is closest in meaning to ________.",
+      "questionId": "question-1869653-11",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. some residents are concerned about their privacy because cameras in public areas may record where they go and what they do. the word privacy is closest in meaning to ________.",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": "the state of being free from unwanted observation"
+    },
+    {
+      "answer": "a device that detects changes in surrounding conditions",
+      "id": "question-1869653-5",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. a sensor near a streetlight reacts to changes in light levels. this information helps the system decide when the light is needed. the word sensor is closest in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "a device that detects changes in surrounding conditions"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. A sensor near a streetlight reacts to changes in light levels. This information helps the system decide when the light is needed. The word sensor is closest in meaning to ________.",
+      "questionId": "question-1869653-5",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. a sensor near a streetlight reacts to changes in light levels. this information helps the system decide when the light is needed. the word sensor is closest in meaning to ________.",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": "a device that detects changes in surrounding conditions"
+    },
+    {
+      "answer": "the overall level of well-being that people experience",
+      "id": "question-1869653-10",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the presentation evaluates quality of life by considering residents’ comfort, health, and happiness rather than simply counting the city’s new buildings. the phrase quality of life is closest in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "the overall level of well-being that people experience"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. The presentation evaluates quality of life by considering residents’ comfort, health, and happiness rather than simply counting the city’s new buildings. The phrase quality of life is closest in meaning to ________.",
+      "questionId": "question-1869653-10",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the presentation evaluates quality of life by considering residents’ comfort, health, and happiness rather than simply counting the city’s new buildings. the phrase quality of life is closest in meaning to ________.",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": "the overall level of well-being that people experience"
+    },
+    {
+      "answer": "a feeling of belonging and connection to a local group",
+      "id": "question-1869653-15",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. in the proposed neighbourhood, residents will meet regularly, help one another, and feel that they belong. these relationships can strengthen their sense of community. the phrase sense of community is closest in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "a feeling of belonging and connection to a local group"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. In the proposed neighbourhood, residents will meet regularly, help one another, and feel that they belong. These relationships can strengthen their sense of community. The phrase sense of community is closest in meaning to ________.",
+      "questionId": "question-1869653-15",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. in the proposed neighbourhood, residents will meet regularly, help one another, and feel that they belong. these relationships can strengthen their sense of community. the phrase sense of community is closest in meaning to ________.",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": "a feeling of belonging and connection to a local group"
+    },
+    {
+      "answer": "illegal activity carried out through computers or the internet",
+      "id": "question-1869653-14",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the article warns that personal information may not always be protected. if someone uses a computer to steal that information illegally, this is an example of cybercrime. the word cybercrime is closest in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "illegal activity carried out through computers or the internet"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. The article warns that personal information may not always be protected. If someone uses a computer to steal that information illegally, this is an example of cybercrime. The word cybercrime is closest in meaning to ________.",
+      "questionId": "question-1869653-14",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the article warns that personal information may not always be protected. if someone uses a computer to steal that information illegally, this is an example of cybercrime. the word cybercrime is closest in meaning to ________.",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": "illegal activity carried out through computers or the internet"
+    },
+    {
+      "answer": "communicate or take part in activities with other people",
+      "id": "question-1869653-13",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. although smart devices can help with daily tasks, residents still need opportunities to interact. shared spaces allow them to talk and do things together. the word interact is closest in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "communicate or take part in activities with other people"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. Although smart devices can help with daily tasks, residents still need opportunities to interact. Shared spaces allow them to talk and do things together. The word interact is closest in meaning to ________.",
+      "questionId": "question-1869653-13",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. although smart devices can help with daily tasks, residents still need opportunities to interact. shared spaces allow them to talk and do things together. the word interact is closest in meaning to ________.",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": "communicate or take part in activities with other people"
+    },
+    {
+      "answer": "an urban area planned to reduce harm to nature",
+      "id": "question-1869653-1",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas.the group’s model is described as a green city. its transport and building plans aim to reduce pollution and the city’s negative impact on the environment. the phrase green city is closest in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "an urban area planned to reduce harm to nature"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas.The group’s model is described as a green city. Its transport and building plans aim to reduce pollution and the city’s negative impact on the environment. The phrase green city is closest in meaning to ________.",
+      "questionId": "question-1869653-1",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas.the group’s model is described as a green city. its transport and building plans aim to reduce pollution and the city’s negative impact on the environment. the phrase green city is closest in meaning to ________.",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": "an urban area planned to reduce harm to nature"
+    },
+    {
+      "answer": "producing food crops on the tops of city buildings",
+      "id": "question-1869653-7",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. residents in the proposed neighbourhood will use the tops of buildings to grow vegetables for food. the group calls this activity rooftop farming. the phrase rooftop farming is closest in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "producing food crops on the tops of city buildings"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. Residents in the proposed neighbourhood will use the tops of buildings to grow vegetables for food. The group calls this activity rooftop farming. The phrase rooftop farming is closest in meaning to ________.",
+      "questionId": "question-1869653-7",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. residents in the proposed neighbourhood will use the tops of buildings to grow vegetables for food. the group calls this activity rooftop farming. the phrase rooftop farming is closest in meaning to ________.",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": "producing food crops on the tops of city buildings"
+    },
+    {
+      "answer": "the total amount of carbon dioxide produced by a place",
+      "id": "question-1869653-4",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the team wants to lower its proposed city’s carbon footprint. it therefore considers how transport, buildings, and daily activities contribute to carbon dioxide production. the phrase carbon footprint is closest in meaning to ________.",
+      "letter": "C",
+      "options": [
+        "the total amount of carbon dioxide produced by a place"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. The team wants to lower its proposed city’s carbon footprint. It therefore considers how transport, buildings, and daily activities contribute to carbon dioxide production. The phrase carbon footprint is closest in meaning to ________.",
+      "questionId": "question-1869653-4",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. the team wants to lower its proposed city’s carbon footprint. it therefore considers how transport, buildings, and daily activities contribute to carbon dioxide production. the phrase carbon footprint is closest in meaning to ________.",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": "the total amount of carbon dioxide produced by a place"
+    },
+    {
+      "answer": "a person whose home is in an urban area",
+      "id": "question-1869653-3",
+      "inputs": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. as a city dweller, huy uses the underground to reach work and spends most of his daily life in an urban neighbourhood. the phrase city dweller is closest in meaning to ________.",
+      "letter": "D",
+      "options": [
+        "a person whose home is in an urban area"
+      ],
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.*Use the whole context. Pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. As a city dweller, Huy uses the underground to reach work and spends most of his daily life in an urban neighbourhood. The phrase city dweller is closest in meaning to ________.",
+      "questionId": "question-1869653-3",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.*use the whole context. pay attention to: - what a feature does;- why people use it;- examples and contrasts;- benefits or problems;- relationships between ideas. as a city dweller, huy uses the underground to reach work and spends most of his daily life in an urban neighbourhood. the phrase city dweller is closest in meaning to ________.",
+      "questionNumber": 14,
+      "selects": [],
+      "rightAnswer": "a person whose home is in an urban area"
+    },
+    {
+      "answer": "make harmful effects on the environment more serious",
+      "id": "question-1869653-20",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the city’s green transport plan aims to reduce negative impact on the environment by making travel less harmful.the phrase reduce negative impact is opposite in meaning to ________.",
+      "letter": "D",
+      "options": [
+        "make harmful effects on the environment more serious"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite. The city’s green transport plan aims to reduce negative impact on the environment by making travel less harmful.The phrase reduce negative impact is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-20",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the city’s green transport plan aims to reduce negative impact on the environment by making travel less harmful.the phrase reduce negative impact is opposite in meaning to ________.",
+      "questionNumber": 16,
+      "selects": [],
+      "rightAnswer": "make harmful effects on the environment more serious"
+    },
+    {
+      "answer": "causing serious damage to the natural environment",
+      "id": "question-1869653-17",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the proposed transport system is eco-friendly because its design aims to cause little damage to the natural world. the word eco-friendly is opposite in meaning to ________.",
+      "letter": "C",
+      "options": [
+        "causing serious damage to the natural environment"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite. The proposed transport system is eco-friendly because its design aims to cause little damage to the natural world. The word eco-friendly is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-17",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the proposed transport system is eco-friendly because its design aims to cause little damage to the natural world. the word eco-friendly is opposite in meaning to ________.",
+      "questionNumber": 17,
+      "selects": [],
+      "rightAnswer": "causing serious damage to the natural environment"
+    },
+    {
+      "answer": "unable to continue without causing serious environmental harm",
+      "id": "question-1869653-16",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the group wants its future city to be sustainable, so it selects systems that can continue operating without seriously harming the environment. the word sustainable is opposite in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "unable to continue without causing serious environmental harm"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite. The group wants its future city to be sustainable, so it selects systems that can continue operating without seriously harming the environment. The word sustainable is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-16",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the group wants its future city to be sustainable, so it selects systems that can continue operating without seriously harming the environment. the word sustainable is opposite in meaning to ________.",
+      "questionNumber": 18,
+      "selects": [],
+      "rightAnswer": "unable to continue without causing serious environmental harm"
+    },
+    {
+      "answer": "waste power by using it when unnecessary",
+      "id": "question-1869653-19",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the lighting system will save energy by stopping unnecessary electricity use when the streets are empty.the phrase save energy is opposite in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "waste power by using it when unnecessary"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite.The lighting system will save energy by stopping unnecessary electricity use when the streets are empty.The phrase save energy is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-19",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the lighting system will save energy by stopping unnecessary electricity use when the streets are empty.the phrase save energy is opposite in meaning to ________.",
+      "questionNumber": 19,
+      "selects": [],
+      "rightAnswer": "waste power by using it when unnecessary"
+    },
+    {
+      "answer": "make residents’ difficulties in finding suitable homes worse",
+      "id": "question-1869653-21",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the group proposes suitable homes for more residents to help solve housing problems in its ideal city.the phrase solve housing problems is opposite in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "make residents’ difficulties in finding suitable homes worse"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite. The group proposes suitable homes for more residents to help solve housing problems in its ideal city.The phrase solve housing problems is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-21",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite. the group proposes suitable homes for more residents to help solve housing problems in its ideal city.the phrase solve housing problems is opposite in meaning to ________.",
+      "questionNumber": 20,
+      "selects": [],
+      "rightAnswer": "make residents’ difficulties in finding suitable homes worse"
+    },
+    {
+      "answer": "switch the streetlights on so they start operating",
+      "id": "question-1869653-23",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the system will turn off the streetlights when they are no longer needed, so the lights will stop operating.the phrase turn off is opposite in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "switch the streetlights on so they start operating"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite.The system will turn off the streetlights when they are no longer needed, so the lights will stop operating.The phrase turn off is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-23",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the system will turn off the streetlights when they are no longer needed, so the lights will stop operating.the phrase turn off is opposite in meaning to ________.",
+      "questionNumber": 21,
+      "selects": [],
+      "rightAnswer": "switch the streetlights on so they start operating"
+    },
+    {
+      "answer": "exposure to unwanted observation by other people",
+      "id": "question-1869653-24",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.some residents value their privacy and do not want cameras recording their activities without their agreement.the word privacy is opposite in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "exposure to unwanted observation by other people"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite.Some residents value their privacy and do not want cameras recording their activities without their agreement.The word privacy is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-24",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.some residents value their privacy and do not want cameras recording their activities without their agreement.the word privacy is opposite in meaning to ________.",
+      "questionNumber": 22,
+      "selects": [],
+      "rightAnswer": "exposure to unwanted observation by other people"
+    },
+    {
+      "answer": "unpleasant and unsuitable for people to live in",
+      "id": "question-1869653-18",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.residents describe the proposed neighbourhood as liveable because it offers comfortable homes, convenient services, and safe places to walk.the word liveable is opposite in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "unpleasant and unsuitable for people to live in"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite.Residents describe the proposed neighbourhood as liveable because it offers comfortable homes, convenient services, and safe places to walk.The word liveable is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-18",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.residents describe the proposed neighbourhood as liveable because it offers comfortable homes, convenient services, and safe places to walk.the word liveable is opposite in meaning to ________.",
+      "questionNumber": 23,
+      "selects": [],
+      "rightAnswer": "unpleasant and unsuitable for people to live in"
+    },
+    {
+      "answer": "expose private details to use without authorisation",
+      "id": "question-1869653-22",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the group wants smart services to protect personal information, keeping residents’ private details safe from unauthorised use.the phrase protect personal information is opposite in meaning to ________.",
+      "letter": "B",
+      "options": [
+        "expose private details to use without authorisation"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite.The group wants smart services to protect personal information, keeping residents’ private details safe from unauthorised use.The phrase protect personal information is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-22",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the group wants smart services to protect personal information, keeping residents’ private details safe from unauthorised use.the phrase protect personal information is opposite in meaning to ________.",
+      "questionNumber": 24,
+      "selects": [],
+      "rightAnswer": "expose private details to use without authorisation"
+    },
+    {
+      "answer": "avoid communicating or taking part in activities with others",
+      "id": "question-1869653-25",
+      "inputs": [],
+      "legacyQKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the poster includes shared spaces where neighbours can interact by talking, exchanging ideas, and doing activities together.the word interact is opposite in meaning to ________.",
+      "letter": "A",
+      "options": [
+        "avoid communicating or taking part in activities with others"
+      ],
+      "question": "Read each sentence carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*Check the meaning in the sentence. A related expression is not necessarily an opposite.The poster includes shared spaces where neighbours can interact by talking, exchanging ideas, and doing activities together.The word interact is OPPOSITE in meaning to ________.",
+      "questionId": "question-1869653-25",
+      "questionKey": "read each sentence carefully. choose the option that is opposite in meaning to the bold word or phrase.*check the meaning in the sentence. a related expression is not necessarily an opposite.the poster includes shared spaces where neighbours can interact by talking, exchanging ideas, and doing activities together.the word interact is opposite in meaning to ________.",
+      "questionNumber": 25,
+      "selects": [],
+      "rightAnswer": "avoid communicating or taking part in activities with others"
+    }
+  ]
+}
