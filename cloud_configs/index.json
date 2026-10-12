@@ -1,0 +1,22 @@
+{
+  "updated_at": "2026-10-12 19:20:58",
+  "total_configs": 1,
+  "configs": [
+    {
+      "account_name": "Huỳnh Lê Phong Linh",
+      "class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "lgk_lc_lop_12xh_2026_2027",
+      "unit_name": "SESSION 2_EXERCISES 17-29",
+      "unit_key": "session_2_exercises_17_29",
+      "quiz_title": "GR12EX25MOET UNIT 3",
+      "quiz_key": "gr12ex25moet_unit_3",
+      "cmid": "733940",
+      "course_id": "9692",
+      "repo_path": "cloud_configs/lgk_lc_lop_12xh_2026_2027/session_2_exercises_17_29/cmid_733940_gr12ex25moet_unit_3.json",
+      "score": "96.00 trên 100.00",
+      "score_pct": 96.0,
+      "question_count": 24,
+      "updated_at": "2026-10-12 19:20:58"
+    }
+  ]
+}
