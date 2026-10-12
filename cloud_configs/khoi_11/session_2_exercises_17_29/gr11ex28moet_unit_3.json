@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "account_name": "Trịnh Quốc Tiến",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR11EX28MOET UNIT 3",
+    "quiz_key": "gr11ex28moet_unit_3",
+    "cmid": "733921",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex28moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-10-12 21:53:09"
+  },
+  "answers": [
+    {
+      "answer": "the risk of personal information being used without permission",
+      "id": "question-1878745-7",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.residents worry that their personal information could be used without permission. this problem needs attention even if smart services make daily life more convenient.the phrase this problem refers to ________.",
+      "letter": "D",
+      "options": [
+        "the risk of personal information being used without permission"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.Residents worry that their personal information could be used without permission. This problem needs attention even if smart services make daily life more convenient.The phrase This problem refers to ________.",
+      "questionId": "question-1878745-7",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.residents worry that their personal information could be used without permission. this problem needs attention even if smart services make daily life more convenient.the phrase this problem refers to ________.",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": "the risk of personal information being used without permission"
+    },
+    {
+      "answer": "difficulty using smart devices and worries about limited privacy",
+      "id": "question-1878745-10",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.some residents may struggle to use smart devices, while others may worry about limited privacy. the group discusses these concerns before choosing technologies for its poster.the phrase these concerns refers to ________.",
+      "letter": "B",
+      "options": [
+        "difficulty using smart devices and worries about limited privacy"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.Some residents may struggle to use smart devices, while others may worry about limited privacy. The group discusses these concerns before choosing technologies for its poster.The phrase these concerns refers to ________.",
+      "questionId": "question-1878745-10",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.some residents may struggle to use smart devices, while others may worry about limited privacy. the group discusses these concerns before choosing technologies for its poster.the phrase these concerns refers to ________.",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": "difficulty using smart devices and worries about limited privacy"
+    },
+    {
+      "answer": "the cycle path",
+      "id": "question-1878745-6",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the group’s city design includes a cycle path, which gives cyclists a route between two neighbourhoods. the nearby pedestrian zone is intended for people travelling on foot.the word which refers to ________.",
+      "letter": "C",
+      "options": [
+        "the cycle path"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.The group’s city design includes a cycle path, which gives cyclists a route between two neighbourhoods. The nearby pedestrian zone is intended for people travelling on foot.The word which refers to ________.",
+      "questionId": "question-1878745-6",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the group’s city design includes a cycle path, which gives cyclists a route between two neighbourhoods. the nearby pedestrian zone is intended for people travelling on foot.the word which refers to ________.",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": "the cycle path"
+    },
+    {
+      "answer": "residents who prefer walking",
+      "id": "question-1878745-8",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.in the group’s proposed city, residents who prefer cycling will use cycle paths. those who prefer walking will use pedestrian zones.the word those refers to ________.",
+      "letter": "C",
+      "options": [
+        "residents who prefer walking"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.In the group’s proposed city, residents who prefer cycling will use cycle paths. Those who prefer walking will use pedestrian zones.The word Those refers to ________.",
+      "questionId": "question-1878745-8",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.in the group’s proposed city, residents who prefer cycling will use cycle paths. those who prefer walking will use pedestrian zones.the word those refers to ________.",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": "residents who prefer walking"
+    },
+    {
+      "answer": "the bike-sharing system",
+      "id": "question-1878745-1",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the group proposes a bike-sharing system beside a pedestrian zone. it will allow residents to borrow bicycles from one station and return them to another.the word it refers to ________.",
+      "letter": "B",
+      "options": [
+        "the bike-sharing system"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.The group proposes a bike-sharing system beside a pedestrian zone. It will allow residents to borrow bicycles from one station and return them to another.The word It refers to ________.",
+      "questionId": "question-1878745-1",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the group proposes a bike-sharing system beside a pedestrian zone. it will allow residents to borrow bicycles from one station and return them to another.the word it refers to ________.",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": "the bike-sharing system"
+    },
+    {
+      "answer": "adding roof gardens to the high-rise buildings",
+      "id": "question-1878745-9",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the group is considering adding roof gardens to its high-rise buildings. this idea is not final, so the members will compare it with other ways of providing green space.the phrase this idea refers to ________.",
+      "letter": "B",
+      "options": [
+        "adding roof gardens to the high-rise buildings"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.The group is considering adding roof gardens to its high-rise buildings. This idea is not final, so the members will compare it with other ways of providing green space.The phrase This idea refers to ________.",
+      "questionId": "question-1878745-9",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the group is considering adding roof gardens to its high-rise buildings. this idea is not final, so the members will compare it with other ways of providing green space.the phrase this idea refers to ________.",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": "adding roof gardens to the high-rise buildings"
+    },
+    {
+      "answer": "the city dwellers who find the devices difficult to use",
+      "id": "question-1878745-3",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.some city dwellers find the new smart devices difficult to use. a trainer will show them how to operate the devices and answer their questions.the word them refers to ________.",
+      "letter": "C",
+      "options": [
+        "the city dwellers who find the devices difficult to use"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.Some city dwellers find the new smart devices difficult to use. A trainer will show them how to operate the devices and answer their questions.The word them refers to ________.",
+      "questionId": "question-1878745-3",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.some city dwellers find the new smart devices difficult to use. a trainer will show them how to operate the devices and answer their questions.the word them refers to ________.",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": "the city dwellers who find the devices difficult to use"
+    },
+    {
+      "answer": "the smart sensors",
+      "id": "question-1878745-2",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.smart sensors check whether rubbish bins are full. they send this information to waste collection teams so that the teams can plan their work.the word they refers to ________.",
+      "letter": "D",
+      "options": [
+        "the smart sensors"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.Smart sensors check whether rubbish bins are full. They send this information to waste collection teams so that the teams can plan their work.The word They refers to ________.",
+      "questionId": "question-1878745-2",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.smart sensors check whether rubbish bins are full. they send this information to waste collection teams so that the teams can plan their work.the word they refers to ________.",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": "the smart sensors"
+    },
+    {
+      "answer": "the roof gardens, green roofs, and rooftop farming",
+      "id": "question-1878745-5",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the poster includes roof gardens, green roofs, and rooftop farming. these features provide different ways of adding plants or growing food on buildings. public transport is described in a separate section.the phrase these features refers to ________.",
+      "letter": "B",
+      "options": [
+        "the roof gardens, green roofs, and rooftop farming"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.The poster includes roof gardens, green roofs, and rooftop farming. These features provide different ways of adding plants or growing food on buildings. Public transport is described in a separate section.The phrase These features refers to ________.",
+      "questionId": "question-1878745-5",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the poster includes roof gardens, green roofs, and rooftop farming. these features provide different ways of adding plants or growing food on buildings. public transport is described in a separate section.the phrase these features refers to ________.",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": "the roof gardens, green roofs, and rooftop farming"
+    },
+    {
+      "answer": "turning off streetlights when they are unnecessary",
+      "id": "question-1878745-4",
+      "inputs": [],
+      "legacyQKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the proposed system will turn off streetlights when they are unnecessary. this action will help the city avoid wasting electricity.the phrase this action refers to ________.",
+      "letter": "B",
+      "options": [
+        "turning off streetlights when they are unnecessary"
+      ],
+      "question": "Read each short text carefully. Choose the option that shows what the BOLD reference word or phrase refers to.Check the whole meaning. Do not automatically choose the nearest noun.The proposed system will turn off streetlights when they are unnecessary. This action will help the city avoid wasting electricity.The phrase This action refers to ________.",
+      "questionId": "question-1878745-4",
+      "questionKey": "read each short text carefully. choose the option that shows what the bold reference word or phrase refers to.check the whole meaning. do not automatically choose the nearest noun.the proposed system will turn off streetlights when they are unnecessary. this action will help the city avoid wasting electricity.the phrase this action refers to ________.",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": "turning off streetlights when they are unnecessary"
+    },
+    {
+      "answer": "Residents can borrow a bicycle at one station and return it to a different station after their journey.",
+      "id": "question-1878745-12",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the proposed bike-sharing system will allow residents to borrow a bicycle at one station and return it at another.",
+      "letter": "B",
+      "options": [
+        "Residents can borrow a bicycle at one station and return it to a different station after their journey."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.The proposed bike-sharing system will allow residents to borrow a bicycle at one station and return it at another.",
+      "questionId": "question-1878745-12",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the proposed bike-sharing system will allow residents to borrow a bicycle at one station and return it at another.",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": "Residents can borrow a bicycle at one station and return it to a different station after their journey."
+    },
+    {
+      "answer": "Preparing the speaking notes and practising the presentation will both happen before the group presents.",
+      "id": "question-1878745-19",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the group will finish its speaking notes and rehearse before presenting its ideal-city poster to the class.",
+      "letter": "D",
+      "options": [
+        "Preparing the speaking notes and practising the presentation will both happen before the group presents."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.The group will finish its speaking notes and rehearse before presenting its ideal-city poster to the class.",
+      "questionId": "question-1878745-19",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the group will finish its speaking notes and rehearse before presenting its ideal-city poster to the class.",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": "Preparing the speaking notes and practising the presentation will both happen before the group presents."
+    },
+    {
+      "answer": "A shift from personal vehicles to shared transport could help reduce congestion in the city.",
+      "id": "question-1878745-15",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.if more residents use public transport instead of private vehicles, the city may have fewer traffic jams.",
+      "letter": "D",
+      "options": [
+        "A shift from personal vehicles to shared transport could help reduce congestion in the city."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.If more residents use public transport instead of private vehicles, the city may have fewer traffic jams.",
+      "questionId": "question-1878745-15",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.if more residents use public transport instead of private vehicles, the city may have fewer traffic jams.",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": "A shift from personal vehicles to shared transport could help reduce congestion in the city."
+    },
+    {
+      "answer": "The group intends to make activities in its proposed city less damaging to nature.",
+      "id": "question-1878745-11",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the group’s green-city design aims to reduce the harmful effects of urban activities on the environment.",
+      "letter": "B",
+      "options": [
+        "The group intends to make activities in its proposed city less damaging to nature."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.The group’s green-city design aims to reduce the harmful effects of urban activities on the environment.",
+      "questionId": "question-1878745-11",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the group’s green-city design aims to reduce the harmful effects of urban activities on the environment.",
+      "questionNumber": 14,
+      "selects": [],
+      "rightAnswer": "The group intends to make activities in its proposed city less damaging to nature."
+    },
+    {
+      "answer": "Roof gardens are an option the group is considering rather than a feature it has definitely chosen.",
+      "id": "question-1878745-18",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the group is thinking of adding roof gardens to its poster design, but it has not made a final decision.",
+      "letter": "D",
+      "options": [
+        "Roof gardens are an option the group is considering rather than a feature it has definitely chosen."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.The group is thinking of adding roof gardens to its poster design, but it has not made a final decision.",
+      "questionId": "question-1878745-18",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.the group is thinking of adding roof gardens to its poster design, but it has not made a final decision.",
+      "questionNumber": 15,
+      "selects": [],
+      "rightAnswer": "Roof gardens are an option the group is considering rather than a feature it has definitely chosen."
+    },
+    {
+      "answer": "Lan is uncertain whether using the smart devices will be easy for all the residents.",
+      "id": "question-1878745-20",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.lan is not sure that every resident will find the smart devices easy to use.",
+      "letter": "B",
+      "options": [
+        "Lan is uncertain whether using the smart devices will be easy for all the residents."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.Lan is not sure that every resident will find the smart devices easy to use.",
+      "questionId": "question-1878745-20",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.lan is not sure that every resident will find the smart devices easy to use.",
+      "questionNumber": 16,
+      "selects": [],
+      "rightAnswer": "Lan is uncertain whether using the smart devices will be easy for all the residents."
+    },
+    {
+      "answer": "Creating more green areas may allow more kinds of plants and animals to live in the city.",
+      "id": "question-1878745-14",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.adding green spaces could help the proposed city support a wider variety of plants and animals.",
+      "letter": "A",
+      "options": [
+        "Creating more green areas may allow more kinds of plants and animals to live in the city."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.Adding green spaces could help the proposed city support a wider variety of plants and animals.",
+      "questionId": "question-1878745-14",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.adding green spaces could help the proposed city support a wider variety of plants and animals.",
+      "questionNumber": 17,
+      "selects": [],
+      "rightAnswer": "Creating more green areas may allow more kinds of plants and animals to live in the city."
+    },
+    {
+      "answer": "Recording people’s activities in public places could reduce privacy for some of the city’s residents.",
+      "id": "question-1878745-16",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.some city dwellers may lose privacy because cameras record their activities in public areas.",
+      "letter": "A",
+      "options": [
+        "Recording people’s activities in public places could reduce privacy for some of the city’s residents."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.Some city dwellers may lose privacy because cameras record their activities in public areas.",
+      "questionId": "question-1878745-16",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.some city dwellers may lose privacy because cameras record their activities in public areas.",
+      "questionNumber": 18,
+      "selects": [],
+      "rightAnswer": "Recording people’s activities in public places could reduce privacy for some of the city’s residents."
+    },
+    {
+      "answer": "Places for neighbours to gather and offer support can help them feel more connected locally.",
+      "id": "question-1878745-17",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.shared spaces can strengthen a sense of community by giving neighbours opportunities to meet and help one another.",
+      "letter": "A",
+      "options": [
+        "Places for neighbours to gather and offer support can help them feel more connected locally."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.Shared spaces can strengthen a sense of community by giving neighbours opportunities to meet and help one another.",
+      "questionId": "question-1878745-17",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.shared spaces can strengthen a sense of community by giving neighbours opportunities to meet and help one another.",
+      "questionNumber": 19,
+      "selects": [],
+      "rightAnswer": "Places for neighbours to gather and offer support can help them feel more connected locally."
+    },
+    {
+      "answer": "Information about full bins will help waste collection teams decide when rubbish should be removed.",
+      "id": "question-1878745-13",
+      "inputs": [],
+      "legacyQKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.sensors will tell waste collection teams when the bins are full so that the teams can plan when to collect the rubbish.",
+      "letter": "D",
+      "options": [
+        "Information about full bins will help waste collection teams decide when rubbish should be removed."
+      ],
+      "question": "Choose the option that is closest in meaning to the given sentence.Check the complete meaning. Similar vocabulary does not guarantee an accurate paraphrase.Sensors will tell waste collection teams when the bins are full so that the teams can plan when to collect the rubbish.",
+      "questionId": "question-1878745-13",
+      "questionKey": "choose the option that is closest in meaning to the given sentence.check the complete meaning. similar vocabulary does not guarantee an accurate paraphrase.sensors will tell waste collection teams when the bins are full so that the teams can plan when to collect the rubbish.",
+      "questionNumber": 20,
+      "selects": [],
+      "rightAnswer": "Information about full bins will help waste collection teams decide when rubbish should be removed."
+    }
+  ]
+}
