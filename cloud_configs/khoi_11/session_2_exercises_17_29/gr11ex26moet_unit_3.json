@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "account_name": "Trịnh Quốc Tiến",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR11EX26MOET UNIT 3",
+    "quiz_key": "gr11ex26moet_unit_3",
+    "cmid": "733919",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex26moet_unit_3.json",
+    "score": "90.00 trên 100.00",
+    "score_pct": 90.0,
+    "question_count": 18,
+    "updated_at": "2026-10-12 21:57:53"
+  },
+  "answers": [
+    {
+      "answer": "community",
+      "id": "question-1869655-4",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.shared spaces will allow neighbours to meet, help one another, and feel that they belong to the same local group. these relationships can build a strong sense of ________.",
+      "letter": "A",
+      "options": [
+        "community"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.Shared spaces will allow neighbours to meet, help one another, and feel that they belong to the same local group. These relationships can build a strong sense of ________.",
+      "questionId": "question-1869655-4",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.shared spaces will allow neighbours to meet, help one another, and feel that they belong to the same local group. these relationships can build a strong sense of ________.",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": "community"
+    },
+    {
+      "answer": "emissions",
+      "id": "question-1869655-3",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants its transport system to release fewer gases that contribute to climate change. its aim is to reduce greenhouse gas ________.",
+      "letter": "B",
+      "options": [
+        "emissions"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The group wants its transport system to release fewer gases that contribute to climate change. Its aim is to reduce greenhouse gas ________.",
+      "questionId": "question-1869655-3",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants its transport system to release fewer gases that contribute to climate change. its aim is to reduce greenhouse gas ________.",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": "emissions"
+    },
+    {
+      "answer": "save",
+      "id": "question-1869655-5",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.smart streetlights will stop operating when they are unnecessary. by avoiding wasted electricity, the system will help the city ________ energy.",
+      "letter": "D",
+      "options": [
+        "save"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.Smart streetlights will stop operating when they are unnecessary. By avoiding wasted electricity, the system will help the city ________ energy.",
+      "questionId": "question-1869655-5",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.smart streetlights will stop operating when they are unnecessary. by avoiding wasted electricity, the system will help the city ________ energy.",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": "save"
+    },
+    {
+      "answer": "turn off",
+      "id": "question-1869655-10",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when the streets are empty and the lights are no longer needed, the system will ________ the streetlights completely so that they stop operating.",
+      "letter": "C",
+      "options": [
+        "turn off"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.When the streets are empty and the lights are no longer needed, the system will ________ the streetlights completely so that they stop operating.",
+      "questionId": "question-1869655-10",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when the streets are empty and the lights are no longer needed, the system will ________ the streetlights completely so that they stop operating.",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": "turn off"
+    },
+    {
+      "answer": "collection",
+      "id": "question-1869655-8",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when sensors report that bins are full, teams will arrive to take the rubbish away. this information will help organize waste ________.",
+      "letter": "C",
+      "options": [
+        "collection"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.When sensors report that bins are full, teams will arrive to take the rubbish away. This information will help organize waste ________.",
+      "questionId": "question-1869655-8",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.when sensors report that bins are full, teams will arrive to take the rubbish away. this information will help organize waste ________.",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": "collection"
+    },
+    {
+      "answer": "get around",
+      "id": "question-1869655-9",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed transport network will connect different neighbourhoods, helping residents ________ more easily when travelling from one part of the city to another.",
+      "letter": "A",
+      "options": [
+        "get around"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The proposed transport network will connect different neighbourhoods, helping residents ________ more easily when travelling from one part of the city to another.",
+      "questionId": "question-1869655-9",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed transport network will connect different neighbourhoods, helping residents ________ more easily when travelling from one part of the city to another.",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": "get around"
+    },
+    {
+      "answer": "solve",
+      "id": "question-1869655-7",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed homes will provide suitable accommodation for residents who cannot currently find it. the group hopes this plan will help ________ housing problems.",
+      "letter": "D",
+      "options": [
+        "solve"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The proposed homes will provide suitable accommodation for residents who cannot currently find it. The group hopes this plan will help ________ housing problems.",
+      "questionId": "question-1869655-7",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the proposed homes will provide suitable accommodation for residents who cannot currently find it. the group hopes this plan will help ________ housing problems.",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": "solve"
+    },
+    {
+      "answer": "protect",
+      "id": "question-1869655-6",
+      "inputs": [],
+      "legacyQKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants residents’ private details to remain safe from unauthorised use. its smart services should therefore ________ personal information.",
+      "letter": "D",
+      "options": [
+        "protect"
+      ],
+      "question": "Choose the option that best completes the natural phrase or collocation in each sentence.*Check both:- whether the words form a natural expression;- whether that expression fits the whole context.The group wants residents’ private details to remain safe from unauthorised use. Its smart services should therefore ________ personal information.",
+      "questionId": "question-1869655-6",
+      "questionKey": "choose the option that best completes the natural phrase or collocation in each sentence.*check both:- whether the words form a natural expression;- whether that expression fits the whole context.the group wants residents’ private details to remain safe from unauthorised use. its smart services should therefore ________ personal information.",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": "protect"
+    },
+    {
+      "answer": "pollution",
+      "id": "question-1869655-13",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the transport section of the poster explains how the proposed system could help reduce air ________ in busy urban areas.",
+      "letter": "C",
+      "options": [
+        "pollution"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. The transport section of the poster explains how the proposed system could help reduce air ________ in busy urban areas.",
+      "questionId": "question-1869655-13",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the transport section of the poster explains how the proposed system could help reduce air ________ in busy urban areas.",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": "pollution"
+    },
+    {
+      "answer": "protection",
+      "id": "question-1869655-18",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group identifies the ________ of personal information as an important consideration when planning smart services.",
+      "letter": "A",
+      "options": [
+        "protection"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The group identifies the ________ of personal information as an important consideration when planning smart services.",
+      "questionId": "question-1869655-18",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group identifies the ________ of personal information as an important consideration when planning smart services.",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": "protection"
+    },
+    {
+      "answer": "interaction",
+      "id": "question-1869655-16",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the group includes shared spaces in its design to encourage face-to-face ________ among neighbours.",
+      "letter": "C",
+      "options": [
+        "interaction"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. The group includes shared spaces in its design to encourage face-to-face ________ among neighbours.",
+      "questionId": "question-1869655-16",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning. the group includes shared spaces in its design to encourage face-to-face ________ among neighbours.",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": "interaction"
+    },
+    {
+      "answer": "sustainability",
+      "id": "question-1869655-12",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group explains that the long-term ________ of its proposed city depends on using resources carefully and limiting environmental harm.",
+      "letter": "B",
+      "options": [
+        "sustainability"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The group explains that the long-term ________ of its proposed city depends on using resources carefully and limiting environmental harm.",
+      "questionId": "question-1869655-12",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group explains that the long-term ________ of its proposed city depends on using resources carefully and limiting environmental harm.",
+      "questionNumber": 14,
+      "selects": [],
+      "rightAnswer": "sustainability"
+    },
+    {
+      "answer": "information",
+      "id": "question-1869655-19",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.before choosing the city’s features, students need accurate ________ about the benefits and possible disadvantages of smart technologies.",
+      "letter": "A",
+      "options": [
+        "information"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.Before choosing the city’s features, students need accurate ________ about the benefits and possible disadvantages of smart technologies.",
+      "questionId": "question-1869655-19",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.before choosing the city’s features, students need accurate ________ about the benefits and possible disadvantages of smart technologies.",
+      "questionNumber": 15,
+      "selects": [],
+      "rightAnswer": "information"
+    },
+    {
+      "answer": "renewable",
+      "id": "question-1869655-15",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the city proposal includes ________ energy sources, such as sunlight and wind, that are naturally replaced rather than permanently used up.",
+      "letter": "B",
+      "options": [
+        "renewable"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The city proposal includes ________ energy sources, such as sunlight and wind, that are naturally replaced rather than permanently used up.",
+      "questionId": "question-1869655-15",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the city proposal includes ________ energy sources, such as sunlight and wind, that are naturally replaced rather than permanently used up.",
+      "questionNumber": 16,
+      "selects": [],
+      "rightAnswer": "renewable"
+    },
+    {
+      "answer": "environmentally",
+      "id": "question-1869655-20",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group wants an ________ responsible city design that limits damage to nature while meeting residents’ needs.",
+      "letter": "B",
+      "options": [
+        "environmentally"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.The group wants an ________ responsible city design that limits damage to nature while meeting residents’ needs.",
+      "questionId": "question-1869655-20",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.the group wants an ________ responsible city design that limits damage to nature while meeting residents’ needs.",
+      "questionNumber": 17,
+      "selects": [],
+      "rightAnswer": "environmentally"
+    },
+    {
+      "answer": "diverse",
+      "id": "question-1869655-14",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.to support biodiversity, the group plans green spaces that can provide a home for a ________ range of plants and animals.",
+      "letter": "D",
+      "options": [
+        "diverse"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.To support biodiversity, the group plans green spaces that can provide a home for a ________ range of plants and animals.",
+      "questionId": "question-1869655-14",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.to support biodiversity, the group plans green spaces that can provide a home for a ________ range of plants and animals.",
+      "questionNumber": 18,
+      "selects": [],
+      "rightAnswer": "diverse"
+    },
+    {
+      "answer": "decision",
+      "id": "question-1869655-11",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.after comparing several transport options, the group will make a final ________ about which system to include in its poster.",
+      "letter": "C",
+      "options": [
+        "decision"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.After comparing several transport options, the group will make a final ________ about which system to include in its poster.",
+      "questionId": "question-1869655-11",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.after comparing several transport options, the group will make a final ________ about which system to include in its poster.",
+      "questionNumber": 19,
+      "selects": [],
+      "rightAnswer": "decision"
+    },
+    {
+      "answer": "collection",
+      "id": "question-1869655-17",
+      "inputs": [],
+      "legacyQKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.sensors will report when bins are full so that regular waste ________ can take place at suitable times.",
+      "letter": "C",
+      "options": [
+        "collection"
+      ],
+      "question": "Choose the option that gives the correct word form to complete each sentence.*Before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.Sensors will report when bins are full so that regular waste ________ can take place at suitable times.",
+      "questionId": "question-1869655-17",
+      "questionKey": "choose the option that gives the correct word form to complete each sentence.*before choosing:- identify whether the blank needs a noun, adjective, or adverb;- examine the surrounding words;- reread the completed sentence to check its meaning.sensors will report when bins are full so that regular waste ________ can take place at suitable times.",
+      "questionNumber": 20,
+      "selects": [],
+      "rightAnswer": "collection"
+    }
+  ]
+}
