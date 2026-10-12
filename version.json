@@ -1,5 +1,5 @@
 {
-  "version": "4.7.1",
+  "version": "4.7.2",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
+    "Fix lỗi SSL: CERTIFICATE_VERIFY_FAILED (unable to get local issuer certificate) trên trình cài đặt RB_LMS_Setup.exe, GitHub Cloud Config và Gemini API",
     "Fix triệt để lỗi 'Không tìm thấy đáp án' (TypeError: isQuestionMarkedCorrect) khi cào đáp án trên trang Review Moodle 4.x / VnResource LMS",
     "Hỗ trợ bóc tách đáp án đúng trên trang Review không có khung .rightanswer (dựa vào dấu tích xanh ✓, icon .fa-check, và ô điều hướng xanh #mod_quiz_navblock)",
     "Nút ☁️ Auto Cloud Config: Tự động nhận diện Lớp/Khối, Unit, Bài thi -> Tải Config từ GitHub Cloud -> Điền hết các trang & Tự động nộp bài",
-    "Tự động đồng bộ Config 95-100 điểm lên kho GitHub Cloud (beluga1401/rb-lms-auto-tool) khi đạt 95-100% hoặc khi cào đáp án bài đã nộp",
-    "Tối ưu hóa sâu bộ nhớ RAM (Chromium WebEngine memory cap, giới hạn bộ đệm Audio/Transcript & dọn rác tự động)"
+    "Tự động đồng bộ Config 95-100 điểm lên kho GitHub Cloud (beluga1401/rb-lms-auto-tool) khi đạt 95-100% hoặc khi cào đáp án bài đã nộp"
   ]
 }
