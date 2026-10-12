@@ -34,7 +34,7 @@ urllib.request.install_opener(
 APP_NAME = "RB LMS Auto Tool"
 EXE_NAME = "RB_LMS_Auto_Tool_NoKey.exe"
 SETUP_EXE_NAME = "RB_LMS_Setup.exe"
-DEFAULT_VERSION = "4.7.2"
+DEFAULT_VERSION = "4.7.3"
 DEFAULT_GITHUB_REPO = "beluga1401/rb-lms-auto-tool"
 
 INSTALL_DIR = os.path.join(os.environ.get("LOCALAPPDATA", os.path.expanduser("~")), "RB_LMS_Auto_Tool")
