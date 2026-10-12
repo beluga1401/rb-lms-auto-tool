@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 19:20:58",
+  "updated_at": "2026-10-12 19:22:39",
   "total_configs": 1,
   "configs": [
     {
@@ -13,10 +13,10 @@
       "cmid": "733940",
       "course_id": "9692",
       "repo_path": "cloud_configs/lgk_lc_lop_12xh_2026_2027/session_2_exercises_17_29/cmid_733940_gr12ex25moet_unit_3.json",
-      "score": "96.00 trên 100.00",
-      "score_pct": 96.0,
-      "question_count": 24,
-      "updated_at": "2026-10-12 19:20:58"
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 25,
+      "updated_at": "2026-10-12 19:22:39"
     }
   ]
 }
