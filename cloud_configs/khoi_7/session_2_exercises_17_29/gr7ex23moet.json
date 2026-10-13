@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Phúc Tấn",
+    "class_name": "Khối 7 (LGK LC-Lớp 7B (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 7B (2026-2027)",
+    "class_key": "khoi_7",
+    "grade_num": "7",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR7EX23MOET",
+    "quiz_key": "gr7ex23moet",
+    "cmid": "730225",
+    "course_id": "4773",
+    "repo_path": "cloud_configs/khoi_7/session_2_exercises_17_29/gr7ex23moet.json",
+    "score": "100.0%",
+    "score_pct": 100.0,
+    "question_count": 11,
+    "updated_at": "2026-10-13 19:36:56"
+  },
+  "answers": [
+    {
+      "answer": "A.",
+      "id": "question-1885459-10",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. physical",
+      "questionId": "question-1885459-10",
+      "questionKey": "look at the word/phrase. choose the correct picture. physical",
+      "questionNumber": 2,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "C.",
+      "id": "question-1885459-25",
+      "inputs": [],
+      "letter": "C",
+      "options": [
+        "C."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. dim",
+      "questionId": "question-1885459-25",
+      "questionKey": "look at the word/phrase. choose the correct picture. dim",
+      "questionNumber": 3,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885459-18",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. unhealthy",
+      "questionId": "question-1885459-18",
+      "questionKey": "look at the word/phrase. choose the correct picture. unhealthy",
+      "questionNumber": 4,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885459-2",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. advice",
+      "questionId": "question-1885459-2",
+      "questionKey": "look at the word/phrase. choose the correct picture. advice",
+      "questionNumber": 11,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885459-8",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. lose weight",
+      "questionId": "question-1885459-8",
+      "questionKey": "look at the word/phrase. choose the correct picture. lose weight",
+      "questionNumber": 15,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885459-5",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. be in good shape",
+      "questionId": "question-1885459-5",
+      "questionKey": "look at the word/phrase. choose the correct picture. be in good shape",
+      "questionNumber": 18,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885459-21",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. bring",
+      "questionId": "question-1885459-21",
+      "questionKey": "look at the word/phrase. choose the correct picture. bring",
+      "questionNumber": 19,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "B.",
+      "id": "question-1885459-23",
+      "inputs": [],
+      "letter": "B",
+      "options": [
+        "B."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. chapped",
+      "questionId": "question-1885459-23",
+      "questionKey": "look at the word/phrase. choose the correct picture. chapped",
+      "questionNumber": 20,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "B.",
+      "id": "question-1885459-15",
+      "inputs": [],
+      "letter": "B",
+      "options": [
+        "B."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. risk",
+      "questionId": "question-1885459-15",
+      "questionKey": "look at the word/phrase. choose the correct picture. risk",
+      "questionNumber": 21,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "B.",
+      "id": "question-1885459-4",
+      "inputs": [],
+      "letter": "B",
+      "options": [
+        "B."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. balanced diet",
+      "questionId": "question-1885459-4",
+      "questionKey": "look at the word/phrase. choose the correct picture. balanced diet",
+      "questionNumber": 22,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885459-20",
+      "inputs": [],
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. deal with",
+      "questionId": "question-1885459-20",
+      "questionKey": "look at the word/phrase. choose the correct picture. deal with",
+      "questionNumber": 24,
+      "rightAnswer": "",
+      "selects": [],
+      "source": "silent_review",
+      "verified_100": true
+    }
+  ]
+}
