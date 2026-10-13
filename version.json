@@ -1,5 +1,5 @@
 {
-  "version": "4.7.9",
+  "version": "4.8.0",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,11 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Hệ Thống Auto Spy Đáp Án Đa Tầng (Multi-Tier Answer Spy Engine): Trinh sát đáp án toàn diện qua Radar 3 tầng trước khi gọi AI, tự động điền 100% 0 giây không tiêu tốn token",
-    "Tầng 1 (DOM & Client Leaks Spy): Quét sạch thuộc tính rò rỉ frontend [data-correct], [data-answer], [data-fraction='1'], class .correct, .rightanswer, input hidden, comment tags và biến JS window",
-    "Tầng 2 (Silent Review Spy): Tự động trích xuất ngầm lịch sử các lượt thi trước qua view.php/review.php cùng tài khoản, cào sạch câu đúng 100% được server công nhận",
-    "Tầng 3 (Cloud Answer Spy): Tự động nhận diện môn, lớp, unit và kéo bộ đáp án >= 95 điểm từ GitHub Cloud repository",
-    "Tầng 4 (Seamless AI Fallback): Tự động chuyển giao sang Gemini AI CoT giải các câu còn lại nếu hệ thống Spy chỉ tìm thấy một phần hoặc chưa có dữ liệu",
-    "Tích hợp nút 🕵️ Auto Spy Đáp Án trên thanh công cụ và radar tự động vào chu trình AI 1-Touch"
+    "Cào Đáp Án & Lưu Cloud (📥 Cào Đáp Án & Lưu Cloud): Thay thế hoàn toàn Auto Spy cũ, tự động bóc tách 100% câu hỏi và đáp án đúng từ trang review.php hoặc trinh sát ngầm lịch sử lượt làm trước (Silent Review)",
+    "Đồng Bộ Ngân Hàng Câu Hỏi Cloud Tổng (global_questions_bank.json): Tự động chuẩn hóa stem text và lưu trữ vĩnh viễn từng câu hỏi đơn lẻ lên GitHub Cloud beluga1401/rb-lms-auto-tool",
+    "Tra Cứu Tức Thì 0s (Zero Token AI): Tự động nạp và điền ngay tức khắc 0 giây 0 token AI từ Ngân hàng Cloud Tổng cho mọi bài thi tương lai",
+    "Hệ Thống Trinh Sát Radar 4 Tầng: Tầng 1 (DOM/Client Leaks) -> Tầng 2 (Silent Review) -> Tầng 3 (Cloud Quiz Config >= 95%) -> Tầng 4 (Global Questions Bank) -> Tầng 5 (Gemini AI CoT Fallback)",
+    "Tự Động Điền Khi Đang Trong Bài Thi: Tự động kích hoạt autoFillAll điền toàn bộ câu hỏi ngay lập tức nếu đang mở bài thi (attempt.php)"
   ]
 }
