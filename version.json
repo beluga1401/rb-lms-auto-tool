@@ -1,5 +1,5 @@
 {
-  "version": "4.8.0",
+  "version": "4.8.1",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Cào Đáp Án & Lưu Cloud (📥 Cào Đáp Án & Lưu Cloud): Thay thế hoàn toàn Auto Spy cũ, tự động bóc tách 100% câu hỏi và đáp án đúng từ trang review.php hoặc trinh sát ngầm lịch sử lượt làm trước (Silent Review)",
-    "Đồng Bộ Ngân Hàng Câu Hỏi Cloud Tổng (global_questions_bank.json): Tự động chuẩn hóa stem text và lưu trữ vĩnh viễn từng câu hỏi đơn lẻ lên GitHub Cloud beluga1401/rb-lms-auto-tool",
-    "Tra Cứu Tức Thì 0s (Zero Token AI): Tự động nạp và điền ngay tức khắc 0 giây 0 token AI từ Ngân hàng Cloud Tổng cho mọi bài thi tương lai",
-    "Hệ Thống Trinh Sát Radar 4 Tầng: Tầng 1 (DOM/Client Leaks) -> Tầng 2 (Silent Review) -> Tầng 3 (Cloud Quiz Config >= 95%) -> Tầng 4 (Global Questions Bank) -> Tầng 5 (Gemini AI CoT Fallback)",
-    "Tự Động Điền Khi Đang Trong Bài Thi: Tự động kích hoạt autoFillAll điền toàn bộ câu hỏi ngay lập tức nếu đang mở bài thi (attempt.php)"
+    "Nâng cấp Độ Chính Xác Tuyệt Đối cho AI 1-Touch: Luôn kích hoạt Deep Thinking Chain-of-Thought (CoT 3 giai đoạn: phân tích ngữ cảnh, loại trừ bẫy, kết luận) cho mọi lượt giải",
+    "Bảo Toàn Ngữ Cảnh Bài Đọc Hiểu Liên Tục (Reading Passage Propagation): Khắc phục triệt để tình trạng câu hỏi đọc hiểu bị rớt ngữ cảnh bài đọc khi qua trang hoặc qua batch",
+    "Chống Bẫy Đảo Thứ Tự Phương Án (Option Shuffling Resistance): Ưu tiên khớp chính xác 100% theo nội dung Text trước khi xét chữ cái, triệt tiêu lỗi do Moodle đảo vị trí A, B, C, D",
+    "Tối Ưu Động Cơ Dual-API Consensus & Mô Hình Gemini: Tích hợp gemini-3.6-flash và gemini-3.5-flash với khả năng suy luận ngữ pháp và ngữ nghĩa vượt trội, phản hồi dưới 2 giây",
+    "Khớp Mờ An Toàn & Chuẩn Hóa Điền Ô Trống: Đảm bảo điền chuẩn xác chữ cái đơn cho ô trắc nghiệm và từ vựng chuẩn cho bài điền từ"
   ]
 }
