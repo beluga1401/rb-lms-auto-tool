@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13 19:57:57",
-  "total_configs": 6,
+  "updated_at": "2026-10-13 19:58:52",
+  "total_configs": 7,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -109,6 +109,24 @@
       "score_pct": 100.0,
       "question_count": 375,
       "updated_at": "2026-10-13 19:57:57"
+    },
+    {
+      "account_name": "Trịnh Quốc Tiến",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 1_EXERCISES 1-16",
+      "unit_key": "session_1_exercises_1_16",
+      "quiz_title": "GR11EX2MOET",
+      "quiz_key": "gr11ex2moet",
+      "cmid": "721988",
+      "course_id": "4775",
+      "repo_path": "cloud_configs/khoi_11/session_1_exercises_1_16/gr11ex2moet.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 395,
+      "updated_at": "2026-10-13 19:58:52"
     }
   ]
 }
