@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13 19:36:56",
+  "updated_at": "2026-10-13 19:44:36",
   "total_configs": 5,
   "configs": [
     {
@@ -89,8 +89,8 @@
       "repo_path": "cloud_configs/khoi_7/session_2_exercises_17_29/gr7ex23moet.json",
       "score": "100.0%",
       "score_pct": 100.0,
-      "question_count": 11,
-      "updated_at": "2026-10-13 19:36:56"
+      "question_count": 19,
+      "updated_at": "2026-10-13 19:44:36"
     }
   ]
 }
