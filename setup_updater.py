@@ -16,8 +16,30 @@ from PyQt6.QtCore import Qt, QThread, pyqtSignal, QTimer
 from PyQt6.QtGui import QFont, QIcon
 
 
+try:
+    import certifi
+    ca_bundle = certifi.where()
+    if os.path.exists(ca_bundle):
+        os.environ["SSL_CERT_FILE"] = ca_bundle
+        os.environ["REQUESTS_CA_BUNDLE"] = ca_bundle
+except Exception:
+    pass
+
+try:
+    import requests
+    import urllib3
+    urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+except Exception:
+    requests = None
+
+
 def _make_unverified_ssl_context():
-    ctx = ssl.create_default_context()
+    if hasattr(ssl, "_create_unverified_context"):
+        ctx = ssl._create_unverified_context()
+    else:
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
     return ctx
@@ -25,11 +47,53 @@ def _make_unverified_ssl_context():
 
 _SSL_CTX = _make_unverified_ssl_context()
 ssl._create_default_https_context = _make_unverified_ssl_context
-urllib.request.install_opener(
-    urllib.request.build_opener(
-        urllib.request.HTTPSHandler(context=_SSL_CTX)
-    )
+
+
+class _UnverifiedHTTPSHandler(urllib.request.HTTPSHandler):
+    def https_open(self, req):
+        return self.do_open(self.getConnection, req)
+
+    def getConnection(self, host, timeout=300, **kwargs):
+        return urllib.request.HTTPSConnection(host, timeout=timeout, context=_SSL_CTX, **kwargs)
+
+
+_CUSTOM_OPENER = urllib.request.build_opener(
+    _UnverifiedHTTPSHandler(context=_SSL_CTX),
+    urllib.request.HTTPRedirectHandler()
 )
+urllib.request.install_opener(_CUSTOM_OPENER)
+
+
+def _fetch_json_url(url, headers=None, timeout=10):
+    headers = headers or {"User-Agent": "RB-LMS-Updater/4.7.9"}
+    if requests is not None:
+        try:
+            r = requests.get(url, headers=headers, timeout=timeout, verify=False, allow_redirects=True)
+            if r.status_code == 200:
+                return r.json()
+        except Exception:
+            pass
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with _CUSTOM_OPENER.open(req, timeout=timeout) as resp:
+            body = resp.read().decode("utf-8")
+            return json.loads(body)
+    except Exception:
+        pass
+    curl_path = shutil.which("curl") or r"C:\Windows\System32\curl.exe"
+    if os.path.exists(curl_path):
+        try:
+            hdr_args = []
+            for k, v in headers.items():
+                hdr_args.extend(["-H", f"{k}: {v}"])
+            cmd = [curl_path, "-k", "-L", "-s", "--max-time", str(int(timeout))] + hdr_args + [url]
+            res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, timeout=timeout + 2)
+            if res.returncode == 0 and res.stdout:
+                return json.loads(res.stdout.decode("utf-8"))
+        except Exception:
+            pass
+    return None
+
 
 APP_NAME = "RB LMS Auto Tool"
 EXE_NAME = "RB_LMS_Auto_Tool_NoKey.exe"
@@ -155,79 +219,67 @@ class UpdateCheckWorker(QThread):
 
         # 1. Check Custom Manifest URL if configured
         if custom_url:
-            try:
-                req = urllib.request.Request(custom_url, headers=headers)
-                with urllib.request.urlopen(req, timeout=8, context=_SSL_CTX) as resp:
-                    data = json.loads(resp.read().decode("utf-8"))
+            data = _fetch_json_url(custom_url, headers=headers, timeout=8)
+            if data and isinstance(data, dict):
+                result["online"] = True
+                result["version"] = str(data.get("version") or DEFAULT_VERSION).lstrip("vV")
+                result["download_url"] = str(data.get("download_url") or "")
+                cl = data.get("changelog")
+                if isinstance(cl, list):
+                    result["notes"] = " • " + "\n • ".join(str(x) for x in cl)
+                elif isinstance(cl, str) and cl:
+                    result["notes"] = cl
+                result["source"] = "manifest"
+                self.finished_signal.emit(result)
+                return
+
+        # 2. Check GitHub Releases API (/repos/{owner}/{repo}/releases/latest)
+        if repo and "/" in repo:
+            api_url = f"https://api.github.com/repos/{repo}/releases/latest"
+            rel = _fetch_json_url(api_url, headers=headers, timeout=8)
+            if rel and isinstance(rel, dict):
+                tag = str(rel.get("tag_name") or DEFAULT_VERSION).lstrip("vV")
+                body = str(rel.get("body") or "").strip()
+                assets = rel.get("assets") or []
+                dl_url = ""
+                for asset in assets:
+                    aname = str(asset.get("name") or "")
+                    if aname.lower() == EXE_NAME.lower():
+                        dl_url = str(asset.get("browser_download_url") or "")
+                        break
+                if not dl_url:
+                    for asset in assets:
+                        aname = str(asset.get("name") or "")
+                        if aname.lower().endswith(".exe") and "setup" not in aname.lower():
+                            dl_url = str(asset.get("browser_download_url") or "")
+                            break
+                if not dl_url:
+                    dl_url = f"https://github.com/{repo}/releases/latest/download/{EXE_NAME}"
+                result["online"] = True
+                result["version"] = tag or DEFAULT_VERSION
+                result["download_url"] = dl_url
+                if body:
+                    result["notes"] = body[:280]
+                result["source"] = "github_release"
+                self.finished_signal.emit(result)
+                return
+
+            # 3. Fallback: Check raw version.json on main / master branch
+            for branch in ("main", "master"):
+                raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/version.json"
+                data = _fetch_json_url(raw_url, headers=headers, timeout=6)
+                if data and isinstance(data, dict):
                     result["online"] = True
                     result["version"] = str(data.get("version") or DEFAULT_VERSION).lstrip("vV")
-                    result["download_url"] = str(data.get("download_url") or "")
+                    result["download_url"] = str(data.get("download_url") or f"https://github.com/{repo}/releases/latest/download/{EXE_NAME}")
                     cl = data.get("changelog")
                     if isinstance(cl, list):
                         result["notes"] = " • " + "\n • ".join(str(x) for x in cl)
                     elif isinstance(cl, str) and cl:
                         result["notes"] = cl
-                    result["source"] = "manifest"
+                    result["source"] = f"github_raw_{branch}"
                     self.finished_signal.emit(result)
                     return
-            except Exception as e:
-                result["error"] = str(e)
-
-        # 2. Check GitHub Releases API (/repos/{owner}/{repo}/releases/latest)
-        if repo and "/" in repo:
-            api_url = f"https://api.github.com/repos/{repo}/releases/latest"
-            try:
-                req = urllib.request.Request(api_url, headers=headers)
-                with urllib.request.urlopen(req, timeout=8, context=_SSL_CTX) as resp:
-                    rel = json.loads(resp.read().decode("utf-8"))
-                    tag = str(rel.get("tag_name") or DEFAULT_VERSION).lstrip("vV")
-                    body = str(rel.get("body") or "").strip()
-                    assets = rel.get("assets") or []
-                    dl_url = ""
-                    for asset in assets:
-                        aname = str(asset.get("name") or "")
-                        if aname.lower() == EXE_NAME.lower():
-                            dl_url = str(asset.get("browser_download_url") or "")
-                            break
-                    if not dl_url:
-                        for asset in assets:
-                            aname = str(asset.get("name") or "")
-                            if aname.lower().endswith(".exe") and "setup" not in aname.lower():
-                                dl_url = str(asset.get("browser_download_url") or "")
-                                break
-                    if not dl_url:
-                        dl_url = f"https://github.com/{repo}/releases/latest/download/{EXE_NAME}"
-                    result["online"] = True
-                    result["version"] = tag or DEFAULT_VERSION
-                    result["download_url"] = dl_url
-                    if body:
-                        result["notes"] = body[:280]
-                    result["source"] = "github_release"
-                    self.finished_signal.emit(result)
-                    return
-            except Exception as e:
-                result["error"] = str(e)
-
-            # 3. Fallback: Check raw version.json on main / master branch
-            for branch in ("main", "master"):
-                raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}/version.json"
-                try:
-                    req = urllib.request.Request(raw_url, headers=headers)
-                    with urllib.request.urlopen(req, timeout=6, context=_SSL_CTX) as resp:
-                        data = json.loads(resp.read().decode("utf-8"))
-                        result["online"] = True
-                        result["version"] = str(data.get("version") or DEFAULT_VERSION).lstrip("vV")
-                        result["download_url"] = str(data.get("download_url") or f"https://github.com/{repo}/releases/latest/download/{EXE_NAME}")
-                        cl = data.get("changelog")
-                        if isinstance(cl, list):
-                            result["notes"] = " • " + "\n • ".join(str(x) for x in cl)
-                        elif isinstance(cl, str) and cl:
-                            result["notes"] = cl
-                        result["source"] = f"github_raw_{branch}"
-                        self.finished_signal.emit(result)
-                        return
-                except Exception:
-                    pass
 
         # 4. Local offline fallback check (if RB_LMS_Auto_Tool_NoKey.exe is alongside Setup)
         for cand_dir in [
@@ -334,7 +386,8 @@ class InstallUpdateWorker(QThread):
             downloaded_ok = False
             if dl_url.startswith("http://") or dl_url.startswith("https://"):
                 candidate_urls = [dl_url]
-                fallback_tag_url = f"https://github.com/{DEFAULT_GITHUB_REPO}/releases/download/v{str(self.target_version).lstrip('vV')}/{EXE_NAME}"
+                clean_target_v = str(self.target_version or DEFAULT_VERSION).lstrip("vV")
+                fallback_tag_url = f"https://github.com/{DEFAULT_GITHUB_REPO}/releases/download/v{clean_target_v}/{EXE_NAME}"
                 fallback_latest_url = f"https://github.com/{DEFAULT_GITHUB_REPO}/releases/latest/download/{EXE_NAME}"
                 for u in (fallback_tag_url, fallback_latest_url):
                     if u not in candidate_urls:
@@ -342,50 +395,129 @@ class InstallUpdateWorker(QThread):
 
                 last_net_err = None
                 for try_url in candidate_urls:
-                    try:
-                        headers = {"User-Agent": "RB-LMS-Updater/4.7.2"}
-                        if self.token and "api.github.com" in try_url:
-                            headers["Authorization"] = f"Bearer {self.token}"
-                        req = urllib.request.Request(try_url, headers=headers)
-                        with urllib.request.urlopen(req, timeout=60, context=_SSL_CTX) as resp:
-                            total_size = int(resp.headers.get("Content-Length", 0) or 0)
-                            downloaded = 0
-                            chunk_size = 128 * 1024
-                            t_start = time.time()
-                            with open(temp_exe, "wb") as out_f:
-                                while True:
-                                    chunk = resp.read(chunk_size)
-                                    if not chunk:
+                    # Engine 1: requests (with verify=False, stream=True, auto redirect)
+                    if requests is not None:
+                        try:
+                            headers = {"User-Agent": "RB-LMS-Updater/4.7.9"}
+                            if self.token and "api.github.com" in try_url:
+                                headers["Authorization"] = f"Bearer {self.token}"
+                            with requests.get(try_url, headers=headers, stream=True, verify=False, timeout=60, allow_redirects=True) as resp:
+                                if resp.status_code == 200:
+                                    total_size = int(resp.headers.get("content-length", 0) or 0)
+                                    downloaded = 0
+                                    chunk_size = 128 * 1024
+                                    t_start = time.time()
+                                    with open(temp_exe, "wb") as out_f:
+                                        for chunk in resp.iter_content(chunk_size=chunk_size):
+                                            if chunk:
+                                                out_f.write(chunk)
+                                                downloaded += len(chunk)
+                                                elapsed = max(0.1, time.time() - t_start)
+                                                speed_mb = (downloaded / (1024 * 1024)) / elapsed
+                                                if total_size > 0:
+                                                    pct = min(92, int(10 + (downloaded / total_size) * 82))
+                                                    mb_cur = downloaded / (1024 * 1024)
+                                                    mb_tot = total_size / (1024 * 1024)
+                                                    self.progress_signal.emit(
+                                                        pct,
+                                                        f"Đang tải bản cập nhật: {mb_cur:.1f} / {mb_tot:.1f} MB ({speed_mb:.1f} MB/s)..."
+                                                    )
+                                                else:
+                                                    mb_cur = downloaded / (1024 * 1024)
+                                                    self.progress_signal.emit(
+                                                        50,
+                                                        f"Đang tải bản cập nhật: {mb_cur:.1f} MB ({speed_mb:.1f} MB/s)..."
+                                                    )
+                                    if os.path.exists(temp_exe) and os.path.getsize(temp_exe) > 100 * 1024:
+                                        shutil.move(temp_exe, target_exe)
+                                        downloaded_ok = True
                                         break
-                                    out_f.write(chunk)
-                                    downloaded += len(chunk)
-                                    elapsed = max(0.1, time.time() - t_start)
-                                    speed_mb = (downloaded / (1024 * 1024)) / elapsed
-                                    if total_size > 0:
-                                        pct = min(92, int(10 + (downloaded / total_size) * 82))
-                                        mb_cur = downloaded / (1024 * 1024)
-                                        mb_tot = total_size / (1024 * 1024)
+                        except Exception as e_req:
+                            last_net_err = e_req
+                            if os.path.exists(temp_exe):
+                                try:
+                                    os.remove(temp_exe)
+                                except Exception:
+                                    pass
+
+                    # Engine 2: Windows native curl.exe with -k -L
+                    if not downloaded_ok:
+                        curl_path = shutil.which("curl") or r"C:\Windows\System32\curl.exe"
+                        if os.path.exists(curl_path):
+                            try:
+                                self.progress_signal.emit(15, "Đang tải bản cập nhật qua Curl bảo mật...")
+                                cmd = [curl_path, "-k", "-L", "-s", "-S", "-o", temp_exe, try_url]
+                                proc = subprocess.Popen(cmd)
+                                t_start = time.time()
+                                while proc.poll() is None:
+                                    time.sleep(0.5)
+                                    if os.path.exists(temp_exe):
+                                        cur_sz = os.path.getsize(temp_exe)
+                                        mb_cur = cur_sz / (1024 * 1024)
+                                        elapsed = max(0.1, time.time() - t_start)
+                                        speed_mb = mb_cur / elapsed
                                         self.progress_signal.emit(
-                                            pct,
-                                            f"Đang tải bản cập nhật: {mb_cur:.1f} / {mb_tot:.1f} MB ({speed_mb:.1f} MB/s)..."
-                                        )
-                                    else:
-                                        mb_cur = downloaded / (1024 * 1024)
-                                        self.progress_signal.emit(
-                                            50,
+                                            min(90, int(10 + mb_cur / 2.5)),
                                             f"Đang tải bản cập nhật: {mb_cur:.1f} MB ({speed_mb:.1f} MB/s)..."
                                         )
-                        if os.path.exists(temp_exe) and os.path.getsize(temp_exe) > 100 * 1024:
-                            shutil.move(temp_exe, target_exe)
-                            downloaded_ok = True
-                            break
-                    except Exception as net_err:
-                        last_net_err = net_err
-                        if os.path.exists(temp_exe):
-                            try:
-                                os.remove(temp_exe)
-                            except Exception:
-                                pass
+                                if proc.returncode == 0 and os.path.exists(temp_exe) and os.path.getsize(temp_exe) > 100 * 1024:
+                                    shutil.move(temp_exe, target_exe)
+                                    downloaded_ok = True
+                                    break
+                            except Exception as e_curl:
+                                last_net_err = e_curl
+                                if os.path.exists(temp_exe):
+                                    try:
+                                        os.remove(temp_exe)
+                                    except Exception:
+                                        pass
+
+                    # Engine 3: _CUSTOM_OPENER (Universal Unverified Opener)
+                    if not downloaded_ok:
+                        try:
+                            headers = {"User-Agent": "RB-LMS-Updater/4.7.9"}
+                            if self.token and "api.github.com" in try_url:
+                                headers["Authorization"] = f"Bearer {self.token}"
+                            req = urllib.request.Request(try_url, headers=headers)
+                            with _CUSTOM_OPENER.open(req, timeout=60) as resp:
+                                total_size = int(resp.headers.get("Content-Length", 0) or 0)
+                                downloaded = 0
+                                chunk_size = 128 * 1024
+                                t_start = time.time()
+                                with open(temp_exe, "wb") as out_f:
+                                    while True:
+                                        chunk = resp.read(chunk_size)
+                                        if not chunk:
+                                            break
+                                        out_f.write(chunk)
+                                        downloaded += len(chunk)
+                                        elapsed = max(0.1, time.time() - t_start)
+                                        speed_mb = (downloaded / (1024 * 1024)) / elapsed
+                                        if total_size > 0:
+                                            pct = min(92, int(10 + (downloaded / total_size) * 82))
+                                            mb_cur = downloaded / (1024 * 1024)
+                                            mb_tot = total_size / (1024 * 1024)
+                                            self.progress_signal.emit(
+                                                pct,
+                                                f"Đang tải bản cập nhật: {mb_cur:.1f} / {mb_tot:.1f} MB ({speed_mb:.1f} MB/s)..."
+                                            )
+                                        else:
+                                            mb_cur = downloaded / (1024 * 1024)
+                                            self.progress_signal.emit(
+                                                50,
+                                                f"Đang tải bản cập nhật: {mb_cur:.1f} MB ({speed_mb:.1f} MB/s)..."
+                                            )
+                            if os.path.exists(temp_exe) and os.path.getsize(temp_exe) > 100 * 1024:
+                                shutil.move(temp_exe, target_exe)
+                                downloaded_ok = True
+                                break
+                        except Exception as net_err:
+                            last_net_err = net_err
+                            if os.path.exists(temp_exe):
+                                try:
+                                    os.remove(temp_exe)
+                                except Exception:
+                                    pass
 
                 if not downloaded_ok:
                     # Check if local file exists as fallback
@@ -465,8 +597,20 @@ class GitHubPublishWorker(QThread):
             data = json.dumps(payload).encode("utf-8")
             headers["Content-Type"] = "application/json"
 
+        if requests is not None:
+            try:
+                resp = requests.request(method, url, data=data, headers=headers, timeout=timeout, verify=False)
+                if resp.status_code == 404:
+                    raise urllib.error.HTTPError(url, 404, "Not Found", resp.headers, None)
+                resp.raise_for_status()
+                return resp.json() if resp.text else {}
+            except urllib.error.HTTPError:
+                raise
+            except Exception:
+                pass
+
         req = urllib.request.Request(url, data=data, headers=headers, method=method)
-        with urllib.request.urlopen(req, timeout=timeout, context=_SSL_CTX) as resp:
+        with _CUSTOM_OPENER.open(req, timeout=timeout) as resp:
             body = resp.read().decode("utf-8")
             return json.loads(body) if body else {}
 
