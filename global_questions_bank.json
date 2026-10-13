@@ -1,6 +1,6 @@
 {
-  "version": "4.8.0",
-  "updated_at": "2026-10-13T13:23:29Z",
+  "version": "4.8.1",
+  "updated_at": "2026-10-13T13:33:48Z",
   "total_questions": 21,
   "questions": {
     "which animal is a pet": {
@@ -288,16 +288,16 @@
       "question": "Look at the word/phrase. Choose the correct picture. advice",
       "clean_stem": "look at the word phrase choose the correct picture advice",
       "stem_key": "look at the word phrase choose the correct picture advice",
-      "answer": "B.",
-      "letter": "B",
+      "answer": "A.",
+      "letter": "A",
       "options": [
-        "B."
+        "A."
       ],
       "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-13T13:23:28Z"
+      "updated_at": "2026-10-13T13:33:48Z"
     },
     "look at the word phrase choose the correct picture bring": {
       "question": "Look at the word/phrase. Choose the correct picture. bring",
