@@ -1,7 +1,7 @@
 {
   "version": "4.8.0",
-  "updated_at": "2026-10-13T12:42:28Z",
-  "total_questions": 12,
+  "updated_at": "2026-10-13T12:44:29Z",
+  "total_questions": 20,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -26,8 +26,8 @@
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     },
     "look at the word phrase choose the correct picture dim": {
       "question": "Look at the word/phrase. Choose the correct picture. dim",
@@ -63,16 +63,16 @@
       "question": "Look at the word/phrase. Choose the correct picture. advice",
       "clean_stem": "look at the word phrase choose the correct picture advice",
       "stem_key": "look at the word phrase choose the correct picture advice",
-      "answer": "A.",
-      "letter": "A",
+      "answer": "B.",
+      "letter": "B",
       "options": [
-        "A."
+        "B."
       ],
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     },
     "look at the word phrase choose the correct picture lose weight": {
       "question": "Look at the word/phrase. Choose the correct picture. lose weight",
@@ -86,8 +86,8 @@
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     },
     "look at the word phrase choose the correct picture be in good shape": {
       "question": "Look at the word/phrase. Choose the correct picture. be in good shape",
@@ -101,23 +101,23 @@
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     },
     "look at the word phrase choose the correct picture bring": {
       "question": "Look at the word/phrase. Choose the correct picture. bring",
       "clean_stem": "look at the word phrase choose the correct picture bring",
       "stem_key": "look at the word phrase choose the correct picture bring",
-      "answer": "A.",
-      "letter": "A",
+      "answer": "B.",
+      "letter": "B",
       "options": [
-        "A."
+        "B."
       ],
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     },
     "look at the word phrase choose the correct picture chapped": {
       "question": "Look at the word/phrase. Choose the correct picture. chapped",
@@ -146,8 +146,8 @@
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     },
     "look at the word phrase choose the correct picture balanced diet": {
       "question": "Look at the word/phrase. Choose the correct picture. balanced diet",
@@ -168,6 +168,21 @@
       "question": "Look at the word/phrase. Choose the correct picture. deal with",
       "clean_stem": "look at the word phrase choose the correct picture deal with",
       "stem_key": "look at the word phrase choose the correct picture deal with",
+      "answer": "B.",
+      "letter": "B",
+      "options": [
+        "B."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture vegetarian": {
+      "question": "Look at the word/phrase. Choose the correct picture. vegetarian",
+      "clean_stem": "look at the word phrase choose the correct picture vegetarian",
+      "stem_key": "look at the word phrase choose the correct picture vegetarian",
       "answer": "A.",
       "letter": "A",
       "options": [
@@ -176,8 +191,113 @@
       "inputs": [],
       "selects": [],
       "verified_100": true,
-      "source": "silent_review",
-      "updated_at": "2026-10-13T12:36:59Z"
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture provide": {
+      "question": "Look at the word/phrase. Choose the correct picture. provide",
+      "clean_stem": "look at the word phrase choose the correct picture provide",
+      "stem_key": "look at the word phrase choose the correct picture provide",
+      "answer": "A.",
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture focus on something": {
+      "question": "Look at the word/phrase. Choose the correct picture. focus on something",
+      "clean_stem": "look at the word phrase choose the correct picture focus on something",
+      "stem_key": "look at the word phrase choose the correct picture focus on something",
+      "answer": "A.",
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture avoid": {
+      "question": "Look at the word/phrase. Choose the correct picture. avoid",
+      "clean_stem": "look at the word phrase choose the correct picture avoid",
+      "stem_key": "look at the word phrase choose the correct picture avoid",
+      "answer": "C.",
+      "letter": "C",
+      "options": [
+        "C."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture protein": {
+      "question": "Look at the word/phrase. Choose the correct picture. protein",
+      "clean_stem": "look at the word phrase choose the correct picture protein",
+      "stem_key": "look at the word phrase choose the correct picture protein",
+      "answer": "C.",
+      "letter": "C",
+      "options": [
+        "C."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture active": {
+      "question": "Look at the word/phrase. Choose the correct picture. active",
+      "clean_stem": "look at the word phrase choose the correct picture active",
+      "stem_key": "look at the word phrase choose the correct picture active",
+      "answer": "A.",
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture skin condition": {
+      "question": "Look at the word/phrase. Choose the correct picture. skin condition",
+      "clean_stem": "look at the word phrase choose the correct picture skin condition",
+      "stem_key": "look at the word phrase choose the correct picture skin condition",
+      "answer": "C.",
+      "letter": "C",
+      "options": [
+        "C."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
+    },
+    "look at the word phrase choose the correct picture screen time": {
+      "question": "Look at the word/phrase. Choose the correct picture. screen time",
+      "clean_stem": "look at the word phrase choose the correct picture screen time",
+      "stem_key": "look at the word phrase choose the correct picture screen time",
+      "answer": "C.",
+      "letter": "C",
+      "options": [
+        "C."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-13T12:44:28Z"
     }
   }
 }
