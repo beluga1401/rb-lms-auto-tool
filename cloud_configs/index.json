@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13 18:13:50",
-  "total_configs": 4,
+  "updated_at": "2026-10-13 19:36:56",
+  "total_configs": 5,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -73,6 +73,24 @@
       "score_pct": 100.0,
       "question_count": 20,
       "updated_at": "2026-10-13 18:13:50"
+    },
+    {
+      "account_name": "Nguyễn Phúc Tấn",
+      "class_name": "Khối 7 (LGK LC-Lớp 7B (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 7B (2026-2027)",
+      "class_key": "khoi_7",
+      "grade_num": "7",
+      "unit_name": "SESSION 2_EXERCISES 17-29",
+      "unit_key": "session_2_exercises_17_29",
+      "quiz_title": "GR7EX23MOET",
+      "quiz_key": "gr7ex23moet",
+      "cmid": "730225",
+      "course_id": "4773",
+      "repo_path": "cloud_configs/khoi_7/session_2_exercises_17_29/gr7ex23moet.json",
+      "score": "100.0%",
+      "score_pct": 100.0,
+      "question_count": 11,
+      "updated_at": "2026-10-13 19:36:56"
     }
   ]
 }
