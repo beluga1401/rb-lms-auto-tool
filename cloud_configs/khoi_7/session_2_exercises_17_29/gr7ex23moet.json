@@ -14,8 +14,8 @@
     "repo_path": "cloud_configs/khoi_7/session_2_exercises_17_29/gr7ex23moet.json",
     "score": "100.0%",
     "score_pct": 100.0,
-    "question_count": 19,
-    "updated_at": "2026-10-13 19:44:36"
+    "question_count": 21,
+    "updated_at": "2026-10-13 20:04:25"
   },
   "answers": [
     {
@@ -90,16 +90,16 @@
     },
     {
       "answer": "A.",
-      "id": "question-1885107-8",
+      "id": "question-1885820-8",
       "inputs": [],
       "letter": "A",
       "options": [
         "A."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. lose weight",
-      "questionId": "question-1885107-8",
+      "questionId": "question-1885820-8",
       "questionKey": "look at the word/phrase. choose the correct picture. lose weight",
-      "questionNumber": 25,
+      "questionNumber": 5,
       "rightAnswer": "",
       "selects": [],
       "source": "silent_review",
@@ -108,16 +108,16 @@
     },
     {
       "answer": "A.",
-      "id": "question-1885107-5",
+      "id": "question-1885820-5",
       "inputs": [],
       "letter": "A",
       "options": [
         "A."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. be in good shape",
-      "questionId": "question-1885107-5",
+      "questionId": "question-1885820-5",
       "questionKey": "look at the word/phrase. choose the correct picture. be in good shape",
-      "questionNumber": 10,
+      "questionNumber": 8,
       "rightAnswer": "",
       "selects": [],
       "source": "silent_review",
@@ -179,20 +179,21 @@
     },
     {
       "answer": "B.",
-      "id": "question-1885459-4",
+      "id": "question-1885820-4",
       "inputs": [],
       "letter": "B",
       "options": [
         "B."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. balanced diet",
-      "questionId": "question-1885459-4",
+      "questionId": "question-1885820-4",
       "questionKey": "look at the word/phrase. choose the correct picture. balanced diet",
-      "questionNumber": 22,
+      "questionNumber": 12,
       "rightAnswer": "",
       "selects": [],
       "source": "silent_review",
-      "verified_100": true
+      "verified_100": true,
+      "legacyQKey": "look at the word/phrase. choose the correct picture. balanced diet"
     },
     {
       "answer": "B.",
@@ -214,7 +215,7 @@
     },
     {
       "answer": "A.",
-      "id": "question-1885107-19",
+      "id": "question-1885820-19",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. vegetarian",
       "letter": "A",
@@ -222,9 +223,9 @@
         "A."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. vegetarian",
-      "questionId": "question-1885107-19",
+      "questionId": "question-1885820-19",
       "questionKey": "look at the word/phrase. choose the correct picture. vegetarian",
-      "questionNumber": 3,
+      "questionNumber": 23,
       "selects": [],
       "verified_100": true
     },
@@ -246,7 +247,7 @@
     },
     {
       "answer": "A.",
-      "id": "question-1885107-7",
+      "id": "question-1885820-7",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. focus on something",
       "letter": "A",
@@ -254,15 +255,15 @@
         "A."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. focus on something",
-      "questionId": "question-1885107-7",
+      "questionId": "question-1885820-7",
       "questionKey": "look at the word/phrase. choose the correct picture. focus on something",
-      "questionNumber": 11,
+      "questionNumber": 16,
       "selects": [],
       "verified_100": true
     },
     {
       "answer": "C.",
-      "id": "question-1885107-3",
+      "id": "question-1885820-3",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. avoid",
       "letter": "C",
@@ -270,15 +271,15 @@
         "C."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. avoid",
-      "questionId": "question-1885107-3",
+      "questionId": "question-1885820-3",
       "questionKey": "look at the word/phrase. choose the correct picture. avoid",
-      "questionNumber": 12,
+      "questionNumber": 10,
       "selects": [],
       "verified_100": true
     },
     {
       "answer": "C.",
-      "id": "question-1885107-12",
+      "id": "question-1885820-12",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. protein",
       "letter": "C",
@@ -286,9 +287,9 @@
         "C."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. protein",
-      "questionId": "question-1885107-12",
+      "questionId": "question-1885820-12",
       "questionKey": "look at the word/phrase. choose the correct picture. protein",
-      "questionNumber": 13,
+      "questionNumber": 11,
       "selects": [],
       "verified_100": true
     },
@@ -337,6 +338,38 @@
       "questionId": "question-1885107-16",
       "questionKey": "look at the word/phrase. choose the correct picture. screen time",
       "questionNumber": 26,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "A.",
+      "id": "question-1885820-17",
+      "inputs": [],
+      "legacyQKey": "look at the word/phrase. choose the correct picture. spend time doing something",
+      "letter": "A",
+      "options": [
+        "A."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. spend time doing something",
+      "questionId": "question-1885820-17",
+      "questionKey": "look at the word/phrase. choose the correct picture. spend time doing something",
+      "questionNumber": 4,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "B.",
+      "id": "question-1885820-9",
+      "inputs": [],
+      "legacyQKey": "look at the word/phrase. choose the correct picture. mental",
+      "letter": "B",
+      "options": [
+        "B."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. mental",
+      "questionId": "question-1885820-9",
+      "questionKey": "look at the word/phrase. choose the correct picture. mental",
+      "questionNumber": 18,
       "selects": [],
       "verified_100": true
     }
