@@ -14,8 +14,8 @@
     "repo_path": "cloud_configs/khoi_7/session_2_exercises_17_29/gr7ex23moet.json",
     "score": "100.0%",
     "score_pct": 100.0,
-    "question_count": 22,
-    "updated_at": "2026-10-13 20:07:29"
+    "question_count": 23,
+    "updated_at": "2026-10-13 20:17:20"
   },
   "answers": [
     {
@@ -197,16 +197,16 @@
     },
     {
       "answer": "B.",
-      "id": "question-1885107-20",
+      "id": "question-1885984-20",
       "inputs": [],
       "letter": "B",
       "options": [
         "B."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. deal with",
-      "questionId": "question-1885107-20",
+      "questionId": "question-1885984-20",
       "questionKey": "look at the word/phrase. choose the correct picture. deal with",
-      "questionNumber": 2,
+      "questionNumber": 6,
       "rightAnswer": "",
       "selects": [],
       "source": "silent_review",
@@ -231,7 +231,7 @@
     },
     {
       "answer": "A.",
-      "id": "question-1885107-13",
+      "id": "question-1885984-13",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. provide",
       "letter": "A",
@@ -239,9 +239,9 @@
         "A."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. provide",
-      "questionId": "question-1885107-13",
+      "questionId": "question-1885984-13",
       "questionKey": "look at the word/phrase. choose the correct picture. provide",
-      "questionNumber": 7,
+      "questionNumber": 20,
       "selects": [],
       "verified_100": true
     },
@@ -295,7 +295,7 @@
     },
     {
       "answer": "A.",
-      "id": "question-1885107-1",
+      "id": "question-1885984-1",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. active",
       "letter": "A",
@@ -303,7 +303,7 @@
         "A."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. active",
-      "questionId": "question-1885107-1",
+      "questionId": "question-1885984-1",
       "questionKey": "look at the word/phrase. choose the correct picture. active",
       "questionNumber": 17,
       "selects": [],
@@ -375,7 +375,7 @@
     },
     {
       "answer": "B.",
-      "id": "question-1885910-11",
+      "id": "question-1885984-11",
       "inputs": [],
       "legacyQKey": "look at the word/phrase. choose the correct picture. prevent",
       "letter": "B",
@@ -383,9 +383,25 @@
         "B."
       ],
       "question": "Look at the word/phrase. Choose the correct picture. prevent",
-      "questionId": "question-1885910-11",
+      "questionId": "question-1885984-11",
       "questionKey": "look at the word/phrase. choose the correct picture. prevent",
-      "questionNumber": 18,
+      "questionNumber": 9,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "B.",
+      "id": "question-1885984-6",
+      "inputs": [],
+      "legacyQKey": "look at the word/phrase. choose the correct picture. energy",
+      "letter": "B",
+      "options": [
+        "B."
+      ],
+      "question": "Look at the word/phrase. Choose the correct picture. energy",
+      "questionId": "question-1885984-6",
+      "questionKey": "look at the word/phrase. choose the correct picture. energy",
+      "questionNumber": 12,
       "selects": [],
       "verified_100": true
     }
