@@ -1,16 +1,18 @@
 {
-  "version": "4.7.8",
+  "version": "4.7.9",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-12",
+  "release_date": "2026-10-13",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "CSS Auto-Expand & Column Bypass: Tự động gỡ bỏ hoàn toàn giới hạn chiều cao và thanh cuộn lồng, dàn đều 2 cột song song Bài đọc bên trái - Câu hỏi bên phải ngay khi vừa mở bài",
-    "Thuật toán quét DOM sâu & Micro-Context Linking cho dạng Mini Text Cloze: Quét sâu cả cột trái, trích xuất trọn vẹn bài đọc và tự động gắn Target Sentence theo từng chỗ trống (1), (2), (3)",
-    "Nâng cấp Prompt chuyên sâu cho Mini Text Cloze: Yêu cầu AI thế trực tiếp từng đáp án A, B, C, D vào chỗ trống để phân tích ngữ pháp (thì, động từ chỉ dự định, động từ nối, collocation)",
-    "Khóa chặt định dạng điền ô Write A, B, C or D: Chỉ điền duy nhất 1 chữ cái in hoa (A, B, C hoặc D), tương thích 100% với hệ thống chấm điểm tự động LMS"
+    "Hệ Thống Auto Spy Đáp Án Đa Tầng (Multi-Tier Answer Spy Engine): Trinh sát đáp án toàn diện qua Radar 3 tầng trước khi gọi AI, tự động điền 100% 0 giây không tiêu tốn token",
+    "Tầng 1 (DOM & Client Leaks Spy): Quét sạch thuộc tính rò rỉ frontend [data-correct], [data-answer], [data-fraction='1'], class .correct, .rightanswer, input hidden, comment tags và biến JS window",
+    "Tầng 2 (Silent Review Spy): Tự động trích xuất ngầm lịch sử các lượt thi trước qua view.php/review.php cùng tài khoản, cào sạch câu đúng 100% được server công nhận",
+    "Tầng 3 (Cloud Answer Spy): Tự động nhận diện môn, lớp, unit và kéo bộ đáp án >= 95 điểm từ GitHub Cloud repository",
+    "Tầng 4 (Seamless AI Fallback): Tự động chuyển giao sang Gemini AI CoT giải các câu còn lại nếu hệ thống Spy chỉ tìm thấy một phần hoặc chưa có dữ liệu",
+    "Tích hợp nút 🕵️ Auto Spy Đáp Án trên thanh công cụ và radar tự động vào chu trình AI 1-Touch"
   ]
 }
