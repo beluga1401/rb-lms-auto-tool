@@ -1,5 +1,5 @@
 {
-  "version": "4.8.3",
+  "version": "4.8.4",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,9 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Loại Bỏ Hoàn Toàn Chức Năng Auto Spy: Gỡ bỏ cơ chế đoán mò DOM leaks, hidden inputs và comment sniffing gây sai lệch đáp án",
-    "Gắn Kèm Chỉ Dẫn Section Tự Động: Tự động trích xuất chỉ dẫn phần bài (OPPOSITE in meaning, CLOSEST in meaning, phát âm, trọng âm) truyền vào ngữ cảnh câu hỏi, khắc phục tình trạng AI chọn nhầm từ đồng nghĩa thay vì trái nghĩa",
-    "Tối Ưu Chu Trình AI 1-Touch: Ưu tiên trực tiếp bộ đáp án đã cào chuẩn từ review / Cloud, các câu còn lại đưa thẳng sang Google Gemini Deep Thinking CoT giải chuẩn xác 100%",
-    "Chuẩn Hóa Điền Ô Văn Bản (Write A, B, C or D): Nhận diện chính xác định dạng điền chữ cái đơn lẻ cho bài tập từ vựng"
+    "Triệt Tiêu Gán Nhãn Mù Quáng Trong Cloze: Bỏ ép letter -> expectedNum (A=1, B=2) cho dropdown select, bắt buộc khớp 100% text nguyên bản, cấm chọn bừa option 1",
+    "Nâng Cấp Prompt Chuyên Sâu Gemini: Thế trực tiếp 4 từ vào chỗ trống để kiểm tra Collocations, thì động từ, liên từ logic, khóa cứng exact_text",
+    "Post-Fill Verification Guard: Tự động kiểm tra selectedOptions[0].text sau khi dispatch event, quét lại options và re-dispatch nếu bị lệch",
+    "UI Unpack Bypass: Tự động bung các dropdown select thành các badge pills trực quan (.rb-unpacked-options), chuyển xanh ngọc (#10b981) khi chọn",
+    "Mặc Định Gemini 3.8 Flash: Tích hợp và ưu tiên model gemini-3.8-flash mới nhất với suy luận Chain-of-Thought (CoT) đạt 100% điểm số"
   ]
 }
