@@ -1,5 +1,5 @@
 {
-  "version": "4.8.4",
+  "version": "4.8.5",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Triệt Tiêu Gán Nhãn Mù Quáng Trong Cloze: Bỏ ép letter -> expectedNum (A=1, B=2) cho dropdown select, bắt buộc khớp 100% text nguyên bản, cấm chọn bừa option 1",
-    "Nâng Cấp Prompt Chuyên Sâu Gemini: Thế trực tiếp 4 từ vào chỗ trống để kiểm tra Collocations, thì động từ, liên từ logic, khóa cứng exact_text",
-    "Post-Fill Verification Guard: Tự động kiểm tra selectedOptions[0].text sau khi dispatch event, quét lại options và re-dispatch nếu bị lệch",
-    "UI Unpack Bypass: Tự động bung các dropdown select thành các badge pills trực quan (.rb-unpacked-options), chuyển xanh ngọc (#10b981) khi chọn",
-    "Mặc Định Gemini 3.8 Flash: Tích hợp và ưu tiên model gemini-3.8-flash mới nhất với suy luận Chain-of-Thought (CoT) đạt 100% điểm số"
+    "Gom Nhóm Toàn Vẹn Ngữ Cảnh Bài Đọc (Passage Cohesive Grouping): Gom tất cả các blank thuộc cùng bài đọc/thông báo (SMART COOKING SATURDAY, HEALTH HABITS WEEK...) truyền trọn vẹn văn bản kèm [Blank 1], [Blank 2]... và options trong cùng một prompt, triệt tiêu lỗi phân mảnh per-blank",
+    "Khóa Cứng 5 Quy Tắc Ngôn Ngữ Học Nghiêm Ngặt (Strict Linguistic Guardrails): Bắt buộc kiểm tra Preposition Agreement (cut down ON vs suffer FROM), Time Indicators (Last May -> Past Simple started), Discourse Markers (First trước After that), Semantic Category Matching (dish vs treatment, build muscle strength), và Imperative Clauses (start slowly vs since)",
+    "Chunking Thông Minh Theo Bài Đọc: Tự động gom nhóm các block bài đọc khi batching, cấm chia cắt các blank của cùng một bài đọc sang các batch AI khác nhau",
+    "Tối Ưu Trích Xuất & Nhận Diện Đoạn Văn LMS: Bổ sung parentId, passageText, passageTitle vào dữ liệu trích xuất từ DOM trang Moodle",
+    "Mặc Định Gemini 3.8 Flash & CoT Nâng Cao: Tối đa hóa độ chính xác 100% với suy luận Chain-of-Thought chuyên sâu trên mọi dạng bài Cloze Reading và Functional Texts"
   ]
 }
