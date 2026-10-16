@@ -1,5 +1,5 @@
 {
-  "version": "4.8.7",
+  "version": "4.8.8",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Động Cơ Quét Hybrid Thông Minh (isHybridImage): Tự động trích xuất Base64 gửi Gemini Vision đối với câu hỏi có ảnh minh họa (>60px), hình vẽ biểu đồ, công thức toán hoặc gạch chân tìm lỗi sai (Underlined Error ID); đồng thời tối ưu gửi text thuần cho các câu trắc nghiệm thường và dropdown selects.",
-    "Nâng Cấp Model Chính Thành Gemini 3.5 Flash Lite (gemini-3.5-flash-lite): Tốc độ phản hồi tức thì, giải nhanh chính xác và ổn định vượt trội trên Google AI Studio.",
-    "Bảng Điều Khiển 10 API Key Slots & Realtime Indicators: Cung cấp 10 khay nhập API Key độc lập, khu vực Dán Nhanh danh sách hàng loạt (Bulk Paste), hiển thị realtime trạng thái từng slot (🟢 Sẵn sàng | 🔵 Đang xử lý | 🟡 Cooldown 429 | 🔴 Lỗi) cùng nút '⚡ Kiểm Tra Sức Khỏe 10 API Key'.",
-    "Pipeline Giải Cuốn Chiếu 1 Trang 1 API Key 1 Request: Tuần hoàn lặp lại 10 trang / 10 API Keys, giải trực tiếp từng trang, điền ngay đáp án và tự động bấm Next chuyển trang, sau 10 trang lặp lại từ Key 1.",
-    "Bảo Toàn 100% Đồng Bộ Hai Chiều & Form Serialization Moodle: Tương thích hoàn toàn hệ thống nộp bài và lưu trữ đáp án của LMS."
+    "Sửa Triệt Để Layout Moodle Reading Comprehension: Loại bỏ ép flex-direction ngang gây bẹp bài đọc và tràn câu hỏi thành hàng ngang; chuẩn hóa cấu trúc hiển thị dọc trực quan.",
+    "Khắc Phục Nuốt Đáp Án D (DotAll Multiline Option Parsing): Áp dụng thuật toán quét từng dòng kết hợp fallback đa dòng, đảm bảo 100% trích xuất đầy đủ A, B, C, D kể cả khi có dòng hướng dẫn 'Write A, B, C, or D -'.",
+    "Phân Lập Hoàn Toàn Reading Comprehension & Cloze Test: Loại bỏ việc nhận diện nhầm số thứ tự trong bài đọc làm targetSentence; vô hiệu hóa cloze instructions trên bài đọc hiểu thuần túy.",
+    "Bổ Sung Bộ Quy Tắc Giải Reading Comprehension Chuyên Sâu: Tối ưu hóa suy luận cho câu hỏi từ vựng trong văn cảnh (Closest / Opposite in Meaning), câu phủ định (NOT TRUE / EXCEPT) và ý chính (Best Title / Main Idea).",
+    "Duy Trì Hệ Thống 10 API Key Slots, Quét Hybrid Tự Động & Pipeline Giải Cuốn Chiếu 1 Trang 1 Key 1 Request Vượt Trội."
   ]
 }
