@@ -1,5 +1,5 @@
 {
-  "version": "4.8.8",
+  "version": "4.8.9",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,10 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Sửa Triệt Để Layout Moodle Reading Comprehension: Loại bỏ ép flex-direction ngang gây bẹp bài đọc và tràn câu hỏi thành hàng ngang; chuẩn hóa cấu trúc hiển thị dọc trực quan.",
-    "Khắc Phục Nuốt Đáp Án D (DotAll Multiline Option Parsing): Áp dụng thuật toán quét từng dòng kết hợp fallback đa dòng, đảm bảo 100% trích xuất đầy đủ A, B, C, D kể cả khi có dòng hướng dẫn 'Write A, B, C, or D -'.",
-    "Phân Lập Hoàn Toàn Reading Comprehension & Cloze Test: Loại bỏ việc nhận diện nhầm số thứ tự trong bài đọc làm targetSentence; vô hiệu hóa cloze instructions trên bài đọc hiểu thuần túy.",
-    "Bổ Sung Bộ Quy Tắc Giải Reading Comprehension Chuyên Sâu: Tối ưu hóa suy luận cho câu hỏi từ vựng trong văn cảnh (Closest / Opposite in Meaning), câu phủ định (NOT TRUE / EXCEPT) và ý chính (Best Title / Main Idea).",
-    "Duy Trì Hệ Thống 10 API Key Slots, Quét Hybrid Tự Động & Pipeline Giải Cuốn Chiếu 1 Trang 1 Key 1 Request Vượt Trội."
+    "Tối Ưu Hóa Toàn Diện UI Cho AI Quét Ảnh & Text: Loại bỏ 100% rác giao diện (header, footer khổng lồ, thanh điều hướng rác) để dành trọn vẹn diện tích cho bài đọc và câu hỏi.",
+    "Typography Tương Phản Cao Sắc Nét: Font chữ 16px to rõ ràng, độ tương phản đen/trắng tối ưu giúp AI Vision, OCR và mắt người nhận diện ký tự chính xác tuyệt đối.",
+    "Bố Cục Đọc Hiểu Split-View 2 Cột Cân Xứng: Cột bài đọc cuộn độc lập và cột câu hỏi card riêng biệt, chuẩn hóa đóng khung bài functional text / announcement thay vì kéo dãn tràn màn hình.",
+    "Nâng Cấp Smart Zoom 80% Chuẩn AI: Mặc định hiển thị 80% to rõ, viền nét thay vì 50% co cụm mờ chữ; hỗ trợ upscale ảnh trích xuất qua Canvas với imageSmoothingQuality cao nhất.",
+    "Tô Đậm Nổi Bật Gạch Chân & Ô Nhập Liệu: Gạch chân tìm lỗi sai 2.5px rõ rệt, ô nhập single letter to rõ và dropdown select nổi bật giúp AI trích xuất và điền đáp án chuẩn 100%."
   ]
 }
