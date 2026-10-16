@@ -65,7 +65,7 @@ urllib.request.install_opener(_CUSTOM_OPENER)
 
 
 def _fetch_json_url(url, headers=None, timeout=10):
-    headers = headers or {"User-Agent": "RB-LMS-Updater/4.8.7"}
+    headers = headers or {"User-Agent": "RB-LMS-Updater/4.8.8"}
     if requests is not None:
         try:
             r = requests.get(url, headers=headers, timeout=timeout, verify=False, allow_redirects=True)
@@ -98,7 +98,7 @@ def _fetch_json_url(url, headers=None, timeout=10):
 APP_NAME = "RB LMS Auto Tool"
 EXE_NAME = "RB_LMS_Auto_Tool_NoKey.exe"
 SETUP_EXE_NAME = "RB_LMS_Setup.exe"
-DEFAULT_VERSION = "4.8.7"
+DEFAULT_VERSION = "4.8.8"
 DEFAULT_GITHUB_REPO = "beluga1401/rb-lms-auto-tool"
 
 INSTALL_DIR = os.path.join(os.environ.get("LOCALAPPDATA", os.path.expanduser("~")), "RB_LMS_Auto_Tool")
@@ -398,7 +398,7 @@ class InstallUpdateWorker(QThread):
                     # Engine 1: requests (with verify=False, stream=True, auto redirect)
                     if requests is not None:
                         try:
-                            headers = {"User-Agent": "RB-LMS-Updater/4.8.7"}
+                            headers = {"User-Agent": "RB-LMS-Updater/4.8.8"}
                             if self.token and "api.github.com" in try_url:
                                 headers["Authorization"] = f"Bearer {self.token}"
                             with requests.get(try_url, headers=headers, stream=True, verify=False, timeout=60, allow_redirects=True) as resp:
@@ -475,7 +475,7 @@ class InstallUpdateWorker(QThread):
                     # Engine 3: _CUSTOM_OPENER (Universal Unverified Opener)
                     if not downloaded_ok:
                         try:
-                            headers = {"User-Agent": "RB-LMS-Updater/4.8.7"}
+                            headers = {"User-Agent": "RB-LMS-Updater/4.8.8"}
                             if self.token and "api.github.com" in try_url:
                                 headers["Authorization"] = f"Bearer {self.token}"
                             req = urllib.request.Request(try_url, headers=headers)
