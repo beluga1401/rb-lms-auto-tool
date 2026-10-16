@@ -1,5 +1,5 @@
 {
-  "version": "4.8.9",
+  "version": "4.9.0",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,10 +8,9 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Tối Ưu Hóa Toàn Diện UI Cho AI Quét Ảnh & Text: Loại bỏ 100% rác giao diện (header, footer khổng lồ, thanh điều hướng rác) để dành trọn vẹn diện tích cho bài đọc và câu hỏi.",
-    "Typography Tương Phản Cao Sắc Nét: Font chữ 16px to rõ ràng, độ tương phản đen/trắng tối ưu giúp AI Vision, OCR và mắt người nhận diện ký tự chính xác tuyệt đối.",
-    "Bố Cục Đọc Hiểu Split-View 2 Cột Cân Xứng: Cột bài đọc cuộn độc lập và cột câu hỏi card riêng biệt, chuẩn hóa đóng khung bài functional text / announcement thay vì kéo dãn tràn màn hình.",
-    "Nâng Cấp Smart Zoom 80% Chuẩn AI: Mặc định hiển thị 80% to rõ, viền nét thay vì 50% co cụm mờ chữ; hỗ trợ upscale ảnh trích xuất qua Canvas với imageSmoothingQuality cao nhất.",
-    "Tô Đậm Nổi Bật Gạch Chân & Ô Nhập Liệu: Gạch chân tìm lỗi sai 2.5px rõ rệt, ô nhập single letter to rõ và dropdown select nổi bật giúp AI trích xuất và điền đáp án chuẩn 100%."
+    "Tối Ưu Giao Diện Toàn Diện Cho AI Quét Ảnh & Text: Bung nhãn A., B., C., D. trực tiếp vào từng thẻ <option> và tạo Bảng Lựa Chọn Ô Trống (Cloze Options Panel) trực quan đặt ngay dưới bài đọc.",
+    "Khắc Phục Triệt Để Lỗi Bỏ Trống Dropdown Select (Trang 23): Tự động phân giải chữ cái A-D sang text của phương án tương ứng; bỏ chặn map chữ cái kể cả khi dropdown chỉ chứa từ vựng thuần túy.",
+    "Đồng Bộ 2 Chiều Giao Diện Lựa Chọn: Click vào pill inline hoặc nút trong Options Panel tự động cập nhật thẻ select và đổi màu xanh ngọc đồng bộ.",
+    "Fail-Safe Điền Hoàn Tất 100%: Bảo đảm không bao giờ để rỗng ô select khi nộp bài, triệt tiêu hoàn toàn lỗi kẹt vòng lặp chuyển trang trên Moodle."
   ]
 }
