@@ -1,5 +1,5 @@
 {
-  "version": "4.9.2",
+  "version": "4.9.3",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,9 +8,8 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi auto bấm nhầm nút 'Tiếp tục lần thử cuối cùng' / reload lặp trên trang view.php & review.php khi ở trạng thái Sẵn sàng.",
-    "Tinh chỉnh JS Engine: Tuyệt đối không nhận diện view.php và review.php là màn hình cảnh báo (notice page).",
-    "Thắt chặt điều kiện phát hiện thông báo Moodle: Chỉ kiểm tra và tự động bấm 'Tiếp tục' khi đang chạy chu trình tự động (AI 1-Touch / Auto Learning) và chỉ trên các trang hợp lệ (attempt.php, processattempt.php, summary.php).",
-    "Loại bỏ hoàn toàn các nút thao tác làm bài (lần thử, cuối cùng, làm lại đề thi) khỏi danh sách bấm của bộ xử lý cảnh báo Moodle."
+    "Khắc phục triệt để lỗi kẹt dừng tại màn hình 'Đã hoàn thành lần làm này.' (notice box đỏ / hồng): Quét toàn trang và tự động bấm nút 'Tiếp tục' trong mọi cấu trúc DOM của Moodle (.singlebutton, .continuebutton, #notice, #region-main).",
+    "Mở rộng cơ chế click notice: Tự động phát hiện nút 'Tiếp tục' dạng button, input submit và link thẻ a trong form singlebutton, dispatch sự kiện chuột và requestSubmit chuẩn xác.",
+    "Bảo vệ 2 chiều hoàn hảo: Tuyệt đối không click nhầm trên view.php / review.php khi ở trạng thái Sẵn sàng, nhưng tự động vượt qua 100% màn hình thông báo hoàn thành trên attempt.php / processattempt.php khi đang chạy chu trình AI 1-Touch 100 Điểm."
   ]
 }
