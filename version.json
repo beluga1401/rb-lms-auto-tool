@@ -1,16 +1,16 @@
 {
-  "version": "4.9.0",
+  "version": "4.9.1",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-16",
+  "release_date": "2026-10-17",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Tối Ưu Giao Diện Toàn Diện Cho AI Quét Ảnh & Text: Bung nhãn A., B., C., D. trực tiếp vào từng thẻ <option> và tạo Bảng Lựa Chọn Ô Trống (Cloze Options Panel) trực quan đặt ngay dưới bài đọc.",
-    "Khắc Phục Triệt Để Lỗi Bỏ Trống Dropdown Select (Trang 23): Tự động phân giải chữ cái A-D sang text của phương án tương ứng; bỏ chặn map chữ cái kể cả khi dropdown chỉ chứa từ vựng thuần túy.",
-    "Đồng Bộ 2 Chiều Giao Diện Lựa Chọn: Click vào pill inline hoặc nút trong Options Panel tự động cập nhật thẻ select và đổi màu xanh ngọc đồng bộ.",
-    "Fail-Safe Điền Hoàn Tất 100%: Bảo đảm không bao giờ để rỗng ô select khi nộp bài, triệt tiêu hoàn toàn lỗi kẹt vòng lặp chuyển trang trên Moodle."
+    "Khắc phục triệt để lỗi kẹt dừng nút '🛑 Dừng AI 100 Điểm' khi Moodle hiển thị thông báo 'Đã hoàn thành lần làm này.'",
+    "Sửa lỗi TypeError khi submit form: Tự động lọc bỏ thẻ <input type='hidden'> của Moodle sesskey khỏi danh sách nút bấm, bảo đảm thực thi requestSubmit/submit chính xác 100%.",
+    "Tự động phát hiện và bấm nút 'Tiếp tục' (Continue) trên mọi màn hình thông báo Moodle (attempt.php, processattempt.php, summary.php, view.php).",
+    "Nâng cấp Watchdog tự động phục hồi: Ưu tiên xử lý màn hình thông báo hoàn thành ngay lập tức và chuyển tiếp về view.php để kiểm tra điểm & làm lại bài."
   ]
 }
