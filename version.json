@@ -1,5 +1,5 @@
 {
-  "version": "4.9.1",
+  "version": "4.9.2",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
@@ -8,9 +8,9 @@
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi kẹt dừng nút '🛑 Dừng AI 100 Điểm' khi Moodle hiển thị thông báo 'Đã hoàn thành lần làm này.'",
-    "Sửa lỗi TypeError khi submit form: Tự động lọc bỏ thẻ <input type='hidden'> của Moodle sesskey khỏi danh sách nút bấm, bảo đảm thực thi requestSubmit/submit chính xác 100%.",
-    "Tự động phát hiện và bấm nút 'Tiếp tục' (Continue) trên mọi màn hình thông báo Moodle (attempt.php, processattempt.php, summary.php, view.php).",
-    "Nâng cấp Watchdog tự động phục hồi: Ưu tiên xử lý màn hình thông báo hoàn thành ngay lập tức và chuyển tiếp về view.php để kiểm tra điểm & làm lại bài."
+    "Khắc phục triệt để lỗi auto bấm nhầm nút 'Tiếp tục lần thử cuối cùng' / reload lặp trên trang view.php & review.php khi ở trạng thái Sẵn sàng.",
+    "Tinh chỉnh JS Engine: Tuyệt đối không nhận diện view.php và review.php là màn hình cảnh báo (notice page).",
+    "Thắt chặt điều kiện phát hiện thông báo Moodle: Chỉ kiểm tra và tự động bấm 'Tiếp tục' khi đang chạy chu trình tự động (AI 1-Touch / Auto Learning) và chỉ trên các trang hợp lệ (attempt.php, processattempt.php, summary.php).",
+    "Loại bỏ hoàn toàn các nút thao tác làm bài (lần thử, cuối cùng, làm lại đề thi) khỏi danh sách bấm của bộ xử lý cảnh báo Moodle."
   ]
 }
