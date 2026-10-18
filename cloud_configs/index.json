@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 20:08:35",
+  "updated_at": "2026-10-18 20:15:27",
   "total_configs": 18,
   "configs": [
     {
@@ -242,24 +242,6 @@
       "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
       "class_key": "khoi_11",
       "grade_num": "11",
-      "unit_name": "SESSION 2_EXERCISES 17-29",
-      "unit_key": "session_2_exercises_17_29",
-      "quiz_title": "GR11EX29MOET UNIT 3",
-      "quiz_key": "gr11ex29moet_unit_3",
-      "cmid": "733927",
-      "course_id": "4775",
-      "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex29moet_unit_3.json",
-      "score": "100.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 40,
-      "updated_at": "2026-10-18 19:42:50"
-    },
-    {
-      "account_name": "Thái Phương Thanh",
-      "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
       "unit_name": "SESSION 3 - ÔN TẬP GK1",
       "unit_key": "session_3_on_tap_gk1",
       "quiz_title": "GR11EX30-TERM 1 MID-TEST REVIEW",
@@ -325,6 +307,24 @@
       "score_pct": 100.0,
       "question_count": 33,
       "updated_at": "2026-10-18 20:08:35"
+    },
+    {
+      "account_name": "Nguyễn Văn Phi Tiến",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 2_EXERCISES 17-29",
+      "unit_key": "session_2_exercises_17_29",
+      "quiz_title": "GR11EX29MOET UNIT 3",
+      "quiz_key": "gr11ex29moet_unit_3",
+      "cmid": "733922",
+      "course_id": "4775",
+      "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex29moet_unit_3.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 40,
+      "updated_at": "2026-10-18 20:15:27"
     }
   ]
 }
