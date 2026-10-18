@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Hoàng Yến Vy",
-    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "account_name": "Nguyễn Trần Đạt",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
     "class_key": "khoi_9",
     "grade_num": "9",
     "unit_name": "SESSION 3 - ÔN TẬP GK1",
     "unit_key": "session_3_on_tap_gk1",
     "quiz_title": "GR9EX30-TERM 1 MID-TEST REVIEW",
     "quiz_key": "gr9ex30_term_1_mid_test_review",
-    "cmid": "739879",
+    "cmid": "739883",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_9/session_3_on_tap_gk1/gr9ex30_term_1_mid_test_review.json",
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 80,
-    "updated_at": "2026-10-18 20:46:27"
+    "question_count": 92,
+    "updated_at": "2026-10-18 21:03:50"
   },
   "answers": [
     {
@@ -398,7 +398,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1901159-3",
+      "id": "question-1901131-3",
       "inputs": [
         {
           "index": 0,
@@ -425,7 +425,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. KEEPING A BASKET-MAKING SKILL ALIVE An Hoa is a small village known for its bamboo baskets. Many families there have made baskets for years. (13) ______. One of them is Mr Nam, who learnt the skill from his father when he was a teenager. Before making a basket, artisans cut bamboo into thin strips and leave them in the sun to dry. (14) ______. After that, they weave the strips together and trim the loose ends. Mr Nam now teaches a weekend class at the community house. At first, some students find weaving difficult. (15) ______. This helps them see where the strips should cross and how tightly to pull them. Students also learn why the craft matters. The baskets are useful, and visitors often buy them as souvenirs. (16) ______. For this reason, many villagers want the skill to continue. (17) ______. He says the best way to protect a traditional craft is to let young people practise it and use it in daily life. Question 13. A. Today, several young residents sell finished baskets at nearby markets.B. The village also has a small centre where visitors learn about bamboo.C. Today, several local artisans still make the baskets by hand.D. Some local families now buy most household goods from town. Write A, B, C, or D - {#1} Question 14. A. When the strips are dry, the artisans smooth them carefully.B. While the strips are drying, the artisans begin weaving the basket.C. After the basket is sold, the strips are cut to the right length.D. Before cutting the bamboo, artisans finish the edges of each basket. Write A, B, C, or D - {#2} Question 15. A. The students choose colours for the baskets before every lesson.B. The students take their unfinished baskets home after each class.C. The class compares its baskets with products at the local market.D. Mr Nam demonstrates each step before the students try it. Write A, B, C, or D - {#3} Question 16. A. Some visitors prefer watching the artisans to buying a basket.B. Selling the handmade baskets also gives some families extra income.C. The village market offers several other products made from bamboo.D. Many baskets are used for both storage and home decoration. Write A, B, C, or D - {#4} Question 17. A. Mr Nam hopes the class will move to the local market next year.B. Mr Nam believes baskets should be made only for visiting tourists.C. Mr Nam is pleased that more young people join the class each year.D. Mr Nam wants students to spend more time selling than weaving. Write A, B, C, or D - {#5}",
-      "questionId": "question-1901159-3",
+      "questionId": "question-1901131-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. keeping a basket-making skill alive an hoa is a small village known for its bamboo baskets. many families there have made baskets for years. (13) ______. one of them is mr nam, who learnt the skill from his father when he was a teenager. before making a basket, artisans cut bamboo into thin strips and leave them in the sun to dry. (14) ______. after that, they weave the strips together and trim the loose ends. mr nam now teaches a weekend class at the community house. at first, some students find weaving difficult. (15) ______. this helps them see where the strips should cross and how tightly to pull them. students also learn why the craft matters. the baskets are useful, and visitors often buy them as souvenirs. (16) ______. for this reason, many villagers want the skill to continue. (17) ______. he says the best way to protect a traditional craft is to let young people practise it and use it in daily life. question 13. a. today, several young residents sell finished baskets at nearby markets.b. the village also has a small centre where visitors learn about bamboo.c. today, several local artisans still make the baskets by hand.d. some local families now buy most household goods from town. write a, b, c, or d - {#1} question 14. a. when the strips are dry, the artisans smooth them carefully.b. while the strips are drying, the artisans begin weaving the basket.c. after the basket is sold, the strips are cut to the right length.d. before cutting the bamboo, artisans finish the edges of each basket. write a, b, c, or d - {#2} question 15. a. the students choose colours for the baskets before every lesson.b. the students take their unfinished baskets home after each class.c. the class compares its baskets with products at the local market.d. mr nam demonstrates each step before the students try it. write a, b, c, or d - {#3} question 16. a. some visitors prefer watching the artisans to buying a basket.b. selling the handmade baskets also gives some families extra income.c. the village market offers several other products made from bamboo.d. many baskets are used for both storage and home decoration. write a, b, c, or d - {#4} question 17. a. mr nam hopes the class will move to the local market next year.b. mr nam believes baskets should be made only for visiting tourists.c. mr nam is pleased that more young people join the class each year.d. mr nam wants students to spend more time selling than weaving. write a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -433,7 +433,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1901159-7",
+      "id": "question-1901131-7",
       "inputs": [
         {
           "index": 0,
@@ -444,15 +444,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21. a. Lan: Sure. Go straight and turn left at the bakery.b. Minh: Thanks a lot.c. Minh: Excuse me, could you show me how to get to the community library, please?d. Lan: You're welcome.A. c – b – a – dB. c – a – b – dC. a – c – d – bD. b – c – a – d Write A, B, C, or D - {#1}",
-      "questionId": "question-1901159-7",
+      "questionId": "question-1901131-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21. a. lan: sure. go straight and turn left at the bakery.b. minh: thanks a lot.c. minh: excuse me, could you show me how to get to the community library, please?d. lan: you're welcome.a. c – b – a – db. c – a – b – dc. a – c – d – bd. b – c – a – d write a, b, c, or d - {#1}",
-      "questionNumber": 4,
+      "questionNumber": 7,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "c",
-      "id": "question-1901159-4",
+      "id": "question-1901131-4",
       "inputs": [
         {
           "index": 0,
@@ -463,15 +463,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18. a. Next, they arrange the palm leaves over the frame and sew them in place.b. Finally, they trim any loose thread and check the shape of the hat.c. To make bamboo hats, artisans prepare thin bamboo strips and make a round frame first.d. Then before sewing, they dry and flatten the palm leaves carefully. A. c – a – d – bB. d – c – a – bC. c – d – a – bD. a – c – d – b Write A, B, C, or D - {#1}",
-      "questionId": "question-1901159-4",
+      "questionId": "question-1901131-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18. a. next, they arrange the palm leaves over the frame and sew them in place.b. finally, they trim any loose thread and check the shape of the hat.c. to make bamboo hats, artisans prepare thin bamboo strips and make a round frame first.d. then before sewing, they dry and flatten the palm leaves carefully. a. c – a – d – bb. d – c – a – bc. c – d – a – bd. a – c – d – b write a, b, c, or d - {#1}",
-      "questionNumber": 5,
+      "questionNumber": 8,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "d",
-      "id": "question-1901159-6",
+      "id": "question-1901131-6",
       "inputs": [
         {
           "index": 0,
@@ -482,7 +482,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20. a. Besides growing food, the garden offers weekend activities for families and children.b. Green Hill Community Garden is a small public space near the town library.c. Volunteers grow vegetables, herbs, and flowers there throughout the year.d. Some of these vegetables are given to older residents who live nearby.e. Because of these services and activities, the garden has become a popular meeting place.A. b – a – c – d – eB. c – d – b – a – eC. b – c – a – d – eD. b – c – d – a – e Write A, B, C, or D - {#1}",
-      "questionId": "question-1901159-6",
+      "questionId": "question-1901131-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20. a. besides growing food, the garden offers weekend activities for families and children.b. green hill community garden is a small public space near the town library.c. volunteers grow vegetables, herbs, and flowers there throughout the year.d. some of these vegetables are given to older residents who live nearby.e. because of these services and activities, the garden has become a popular meeting place.a. b – a – c – d – eb. c – d – b – a – ec. b – c – a – d – ed. b – c – d – a – e write a, b, c, or d - {#1}",
       "questionNumber": 6,
       "selects": [],
@@ -490,7 +490,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1901159-8",
+      "id": "question-1901131-8",
       "inputs": [
         {
           "index": 0,
@@ -501,15 +501,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22. a. The fair will take place in the school hall from 8:00 to 10:00 on Saturday.b. Our school is pleased to announce the Local Speciality Fair for all Grade 9 students.c. During the fair, students can visit stalls, watch demonstrations, and learn about local products.d. To join a hands-on workshop, please register with your class teacher by Thursday.e. We hope the event will help students learn more about specialities from different areas.A. a – b – c – e – dB. e – c – a – d – bC. b – a – c – d – eD. e – a – d – b – c Write A, B, C, or D - {#1}",
-      "questionId": "question-1901159-8",
+      "questionId": "question-1901131-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22. a. the fair will take place in the school hall from 8:00 to 10:00 on saturday.b. our school is pleased to announce the local speciality fair for all grade 9 students.c. during the fair, students can visit stalls, watch demonstrations, and learn about local products.d. to join a hands-on workshop, please register with your class teacher by thursday.e. we hope the event will help students learn more about specialities from different areas.a. a – b – c – e – db. e – c – a – d – bc. b – a – c – d – ed. e – a – d – b – c write a, b, c, or d - {#1}",
-      "questionNumber": 7,
+      "questionNumber": 5,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "a",
-      "id": "question-1901159-5",
+      "id": "question-1901131-5",
       "inputs": [
         {
           "index": 0,
@@ -520,15 +520,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19. a. His main job is to collect rubbish from homes and public bins each morning.b. Thanks to his work, the streets are cleaner and safer for everyone.c. Mr Phu is a garbage collector in my neighbourhood.d. Besides doing this, he reminds residents to put rubbish in the correct bins.A. c – a – d – bB. a – c – b – dC. c – d – b – aD. d – a – c – b Write A, B, C, or D - {#1}",
-      "questionId": "question-1901159-5",
+      "questionId": "question-1901131-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19. a. his main job is to collect rubbish from homes and public bins each morning.b. thanks to his work, the streets are cleaner and safer for everyone.c. mr phu is a garbage collector in my neighbourhood.d. besides doing this, he reminds residents to put rubbish in the correct bins.a. c – a – d – bb. a – c – b – dc. c – d – b – ad. d – a – c – b write a, b, c, or d - {#1}",
-      "questionNumber": 8,
+      "questionNumber": 4,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "c",
-      "id": "question-1901159-10",
+      "id": "question-1901131-10",
       "inputs": [
         {
           "index": 0,
@@ -575,7 +575,7 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 31. The word \"cautious\" in paragraph 3 is closest in meaning to ______. A. unable to remember familiar methodsB. eager to accept every suggestionC. careful about accepting new ideasD. annoyed by visiting school groups Write A, B, C, or D - {#1} Question 32. Why did Ms Hanh and her neighbours first start the weekend workshops? A. To teach young people the craft before it disappeared.B. To sell more factory decorations to visiting school groups.C. To replace old flower designs with completely modern ones.D. To increase village income through weekend tourist activities. Write A, B, C, or D - {#2} Question 33. The phrase \"This arrangement\" in paragraph 4 refers to ______. A. letting factories produce flowers for the villageB. asking school groups to bring their own toolsC. moving artisans away from the community houseD. using one shared place for display and sales Write A, B, C, or D - {#3} Question 34. Which statement best paraphrases Ms Hanh's view that keeping a tradition does not mean making exactly the same objects forever? A. Traditions survive best when artisans avoid all changes.B. A craft can change while its core skills remain respected.C. Traditional crafts should become completely different over time.D. Young artisans should replace old designs with modern ones. Write A, B, C, or D - {#4} Question 35. What can be inferred from the popularity of the new designs? A. Customers were interested only in the oldest flower designs.B. The artisans stopped using traditional hand-making methods.C. Small changes helped the craft appeal to some new buyers.D. The market preferred factory decorations to handmade flowers. Write A, B, C, or D - {#5} Question 36. In which paragraph does the writer mention a financial benefit of selling products directly to visitors? A. Paragraph 2B. Paragraph 4C. Paragraph 1D. Paragraph 5 Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 3? A. To show how new ideas were introduced and acceptedB. To explain why the community house needed rebuildingC. To compare handmade flowers with factory decorationsD. To describe the materials used for paper flowers Write A, B, C, or D - {#7} Question 38. Which of the following is NOT supported by the passage? A. Factory decorations reduced demand for handmade flowers.B. Some new designs became popular at the market.C. School groups visit the shared display space.D. Every Tan Phu family still makes paper flowers. Write A, B, C, or D - {#8} Question 39. Which of the following best summarises the passage? A. Tan Phu abandoned its old flower craft when factory products became cheaper.B. Tan Phu preserved its craft through teaching, careful change, and local promotion.C. Young artisans replaced older makers and introduced completely new production methods.D. Tourism alone saved the village craft by increasing prices and sales. Write A, B, C, or D - {#9} Question 40. Which of the following is the best title for the passage? A. How Factory Decorations Changed Local MarketsB. New Uses for Paper Flowers in Tan PhuC. Keeping Tan Phu's Paper Flower Tradition AliveD. How Young Artisans Learn to Make Paper Flowers Write A, B, C, or D - {#10}",
-      "questionId": "question-1901159-10",
+      "questionId": "question-1901131-10",
       "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 31. the word \"cautious\" in paragraph 3 is closest in meaning to ______. a. unable to remember familiar methodsb. eager to accept every suggestionc. careful about accepting new ideasd. annoyed by visiting school groups write a, b, c, or d - {#1} question 32. why did ms hanh and her neighbours first start the weekend workshops? a. to teach young people the craft before it disappeared.b. to sell more factory decorations to visiting school groups.c. to replace old flower designs with completely modern ones.d. to increase village income through weekend tourist activities. write a, b, c, or d - {#2} question 33. the phrase \"this arrangement\" in paragraph 4 refers to ______. a. letting factories produce flowers for the villageb. asking school groups to bring their own toolsc. moving artisans away from the community housed. using one shared place for display and sales write a, b, c, or d - {#3} question 34. which statement best paraphrases ms hanh's view that keeping a tradition does not mean making exactly the same objects forever? a. traditions survive best when artisans avoid all changes.b. a craft can change while its core skills remain respected.c. traditional crafts should become completely different over time.d. young artisans should replace old designs with modern ones. write a, b, c, or d - {#4} question 35. what can be inferred from the popularity of the new designs? a. customers were interested only in the oldest flower designs.b. the artisans stopped using traditional hand-making methods.c. small changes helped the craft appeal to some new buyers.d. the market preferred factory decorations to handmade flowers. write a, b, c, or d - {#5} question 36. in which paragraph does the writer mention a financial benefit of selling products directly to visitors? a. paragraph 2b. paragraph 4c. paragraph 1d. paragraph 5 write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 3? a. to show how new ideas were introduced and acceptedb. to explain why the community house needed rebuildingc. to compare handmade flowers with factory decorationsd. to describe the materials used for paper flowers write a, b, c, or d - {#7} question 38. which of the following is not supported by the passage? a. factory decorations reduced demand for handmade flowers.b. some new designs became popular at the market.c. school groups visit the shared display space.d. every tan phu family still makes paper flowers. write a, b, c, or d - {#8} question 39. which of the following best summarises the passage? a. tan phu abandoned its old flower craft when factory products became cheaper.b. tan phu preserved its craft through teaching, careful change, and local promotion.c. young artisans replaced older makers and introduced completely new production methods.d. tourism alone saved the village craft by increasing prices and sales. write a, b, c, or d - {#9} question 40. which of the following is the best title for the passage? a. how factory decorations changed local marketsb. new uses for paper flowers in tan phuc. keeping tan phu's paper flower tradition alived. how young artisans learn to make paper flowers write a, b, c, or d - {#10}",
       "questionNumber": 9,
       "selects": [],
@@ -583,7 +583,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1901159-9",
+      "id": "question-1901131-9",
       "inputs": [
         {
           "index": 0,
@@ -622,10 +622,88 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 23. What is the main idea of the passage? A. The Repair Corner teaches residents to replace damaged items safely at home.B. The Repair Corner combines repairs, learning, and community connection.C. Local volunteers mainly help families save money on electrical repairs.D. The community centre uses repair events to train young professional workers. Write A, B, C, or D - {#1} Question 24. The word \"charge\" in paragraph 2 is closest in meaning to ______. A. ask someone to payB. carry something awayC. check something carefullyD. explain how something works Write A, B, C, or D - {#2} Question 25. According to paragraph 2, what do visitors do first when they arrive? A. Buy a replacement part for the item.B. Give a donation to the centre.C. Ask a volunteer to repair the item.D. Fill in a card about the problem. Write A, B, C, or D - {#3} Question 26. The phrase \"This approach\" in paragraph 3 refers to ______. A. letting teenagers repair difficult electrical items aloneB. collecting broken objects before throwing them awayC. explaining repairs while showing simple care skillsD. asking residents to replace damaged household items Write A, B, C, or D - {#4} Question 27. Which of the following is NOT TRUE according to the passage? A. Every repair requires a fixed payment from the owner.B. Owners can bring some items back after buying a new part.C. Teenagers can observe and learn simple repair skills.D. More than 150 items arrived in the first six months. Write A, B, C, or D - {#5} Question 28. Which statement best paraphrases the organisers' view in the final paragraph? A. The centre succeeds because most broken items can be repaired there.B. Stronger neighbour relationships matter more than repair totals.C. Only items repaired in one morning should be accepted.D. Community events work best when they attract many residents. Write A, B, C, or D - {#6} Question 29. What is the main purpose of paragraph 2? A. To introduce the people who volunteer at the centreB. To explain why residents throw damaged objects awayC. To compare bicycle repairs with electrical repairsD. To describe how residents use the Repair Corner Write A, B, C, or D - {#7} Question 30. What can be inferred from paragraph 3? A. The centre expects residents to avoid electrical equipment whenever possible.B. Teenagers are being prepared for future jobs as electricians.C. Residents are encouraged to care for belongings more safely.D. Volunteers prefer repairing items without explaining the process. Write A, B, C, or D - {#8}",
-      "questionId": "question-1901159-9",
+      "questionId": "question-1901131-9",
       "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 23. what is the main idea of the passage? a. the repair corner teaches residents to replace damaged items safely at home.b. the repair corner combines repairs, learning, and community connection.c. local volunteers mainly help families save money on electrical repairs.d. the community centre uses repair events to train young professional workers. write a, b, c, or d - {#1} question 24. the word \"charge\" in paragraph 2 is closest in meaning to ______. a. ask someone to payb. carry something awayc. check something carefullyd. explain how something works write a, b, c, or d - {#2} question 25. according to paragraph 2, what do visitors do first when they arrive? a. buy a replacement part for the item.b. give a donation to the centre.c. ask a volunteer to repair the item.d. fill in a card about the problem. write a, b, c, or d - {#3} question 26. the phrase \"this approach\" in paragraph 3 refers to ______. a. letting teenagers repair difficult electrical items aloneb. collecting broken objects before throwing them awayc. explaining repairs while showing simple care skillsd. asking residents to replace damaged household items write a, b, c, or d - {#4} question 27. which of the following is not true according to the passage? a. every repair requires a fixed payment from the owner.b. owners can bring some items back after buying a new part.c. teenagers can observe and learn simple repair skills.d. more than 150 items arrived in the first six months. write a, b, c, or d - {#5} question 28. which statement best paraphrases the organisers' view in the final paragraph? a. the centre succeeds because most broken items can be repaired there.b. stronger neighbour relationships matter more than repair totals.c. only items repaired in one morning should be accepted.d. community events work best when they attract many residents. write a, b, c, or d - {#6} question 29. what is the main purpose of paragraph 2? a. to introduce the people who volunteer at the centreb. to explain why residents throw damaged objects awayc. to compare bicycle repairs with electrical repairsd. to describe how residents use the repair corner write a, b, c, or d - {#7} question 30. what can be inferred from paragraph 3? a. the centre expects residents to avoid electrical equipment whenever possible.b. teenagers are being prepared for future jobs as electricians.c. residents are encouraged to care for belongings more safely.d. volunteers prefer repairing items without explaining the process. write a, b, c, or d - {#8}",
       "questionNumber": 10,
       "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. speciality",
+      "id": "question-1901131-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. riverbank pottery open day our village is famous for traditional pottery, a local (1) {#1} that attracts many visitors each year. skilled (2) {#2} shape local clay by hand and turn it into bowls, cups, and decorative objects. during the guided walk, visitors can (3) {#3} the workshops and watch the makers at work. if you are not sure (4) {#4} after you arrive, ask one of our guides at the entrance. at the village museum, you can learn about the history and (5) {#5} of old pottery, including how people once used large jars to store water and food. the village hopes more young people will learn the craft, (6) {#6} the skill can continue for future generations.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. RIVERBANK POTTERY OPEN DAY Our village is famous for traditional pottery, a local (1) [Blank 1] that attracts many visitors each year. Skilled (2) [Blank 2] shape local clay by hand and turn it into bowls, cups, and decorative objects. During the guided walk, visitors can (3) [Blank 3] the workshops and watch the makers at work. If you are not sure (4) [Blank 4] after you arrive, ask one of our guides at the entrance. At the village museum, you can learn about the history and (5) [Blank 5] of old pottery, including how people once used large jars to store water and food. The village hopes more young people will learn the craft, (6) [Blank 6] the skill can continue for future generations.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.facilityB.responsibilityC.tourismD.specialityÔ (2):A.touristsB.collectorsC.neighboursD.artisansÔ (3):A.look aroundB.come backC.take care ofD.run out ofÔ (4):A.when to makeB.who to buildC.what to doD.where to keepÔ (5):A.functionB.communityC.suburbD.festivalÔ (6):A.becauseB.soC.butD.although",
+      "questionId": "question-1901131-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. riverbank pottery open day our village is famous for traditional pottery, a local (1) [blank 1] that attracts many visitors each year. skilled (2) [blank 2] shape local clay by hand and turn it into bowls, cups, and decorative objects. during the guided walk, visitors can (3) [blank 3] the workshops and watch the makers at work. if you are not sure (4) [blank 4] after you arrive, ask one of our guides at the entrance. at the village museum, you can learn about the history and (5) [blank 5] of old pottery, including how people once used large jars to store water and food. the village hopes more young people will learn the craft, (6) [blank 6] the skill can continue for future generations.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.facilityb.responsibilityc.tourismd.specialityô (2):a.touristsb.collectorsc.neighboursd.artisansô (3):a.look aroundb.come backc.take care ofd.run out ofô (4):a.when to makeb.who to buildc.what to dod.where to keepô (5):a.functionb.communityc.suburbd.festivalô (6):a.becauseb.soc.butd.although",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. speciality"
+        },
+        {
+          "index": 1,
+          "value": "D. artisans"
+        },
+        {
+          "index": 2,
+          "value": "A. look around"
+        },
+        {
+          "index": 3,
+          "value": "C. what to do"
+        },
+        {
+          "index": 4,
+          "value": "A. function"
+        },
+        {
+          "index": 5,
+          "value": "B. so"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. electrician",
+      "id": "question-1901131-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. community helpers morning our school is holding community helpers morning next friday. first, meet ms hoa, an (7) {#1} who checks and repairs electrical wires and equipment in people's homes. next, mr binh, a firefighter, will explain how his team (8) {#2} people from dangerous fires. at the information desk, students can (9) {#3} more about other local services. if you do not know (10) {#4} for help in an emergency, volunteers will show you. the event aims to help students understand why these workers are important to a safe and well-run (11) {#5}. bring your questions, (12) {#6} there will be time for a short question-and-answer session after each talk.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. COMMUNITY HELPERS MORNING Our school is holding Community Helpers Morning next Friday. First, meet Ms Hoa, an (7) [Blank 7] who checks and repairs electrical wires and equipment in people's homes. Next, Mr Binh, a firefighter, will explain how his team (8) [Blank 8] people from dangerous fires. At the information desk, students can (9) [Blank 9] more about other local services. If you do not know (10) [Blank 10] for help in an emergency, volunteers will show you. The event aims to help students understand why these workers are important to a safe and well-run (11) [Blank 11] . Bring your questions, (12) [Blank 12] there will be time for a short question-and-answer session after each talk.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.delivery personB.artisanC.electricianD.garbage collectorÔ (8):A.deliversB.savesC.makesD.keepsÔ (9):A.run out ofB.come backC.take care ofD.find outÔ (10):A.when to makeB.who to askC.where to repairD.what to carryÔ (11):A.handicraftB.suburbC.communityD.specialityÔ (12):A.becauseB.unlessC.butD.although",
+      "questionId": "question-1901131-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. community helpers morning our school is holding community helpers morning next friday. first, meet ms hoa, an (7) [blank 7] who checks and repairs electrical wires and equipment in people's homes. next, mr binh, a firefighter, will explain how his team (8) [blank 8] people from dangerous fires. at the information desk, students can (9) [blank 9] more about other local services. if you do not know (10) [blank 10] for help in an emergency, volunteers will show you. the event aims to help students understand why these workers are important to a safe and well-run (11) [blank 11] . bring your questions, (12) [blank 12] there will be time for a short question-and-answer session after each talk.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.delivery personb.artisanc.electriciand.garbage collectorô (8):a.deliversb.savesc.makesd.keepsô (9):a.run out ofb.come backc.take care ofd.find outô (10):a.when to makeb.who to askc.where to repaird.what to carryô (11):a.handicraftb.suburbc.communityd.specialityô (12):a.becauseb.unlessc.butd.although",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. electrician"
+        },
+        {
+          "index": 1,
+          "value": "B. saves"
+        },
+        {
+          "index": 2,
+          "value": "D. find out"
+        },
+        {
+          "index": 3,
+          "value": "B. who to ask"
+        },
+        {
+          "index": 4,
+          "value": "C. community"
+        },
+        {
+          "index": 5,
+          "value": "A. because"
+        }
+      ],
       "rightAnswer": ""
     }
   ]
