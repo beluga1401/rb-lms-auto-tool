@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-18T12:29:44Z",
-  "total_questions": 128,
+  "updated_at": "2026-10-18T12:32:02Z",
+  "total_questions": 150,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -3308,6 +3308,682 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-18T12:29:43Z"
+    },
+    "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 1 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 2 respectful question instead of making an immediate judgement small misunderstandings are common 9 3 they can often be resolved through calm discussion try to remain 10 4 when daily routines differ from what you expected rather than comparing every custom 11 5 your own consider why it may be important to your host family this approach will help you develop mutual 12 6 and enjoy a more successful exchange experience": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. GUIDANCE FOR NEW EXCHANGE STUDENTS Living with a host family gives you a valuable opportunity to experience another way of life. However, remember that (7) {#1} polite behaviour can vary from one culture to another. If you are unsure about a custom, ask (8) {#2} respectful question instead of making an immediate judgement. Small misunderstandings are common, (9) {#3} they can often be resolved through calm discussion. Try to remain (10) {#4} when daily routines differ from what you expected. Rather than comparing every custom (11) {#5} your own, consider why it may be important to your host family. This approach will help you develop mutual (12) {#6} and enjoy a more successful exchange experience.",
+      "clean_stem": "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 1 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 2 respectful question instead of making an immediate judgement small misunderstandings are common 9 3 they can often be resolved through calm discussion try to remain 10 4 when daily routines differ from what you expected rather than comparing every custom 11 5 your own consider why it may be important to your host family this approach will help you develop mutual 12 6 and enjoy a more successful exchange experience",
+      "stem_key": "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 1 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 2 respectful question instead of making an immediate judgement small misunderstandings are common 9 3 they can often be resolved through calm discussion try to remain 10 4 when daily routines differ from what you expected rather than comparing every custom 11 5 your own consider why it may be important to your host family this approach will help you develop mutual 12 6 and enjoy a more successful exchange experience",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "no article"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "but"
+        },
+        {
+          "index": 3,
+          "value": "open-minded"
+        },
+        {
+          "index": 4,
+          "value": "with"
+        },
+        {
+          "index": 5,
+          "value": "understanding"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 respectful question instead of making an immediate judgement small misunderstandings are common 9 they can often be resolved through calm discussion try to remain 10 when daily routines differ from what you expected rather than comparing every custom 11 your own consider why it may be important to your host family this approach will help you develop mutual 12 and enjoy a more successful exchange experience": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. GUIDANCE FOR NEW EXCHANGE STUDENTS Living with a host family gives you a valuable opportunity to experience another way of life. However, remember that (7) {#1} polite behaviour can vary from one culture to another. If you are unsure about a custom, ask (8) {#2} respectful question instead of making an immediate judgement. Small misunderstandings are common, (9) {#3} they can often be resolved through calm discussion. Try to remain (10) {#4} when daily routines differ from what you expected. Rather than comparing every custom (11) {#5} your own, consider why it may be important to your host family. This approach will help you develop mutual (12) {#6} and enjoy a more successful exchange experience.",
+      "clean_stem": "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 1 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 2 respectful question instead of making an immediate judgement small misunderstandings are common 9 3 they can often be resolved through calm discussion try to remain 10 4 when daily routines differ from what you expected rather than comparing every custom 11 5 your own consider why it may be important to your host family this approach will help you develop mutual 12 6 and enjoy a more successful exchange experience",
+      "stem_key": "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 1 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 2 respectful question instead of making an immediate judgement small misunderstandings are common 9 3 they can often be resolved through calm discussion try to remain 10 4 when daily routines differ from what you expected rather than comparing every custom 11 5 your own consider why it may be important to your host family this approach will help you develop mutual 12 6 and enjoy a more successful exchange experience",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "no article"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "but"
+        },
+        {
+          "index": 3,
+          "value": "open-minded"
+        },
+        {
+          "index": 4,
+          "value": "with"
+        },
+        {
+          "index": 5,
+          "value": "understanding"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 1 international arts weekend featuring artists from many cultural backgrounds during 2 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 4 modern ideas to make each activity meaningful every session will include 5 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 6": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. HARBOUR CITY CULTURE WEEKEND Our youth centre is hosting (1) {#1} international arts weekend featuring artists from many cultural backgrounds. During (2) {#2} event, visitors will discover how traditions can develop when communities live and work together. Artists whose families come from different regions will demonstrate how traditional styles can be (3) {#3} to new settings. Practical workshops will invite visitors to create designs that combine local materials (4) {#4} modern ideas. To make each activity meaningful, every session will include (5) {#5} explanation of the tradition that inspired it. Visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves. Book early because places in the workshops are (6) {#6}.",
+      "clean_stem": "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 1 international arts weekend featuring artists from many cultural backgrounds during 2 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 4 modern ideas to make each activity meaningful every session will include 5 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 6",
+      "stem_key": "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 1 international arts weekend featuring artists from many cultural backgrounds during 2 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 4 modern ideas to make each activity meaningful every session will include 5 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 6",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "an"
+        },
+        {
+          "index": 1,
+          "value": "the"
+        },
+        {
+          "index": 2,
+          "value": "adapted"
+        },
+        {
+          "index": 3,
+          "value": "with"
+        },
+        {
+          "index": 4,
+          "value": "an"
+        },
+        {
+          "index": 5,
+          "value": "limited"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 international arts weekend featuring artists from many cultural backgrounds during 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 modern ideas to make each activity meaningful every session will include 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. HARBOUR CITY CULTURE WEEKEND Our youth centre is hosting (1) {#1} international arts weekend featuring artists from many cultural backgrounds. During (2) {#2} event, visitors will discover how traditions can develop when communities live and work together. Artists whose families come from different regions will demonstrate how traditional styles can be (3) {#3} to new settings. Practical workshops will invite visitors to create designs that combine local materials (4) {#4} modern ideas. To make each activity meaningful, every session will include (5) {#5} explanation of the tradition that inspired it. Visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves. Book early because places in the workshops are (6) {#6}.",
+      "clean_stem": "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 1 international arts weekend featuring artists from many cultural backgrounds during 2 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 4 modern ideas to make each activity meaningful every session will include 5 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 6",
+      "stem_key": "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 1 international arts weekend featuring artists from many cultural backgrounds during 2 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 4 modern ideas to make each activity meaningful every session will include 5 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 6",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "an"
+        },
+        {
+          "index": 1,
+          "value": "the"
+        },
+        {
+          "index": 2,
+          "value": "adapted"
+        },
+        {
+          "index": 3,
+          "value": "with"
+        },
+        {
+          "index": 4,
+          "value": "an"
+        },
+        {
+          "index": 5,
+          "value": "limited"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "passage completion questions 13 17 read the following passage and choose the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 some people assume that globalisation causes local cuisines to become increasingly similar in reality cultural change is often more complex 13 when a foreign ingredient is expensive or unavailable cooks may replace it with something produced locally 14 over time the adapted version may become popular enough to develop an identity of its own some critics argue that changing a traditional recipe reduces its cultural value 15 if the original meaning and history are completely forgotten customers may see the dish merely as a fashionable product nevertheless adaptation can also help a food tradition remain relevant to a new community 16 families may continue preparing the dish while adjusting it to local conditions dietary needs or personal preferences the most useful question therefore may not be whether a dish is entirely original or entirely foreign 17 question 13a as a result most people now refuse to try food from other cultures b for this reason traditional dishes never change after entering a new community c communities frequently reshape outside influences according to local needs d in contrast local ingredients have disappeared from modern cooking write a b c or d 1 question 14a this substitution can produce a new flavour while preserving the basic idea of the dish b therefore local cooks should avoid learning about the dish s original ingredients c however customers are usually unable to notice any difference in taste d for example every traditional recipe must use ingredients imported from abroad write a b c or d 2 question 15a similarly all adapted foods become less popular than their original forms b as a result restaurants should never explain the origin of the food they serve c in addition recipes can have cultural value only when they remain completely unchanged d this concern is understandable when adaptation removes the dish from its cultural context write a b c or d 3 question 16a in contrast food traditions can survive only in the place where they began b in a new setting adaptation may allow younger generations to maintain a family connection c consequently cultural exchange prevents families from sharing traditional meals d for this reason cooks should replace the history of a dish with a modern story write a b c or d 4 question 17a instead all communities should prepare international dishes in the same way b the answer depends mainly on whether the adapted dish becomes commercially successful c it may be more important to ask how the dish connects its history with its new setting d a dish should be described as traditional only when its ingredients never change write a b c or d 5": {
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. Some people assume that globalisation causes local cuisines to become increasingly similar. In reality, cultural change is often more complex. (13) ______. When a foreign ingredient is expensive or unavailable, cooks may replace it with something produced locally. (14) ______. Over time, the adapted version may become popular enough to develop an identity of its own. Some critics argue that changing a traditional recipe reduces its cultural value. (15) ______. If the original meaning and history are completely forgotten, customers may see the dish merely as a fashionable product. Nevertheless, adaptation can also help a food tradition remain relevant to a new community. (16) ______. Families may continue preparing the dish while adjusting it to local conditions, dietary needs or personal preferences. The most useful question, therefore, may not be whether a dish is entirely original or entirely foreign. (17) ______. Question 13A. As a result, most people now refuse to try food from other cultures.B. For this reason, traditional dishes never change after entering a new community.C. Communities frequently reshape outside influences according to local needs.D. In contrast, local ingredients have disappeared from modern cooking.Write A, B, C, or D - {#1}Question 14A. This substitution can produce a new flavour while preserving the basic idea of the dish.B. Therefore, local cooks should avoid learning about the dish’s original ingredients.C. However, customers are usually unable to notice any difference in taste.D. For example, every traditional recipe must use ingredients imported from abroad.Write A, B, C, or D - {#2}Question 15A. Similarly, all adapted foods become less popular than their original forms.B. As a result, restaurants should never explain the origin of the food they serve.C. In addition, recipes can have cultural value only when they remain completely unchanged.D. This concern is understandable when adaptation removes the dish from its cultural context.Write A, B, C, or D - {#3}Question 16A. In contrast, food traditions can survive only in the place where they began.B. In a new setting, adaptation may allow younger generations to maintain a family connection.C. Consequently, cultural exchange prevents families from sharing traditional meals.D. For this reason, cooks should replace the history of a dish with a modern story.Write A, B, C, or D - {#4}Question 17A. Instead, all communities should prepare international dishes in the same way.B. The answer depends mainly on whether the adapted dish becomes commercially successful.C. It may be more important to ask how the dish connects its history with its new setting.D. A dish should be described as traditional only when its ingredients never change.Write A, B, C, or D - {#5}",
+      "clean_stem": "passage completion questions 13 17 read the following passage and choose the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 some people assume that globalisation causes local cuisines to become increasingly similar in reality cultural change is often more complex 13 when a foreign ingredient is expensive or unavailable cooks may replace it with something produced locally 14 over time the adapted version may become popular enough to develop an identity of its own some critics argue that changing a traditional recipe reduces its cultural value 15 if the original meaning and history are completely forgotten customers may see the dish merely as a fashionable product nevertheless adaptation can also help a food tradition remain relevant to a new community 16 families may continue preparing the dish while adjusting it to local conditions dietary needs or personal preferences the most useful question therefore may not be whether a dish is entirely original or entirely foreign 17 question 13a as a result most people now refuse to try food from other cultures b for this reason traditional dishes never change after entering a new community c communities frequently reshape outside influences according to local needs d in contrast local ingredients have disappeared from modern cooking write a b c or d 1 question 14a this substitution can produce a new flavour while preserving the basic idea of the dish b therefore local cooks should avoid learning about the dish s original ingredients c however customers are usually unable to notice any difference in taste d for example every traditional recipe must use ingredients imported from abroad write a b c or d 2 question 15a similarly all adapted foods become less popular than their original forms b as a result restaurants should never explain the origin of the food they serve c in addition recipes can have cultural value only when they remain completely unchanged d this concern is understandable when adaptation removes the dish from its cultural context write a b c or d 3 question 16a in contrast food traditions can survive only in the place where they began b in a new setting adaptation may allow younger generations to maintain a family connection c consequently cultural exchange prevents families from sharing traditional meals d for this reason cooks should replace the history of a dish with a modern story write a b c or d 4 question 17a instead all communities should prepare international dishes in the same way b the answer depends mainly on whether the adapted dish becomes commercially successful c it may be more important to ask how the dish connects its history with its new setting d a dish should be described as traditional only when its ingredients never change write a b c or d 5",
+      "stem_key": "passage completion questions 13 17 read the following passage and choose the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 some people assume that globalisation causes local cuisines to become increasingly similar in reality cultural change is often more complex 13 when a foreign ingredient is expensive or unavailable cooks may replace it with something produced locally 14 over time the adapted version may become popular enough to develop an identity of its own some critics argue that changing a traditional recipe reduces its cultural value 15 if the original meaning and history are completely forgotten customers may see the dish merely as a fashionable product nevertheless adaptation can also help a food tradition remain relevant to a new community 16 families may continue preparing the dish while adjusting it to local conditions dietary needs or personal preferences the most useful question therefore may not be whether a dish is entirely original or entirely foreign 17 question 13a as a result most people now refuse to try food from other cultures b for this reason traditional dishes never change after entering a new community c communities frequently reshape outside influences according to local needs d in contrast local ingredients have disappeared from modern cooking write a b c or d 1 question 14a this substitution can produce a new flavour while preserving the basic idea of the dish b therefore local cooks should avoid learning about the dish s original ingredients c however customers are usually unable to notice any difference in taste d for example every traditional recipe must use ingredients imported from abroad write a b c or d 2 question 15a similarly all adapted foods become less popular than their original forms b as a result restaurants should never explain the origin of the food they serve c in addition recipes can have cultural value only when they remain completely unchanged d this concern is understandable when adaptation removes the dish from its cultural context write a b c or d 3 question 16a in contrast food traditions can survive only in the place where they began b in a new setting adaptation may allow younger generations to maintain a family connection c consequently cultural exchange prevents families from sharing traditional meals d for this reason cooks should replace the history of a dish with a modern story write a b c or d 4 question 17a instead all communities should prepare international dishes in the same way b the answer depends mainly on whether the adapted dish becomes commercially successful c it may be more important to ask how the dish connects its history with its new setting d a dish should be described as traditional only when its ingredients never change write a b c or d 5",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "passage completion questions 13 17 read the following passage and choose the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 some people assume that globalisation causes local cuisines to become increasingly similar in reality cultural change is often more complex 13 when a foreign ingredient is expensive or unavailable cooks may replace it with something produced locally 14 over time the adapted version may become popular enough to develop an identity of its own some critics argue that changing a traditional recipe reduces its cultural value 15 if the original meaning and history are completely forgotten customers may see the dish merely as a fashionable product nevertheless adaptation can also help a food tradition remain relevant to a new community 16 families may continue preparing the dish while adjusting it to local conditions dietary needs or personal preferences the most useful question therefore may not be whether a dish is entirely original or entirely foreign 17 question 13a as a result most people now refuse to try food from other cultures b for this reason traditional dishes never change after entering a new community c communities frequently reshape outside influences according to local needs d in contrast local ingredients have disappeared from modern cooking write a b c or d question 14a this substitution can produce a new flavour while preserving the basic idea of the dish b therefore local cooks should avoid learning about the dish s original ingredients c however customers are usually unable to notice any difference in taste d for example every traditional recipe must use ingredients imported from abroad write a b c or d question 15a similarly all adapted foods become less popular than their original forms b as a result restaurants should never explain the origin of the food they serve c in addition recipes can have cultural value only when they remain completely unchanged d this concern is understandable when adaptation removes the dish from its cultural context write a b c or d question 16a in contrast food traditions can survive only in the place where they began b in a new setting adaptation may allow younger generations to maintain a family connection c consequently cultural exchange prevents families from sharing traditional meals d for this reason cooks should replace the history of a dish with a modern story write a b c or d question 17a instead all communities should prepare international dishes in the same way b the answer depends mainly on whether the adapted dish becomes commercially successful c it may be more important to ask how the dish connects its history with its new setting d a dish should be described as traditional only when its ingredients never change write a b c or d": {
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. Some people assume that globalisation causes local cuisines to become increasingly similar. In reality, cultural change is often more complex. (13) ______. When a foreign ingredient is expensive or unavailable, cooks may replace it with something produced locally. (14) ______. Over time, the adapted version may become popular enough to develop an identity of its own. Some critics argue that changing a traditional recipe reduces its cultural value. (15) ______. If the original meaning and history are completely forgotten, customers may see the dish merely as a fashionable product. Nevertheless, adaptation can also help a food tradition remain relevant to a new community. (16) ______. Families may continue preparing the dish while adjusting it to local conditions, dietary needs or personal preferences. The most useful question, therefore, may not be whether a dish is entirely original or entirely foreign. (17) ______. Question 13A. As a result, most people now refuse to try food from other cultures.B. For this reason, traditional dishes never change after entering a new community.C. Communities frequently reshape outside influences according to local needs.D. In contrast, local ingredients have disappeared from modern cooking.Write A, B, C, or D - {#1}Question 14A. This substitution can produce a new flavour while preserving the basic idea of the dish.B. Therefore, local cooks should avoid learning about the dish’s original ingredients.C. However, customers are usually unable to notice any difference in taste.D. For example, every traditional recipe must use ingredients imported from abroad.Write A, B, C, or D - {#2}Question 15A. Similarly, all adapted foods become less popular than their original forms.B. As a result, restaurants should never explain the origin of the food they serve.C. In addition, recipes can have cultural value only when they remain completely unchanged.D. This concern is understandable when adaptation removes the dish from its cultural context.Write A, B, C, or D - {#3}Question 16A. In contrast, food traditions can survive only in the place where they began.B. In a new setting, adaptation may allow younger generations to maintain a family connection.C. Consequently, cultural exchange prevents families from sharing traditional meals.D. For this reason, cooks should replace the history of a dish with a modern story.Write A, B, C, or D - {#4}Question 17A. Instead, all communities should prepare international dishes in the same way.B. The answer depends mainly on whether the adapted dish becomes commercially successful.C. It may be more important to ask how the dish connects its history with its new setting.D. A dish should be described as traditional only when its ingredients never change.Write A, B, C, or D - {#5}",
+      "clean_stem": "passage completion questions 13 17 read the following passage and choose the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 some people assume that globalisation causes local cuisines to become increasingly similar in reality cultural change is often more complex 13 when a foreign ingredient is expensive or unavailable cooks may replace it with something produced locally 14 over time the adapted version may become popular enough to develop an identity of its own some critics argue that changing a traditional recipe reduces its cultural value 15 if the original meaning and history are completely forgotten customers may see the dish merely as a fashionable product nevertheless adaptation can also help a food tradition remain relevant to a new community 16 families may continue preparing the dish while adjusting it to local conditions dietary needs or personal preferences the most useful question therefore may not be whether a dish is entirely original or entirely foreign 17 question 13a as a result most people now refuse to try food from other cultures b for this reason traditional dishes never change after entering a new community c communities frequently reshape outside influences according to local needs d in contrast local ingredients have disappeared from modern cooking write a b c or d 1 question 14a this substitution can produce a new flavour while preserving the basic idea of the dish b therefore local cooks should avoid learning about the dish s original ingredients c however customers are usually unable to notice any difference in taste d for example every traditional recipe must use ingredients imported from abroad write a b c or d 2 question 15a similarly all adapted foods become less popular than their original forms b as a result restaurants should never explain the origin of the food they serve c in addition recipes can have cultural value only when they remain completely unchanged d this concern is understandable when adaptation removes the dish from its cultural context write a b c or d 3 question 16a in contrast food traditions can survive only in the place where they began b in a new setting adaptation may allow younger generations to maintain a family connection c consequently cultural exchange prevents families from sharing traditional meals d for this reason cooks should replace the history of a dish with a modern story write a b c or d 4 question 17a instead all communities should prepare international dishes in the same way b the answer depends mainly on whether the adapted dish becomes commercially successful c it may be more important to ask how the dish connects its history with its new setting d a dish should be described as traditional only when its ingredients never change write a b c or d 5",
+      "stem_key": "passage completion questions 13 17 read the following passage and choose the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 some people assume that globalisation causes local cuisines to become increasingly similar in reality cultural change is often more complex 13 when a foreign ingredient is expensive or unavailable cooks may replace it with something produced locally 14 over time the adapted version may become popular enough to develop an identity of its own some critics argue that changing a traditional recipe reduces its cultural value 15 if the original meaning and history are completely forgotten customers may see the dish merely as a fashionable product nevertheless adaptation can also help a food tradition remain relevant to a new community 16 families may continue preparing the dish while adjusting it to local conditions dietary needs or personal preferences the most useful question therefore may not be whether a dish is entirely original or entirely foreign 17 question 13a as a result most people now refuse to try food from other cultures b for this reason traditional dishes never change after entering a new community c communities frequently reshape outside influences according to local needs d in contrast local ingredients have disappeared from modern cooking write a b c or d 1 question 14a this substitution can produce a new flavour while preserving the basic idea of the dish b therefore local cooks should avoid learning about the dish s original ingredients c however customers are usually unable to notice any difference in taste d for example every traditional recipe must use ingredients imported from abroad write a b c or d 2 question 15a similarly all adapted foods become less popular than their original forms b as a result restaurants should never explain the origin of the food they serve c in addition recipes can have cultural value only when they remain completely unchanged d this concern is understandable when adaptation removes the dish from its cultural context write a b c or d 3 question 16a in contrast food traditions can survive only in the place where they began b in a new setting adaptation may allow younger generations to maintain a family connection c consequently cultural exchange prevents families from sharing traditional meals d for this reason cooks should replace the history of a dish with a modern story write a b c or d 4 question 17a instead all communities should prepare international dishes in the same way b the answer depends mainly on whether the adapted dish becomes commercially successful c it may be more important to ask how the dish connects its history with its new setting d a dish should be described as traditional only when its ingredients never change write a b c or d 5",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 20 a for example a musician may perform a local melody with instruments introduced from another region b contact between cultures often influences the way music develops c however musicians do not necessarily copy an outside style without changing it d instead they may combine new techniques with sounds that are meaningful in their own community e as a result the new form of music can reflect more than one cultural influence a b c d a eb c b a d ec b d c e ad d a b c e write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 20 a. For example, a musician may perform a local melody with instruments introduced from another region.b. Contact between cultures often influences the way music develops.c. However, musicians do not necessarily copy an outside style without changing it.d. Instead, they may combine new techniques with sounds that are meaningful in their own community.e. As a result, the new form of music can reflect more than one cultural influence.A. b – c – d – a – eB. c – b – a – d – eC. b – d – c – e – aD. d – a – b – c – e Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 20 a for example a musician may perform a local melody with instruments introduced from another region b contact between cultures often influences the way music develops c however musicians do not necessarily copy an outside style without changing it d instead they may combine new techniques with sounds that are meaningful in their own community e as a result the new form of music can reflect more than one cultural influence a b c d a eb c b a d ec b d c e ad d a b c e write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 20 a for example a musician may perform a local melody with instruments introduced from another region b contact between cultures often influences the way music develops c however musicians do not necessarily copy an outside style without changing it d instead they may combine new techniques with sounds that are meaningful in their own community e as a result the new form of music can reflect more than one cultural influence a b c d a eb c b a d ec b d c e ad d a b c e write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 20 a for example a musician may perform a local melody with instruments introduced from another region b contact between cultures often influences the way music develops c however musicians do not necessarily copy an outside style without changing it d instead they may combine new techniques with sounds that are meaningful in their own community e as a result the new form of music can reflect more than one cultural influence a b c d a eb c b a d ec b d c e ad d a b c e write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 20 a. For example, a musician may perform a local melody with instruments introduced from another region.b. Contact between cultures often influences the way music develops.c. However, musicians do not necessarily copy an outside style without changing it.d. Instead, they may combine new techniques with sounds that are meaningful in their own community.e. As a result, the new form of music can reflect more than one cultural influence.A. b – c – d – a – eB. c – b – a – d – eC. b – d – c – e – aD. d – a – b – c – e Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 20 a for example a musician may perform a local melody with instruments introduced from another region b contact between cultures often influences the way music develops c however musicians do not necessarily copy an outside style without changing it d instead they may combine new techniques with sounds that are meaningful in their own community e as a result the new form of music can reflect more than one cultural influence a b c d a eb c b a d ec b d c e ad d a b c e write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 20 a for example a musician may perform a local melody with instruments introduced from another region b contact between cultures often influences the way music develops c however musicians do not necessarily copy an outside style without changing it d instead they may combine new techniques with sounds that are meaningful in their own community e as a result the new form of music can reflect more than one cultural influence a b c d a eb c b a d ec b d c e ad d a b c e write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 18 a omar thank you i m especially interested in the student photography section b ms hoa welcome to the exhibition omar may i introduce our curator mr long c mr long pleased to meet you too omar i d be happy to show you around d omar pleased to meet you mr long a b c d ab b d c ac d b a cd c a b d write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 18 a. Omar: Thank you. I’m especially interested in the student photography section.b. Ms Hoa: Welcome to the exhibition, Omar. May I introduce our curator, Mr Long?c. Mr Long: Pleased to meet you too, Omar. I’d be happy to show you around.d. Omar: Pleased to meet you, Mr Long.A. b – c – d – aB. b – d – c – aC. d – b – a – cD. c – a – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 18 a omar thank you i m especially interested in the student photography section b ms hoa welcome to the exhibition omar may i introduce our curator mr long c mr long pleased to meet you too omar i d be happy to show you around d omar pleased to meet you mr long a b c d ab b d c ac d b a cd c a b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 18 a omar thank you i m especially interested in the student photography section b ms hoa welcome to the exhibition omar may i introduce our curator mr long c mr long pleased to meet you too omar i d be happy to show you around d omar pleased to meet you mr long a b c d ab b d c ac d b a cd c a b d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 18 a omar thank you i m especially interested in the student photography section b ms hoa welcome to the exhibition omar may i introduce our curator mr long c mr long pleased to meet you too omar i d be happy to show you around d omar pleased to meet you mr long a b c d ab b d c ac d b a cd c a b d write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 18 a. Omar: Thank you. I’m especially interested in the student photography section.b. Ms Hoa: Welcome to the exhibition, Omar. May I introduce our curator, Mr Long?c. Mr Long: Pleased to meet you too, Omar. I’d be happy to show you around.d. Omar: Pleased to meet you, Mr Long.A. b – c – d – aB. b – d – c – aC. d – b – a – cD. c – a – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 18 a omar thank you i m especially interested in the student photography section b ms hoa welcome to the exhibition omar may i introduce our curator mr long c mr long pleased to meet you too omar i d be happy to show you around d omar pleased to meet you mr long a b c d ab b d c ac d b a cd c a b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 18 a omar thank you i m especially interested in the student photography section b ms hoa welcome to the exhibition omar may i introduce our curator mr long c mr long pleased to meet you too omar i d be happy to show you around d omar pleased to meet you mr long a b c d ab b d c ac d b a cd c a b d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 19 a huy that should work let s include both activities in the programme b mai i think we should end the festival with an international dance performance c huy the idea is exciting but the main hall may be too small and noisy d mai then we could hold the performance outside and keep the indoor space for exhibitions a c b d ab b d c ac d c b ad b c d a write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 19 a. Huy: That should work. Let’s include both activities in the programme.b. Mai: I think we should end the festival with an international dance performance.c. Huy: The idea is exciting, but the main hall may be too small and noisy.d. Mai: Then we could hold the performance outside and keep the indoor space for exhibitions.A. c – b – d – aB. b – d – c – aC. d – c – b – aD. b – c – d – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 19 a huy that should work let s include both activities in the programme b mai i think we should end the festival with an international dance performance c huy the idea is exciting but the main hall may be too small and noisy d mai then we could hold the performance outside and keep the indoor space for exhibitions a c b d ab b d c ac d c b ad b c d a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 19 a huy that should work let s include both activities in the programme b mai i think we should end the festival with an international dance performance c huy the idea is exciting but the main hall may be too small and noisy d mai then we could hold the performance outside and keep the indoor space for exhibitions a c b d ab b d c ac d c b ad b c d a write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 19 a huy that should work let s include both activities in the programme b mai i think we should end the festival with an international dance performance c huy the idea is exciting but the main hall may be too small and noisy d mai then we could hold the performance outside and keep the indoor space for exhibitions a c b d ab b d c ac d c b ad b c d a write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 19 a. Huy: That should work. Let’s include both activities in the programme.b. Mai: I think we should end the festival with an international dance performance.c. Huy: The idea is exciting, but the main hall may be too small and noisy.d. Mai: Then we could hold the performance outside and keep the indoor space for exhibitions.A. c – b – d – aB. b – d – c – aC. d – c – b – aD. b – c – d – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 19 a huy that should work let s include both activities in the programme b mai i think we should end the festival with an international dance performance c huy the idea is exciting but the main hall may be too small and noisy d mai then we could hold the performance outside and keep the indoor space for exhibitions a c b d ab b d c ac d c b ad b c d a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 19 a huy that should work let s include both activities in the programme b mai i think we should end the festival with an international dance performance c huy the idea is exciting but the main hall may be too small and noisy d mai then we could hold the performance outside and keep the indoor space for exhibitions a c b d ab b d c ac d c b ad b c d a write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 22 a overall schools should present global celebrations as opportunities for thoughtful cultural learning b b critics however challenge this positive view warning that commercial activities can hide a festival s original meaning c the growing popularity of international festivals in schools has produced different opinions d supporters argue that these events can introduce students to unfamiliar traditions e a balanced approach is to explain a festival s background before organising related activities a c b d e ab c d b e ac d c e b ad c e d a b write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 22 a. Overall, schools should present global celebrations as opportunities for thoughtful cultural learning.b. b. Critics, however, challenge this positive view, warning that commercial activities can hide a festival’s original meaning.c. The growing popularity of international festivals in schools has produced different opinions.d. Supporters argue that these events can introduce students to unfamiliar traditions.e. A balanced approach is to explain a festival’s background before organising related activities.A. c – b – d – e – aB. c – d – b – e – aC. d – c – e – b – aD. c – e – d – a – b Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 22 a overall schools should present global celebrations as opportunities for thoughtful cultural learning b b critics however challenge this positive view warning that commercial activities can hide a festival s original meaning c the growing popularity of international festivals in schools has produced different opinions d supporters argue that these events can introduce students to unfamiliar traditions e a balanced approach is to explain a festival s background before organising related activities a c b d e ab c d b e ac d c e b ad c e d a b write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 22 a overall schools should present global celebrations as opportunities for thoughtful cultural learning b b critics however challenge this positive view warning that commercial activities can hide a festival s original meaning c the growing popularity of international festivals in schools has produced different opinions d supporters argue that these events can introduce students to unfamiliar traditions e a balanced approach is to explain a festival s background before organising related activities a c b d e ab c d b e ac d c e b ad c e d a b write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 22 a overall schools should present global celebrations as opportunities for thoughtful cultural learning b b critics however challenge this positive view warning that commercial activities can hide a festival s original meaning c the growing popularity of international festivals in schools has produced different opinions d supporters argue that these events can introduce students to unfamiliar traditions e a balanced approach is to explain a festival s background before organising related activities a c b d e ab c d b e ac d c e b ad c e d a b write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 22 a. Overall, schools should present global celebrations as opportunities for thoughtful cultural learning.b. b. Critics, however, challenge this positive view, warning that commercial activities can hide a festival’s original meaning.c. The growing popularity of international festivals in schools has produced different opinions.d. Supporters argue that these events can introduce students to unfamiliar traditions.e. A balanced approach is to explain a festival’s background before organising related activities.A. c – b – d – e – aB. c – d – b – e – aC. d – c – e – b – aD. c – e – d – a – b Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 22 a overall schools should present global celebrations as opportunities for thoughtful cultural learning b b critics however challenge this positive view warning that commercial activities can hide a festival s original meaning c the growing popularity of international festivals in schools has produced different opinions d supporters argue that these events can introduce students to unfamiliar traditions e a balanced approach is to explain a festival s background before organising related activities a c b d e ab c d b e ac d c e b ad c e d a b write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 22 a overall schools should present global celebrations as opportunities for thoughtful cultural learning b b critics however challenge this positive view warning that commercial activities can hide a festival s original meaning c the growing popularity of international festivals in schools has produced different opinions d supporters argue that these events can introduce students to unfamiliar traditions e a balanced approach is to explain a festival s background before organising related activities a c b d e ab c d b e ac d c e b ad c e d a b write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 21 a eventually she became more confident because she understood why the meetings were organised that way b when an joined an international volunteer group its weekly meetings felt unfamiliar c at first she was confused because members openly questioned one another s suggestions d after asking the group leader for advice she began to view the questions as part of collaborative planning e she realised that the members were examining ideas rather than criticising people a b e c d ab c b d e ac b c d e ad b d c e a write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 21 a. Eventually, she became more confident because she understood why the meetings were organised that way.b. When An joined an international volunteer group, its weekly meetings felt unfamiliar.c. At first, she was confused because members openly questioned one another’s suggestions.d. After asking the group leader for advice, she began to view the questions as part of collaborative planning.e. She realised that the members were examining ideas rather than criticising people.A. b – e – c – d – aB. c – b – d – e – aC. b – c – d – e – aD. b – d – c – e – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 21 a eventually she became more confident because she understood why the meetings were organised that way b when an joined an international volunteer group its weekly meetings felt unfamiliar c at first she was confused because members openly questioned one another s suggestions d after asking the group leader for advice she began to view the questions as part of collaborative planning e she realised that the members were examining ideas rather than criticising people a b e c d ab c b d e ac b c d e ad b d c e a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 21 a eventually she became more confident because she understood why the meetings were organised that way b when an joined an international volunteer group its weekly meetings felt unfamiliar c at first she was confused because members openly questioned one another s suggestions d after asking the group leader for advice she began to view the questions as part of collaborative planning e she realised that the members were examining ideas rather than criticising people a b e c d ab c b d e ac b c d e ad b d c e a write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 21 a eventually she became more confident because she understood why the meetings were organised that way b when an joined an international volunteer group its weekly meetings felt unfamiliar c at first she was confused because members openly questioned one another s suggestions d after asking the group leader for advice she began to view the questions as part of collaborative planning e she realised that the members were examining ideas rather than criticising people a b e c d ab c b d e ac b c d e ad b d c e a write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text. Question 21 a. Eventually, she became more confident because she understood why the meetings were organised that way.b. When An joined an international volunteer group, its weekly meetings felt unfamiliar.c. At first, she was confused because members openly questioned one another’s suggestions.d. After asking the group leader for advice, she began to view the questions as part of collaborative planning.e. She realised that the members were examining ideas rather than criticising people.A. b – e – c – d – aB. c – b – d – e – aC. b – c – d – e – aD. b – d – c – e – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 21 a eventually she became more confident because she understood why the meetings were organised that way b when an joined an international volunteer group its weekly meetings felt unfamiliar c at first she was confused because members openly questioned one another s suggestions d after asking the group leader for advice she began to view the questions as part of collaborative planning e she realised that the members were examining ideas rather than criticising people a b e c d ab c b d e ac b c d e ad b d c e a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful dialogue or text question 21 a eventually she became more confident because she understood why the meetings were organised that way b when an joined an international volunteer group its weekly meetings felt unfamiliar c at first she was confused because members openly questioned one another s suggestions d after asking the group leader for advice she began to view the questions as part of collaborative planning e she realised that the members were examining ideas rather than criticising people a b e c d ab c b d e ac b c d e ad b d c e a write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "reading comprehension passage 1 questions 23 30 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 23what is the passage mainly about a why imported ingredients have become difficult to find in eastbridgeb how students learned to prepare national dishes at a community kitchenc why family recipes should remain unchanged after people migrated how a community project explored the stories and changes behind recipeswrite a b c or d 1 question 24the word them in paragraph 1 refers to a organisersb recipesc residentsd celebrationswrite a b c or d 2 question 25what did students ask community members about a the occasions people and changes connected with each recipeb the prices residents paid for ingredients in local shopsc the cooking qualifications required to join the exhibitiond the national dishes visitors expected to find at the centrewrite a b c or d 3 question 26the word adaptation in paragraph 2 is closest in meaning to a competitionb explanationc modificationd disappearancewrite a b c or d 4 question 27which of the following is not true according to the passage a some families changed recipes because certain ingredients were unavailable b the exhibition used maps photographs and recorded interviews c residents demonstrated how some of their dishes were prepared d every display was presented as the official cuisine of a country write a b c or d 5 question 28what is the main purpose of paragraph 3 a to argue that audio recordings are more useful than written recipesb to describe how the students research was presented to the publicc to explain why the organisers removed adapted dishes from the projectd to compare eastbridge s community centre with similar organisationswrite a b c or d 6 question 29what can be inferred about the labels added by the organisers a they helped prevent individual experiences from becoming cultural generalisations b they encouraged visitors to identify one correct version of every recipe c they showed that younger family members disliked traditional food d they persuaded residents to return to each recipe s original ingredients write a b c or d 7 question 30which of the following is the best title for the passage a finding the official recipe for every national dishb teaching secondary students to become professional cooksc recipes with a story food memory and adaptationd why modern families no longer preserve food traditionswrite a b c or d 8": {
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23What is the passage mainly about?A. Why imported ingredients have become difficult to find in EastbridgeB. How students learned to prepare national dishes at a community kitchenC. Why family recipes should remain unchanged after people migrateD. How a community project explored the stories and changes behind recipesWrite A, B, C, or D - {#1}Question 24The word “them” in paragraph 1 refers to ______.A. organisersB. recipesC. residentsD. celebrationsWrite A, B, C, or D - {#2}Question 25What did students ask community members about?A. The occasions, people and changes connected with each recipeB. The prices residents paid for ingredients in local shopsC. The cooking qualifications required to join the exhibitionD. The national dishes visitors expected to find at the centreWrite A, B, C, or D - {#3}Question 26The word “adaptation” in paragraph 2 is closest in meaning to ______.A. competitionB. explanationC. modificationD. disappearanceWrite A, B, C, or D - {#4}Question 27Which of the following is NOT true according to the passage?A. Some families changed recipes because certain ingredients were unavailable.B. The exhibition used maps, photographs and recorded interviews.C. Residents demonstrated how some of their dishes were prepared.D. Every display was presented as the official cuisine of a country.Write A, B, C, or D - {#5}Question 28What is the main purpose of paragraph 3?A. To argue that audio recordings are more useful than written recipesB. To describe how the students’ research was presented to the publicC. To explain why the organisers removed adapted dishes from the projectD. To compare Eastbridge’s community centre with similar organisationsWrite A, B, C, or D - {#6}Question 29What can be inferred about the labels added by the organisers?A. They helped prevent individual experiences from becoming cultural generalisations.B. They encouraged visitors to identify one correct version of every recipe.C. They showed that younger family members disliked traditional food.D. They persuaded residents to return to each recipe’s original ingredients.Write A, B, C, or D - {#7}Question 30Which of the following is the best title for the passage?A. Finding the Official Recipe for Every National DishB. Teaching Secondary Students to Become Professional CooksC. Recipes with a Story: Food, Memory and AdaptationD. Why Modern Families No Longer Preserve Food TraditionsWrite A, B, C, or D - {#8}",
+      "clean_stem": "reading comprehension passage 1 questions 23 30 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 23what is the passage mainly about a why imported ingredients have become difficult to find in eastbridgeb how students learned to prepare national dishes at a community kitchenc why family recipes should remain unchanged after people migrated how a community project explored the stories and changes behind recipeswrite a b c or d 1 question 24the word them in paragraph 1 refers to a organisersb recipesc residentsd celebrationswrite a b c or d 2 question 25what did students ask community members about a the occasions people and changes connected with each recipeb the prices residents paid for ingredients in local shopsc the cooking qualifications required to join the exhibitiond the national dishes visitors expected to find at the centrewrite a b c or d 3 question 26the word adaptation in paragraph 2 is closest in meaning to a competitionb explanationc modificationd disappearancewrite a b c or d 4 question 27which of the following is not true according to the passage a some families changed recipes because certain ingredients were unavailable b the exhibition used maps photographs and recorded interviews c residents demonstrated how some of their dishes were prepared d every display was presented as the official cuisine of a country write a b c or d 5 question 28what is the main purpose of paragraph 3 a to argue that audio recordings are more useful than written recipesb to describe how the students research was presented to the publicc to explain why the organisers removed adapted dishes from the projectd to compare eastbridge s community centre with similar organisationswrite a b c or d 6 question 29what can be inferred about the labels added by the organisers a they helped prevent individual experiences from becoming cultural generalisations b they encouraged visitors to identify one correct version of every recipe c they showed that younger family members disliked traditional food d they persuaded residents to return to each recipe s original ingredients write a b c or d 7 question 30which of the following is the best title for the passage a finding the official recipe for every national dishb teaching secondary students to become professional cooksc recipes with a story food memory and adaptationd why modern families no longer preserve food traditionswrite a b c or d 8",
+      "stem_key": "reading comprehension passage 1 questions 23 30 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 23what is the passage mainly about a why imported ingredients have become difficult to find in eastbridgeb how students learned to prepare national dishes at a community kitchenc why family recipes should remain unchanged after people migrated how a community project explored the stories and changes behind recipeswrite a b c or d 1 question 24the word them in paragraph 1 refers to a organisersb recipesc residentsd celebrationswrite a b c or d 2 question 25what did students ask community members about a the occasions people and changes connected with each recipeb the prices residents paid for ingredients in local shopsc the cooking qualifications required to join the exhibitiond the national dishes visitors expected to find at the centrewrite a b c or d 3 question 26the word adaptation in paragraph 2 is closest in meaning to a competitionb explanationc modificationd disappearancewrite a b c or d 4 question 27which of the following is not true according to the passage a some families changed recipes because certain ingredients were unavailable b the exhibition used maps photographs and recorded interviews c residents demonstrated how some of their dishes were prepared d every display was presented as the official cuisine of a country write a b c or d 5 question 28what is the main purpose of paragraph 3 a to argue that audio recordings are more useful than written recipesb to describe how the students research was presented to the publicc to explain why the organisers removed adapted dishes from the projectd to compare eastbridge s community centre with similar organisationswrite a b c or d 6 question 29what can be inferred about the labels added by the organisers a they helped prevent individual experiences from becoming cultural generalisations b they encouraged visitors to identify one correct version of every recipe c they showed that younger family members disliked traditional food d they persuaded residents to return to each recipe s original ingredients write a b c or d 7 question 30which of the following is the best title for the passage a finding the official recipe for every national dishb teaching secondary students to become professional cooksc recipes with a story food memory and adaptationd why modern families no longer preserve food traditionswrite a b c or d 8",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "reading comprehension passage 1 questions 23 30 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 23what is the passage mainly about a why imported ingredients have become difficult to find in eastbridgeb how students learned to prepare national dishes at a community kitchenc why family recipes should remain unchanged after people migrated how a community project explored the stories and changes behind recipeswrite a b c or d question 24the word them in paragraph 1 refers to a organisersb recipesc residentsd celebrationswrite a b c or d question 25what did students ask community members about a the occasions people and changes connected with each recipeb the prices residents paid for ingredients in local shopsc the cooking qualifications required to join the exhibitiond the national dishes visitors expected to find at the centrewrite a b c or d question 26the word adaptation in paragraph 2 is closest in meaning to a competitionb explanationc modificationd disappearancewrite a b c or d question 27which of the following is not true according to the passage a some families changed recipes because certain ingredients were unavailable b the exhibition used maps photographs and recorded interviews c residents demonstrated how some of their dishes were prepared d every display was presented as the official cuisine of a country write a b c or d question 28what is the main purpose of paragraph 3 a to argue that audio recordings are more useful than written recipesb to describe how the students research was presented to the publicc to explain why the organisers removed adapted dishes from the projectd to compare eastbridge s community centre with similar organisationswrite a b c or d question 29what can be inferred about the labels added by the organisers a they helped prevent individual experiences from becoming cultural generalisations b they encouraged visitors to identify one correct version of every recipe c they showed that younger family members disliked traditional food d they persuaded residents to return to each recipe s original ingredients write a b c or d question 30which of the following is the best title for the passage a finding the official recipe for every national dishb teaching secondary students to become professional cooksc recipes with a story food memory and adaptationd why modern families no longer preserve food traditionswrite a b c or d": {
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23What is the passage mainly about?A. Why imported ingredients have become difficult to find in EastbridgeB. How students learned to prepare national dishes at a community kitchenC. Why family recipes should remain unchanged after people migrateD. How a community project explored the stories and changes behind recipesWrite A, B, C, or D - {#1}Question 24The word “them” in paragraph 1 refers to ______.A. organisersB. recipesC. residentsD. celebrationsWrite A, B, C, or D - {#2}Question 25What did students ask community members about?A. The occasions, people and changes connected with each recipeB. The prices residents paid for ingredients in local shopsC. The cooking qualifications required to join the exhibitionD. The national dishes visitors expected to find at the centreWrite A, B, C, or D - {#3}Question 26The word “adaptation” in paragraph 2 is closest in meaning to ______.A. competitionB. explanationC. modificationD. disappearanceWrite A, B, C, or D - {#4}Question 27Which of the following is NOT true according to the passage?A. Some families changed recipes because certain ingredients were unavailable.B. The exhibition used maps, photographs and recorded interviews.C. Residents demonstrated how some of their dishes were prepared.D. Every display was presented as the official cuisine of a country.Write A, B, C, or D - {#5}Question 28What is the main purpose of paragraph 3?A. To argue that audio recordings are more useful than written recipesB. To describe how the students’ research was presented to the publicC. To explain why the organisers removed adapted dishes from the projectD. To compare Eastbridge’s community centre with similar organisationsWrite A, B, C, or D - {#6}Question 29What can be inferred about the labels added by the organisers?A. They helped prevent individual experiences from becoming cultural generalisations.B. They encouraged visitors to identify one correct version of every recipe.C. They showed that younger family members disliked traditional food.D. They persuaded residents to return to each recipe’s original ingredients.Write A, B, C, or D - {#7}Question 30Which of the following is the best title for the passage?A. Finding the Official Recipe for Every National DishB. Teaching Secondary Students to Become Professional CooksC. Recipes with a Story: Food, Memory and AdaptationD. Why Modern Families No Longer Preserve Food TraditionsWrite A, B, C, or D - {#8}",
+      "clean_stem": "reading comprehension passage 1 questions 23 30 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 23what is the passage mainly about a why imported ingredients have become difficult to find in eastbridgeb how students learned to prepare national dishes at a community kitchenc why family recipes should remain unchanged after people migrated how a community project explored the stories and changes behind recipeswrite a b c or d 1 question 24the word them in paragraph 1 refers to a organisersb recipesc residentsd celebrationswrite a b c or d 2 question 25what did students ask community members about a the occasions people and changes connected with each recipeb the prices residents paid for ingredients in local shopsc the cooking qualifications required to join the exhibitiond the national dishes visitors expected to find at the centrewrite a b c or d 3 question 26the word adaptation in paragraph 2 is closest in meaning to a competitionb explanationc modificationd disappearancewrite a b c or d 4 question 27which of the following is not true according to the passage a some families changed recipes because certain ingredients were unavailable b the exhibition used maps photographs and recorded interviews c residents demonstrated how some of their dishes were prepared d every display was presented as the official cuisine of a country write a b c or d 5 question 28what is the main purpose of paragraph 3 a to argue that audio recordings are more useful than written recipesb to describe how the students research was presented to the publicc to explain why the organisers removed adapted dishes from the projectd to compare eastbridge s community centre with similar organisationswrite a b c or d 6 question 29what can be inferred about the labels added by the organisers a they helped prevent individual experiences from becoming cultural generalisations b they encouraged visitors to identify one correct version of every recipe c they showed that younger family members disliked traditional food d they persuaded residents to return to each recipe s original ingredients write a b c or d 7 question 30which of the following is the best title for the passage a finding the official recipe for every national dishb teaching secondary students to become professional cooksc recipes with a story food memory and adaptationd why modern families no longer preserve food traditionswrite a b c or d 8",
+      "stem_key": "reading comprehension passage 1 questions 23 30 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 23what is the passage mainly about a why imported ingredients have become difficult to find in eastbridgeb how students learned to prepare national dishes at a community kitchenc why family recipes should remain unchanged after people migrated how a community project explored the stories and changes behind recipeswrite a b c or d 1 question 24the word them in paragraph 1 refers to a organisersb recipesc residentsd celebrationswrite a b c or d 2 question 25what did students ask community members about a the occasions people and changes connected with each recipeb the prices residents paid for ingredients in local shopsc the cooking qualifications required to join the exhibitiond the national dishes visitors expected to find at the centrewrite a b c or d 3 question 26the word adaptation in paragraph 2 is closest in meaning to a competitionb explanationc modificationd disappearancewrite a b c or d 4 question 27which of the following is not true according to the passage a some families changed recipes because certain ingredients were unavailable b the exhibition used maps photographs and recorded interviews c residents demonstrated how some of their dishes were prepared d every display was presented as the official cuisine of a country write a b c or d 5 question 28what is the main purpose of paragraph 3 a to argue that audio recordings are more useful than written recipesb to describe how the students research was presented to the publicc to explain why the organisers removed adapted dishes from the projectd to compare eastbridge s community centre with similar organisationswrite a b c or d 6 question 29what can be inferred about the labels added by the organisers a they helped prevent individual experiences from becoming cultural generalisations b they encouraged visitors to identify one correct version of every recipe c they showed that younger family members disliked traditional food d they persuaded residents to return to each recipe s original ingredients write a b c or d 7 question 30which of the following is the best title for the passage a finding the official recipe for every national dishb teaching secondary students to become professional cooksc recipes with a story food memory and adaptationd why modern families no longer preserve food traditionswrite a b c or d 8",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "reading comprehension passage 2 questions 31 40 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 31the word significance in paragraph 2 is closest in meaning to a appearanceb importancec popularityd originwrite a b c or d 1 question 32what did the workshop participants do before producing the clothes a they sold their first sketches to online fashion companies b they asked the museum to select all the patterns for them c they removed every outside influence from their designs d they researched the patterns and consulted relevant artisans write a b c or d 2 question 33the word they in paragraph 2 refers to a designersb patternsc settingsd communitieswrite a b c or d 3 question 34which option best paraphrases the sentence the issue is not simply whether outsiders use a cultural element but how they do so a cultural elements should never be used outside their original communities b outsiders may use cultural elements only when no financial benefit is involved c using a cultural element is not automatically the problem the way it is used matters d cultural exchange is respectful whenever a traditional design becomes widely popular write a b c or d 4 question 35what can be inferred about the artisans contribution to the workshop a it persuaded the participants to abandon fashion design completely b it helped the participants make more informed design decisions c it proved that online image collections were always inaccurate d it prevented the participants from combining cultural influences write a b c or d 5 question 36what is the main purpose of paragraph 4 a to prove that creativity is possible only through formal partnershipsb to describe how the artisans financially benefited from the workshopc to argue that cultural elements should remain within one communityd to address the concern that cultural respect may restrict creativitywrite a b c or d 6 question 37which of the following is not true according to the passage a the coordinator thinks consultation always limits creativity b some cultural elements carry historical or community meaning c the participants credited the traditions that influenced their work d digital media allows cultural images to spread rapidly write a b c or d 7 question 38where in paragraph 3 does the following sentence best fit this feedback gave the participants a clear basis for their next revisions a i b ii c iii d iv write a b c or d 8 question 39which option best summarises the passage a cultural influence should be avoided because it always removes a tradition s meaning b creative projects succeed only when museums control the use of traditional designs c online collections are the most reliable source of information about cultural patterns d cultural exchange is more respectful when meaning recognition and participation are considered write a b c or d 9 question 40which of the following is the best title for the passage a why traditional designs should never changeb cultural influence from inspiration to respectful exchangec the commercial success of international fashiond how digital media has replaced cultural traditionswrite a b c or d 10": {
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31The word “significance” in paragraph 2 is closest in meaning to ______.A. appearanceB. importanceC. popularityD. originWrite A, B, C, or D - {#1}Question 32What did the workshop participants do before producing the clothes?A. They sold their first sketches to online fashion companies.B. They asked the museum to select all the patterns for them.C. They removed every outside influence from their designs.D. They researched the patterns and consulted relevant artisans.Write A, B, C, or D - {#2}Question 33The word “They” in paragraph 2 refers to ______.A. designersB. patternsC. settingsD. communitiesWrite A, B, C, or D - {#3}Question 34Which option best paraphrases the sentence “The issue is not simply whether outsiders use a cultural element, but how they do so”?A. Cultural elements should never be used outside their original communities.B. Outsiders may use cultural elements only when no financial benefit is involved.C. Using a cultural element is not automatically the problem; the way it is used matters.D. Cultural exchange is respectful whenever a traditional design becomes widely popular.Write A, B, C, or D - {#4}Question 35What can be inferred about the artisans’ contribution to the workshop?A. It persuaded the participants to abandon fashion design completely.B. It helped the participants make more informed design decisions.C. It proved that online image collections were always inaccurate.D. It prevented the participants from combining cultural influences.Write A, B, C, or D - {#5}Question 36What is the main purpose of paragraph 4?A. To prove that creativity is possible only through formal partnershipsB. To describe how the artisans financially benefited from the workshopC. To argue that cultural elements should remain within one communityD. To address the concern that cultural respect may restrict creativityWrite A, B, C, or D - {#6}Question 37Which of the following is NOT true according to the passage?A. The coordinator thinks consultation always limits creativity.B. Some cultural elements carry historical or community meaning.C. The participants credited the traditions that influenced their work.D. Digital media allows cultural images to spread rapidly.Write A, B, C, or D - {#7}Question 38Where in paragraph 3 does the following sentence best fit?This feedback gave the participants a clear basis for their next revisions.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#8}Question 39Which option best summarises the passage?A. Cultural influence should be avoided because it always removes a tradition’s meaning.B. Creative projects succeed only when museums control the use of traditional designs.C. Online collections are the most reliable source of information about cultural patterns.D. Cultural exchange is more respectful when meaning, recognition and participation are considered.Write A, B, C, or D - {#9}Question 40Which of the following is the best title for the passage?A. Why Traditional Designs Should Never ChangeB. Cultural Influence: From Inspiration to Respectful ExchangeC. The Commercial Success of International FashionD. How Digital Media Has Replaced Cultural TraditionsWrite A, B, C, or D - {#10}",
+      "clean_stem": "reading comprehension passage 2 questions 31 40 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 31the word significance in paragraph 2 is closest in meaning to a appearanceb importancec popularityd originwrite a b c or d 1 question 32what did the workshop participants do before producing the clothes a they sold their first sketches to online fashion companies b they asked the museum to select all the patterns for them c they removed every outside influence from their designs d they researched the patterns and consulted relevant artisans write a b c or d 2 question 33the word they in paragraph 2 refers to a designersb patternsc settingsd communitieswrite a b c or d 3 question 34which option best paraphrases the sentence the issue is not simply whether outsiders use a cultural element but how they do so a cultural elements should never be used outside their original communities b outsiders may use cultural elements only when no financial benefit is involved c using a cultural element is not automatically the problem the way it is used matters d cultural exchange is respectful whenever a traditional design becomes widely popular write a b c or d 4 question 35what can be inferred about the artisans contribution to the workshop a it persuaded the participants to abandon fashion design completely b it helped the participants make more informed design decisions c it proved that online image collections were always inaccurate d it prevented the participants from combining cultural influences write a b c or d 5 question 36what is the main purpose of paragraph 4 a to prove that creativity is possible only through formal partnershipsb to describe how the artisans financially benefited from the workshopc to argue that cultural elements should remain within one communityd to address the concern that cultural respect may restrict creativitywrite a b c or d 6 question 37which of the following is not true according to the passage a the coordinator thinks consultation always limits creativity b some cultural elements carry historical or community meaning c the participants credited the traditions that influenced their work d digital media allows cultural images to spread rapidly write a b c or d 7 question 38where in paragraph 3 does the following sentence best fit this feedback gave the participants a clear basis for their next revisions a i b ii c iii d iv write a b c or d 8 question 39which option best summarises the passage a cultural influence should be avoided because it always removes a tradition s meaning b creative projects succeed only when museums control the use of traditional designs c online collections are the most reliable source of information about cultural patterns d cultural exchange is more respectful when meaning recognition and participation are considered write a b c or d 9 question 40which of the following is the best title for the passage a why traditional designs should never changeb cultural influence from inspiration to respectful exchangec the commercial success of international fashiond how digital media has replaced cultural traditionswrite a b c or d 10",
+      "stem_key": "reading comprehension passage 2 questions 31 40 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 31the word significance in paragraph 2 is closest in meaning to a appearanceb importancec popularityd originwrite a b c or d 1 question 32what did the workshop participants do before producing the clothes a they sold their first sketches to online fashion companies b they asked the museum to select all the patterns for them c they removed every outside influence from their designs d they researched the patterns and consulted relevant artisans write a b c or d 2 question 33the word they in paragraph 2 refers to a designersb patternsc settingsd communitieswrite a b c or d 3 question 34which option best paraphrases the sentence the issue is not simply whether outsiders use a cultural element but how they do so a cultural elements should never be used outside their original communities b outsiders may use cultural elements only when no financial benefit is involved c using a cultural element is not automatically the problem the way it is used matters d cultural exchange is respectful whenever a traditional design becomes widely popular write a b c or d 4 question 35what can be inferred about the artisans contribution to the workshop a it persuaded the participants to abandon fashion design completely b it helped the participants make more informed design decisions c it proved that online image collections were always inaccurate d it prevented the participants from combining cultural influences write a b c or d 5 question 36what is the main purpose of paragraph 4 a to prove that creativity is possible only through formal partnershipsb to describe how the artisans financially benefited from the workshopc to argue that cultural elements should remain within one communityd to address the concern that cultural respect may restrict creativitywrite a b c or d 6 question 37which of the following is not true according to the passage a the coordinator thinks consultation always limits creativity b some cultural elements carry historical or community meaning c the participants credited the traditions that influenced their work d digital media allows cultural images to spread rapidly write a b c or d 7 question 38where in paragraph 3 does the following sentence best fit this feedback gave the participants a clear basis for their next revisions a i b ii c iii d iv write a b c or d 8 question 39which option best summarises the passage a cultural influence should be avoided because it always removes a tradition s meaning b creative projects succeed only when museums control the use of traditional designs c online collections are the most reliable source of information about cultural patterns d cultural exchange is more respectful when meaning recognition and participation are considered write a b c or d 9 question 40which of the following is the best title for the passage a why traditional designs should never changeb cultural influence from inspiration to respectful exchangec the commercial success of international fashiond how digital media has replaced cultural traditionswrite a b c or d 10",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "D"
+        },
+        {
+          "index": 9,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "reading comprehension passage 2 questions 31 40 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 31the word significance in paragraph 2 is closest in meaning to a appearanceb importancec popularityd originwrite a b c or d question 32what did the workshop participants do before producing the clothes a they sold their first sketches to online fashion companies b they asked the museum to select all the patterns for them c they removed every outside influence from their designs d they researched the patterns and consulted relevant artisans write a b c or d question 33the word they in paragraph 2 refers to a designersb patternsc settingsd communitieswrite a b c or d question 34which option best paraphrases the sentence the issue is not simply whether outsiders use a cultural element but how they do so a cultural elements should never be used outside their original communities b outsiders may use cultural elements only when no financial benefit is involved c using a cultural element is not automatically the problem the way it is used matters d cultural exchange is respectful whenever a traditional design becomes widely popular write a b c or d question 35what can be inferred about the artisans contribution to the workshop a it persuaded the participants to abandon fashion design completely b it helped the participants make more informed design decisions c it proved that online image collections were always inaccurate d it prevented the participants from combining cultural influences write a b c or d question 36what is the main purpose of paragraph 4 a to prove that creativity is possible only through formal partnershipsb to describe how the artisans financially benefited from the workshopc to argue that cultural elements should remain within one communityd to address the concern that cultural respect may restrict creativitywrite a b c or d question 37which of the following is not true according to the passage a the coordinator thinks consultation always limits creativity b some cultural elements carry historical or community meaning c the participants credited the traditions that influenced their work d digital media allows cultural images to spread rapidly write a b c or d question 38where in paragraph 3 does the following sentence best fit this feedback gave the participants a clear basis for their next revisions a i b ii c iii d iv write a b c or d question 39which option best summarises the passage a cultural influence should be avoided because it always removes a tradition s meaning b creative projects succeed only when museums control the use of traditional designs c online collections are the most reliable source of information about cultural patterns d cultural exchange is more respectful when meaning recognition and participation are considered write a b c or d question 40which of the following is the best title for the passage a why traditional designs should never changeb cultural influence from inspiration to respectful exchangec the commercial success of international fashiond how digital media has replaced cultural traditionswrite a b c or d": {
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31The word “significance” in paragraph 2 is closest in meaning to ______.A. appearanceB. importanceC. popularityD. originWrite A, B, C, or D - {#1}Question 32What did the workshop participants do before producing the clothes?A. They sold their first sketches to online fashion companies.B. They asked the museum to select all the patterns for them.C. They removed every outside influence from their designs.D. They researched the patterns and consulted relevant artisans.Write A, B, C, or D - {#2}Question 33The word “They” in paragraph 2 refers to ______.A. designersB. patternsC. settingsD. communitiesWrite A, B, C, or D - {#3}Question 34Which option best paraphrases the sentence “The issue is not simply whether outsiders use a cultural element, but how they do so”?A. Cultural elements should never be used outside their original communities.B. Outsiders may use cultural elements only when no financial benefit is involved.C. Using a cultural element is not automatically the problem; the way it is used matters.D. Cultural exchange is respectful whenever a traditional design becomes widely popular.Write A, B, C, or D - {#4}Question 35What can be inferred about the artisans’ contribution to the workshop?A. It persuaded the participants to abandon fashion design completely.B. It helped the participants make more informed design decisions.C. It proved that online image collections were always inaccurate.D. It prevented the participants from combining cultural influences.Write A, B, C, or D - {#5}Question 36What is the main purpose of paragraph 4?A. To prove that creativity is possible only through formal partnershipsB. To describe how the artisans financially benefited from the workshopC. To argue that cultural elements should remain within one communityD. To address the concern that cultural respect may restrict creativityWrite A, B, C, or D - {#6}Question 37Which of the following is NOT true according to the passage?A. The coordinator thinks consultation always limits creativity.B. Some cultural elements carry historical or community meaning.C. The participants credited the traditions that influenced their work.D. Digital media allows cultural images to spread rapidly.Write A, B, C, or D - {#7}Question 38Where in paragraph 3 does the following sentence best fit?This feedback gave the participants a clear basis for their next revisions.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#8}Question 39Which option best summarises the passage?A. Cultural influence should be avoided because it always removes a tradition’s meaning.B. Creative projects succeed only when museums control the use of traditional designs.C. Online collections are the most reliable source of information about cultural patterns.D. Cultural exchange is more respectful when meaning, recognition and participation are considered.Write A, B, C, or D - {#9}Question 40Which of the following is the best title for the passage?A. Why Traditional Designs Should Never ChangeB. Cultural Influence: From Inspiration to Respectful ExchangeC. The Commercial Success of International FashionD. How Digital Media Has Replaced Cultural TraditionsWrite A, B, C, or D - {#10}",
+      "clean_stem": "reading comprehension passage 2 questions 31 40 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 31the word significance in paragraph 2 is closest in meaning to a appearanceb importancec popularityd originwrite a b c or d 1 question 32what did the workshop participants do before producing the clothes a they sold their first sketches to online fashion companies b they asked the museum to select all the patterns for them c they removed every outside influence from their designs d they researched the patterns and consulted relevant artisans write a b c or d 2 question 33the word they in paragraph 2 refers to a designersb patternsc settingsd communitieswrite a b c or d 3 question 34which option best paraphrases the sentence the issue is not simply whether outsiders use a cultural element but how they do so a cultural elements should never be used outside their original communities b outsiders may use cultural elements only when no financial benefit is involved c using a cultural element is not automatically the problem the way it is used matters d cultural exchange is respectful whenever a traditional design becomes widely popular write a b c or d 4 question 35what can be inferred about the artisans contribution to the workshop a it persuaded the participants to abandon fashion design completely b it helped the participants make more informed design decisions c it proved that online image collections were always inaccurate d it prevented the participants from combining cultural influences write a b c or d 5 question 36what is the main purpose of paragraph 4 a to prove that creativity is possible only through formal partnershipsb to describe how the artisans financially benefited from the workshopc to argue that cultural elements should remain within one communityd to address the concern that cultural respect may restrict creativitywrite a b c or d 6 question 37which of the following is not true according to the passage a the coordinator thinks consultation always limits creativity b some cultural elements carry historical or community meaning c the participants credited the traditions that influenced their work d digital media allows cultural images to spread rapidly write a b c or d 7 question 38where in paragraph 3 does the following sentence best fit this feedback gave the participants a clear basis for their next revisions a i b ii c iii d iv write a b c or d 8 question 39which option best summarises the passage a cultural influence should be avoided because it always removes a tradition s meaning b creative projects succeed only when museums control the use of traditional designs c online collections are the most reliable source of information about cultural patterns d cultural exchange is more respectful when meaning recognition and participation are considered write a b c or d 9 question 40which of the following is the best title for the passage a why traditional designs should never changeb cultural influence from inspiration to respectful exchangec the commercial success of international fashiond how digital media has replaced cultural traditionswrite a b c or d 10",
+      "stem_key": "reading comprehension passage 2 questions 31 40 read the following passage and choose the letter a b c or d to indicate the correct answer to each question question 31the word significance in paragraph 2 is closest in meaning to a appearanceb importancec popularityd originwrite a b c or d 1 question 32what did the workshop participants do before producing the clothes a they sold their first sketches to online fashion companies b they asked the museum to select all the patterns for them c they removed every outside influence from their designs d they researched the patterns and consulted relevant artisans write a b c or d 2 question 33the word they in paragraph 2 refers to a designersb patternsc settingsd communitieswrite a b c or d 3 question 34which option best paraphrases the sentence the issue is not simply whether outsiders use a cultural element but how they do so a cultural elements should never be used outside their original communities b outsiders may use cultural elements only when no financial benefit is involved c using a cultural element is not automatically the problem the way it is used matters d cultural exchange is respectful whenever a traditional design becomes widely popular write a b c or d 4 question 35what can be inferred about the artisans contribution to the workshop a it persuaded the participants to abandon fashion design completely b it helped the participants make more informed design decisions c it proved that online image collections were always inaccurate d it prevented the participants from combining cultural influences write a b c or d 5 question 36what is the main purpose of paragraph 4 a to prove that creativity is possible only through formal partnershipsb to describe how the artisans financially benefited from the workshopc to argue that cultural elements should remain within one communityd to address the concern that cultural respect may restrict creativitywrite a b c or d 6 question 37which of the following is not true according to the passage a the coordinator thinks consultation always limits creativity b some cultural elements carry historical or community meaning c the participants credited the traditions that influenced their work d digital media allows cultural images to spread rapidly write a b c or d 7 question 38where in paragraph 3 does the following sentence best fit this feedback gave the participants a clear basis for their next revisions a i b ii c iii d iv write a b c or d 8 question 39which option best summarises the passage a cultural influence should be avoided because it always removes a tradition s meaning b creative projects succeed only when museums control the use of traditional designs c online collections are the most reliable source of information about cultural patterns d cultural exchange is more respectful when meaning recognition and participation are considered write a b c or d 9 question 40which of the following is the best title for the passage a why traditional designs should never changeb cultural influence from inspiration to respectful exchangec the commercial success of international fashiond how digital media has replaced cultural traditionswrite a b c or d 10",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "D"
+        },
+        {
+          "index": 9,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 blank 7 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 blank 8 respectful question instead of making an immediate judgement small misunderstandings are common 9 blank 9 they can often be resolved through calm discussion try to remain 10 blank 10 when daily routines differ from what you expected rather than comparing every custom 11 blank 11 your own consider why it may be important to your host family this approach will help you develop mutual 12 blank 12 and enjoy a more successful exchange experience 📋bảng lựa chọn các ô trống cloze options ô 7 a ab no articlec thed anô 8 a anb no articlec ad theô 9 a butb althoughc sod becauseô 10 a open mindedlyb open mindedc opening mindedd opened mindô 11 a fromb forc aboutd withô 12 a attractionb understandingc popularityd origin": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. GUIDANCE FOR NEW EXCHANGE STUDENTS Living with a host family gives you a valuable opportunity to experience another way of life. However, remember that (7) [Blank 7] polite behaviour can vary from one culture to another. If you are unsure about a custom, ask (8) [Blank 8] respectful question instead of making an immediate judgement. Small misunderstandings are common, (9) [Blank 9] they can often be resolved through calm discussion. Try to remain (10) [Blank 10] when daily routines differ from what you expected. Rather than comparing every custom (11) [Blank 11] your own, consider why it may be important to your host family. This approach will help you develop mutual (12) [Blank 12] and enjoy a more successful exchange experience.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.aB.no articleC.theD.anÔ (8):A.anB.no articleC.aD.theÔ (9):A.butB.althoughC.soD.becauseÔ (10):A.open-mindedlyB.open-mindedC.opening-mindedD.opened-mindÔ (11):A.fromB.forC.aboutD.withÔ (12):A.attractionB.understandingC.popularityD.origin",
+      "clean_stem": "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 blank 7 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 blank 8 respectful question instead of making an immediate judgement small misunderstandings are common 9 blank 9 they can often be resolved through calm discussion try to remain 10 blank 10 when daily routines differ from what you expected rather than comparing every custom 11 blank 11 your own consider why it may be important to your host family this approach will help you develop mutual 12 blank 12 and enjoy a more successful exchange experience 📋bảng lựa chọn các ô trống cloze options ô 7 a ab no articlec thed anô 8 a anb no articlec ad theô 9 a butb althoughc sod becauseô 10 a open mindedlyb open mindedc opening mindedd opened mindô 11 a fromb forc aboutd withô 12 a attractionb understandingc popularityd origin",
+      "stem_key": "language in functional texts questions 7 12 read the following guidance and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 guidance for new exchange students living with a host family gives you a valuable opportunity to experience another way of life however remember that 7 blank 7 polite behaviour can vary from one culture to another if you are unsure about a custom ask 8 blank 8 respectful question instead of making an immediate judgement small misunderstandings are common 9 blank 9 they can often be resolved through calm discussion try to remain 10 blank 10 when daily routines differ from what you expected rather than comparing every custom 11 blank 11 your own consider why it may be important to your host family this approach will help you develop mutual 12 blank 12 and enjoy a more successful exchange experience 📋bảng lựa chọn các ô trống cloze options ô 7 a ab no articlec thed anô 8 a anb no articlec ad theô 9 a butb althoughc sod becauseô 10 a open mindedlyb open mindedc opening mindedd opened mindô 11 a fromb forc aboutd withô 12 a attractionb understandingc popularityd origin",
+      "answer": "no article",
+      "letter": "B",
+      "options": [
+        "no article"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "B. no article"
+        },
+        {
+          "index": 2,
+          "value": "A. but"
+        },
+        {
+          "index": 3,
+          "value": "B. open-minded"
+        },
+        {
+          "index": 4,
+          "value": "D. with"
+        },
+        {
+          "index": 5,
+          "value": "B. understanding"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 blank 1 international arts weekend featuring artists from many cultural backgrounds during 2 blank 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 blank 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 blank 4 modern ideas to make each activity meaningful every session will include 5 blank 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 blank 6 📋bảng lựa chọn các ô trống cloze options ô 1 a anb ac thed no articleô 2 a ab no articlec and theô 3 a attractedb comparedc adaptedd arrangedô 4 a withb forc aboutd fromô 5 a theb ac and no articleô 6 a familiarb suitablec populard limited": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. HARBOUR CITY CULTURE WEEKEND Our youth centre is hosting (1) [Blank 1] international arts weekend featuring artists from many cultural backgrounds. During (2) [Blank 2] event, visitors will discover how traditions can develop when communities live and work together. Artists whose families come from different regions will demonstrate how traditional styles can be (3) [Blank 3] to new settings. Practical workshops will invite visitors to create designs that combine local materials (4) [Blank 4] modern ideas. To make each activity meaningful, every session will include (5) [Blank 5] explanation of the tradition that inspired it. Visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves. Book early because places in the workshops are (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.anB.aC.theD.no articleÔ (2):A.aB.no articleC.anD.theÔ (3):A.attractedB.comparedC.adaptedD.arrangedÔ (4):A.withB.forC.aboutD.fromÔ (5):A.theB.aC.anD.no articleÔ (6):A.familiarB.suitableC.popularD.limited",
+      "clean_stem": "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 blank 1 international arts weekend featuring artists from many cultural backgrounds during 2 blank 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 blank 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 blank 4 modern ideas to make each activity meaningful every session will include 5 blank 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 blank 6 📋bảng lựa chọn các ô trống cloze options ô 1 a anb ac thed no articleô 2 a ab no articlec and theô 3 a attractedb comparedc adaptedd arrangedô 4 a withb forc aboutd fromô 5 a theb ac and no articleô 6 a familiarb suitablec populard limited",
+      "stem_key": "language in functional texts questions 1 6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 harbour city culture weekend our youth centre is hosting 1 blank 1 international arts weekend featuring artists from many cultural backgrounds during 2 blank 2 event visitors will discover how traditions can develop when communities live and work together artists whose families come from different regions will demonstrate how traditional styles can be 3 blank 3 to new settings practical workshops will invite visitors to create designs that combine local materials 4 blank 4 modern ideas to make each activity meaningful every session will include 5 blank 5 explanation of the tradition that inspired it visitors will therefore learn about the cultural background of the work as well as enjoy making something themselves book early because places in the workshops are 6 blank 6 📋bảng lựa chọn các ô trống cloze options ô 1 a anb ac thed no articleô 2 a ab no articlec and theô 3 a attractedb comparedc adaptedd arrangedô 4 a withb forc aboutd fromô 5 a theb ac and no articleô 6 a familiarb suitablec populard limited",
+      "answer": "an",
+      "letter": "A",
+      "options": [
+        "an"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. an"
+        },
+        {
+          "index": 1,
+          "value": "D. the"
+        },
+        {
+          "index": 2,
+          "value": "C. adapted"
+        },
+        {
+          "index": 3,
+          "value": "A. with"
+        },
+        {
+          "index": 4,
+          "value": "C. an"
+        },
+        {
+          "index": 5,
+          "value": "D. limited"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:32:01Z"
     }
   }
 }
