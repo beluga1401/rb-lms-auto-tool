@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "account_name": "Thái Phương Thanh",
+    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR11EX33-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr11ex33_term_1_mid_test_review",
+    "cmid": "739920",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_3_on_tap_gk1/gr11ex33_term_1_mid_test_review.json",
+    "score": "100.0%",
+    "score_pct": 100.0,
+    "question_count": 33,
+    "updated_at": "2026-10-18 20:08:35"
+  },
+  "answers": [
+    {
+      "answer": "C. change",
+      "id": "question-1900846-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a three-generation day trip planning an outing with grandparents, parents, and teenagers can be easier when everyone contributes. before choosing a destination, family members should discuss their interests rather than assume that different age groups want the same things. teenagers may be more open to (7) {#1}, while older relatives may prefer familiar routines. neither preference has to cause a problem if everyone helps (8) {#2} decisions about transport and activities. family members (9) {#3} explain any accessibility, health, or scheduling needs early so that the plan works for everyone. once transport has been booked, travellers (10) {#4} ignore the departure time, because the whole group cannot be delayed. all passengers (11) {#5} arrive at the meeting point by 7.30 a.m. because the coach leaves at 7.45. if heavy rain closes the mountain road, the group (12) {#6} follow the alternative route prepared by the organiser.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. A THREE-GENERATION DAY TRIP Planning an outing with grandparents, parents, and teenagers can be easier when everyone contributes. Before choosing a destination, family members should discuss their interests rather than assume that different age groups want the same things. Teenagers may be more open to (7) [Blank 7] , while older relatives may prefer familiar routines. Neither preference has to cause a problem if everyone helps (8) [Blank 8] decisions about transport and activities. Family members (9) [Blank 9] explain any accessibility, health, or scheduling needs early so that the plan works for everyone. Once transport has been booked, travellers (10) [Blank 10] ignore the departure time, because the whole group cannot be delayed. All passengers (11) [Blank 11] arrive at the meeting point by 7.30 a.m. because the coach leaves at 7.45. If heavy rain closes the mountain road, the group (12) [Blank 12] follow the alternative route prepared by the organiser.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.comparisonB.permissionC.changeD.conflictÔ (8):A.followB.makeC.holdD.takeÔ (9):A.had toB.shouldC.don't have toD.mustn'tÔ (10):A.don't have toB.had toC.shouldD.mustn'tÔ (11):A.shouldn'tB.mustn'tC.had toD.have toÔ (12):A.shouldn'tB.didn't have toC.will have toD.mustn't",
+      "questionId": "question-1900846-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a three-generation day trip planning an outing with grandparents, parents, and teenagers can be easier when everyone contributes. before choosing a destination, family members should discuss their interests rather than assume that different age groups want the same things. teenagers may be more open to (7) [blank 7] , while older relatives may prefer familiar routines. neither preference has to cause a problem if everyone helps (8) [blank 8] decisions about transport and activities. family members (9) [blank 9] explain any accessibility, health, or scheduling needs early so that the plan works for everyone. once transport has been booked, travellers (10) [blank 10] ignore the departure time, because the whole group cannot be delayed. all passengers (11) [blank 11] arrive at the meeting point by 7.30 a.m. because the coach leaves at 7.45. if heavy rain closes the mountain road, the group (12) [blank 12] follow the alternative route prepared by the organiser.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.comparisonb.permissionc.changed.conflictô (8):a.followb.makec.holdd.takeô (9):a.had tob.shouldc.don't have tod.mustn'tô (10):a.don't have tob.had toc.shouldd.mustn'tô (11):a.shouldn'tb.mustn'tc.had tod.have toô (12):a.shouldn'tb.didn't have toc.will have tod.mustn't",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. change"
+        },
+        {
+          "index": 1,
+          "value": "B. make"
+        },
+        {
+          "index": 2,
+          "value": "B. should"
+        },
+        {
+          "index": 3,
+          "value": "D. mustn't"
+        },
+        {
+          "index": 4,
+          "value": "D. have to"
+        },
+        {
+          "index": 5,
+          "value": "C. will have to"
+        }
+      ],
+      "verified_100": true
+    },
+    {
+      "answer": "",
+      "id": "question-1900846-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. generation stories project people from different generations often know less about one another's experiences than they realise. our generation stories project invites students to interview an older relative or community member and create a short profile. before recording an interview, participants (1) {#1} ask the interviewee for permission. this is a project requirement. your interviewee may hold opinions that differ from yours, but you (2) {#2} agree with every view you hear. the aim is to understand the person's experiences rather than judge them. each participant will (3) {#3} submit a 250-word profile at the end of the project. when writing, avoid (4) {#4} people simply because of their age. instead, explain the experiences that may have influenced their beliefs. students are also encouraged to identify one (5) {#5} characteristic or interest that they share with the person they interviewed. (6) {#6}, selected profiles will be displayed at our community stories exhibition.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. GENERATION STORIES PROJECT People from different generations often know less about one another's experiences than they realise. Our Generation Stories Project invites students to interview an older relative or community member and create a short profile. Before recording an interview, participants (1) [Blank 1] ask the interviewee for permission. This is a project requirement. Your interviewee may hold opinions that differ from yours, but you (2) [Blank 2] agree with every view you hear. The aim is to understand the person's experiences rather than judge them. Each participant will (3) [Blank 3] submit a 250-word profile at the end of the project. When writing, avoid (4) [Blank 4] people simply because of their age. Instead, explain the experiences that may have influenced their beliefs. Students are also encouraged to identify one (5) [Blank 5] characteristic or interest that they share with the person they interviewed. (6) [Blank 6] , selected profiles will be displayed at our Community Stories Exhibition.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.shouldB.have toC.don't have toD.mustn'tÔ (2):A.have toB.mustn'tC.don't have toD.shouldÔ (3):A.mustn'tB.have toC.had toD.shouldn'tÔ (4):A.sharingB.interviewingC.followingD.judgingÔ (5):A.traditionalB.commonC.culturalD.fixedÔ (6):A.For exampleB.OtherwiseC.AfterwardsD.However",
+      "questionId": "question-1900846-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. generation stories project people from different generations often know less about one another's experiences than they realise. our generation stories project invites students to interview an older relative or community member and create a short profile. before recording an interview, participants (1) [blank 1] ask the interviewee for permission. this is a project requirement. your interviewee may hold opinions that differ from yours, but you (2) [blank 2] agree with every view you hear. the aim is to understand the person's experiences rather than judge them. each participant will (3) [blank 3] submit a 250-word profile at the end of the project. when writing, avoid (4) [blank 4] people simply because of their age. instead, explain the experiences that may have influenced their beliefs. students are also encouraged to identify one (5) [blank 5] characteristic or interest that they share with the person they interviewed. (6) [blank 6] , selected profiles will be displayed at our community stories exhibition.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.shouldb.have toc.don't have tod.mustn'tô (2):a.have tob.mustn'tc.don't have tod.shouldô (3):a.mustn'tb.have toc.had tod.shouldn'tô (4):a.sharingb.interviewingc.followingd.judgingô (5):a.traditionalb.commonc.culturald.fixedô (6):a.for exampleb.otherwisec.afterwardsd.however",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 1,
+          "value": "C. don't have to"
+        },
+        {
+          "index": 2,
+          "value": "B. have to"
+        },
+        {
+          "index": 3,
+          "value": "D. judging"
+        },
+        {
+          "index": 4,
+          "value": "B. common"
+        },
+        {
+          "index": 5,
+          "value": "C. Afterwards"
+        }
+      ],
+      "verified_100": true
+    },
+    {
+      "answer": "B",
+      "id": "question-1900846-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 15,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. the closed door when huy turned sixteen, he began closing his bedroom door while doing homework and attending online lessons. his father disliked this change. when he was young, most family activities had taken place in shared spaces, so a closed door suggested to him that someone wanted to avoid the rest of the family. huy, however, said he simply needed quiet in order to concentrate. (13) ______. rather than continue the same argument, huy's mother suggested a one-week experiment. huy could close the door while studying, but he would still join the family for dinner and tell his parents roughly when his online lessons would finish. his parents agreed to knock before entering. (14) ______. under this arrangement, huy (15) ______ keep the door open while studying, although he still had to respond if his parents needed him for something important. during the week, his father noticed that huy came out of his room as soon as his work was finished and continued spending time with the family. huy also noticed that his father now knocked instead of entering immediately. (16) ______. the experiment did not settle every disagreement about privacy. (17) ______. both sides, however, became better at distinguishing a need for quiet from a lack of interest in family life. question 13.a. his father therefore decided that teenagers should never study alone in their rooms.b. the conflict came partly from different interpretations of the same behaviour.c. huy immediately agreed to leave his bedroom door open at all times.d. his mother believed that the disagreement was mainly about school performance.write a, b, c, or d - {#1}question 14.a. huy's father then decided to remove the bedroom door completely.b. the family agreed that privacy was more important than communication.c. the arrangement gave both sides a practical way to test their concerns.d. huy was asked to stop taking online lessons during the experiment.write a, b, c, or d - {#2}question 15.a. shouldn'tb. mustn'tc. had tod. didn't have towrite a, b, c, or d - {#3}question 16.a. his father began to see that a closed door did not automatically mean rejection of family time.b. huy therefore decided that family members should never enter one another's rooms.c. his parents concluded that teenagers were always more responsible when left completely alone.d. the family stopped discussing privacy because the issue had become too difficult.write a, b, c, or d - {#4}question 17.a. huy concluded that parents had no right to ask teenagers what they were doing.b. they still disagreed about exactly when closing the bedroom door was reasonable.c. his parents decided that the original disagreement had never been important.d. the experience proved that teenagers and parents should always have identical views.write a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. THE CLOSED DOOR When Huy turned sixteen, he began closing his bedroom door while doing homework and attending online lessons. His father disliked this change. When he was young, most family activities had taken place in shared spaces, so a closed door suggested to him that someone wanted to avoid the rest of the family. Huy, however, said he simply needed quiet in order to concentrate. (13) ______. Rather than continue the same argument, Huy's mother suggested a one-week experiment. Huy could close the door while studying, but he would still join the family for dinner and tell his parents roughly when his online lessons would finish. His parents agreed to knock before entering. (14) ______. Under this arrangement, Huy (15) ______ keep the door open while studying, although he still had to respond if his parents needed him for something important. During the week, his father noticed that Huy came out of his room as soon as his work was finished and continued spending time with the family. Huy also noticed that his father now knocked instead of entering immediately. (16) ______. The experiment did not settle every disagreement about privacy. (17) ______. Both sides, however, became better at distinguishing a need for quiet from a lack of interest in family life. Question 13.A. His father therefore decided that teenagers should never study alone in their rooms.B. The conflict came partly from different interpretations of the same behaviour.C. Huy immediately agreed to leave his bedroom door open at all times.D. His mother believed that the disagreement was mainly about school performance.Write A, B, C, or D - {#1}Question 14.A. Huy's father then decided to remove the bedroom door completely.B. The family agreed that privacy was more important than communication.C. The arrangement gave both sides a practical way to test their concerns.D. Huy was asked to stop taking online lessons during the experiment.Write A, B, C, or D - {#2}Question 15.A. shouldn'tB. mustn'tC. had toD. didn't have toWrite A, B, C, or D - {#3}Question 16.A. His father began to see that a closed door did not automatically mean rejection of family time.B. Huy therefore decided that family members should never enter one another's rooms.C. His parents concluded that teenagers were always more responsible when left completely alone.D. The family stopped discussing privacy because the issue had become too difficult.Write A, B, C, or D - {#4}Question 17.A. Huy concluded that parents had no right to ask teenagers what they were doing.B. They still disagreed about exactly when closing the bedroom door was reasonable.C. His parents decided that the original disagreement had never been important.D. The experience proved that teenagers and parents should always have identical views.Write A, B, C, or D - {#5}",
+      "questionId": "question-1900846-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. the closed door when huy turned sixteen, he began closing his bedroom door while doing homework and attending online lessons. his father disliked this change. when he was young, most family activities had taken place in shared spaces, so a closed door suggested to him that someone wanted to avoid the rest of the family. huy, however, said he simply needed quiet in order to concentrate. (13) ______. rather than continue the same argument, huy's mother suggested a one-week experiment. huy could close the door while studying, but he would still join the family for dinner and tell his parents roughly when his online lessons would finish. his parents agreed to knock before entering. (14) ______. under this arrangement, huy (15) ______ keep the door open while studying, although he still had to respond if his parents needed him for something important. during the week, his father noticed that huy came out of his room as soon as his work was finished and continued spending time with the family. huy also noticed that his father now knocked instead of entering immediately. (16) ______. the experiment did not settle every disagreement about privacy. (17) ______. both sides, however, became better at distinguishing a need for quiet from a lack of interest in family life. question 13.a. his father therefore decided that teenagers should never study alone in their rooms.b. the conflict came partly from different interpretations of the same behaviour.c. huy immediately agreed to leave his bedroom door open at all times.d. his mother believed that the disagreement was mainly about school performance.write a, b, c, or d - {#1}question 14.a. huy's father then decided to remove the bedroom door completely.b. the family agreed that privacy was more important than communication.c. the arrangement gave both sides a practical way to test their concerns.d. huy was asked to stop taking online lessons during the experiment.write a, b, c, or d - {#2}question 15.a. shouldn'tb. mustn'tc. had tod. didn't have towrite a, b, c, or d - {#3}question 16.a. his father began to see that a closed door did not automatically mean rejection of family time.b. huy therefore decided that family members should never enter one another's rooms.c. his parents concluded that teenagers were always more responsible when left completely alone.d. the family stopped discussing privacy because the issue had become too difficult.write a, b, c, or d - {#4}question 17.a. huy concluded that parents had no right to ask teenagers what they were doing.b. they still disagreed about exactly when closing the bedroom door was reasonable.c. his parents decided that the original disagreement had never been important.d. the experience proved that teenagers and parents should always have identical views.write a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "B",
+      "id": "question-1900846-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 21 a. dad: certainly. send me the event details, and i'll pick you up when it finishes.b. minh: dad, would you mind if i stayed at school until 8 p.m. for the music rehearsal?c. dad: is there a teacher supervising the rehearsal that late?d. minh: yes. ms hoa will stay with us until everyone leaves.a. b - d - c - ab. b - c - d - ac. c - b - d - ad. b - c - a - d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 21 a. Dad: Certainly. Send me the event details, and I'll pick you up when it finishes.b. Minh: Dad, would you mind if I stayed at school until 8 p.m. for the music rehearsal?c. Dad: Is there a teacher supervising the rehearsal that late?d. Minh: Yes. Ms Hoa will stay with us until everyone leaves.A. b - d - c - aB. b - c - d - aC. c - b - d - aD. b - c - a - d Write A, B, C, or D - {#1}",
+      "questionId": "question-1900846-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 21 a. dad: certainly. send me the event details, and i'll pick you up when it finishes.b. minh: dad, would you mind if i stayed at school until 8 p.m. for the music rehearsal?c. dad: is there a teacher supervising the rehearsal that late?d. minh: yes. ms hoa will stay with us until everyone leaves.a. b - d - c - ab. b - c - d - ac. c - b - d - ad. b - c - a - d write a, b, c, or d - {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "D",
+      "id": "question-1900846-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 20 a. nam: in that case, what kind of music would you choose for the party this weekend?b. vy: i would start with modern pop because most of my cousins like it.c. nam: and what about your grandparents — would they enjoy that choice?d. vy: they prefer older songs, so i think a mix would be fairer.e. nam: do different generations in your family often prefer different music?f. vy: yes, especially at family celebrations.a. a - b - e - f - c - db. e - a - b - c - f - dc. e - f - c - d - a - bd. e - f - a - b - c - d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 20 a. Nam: In that case, what kind of music would you choose for the party this weekend?b. Vy: I would start with modern pop because most of my cousins like it.c. Nam: And what about your grandparents — would they enjoy that choice?d. Vy: They prefer older songs, so I think a mix would be fairer.e. Nam: Do different generations in your family often prefer different music?f. Vy: Yes, especially at family celebrations.A. a - b - e - f - c - dB. e - a - b - c - f - dC. e - f - c - d - a - bD. e - f - a - b - c - d Write A, B, C, or D - {#1}",
+      "questionId": "question-1900846-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 20 a. nam: in that case, what kind of music would you choose for the party this weekend?b. vy: i would start with modern pop because most of my cousins like it.c. nam: and what about your grandparents — would they enjoy that choice?d. vy: they prefer older songs, so i think a mix would be fairer.e. nam: do different generations in your family often prefer different music?f. vy: yes, especially at family celebrations.a. a - b - e - f - c - db. e - a - b - c - f - dc. e - f - c - d - a - bd. e - f - a - b - c - d write a, b, c, or d - {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "C",
+      "id": "question-1900846-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 22 a. after registering, participants will receive two short family scenarios to discuss in groups.b. the student support team is holding a family decision-making workshop next wednesday.c. students who want to attend must register with their form teacher by friday.d. each group will then present one solution that considers both the teenager's and the parent's concerns.e. the workshop will end with a short discussion of how families can disagree respectfully.a. b - a - c - d - eb. c - b - a - e - dc. b - c - a - d - ed. b - c - d - a - e write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 22 a. After registering, participants will receive two short family scenarios to discuss in groups.b. The Student Support Team is holding a Family Decision-Making Workshop next Wednesday.c. Students who want to attend must register with their form teacher by Friday.d. Each group will then present one solution that considers both the teenager's and the parent's concerns.e. The workshop will end with a short discussion of how families can disagree respectfully.A. b - a - c - d - eB. c - b - a - e - dC. b - c - a - d - eD. b - c - d - a - e Write A, B, C, or D - {#1}",
+      "questionId": "question-1900846-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 22 a. after registering, participants will receive two short family scenarios to discuss in groups.b. the student support team is holding a family decision-making workshop next wednesday.c. students who want to attend must register with their form teacher by friday.d. each group will then present one solution that considers both the teenager's and the parent's concerns.e. the workshop will end with a short discussion of how families can disagree respectfully.a. b - a - c - d - eb. c - b - a - e - dc. b - c - a - d - ed. b - c - d - a - e write a, b, c, or d - {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "C",
+      "id": "question-1900846-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 18 a. because her school schedule had changed, mai could no longer cook with her grandmother every afternoon.b. mai first thought her grandmother would feel disappointed by the change.c. instead, her grandmother suggested that they cook together on sunday mornings.d. the new arrangement allowed them to continue the activity without making mai ignore her schoolwork.e. mai agreed, and they chose one recipe to prepare each week.a. b - a - c - d - eb. a - c - b - e - dc. a - b - c - e - dd. a - b - e - c - d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 18 a. Because her school schedule had changed, Mai could no longer cook with her grandmother every afternoon.b. Mai first thought her grandmother would feel disappointed by the change.c. Instead, her grandmother suggested that they cook together on Sunday mornings.d. The new arrangement allowed them to continue the activity without making Mai ignore her schoolwork.e. Mai agreed, and they chose one recipe to prepare each week.A. b - a - c - d - eB. a - c - b - e - dC. a - b - c - e - dD. a - b - e - c - d Write A, B, C, or D - {#1}",
+      "questionId": "question-1900846-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 18 a. because her school schedule had changed, mai could no longer cook with her grandmother every afternoon.b. mai first thought her grandmother would feel disappointed by the change.c. instead, her grandmother suggested that they cook together on sunday mornings.d. the new arrangement allowed them to continue the activity without making mai ignore her schoolwork.e. mai agreed, and they chose one recipe to prepare each week.a. b - a - c - d - eb. a - c - b - e - dc. a - b - c - e - dd. a - b - e - c - d write a, b, c, or d - {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "A",
+      "id": "question-1900846-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and choose the letter a, b, c, or d to indicate the best answer to each of the following questions from 23 to 30.question 23.what is the passage mainly about?a. how a shared-calendar system reduced scheduling misunderstandings within one familyb. why teenagers prefer digital calendars while older relatives prefer paper onesc. how families can replace face-to-face discussions with digital planning toolsd. why busy families should allow one person to control the weekly schedulewrite a, b, c, or d - {#1}question 24.the word \"visible\" in paragraph 2 is closest in meaning to ______.a. difficult for everyone to changeb. important for everyone to rememberc. available to people only onlined. easy for everyone to seewrite a, b, c, or d - {#2}question 25.the phrase \"this arrangement\" in paragraph 2 refers to ______.a. holding a short family meeting every sunday eveningb. keeping paper and digital versions of the same schedulec. asking the grandmother to manage all family appointments herselfd. letting each generation record only its own planned activitieswrite a, b, c, or d - {#3}question 26.according to paragraph 2, who was responsible for recording a change?a. only the parents were allowed to add new appointments.b. the grandmother copied every change into the phone app.c. the person making a change updated the shared schedule.d. the teenager checked the calendar before every family meal.write a, b, c, or d - {#4}question 27.which of the following is not true according to the passage?a. the grandmother learned to manage the family's phone calendar by herself.b. different family members preferred different ways of checking the schedule.c. the family reported fewer misunderstandings after using the shared calendar.d. the experiment did not require everyone to use the same planning tool.write a, b, c, or d - {#5}question 28.which of the following best paraphrases the final sentence of the passage?a. family disagreements disappear once everyone uses exactly the same technology.b. older relatives usually need teenagers to organise their daily activities for them.c. better access to shared information can reduce conflict without changing people's preferences.d. scheduling problems mainly occur because different generations have different values.write a, b, c, or d - {#6}question 29.what is the main purpose of paragraph 3?a. to explain why the family chose a paper calendar instead of a phone appb. to compare the number of appointments made by adults and teenagersc. to show that the grandmother eventually preferred digital planning to paperd. to report the results and explain what seemed to make the system usefulwrite a, b, c, or d - {#7}question 30.what can be inferred about some of the family's earlier disagreements?a. the family believed technological skill was the main cause of their earlier disagreements.b. some conflicts had probably resulted from missing information rather than opposing values.c. the experiment worked because one family member controlled all schedule changes.d. the teenager probably became responsible for organising every family activity.write a, b, c, or d - {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and choose the letter A, B, C, or D to indicate the best answer to each of the following questions from 23 to 30.Question 23.What is the passage mainly about?A. How a shared-calendar system reduced scheduling misunderstandings within one familyB. Why teenagers prefer digital calendars while older relatives prefer paper onesC. How families can replace face-to-face discussions with digital planning toolsD. Why busy families should allow one person to control the weekly scheduleWrite A, B, C, or D - {#1}Question 24.The word \"visible\" in paragraph 2 is closest in meaning to ______.A. difficult for everyone to changeB. important for everyone to rememberC. available to people only onlineD. easy for everyone to seeWrite A, B, C, or D - {#2}Question 25.The phrase \"This arrangement\" in paragraph 2 refers to ______.A. holding a short family meeting every Sunday eveningB. keeping paper and digital versions of the same scheduleC. asking the grandmother to manage all family appointments herselfD. letting each generation record only its own planned activitiesWrite A, B, C, or D - {#3}Question 26.According to paragraph 2, who was responsible for recording a change?A. Only the parents were allowed to add new appointments.B. The grandmother copied every change into the phone app.C. The person making a change updated the shared schedule.D. The teenager checked the calendar before every family meal.Write A, B, C, or D - {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The grandmother learned to manage the family's phone calendar by herself.B. Different family members preferred different ways of checking the schedule.C. The family reported fewer misunderstandings after using the shared calendar.D. The experiment did not require everyone to use the same planning tool.Write A, B, C, or D - {#5}Question 28.Which of the following best paraphrases the final sentence of the passage?A. Family disagreements disappear once everyone uses exactly the same technology.B. Older relatives usually need teenagers to organise their daily activities for them.C. Better access to shared information can reduce conflict without changing people's preferences.D. Scheduling problems mainly occur because different generations have different values.Write A, B, C, or D - {#6}Question 29.What is the main purpose of paragraph 3?A. To explain why the family chose a paper calendar instead of a phone appB. To compare the number of appointments made by adults and teenagersC. To show that the grandmother eventually preferred digital planning to paperD. To report the results and explain what seemed to make the system usefulWrite A, B, C, or D - {#7}Question 30.What can be inferred about some of the family's earlier disagreements?A. The family believed technological skill was the main cause of their earlier disagreements.B. Some conflicts had probably resulted from missing information rather than opposing values.C. The experiment worked because one family member controlled all schedule changes.D. The teenager probably became responsible for organising every family activity.Write A, B, C, or D - {#8}",
+      "questionId": "question-1900846-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and choose the letter a, b, c, or d to indicate the best answer to each of the following questions from 23 to 30.question 23.what is the passage mainly about?a. how a shared-calendar system reduced scheduling misunderstandings within one familyb. why teenagers prefer digital calendars while older relatives prefer paper onesc. how families can replace face-to-face discussions with digital planning toolsd. why busy families should allow one person to control the weekly schedulewrite a, b, c, or d - {#1}question 24.the word \"visible\" in paragraph 2 is closest in meaning to ______.a. difficult for everyone to changeb. important for everyone to rememberc. available to people only onlined. easy for everyone to seewrite a, b, c, or d - {#2}question 25.the phrase \"this arrangement\" in paragraph 2 refers to ______.a. holding a short family meeting every sunday eveningb. keeping paper and digital versions of the same schedulec. asking the grandmother to manage all family appointments herselfd. letting each generation record only its own planned activitieswrite a, b, c, or d - {#3}question 26.according to paragraph 2, who was responsible for recording a change?a. only the parents were allowed to add new appointments.b. the grandmother copied every change into the phone app.c. the person making a change updated the shared schedule.d. the teenager checked the calendar before every family meal.write a, b, c, or d - {#4}question 27.which of the following is not true according to the passage?a. the grandmother learned to manage the family's phone calendar by herself.b. different family members preferred different ways of checking the schedule.c. the family reported fewer misunderstandings after using the shared calendar.d. the experiment did not require everyone to use the same planning tool.write a, b, c, or d - {#5}question 28.which of the following best paraphrases the final sentence of the passage?a. family disagreements disappear once everyone uses exactly the same technology.b. older relatives usually need teenagers to organise their daily activities for them.c. better access to shared information can reduce conflict without changing people's preferences.d. scheduling problems mainly occur because different generations have different values.write a, b, c, or d - {#6}question 29.what is the main purpose of paragraph 3?a. to explain why the family chose a paper calendar instead of a phone appb. to compare the number of appointments made by adults and teenagersc. to show that the grandmother eventually preferred digital planning to paperd. to report the results and explain what seemed to make the system usefulwrite a, b, c, or d - {#7}question 30.what can be inferred about some of the family's earlier disagreements?a. the family believed technological skill was the main cause of their earlier disagreements.b. some conflicts had probably resulted from missing information rather than opposing values.c. the experiment worked because one family member controlled all schedule changes.d. the teenager probably became responsible for organising every family activity.write a, b, c, or d - {#8}",
+      "questionNumber": 9,
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "",
+      "id": "question-1900846-10",
+      "inputs": [
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 8,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and choose the letter a, b, c, or d to indicate the best answer to each of the following questions from 31 to 40. question 31.the word \"defensive\" in paragraph 1 is closest in meaning to ______.a. relaxedb. amusedc. uncertaind. guardedwrite a, b, c, or d - {#1}question 32.why did the expression \"when i was your age...\" sometimes cause difficulty?a. it made parents unwilling to talk about their own past experiences.b. teenagers sometimes heard it as a judgement against their present choices.c. it encouraged teenagers to compare their parents with other adults.d. parents used it mainly when they had forgotten what happened in their youth.write a, b, c, or d - {#2}question 33.the phrase \"this adjustment\" in paragraph 2 refers to ______.a. removing all personal advice from difficult conversations between parents and teenagersb. asking teenagers to accept older people's experience before giving their own viewc. stating a concern and hearing the teenager before sharing a personal exampled. replacing family discussions with written explanations about experiences from the parents' pastwrite a, b, c, or d - {#3}question 34.which of the following best paraphrases the idea that parents should separate personal experience from a fixed standard?a. parents could share past experience without treating it as the only standard.b. parents were expected to avoid discussing their own past during difficult conversations.c. teenagers were expected to follow parental advice whenever their experiences seemed similar.d. families were encouraged to focus on earlier experiences rather than present problems.write a, b, c, or d - {#4}question 35.what can be inferred about the facilitators' view of parental advice?a. they believed parents should stop giving teenagers advice during disagreements.b. they thought teenagers usually understood family advice without explanation.c. they wanted parents to use past experiences as proof that their views were correct.d. they supported parental guidance but wanted it combined with listening and current context.write a, b, c, or d - {#5}question 36.where in paragraph 3 does the following sentence best fit?the teenager answered this question before the conversation moved to the parent's past.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#6}question 37.what is the main purpose of paragraph 4?a. to describe why parents stopped giving advice during the family projectb. to report the results and clarify a misunderstanding about the project's purposec. to compare teenagers who accepted advice with those who rejected parental guidanced. to explain how researchers measured long-term changes in participating family relationshipswrite a, b, c, or d - {#7}question 38.which of the following is not supported by the passage?a. every participating family reported fewer arguments by the end of the project.b. some teenagers said they felt less judged during family discussions.c. some parents still found their own past experiences useful in conversations.d. facilitators did not intend the project to prevent parents from offering guidance.write a, b, c, or d - {#8}question 39.which of the following best summarises the passage?a. parents should avoid discussing past experience because teenagers rarely learn useful lessons from older people.b. family conflict mainly occurs because parents and teenagers remember their earlier life experiences in different ways.c. past experience can support advice when shared as context, not as a fixed standard.d. teenagers respond best when parents let them make all important personal decisions without family guidance.write a, b, c, or d - {#9}question 40.which of the following is the best title for the passage?a. why parents should stop talking about their youthb. the generation that no longer wants advicec. how family arguments can be avoided completelyd. experience as context, not a measuring stickwrite a, b, c, or d - {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and choose the letter A, B, C, or D to indicate the best answer to each of the following questions from 31 to 40. Question 31.The word \"defensive\" in paragraph 1 is closest in meaning to ______.A. relaxedB. amusedC. uncertainD. guardedWrite A, B, C, or D - {#1}Question 32.Why did the expression \"When I was your age...\" sometimes cause difficulty?A. It made parents unwilling to talk about their own past experiences.B. Teenagers sometimes heard it as a judgement against their present choices.C. It encouraged teenagers to compare their parents with other adults.D. Parents used it mainly when they had forgotten what happened in their youth.Write A, B, C, or D - {#2}Question 33.The phrase \"This adjustment\" in paragraph 2 refers to ______.A. removing all personal advice from difficult conversations between parents and teenagersB. asking teenagers to accept older people's experience before giving their own viewC. stating a concern and hearing the teenager before sharing a personal exampleD. replacing family discussions with written explanations about experiences from the parents' pastWrite A, B, C, or D - {#3}Question 34.Which of the following best paraphrases the idea that parents should separate personal experience from a fixed standard?A. Parents could share past experience without treating it as the only standard.B. Parents were expected to avoid discussing their own past during difficult conversations.C. Teenagers were expected to follow parental advice whenever their experiences seemed similar.D. Families were encouraged to focus on earlier experiences rather than present problems.Write A, B, C, or D - {#4}Question 35.What can be inferred about the facilitators' view of parental advice?A. They believed parents should stop giving teenagers advice during disagreements.B. They thought teenagers usually understood family advice without explanation.C. They wanted parents to use past experiences as proof that their views were correct.D. They supported parental guidance but wanted it combined with listening and current context.Write A, B, C, or D - {#5}Question 36.Where in paragraph 3 does the following sentence best fit?The teenager answered this question before the conversation moved to the parent's past.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#6}Question 37.What is the main purpose of paragraph 4?A. To describe why parents stopped giving advice during the family projectB. To report the results and clarify a misunderstanding about the project's purposeC. To compare teenagers who accepted advice with those who rejected parental guidanceD. To explain how researchers measured long-term changes in participating family relationshipsWrite A, B, C, or D - {#7}Question 38.Which of the following is NOT supported by the passage?A. Every participating family reported fewer arguments by the end of the project.B. Some teenagers said they felt less judged during family discussions.C. Some parents still found their own past experiences useful in conversations.D. Facilitators did not intend the project to prevent parents from offering guidance.Write A, B, C, or D - {#8}Question 39.Which of the following best summarises the passage?A. Parents should avoid discussing past experience because teenagers rarely learn useful lessons from older people.B. Family conflict mainly occurs because parents and teenagers remember their earlier life experiences in different ways.C. Past experience can support advice when shared as context, not as a fixed standard.D. Teenagers respond best when parents let them make all important personal decisions without family guidance.Write A, B, C, or D - {#9}Question 40.Which of the following is the best title for the passage?A. Why Parents Should Stop Talking About Their YouthB. The Generation That No Longer Wants AdviceC. How Family Arguments Can Be Avoided CompletelyD. Experience as Context, Not a Measuring StickWrite A, B, C, or D - {#10}",
+      "questionId": "question-1900846-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and choose the letter a, b, c, or d to indicate the best answer to each of the following questions from 31 to 40. question 31.the word \"defensive\" in paragraph 1 is closest in meaning to ______.a. relaxedb. amusedc. uncertaind. guardedwrite a, b, c, or d - {#1}question 32.why did the expression \"when i was your age...\" sometimes cause difficulty?a. it made parents unwilling to talk about their own past experiences.b. teenagers sometimes heard it as a judgement against their present choices.c. it encouraged teenagers to compare their parents with other adults.d. parents used it mainly when they had forgotten what happened in their youth.write a, b, c, or d - {#2}question 33.the phrase \"this adjustment\" in paragraph 2 refers to ______.a. removing all personal advice from difficult conversations between parents and teenagersb. asking teenagers to accept older people's experience before giving their own viewc. stating a concern and hearing the teenager before sharing a personal exampled. replacing family discussions with written explanations about experiences from the parents' pastwrite a, b, c, or d - {#3}question 34.which of the following best paraphrases the idea that parents should separate personal experience from a fixed standard?a. parents could share past experience without treating it as the only standard.b. parents were expected to avoid discussing their own past during difficult conversations.c. teenagers were expected to follow parental advice whenever their experiences seemed similar.d. families were encouraged to focus on earlier experiences rather than present problems.write a, b, c, or d - {#4}question 35.what can be inferred about the facilitators' view of parental advice?a. they believed parents should stop giving teenagers advice during disagreements.b. they thought teenagers usually understood family advice without explanation.c. they wanted parents to use past experiences as proof that their views were correct.d. they supported parental guidance but wanted it combined with listening and current context.write a, b, c, or d - {#5}question 36.where in paragraph 3 does the following sentence best fit?the teenager answered this question before the conversation moved to the parent's past.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#6}question 37.what is the main purpose of paragraph 4?a. to describe why parents stopped giving advice during the family projectb. to report the results and clarify a misunderstanding about the project's purposec. to compare teenagers who accepted advice with those who rejected parental guidanced. to explain how researchers measured long-term changes in participating family relationshipswrite a, b, c, or d - {#7}question 38.which of the following is not supported by the passage?a. every participating family reported fewer arguments by the end of the project.b. some teenagers said they felt less judged during family discussions.c. some parents still found their own past experiences useful in conversations.d. facilitators did not intend the project to prevent parents from offering guidance.write a, b, c, or d - {#8}question 39.which of the following best summarises the passage?a. parents should avoid discussing past experience because teenagers rarely learn useful lessons from older people.b. family conflict mainly occurs because parents and teenagers remember their earlier life experiences in different ways.c. past experience can support advice when shared as context, not as a fixed standard.d. teenagers respond best when parents let them make all important personal decisions without family guidance.write a, b, c, or d - {#9}question 40.which of the following is the best title for the passage?a. why parents should stop talking about their youthb. the generation that no longer wants advicec. how family arguments can be avoided completelyd. experience as context, not a measuring stickwrite a, b, c, or d - {#10}",
+      "questionNumber": 10,
+      "selects": [],
+      "verified_100": true
+    }
+  ]
+}
