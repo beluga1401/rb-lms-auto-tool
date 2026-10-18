@@ -1,0 +1,632 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Hoàng Yến Vy",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR9EX31-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr9ex31_term_1_mid_test_review",
+    "cmid": "739880",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_9/session_3_on_tap_gk1/gr9ex31_term_1_mid_test_review.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 80,
+    "updated_at": "2026-10-18 20:47:47"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. discover maple craft lane maple craft lane is a small street where visitors can discover traditional wooden (1) , including toys, boxes, and household decorations. each item is made by local (2) who have learnt their skills from older family members. some families still (3) these skills to younger relatives so that the craft can continue. if you are unsure (4) your visit, collect a free map from the information desk. the lane has become a popular (5) , especially at weekends when visitors can watch short craft demonstrations. a map shows the main workshops, cafés, and rest areas, (6) visitors can plan their time more easily.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. DISCOVER MAPLE CRAFT LANE Maple Craft Lane is a small street where visitors can discover traditional wooden (1) {#1}, including toys, boxes, and household decorations. Each item is made by local (2) {#2} who have learnt their skills from older family members. Some families still (3) {#3} these skills to younger relatives so that the craft can continue. If you are unsure (4) {#4} your visit, collect a free map from the information desk. The lane has become a popular (5) {#5}, especially at weekends when visitors can watch short craft demonstrations. A map shows the main workshops, cafés, and rest areas, (6) {#6} visitors can plan their time more easily.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "handicrafts"
+        },
+        {
+          "index": 1,
+          "value": "artisans"
+        },
+        {
+          "index": 2,
+          "value": "hand down"
+        },
+        {
+          "index": 3,
+          "value": "where to begin"
+        },
+        {
+          "index": 4,
+          "value": "tourist attraction"
+        },
+        {
+          "index": 5,
+          "value": "so"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. DISCOVER MAPLE CRAFT LANE Maple Craft Lane is a small street where visitors can discover traditional wooden (1) {#1}, including toys, boxes, and household decorations. Each item is made by local (2) {#2} who have learnt their skills from older family members. Some families still (3) {#3} these skills to younger relatives so that the craft can continue. If you are unsure (4) {#4} your visit, collect a free map from the information desk. The lane has become a popular (5) {#5}, especially at weekends when visitors can watch short craft demonstrations. A map shows the main workshops, cafés, and rest areas, (6) {#6} visitors can plan their time more easily.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following neighbourhood information notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. welcome to green park neighbourhood new to green park? our community office can help you settle in. the neighbourhood has useful (7) , including a clinic, a library, a sports centre, and two public parks. a local volunteer group (8) the community garden every saturday morning. if you do not know (9) your household rubbish for collection, check the weekly schedule outside the office. residents can also (10) about bus routes, local activities, and public services at the information desk. our neighbourhood police officer works with residents to keep the area (11) . you can always visit the office when you need information, (12) our volunteers are ready to help.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following neighbourhood information notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. WELCOME TO GREEN PARK NEIGHBOURHOOD New to Green Park? Our community office can help you settle in. The neighbourhood has useful (7) {#1}, including a clinic, a library, a sports centre, and two public parks. A local volunteer group (8) {#2} the community garden every Saturday morning. If you do not know (9) {#3} your household rubbish for collection, check the weekly schedule outside the office. Residents can also (10) {#4} about bus routes, local activities, and public services at the information desk. Our neighbourhood police officer works with residents to keep the area (11) {#5}. You can always visit the office when you need information, (12) {#6} our volunteers are ready to help.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "facilities"
+        },
+        {
+          "index": 1,
+          "value": "takes care of"
+        },
+        {
+          "index": 2,
+          "value": "when to put out"
+        },
+        {
+          "index": 3,
+          "value": "find out"
+        },
+        {
+          "index": 4,
+          "value": "safe"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following neighbourhood information notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. WELCOME TO GREEN PARK NEIGHBOURHOOD New to Green Park? Our community office can help you settle in. The neighbourhood has useful (7) {#1}, including a clinic, a library, a sports centre, and two public parks. A local volunteer group (8) {#2} the community garden every Saturday morning. If you do not know (9) {#3} your household rubbish for collection, check the weekly schedule outside the office. Residents can also (10) {#4} about bus routes, local activities, and public services at the information desk. Our neighbourhood police officer works with residents to keep the area (11) {#5}. You can always visit the office when you need information, (12) {#6} our volunteers are ready to help.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. a new reading room for minh son near minh son market, there was once a small room that nobody used. for several years, it contained old chairs and empty boxes. last march, a group of secondary students suggested turning it into a neighbourhood reading room. (13) ______. before bringing in any books, volunteers cleaned the floor and repaired the windows. (14) ______. only after the room was ready did they begin arranging the bookshelves. local families donated storybooks, magazines, dictionaries, and children's books. each book received a coloured sticker according to its reading level. (15) ______. this simple system made it easier for younger readers to choose suitable books. at first, the reading room opened only on saturday mornings. after the first month, many students asked to use it after school as well. (16) ______. the room is now open on three weekday afternoons and every saturday. the project did not require a large amount of money, but it changed how residents used the space. older residents now help organise the books, while students read stories to younger children. (17) ______. what began as a student suggestion has become a shared community service. question 13. a. several students preferred to build a completely new library nearby.b. the neighbourhood committee agreed and allowed them to use the room.c. families were asked to move their old furniture into the empty space.d. the students decided to use the room only for weekend meetings. write a, b, c, or d - question 14. a. they immediately invited children to borrow books from the room.b. residents began donating magazines before the cleaning work started.c. the students moved all the shelves outside for the first month.d. they also painted the walls and added two long reading tables. write a, b, c, or d - question 15. a. green stickers marked easier books, while blue ones marked more challenging ones.b. every family was asked to donate books of exactly the same length.c. students could borrow any book without checking its reading level.d. the volunteers removed the stickers when each book was returned. write a, b, c, or d - question 16. a. some families stopped visiting because the room became too busy.b. the volunteers decided to close the room during the school week.c. in response, the organisers added several weekday opening times.d. the market moved to another area at the end of the month. write a, b, c, or d - question 17. a. the students now plan to replace the donated books with new ones.b. most residents use the room only when they need a quiet meeting place.c. the project is now managed only by the neighbourhood committee.d. students and adults now take care of the reading room together. write a, b, c, or d -",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. A NEW READING ROOM FOR MINH SON Near Minh Son Market, there was once a small room that nobody used. For several years, it contained old chairs and empty boxes. Last March, a group of secondary students suggested turning it into a neighbourhood reading room. (13) ______. Before bringing in any books, volunteers cleaned the floor and repaired the windows. (14) ______. Only after the room was ready did they begin arranging the bookshelves. Local families donated storybooks, magazines, dictionaries, and children's books. Each book received a coloured sticker according to its reading level. (15) ______. This simple system made it easier for younger readers to choose suitable books. At first, the reading room opened only on Saturday mornings. After the first month, many students asked to use it after school as well. (16) ______. The room is now open on three weekday afternoons and every Saturday. The project did not require a large amount of money, but it changed how residents used the space. Older residents now help organise the books, while students read stories to younger children. (17) ______. What began as a student suggestion has become a shared community service. Question 13. A. Several students preferred to build a completely new library nearby.B. The neighbourhood committee agreed and allowed them to use the room.C. Families were asked to move their old furniture into the empty space.D. The students decided to use the room only for weekend meetings. Write A, B, C, or D - {#1} Question 14. A. They immediately invited children to borrow books from the room.B. Residents began donating magazines before the cleaning work started.C. The students moved all the shelves outside for the first month.D. They also painted the walls and added two long reading tables. Write A, B, C, or D - {#2} Question 15. A. Green stickers marked easier books, while blue ones marked more challenging ones.B. Every family was asked to donate books of exactly the same length.C. Students could borrow any book without checking its reading level.D. The volunteers removed the stickers when each book was returned. Write A, B, C, or D - {#3} Question 16. A. Some families stopped visiting because the room became too busy.B. The volunteers decided to close the room during the school week.C. In response, the organisers added several weekday opening times.D. The market moved to another area at the end of the month. Write A, B, C, or D - {#4} Question 17. A. The students now plan to replace the donated books with new ones.B. Most residents use the room only when they need a quiet meeting place.C. The project is now managed only by the neighbourhood committee.D. Students and adults now take care of the reading room together. Write A, B, C, or D - {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. A NEW READING ROOM FOR MINH SON Near Minh Son Market, there was once a small room that nobody used. For several years, it contained old chairs and empty boxes. Last March, a group of secondary students suggested turning it into a neighbourhood reading room. (13) ______. Before bringing in any books, volunteers cleaned the floor and repaired the windows. (14) ______. Only after the room was ready did they begin arranging the bookshelves. Local families donated storybooks, magazines, dictionaries, and children's books. Each book received a coloured sticker according to its reading level. (15) ______. This simple system made it easier for younger readers to choose suitable books. At first, the reading room opened only on Saturday mornings. After the first month, many students asked to use it after school as well. (16) ______. The room is now open on three weekday afternoons and every Saturday. The project did not require a large amount of money, but it changed how residents used the space. Older residents now help organise the books, while students read stories to younger children. (17) ______. What began as a student suggestion has become a shared community service. Question 13. A. Several students preferred to build a completely new library nearby.B. The neighbourhood committee agreed and allowed them to use the room.C. Families were asked to move their old furniture into the empty space.D. The students decided to use the room only for weekend meetings. Write A, B, C, or D - {#1} Question 14. A. They immediately invited children to borrow books from the room.B. Residents began donating magazines before the cleaning work started.C. The students moved all the shelves outside for the first month.D. They also painted the walls and added two long reading tables. Write A, B, C, or D - {#2} Question 15. A. Green stickers marked easier books, while blue ones marked more challenging ones.B. Every family was asked to donate books of exactly the same length.C. Students could borrow any book without checking its reading level.D. The volunteers removed the stickers when each book was returned. Write A, B, C, or D - {#3} Question 16. A. Some families stopped visiting because the room became too busy.B. The volunteers decided to close the room during the school week.C. In response, the organisers added several weekday opening times.D. The market moved to another area at the end of the month. Write A, B, C, or D - {#4} Question 17. A. The students now plan to replace the donated books with new ones.B. Most residents use the room only when they need a quiet meeting place.C. The project is now managed only by the neighbourhood committee.D. Students and adults now take care of the reading room together. Write A, B, C, or D - {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20. a. today, residents use the area for walking, taking photographs, and meeting friends.b. long bridge is an old stone bridge near the centre of an binh town.c. local people want to preserve it because it is part of the town's history.d. it was built many years ago to connect the market with villages across the river.a. b – d – a – cb. d – b – c – ac. b – a – d – cd. a – b – c – d write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20. a. Today, residents use the area for walking, taking photographs, and meeting friends.b. Long Bridge is an old stone bridge near the centre of An Binh town.c. Local people want to preserve it because it is part of the town's history.d. It was built many years ago to connect the market with villages across the river.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – b – c – d Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20. a. Today, residents use the area for walking, taking photographs, and meeting friends.b. Long Bridge is an old stone bridge near the centre of An Binh town.c. Local people want to preserve it because it is part of the town's history.d. It was built many years ago to connect the market with villages across the river.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – b – c – d Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18. a. after drying, workers cut the large sheets into smaller pieces for sale.b. in a village famous for traditional rice paper, artisans first soak rice and grind it with water.c. the mixture is then spread in a thin layer and steamed.d. next, the cooked sheets are placed on bamboo racks in the sun.a. b – d – c – ab. b – c – d – ac. c – b – a – dd. d – b – c – a write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18. a. After drying, workers cut the large sheets into smaller pieces for sale.b. In a village famous for traditional rice paper, artisans first soak rice and grind it with water.c. The mixture is then spread in a thin layer and steamed.d. Next, the cooked sheets are placed on bamboo racks in the sun.A. b – d – c – aB. b – c – d – aC. c – b – a – dD. d – b – c – a Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18. a. After drying, workers cut the large sheets into smaller pieces for sale.b. In a village famous for traditional rice paper, artisans first soak rice and grind it with water.c. The mixture is then spread in a thin layer and steamed.d. Next, the cooked sheets are placed on bamboo racks in the sun.A. b – d – c – aB. b – c – d – aC. c – b – a – dD. d – b – c – a Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22. a. volunteers will collect paper, plastic bottles, and clean metal cans from each group.b. our school will hold a neighbourhood recycling day this saturday morning.c. please bring your recyclable items to the school yard between 8:00 and 10:00.d. the collected materials will then be sent to a local recycling centre.e. we hope the activity will help students reduce waste in their community.a. b – a – c – d – eb. c – b – a – e – dc. b – c – a – d – ed. b – c – d – a – e write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22. a. Volunteers will collect paper, plastic bottles, and clean metal cans from each group.b. Our school will hold a Neighbourhood Recycling Day this Saturday morning.c. Please bring your recyclable items to the school yard between 8:00 and 10:00.d. The collected materials will then be sent to a local recycling centre.e. We hope the activity will help students reduce waste in their community.A. b – a – c – d – eB. c – b – a – e – dC. b – c – a – d – eD. b – c – d – a – e Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22. a. Volunteers will collect paper, plastic bottles, and clean metal cans from each group.b. Our school will hold a Neighbourhood Recycling Day this Saturday morning.c. Please bring your recyclable items to the school yard between 8:00 and 10:00.d. The collected materials will then be sent to a local recycling centre.e. We hope the activity will help students reduce waste in their community.A. b – a – c – d – eB. c – b – a – e – dC. b – c – a – d – eD. b – c – d – a – e Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21. a. visitor: thank you. is it far from here?b. visitor: excuse me, could you tell me where to buy the local sesame cakes?c. resident: no, it's only about five minutes on foot.d. resident: sure. there's a small shop opposite the post office.a. a – c – b – db. b – a – d – cc. d – b – c – ad. b – d – a – c write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21. a. Visitor: Thank you. Is it far from here?b. Visitor: Excuse me, could you tell me where to buy the local sesame cakes?c. Resident: No, it's only about five minutes on foot.d. Resident: Sure. There's a small shop opposite the post office.A. a – c – b – dB. b – a – d – cC. d – b – c – aD. b – d – a – c Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21. a. Visitor: Thank you. Is it far from here?b. Visitor: Excuse me, could you tell me where to buy the local sesame cakes?c. Resident: No, it's only about five minutes on foot.d. Resident: Sure. There's a small shop opposite the post office.A. a – c – b – dB. b – a – d – cC. d – b – c – aD. b – d – a – c Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19. a. she also visits schools to teach children about fire safety.b. ms lan is a firefighter at the district fire station.c. her team responds to fires and other emergencies in the area.d. she enjoys the job because it allows her to protect local people.a. d – a – c – bb. c – b – d – ac. b – c – a – dd. a – d – c – b write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19. a. She also visits schools to teach children about fire safety.b. Ms Lan is a firefighter at the district fire station.c. Her team responds to fires and other emergencies in the area.d. She enjoys the job because it allows her to protect local people.A. d – a – c – bB. c – b – d – aC. b – c – a – dD. a – d – c – b Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19. a. She also visits schools to teach children about fire safety.b. Ms Lan is a firefighter at the district fire station.c. Her team responds to fires and other emergencies in the area.d. She enjoys the job because it allows her to protect local people.A. d – a – c – bB. c – b – d – aC. b – c – a – dD. a – d – c – b Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 23. what is the main idea of the passage? a. the town library plans to replace its building with a travelling service.b. a mobile library makes books easier to reach and encourages community participation.c. residents in hoa son prefer borrowing books from volunteers rather than libraries.d. the youth group mainly uses the van to organise children's reading competitions. write a, b, c, or d - question 24. the word “route” in paragraph 2 is closest in meaning to ______. a. a path followed between several placesb. a timetable showing opening hoursc. a list of books for readersd. a group of library volunteers write a, b, c, or d - question 25. according to paragraph 2, what can a new reader do at a mobile-library stop? a. borrow books without giving any personal information.b. keep borrowed books until the end of the school term.c. ask the driver to bring books directly to the reader's home.d. register with a volunteer before borrowing books from the van. write a, b, c, or d - question 26. the phrase “these activities” in paragraph 3 refers to ______. a. travelling between four neighbourhoods each weekb. borrowing and returning books at the vanc. reading stories and helping people choose booksd. talking with parents while children wait nearby write a, b, c, or d - question 27. which of the following is not true according to the passage? a. all users must already have a library card.b. the van visits four neighbourhoods on each service day.c. older readers can borrow large-print books from the van.d. some residents later began helping as volunteers. write a, b, c, or d - question 28. which statement best paraphrases the organisers' view in the final paragraph? a. the service will succeed only if more books are added each month.b. its value comes from connecting residents as well as providing books.c. the van is useful mainly because it saves people travel time.d. volunteers should focus on lending books instead of social activities. write a, b, c, or d - question 29. what is the main purpose of paragraph 3? a. to explain why older residents cannot reach the main libraryb. to describe how the mobile library travels between neighbourhoodsc. to compare the reading interests of children and older peopled. to show that the service provides learning and social activities write a, b, c, or d - question 30. what can be inferred from the final paragraph? a. most people began using the service because they wanted volunteer work.b. the main library is becoming less important to people in hoa son.c. using the service encouraged some residents to become more involved.d. the organisers plan to ask all borrowers to help at the stops. write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 23. What is the main idea of the passage? A. The town library plans to replace its building with a travelling service.B. A mobile library makes books easier to reach and encourages community participation.C. Residents in Hoa Son prefer borrowing books from volunteers rather than libraries.D. The youth group mainly uses the van to organise children's reading competitions. Write A, B, C, or D - {#1} Question 24. The word “route” in paragraph 2 is closest in meaning to ______. A. a path followed between several placesB. a timetable showing opening hoursC. a list of books for readersD. a group of library volunteers Write A, B, C, or D - {#2} Question 25. According to paragraph 2, what can a new reader do at a mobile-library stop? A. Borrow books without giving any personal information.B. Keep borrowed books until the end of the school term.C. Ask the driver to bring books directly to the reader's home.D. Register with a volunteer before borrowing books from the van. Write A, B, C, or D - {#3} Question 26. The phrase “These activities” in paragraph 3 refers to ______. A. travelling between four neighbourhoods each weekB. borrowing and returning books at the vanC. reading stories and helping people choose booksD. talking with parents while children wait nearby Write A, B, C, or D - {#4} Question 27. Which of the following is NOT TRUE according to the passage? A. All users must already have a library card.B. The van visits four neighbourhoods on each service day.C. Older readers can borrow large-print books from the van.D. Some residents later began helping as volunteers. Write A, B, C, or D - {#5} Question 28. Which statement best paraphrases the organisers' view in the final paragraph? A. The service will succeed only if more books are added each month.B. Its value comes from connecting residents as well as providing books.C. The van is useful mainly because it saves people travel time.D. Volunteers should focus on lending books instead of social activities. Write A, B, C, or D - {#6} Question 29. What is the main purpose of paragraph 3? A. To explain why older residents cannot reach the main libraryB. To describe how the mobile library travels between neighbourhoodsC. To compare the reading interests of children and older peopleD. To show that the service provides learning and social activities Write A, B, C, or D - {#7} Question 30. What can be inferred from the final paragraph? A. Most people began using the service because they wanted volunteer work.B. The main library is becoming less important to people in Hoa Son.C. Using the service encouraged some residents to become more involved.D. The organisers plan to ask all borrowers to help at the stops. Write A, B, C, or D - {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 23. What is the main idea of the passage? A. The town library plans to replace its building with a travelling service.B. A mobile library makes books easier to reach and encourages community participation.C. Residents in Hoa Son prefer borrowing books from volunteers rather than libraries.D. The youth group mainly uses the van to organise children's reading competitions. Write A, B, C, or D - {#1} Question 24. The word “route” in paragraph 2 is closest in meaning to ______. A. a path followed between several placesB. a timetable showing opening hoursC. a list of books for readersD. a group of library volunteers Write A, B, C, or D - {#2} Question 25. According to paragraph 2, what can a new reader do at a mobile-library stop? A. Borrow books without giving any personal information.B. Keep borrowed books until the end of the school term.C. Ask the driver to bring books directly to the reader's home.D. Register with a volunteer before borrowing books from the van. Write A, B, C, or D - {#3} Question 26. The phrase “These activities” in paragraph 3 refers to ______. A. travelling between four neighbourhoods each weekB. borrowing and returning books at the vanC. reading stories and helping people choose booksD. talking with parents while children wait nearby Write A, B, C, or D - {#4} Question 27. Which of the following is NOT TRUE according to the passage? A. All users must already have a library card.B. The van visits four neighbourhoods on each service day.C. Older readers can borrow large-print books from the van.D. Some residents later began helping as volunteers. Write A, B, C, or D - {#5} Question 28. Which statement best paraphrases the organisers' view in the final paragraph? A. The service will succeed only if more books are added each month.B. Its value comes from connecting residents as well as providing books.C. The van is useful mainly because it saves people travel time.D. Volunteers should focus on lending books instead of social activities. Write A, B, C, or D - {#6} Question 29. What is the main purpose of paragraph 3? A. To explain why older residents cannot reach the main libraryB. To describe how the mobile library travels between neighbourhoodsC. To compare the reading interests of children and older peopleD. To show that the service provides learning and social activities Write A, B, C, or D - {#7} Question 30. What can be inferred from the final paragraph? A. Most people began using the service because they wanted volunteer work.B. The main library is becoming less important to people in Hoa Son.C. Using the service encouraged some residents to become more involved.D. The organisers plan to ask all borrowers to help at the stops. Write A, B, C, or D - {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 31. the word “assigned” in paragraph 2 is closest in meaning to ______. a. cleaned at regular timesb. given a particular placec. sold at a lower priced. moved outside the market write a, b, c, or d - question 32. why were delivery vehicles allowed only during the early morning? a. to give sellers more time before opening their stallsb. to help shoppers reach the information desk more easilyc. to let cleaners use the main paths without shoppers nearbyd. to reduce traffic during the busiest shopping period write a, b, c, or d - question 33. the phrase “this system” in paragraph 3 refers to ______. a. colour-coded signs and entrance mapsb. separate bins for different kinds of wastec. fixed delivery times for market vehiclesd. weekend volunteers at the information desk write a, b, c, or d - question 34. which statement best paraphrases the committee's aim in paragraph 2? a. the committee wanted a completely new market outside town.b. the committee planned to reduce the number of local sellers.c. the committee aimed to improve the market without replacing it.d. the committee wanted visitors to shop only at quieter times. write a, b, c, or d - question 35. what can be inferred from the results after three months? a. sellers now spend less time preparing goods for customers.b. the new layout has made moving around the market easier.c. most shoppers now prefer household goods to fresh food.d. vendors no longer need help from community workers. write a, b, c, or d - question 36. in which paragraph does the writer mention community workers helping the market operate better? a. paragraph 2b. paragraph 3c. paragraph 5d. paragraph 4 write a, b, c, or d - question 37. what is the main purpose of paragraph 4? a. to describe community support and the early effects of the changesb. to explain how the market first became popular with local farmersc. to compare the prices of products sold in different market zonesd. to show why weekend volunteers stopped working at the information desk write a, b, c, or d - question 38. which of the following is not supported by the passage? a. some shoppers had complained about blocked paths.b. garbage collectors now make an extra midday round.c. the market roof has already been fully repaired.d. holiday periods can still make the market crowded. write a, b, c, or d - question 39. which of the following best summarises the passage? a. an lac improved its market through better organisation and shared community support.b. an lac replaced its old market with a modern shopping centre outside town.c. an lac reduced market hours to solve problems with rubbish and traffic.d. an lac focused mainly on attracting tourists to buy local products. write a, b, c, or d - question 40. which of the following is the best title for the passage? a. why an lac needed a new shopping centreb. small changes for a better an lac marketc. how local farmers choose products to selld. a guide to shopping at an lac market write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 31. The word “assigned” in paragraph 2 is closest in meaning to ______. A. cleaned at regular timesB. given a particular placeC. sold at a lower priceD. moved outside the market Write A, B, C, or D - {#1} Question 32. Why were delivery vehicles allowed only during the early morning? A. To give sellers more time before opening their stallsB. To help shoppers reach the information desk more easilyC. To let cleaners use the main paths without shoppers nearbyD. To reduce traffic during the busiest shopping period Write A, B, C, or D - {#2} Question 33. The phrase “This system” in paragraph 3 refers to ______. A. colour-coded signs and entrance mapsB. separate bins for different kinds of wasteC. fixed delivery times for market vehiclesD. weekend volunteers at the information desk Write A, B, C, or D - {#3} Question 34. Which statement best paraphrases the committee's aim in paragraph 2? A. The committee wanted a completely new market outside town.B. The committee planned to reduce the number of local sellers.C. The committee aimed to improve the market without replacing it.D. The committee wanted visitors to shop only at quieter times. Write A, B, C, or D - {#4} Question 35. What can be inferred from the results after three months? A. Sellers now spend less time preparing goods for customers.B. The new layout has made moving around the market easier.C. Most shoppers now prefer household goods to fresh food.D. Vendors no longer need help from community workers. Write A, B, C, or D - {#5} Question 36. In which paragraph does the writer mention community workers helping the market operate better? A. Paragraph 2B. Paragraph 3C. Paragraph 5D. Paragraph 4 Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 4? A. To describe community support and the early effects of the changesB. To explain how the market first became popular with local farmersC. To compare the prices of products sold in different market zonesD. To show why weekend volunteers stopped working at the information desk Write A, B, C, or D - {#7} Question 38. Which of the following is NOT supported by the passage? A. Some shoppers had complained about blocked paths.B. Garbage collectors now make an extra midday round.C. The market roof has already been fully repaired.D. Holiday periods can still make the market crowded. Write A, B, C, or D - {#8} Question 39. Which of the following best summarises the passage? A. An Lac improved its market through better organisation and shared community support.B. An Lac replaced its old market with a modern shopping centre outside town.C. An Lac reduced market hours to solve problems with rubbish and traffic.D. An Lac focused mainly on attracting tourists to buy local products. Write A, B, C, or D - {#9} Question 40. Which of the following is the best title for the passage? A. Why An Lac Needed a New Shopping CentreB. Small Changes for a Better An Lac MarketC. How Local Farmers Choose Products to SellD. A Guide to Shopping at An Lac Market Write A, B, C, or D - {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "b"
+        },
+        {
+          "index": 5,
+          "value": "d"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "a"
+        },
+        {
+          "index": 9,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 31. The word “assigned” in paragraph 2 is closest in meaning to ______. A. cleaned at regular timesB. given a particular placeC. sold at a lower priceD. moved outside the market Write A, B, C, or D - {#1} Question 32. Why were delivery vehicles allowed only during the early morning? A. To give sellers more time before opening their stallsB. To help shoppers reach the information desk more easilyC. To let cleaners use the main paths without shoppers nearbyD. To reduce traffic during the busiest shopping period Write A, B, C, or D - {#2} Question 33. The phrase “This system” in paragraph 3 refers to ______. A. colour-coded signs and entrance mapsB. separate bins for different kinds of wasteC. fixed delivery times for market vehiclesD. weekend volunteers at the information desk Write A, B, C, or D - {#3} Question 34. Which statement best paraphrases the committee's aim in paragraph 2? A. The committee wanted a completely new market outside town.B. The committee planned to reduce the number of local sellers.C. The committee aimed to improve the market without replacing it.D. The committee wanted visitors to shop only at quieter times. Write A, B, C, or D - {#4} Question 35. What can be inferred from the results after three months? A. Sellers now spend less time preparing goods for customers.B. The new layout has made moving around the market easier.C. Most shoppers now prefer household goods to fresh food.D. Vendors no longer need help from community workers. Write A, B, C, or D - {#5} Question 36. In which paragraph does the writer mention community workers helping the market operate better? A. Paragraph 2B. Paragraph 3C. Paragraph 5D. Paragraph 4 Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 4? A. To describe community support and the early effects of the changesB. To explain how the market first became popular with local farmersC. To compare the prices of products sold in different market zonesD. To show why weekend volunteers stopped working at the information desk Write A, B, C, or D - {#7} Question 38. Which of the following is NOT supported by the passage? A. Some shoppers had complained about blocked paths.B. Garbage collectors now make an extra midday round.C. The market roof has already been fully repaired.D. Holiday periods can still make the market crowded. Write A, B, C, or D - {#8} Question 39. Which of the following best summarises the passage? A. An Lac improved its market through better organisation and shared community support.B. An Lac replaced its old market with a modern shopping centre outside town.C. An Lac reduced market hours to solve problems with rubbish and traffic.D. An Lac focused mainly on attracting tourists to buy local products. Write A, B, C, or D - {#9} Question 40. Which of the following is the best title for the passage? A. Why An Lac Needed a New Shopping CentreB. Small Changes for a Better An Lac MarketC. How Local Farmers Choose Products to SellD. A Guide to Shopping at An Lac Market Write A, B, C, or D - {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A. handicrafts",
+      "id": "question-1901198-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. discover maple craft lane maple craft lane is a small street where visitors can discover traditional wooden (1) {#1}, including toys, boxes, and household decorations. each item is made by local (2) {#2} who have learnt their skills from older family members. some families still (3) {#3} these skills to younger relatives so that the craft can continue. if you are unsure (4) {#4} your visit, collect a free map from the information desk. the lane has become a popular (5) {#5}, especially at weekends when visitors can watch short craft demonstrations. a map shows the main workshops, cafés, and rest areas, (6) {#6} visitors can plan their time more easily.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. DISCOVER MAPLE CRAFT LANE Maple Craft Lane is a small street where visitors can discover traditional wooden (1) [Blank 1] , including toys, boxes, and household decorations. Each item is made by local (2) [Blank 2] who have learnt their skills from older family members. Some families still (3) [Blank 3] these skills to younger relatives so that the craft can continue. If you are unsure (4) [Blank 4] your visit, collect a free map from the information desk. The lane has become a popular (5) [Blank 5] , especially at weekends when visitors can watch short craft demonstrations. A map shows the main workshops, cafés, and rest areas, (6) [Blank 6] visitors can plan their time more easily.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.handicraftsB.facilitiesC.servicesD.communitiesÔ (2):A.collectorsB.artisansC.touristsD.officersÔ (3):A.come backB.hand downC.run out ofD.take care ofÔ (4):A.where to beginB.when to makeC.who to visitD.what to carryÔ (5):A.delivery serviceB.tourist attractionC.local facilityD.community helperÔ (6):A.althoughB.butC.soD.because",
+      "questionId": "question-1901198-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. discover maple craft lane maple craft lane is a small street where visitors can discover traditional wooden (1) [blank 1] , including toys, boxes, and household decorations. each item is made by local (2) [blank 2] who have learnt their skills from older family members. some families still (3) [blank 3] these skills to younger relatives so that the craft can continue. if you are unsure (4) [blank 4] your visit, collect a free map from the information desk. the lane has become a popular (5) [blank 5] , especially at weekends when visitors can watch short craft demonstrations. a map shows the main workshops, cafés, and rest areas, (6) [blank 6] visitors can plan their time more easily.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.handicraftsb.facilitiesc.servicesd.communitiesô (2):a.collectorsb.artisansc.touristsd.officersô (3):a.come backb.hand downc.run out ofd.take care ofô (4):a.where to beginb.when to makec.who to visitd.what to carryô (5):a.delivery serviceb.tourist attractionc.local facilityd.community helperô (6):a.althoughb.butc.sod.because",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. handicrafts"
+        },
+        {
+          "index": 1,
+          "value": "B. artisans"
+        },
+        {
+          "index": 2,
+          "value": "B. hand down"
+        },
+        {
+          "index": 3,
+          "value": "A. where to begin"
+        },
+        {
+          "index": 4,
+          "value": "B. tourist attraction"
+        },
+        {
+          "index": 5,
+          "value": "C. so"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. facilities",
+      "id": "question-1901198-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following neighbourhood information notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. welcome to green park neighbourhood new to green park? our community office can help you settle in. the neighbourhood has useful (7) {#1}, including a clinic, a library, a sports centre, and two public parks. a local volunteer group (8) {#2} the community garden every saturday morning. if you do not know (9) {#3} your household rubbish for collection, check the weekly schedule outside the office. residents can also (10) {#4} about bus routes, local activities, and public services at the information desk. our neighbourhood police officer works with residents to keep the area (11) {#5}. you can always visit the office when you need information, (12) {#6} our volunteers are ready to help.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following neighbourhood information notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. WELCOME TO GREEN PARK NEIGHBOURHOOD New to Green Park? Our community office can help you settle in. The neighbourhood has useful (7) [Blank 7] , including a clinic, a library, a sports centre, and two public parks. A local volunteer group (8) [Blank 8] the community garden every Saturday morning. If you do not know (9) [Blank 9] your household rubbish for collection, check the weekly schedule outside the office. Residents can also (10) [Blank 10] about bus routes, local activities, and public services at the information desk. Our neighbourhood police officer works with residents to keep the area (11) [Blank 11] . You can always visit the office when you need information, (12) [Blank 12] our volunteers are ready to help.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.specialitiesB.artisansC.facilitiesD.handicraftsÔ (8):A.looks aroundB.runs out ofC.comes backD.takes care ofÔ (9):A.where to buyB.how to repairC.who to askD.when to put outÔ (10):A.cut down onB.find outC.hand downD.come backÔ (11):A.famousB.traditionalC.localD.safeÔ (12):A.unlessB.althoughC.becauseD.but",
+      "questionId": "question-1901198-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following neighbourhood information notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. welcome to green park neighbourhood new to green park? our community office can help you settle in. the neighbourhood has useful (7) [blank 7] , including a clinic, a library, a sports centre, and two public parks. a local volunteer group (8) [blank 8] the community garden every saturday morning. if you do not know (9) [blank 9] your household rubbish for collection, check the weekly schedule outside the office. residents can also (10) [blank 10] about bus routes, local activities, and public services at the information desk. our neighbourhood police officer works with residents to keep the area (11) [blank 11] . you can always visit the office when you need information, (12) [blank 12] our volunteers are ready to help.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.specialitiesb.artisansc.facilitiesd.handicraftsô (8):a.looks aroundb.runs out ofc.comes backd.takes care ofô (9):a.where to buyb.how to repairc.who to askd.when to put outô (10):a.cut down onb.find outc.hand downd.come backô (11):a.famousb.traditionalc.locald.safeô (12):a.unlessb.althoughc.becaused.but",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. facilities"
+        },
+        {
+          "index": 1,
+          "value": "D. takes care of"
+        },
+        {
+          "index": 2,
+          "value": "D. when to put out"
+        },
+        {
+          "index": 3,
+          "value": "B. find out"
+        },
+        {
+          "index": 4,
+          "value": "D. safe"
+        },
+        {
+          "index": 5,
+          "value": "C. because"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901198-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. a new reading room for minh son near minh son market, there was once a small room that nobody used. for several years, it contained old chairs and empty boxes. last march, a group of secondary students suggested turning it into a neighbourhood reading room. (13) ______. before bringing in any books, volunteers cleaned the floor and repaired the windows. (14) ______. only after the room was ready did they begin arranging the bookshelves. local families donated storybooks, magazines, dictionaries, and children's books. each book received a coloured sticker according to its reading level. (15) ______. this simple system made it easier for younger readers to choose suitable books. at first, the reading room opened only on saturday mornings. after the first month, many students asked to use it after school as well. (16) ______. the room is now open on three weekday afternoons and every saturday. the project did not require a large amount of money, but it changed how residents used the space. older residents now help organise the books, while students read stories to younger children. (17) ______. what began as a student suggestion has become a shared community service. question 13. a. several students preferred to build a completely new library nearby.b. the neighbourhood committee agreed and allowed them to use the room.c. families were asked to move their old furniture into the empty space.d. the students decided to use the room only for weekend meetings. write a, b, c, or d - {#1} question 14. a. they immediately invited children to borrow books from the room.b. residents began donating magazines before the cleaning work started.c. the students moved all the shelves outside for the first month.d. they also painted the walls and added two long reading tables. write a, b, c, or d - {#2} question 15. a. green stickers marked easier books, while blue ones marked more challenging ones.b. every family was asked to donate books of exactly the same length.c. students could borrow any book without checking its reading level.d. the volunteers removed the stickers when each book was returned. write a, b, c, or d - {#3} question 16. a. some families stopped visiting because the room became too busy.b. the volunteers decided to close the room during the school week.c. in response, the organisers added several weekday opening times.d. the market moved to another area at the end of the month. write a, b, c, or d - {#4} question 17. a. the students now plan to replace the donated books with new ones.b. most residents use the room only when they need a quiet meeting place.c. the project is now managed only by the neighbourhood committee.d. students and adults now take care of the reading room together. write a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. A NEW READING ROOM FOR MINH SON Near Minh Son Market, there was once a small room that nobody used. For several years, it contained old chairs and empty boxes. Last March, a group of secondary students suggested turning it into a neighbourhood reading room. (13) ______. Before bringing in any books, volunteers cleaned the floor and repaired the windows. (14) ______. Only after the room was ready did they begin arranging the bookshelves. Local families donated storybooks, magazines, dictionaries, and children's books. Each book received a coloured sticker according to its reading level. (15) ______. This simple system made it easier for younger readers to choose suitable books. At first, the reading room opened only on Saturday mornings. After the first month, many students asked to use it after school as well. (16) ______. The room is now open on three weekday afternoons and every Saturday. The project did not require a large amount of money, but it changed how residents used the space. Older residents now help organise the books, while students read stories to younger children. (17) ______. What began as a student suggestion has become a shared community service. Question 13. A. Several students preferred to build a completely new library nearby.B. The neighbourhood committee agreed and allowed them to use the room.C. Families were asked to move their old furniture into the empty space.D. The students decided to use the room only for weekend meetings. Write A, B, C, or D - {#1} Question 14. A. They immediately invited children to borrow books from the room.B. Residents began donating magazines before the cleaning work started.C. The students moved all the shelves outside for the first month.D. They also painted the walls and added two long reading tables. Write A, B, C, or D - {#2} Question 15. A. Green stickers marked easier books, while blue ones marked more challenging ones.B. Every family was asked to donate books of exactly the same length.C. Students could borrow any book without checking its reading level.D. The volunteers removed the stickers when each book was returned. Write A, B, C, or D - {#3} Question 16. A. Some families stopped visiting because the room became too busy.B. The volunteers decided to close the room during the school week.C. In response, the organisers added several weekday opening times.D. The market moved to another area at the end of the month. Write A, B, C, or D - {#4} Question 17. A. The students now plan to replace the donated books with new ones.B. Most residents use the room only when they need a quiet meeting place.C. The project is now managed only by the neighbourhood committee.D. Students and adults now take care of the reading room together. Write A, B, C, or D - {#5}",
+      "questionId": "question-1901198-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the option that best fits each of the numbered blanks from 13 to 17. a new reading room for minh son near minh son market, there was once a small room that nobody used. for several years, it contained old chairs and empty boxes. last march, a group of secondary students suggested turning it into a neighbourhood reading room. (13) ______. before bringing in any books, volunteers cleaned the floor and repaired the windows. (14) ______. only after the room was ready did they begin arranging the bookshelves. local families donated storybooks, magazines, dictionaries, and children's books. each book received a coloured sticker according to its reading level. (15) ______. this simple system made it easier for younger readers to choose suitable books. at first, the reading room opened only on saturday mornings. after the first month, many students asked to use it after school as well. (16) ______. the room is now open on three weekday afternoons and every saturday. the project did not require a large amount of money, but it changed how residents used the space. older residents now help organise the books, while students read stories to younger children. (17) ______. what began as a student suggestion has become a shared community service. question 13. a. several students preferred to build a completely new library nearby.b. the neighbourhood committee agreed and allowed them to use the room.c. families were asked to move their old furniture into the empty space.d. the students decided to use the room only for weekend meetings. write a, b, c, or d - {#1} question 14. a. they immediately invited children to borrow books from the room.b. residents began donating magazines before the cleaning work started.c. the students moved all the shelves outside for the first month.d. they also painted the walls and added two long reading tables. write a, b, c, or d - {#2} question 15. a. green stickers marked easier books, while blue ones marked more challenging ones.b. every family was asked to donate books of exactly the same length.c. students could borrow any book without checking its reading level.d. the volunteers removed the stickers when each book was returned. write a, b, c, or d - {#3} question 16. a. some families stopped visiting because the room became too busy.b. the volunteers decided to close the room during the school week.c. in response, the organisers added several weekday opening times.d. the market moved to another area at the end of the month. write a, b, c, or d - {#4} question 17. a. the students now plan to replace the donated books with new ones.b. most residents use the room only when they need a quiet meeting place.c. the project is now managed only by the neighbourhood committee.d. students and adults now take care of the reading room together. write a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901198-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18. a. after drying, workers cut the large sheets into smaller pieces for sale.b. in a village famous for traditional rice paper, artisans first soak rice and grind it with water.c. the mixture is then spread in a thin layer and steamed.d. next, the cooked sheets are placed on bamboo racks in the sun.a. b – d – c – ab. b – c – d – ac. c – b – a – dd. d – b – c – a write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18. a. After drying, workers cut the large sheets into smaller pieces for sale.b. In a village famous for traditional rice paper, artisans first soak rice and grind it with water.c. The mixture is then spread in a thin layer and steamed.d. Next, the cooked sheets are placed on bamboo racks in the sun.A. b – d – c – aB. b – c – d – aC. c – b – a – dD. d – b – c – a Write A, B, C, or D - {#1}",
+      "questionId": "question-1901198-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18. a. after drying, workers cut the large sheets into smaller pieces for sale.b. in a village famous for traditional rice paper, artisans first soak rice and grind it with water.c. the mixture is then spread in a thin layer and steamed.d. next, the cooked sheets are placed on bamboo racks in the sun.a. b – d – c – ab. b – c – d – ac. c – b – a – dd. d – b – c – a write a, b, c, or d - {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1901198-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21. a. visitor: thank you. is it far from here?b. visitor: excuse me, could you tell me where to buy the local sesame cakes?c. resident: no, it's only about five minutes on foot.d. resident: sure. there's a small shop opposite the post office.a. a – c – b – db. b – a – d – cc. d – b – c – ad. b – d – a – c write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21. a. Visitor: Thank you. Is it far from here?b. Visitor: Excuse me, could you tell me where to buy the local sesame cakes?c. Resident: No, it's only about five minutes on foot.d. Resident: Sure. There's a small shop opposite the post office.A. a – c – b – dB. b – a – d – cC. d – b – c – aD. b – d – a – c Write A, B, C, or D - {#1}",
+      "questionId": "question-1901198-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21. a. visitor: thank you. is it far from here?b. visitor: excuse me, could you tell me where to buy the local sesame cakes?c. resident: no, it's only about five minutes on foot.d. resident: sure. there's a small shop opposite the post office.a. a – c – b – db. b – a – d – cc. d – b – c – ad. b – d – a – c write a, b, c, or d - {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1901198-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19. a. she also visits schools to teach children about fire safety.b. ms lan is a firefighter at the district fire station.c. her team responds to fires and other emergencies in the area.d. she enjoys the job because it allows her to protect local people.a. d – a – c – bb. c – b – d – ac. b – c – a – dd. a – d – c – b write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19. a. She also visits schools to teach children about fire safety.b. Ms Lan is a firefighter at the district fire station.c. Her team responds to fires and other emergencies in the area.d. She enjoys the job because it allows her to protect local people.A. d – a – c – bB. c – b – d – aC. b – c – a – dD. a – d – c – b Write A, B, C, or D - {#1}",
+      "questionId": "question-1901198-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19. a. she also visits schools to teach children about fire safety.b. ms lan is a firefighter at the district fire station.c. her team responds to fires and other emergencies in the area.d. she enjoys the job because it allows her to protect local people.a. d – a – c – bb. c – b – d – ac. b – c – a – dd. a – d – c – b write a, b, c, or d - {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1901198-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20. a. today, residents use the area for walking, taking photographs, and meeting friends.b. long bridge is an old stone bridge near the centre of an binh town.c. local people want to preserve it because it is part of the town's history.d. it was built many years ago to connect the market with villages across the river.a. b – d – a – cb. d – b – c – ac. b – a – d – cd. a – b – c – d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20. a. Today, residents use the area for walking, taking photographs, and meeting friends.b. Long Bridge is an old stone bridge near the centre of An Binh town.c. Local people want to preserve it because it is part of the town's history.d. It was built many years ago to connect the market with villages across the river.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – b – c – d Write A, B, C, or D - {#1}",
+      "questionId": "question-1901198-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20. a. today, residents use the area for walking, taking photographs, and meeting friends.b. long bridge is an old stone bridge near the centre of an binh town.c. local people want to preserve it because it is part of the town's history.d. it was built many years ago to connect the market with villages across the river.a. b – d – a – cb. d – b – c – ac. b – a – d – cd. a – b – c – d write a, b, c, or d - {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1901198-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22. a. volunteers will collect paper, plastic bottles, and clean metal cans from each group.b. our school will hold a neighbourhood recycling day this saturday morning.c. please bring your recyclable items to the school yard between 8:00 and 10:00.d. the collected materials will then be sent to a local recycling centre.e. we hope the activity will help students reduce waste in their community.a. b – a – c – d – eb. c – b – a – e – dc. b – c – a – d – ed. b – c – d – a – e write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22. a. Volunteers will collect paper, plastic bottles, and clean metal cans from each group.b. Our school will hold a Neighbourhood Recycling Day this Saturday morning.c. Please bring your recyclable items to the school yard between 8:00 and 10:00.d. The collected materials will then be sent to a local recycling centre.e. We hope the activity will help students reduce waste in their community.A. b – a – c – d – eB. c – b – a – e – dC. b – c – a – d – eD. b – c – d – a – e Write A, B, C, or D - {#1}",
+      "questionId": "question-1901198-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d on your answer sheet to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22. a. volunteers will collect paper, plastic bottles, and clean metal cans from each group.b. our school will hold a neighbourhood recycling day this saturday morning.c. please bring your recyclable items to the school yard between 8:00 and 10:00.d. the collected materials will then be sent to a local recycling centre.e. we hope the activity will help students reduce waste in their community.a. b – a – c – d – eb. c – b – a – e – dc. b – c – a – d – ed. b – c – d – a – e write a, b, c, or d - {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901198-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 23. what is the main idea of the passage? a. the town library plans to replace its building with a travelling service.b. a mobile library makes books easier to reach and encourages community participation.c. residents in hoa son prefer borrowing books from volunteers rather than libraries.d. the youth group mainly uses the van to organise children's reading competitions. write a, b, c, or d - {#1} question 24. the word \"route\" in paragraph 2 is closest in meaning to ______. a. a path followed between several placesb. a timetable showing opening hoursc. a list of books for readersd. a group of library volunteers write a, b, c, or d - {#2} question 25. according to paragraph 2, what can a new reader do at a mobile-library stop? a. borrow books without giving any personal information.b. keep borrowed books until the end of the school term.c. ask the driver to bring books directly to the reader's home.d. register with a volunteer before borrowing books from the van. write a, b, c, or d - {#3} question 26. the phrase \"these activities\" in paragraph 3 refers to ______. a. travelling between four neighbourhoods each weekb. borrowing and returning books at the vanc. reading stories and helping people choose booksd. talking with parents while children wait nearby write a, b, c, or d - {#4} question 27. which of the following is not true according to the passage? a. all users must already have a library card.b. the van visits four neighbourhoods on each service day.c. older readers can borrow large-print books from the van.d. some residents later began helping as volunteers. write a, b, c, or d - {#5} question 28. which statement best paraphrases the organisers' view in the final paragraph? a. the service will succeed only if more books are added each month.b. its value comes from connecting residents as well as providing books.c. the van is useful mainly because it saves people travel time.d. volunteers should focus on lending books instead of social activities. write a, b, c, or d - {#6} question 29. what is the main purpose of paragraph 3? a. to explain why older residents cannot reach the main libraryb. to describe how the mobile library travels between neighbourhoodsc. to compare the reading interests of children and older peopled. to show that the service provides learning and social activities write a, b, c, or d - {#7} question 30. what can be inferred from the final paragraph? a. most people began using the service because they wanted volunteer work.b. the main library is becoming less important to people in hoa son.c. using the service encouraged some residents to become more involved.d. the organisers plan to ask all borrowers to help at the stops. write a, b, c, or d - {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 23. What is the main idea of the passage? A. The town library plans to replace its building with a travelling service.B. A mobile library makes books easier to reach and encourages community participation.C. Residents in Hoa Son prefer borrowing books from volunteers rather than libraries.D. The youth group mainly uses the van to organise children's reading competitions. Write A, B, C, or D - {#1} Question 24. The word \"route\" in paragraph 2 is closest in meaning to ______. A. a path followed between several placesB. a timetable showing opening hoursC. a list of books for readersD. a group of library volunteers Write A, B, C, or D - {#2} Question 25. According to paragraph 2, what can a new reader do at a mobile-library stop? A. Borrow books without giving any personal information.B. Keep borrowed books until the end of the school term.C. Ask the driver to bring books directly to the reader's home.D. Register with a volunteer before borrowing books from the van. Write A, B, C, or D - {#3} Question 26. The phrase \"These activities\" in paragraph 3 refers to ______. A. travelling between four neighbourhoods each weekB. borrowing and returning books at the vanC. reading stories and helping people choose booksD. talking with parents while children wait nearby Write A, B, C, or D - {#4} Question 27. Which of the following is NOT TRUE according to the passage? A. All users must already have a library card.B. The van visits four neighbourhoods on each service day.C. Older readers can borrow large-print books from the van.D. Some residents later began helping as volunteers. Write A, B, C, or D - {#5} Question 28. Which statement best paraphrases the organisers' view in the final paragraph? A. The service will succeed only if more books are added each month.B. Its value comes from connecting residents as well as providing books.C. The van is useful mainly because it saves people travel time.D. Volunteers should focus on lending books instead of social activities. Write A, B, C, or D - {#6} Question 29. What is the main purpose of paragraph 3? A. To explain why older residents cannot reach the main libraryB. To describe how the mobile library travels between neighbourhoodsC. To compare the reading interests of children and older peopleD. To show that the service provides learning and social activities Write A, B, C, or D - {#7} Question 30. What can be inferred from the final paragraph? A. Most people began using the service because they wanted volunteer work.B. The main library is becoming less important to people in Hoa Son.C. Using the service encouraged some residents to become more involved.D. The organisers plan to ask all borrowers to help at the stops. Write A, B, C, or D - {#8}",
+      "questionId": "question-1901198-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 23. what is the main idea of the passage? a. the town library plans to replace its building with a travelling service.b. a mobile library makes books easier to reach and encourages community participation.c. residents in hoa son prefer borrowing books from volunteers rather than libraries.d. the youth group mainly uses the van to organise children's reading competitions. write a, b, c, or d - {#1} question 24. the word \"route\" in paragraph 2 is closest in meaning to ______. a. a path followed between several placesb. a timetable showing opening hoursc. a list of books for readersd. a group of library volunteers write a, b, c, or d - {#2} question 25. according to paragraph 2, what can a new reader do at a mobile-library stop? a. borrow books without giving any personal information.b. keep borrowed books until the end of the school term.c. ask the driver to bring books directly to the reader's home.d. register with a volunteer before borrowing books from the van. write a, b, c, or d - {#3} question 26. the phrase \"these activities\" in paragraph 3 refers to ______. a. travelling between four neighbourhoods each weekb. borrowing and returning books at the vanc. reading stories and helping people choose booksd. talking with parents while children wait nearby write a, b, c, or d - {#4} question 27. which of the following is not true according to the passage? a. all users must already have a library card.b. the van visits four neighbourhoods on each service day.c. older readers can borrow large-print books from the van.d. some residents later began helping as volunteers. write a, b, c, or d - {#5} question 28. which statement best paraphrases the organisers' view in the final paragraph? a. the service will succeed only if more books are added each month.b. its value comes from connecting residents as well as providing books.c. the van is useful mainly because it saves people travel time.d. volunteers should focus on lending books instead of social activities. write a, b, c, or d - {#6} question 29. what is the main purpose of paragraph 3? a. to explain why older residents cannot reach the main libraryb. to describe how the mobile library travels between neighbourhoodsc. to compare the reading interests of children and older peopled. to show that the service provides learning and social activities write a, b, c, or d - {#7} question 30. what can be inferred from the final paragraph? a. most people began using the service because they wanted volunteer work.b. the main library is becoming less important to people in hoa son.c. using the service encouraged some residents to become more involved.d. the organisers plan to ask all borrowers to help at the stops. write a, b, c, or d - {#8}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901198-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "b"
+        },
+        {
+          "index": 5,
+          "value": "d"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "a"
+        },
+        {
+          "index": 9,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 31. the word \"assigned\" in paragraph 2 is closest in meaning to ______. a. cleaned at regular timesb. given a particular placec. sold at a lower priced. moved outside the market write a, b, c, or d - {#1} question 32. why were delivery vehicles allowed only during the early morning? a. to give sellers more time before opening their stallsb. to help shoppers reach the information desk more easilyc. to let cleaners use the main paths without shoppers nearbyd. to reduce traffic during the busiest shopping period write a, b, c, or d - {#2} question 33. the phrase \"this system\" in paragraph 3 refers to ______. a. colour-coded signs and entrance mapsb. separate bins for different kinds of wastec. fixed delivery times for market vehiclesd. weekend volunteers at the information desk write a, b, c, or d - {#3} question 34. which statement best paraphrases the committee's aim in paragraph 2? a. the committee wanted a completely new market outside town.b. the committee planned to reduce the number of local sellers.c. the committee aimed to improve the market without replacing it.d. the committee wanted visitors to shop only at quieter times. write a, b, c, or d - {#4} question 35. what can be inferred from the results after three months? a. sellers now spend less time preparing goods for customers.b. the new layout has made moving around the market easier.c. most shoppers now prefer household goods to fresh food.d. vendors no longer need help from community workers. write a, b, c, or d - {#5} question 36. in which paragraph does the writer mention community workers helping the market operate better? a. paragraph 2b. paragraph 3c. paragraph 5d. paragraph 4 write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 4? a. to describe community support and the early effects of the changesb. to explain how the market first became popular with local farmersc. to compare the prices of products sold in different market zonesd. to show why weekend volunteers stopped working at the information desk write a, b, c, or d - {#7} question 38. which of the following is not supported by the passage? a. some shoppers had complained about blocked paths.b. garbage collectors now make an extra midday round.c. the market roof has already been fully repaired.d. holiday periods can still make the market crowded. write a, b, c, or d - {#8} question 39. which of the following best summarises the passage? a. an lac improved its market through better organisation and shared community support.b. an lac replaced its old market with a modern shopping centre outside town.c. an lac reduced market hours to solve problems with rubbish and traffic.d. an lac focused mainly on attracting tourists to buy local products. write a, b, c, or d - {#9} question 40. which of the following is the best title for the passage? a. why an lac needed a new shopping centreb. small changes for a better an lac marketc. how local farmers choose products to selld. a guide to shopping at an lac market write a, b, c, or d - {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D on your answer sheet to indicate the best answer to each question. Question 31. The word \"assigned\" in paragraph 2 is closest in meaning to ______. A. cleaned at regular timesB. given a particular placeC. sold at a lower priceD. moved outside the market Write A, B, C, or D - {#1} Question 32. Why were delivery vehicles allowed only during the early morning? A. To give sellers more time before opening their stallsB. To help shoppers reach the information desk more easilyC. To let cleaners use the main paths without shoppers nearbyD. To reduce traffic during the busiest shopping period Write A, B, C, or D - {#2} Question 33. The phrase \"This system\" in paragraph 3 refers to ______. A. colour-coded signs and entrance mapsB. separate bins for different kinds of wasteC. fixed delivery times for market vehiclesD. weekend volunteers at the information desk Write A, B, C, or D - {#3} Question 34. Which statement best paraphrases the committee's aim in paragraph 2? A. The committee wanted a completely new market outside town.B. The committee planned to reduce the number of local sellers.C. The committee aimed to improve the market without replacing it.D. The committee wanted visitors to shop only at quieter times. Write A, B, C, or D - {#4} Question 35. What can be inferred from the results after three months? A. Sellers now spend less time preparing goods for customers.B. The new layout has made moving around the market easier.C. Most shoppers now prefer household goods to fresh food.D. Vendors no longer need help from community workers. Write A, B, C, or D - {#5} Question 36. In which paragraph does the writer mention community workers helping the market operate better? A. Paragraph 2B. Paragraph 3C. Paragraph 5D. Paragraph 4 Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 4? A. To describe community support and the early effects of the changesB. To explain how the market first became popular with local farmersC. To compare the prices of products sold in different market zonesD. To show why weekend volunteers stopped working at the information desk Write A, B, C, or D - {#7} Question 38. Which of the following is NOT supported by the passage? A. Some shoppers had complained about blocked paths.B. Garbage collectors now make an extra midday round.C. The market roof has already been fully repaired.D. Holiday periods can still make the market crowded. Write A, B, C, or D - {#8} Question 39. Which of the following best summarises the passage? A. An Lac improved its market through better organisation and shared community support.B. An Lac replaced its old market with a modern shopping centre outside town.C. An Lac reduced market hours to solve problems with rubbish and traffic.D. An Lac focused mainly on attracting tourists to buy local products. Write A, B, C, or D - {#9} Question 40. Which of the following is the best title for the passage? A. Why An Lac Needed a New Shopping CentreB. Small Changes for a Better An Lac MarketC. How Local Farmers Choose Products to SellD. A Guide to Shopping at An Lac Market Write A, B, C, or D - {#10}",
+      "questionId": "question-1901198-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d on your answer sheet to indicate the best answer to each question. question 31. the word \"assigned\" in paragraph 2 is closest in meaning to ______. a. cleaned at regular timesb. given a particular placec. sold at a lower priced. moved outside the market write a, b, c, or d - {#1} question 32. why were delivery vehicles allowed only during the early morning? a. to give sellers more time before opening their stallsb. to help shoppers reach the information desk more easilyc. to let cleaners use the main paths without shoppers nearbyd. to reduce traffic during the busiest shopping period write a, b, c, or d - {#2} question 33. the phrase \"this system\" in paragraph 3 refers to ______. a. colour-coded signs and entrance mapsb. separate bins for different kinds of wastec. fixed delivery times for market vehiclesd. weekend volunteers at the information desk write a, b, c, or d - {#3} question 34. which statement best paraphrases the committee's aim in paragraph 2? a. the committee wanted a completely new market outside town.b. the committee planned to reduce the number of local sellers.c. the committee aimed to improve the market without replacing it.d. the committee wanted visitors to shop only at quieter times. write a, b, c, or d - {#4} question 35. what can be inferred from the results after three months? a. sellers now spend less time preparing goods for customers.b. the new layout has made moving around the market easier.c. most shoppers now prefer household goods to fresh food.d. vendors no longer need help from community workers. write a, b, c, or d - {#5} question 36. in which paragraph does the writer mention community workers helping the market operate better? a. paragraph 2b. paragraph 3c. paragraph 5d. paragraph 4 write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 4? a. to describe community support and the early effects of the changesb. to explain how the market first became popular with local farmersc. to compare the prices of products sold in different market zonesd. to show why weekend volunteers stopped working at the information desk write a, b, c, or d - {#7} question 38. which of the following is not supported by the passage? a. some shoppers had complained about blocked paths.b. garbage collectors now make an extra midday round.c. the market roof has already been fully repaired.d. holiday periods can still make the market crowded. write a, b, c, or d - {#8} question 39. which of the following best summarises the passage? a. an lac improved its market through better organisation and shared community support.b. an lac replaced its old market with a modern shopping centre outside town.c. an lac reduced market hours to solve problems with rubbish and traffic.d. an lac focused mainly on attracting tourists to buy local products. write a, b, c, or d - {#9} question 40. which of the following is the best title for the passage? a. why an lac needed a new shopping centreb. small changes for a better an lac marketc. how local farmers choose products to selld. a guide to shopping at an lac market write a, b, c, or d - {#10}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
