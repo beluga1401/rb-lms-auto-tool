@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "account_name": "Huỳnh Lê Phong Linh",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR12EX28MOET UNIT 3",
+    "quiz_key": "gr12ex28moet_unit_3",
+    "cmid": "733943",
+    "course_id": "9692",
+    "repo_path": "cloud_configs/khoi_12/session_2_exercises_17_29/gr12ex28moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-10-18 19:18:18"
+  },
+  "answers": [
+    {
+      "id": "question-1900494-6",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.the class collected sheets printed on only one side and sheets printed on both sides. students used the blank sides of those in the first group to take notes.the word those refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. The class collected sheets printed on only one side and sheets printed on both sides. Students used the blank sides of those in the first group to take notes. The word those refers to ________.",
+      "options": [
+        "the sheets printed on only one side"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-6",
+      "questionNumber": 9,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.The class collected sheets printed on only one side and sheets printed on both sides. Students used the blank sides of those in the first group to take notes.The word those refers to ________.",
+      "answer": "the sheets printed on only one side",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.the class collected sheets printed on only one side and sheets printed on both sides. students used the blank sides of those in the first group to take notes.the word those refers to ________.",
+      "letter": "B",
+      "rightAnswer": "the sheets printed on only one side"
+    },
+    {
+      "id": "question-1900494-10",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.the recycling team inspected several containers inside a collection bin and found food remaining in the containers. the team removed them from the bin for cleaning.the word them refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. The recycling team inspected several containers inside a collection bin and found food remaining in the containers. The team removed them from the bin for cleaning. The word them refers to ________.",
+      "options": [
+        "the containers with food remaining inside"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-10",
+      "questionNumber": 1,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.The recycling team inspected several containers inside a collection bin and found food remaining in the containers. The team removed them from the bin for cleaning.The word them refers to ________.",
+      "answer": "the containers with food remaining inside",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.the recycling team inspected several containers inside a collection bin and found food remaining in the containers. the team removed them from the bin for cleaning.the word them refers to ________.",
+      "letter": "A",
+      "rightAnswer": "the containers with food remaining inside"
+    },
+    {
+      "id": "question-1900494-1",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.mai carries a reusable water bottle in her schoolbag. her school provides a drinking fountain. before each lesson, she refills it.the word it refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. Mai carries a reusable water bottle in her schoolbag. Her school provides a drinking fountain. Before each lesson, she refills it. The word it refers to ________.",
+      "options": [
+        "the reusable water bottle"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-1",
+      "questionNumber": 4,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.Mai carries a reusable water bottle in her schoolbag. Her school provides a drinking fountain. Before each lesson, she refills it.The word it refers to ________.",
+      "answer": "the reusable water bottle",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.mai carries a reusable water bottle in her schoolbag. her school provides a drinking fountain. before each lesson, she refills it.the word it refers to ________.",
+      "letter": "A",
+      "rightAnswer": "the reusable water bottle"
+    },
+    {
+      "id": "question-1900494-5",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.the report proposes two solutions: installing automatic lights and placing reminder signs beside doors. these aim to reduce unnecessary electricity use.the word these refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. The report proposes two solutions: installing automatic lights and placing reminder signs beside doors. These aim to reduce unnecessary electricity use. The word These refers to ________.",
+      "options": [
+        "the two solutions proposed in the report"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-5",
+      "questionNumber": 5,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.The report proposes two solutions: installing automatic lights and placing reminder signs beside doors. These aim to reduce unnecessary electricity use.The word These refers to ________.",
+      "answer": "the two solutions proposed in the report",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.the report proposes two solutions: installing automatic lights and placing reminder signs beside doors. these aim to reduce unnecessary electricity use.the word these refers to ________.",
+      "letter": "C",
+      "rightAnswer": "the two solutions proposed in the report"
+    },
+    {
+      "id": "question-1900494-8",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.every group has agreed to check electrical devices before leaving the classroom, which is a welcome change in classroom habits. previously, these checks were often forgotten.the word which refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. Every group has agreed to check electrical devices before leaving the classroom, which is a welcome change in classroom habits. Previously, these checks were often forgotten. The word which refers to ________.",
+      "options": [
+        "every group agreeing to check devices before leaving"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-8",
+      "questionNumber": 6,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.Every group has agreed to check electrical devices before leaving the classroom, which is a welcome change in classroom habits. Previously, these checks were often forgotten.The word which refers to ________.",
+      "answer": "every group agreeing to check devices before leaving",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.every group has agreed to check electrical devices before leaving the classroom, which is a welcome change in classroom habits. previously, these checks were often forgotten.the word which refers to ________.",
+      "letter": "A",
+      "rightAnswer": "every group agreeing to check devices before leaving"
+    },
+    {
+      "id": "question-1900494-3",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.lan and minh presented their group's eco-friendly habit leaflet to their teachers. after receiving feedback, they revised the leaflet to make its advice clearer.the word they refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. Lan and Minh presented their group’s eco-friendly habit leaflet to their teachers. After receiving feedback, they revised the leaflet to make its advice clearer. The word they refers to ________.",
+      "options": [
+        "Lan and Minh"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-3",
+      "questionNumber": 7,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.Lan and Minh presented their group's eco-friendly habit leaflet to their teachers. After receiving feedback, they revised the leaflet to make its advice clearer.The word they refers to ________.",
+      "answer": "Lan and Minh",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.lan and minh presented their group's eco-friendly habit leaflet to their teachers. after receiving feedback, they revised the leaflet to make its advice clearer.the word they refers to ________.",
+      "letter": "B",
+      "rightAnswer": "Lan and Minh"
+    },
+    {
+      "id": "question-1900494-7",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.students now use the blank sides of old worksheets for notes, which reduces their need for new paper. their leaflet explains how classmates can adopt the same habit.the word which refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. Students now use the blank sides of old worksheets for notes, which reduces their need for new paper. Their leaflet explains how classmates can adopt the same habit. The word which refers to ________.",
+      "options": [
+        "students reusing blank sides for notes"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-7",
+      "questionNumber": 10,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.Students now use the blank sides of old worksheets for notes, which reduces their need for new paper. Their leaflet explains how classmates can adopt the same habit.The word which refers to ________.",
+      "answer": "students reusing blank sides for notes",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.students now use the blank sides of old worksheets for notes, which reduces their need for new paper. their leaflet explains how classmates can adopt the same habit.the word which refers to ________.",
+      "letter": "D",
+      "rightAnswer": "students reusing blank sides for notes"
+    },
+    {
+      "id": "question-1900494-2",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.hoang stores leftovers in reusable containers. after his family has eaten the food, he rinses them out with water.the word them refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. Hoang stores leftovers in reusable containers. After his family has eaten the food, he rinses them out with water. The word them refers to ________.",
+      "options": [
+        "the reusable containers"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-2",
+      "questionNumber": 3,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.Hoang stores leftovers in reusable containers. After his family has eaten the food, he rinses them out with water.The word them refers to ________.",
+      "answer": "the reusable containers",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.hoang stores leftovers in reusable containers. after his family has eaten the food, he rinses them out with water.the word them refers to ________.",
+      "letter": "C",
+      "rightAnswer": "the reusable containers"
+    },
+    {
+      "id": "question-1900494-9",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.more students now bring reusable bottles instead of buying single-use ones, which shows that the class's bottle-use habits are changing. the group will discuss this change in its presentation.the word which refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. More students now bring reusable bottles instead of buying single-use ones, which shows that the class’s bottle-use habits are changing. The group will discuss this change in its presentation. The word which refers to ________.",
+      "options": [
+        "more students choosing reusable bottles"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-9",
+      "questionNumber": 2,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.More students now bring reusable bottles instead of buying single-use ones, which shows that the class's bottle-use habits are changing. The group will discuss this change in its presentation.The word which refers to ________.",
+      "answer": "more students choosing reusable bottles",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.more students now bring reusable bottles instead of buying single-use ones, which shows that the class's bottle-use habits are changing. the group will discuss this change in its presentation.the word which refers to ________.",
+      "letter": "A",
+      "rightAnswer": "more students choosing reusable bottles"
+    },
+    {
+      "id": "question-1900494-4",
+      "questionKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.some students leave the classroom lights on after everyone has gone. this wastes electricity because nobody is using the room.the word this refers to ________.",
+      "questionRaw": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun. Some students leave the classroom lights on after everyone has gone. This wastes electricity because nobody is using the room. The word This refers to ________.",
+      "options": [
+        "lights remaining on in an empty classroom"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-4",
+      "questionNumber": 8,
+      "question": "Choose to identify what the BOLD word refers to. Do not automatically select the nearest noun.Some students leave the classroom lights on after everyone has gone. This wastes electricity because nobody is using the room.The word This refers to ________.",
+      "answer": "lights remaining on in an empty classroom",
+      "dragdrops": [],
+      "legacyQKey": "choose to identify what the bold word refers to. do not automatically select the nearest noun.some students leave the classroom lights on after everyone has gone. this wastes electricity because nobody is using the room.the word this refers to ________.",
+      "letter": "A",
+      "rightAnswer": "lights remaining on in an empty classroom"
+    },
+    {
+      "id": "question-1900494-15",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.installing automatic lights may help reduce unnecessary electricity use at school.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. Installing automatic lights may help reduce unnecessary electricity use at school.",
+      "options": [
+        "Fitting lights that operate automatically could lower the school's avoidable electricity consumption."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-15",
+      "questionNumber": 19,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.Installing automatic lights may help reduce unnecessary electricity use at school.",
+      "answer": "Fitting lights that operate automatically could lower the school's avoidable electricity consumption.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.installing automatic lights may help reduce unnecessary electricity use at school.",
+      "letter": "D",
+      "rightAnswer": "Fitting lights that operate automatically could lower the school's avoidable electricity consumption."
+    },
+    {
+      "id": "question-1900494-11",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.the class aims to use water efficiently rather than waste it unnecessarily.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. The class aims to use water efficiently rather than waste it unnecessarily.",
+      "options": [
+        "The class aims to meet its water needs while avoiding unnecessary waste."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-11",
+      "questionNumber": 15,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.The class aims to use water efficiently rather than waste it unnecessarily.",
+      "answer": "The class aims to meet its water needs while avoiding unnecessary waste.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.the class aims to use water efficiently rather than waste it unnecessarily.",
+      "letter": "D",
+      "rightAnswer": "The class aims to meet its water needs while avoiding unnecessary waste."
+    },
+    {
+      "id": "question-1900494-12",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.students should rinse food residue out of accepted containers before placing them in the recycling bin.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. Students should rinse food residue out of accepted containers before placing them in the recycling bin.",
+      "options": [
+        "Students should wash remaining food from inside accepted containers before putting them in the recycling bin."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-12",
+      "questionNumber": 12,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.Students should rinse food residue out of accepted containers before placing them in the recycling bin.",
+      "answer": "Students should wash remaining food from inside accepted containers before putting them in the recycling bin.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.students should rinse food residue out of accepted containers before placing them in the recycling bin.",
+      "letter": "A",
+      "rightAnswer": "Students should wash remaining food from inside accepted containers before putting them in the recycling bin."
+    },
+    {
+      "id": "question-1900494-17",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.it is hard to predict whether the youth union will accept our proposal to install sensor taps.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. It is hard to predict whether the Youth Union will accept our proposal to install sensor taps.",
+      "options": [
+        "Whether the Youth Union will approve our sensor-tap plan remains uncertain."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-17",
+      "questionNumber": 14,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.It is hard to predict whether the Youth Union will accept our proposal to install sensor taps.",
+      "answer": "Whether the Youth Union will approve our sensor-tap plan remains uncertain.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.it is hard to predict whether the youth union will accept our proposal to install sensor taps.",
+      "letter": "B",
+      "rightAnswer": "Whether the Youth Union will approve our sensor-tap plan remains uncertain."
+    },
+    {
+      "id": "question-1900494-19",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.protecting resources over time is essential to a sustainable future.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. Protecting resources over time is essential to a sustainable future.",
+      "options": [
+        "Keeping resources available in the long term is necessary for a future that can be sustained."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-19",
+      "questionNumber": 17,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.Protecting resources over time is essential to a sustainable future.",
+      "answer": "Keeping resources available in the long term is necessary for a future that can be sustained.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.protecting resources over time is essential to a sustainable future.",
+      "letter": "A",
+      "rightAnswer": "Keeping resources available in the long term is necessary for a future that can be sustained."
+    },
+    {
+      "id": "question-1900494-20",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.we should put the proposed green solutions into practice soon rather than leave them as plans.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. We should put the proposed green solutions into practice soon rather than leave them as plans.",
+      "options": [
+        "We should begin carrying out the suggested green actions soon instead of merely planning them."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-20",
+      "questionNumber": 18,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.We should put the proposed green solutions into practice soon rather than leave them as plans.",
+      "answer": "We should begin carrying out the suggested green actions soon instead of merely planning them.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.we should put the proposed green solutions into practice soon rather than leave them as plans.",
+      "letter": "B",
+      "rightAnswer": "We should begin carrying out the suggested green actions soon instead of merely planning them."
+    },
+    {
+      "id": "question-1900494-16",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.the report recommends providing more recycling bins and teaching students how to recycle properly.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. The report recommends providing more recycling bins and teaching students how to recycle properly.",
+      "options": [
+        "The report advises both increasing collection bins and giving students instruction in correct recycling."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-16",
+      "questionNumber": 20,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.The report recommends providing more recycling bins and teaching students how to recycle properly.",
+      "answer": "The report advises both increasing collection bins and giving students instruction in correct recycling.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.the report recommends providing more recycling bins and teaching students how to recycle properly.",
+      "letter": "A",
+      "rightAnswer": "The report advises both increasing collection bins and giving students instruction in correct recycling."
+    },
+    {
+      "id": "question-1900494-14",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.using the blank side of old paper for notes helps save resources that would otherwise be needed for new sheets.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. Using the blank side of old paper for notes helps save resources that would otherwise be needed for new sheets.",
+      "options": [
+        "Taking notes on unused sides of existing sheets reduces the need for resources to make new paper."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-14",
+      "questionNumber": 11,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.Using the blank side of old paper for notes helps save resources that would otherwise be needed for new sheets.",
+      "answer": "Taking notes on unused sides of existing sheets reduces the need for resources to make new paper.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.using the blank side of old paper for notes helps save resources that would otherwise be needed for new sheets.",
+      "letter": "B",
+      "rightAnswer": "Taking notes on unused sides of existing sheets reduces the need for resources to make new paper."
+    },
+    {
+      "id": "question-1900494-18",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.although buying bottled water is convenient, mai prefers refilling her reusable bottle.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. Although buying bottled water is convenient, Mai prefers refilling her reusable bottle.",
+      "options": [
+        "Despite the ease of buying bottled water, Mai favours filling her own bottle again."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-18",
+      "questionNumber": 16,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.Although buying bottled water is convenient, Mai prefers refilling her reusable bottle.",
+      "answer": "Despite the ease of buying bottled water, Mai favours filling her own bottle again.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.although buying bottled water is convenient, mai prefers refilling her reusable bottle.",
+      "letter": "B",
+      "rightAnswer": "Despite the ease of buying bottled water, Mai favours filling her own bottle again."
+    },
+    {
+      "id": "question-1900494-13",
+      "questionKey": "choose the option closest in meaning to the original statement. preserve the complete message.bringing a reusable water bottle reduces students' need to buy single-use bottles.",
+      "questionRaw": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message. Bringing a reusable water bottle reduces students’ need to buy single-use bottles.",
+      "options": [
+        "Students who bring refillable bottles have less need to purchase disposable ones."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1900494-13",
+      "questionNumber": 13,
+      "question": "Choose the option CLOSEST in meaning to the original statement. Preserve the complete message.Bringing a reusable water bottle reduces students' need to buy single-use bottles.",
+      "answer": "Students who bring refillable bottles have less need to purchase disposable ones.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option closest in meaning to the original statement. preserve the complete message.bringing a reusable water bottle reduces students' need to buy single-use bottles.",
+      "letter": "D",
+      "rightAnswer": "Students who bring refillable bottles have less need to purchase disposable ones."
+    }
+  ]
+}
