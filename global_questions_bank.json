@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-18T12:32:02Z",
-  "total_questions": 150,
+  "updated_at": "2026-10-18T12:42:54Z",
+  "total_questions": 161,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -15,243 +15,238 @@
       ]
     },
     "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to address this concern the group proposes a rule for protecting personal information b if permission is refused that sharing would not go ahead under the proposed rule c this monitoring may make some residents worry about their privacy d under this rule services would need permission before sharing residents private details e cameras in public areas may record where city dwellers go and what they do a e c d a bb e a c d bc e c a d bd e c a b d write a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. To address this concern, the group proposes a rule for protecting personal information.b. If permission is refused, that sharing would not go ahead under the proposed rule.c. This monitoring may make some residents worry about their privacy.d. Under this rule, services would need permission before sharing residents' private details.e. Cameras in public areas may record where city dwellers go and what they do.A. e – c – d – a – bB. e – a – c – d – bC. e – c – a – d – bD. e – c – a – b – d Write A, B, C or D: {#1}",
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. To address this concern, the group proposes a rule for protecting personal information.b. If permission is refused, that sharing would not go ahead under the proposed rule.c. This monitoring may make some residents worry about their privacy.d. Under this rule, services would need permission before sharing residents’ private details.e. Cameras in public areas may record where city dwellers go and what they do.A. e – c – d – a – bB. e – a – c – d – bC. e – c – a – d – bD. e – c – a – b – d Write A, B, C or D: {#1}",
       "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to address this concern the group proposes a rule for protecting personal information b if permission is refused that sharing would not go ahead under the proposed rule c this monitoring may make some residents worry about their privacy d under this rule services would need permission before sharing residents private details e cameras in public areas may record where city dwellers go and what they do a e c d a bb e a c d bc e c a d bd e c a b d write a b c or d 1",
       "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to address this concern the group proposes a rule for protecting personal information b if permission is refused that sharing would not go ahead under the proposed rule c this monitoring may make some residents worry about their privacy d under this rule services would need permission before sharing residents private details e cameras in public areas may record where city dwellers go and what they do a e c d a bb e a c d bc e c a d bd e c a b d write a b c or d 1",
-      "answer": "C",
+      "answer": "c",
       "letter": "",
-      "options": [
-        "C"
-      ],
+      "options": [],
       "inputs": [
         {
           "index": 0,
-          "value": "C"
+          "value": "c"
         }
       ],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
+      "updated_at": "2026-10-18T12:42:53Z"
     },
     "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a staff will then check the returned bicycle before making it available to another resident b residents will borrow a bicycle from a station near the beginning of their journey c when they reach their destination they can return it to another station d our proposed city will include a bike sharing system for short journeys between neighbourhoods e this final check completes the return process that our poster will illustrate a d b a c eb d b c a ec d c b a ed d b c e awrite a b c or d 1": {
       "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. Staff will then check the returned bicycle before making it available to another resident.b. Residents will borrow a bicycle from a station near the beginning of their journey.c. When they reach their destination, they can return it to another station.d. Our proposed city will include a bike-sharing system for short journeys between neighbourhoods.e. This final check completes the return process that our poster will illustrate.A. d – b – a – c – eB. d – b – c – a – eC. d – c – b – a – eD. d – b – c – e – aWrite A, B, C or D: {#1}",
       "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a staff will then check the returned bicycle before making it available to another resident b residents will borrow a bicycle from a station near the beginning of their journey c when they reach their destination they can return it to another station d our proposed city will include a bike sharing system for short journeys between neighbourhoods e this final check completes the return process that our poster will illustrate a d b a c eb d b c a ec d c b a ed d b c e awrite a b c or d 1",
       "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a staff will then check the returned bicycle before making it available to another resident b residents will borrow a bicycle from a station near the beginning of their journey c when they reach their destination they can return it to another station d our proposed city will include a bike sharing system for short journeys between neighbourhoods e this final check completes the return process that our poster will illustrate a d b a c eb d b c a ec d c b a ed d b c e awrite a b c or d 1",
-      "answer": "B",
+      "answer": "b",
       "letter": "",
-      "options": [
-        "B"
-      ],
+      "options": [],
       "inputs": [
         {
           "index": 0,
-          "value": "B"
+          "value": "b"
         }
       ],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
+      "updated_at": "2026-10-18T12:42:53Z"
     },
     "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a on receiving this message the waste collection team will arrange to empty the bin b the full to empty update in this last report completes the collection cycle shown on the group s poster c the group s city design places a sensor in each rubbish bin to check whether it is full d after the team empties the bin the sensor will send a second message reporting that the bin is no longer full e these sensors will send a message to the collection team when a bin needs emptying a c a e d bb c e d a bc c e a b dd c e a d bwrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. On receiving this message, the waste collection team will arrange to empty the bin.b. The full-to-empty update in this last report completes the collection cycle shown on the group's poster.c. The group's city design places a sensor in each rubbish bin to check whether it is full.d. After the team empties the bin, the sensor will send a second message reporting that the bin is no longer full.e. These sensors will send a message to the collection team when a bin needs emptying.A. c – a – e – d – bB. c – e – d – a – bC. c – e – a – b – dD. c – e – a – d – bWrite A, B, C or D: {#1}",
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. On receiving this message, the waste collection team will arrange to empty the bin.b. The full-to-empty update in this last report completes the collection cycle shown on the group’s poster.c. The group’s city design places a sensor in each rubbish bin to check whether it is full.d. After the team empties the bin, the sensor will send a second message reporting that the bin is no longer full.e. These sensors will send a message to the collection team when a bin needs emptying.A. c – a – e – d – bB. c – e – d – a – bC. c – e – a – b – dD. c – e – a – d – bWrite A, B, C or D: {#1}",
       "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a on receiving this message the waste collection team will arrange to empty the bin b the full to empty update in this last report completes the collection cycle shown on the group s poster c the group s city design places a sensor in each rubbish bin to check whether it is full d after the team empties the bin the sensor will send a second message reporting that the bin is no longer full e these sensors will send a message to the collection team when a bin needs emptying a c a e d bb c e d a bc c e a b dd c e a d bwrite a b c or d 1",
       "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a on receiving this message the waste collection team will arrange to empty the bin b the full to empty update in this last report completes the collection cycle shown on the group s poster c the group s city design places a sensor in each rubbish bin to check whether it is full d after the team empties the bin the sensor will send a second message reporting that the bin is no longer full e these sensors will send a message to the collection team when a bin needs emptying a c a e d bb c e d a bc c e a b dd c e a d bwrite a b c or d 1",
-      "answer": "D",
+      "answer": "d",
       "letter": "",
-      "options": [
-        "D"
-      ],
+      "options": [],
       "inputs": [
         {
           "index": 0,
-          "value": "D"
+          "value": "d"
         }
       ],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
+      "updated_at": "2026-10-18T12:42:53Z"
     },
     "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a smart devices can make daily life easier by helping city dwellers with household chores b for these residents clear demonstrations could explain how to operate the devices c after residents report this greater confidence the group could move on to independent practice d despite this benefit some residents may find unfamiliar devices difficult to use e with this guidance those residents could become more confident about using the technology a a d b e cb a b d e cc a d e b cd a d b c ewrite a b c or d 1": {
       "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. Smart devices can make daily life easier by helping city dwellers with household chores.b. For these residents, clear demonstrations could explain how to operate the devices.c. After residents report this greater confidence, the group could move on to independent practice.d. Despite this benefit, some residents may find unfamiliar devices difficult to use.e. With this guidance, those residents could become more confident about using the technology.A. a – d – b – e – cB. a – b – d – e – cC. a – d – e – b – cD. a – d – b – c – eWrite A, B, C or D: {#1}",
       "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a smart devices can make daily life easier by helping city dwellers with household chores b for these residents clear demonstrations could explain how to operate the devices c after residents report this greater confidence the group could move on to independent practice d despite this benefit some residents may find unfamiliar devices difficult to use e with this guidance those residents could become more confident about using the technology a a d b e cb a b d e cc a d e b cd a d b c ewrite a b c or d 1",
       "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a smart devices can make daily life easier by helping city dwellers with household chores b for these residents clear demonstrations could explain how to operate the devices c after residents report this greater confidence the group could move on to independent practice d despite this benefit some residents may find unfamiliar devices difficult to use e with this guidance those residents could become more confident about using the technology a a d b e cb a b d e cc a d e b cd a d b c ewrite a b c or d 1",
-      "answer": "A",
-      "letter": "",
-      "options": [
-        "A"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "A"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. To complement this reduction in private-vehicle use, the group will add high-rise buildings with roof gardens.b. Our poster presents an ideal city designed to combine convenient travel with greener buildings.c. The presentation will end by linking these roof gardens with the transport benefit to explain the city's intended liveability.d. These transport choices could reduce residents' reliance on private vehicles for local journeys.e. For travel, the city will offer public transport and a bike-sharing system.A. b – e – a – d – cB. b – e – d – a – cC. b – d – e – a – cD. b – e – d – c – aWrite A, B, C or D: {#1}",
-      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1",
-      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1",
-      "answer": "B",
-      "letter": "",
-      "options": [
-        "B"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. An: In our proposal, it would be on the water near the coast.b. An: I'm sure it's possible. I think modern technologies could help people build cities on water.c. Vy: Then let's show that location clearly and identify it as our proposed city.d. Vy: Where would you put the city in your proposal?e. Vy: Do you think building a city on water could be possible in the future?A. e – d – b – a – cB. e – b – d – a – cC. e – b – a – d – cD. e – b – d – c – aWrite A, B, C or D: {#1}",
-      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1",
-      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1",
-      "answer": "B",
-      "letter": "",
-      "options": [
-        "B"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Linh: I'm not really sure about it. I see it as a possibility rather than something certain.b. Huy: How certain are you that people will travel that way?c. Huy: What prediction could we include about transport in the cities of the future?d. Linh: We could suggest that people might use flying cars.e. Huy: Then we should label that prediction as a possibility on our poster.A. c – d – b – a – eB. c – b – d – a – eC. c – d – a – b – eD. c – d – b – e – aWrite A, B, C or D: {#1}",
-      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1",
-      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1",
-      "answer": "A",
-      "letter": "",
-      "options": [
-        "A"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "A"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Mai: I'm not really sure about it. We haven't decided which transport options to include.b. Mai: Because our group still needs to compare them with other public transport options before choosing.c. Nam: Then let's make that comparison before we finalize the transport section.d. Nam: Do you think we'll include driverless buses in our ideal-city design?e. Nam: Why are you uncertain about choosing driverless buses?A. d – a – b – e – cB. d – e – a – b – cC. d – a – e – b – cD. d – a – e – c – bWrite A, B, C or D: {#1}",
-      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1",
-      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1",
-      "answer": "C",
-      "letter": "",
-      "options": [
-        "C"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "C"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Hoa: Which household chores will they help with in your design?b. Hoa: Will AI robots help with household chores in your group's proposed city?c. Minh: We plan to show them helping residents clean their homes.d. Hoa: Then that example can go beside the robots in your poster.e. Minh: I have no doubt about it. Our group has already included that role in the design.A. b – a – e – c – dB. b – e – c – a – dC. b – e – a – d – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
-      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1",
-      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1",
-      "answer": "D",
-      "letter": "",
-      "options": [
-        "D"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "D"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1": {
-      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Tuan: What kind of buildings will people live in in our proposed city?b. Tuan: Why do you want gardens on top of the buildings?c. Tuan: That purpose is clear. Let's explain it beside the building pictures.d. Lan: I'm thinking of high-rise buildings with roof gardens.e. Lan: To provide green spaces on the buildings as well as homes for residents.A. a – b – d – e – cB. a – d – e – b – cC. a – d – b – e – cD. a – d – b – c – eWrite A, B, C or D: {#1}",
-      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1",
-      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1",
-      "answer": "C",
-      "letter": "",
-      "options": [
-        "C"
-      ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "C"
-        }
-      ],
-      "selects": [],
-      "verified_100": true,
-      "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
-    },
-    "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10": {
-      "question": "Read the guide and choose the option A, B, C, or D that best completes each numbered blank. Read the whole guide first. Use both the immediate sentence and the wider meaning. Question 1A. get aroundB. turn offC. work outD. cut downWrite A, B, C or D: {#1} Question 2A. renewableB. renewalC. renewD. renewedWrite A, B, C or D: {#2} Question 3A. get aroundB. turn offC. make upD. find outWrite A, B, C or D: {#3} Question 4A. privacyB. biodiversityC. mobilityD. efficiencyWrite A, B, C or D: {#4} Question 5A. decisionB. decisiveC. decidingD. decisivelyWrite A, B, C or D: {#5} Question 6A. turn onB. turn offC. turn upD. turn downWrite A, B, C or D: {#6} Question 7A. modernB. modernityC. modernlyD. moderniseWrite A, B, C or D: {#7} Question 8A. whoB. whoseC. whatD. whichWrite A, B, C or D: {#8} Question 9A. AfterB. BeforeC. WhileD. Instead ofWrite A, B, C or D: {#9} Question 10A. I have no doubt about itB. I'm absolutely sure about itC. I'm not really sure about itD. I'm sure about itWrite A, B, C or D: {#10}",
-      "clean_stem": "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10",
-      "stem_key": "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10",
-      "answer": "",
+      "answer": "a",
       "letter": "",
       "options": [],
       "inputs": [
         {
-          "index": 1,
-          "questionNumber": 1,
-          "value": "A"
-        },
-        {
-          "index": 2,
-          "questionNumber": 2,
-          "value": "D"
-        },
-        {
-          "index": 3,
-          "questionNumber": 3,
-          "value": "B"
-        },
-        {
-          "index": 5,
-          "questionNumber": 5,
-          "value": "B"
-        },
-        {
-          "index": 7,
-          "questionNumber": 7,
-          "value": "D"
+          "index": 0,
+          "value": "a"
         }
       ],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-18T01:15:37Z"
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. To complement this reduction in private-vehicle use, the group will add high-rise buildings with roof gardens.b. Our poster presents an ideal city designed to combine convenient travel with greener buildings.c. The presentation will end by linking these roof gardens with the transport benefit to explain the city’s intended liveability.d. These transport choices could reduce residents’ reliance on private vehicles for local journeys.e. For travel, the city will offer public transport and a bike-sharing system.A. b – e – a – d – cB. b – e – d – a – cC. b – d – e – a – cD. b – e – d – c – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. An: In our proposal, it would be on the water near the coast.b. An: I’m sure it’s possible. I think modern technologies could help people build cities on water.c. Vy: Then let’s show that location clearly and identify it as our proposed city.d. Vy: Where would you put the city in your proposal?e. Vy: Do you think building a city on water could be possible in the future?A. e – d – b – a – cB. e – b – d – a – cC. e – b – a – d – cD. e – b – d – c – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Linh: I’m not really sure about it. I see it as a possibility rather than something certain.b. Huy: How certain are you that people will travel that way?c. Huy: What prediction could we include about transport in the cities of the future?d. Linh: We could suggest that people might use flying cars.e. Huy: Then we should label that prediction as a possibility on our poster.A. c – d – b – a – eB. c – b – d – a – eC. c – d – a – b – eD. c – d – b – e – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Mai: I’m not really sure about it. We haven’t decided which transport options to include.b. Mai: Because our group still needs to compare them with other public transport options before choosing.c. Nam: Then let’s make that comparison before we finalize the transport section.d. Nam: Do you think we’ll include driverless buses in our ideal-city design?e. Nam: Why are you uncertain about choosing driverless buses?A. d – a – b – e – cB. d – e – a – b – cC. d – a – e – b – cD. d – a – e – c – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Hoa: Which household chores will they help with in your design?b. Hoa: Will AI robots help with household chores in your group’s proposed city?c. Minh: We plan to show them helping residents clean their homes.d. Hoa: Then that example can go beside the robots in your poster.e. Minh: I have no doubt about it. Our group has already included that role in the design.A. b – a – e – c – dB. b – e – c – a – dC. b – e – a – d – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Tuan: What kind of buildings will people live in in our proposed city?b. Tuan: Why do you want gardens on top of the buildings?c. Tuan: That purpose is clear. Let’s explain it beside the building pictures.d. Lan: I’m thinking of high-rise buildings with roof gardens.e. Lan: To provide green spaces on the buildings as well as homes for residents.A. a – b – d – e – cB. a – d – e – b – cC. a – d – b – e – cD. a – d – b – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10": {
+      "question": "Read the guide and choose the option A, B, C, or D that best completes each numbered blank. Read the whole guide first. Use both the immediate sentence and the wider meaning. Question 1A. get aroundB. turn offC. work outD. cut downWrite A, B, C or D: {#1} Question 2A. renewableB. renewalC. renewD. renewedWrite A, B, C or D: {#2} Question 3A. get aroundB. turn offC. make upD. find outWrite A, B, C or D: {#3} Question 4A. privacyB. biodiversityC. mobilityD. efficiencyWrite A, B, C or D: {#4} Question 5A. decisionB. decisiveC. decidingD. decisivelyWrite A, B, C or D: {#5} Question 6A. turn onB. turn offC. turn upD. turn downWrite A, B, C or D: {#6} Question 7A. modernB. modernityC. modernlyD. moderniseWrite A, B, C or D: {#7} Question 8A. whoB. whoseC. whatD. whichWrite A, B, C or D: {#8} Question 9A. AfterB. BeforeC. WhileD. Instead ofWrite A, B, C or D: {#9} Question 10A. I have no doubt about itB. I’m absolutely sure about itC. I’m not really sure about itD. I’m sure about itWrite A, B, C or D: {#10}",
+      "clean_stem": "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10",
+      "stem_key": "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "b"
+        },
+        {
+          "index": 4,
+          "value": "c"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "d"
+        },
+        {
+          "index": 8,
+          "value": "b"
+        },
+        {
+          "index": 9,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
     },
     "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d 1": {
       "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. To address both problems, the report proposes installing automatic lights and sensor taps.b. Students sometimes leave restroom lights on and taps running when nobody is using the facilities.c. The report therefore recommends installing the devices to prevent this unnecessary use of resources.d. These habits waste electricity and water.e. These devices can stop operating automatically when nobody is nearby, reducing the waste identified above.A. b–d–e–a–cB. b–d–c–a–eC. b–d–a–e–cD. b–e–a–d–cWrite A, B, C or D: {#1}",
@@ -3984,6 +3979,240 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-18T12:32:01Z"
+    },
+    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a on receiving this message the waste collection team will arrange to empty the bin b the full to empty update in this last report completes the collection cycle shown on the group s poster c the group s city design places a sensor in each rubbish bin to check whether it is full d after the team empties the bin the sensor will send a second message reporting that the bin is no longer full e these sensors will send a message to the collection team when a bin needs emptying a c a e d bb c e d a bc c e a b dd c e a d bwrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. On receiving this message, the waste collection team will arrange to empty the bin.b. The full-to-empty update in this last report completes the collection cycle shown on the group’s poster.c. The group’s city design places a sensor in each rubbish bin to check whether it is full.d. After the team empties the bin, the sensor will send a second message reporting that the bin is no longer full.e. These sensors will send a message to the collection team when a bin needs emptying.A. c – a – e – d – bB. c – e – d – a – bC. c – e – a – b – dD. c – e – a – d – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a on receiving this message the waste collection team will arrange to empty the bin b the full to empty update in this last report completes the collection cycle shown on the group s poster c the group s city design places a sensor in each rubbish bin to check whether it is full d after the team empties the bin the sensor will send a second message reporting that the bin is no longer full e these sensors will send a message to the collection team when a bin needs emptying a c a e d bb c e d a bc c e a b dd c e a d bwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a on receiving this message the waste collection team will arrange to empty the bin b the full to empty update in this last report completes the collection cycle shown on the group s poster c the group s city design places a sensor in each rubbish bin to check whether it is full d after the team empties the bin the sensor will send a second message reporting that the bin is no longer full e these sensors will send a message to the collection team when a bin needs emptying a c a e d bb c e d a bc c e a b dd c e a d bwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. To complement this reduction in private-vehicle use, the group will add high-rise buildings with roof gardens.b. Our poster presents an ideal city designed to combine convenient travel with greener buildings.c. The presentation will end by linking these roof gardens with the transport benefit to explain the city’s intended liveability.d. These transport choices could reduce residents’ reliance on private vehicles for local journeys.e. For travel, the city will offer public transport and a bike-sharing system.A. b – e – a – d – cB. b – e – d – a – cC. b – d – e – a – cD. b – e – d – c – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to complement this reduction in private vehicle use the group will add high rise buildings with roof gardens b our poster presents an ideal city designed to combine convenient travel with greener buildings c the presentation will end by linking these roof gardens with the transport benefit to explain the city s intended liveability d these transport choices could reduce residents reliance on private vehicles for local journeys e for travel the city will offer public transport and a bike sharing system a b e a d cb b e d a cc b d e a cd b e d c awrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to address this concern the group proposes a rule for protecting personal information b if permission is refused that sharing would not go ahead under the proposed rule c this monitoring may make some residents worry about their privacy d under this rule services would need permission before sharing residents private details e cameras in public areas may record where city dwellers go and what they do a e c d a bb e a c d bc e c a d bd e c a b d write a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. To address this concern, the group proposes a rule for protecting personal information.b. If permission is refused, that sharing would not go ahead under the proposed rule.c. This monitoring may make some residents worry about their privacy.d. Under this rule, services would need permission before sharing residents’ private details.e. Cameras in public areas may record where city dwellers go and what they do.A. e – c – d – a – bB. e – a – c – d – bC. e – c – a – d – bD. e – c – a – b – d Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to address this concern the group proposes a rule for protecting personal information b if permission is refused that sharing would not go ahead under the proposed rule c this monitoring may make some residents worry about their privacy d under this rule services would need permission before sharing residents private details e cameras in public areas may record where city dwellers go and what they do a e c d a bb e a c d bc e c a d bd e c a b d write a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a to address this concern the group proposes a rule for protecting personal information b if permission is refused that sharing would not go ahead under the proposed rule c this monitoring may make some residents worry about their privacy d under this rule services would need permission before sharing residents private details e cameras in public areas may record where city dwellers go and what they do a e c d a bb e a c d bc e c a d bd e c a b d write a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a staff will then check the returned bicycle before making it available to another resident b residents will borrow a bicycle from a station near the beginning of their journey c when they reach their destination they can return it to another station d our proposed city will include a bike sharing system for short journeys between neighbourhoods e this final check completes the return process that our poster will illustrate a d b a c eb d b c a ec d c b a ed d b c e awrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. Staff will then check the returned bicycle before making it available to another resident.b. Residents will borrow a bicycle from a station near the beginning of their journey.c. When they reach their destination, they can return it to another station.d. Our proposed city will include a bike-sharing system for short journeys between neighbourhoods.e. This final check completes the return process that our poster will illustrate.A. d – b – a – c – eB. d – b – c – a – eC. d – c – b – a – eD. d – b – c – e – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a staff will then check the returned bicycle before making it available to another resident b residents will borrow a bicycle from a station near the beginning of their journey c when they reach their destination they can return it to another station d our proposed city will include a bike sharing system for short journeys between neighbourhoods e this final check completes the return process that our poster will illustrate a d b a c eb d b c a ec d c b a ed d b c e awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a staff will then check the returned bicycle before making it available to another resident b residents will borrow a bicycle from a station near the beginning of their journey c when they reach their destination they can return it to another station d our proposed city will include a bike sharing system for short journeys between neighbourhoods e this final check completes the return process that our poster will illustrate a d b a c eb d b c a ec d c b a ed d b c e awrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a smart devices can make daily life easier by helping city dwellers with household chores b for these residents clear demonstrations could explain how to operate the devices c after residents report this greater confidence the group could move on to independent practice d despite this benefit some residents may find unfamiliar devices difficult to use e with this guidance those residents could become more confident about using the technology a a d b e cb a b d e cc a d e b cd a d b c ewrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most logical order of the sentences. Look for: a sentence that introduces the topic; references that depend on earlier information; actions that must precede their results; explanations that develop previous ideas; statements that complete a process or presentation. Question:a. Smart devices can make daily life easier by helping city dwellers with household chores.b. For these residents, clear demonstrations could explain how to operate the devices.c. After residents report this greater confidence, the group could move on to independent practice.d. Despite this benefit, some residents may find unfamiliar devices difficult to use.e. With this guidance, those residents could become more confident about using the technology.A. a – d – b – e – cB. a – b – d – e – cC. a – d – e – b – cD. a – d – b – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a smart devices can make daily life easier by helping city dwellers with household chores b for these residents clear demonstrations could explain how to operate the devices c after residents report this greater confidence the group could move on to independent practice d despite this benefit some residents may find unfamiliar devices difficult to use e with this guidance those residents could become more confident about using the technology a a d b e cb a b d e cc a d e b cd a d b c ewrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most logical order of the sentences look for a sentence that introduces the topic references that depend on earlier information actions that must precede their results explanations that develop previous ideas statements that complete a process or presentation question a smart devices can make daily life easier by helping city dwellers with household chores b for these residents clear demonstrations could explain how to operate the devices c after residents report this greater confidence the group could move on to independent practice d despite this benefit some residents may find unfamiliar devices difficult to use e with this guidance those residents could become more confident about using the technology a a d b e cb a b d e cc a d e b cd a d b c ewrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Tuan: What kind of buildings will people live in in our proposed city?b. Tuan: Why do you want gardens on top of the buildings?c. Tuan: That purpose is clear. Let’s explain it beside the building pictures.d. Lan: I’m thinking of high-rise buildings with roof gardens.e. Lan: To provide green spaces on the buildings as well as homes for residents.A. a – b – d – e – cB. a – d – e – b – cC. a – d – b – e – cD. a – d – b – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona tuan what kind of buildings will people live in in our proposed city b tuan why do you want gardens on top of the buildings c tuan that purpose is clear let s explain it beside the building pictures d lan i m thinking of high rise buildings with roof gardens e lan to provide green spaces on the buildings as well as homes for residents a a b d e cb a d e b cc a d b e cd a d b c ewrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Hoa: Which household chores will they help with in your design?b. Hoa: Will AI robots help with household chores in your group’s proposed city?c. Minh: We plan to show them helping residents clean their homes.d. Hoa: Then that example can go beside the robots in your poster.e. Minh: I have no doubt about it. Our group has already included that role in the design.A. b – a – e – c – dB. b – e – c – a – dC. b – e – a – d – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona hoa which household chores will they help with in your design b hoa will ai robots help with household chores in your group s proposed city c minh we plan to show them helping residents clean their homes d hoa then that example can go beside the robots in your poster e minh i have no doubt about it our group has already included that role in the design a b a e c db b e c a dc b e a d cd b e a c dwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Linh: I’m not really sure about it. I see it as a possibility rather than something certain.b. Huy: How certain are you that people will travel that way?c. Huy: What prediction could we include about transport in the cities of the future?d. Linh: We could suggest that people might use flying cars.e. Huy: Then we should label that prediction as a possibility on our poster.A. c – d – b – a – eB. c – b – d – a – eC. c – d – a – b – eD. c – d – b – e – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona linh i m not really sure about it i see it as a possibility rather than something certain b huy how certain are you that people will travel that way c huy what prediction could we include about transport in the cities of the future d linh we could suggest that people might use flying cars e huy then we should label that prediction as a possibility on our poster a c d b a eb c b d a ec c d a b ed c d b e awrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. An: In our proposal, it would be on the water near the coast.b. An: I’m sure it’s possible. I think modern technologies could help people build cities on water.c. Vy: Then let’s show that location clearly and identify it as our proposed city.d. Vy: Where would you put the city in your proposal?e. Vy: Do you think building a city on water could be possible in the future?A. e – d – b – a – cB. e – b – d – a – cC. e – b – a – d – cD. e – b – d – c – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona an in our proposal it would be on the water near the coast b an i m sure it s possible i think modern technologies could help people build cities on water c vy then let s show that location clearly and identify it as our proposed city d vy where would you put the city in your proposal e vy do you think building a city on water could be possible in the future a e d b a cb e b d a cc e b a d cd e b d c awrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that shows the most natural order of the utterances. Check: who is speaking; which question each reply answers; what reference words refer to; whether a reason follows the relevant question; whether the final response follows logically. Questiona. Mai: I’m not really sure about it. We haven’t decided which transport options to include.b. Mai: Because our group still needs to compare them with other public transport options before choosing.c. Nam: Then let’s make that comparison before we finalize the transport section.d. Nam: Do you think we’ll include driverless buses in our ideal-city design?e. Nam: Why are you uncertain about choosing driverless buses?A. d – a – b – e – cB. d – e – a – b – cC. d – a – e – b – cD. d – a – e – c – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that shows the most natural order of the utterances check who is speaking which question each reply answers what reference words refer to whether a reason follows the relevant question whether the final response follows logically questiona mai i m not really sure about it we haven t decided which transport options to include b mai because our group still needs to compare them with other public transport options before choosing c nam then let s make that comparison before we finalize the transport section d nam do you think we ll include driverless buses in our ideal city design e nam why are you uncertain about choosing driverless buses a d a b e cb d e a b cc d a e b cd d a e c bwrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
+    },
+    "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d question 2a renewableb renewalc renewd renewedwrite a b c or d question 3a get aroundb turn offc make upd find outwrite a b c or d question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d question 5a decisionb decisivec decidingd decisivelywrite a b c or d question 6a turn onb turn offc turn upd turn downwrite a b c or d question 7a modernb modernityc modernlyd modernisewrite a b c or d question 8a whob whosec whatd whichwrite a b c or d question 9a afterb beforec whiled instead ofwrite a b c or d question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d": {
+      "question": "Read the guide and choose the option A, B, C, or D that best completes each numbered blank. Read the whole guide first. Use both the immediate sentence and the wider meaning. Question 1A. get aroundB. turn offC. work outD. cut downWrite A, B, C or D: {#1} Question 2A. renewableB. renewalC. renewD. renewedWrite A, B, C or D: {#2} Question 3A. get aroundB. turn offC. make upD. find outWrite A, B, C or D: {#3} Question 4A. privacyB. biodiversityC. mobilityD. efficiencyWrite A, B, C or D: {#4} Question 5A. decisionB. decisiveC. decidingD. decisivelyWrite A, B, C or D: {#5} Question 6A. turn onB. turn offC. turn upD. turn downWrite A, B, C or D: {#6} Question 7A. modernB. modernityC. modernlyD. moderniseWrite A, B, C or D: {#7} Question 8A. whoB. whoseC. whatD. whichWrite A, B, C or D: {#8} Question 9A. AfterB. BeforeC. WhileD. Instead ofWrite A, B, C or D: {#9} Question 10A. I have no doubt about itB. I’m absolutely sure about itC. I’m not really sure about itD. I’m sure about itWrite A, B, C or D: {#10}",
+      "clean_stem": "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10",
+      "stem_key": "read the guide and choose the option a b c or d that best completes each numbered blank read the whole guide first use both the immediate sentence and the wider meaning question 1a get aroundb turn offc work outd cut downwrite a b c or d 1 question 2a renewableb renewalc renewd renewedwrite a b c or d 2 question 3a get aroundb turn offc make upd find outwrite a b c or d 3 question 4a privacyb biodiversityc mobilityd efficiencywrite a b c or d 4 question 5a decisionb decisivec decidingd decisivelywrite a b c or d 5 question 6a turn onb turn offc turn upd turn downwrite a b c or d 6 question 7a modernb modernityc modernlyd modernisewrite a b c or d 7 question 8a whob whosec whatd whichwrite a b c or d 8 question 9a afterb beforec whiled instead ofwrite a b c or d 9 question 10a i have no doubt about itb i m absolutely sure about itc i m not really sure about itd i m sure about itwrite a b c or d 10",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "b"
+        },
+        {
+          "index": 4,
+          "value": "c"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "d"
+        },
+        {
+          "index": 8,
+          "value": "b"
+        },
+        {
+          "index": 9,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:42:53Z"
     }
   }
 }
