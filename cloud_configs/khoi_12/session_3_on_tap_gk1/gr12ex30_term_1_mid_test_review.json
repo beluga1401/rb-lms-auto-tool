@@ -1,0 +1,632 @@
+{
+  "metadata": {
+    "account_name": "Huỳnh Lê Phong Linh",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR12EX30-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr12ex30_term_1_mid_test_review",
+    "cmid": "739925",
+    "course_id": "9692",
+    "repo_path": "cloud_configs/khoi_12/session_3_on_tap_gk1/gr12ex30_term_1_mid_test_review.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 80,
+    "updated_at": "2026-10-18 19:19:11"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following competition notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. young biographers competition do you enjoy discovering the stories behind successful people? write a short profile of a person whose life deserves to be remembered. your entry should describe the person's childhood, education, career, and most (7) achievements. if the person faced difficulties when young, explain how those experiences (8) his or her later choices. do not simply list dates. show what the person was doing when an important event (9) and why that event mattered. you should also explain what the person is admired (10) and how his or her work influenced other people. entries must be between 350 and 450 words. selected students will (11) part in a biography-writing workshop with local writers. before submitting your profile, make sure you (12) reliable historical sources, especially when writing about events that happened long before you were born.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following competition notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. YOUNG BIOGRAPHERS COMPETITION Do you enjoy discovering the stories behind successful people? Write a short profile of a person whose life deserves to be remembered. Your entry should describe the person's childhood, education, career, and most (7) {#1} achievements. If the person faced difficulties when young, explain how those experiences (8) {#2} his or her later choices. Do not simply list dates. Show what the person was doing when an important event (9) {#3} and why that event mattered. You should also explain what the person is admired (10) {#4} and how his or her work influenced other people. Entries must be between 350 and 450 words. Selected students will (11) {#5} part in a biography-writing workshop with local writers. Before submitting your profile, make sure you (12) {#6} reliable historical sources, especially when writing about events that happened long before you were born.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "impressive"
+        },
+        {
+          "index": 1,
+          "value": "affected"
+        },
+        {
+          "index": 2,
+          "value": "happened"
+        },
+        {
+          "index": 3,
+          "value": "for"
+        },
+        {
+          "index": 4,
+          "value": "take"
+        },
+        {
+          "index": 5,
+          "value": "consult"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following competition notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. YOUNG BIOGRAPHERS COMPETITION Do you enjoy discovering the stories behind successful people? Write a short profile of a person whose life deserves to be remembered. Your entry should describe the person's childhood, education, career, and most (7) {#1} achievements. If the person faced difficulties when young, explain how those experiences (8) {#2} his or her later choices. Do not simply list dates. Show what the person was doing when an important event (9) {#3} and why that event mattered. You should also explain what the person is admired (10) {#4} and how his or her work influenced other people. Entries must be between 350 and 450 words. Selected students will (11) {#5} part in a biography-writing workshop with local writers. Before submitting your profile, make sure you (12) {#6} reliable historical sources, especially when writing about events that happened long before you were born.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following school announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. lives that inspire — school library exhibition one section tells the story of dr tran lan, a doctor who (1) her life to caring for children in remote areas. after she (2) from medical school in 1998, she began working at a provincial hospital. in 2002, while she (3) at a mountain clinic, a severe flood cut the village off from the surrounding area. she stayed and treated patients until help arrived. her courage and professional skill were widely (4) . visitors can also explore the stories of people who (5) school or college but later found a different path to success. the exhibition ends with one important question: what makes a life story truly (6) ?",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following school announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. LIVES THAT INSPIRE — SCHOOL LIBRARY EXHIBITION One section tells the story of Dr Tran Lan, a doctor who (1) {#1} her life to caring for children in remote areas. After she (2) {#2} from medical school in 1998, she began working at a provincial hospital. In 2002, while she (3) {#3} at a mountain clinic, a severe flood cut the village off from the surrounding area. She stayed and treated patients until help arrived. Her courage and professional skill were widely (4) {#4}. Visitors can also explore the stories of people who (5) {#5} school or college but later found a different path to success. The exhibition ends with one important question: What makes a life story truly (6) {#6}?",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "devoted"
+        },
+        {
+          "index": 1,
+          "value": "graduated"
+        },
+        {
+          "index": 2,
+          "value": "was working"
+        },
+        {
+          "index": 3,
+          "value": "admired"
+        },
+        {
+          "index": 4,
+          "value": "dropped out of"
+        },
+        {
+          "index": 5,
+          "value": "inspiring"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following school announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. LIVES THAT INSPIRE — SCHOOL LIBRARY EXHIBITION One section tells the story of Dr Tran Lan, a doctor who (1) {#1} her life to caring for children in remote areas. After she (2) {#2} from medical school in 1998, she began working at a provincial hospital. In 2002, while she (3) {#3} at a mountain clinic, a severe flood cut the village off from the surrounding area. She stayed and treated patients until help arrived. Her courage and professional skill were widely (4) {#4}. Visitors can also explore the stories of people who (5) {#5} school or college but later found a different path to success. The exhibition ends with one important question: What makes a life story truly (6) {#6}?",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. sofia mendes: from dancer to choreographer sofia mendes first saw a professional ballet performance when she was seven. she was fascinated not only by the dancers but also by the way music and movement could tell a story. (13) ______. by the time she was twelve, she was attending dance classes six days a week. at seventeen, sofia received a scholarship to study at a performing-arts conservatory. during her second year, while she was rehearsing for a student production, she injured her ankle. (14) ______. for several months, she could not perform, so she spent more time observing rehearsals and helping one of her teachers plan movements for younger dancers. it was during this period that she discovered an interest in choreography. after graduation, sofia joined a small contemporary dance company. she performed in ensemble roles and created short pieces for company workshops. (15) ______. one of those pieces was later selected for a national festival, where it attracted the attention of an artistic director. the director invited sofia to create a full-length work. (16) ______. the production combined traditional music with modern movement and received strong reviews. it toured six cities the following year. sofia eventually stopped performing and concentrated entirely on choreography. she later became the artistic director of a major dance company. (17) ______. looking back, sofia often said that the injury she once feared would end her career had unexpectedly opened another path. question 13.a. her family moved to another city shortly after the performance.b. at first, she was more interested in the costumes than in learning to dance herself.c. she soon began copying short sequences at home and inventing movements of her own.d. she did not begin formal dance training until after she had finished university.write a, b, c, or d - question 14.a. her classmates completed the production several months before the accident occurred.b. doctors expected her to recover, but they told her to stop dancing for a period of time.c. she immediately decided to leave the conservatory and study music instead.d. the injury occurred after she had already completed her training.write a, b, c, or d - question 15.a. sofia preferred performing, so she refused to show the director any of her own work.b. the company required its dancers to stop performing after their first season.c. most of the workshops were cancelled before sofia could present her choreography.d. although the company was small, its director encouraged dancers to experiment with ideas of their own.write a, b, c, or d - question 16.a. it was the first time sofia had been responsible for an entire evening-length production.b. sofia accepted the invitation but asked another choreographer to create every scene.c. by then, she had decided that her future productions would contain no music.d. the festival organisers refused to allow her to develop any new material.write a, b, c, or d - question 17.a. her greatest influence came from the dance roles she performed before becoming a choreographer.b. she became famous mainly because of the student production in which she was injured.c. her career had therefore moved from performing other people's choreography to creating work that others continued to perform.d. her later career had little connection with what happened to her at the conservatory.write a, b, c, or d -",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SOFIA MENDES: FROM DANCER TO CHOREOGRAPHER Sofia Mendes first saw a professional ballet performance when she was seven. She was fascinated not only by the dancers but also by the way music and movement could tell a story. (13) ______. By the time she was twelve, she was attending dance classes six days a week. At seventeen, Sofia received a scholarship to study at a performing-arts conservatory. During her second year, while she was rehearsing for a student production, she injured her ankle. (14) ______. For several months, she could not perform, so she spent more time observing rehearsals and helping one of her teachers plan movements for younger dancers. It was during this period that she discovered an interest in choreography. After graduation, Sofia joined a small contemporary dance company. She performed in ensemble roles and created short pieces for company workshops. (15) ______. One of those pieces was later selected for a national festival, where it attracted the attention of an artistic director. The director invited Sofia to create a full-length work. (16) ______. The production combined traditional music with modern movement and received strong reviews. It toured six cities the following year. Sofia eventually stopped performing and concentrated entirely on choreography. She later became the artistic director of a major dance company. (17) ______. Looking back, Sofia often said that the injury she once feared would end her career had unexpectedly opened another path. Question 13.A. Her family moved to another city shortly after the performance.B. At first, she was more interested in the costumes than in learning to dance herself.C. She soon began copying short sequences at home and inventing movements of her own.D. She did not begin formal dance training until after she had finished university.Write A, B, C, or D - {#1}Question 14.A. Her classmates completed the production several months before the accident occurred.B. Doctors expected her to recover, but they told her to stop dancing for a period of time.C. She immediately decided to leave the conservatory and study music instead.D. The injury occurred after she had already completed her training.Write A, B, C, or D - {#2}Question 15.A. Sofia preferred performing, so she refused to show the director any of her own work.B. The company required its dancers to stop performing after their first season.C. Most of the workshops were cancelled before Sofia could present her choreography.D. Although the company was small, its director encouraged dancers to experiment with ideas of their own.Write A, B, C, or D - {#3}Question 16.A. It was the first time Sofia had been responsible for an entire evening-length production.B. Sofia accepted the invitation but asked another choreographer to create every scene.C. By then, she had decided that her future productions would contain no music.D. The festival organisers refused to allow her to develop any new material.Write A, B, C, or D - {#4}Question 17.A. Her greatest influence came from the dance roles she performed before becoming a choreographer.B. She became famous mainly because of the student production in which she was injured.C. Her career had therefore moved from performing other people's choreography to creating work that others continued to perform.D. Her later career had little connection with what happened to her at the conservatory.Write A, B, C, or D - {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SOFIA MENDES: FROM DANCER TO CHOREOGRAPHER Sofia Mendes first saw a professional ballet performance when she was seven. She was fascinated not only by the dancers but also by the way music and movement could tell a story. (13) ______. By the time she was twelve, she was attending dance classes six days a week. At seventeen, Sofia received a scholarship to study at a performing-arts conservatory. During her second year, while she was rehearsing for a student production, she injured her ankle. (14) ______. For several months, she could not perform, so she spent more time observing rehearsals and helping one of her teachers plan movements for younger dancers. It was during this period that she discovered an interest in choreography. After graduation, Sofia joined a small contemporary dance company. She performed in ensemble roles and created short pieces for company workshops. (15) ______. One of those pieces was later selected for a national festival, where it attracted the attention of an artistic director. The director invited Sofia to create a full-length work. (16) ______. The production combined traditional music with modern movement and received strong reviews. It toured six cities the following year. Sofia eventually stopped performing and concentrated entirely on choreography. She later became the artistic director of a major dance company. (17) ______. Looking back, Sofia often said that the injury she once feared would end her career had unexpectedly opened another path. Question 13.A. Her family moved to another city shortly after the performance.B. At first, she was more interested in the costumes than in learning to dance herself.C. She soon began copying short sequences at home and inventing movements of her own.D. She did not begin formal dance training until after she had finished university.Write A, B, C, or D - {#1}Question 14.A. Her classmates completed the production several months before the accident occurred.B. Doctors expected her to recover, but they told her to stop dancing for a period of time.C. She immediately decided to leave the conservatory and study music instead.D. The injury occurred after she had already completed her training.Write A, B, C, or D - {#2}Question 15.A. Sofia preferred performing, so she refused to show the director any of her own work.B. The company required its dancers to stop performing after their first season.C. Most of the workshops were cancelled before Sofia could present her choreography.D. Although the company was small, its director encouraged dancers to experiment with ideas of their own.Write A, B, C, or D - {#3}Question 16.A. It was the first time Sofia had been responsible for an entire evening-length production.B. Sofia accepted the invitation but asked another choreographer to create every scene.C. By then, she had decided that her future productions would contain no music.D. The festival organisers refused to allow her to develop any new material.Write A, B, C, or D - {#4}Question 17.A. Her greatest influence came from the dance roles she performed before becoming a choreographer.B. She became famous mainly because of the student production in which she was injured.C. Her career had therefore moved from performing other people's choreography to creating work that others continued to perform.D. Her later career had little connection with what happened to her at the conservatory.Write A, B, C, or D - {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. during university, linh joined the campus photography club and began documenting everyday life in the city. b. linh grew up in a coastal town, where her grandfather taught her how to use his old camera. c. one of her photo series was later selected for a national youth exhibition. d. after secondary school, she moved to the city to study communications. e. the recognition encouraged her to pursue documentary photography professionally. a. b – a – d – c – e b. d – b – a – e – c c. b – d – a – c – e d. b – d – c – a – e write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. During university, Linh joined the campus photography club and began documenting everyday life in the city. b. Linh grew up in a coastal town, where her grandfather taught her how to use his old camera. c. One of her photo series was later selected for a national youth exhibition. d. After secondary school, she moved to the city to study communications. e. The recognition encouraged her to pursue documentary photography professionally. A. b – a – d – c – e B. d – b – a – e – c C. b – d – a – c – e D. b – d – c – a – e Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. During university, Linh joined the campus photography club and began documenting everyday life in the city. b. Linh grew up in a coastal town, where her grandfather taught her how to use his old camera. c. One of her photo series was later selected for a national youth exhibition. d. After secondary school, she moved to the city to study communications. e. The recognition encouraged her to pursue documentary photography professionally. A. b – a – d – c – e B. d – b – a – e – c C. b – d – a – c – e D. b – d – c – a – e Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. lan: thank you. we spent weeks working on it. b. nam: that's wonderful! i'm really pleased to hear that. c. lan: i've just heard that our biography project won first prize! d. nam: you deserve it. congratulations! a. a – c – b – d b. b – a – d – c c. d – a – b – c d. c – b – a – d write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Lan: Thank you. We spent weeks working on it. b. Nam: That's wonderful! I'm really pleased to hear that. c. Lan: I've just heard that our biography project won first prize! d. Nam: You deserve it. Congratulations! A. a – c – b – d B. b – a – d – c C. d – a – b – c D. c – b – a – d Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Lan: Thank you. We spent weeks working on it. b. Nam: That's wonderful! I'm really pleased to hear that. c. Lan: I've just heard that our biography project won first prize! d. Nam: You deserve it. Congratulations! A. a – c – b – d B. b – a – d – c C. d – a – b – c D. c – b – a – d Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. student: what made you choose nursing as a career? b. ms hoa: when i was a teenager, my grandmother became seriously ill, and i helped care for her. c. student: good morning, ms hoa. thank you for speaking with our class today. d. ms hoa: you're welcome. i'm very happy to be here. e. student: and what achievement are you most proud of? f. ms hoa: setting up a free health-check programme in my hometown. a. c – a – b – d – e – f b. c – d – a – b – e – f c. a – b – c – d – e – f d. c – d – e – f – b – a write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Student: What made you choose nursing as a career? b. Ms Hoa: When I was a teenager, my grandmother became seriously ill, and I helped care for her. c. Student: Good morning, Ms Hoa. Thank you for speaking with our class today. d. Ms Hoa: You're welcome. I'm very happy to be here. e. Student: And what achievement are you most proud of? f. Ms Hoa: Setting up a free health-check programme in my hometown. A. c – a – b – d – e – f B. c – d – a – b – e – f C. a – b – c – d – e – f D. c – d – e – f – b – a Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Student: What made you choose nursing as a career? b. Ms Hoa: When I was a teenager, my grandmother became seriously ill, and I helped care for her. c. Student: Good morning, Ms Hoa. Thank you for speaking with our class today. d. Ms Hoa: You're welcome. I'm very happy to be here. e. Student: And what achievement are you most proud of? f. Ms Hoa: Setting up a free health-check programme in my hometown. A. c – a – b – d – e – f B. c – d – a – b – e – f C. a – b – c – d – e – f D. c – d – e – f – b – a Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. the award recognises her twenty years of work teaching children in remote communities. b. we are pleased to announce that ms mai huong will receive this year's community education award. c. the presentation will take place in the school hall at 9:00 a.m. on friday. d. after receiving the award, she will give a short talk about the teachers who inspired her. a. b – a – d – c b. a – b – d – c c. b – c – d – a d. d – b – a – c write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. The award recognises her twenty years of work teaching children in remote communities. b. We are pleased to announce that Ms Mai Huong will receive this year's Community Education Award. c. The presentation will take place in the school hall at 9:00 a.m. on Friday. d. After receiving the award, she will give a short talk about the teachers who inspired her. A. b – a – d – c B. a – b – d – c C. b – c – d – a D. d – b – a – c Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. The award recognises her twenty years of work teaching children in remote communities. b. We are pleased to announce that Ms Mai Huong will receive this year's Community Education Award. c. The presentation will take place in the school hall at 9:00 a.m. on Friday. d. After receiving the award, she will give a short talk about the teachers who inspired her. A. b – a – d – c B. a – b – d – c C. b – c – d – a D. d – b – a – c Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. years later, she opened a free evening school for factory workers. b. maria grew up in a family that could not afford many books. c. her project eventually helped hundreds of adults learn to read. d. after becoming a teacher, she began offering free lessons in her home. a. b – d – a – c b. d – b – c – a c. c – a – d – b d. a – c – b – d write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Years later, she opened a free evening school for factory workers. b. Maria grew up in a family that could not afford many books. c. Her project eventually helped hundreds of adults learn to read. d. After becoming a teacher, she began offering free lessons in her home. A. b – d – a – c B. d – b – c – a C. c – a – d – b D. a – c – b – d Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Years later, she opened a free evening school for factory workers. b. Maria grew up in a family that could not afford many books. c. Her project eventually helped hundreds of adults learn to read. d. After becoming a teacher, she began offering free lessons in her home. A. b – d – a – c B. d – b – c – a C. c – a – d – b D. a – c – b – d Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 23 what is the main idea of the passage? a. mina’s university education prepared her mainly for a successful career in economics.b. mina grew from a hesitant language learner into a successful writer shaped by her experiences.c. mina became successful because her first novel was quickly accepted by a major publisher.d. mina’s move to canada gradually made her less interested in her childhood experiences. write a, b, c, or d - question 24 the word “hesitant” in paragraph 1 is closest in meaning to ______. a. uncertainb. cheerfulc. impatientd. careless write a, b, c, or d - question 25 the phrase “this habit” in paragraph 1 refers to mina’s habit of ______. a. speaking english mainly when she was taking part in classroom activitiesb. travelling regularly between south korea and canada with her familyc. recording observations and expressions she noticed in a small notebookd. reading economics textbooks while travelling around the city by bus write a, b, c, or d - question 26 what happened during mina’s final year at university? a. she left university and started working for a publishing company.b. one of the book reviews she wrote won a university prize.c. her first novel was published and translated into several languages.d. she stopped studying economics and changed to a writing course. write a, b, c, or d - question 27 which of the following is not true according to the passage? a. mina continued writing while she was employed by an insurance company.b. several publishers rejected the first version of mina’s novel manuscript.c. her grandparents’ memories influenced parts of the novel she later revised.d. mina regularly gave large public speeches after becoming a successful writer. write a, b, c, or d - question 28 which of the following best paraphrases the sentence “rather than abandoning it, mina studied the comments she had received and rewrote large sections of the book”? a. mina ignored the publishers’ comments and sent them the same manuscript again.b. mina stopped working on the novel and started an entirely different book instead.c. mina used the feedback she received to make major changes to the manuscript.d. mina asked the publishers to revise large parts of the novel on her behalf. write a, b, c, or d - question 29 what is the main purpose of paragraph 3? a. to show how mina dealt with rejection and eventually succeeded in publishing her novelb. to describe the university subjects mina studied and the ones she enjoyed mostc. to compare mina’s novels with the stories and memories of her grandparentsd. to explain why mina considered insurance work more suitable than professional writing write a, b, c, or d - question 30 what can be inferred from the passage about mina’s experiences of living in different cultures? a. they made her less interested in writing stories about family relationships.b. they later provided some of the material and themes for her writing.c. they eventually persuaded her to write her novels only in korean.d. they made it difficult for her to become a full-time professional writer. write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. Mina’s university education prepared her mainly for a successful career in economics.B. Mina grew from a hesitant language learner into a successful writer shaped by her experiences.C. Mina became successful because her first novel was quickly accepted by a major publisher.D. Mina’s move to Canada gradually made her less interested in her childhood experiences. Write A, B, C, or D - {#1} Question 24 The word “hesitant” in paragraph 1 is closest in meaning to ______. A. uncertainB. cheerfulC. impatientD. careless Write A, B, C, or D - {#2} Question 25 The phrase “This habit” in paragraph 1 refers to Mina’s habit of ______. A. speaking English mainly when she was taking part in classroom activitiesB. travelling regularly between South Korea and Canada with her familyC. recording observations and expressions she noticed in a small notebookD. reading economics textbooks while travelling around the city by bus Write A, B, C, or D - {#3} Question 26 What happened during Mina’s final year at university? A. She left university and started working for a publishing company.B. One of the book reviews she wrote won a university prize.C. Her first novel was published and translated into several languages.D. She stopped studying economics and changed to a writing course. Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Mina continued writing while she was employed by an insurance company.B. Several publishers rejected the first version of Mina’s novel manuscript.C. Her grandparents’ memories influenced parts of the novel she later revised.D. Mina regularly gave large public speeches after becoming a successful writer. Write A, B, C, or D - {#5} Question 28 Which of the following best paraphrases the sentence “Rather than abandoning it, Mina studied the comments she had received and rewrote large sections of the book”? A. Mina ignored the publishers’ comments and sent them the same manuscript again.B. Mina stopped working on the novel and started an entirely different book instead.C. Mina used the feedback she received to make major changes to the manuscript.D. Mina asked the publishers to revise large parts of the novel on her behalf. Write A, B, C, or D - {#6} Question 29 What is the main purpose of paragraph 3? A. To show how Mina dealt with rejection and eventually succeeded in publishing her novelB. To describe the university subjects Mina studied and the ones she enjoyed mostC. To compare Mina’s novels with the stories and memories of her grandparentsD. To explain why Mina considered insurance work more suitable than professional writing Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage about Mina’s experiences of living in different cultures? A. They made her less interested in writing stories about family relationships.B. They later provided some of the material and themes for her writing.C. They eventually persuaded her to write her novels only in Korean.D. They made it difficult for her to become a full-time professional writer. Write A, B, C, or D - {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. Mina’s university education prepared her mainly for a successful career in economics.B. Mina grew from a hesitant language learner into a successful writer shaped by her experiences.C. Mina became successful because her first novel was quickly accepted by a major publisher.D. Mina’s move to Canada gradually made her less interested in her childhood experiences. Write A, B, C, or D - {#1} Question 24 The word “hesitant” in paragraph 1 is closest in meaning to ______. A. uncertainB. cheerfulC. impatientD. careless Write A, B, C, or D - {#2} Question 25 The phrase “This habit” in paragraph 1 refers to Mina’s habit of ______. A. speaking English mainly when she was taking part in classroom activitiesB. travelling regularly between South Korea and Canada with her familyC. recording observations and expressions she noticed in a small notebookD. reading economics textbooks while travelling around the city by bus Write A, B, C, or D - {#3} Question 26 What happened during Mina’s final year at university? A. She left university and started working for a publishing company.B. One of the book reviews she wrote won a university prize.C. Her first novel was published and translated into several languages.D. She stopped studying economics and changed to a writing course. Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Mina continued writing while she was employed by an insurance company.B. Several publishers rejected the first version of Mina’s novel manuscript.C. Her grandparents’ memories influenced parts of the novel she later revised.D. Mina regularly gave large public speeches after becoming a successful writer. Write A, B, C, or D - {#5} Question 28 Which of the following best paraphrases the sentence “Rather than abandoning it, Mina studied the comments she had received and rewrote large sections of the book”? A. Mina ignored the publishers’ comments and sent them the same manuscript again.B. Mina stopped working on the novel and started an entirely different book instead.C. Mina used the feedback she received to make major changes to the manuscript.D. Mina asked the publishers to revise large parts of the novel on her behalf. Write A, B, C, or D - {#6} Question 29 What is the main purpose of paragraph 3? A. To show how Mina dealt with rejection and eventually succeeded in publishing her novelB. To describe the university subjects Mina studied and the ones she enjoyed mostC. To compare Mina’s novels with the stories and memories of her grandparentsD. To explain why Mina considered insurance work more suitable than professional writing Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage about Mina’s experiences of living in different cultures? A. They made her less interested in writing stories about family relationships.B. They later provided some of the material and themes for her writing.C. They eventually persuaded her to write her novels only in Korean.D. They made it difficult for her to become a full-time professional writer. Write A, B, C, or D - {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 31 the phrase “turning point” in paragraph 2 is closest in meaning to ______. a. a problem that happens repeatedlyb. a result that was already expectedc. an event that causes an important changed. a period spent in formal education write a, b, c, or d - question 32 according to paragraph 1, which event happened before daniel received a scholarship to study civil engineering? a. he won a regional mathematics competition.b. he began working for a nonprofit organisation.c. he met a nurse after a landslide blocked a road.d. he joined a large company working on construction projects. write a, b, c, or d - question 33 the phrase “this decision” in paragraph 3 refers to daniel’s decision to ______. a. continue working mainly on large construction projects in the cityb. accept a lower-paid position with a nonprofit organisationc. enter a regional mathematics competition while still at schoold. study civil engineering at university with financial support write a, b, c, or d - question 34 which of the following best paraphrases the sentence “he began to see transport design not simply as a technical problem but as a form of public service”? a. daniel came to believe that public transport should be provided without charge.b. daniel began to think that technical accuracy was the main goal of engineering.c. daniel gradually lost interest in transport systems after speaking to the nurse.d. daniel realised that transport engineering could directly improve people’s lives. write a, b, c, or d - question 35 what can be inferred about daniel’s reason for moving to the nonprofit organisation? a. he wanted his engineering work to respond more directly to the practical needs of rural communities.b. he had become unable to find suitable engineering work with construction companies in cities.c. he wanted to leave transport engineering and begin working in a completely different field.d. he believed nonprofit organisations normally offered engineers better salaries and working conditions. write a, b, c, or d - question 36 where in paragraph 4 does the following sentence best fit? their local knowledge changed the direction of the project. a. [i]b. [ii]c. [iii]d. [iv] write a, b, c, or d - question 37 what is the main purpose of paragraph 4? a. to explain why local farmers preferred rural roads to roads built in citiesb. to compare the salaries available at two different engineering organisationsc. to show how daniel combined technical knowledge with information from local peopled. to describe the mathematics competition daniel entered while he was a student write a, b, c, or d - question 38 which of the following is not supported by the passage? a. daniel listened to community members before completing some of his project designs.b. one rural road design was changed because seasonal flooding caused practical problems.c. daniel later taught younger engineers to ask local residents about their actual needs.d. daniel believed technical expertise should be used instead of knowledge from local people. write a, b, c, or d - question 39 which of the following best summarises the passage? a. daniel built a successful career mainly through high-paying jobs and major construction projects in cities.b. daniel’s early interests and later experiences led him toward community-centred engineering and teaching others that approach.c. daniel’s childhood travels caused him to dislike transport systems until he began studying engineering at university.d. daniel created one successful road design that was later repeated unchanged in more than sixty communities. write a, b, c, or d - question 40 which of the following is the best title for the passage? a. listening before building: an engineer’s life of serviceb. from railway maps to rural roads: a career in engineeringc. why engineering salaries differ between urban and rural areasd. the mathematics competition that changed an engineer’s life write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The phrase “turning point” in paragraph 2 is closest in meaning to ______. A. a problem that happens repeatedlyB. a result that was already expectedC. an event that causes an important changeD. a period spent in formal education Write A, B, C, or D - {#1} Question 32 According to paragraph 1, which event happened before Daniel received a scholarship to study civil engineering? A. He won a regional mathematics competition.B. He began working for a nonprofit organisation.C. He met a nurse after a landslide blocked a road.D. He joined a large company working on construction projects. Write A, B, C, or D - {#2} Question 33 The phrase “This decision” in paragraph 3 refers to Daniel’s decision to ______. A. continue working mainly on large construction projects in the cityB. accept a lower-paid position with a nonprofit organisationC. enter a regional mathematics competition while still at schoolD. study civil engineering at university with financial support Write A, B, C, or D - {#3} Question 34 Which of the following best paraphrases the sentence “he began to see transport design not simply as a technical problem but as a form of public service”? A. Daniel came to believe that public transport should be provided without charge.B. Daniel began to think that technical accuracy was the main goal of engineering.C. Daniel gradually lost interest in transport systems after speaking to the nurse.D. Daniel realised that transport engineering could directly improve people’s lives. Write A, B, C, or D - {#4} Question 35 What can be inferred about Daniel’s reason for moving to the nonprofit organisation? A. He wanted his engineering work to respond more directly to the practical needs of rural communities.B. He had become unable to find suitable engineering work with construction companies in cities.C. He wanted to leave transport engineering and begin working in a completely different field.D. He believed nonprofit organisations normally offered engineers better salaries and working conditions. Write A, B, C, or D - {#5} Question 36 Where in paragraph 4 does the following sentence best fit? Their local knowledge changed the direction of the project. A. [I]B. [II]C. [III]D. [IV] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 4? A. To explain why local farmers preferred rural roads to roads built in citiesB. To compare the salaries available at two different engineering organisationsC. To show how Daniel combined technical knowledge with information from local peopleD. To describe the mathematics competition Daniel entered while he was a student Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Daniel listened to community members before completing some of his project designs.B. One rural road design was changed because seasonal flooding caused practical problems.C. Daniel later taught younger engineers to ask local residents about their actual needs.D. Daniel believed technical expertise should be used instead of knowledge from local people. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. Daniel built a successful career mainly through high-paying jobs and major construction projects in cities.B. Daniel’s early interests and later experiences led him toward community-centred engineering and teaching others that approach.C. Daniel’s childhood travels caused him to dislike transport systems until he began studying engineering at university.D. Daniel created one successful road design that was later repeated unchanged in more than sixty communities. Write A, B, C, or D - {#9} Question 40 Which of the following is the best title for the passage? A. Listening Before Building: An Engineer’s Life of ServiceB. From Railway Maps to Rural Roads: A Career in EngineeringC. Why Engineering Salaries Differ Between Urban and Rural AreasD. The Mathematics Competition That Changed an Engineer’s Life Write A, B, C, or D - {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The phrase “turning point” in paragraph 2 is closest in meaning to ______. A. a problem that happens repeatedlyB. a result that was already expectedC. an event that causes an important changeD. a period spent in formal education Write A, B, C, or D - {#1} Question 32 According to paragraph 1, which event happened before Daniel received a scholarship to study civil engineering? A. He won a regional mathematics competition.B. He began working for a nonprofit organisation.C. He met a nurse after a landslide blocked a road.D. He joined a large company working on construction projects. Write A, B, C, or D - {#2} Question 33 The phrase “This decision” in paragraph 3 refers to Daniel’s decision to ______. A. continue working mainly on large construction projects in the cityB. accept a lower-paid position with a nonprofit organisationC. enter a regional mathematics competition while still at schoolD. study civil engineering at university with financial support Write A, B, C, or D - {#3} Question 34 Which of the following best paraphrases the sentence “he began to see transport design not simply as a technical problem but as a form of public service”? A. Daniel came to believe that public transport should be provided without charge.B. Daniel began to think that technical accuracy was the main goal of engineering.C. Daniel gradually lost interest in transport systems after speaking to the nurse.D. Daniel realised that transport engineering could directly improve people’s lives. Write A, B, C, or D - {#4} Question 35 What can be inferred about Daniel’s reason for moving to the nonprofit organisation? A. He wanted his engineering work to respond more directly to the practical needs of rural communities.B. He had become unable to find suitable engineering work with construction companies in cities.C. He wanted to leave transport engineering and begin working in a completely different field.D. He believed nonprofit organisations normally offered engineers better salaries and working conditions. Write A, B, C, or D - {#5} Question 36 Where in paragraph 4 does the following sentence best fit? Their local knowledge changed the direction of the project. A. [I]B. [II]C. [III]D. [IV] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 4? A. To explain why local farmers preferred rural roads to roads built in citiesB. To compare the salaries available at two different engineering organisationsC. To show how Daniel combined technical knowledge with information from local peopleD. To describe the mathematics competition Daniel entered while he was a student Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Daniel listened to community members before completing some of his project designs.B. One rural road design was changed because seasonal flooding caused practical problems.C. Daniel later taught younger engineers to ask local residents about their actual needs.D. Daniel believed technical expertise should be used instead of knowledge from local people. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. Daniel built a successful career mainly through high-paying jobs and major construction projects in cities.B. Daniel’s early interests and later experiences led him toward community-centred engineering and teaching others that approach.C. Daniel’s childhood travels caused him to dislike transport systems until he began studying engineering at university.D. Daniel created one successful road design that was later repeated unchanged in more than sixty communities. Write A, B, C, or D - {#9} Question 40 Which of the following is the best title for the passage? A. Listening Before Building: An Engineer’s Life of ServiceB. From Railway Maps to Rural Roads: A Career in EngineeringC. Why Engineering Salaries Differ Between Urban and Rural AreasD. The Mathematics Competition That Changed an Engineer’s Life Write A, B, C, or D - {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. impressive",
+      "id": "question-1899657-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following competition notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. young biographers competition do you enjoy discovering the stories behind successful people? write a short profile of a person whose life deserves to be remembered. your entry should describe the person's childhood, education, career, and most (7) {#1} achievements. if the person faced difficulties when young, explain how those experiences (8) {#2} his or her later choices. do not simply list dates. show what the person was doing when an important event (9) {#3} and why that event mattered. you should also explain what the person is admired (10) {#4} and how his or her work influenced other people. entries must be between 350 and 450 words. selected students will (11) {#5} part in a biography-writing workshop with local writers. before submitting your profile, make sure you (12) {#6} reliable historical sources, especially when writing about events that happened long before you were born.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following competition notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. YOUNG BIOGRAPHERS COMPETITION Do you enjoy discovering the stories behind successful people? Write a short profile of a person whose life deserves to be remembered. Your entry should describe the person's childhood, education, career, and most (7) [Blank 7] achievements. If the person faced difficulties when young, explain how those experiences (8) [Blank 8] his or her later choices. Do not simply list dates. Show what the person was doing when an important event (9) [Blank 9] and why that event mattered. You should also explain what the person is admired (10) [Blank 10] and how his or her work influenced other people. Entries must be between 350 and 450 words. Selected students will (11) [Blank 11] part in a biography-writing workshop with local writers. Before submitting your profile, make sure you (12) [Blank 12] reliable historical sources, especially when writing about events that happened long before you were born.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.impressivelyB.impressC.impressiveD.impressionÔ (8):A.affectedB.were affectingC.affectD.have affectedÔ (9):A.happenedB.was happeningC.happensD.has happenedÔ (10):A.toB.forC.aboutD.withÔ (11):A.makeB.doC.takeD.joinÔ (12):A.attendB.consultC.devoteD.admire",
+      "questionId": "question-1899657-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following competition notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. young biographers competition do you enjoy discovering the stories behind successful people? write a short profile of a person whose life deserves to be remembered. your entry should describe the person's childhood, education, career, and most (7) [blank 7] achievements. if the person faced difficulties when young, explain how those experiences (8) [blank 8] his or her later choices. do not simply list dates. show what the person was doing when an important event (9) [blank 9] and why that event mattered. you should also explain what the person is admired (10) [blank 10] and how his or her work influenced other people. entries must be between 350 and 450 words. selected students will (11) [blank 11] part in a biography-writing workshop with local writers. before submitting your profile, make sure you (12) [blank 12] reliable historical sources, especially when writing about events that happened long before you were born.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.impressivelyb.impressc.impressived.impressionô (8):a.affectedb.were affectingc.affectd.have affectedô (9):a.happenedb.was happeningc.happensd.has happenedô (10):a.tob.forc.aboutd.withô (11):a.makeb.doc.taked.joinô (12):a.attendb.consultc.devoted.admire",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. impressive"
+        },
+        {
+          "index": 1,
+          "value": "A. affected"
+        },
+        {
+          "index": 2,
+          "value": "A. happened"
+        },
+        {
+          "index": 3,
+          "value": "B. for"
+        },
+        {
+          "index": 4,
+          "value": "C. take"
+        },
+        {
+          "index": 5,
+          "value": "B. consult"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A. devoted",
+      "id": "question-1899657-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following school announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. lives that inspire — school library exhibition one section tells the story of dr tran lan, a doctor who (1) {#1} her life to caring for children in remote areas. after she (2) {#2} from medical school in 1998, she began working at a provincial hospital. in 2002, while she (3) {#3} at a mountain clinic, a severe flood cut the village off from the surrounding area. she stayed and treated patients until help arrived. her courage and professional skill were widely (4) {#4}. visitors can also explore the stories of people who (5) {#5} school or college but later found a different path to success. the exhibition ends with one important question: what makes a life story truly (6) {#6}?",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following school announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. LIVES THAT INSPIRE — SCHOOL LIBRARY EXHIBITION One section tells the story of Dr Tran Lan, a doctor who (1) [Blank 1] her life to caring for children in remote areas. After she (2) [Blank 2] from medical school in 1998, she began working at a provincial hospital. In 2002, while she (3) [Blank 3] at a mountain clinic, a severe flood cut the village off from the surrounding area. She stayed and treated patients until help arrived. Her courage and professional skill were widely (4) [Blank 4] . Visitors can also explore the stories of people who (5) [Blank 5] school or college but later found a different path to success. The exhibition ends with one important question: What makes a life story truly (6) [Blank 6] ?📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.devotedB.attendedC.droppedD.admiredÔ (2):A.graduatesB.graduatedC.has graduatedD.was graduatingÔ (3):A.was workingB.workedC.worksD.has workedÔ (4):A.admiredB.impressiveC.attendingD.difficultÔ (5):A.dropped out ofB.admired forC.devoted themselvesD.passed away fromÔ (6):A.inspireB.inspiringC.inspiredD.inspiration",
+      "questionId": "question-1899657-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following school announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. lives that inspire — school library exhibition one section tells the story of dr tran lan, a doctor who (1) [blank 1] her life to caring for children in remote areas. after she (2) [blank 2] from medical school in 1998, she began working at a provincial hospital. in 2002, while she (3) [blank 3] at a mountain clinic, a severe flood cut the village off from the surrounding area. she stayed and treated patients until help arrived. her courage and professional skill were widely (4) [blank 4] . visitors can also explore the stories of people who (5) [blank 5] school or college but later found a different path to success. the exhibition ends with one important question: what makes a life story truly (6) [blank 6] ?📋bảng lựa chọn các ô trống (cloze options):ô (1):a.devotedb.attendedc.droppedd.admiredô (2):a.graduatesb.graduatedc.has graduatedd.was graduatingô (3):a.was workingb.workedc.worksd.has workedô (4):a.admiredb.impressivec.attendingd.difficultô (5):a.dropped out ofb.admired forc.devoted themselvesd.passed away fromô (6):a.inspireb.inspiringc.inspiredd.inspiration",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. devoted"
+        },
+        {
+          "index": 1,
+          "value": "B. graduated"
+        },
+        {
+          "index": 2,
+          "value": "A. was working"
+        },
+        {
+          "index": 3,
+          "value": "A. admired"
+        },
+        {
+          "index": 4,
+          "value": "A. dropped out of"
+        },
+        {
+          "index": 5,
+          "value": "B. inspiring"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1899657-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. sofia mendes: from dancer to choreographer sofia mendes first saw a professional ballet performance when she was seven. she was fascinated not only by the dancers but also by the way music and movement could tell a story. (13) ______. by the time she was twelve, she was attending dance classes six days a week. at seventeen, sofia received a scholarship to study at a performing-arts conservatory. during her second year, while she was rehearsing for a student production, she injured her ankle. (14) ______. for several months, she could not perform, so she spent more time observing rehearsals and helping one of her teachers plan movements for younger dancers. it was during this period that she discovered an interest in choreography. after graduation, sofia joined a small contemporary dance company. she performed in ensemble roles and created short pieces for company workshops. (15) ______. one of those pieces was later selected for a national festival, where it attracted the attention of an artistic director. the director invited sofia to create a full-length work. (16) ______. the production combined traditional music with modern movement and received strong reviews. it toured six cities the following year. sofia eventually stopped performing and concentrated entirely on choreography. she later became the artistic director of a major dance company. (17) ______. looking back, sofia often said that the injury she once feared would end her career had unexpectedly opened another path. question 13.a. her family moved to another city shortly after the performance.b. at first, she was more interested in the costumes than in learning to dance herself.c. she soon began copying short sequences at home and inventing movements of her own.d. she did not begin formal dance training until after she had finished university.write a, b, c, or d - {#1}question 14.a. her classmates completed the production several months before the accident occurred.b. doctors expected her to recover, but they told her to stop dancing for a period of time.c. she immediately decided to leave the conservatory and study music instead.d. the injury occurred after she had already completed her training.write a, b, c, or d - {#2}question 15.a. sofia preferred performing, so she refused to show the director any of her own work.b. the company required its dancers to stop performing after their first season.c. most of the workshops were cancelled before sofia could present her choreography.d. although the company was small, its director encouraged dancers to experiment with ideas of their own.write a, b, c, or d - {#3}question 16.a. it was the first time sofia had been responsible for an entire evening-length production.b. sofia accepted the invitation but asked another choreographer to create every scene.c. by then, she had decided that her future productions would contain no music.d. the festival organisers refused to allow her to develop any new material.write a, b, c, or d - {#4}question 17.a. her greatest influence came from the dance roles she performed before becoming a choreographer.b. she became famous mainly because of the student production in which she was injured.c. her career had therefore moved from performing other people's choreography to creating work that others continued to perform.d. her later career had little connection with what happened to her at the conservatory.write a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SOFIA MENDES: FROM DANCER TO CHOREOGRAPHER Sofia Mendes first saw a professional ballet performance when she was seven. She was fascinated not only by the dancers but also by the way music and movement could tell a story. (13) ______. By the time she was twelve, she was attending dance classes six days a week. At seventeen, Sofia received a scholarship to study at a performing-arts conservatory. During her second year, while she was rehearsing for a student production, she injured her ankle. (14) ______. For several months, she could not perform, so she spent more time observing rehearsals and helping one of her teachers plan movements for younger dancers. It was during this period that she discovered an interest in choreography. After graduation, Sofia joined a small contemporary dance company. She performed in ensemble roles and created short pieces for company workshops. (15) ______. One of those pieces was later selected for a national festival, where it attracted the attention of an artistic director. The director invited Sofia to create a full-length work. (16) ______. The production combined traditional music with modern movement and received strong reviews. It toured six cities the following year. Sofia eventually stopped performing and concentrated entirely on choreography. She later became the artistic director of a major dance company. (17) ______. Looking back, Sofia often said that the injury she once feared would end her career had unexpectedly opened another path. Question 13.A. Her family moved to another city shortly after the performance.B. At first, she was more interested in the costumes than in learning to dance herself.C. She soon began copying short sequences at home and inventing movements of her own.D. She did not begin formal dance training until after she had finished university.Write A, B, C, or D - {#1}Question 14.A. Her classmates completed the production several months before the accident occurred.B. Doctors expected her to recover, but they told her to stop dancing for a period of time.C. She immediately decided to leave the conservatory and study music instead.D. The injury occurred after she had already completed her training.Write A, B, C, or D - {#2}Question 15.A. Sofia preferred performing, so she refused to show the director any of her own work.B. The company required its dancers to stop performing after their first season.C. Most of the workshops were cancelled before Sofia could present her choreography.D. Although the company was small, its director encouraged dancers to experiment with ideas of their own.Write A, B, C, or D - {#3}Question 16.A. It was the first time Sofia had been responsible for an entire evening-length production.B. Sofia accepted the invitation but asked another choreographer to create every scene.C. By then, she had decided that her future productions would contain no music.D. The festival organisers refused to allow her to develop any new material.Write A, B, C, or D - {#4}Question 17.A. Her greatest influence came from the dance roles she performed before becoming a choreographer.B. She became famous mainly because of the student production in which she was injured.C. Her career had therefore moved from performing other people's choreography to creating work that others continued to perform.D. Her later career had little connection with what happened to her at the conservatory.Write A, B, C, or D - {#5}",
+      "questionId": "question-1899657-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. sofia mendes: from dancer to choreographer sofia mendes first saw a professional ballet performance when she was seven. she was fascinated not only by the dancers but also by the way music and movement could tell a story. (13) ______. by the time she was twelve, she was attending dance classes six days a week. at seventeen, sofia received a scholarship to study at a performing-arts conservatory. during her second year, while she was rehearsing for a student production, she injured her ankle. (14) ______. for several months, she could not perform, so she spent more time observing rehearsals and helping one of her teachers plan movements for younger dancers. it was during this period that she discovered an interest in choreography. after graduation, sofia joined a small contemporary dance company. she performed in ensemble roles and created short pieces for company workshops. (15) ______. one of those pieces was later selected for a national festival, where it attracted the attention of an artistic director. the director invited sofia to create a full-length work. (16) ______. the production combined traditional music with modern movement and received strong reviews. it toured six cities the following year. sofia eventually stopped performing and concentrated entirely on choreography. she later became the artistic director of a major dance company. (17) ______. looking back, sofia often said that the injury she once feared would end her career had unexpectedly opened another path. question 13.a. her family moved to another city shortly after the performance.b. at first, she was more interested in the costumes than in learning to dance herself.c. she soon began copying short sequences at home and inventing movements of her own.d. she did not begin formal dance training until after she had finished university.write a, b, c, or d - {#1}question 14.a. her classmates completed the production several months before the accident occurred.b. doctors expected her to recover, but they told her to stop dancing for a period of time.c. she immediately decided to leave the conservatory and study music instead.d. the injury occurred after she had already completed her training.write a, b, c, or d - {#2}question 15.a. sofia preferred performing, so she refused to show the director any of her own work.b. the company required its dancers to stop performing after their first season.c. most of the workshops were cancelled before sofia could present her choreography.d. although the company was small, its director encouraged dancers to experiment with ideas of their own.write a, b, c, or d - {#3}question 16.a. it was the first time sofia had been responsible for an entire evening-length production.b. sofia accepted the invitation but asked another choreographer to create every scene.c. by then, she had decided that her future productions would contain no music.d. the festival organisers refused to allow her to develop any new material.write a, b, c, or d - {#4}question 17.a. her greatest influence came from the dance roles she performed before becoming a choreographer.b. she became famous mainly because of the student production in which she was injured.c. her career had therefore moved from performing other people's choreography to creating work that others continued to perform.d. her later career had little connection with what happened to her at the conservatory.write a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1899657-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. years later, she opened a free evening school for factory workers. b. maria grew up in a family that could not afford many books. c. her project eventually helped hundreds of adults learn to read. d. after becoming a teacher, she began offering free lessons in her home. a. b – d – a – c b. d – b – c – a c. c – a – d – b d. a – c – b – d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Years later, she opened a free evening school for factory workers. b. Maria grew up in a family that could not afford many books. c. Her project eventually helped hundreds of adults learn to read. d. After becoming a teacher, she began offering free lessons in her home. A. b – d – a – c B. d – b – c – a C. c – a – d – b D. a – c – b – d Write A, B, C, or D - {#1}",
+      "questionId": "question-1899657-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. years later, she opened a free evening school for factory workers. b. maria grew up in a family that could not afford many books. c. her project eventually helped hundreds of adults learn to read. d. after becoming a teacher, she began offering free lessons in her home. a. b – d – a – c b. d – b – c – a c. c – a – d – b d. a – c – b – d write a, b, c, or d - {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1899657-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. the award recognises her twenty years of work teaching children in remote communities. b. we are pleased to announce that ms mai huong will receive this year's community education award. c. the presentation will take place in the school hall at 9:00 a.m. on friday. d. after receiving the award, she will give a short talk about the teachers who inspired her. a. b – a – d – c b. a – b – d – c c. b – c – d – a d. d – b – a – c write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. The award recognises her twenty years of work teaching children in remote communities. b. We are pleased to announce that Ms Mai Huong will receive this year's Community Education Award. c. The presentation will take place in the school hall at 9:00 a.m. on Friday. d. After receiving the award, she will give a short talk about the teachers who inspired her. A. b – a – d – c B. a – b – d – c C. b – c – d – a D. d – b – a – c Write A, B, C, or D - {#1}",
+      "questionId": "question-1899657-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. the award recognises her twenty years of work teaching children in remote communities. b. we are pleased to announce that ms mai huong will receive this year's community education award. c. the presentation will take place in the school hall at 9:00 a.m. on friday. d. after receiving the award, she will give a short talk about the teachers who inspired her. a. b – a – d – c b. a – b – d – c c. b – c – d – a d. d – b – a – c write a, b, c, or d - {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1899657-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. student: what made you choose nursing as a career? b. ms hoa: when i was a teenager, my grandmother became seriously ill, and i helped care for her. c. student: good morning, ms hoa. thank you for speaking with our class today. d. ms hoa: you're welcome. i'm very happy to be here. e. student: and what achievement are you most proud of? f. ms hoa: setting up a free health-check programme in my hometown. a. c – a – b – d – e – f b. c – d – a – b – e – f c. a – b – c – d – e – f d. c – d – e – f – b – a write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Student: What made you choose nursing as a career? b. Ms Hoa: When I was a teenager, my grandmother became seriously ill, and I helped care for her. c. Student: Good morning, Ms Hoa. Thank you for speaking with our class today. d. Ms Hoa: You're welcome. I'm very happy to be here. e. Student: And what achievement are you most proud of? f. Ms Hoa: Setting up a free health-check programme in my hometown. A. c – a – b – d – e – f B. c – d – a – b – e – f C. a – b – c – d – e – f D. c – d – e – f – b – a Write A, B, C, or D - {#1}",
+      "questionId": "question-1899657-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. student: what made you choose nursing as a career? b. ms hoa: when i was a teenager, my grandmother became seriously ill, and i helped care for her. c. student: good morning, ms hoa. thank you for speaking with our class today. d. ms hoa: you're welcome. i'm very happy to be here. e. student: and what achievement are you most proud of? f. ms hoa: setting up a free health-check programme in my hometown. a. c – a – b – d – e – f b. c – d – a – b – e – f c. a – b – c – d – e – f d. c – d – e – f – b – a write a, b, c, or d - {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1899657-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. lan: thank you. we spent weeks working on it. b. nam: that's wonderful! i'm really pleased to hear that. c. lan: i've just heard that our biography project won first prize! d. nam: you deserve it. congratulations! a. a – c – b – d b. b – a – d – c c. d – a – b – c d. c – b – a – d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Lan: Thank you. We spent weeks working on it. b. Nam: That's wonderful! I'm really pleased to hear that. c. Lan: I've just heard that our biography project won first prize! d. Nam: You deserve it. Congratulations! A. a – c – b – d B. b – a – d – c C. d – a – b – c D. c – b – a – d Write A, B, C, or D - {#1}",
+      "questionId": "question-1899657-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. lan: thank you. we spent weeks working on it. b. nam: that's wonderful! i'm really pleased to hear that. c. lan: i've just heard that our biography project won first prize! d. nam: you deserve it. congratulations! a. a – c – b – d b. b – a – d – c c. d – a – b – c d. c – b – a – d write a, b, c, or d - {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1899657-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. during university, linh joined the campus photography club and began documenting everyday life in the city. b. linh grew up in a coastal town, where her grandfather taught her how to use his old camera. c. one of her photo series was later selected for a national youth exhibition. d. after secondary school, she moved to the city to study communications. e. the recognition encouraged her to pursue documentary photography professionally. a. b – a – d – c – e b. d – b – a – e – c c. b – d – a – c – e d. b – d – c – a – e write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. During university, Linh joined the campus photography club and began documenting everyday life in the city. b. Linh grew up in a coastal town, where her grandfather taught her how to use his old camera. c. One of her photo series was later selected for a national youth exhibition. d. After secondary school, she moved to the city to study communications. e. The recognition encouraged her to pursue documentary photography professionally. A. b – a – d – c – e B. d – b – a – e – c C. b – d – a – c – e D. b – d – c – a – e Write A, B, C, or D - {#1}",
+      "questionId": "question-1899657-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. during university, linh joined the campus photography club and began documenting everyday life in the city. b. linh grew up in a coastal town, where her grandfather taught her how to use his old camera. c. one of her photo series was later selected for a national youth exhibition. d. after secondary school, she moved to the city to study communications. e. the recognition encouraged her to pursue documentary photography professionally. a. b – a – d – c – e b. d – b – a – e – c c. b – d – a – c – e d. b – d – c – a – e write a, b, c, or d - {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1899657-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 31 the phrase \"turning point\" in paragraph 2 is closest in meaning to ______. a. a problem that happens repeatedlyb. a result that was already expectedc. an event that causes an important changed. a period spent in formal education write a, b, c, or d - {#1} question 32 according to paragraph 1, which event happened before daniel received a scholarship to study civil engineering? a. he won a regional mathematics competition.b. he began working for a nonprofit organisation.c. he met a nurse after a landslide blocked a road.d. he joined a large company working on construction projects. write a, b, c, or d - {#2} question 33 the phrase \"this decision\" in paragraph 3 refers to daniel's decision to ______. a. continue working mainly on large construction projects in the cityb. accept a lower-paid position with a nonprofit organisationc. enter a regional mathematics competition while still at schoold. study civil engineering at university with financial support write a, b, c, or d - {#3} question 34 which of the following best paraphrases the sentence \"he began to see transport design not simply as a technical problem but as a form of public service\"? a. daniel came to believe that public transport should be provided without charge.b. daniel began to think that technical accuracy was the main goal of engineering.c. daniel gradually lost interest in transport systems after speaking to the nurse.d. daniel realised that transport engineering could directly improve people's lives. write a, b, c, or d - {#4} question 35 what can be inferred about daniel's reason for moving to the nonprofit organisation? a. he wanted his engineering work to respond more directly to the practical needs of rural communities.b. he had become unable to find suitable engineering work with construction companies in cities.c. he wanted to leave transport engineering and begin working in a completely different field.d. he believed nonprofit organisations normally offered engineers better salaries and working conditions. write a, b, c, or d - {#5} question 36 where in paragraph 4 does the following sentence best fit? their local knowledge changed the direction of the project. a. [i]b. [ii]c. [iii]d. [iv] write a, b, c, or d - {#6} question 37 what is the main purpose of paragraph 4? a. to explain why local farmers preferred rural roads to roads built in citiesb. to compare the salaries available at two different engineering organisationsc. to show how daniel combined technical knowledge with information from local peopled. to describe the mathematics competition daniel entered while he was a student write a, b, c, or d - {#7} question 38 which of the following is not supported by the passage? a. daniel listened to community members before completing some of his project designs.b. one rural road design was changed because seasonal flooding caused practical problems.c. daniel later taught younger engineers to ask local residents about their actual needs.d. daniel believed technical expertise should be used instead of knowledge from local people. write a, b, c, or d - {#8} question 39 which of the following best summarises the passage? a. daniel built a successful career mainly through high-paying jobs and major construction projects in cities.b. daniel's early interests and later experiences led him toward community-centred engineering and teaching others that approach.c. daniel's childhood travels caused him to dislike transport systems until he began studying engineering at university.d. daniel created one successful road design that was later repeated unchanged in more than sixty communities. write a, b, c, or d - {#9} question 40 which of the following is the best title for the passage? a. listening before building: an engineer's life of serviceb. from railway maps to rural roads: a career in engineeringc. why engineering salaries differ between urban and rural areasd. the mathematics competition that changed an engineer's life write a, b, c, or d - {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The phrase \"turning point\" in paragraph 2 is closest in meaning to ______. A. a problem that happens repeatedlyB. a result that was already expectedC. an event that causes an important changeD. a period spent in formal education Write A, B, C, or D - {#1} Question 32 According to paragraph 1, which event happened before Daniel received a scholarship to study civil engineering? A. He won a regional mathematics competition.B. He began working for a nonprofit organisation.C. He met a nurse after a landslide blocked a road.D. He joined a large company working on construction projects. Write A, B, C, or D - {#2} Question 33 The phrase \"This decision\" in paragraph 3 refers to Daniel's decision to ______. A. continue working mainly on large construction projects in the cityB. accept a lower-paid position with a nonprofit organisationC. enter a regional mathematics competition while still at schoolD. study civil engineering at university with financial support Write A, B, C, or D - {#3} Question 34 Which of the following best paraphrases the sentence \"he began to see transport design not simply as a technical problem but as a form of public service\"? A. Daniel came to believe that public transport should be provided without charge.B. Daniel began to think that technical accuracy was the main goal of engineering.C. Daniel gradually lost interest in transport systems after speaking to the nurse.D. Daniel realised that transport engineering could directly improve people's lives. Write A, B, C, or D - {#4} Question 35 What can be inferred about Daniel's reason for moving to the nonprofit organisation? A. He wanted his engineering work to respond more directly to the practical needs of rural communities.B. He had become unable to find suitable engineering work with construction companies in cities.C. He wanted to leave transport engineering and begin working in a completely different field.D. He believed nonprofit organisations normally offered engineers better salaries and working conditions. Write A, B, C, or D - {#5} Question 36 Where in paragraph 4 does the following sentence best fit? Their local knowledge changed the direction of the project. A. [I]B. [II]C. [III]D. [IV] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 4? A. To explain why local farmers preferred rural roads to roads built in citiesB. To compare the salaries available at two different engineering organisationsC. To show how Daniel combined technical knowledge with information from local peopleD. To describe the mathematics competition Daniel entered while he was a student Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Daniel listened to community members before completing some of his project designs.B. One rural road design was changed because seasonal flooding caused practical problems.C. Daniel later taught younger engineers to ask local residents about their actual needs.D. Daniel believed technical expertise should be used instead of knowledge from local people. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. Daniel built a successful career mainly through high-paying jobs and major construction projects in cities.B. Daniel's early interests and later experiences led him toward community-centred engineering and teaching others that approach.C. Daniel's childhood travels caused him to dislike transport systems until he began studying engineering at university.D. Daniel created one successful road design that was later repeated unchanged in more than sixty communities. Write A, B, C, or D - {#9} Question 40 Which of the following is the best title for the passage? A. Listening Before Building: An Engineer's Life of ServiceB. From Railway Maps to Rural Roads: A Career in EngineeringC. Why Engineering Salaries Differ Between Urban and Rural AreasD. The Mathematics Competition That Changed an Engineer's Life Write A, B, C, or D - {#10}",
+      "questionId": "question-1899657-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 31 the phrase \"turning point\" in paragraph 2 is closest in meaning to ______. a. a problem that happens repeatedlyb. a result that was already expectedc. an event that causes an important changed. a period spent in formal education write a, b, c, or d - {#1} question 32 according to paragraph 1, which event happened before daniel received a scholarship to study civil engineering? a. he won a regional mathematics competition.b. he began working for a nonprofit organisation.c. he met a nurse after a landslide blocked a road.d. he joined a large company working on construction projects. write a, b, c, or d - {#2} question 33 the phrase \"this decision\" in paragraph 3 refers to daniel's decision to ______. a. continue working mainly on large construction projects in the cityb. accept a lower-paid position with a nonprofit organisationc. enter a regional mathematics competition while still at schoold. study civil engineering at university with financial support write a, b, c, or d - {#3} question 34 which of the following best paraphrases the sentence \"he began to see transport design not simply as a technical problem but as a form of public service\"? a. daniel came to believe that public transport should be provided without charge.b. daniel began to think that technical accuracy was the main goal of engineering.c. daniel gradually lost interest in transport systems after speaking to the nurse.d. daniel realised that transport engineering could directly improve people's lives. write a, b, c, or d - {#4} question 35 what can be inferred about daniel's reason for moving to the nonprofit organisation? a. he wanted his engineering work to respond more directly to the practical needs of rural communities.b. he had become unable to find suitable engineering work with construction companies in cities.c. he wanted to leave transport engineering and begin working in a completely different field.d. he believed nonprofit organisations normally offered engineers better salaries and working conditions. write a, b, c, or d - {#5} question 36 where in paragraph 4 does the following sentence best fit? their local knowledge changed the direction of the project. a. [i]b. [ii]c. [iii]d. [iv] write a, b, c, or d - {#6} question 37 what is the main purpose of paragraph 4? a. to explain why local farmers preferred rural roads to roads built in citiesb. to compare the salaries available at two different engineering organisationsc. to show how daniel combined technical knowledge with information from local peopled. to describe the mathematics competition daniel entered while he was a student write a, b, c, or d - {#7} question 38 which of the following is not supported by the passage? a. daniel listened to community members before completing some of his project designs.b. one rural road design was changed because seasonal flooding caused practical problems.c. daniel later taught younger engineers to ask local residents about their actual needs.d. daniel believed technical expertise should be used instead of knowledge from local people. write a, b, c, or d - {#8} question 39 which of the following best summarises the passage? a. daniel built a successful career mainly through high-paying jobs and major construction projects in cities.b. daniel's early interests and later experiences led him toward community-centred engineering and teaching others that approach.c. daniel's childhood travels caused him to dislike transport systems until he began studying engineering at university.d. daniel created one successful road design that was later repeated unchanged in more than sixty communities. write a, b, c, or d - {#9} question 40 which of the following is the best title for the passage? a. listening before building: an engineer's life of serviceb. from railway maps to rural roads: a career in engineeringc. why engineering salaries differ between urban and rural areasd. the mathematics competition that changed an engineer's life write a, b, c, or d - {#10}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1899657-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 23 what is the main idea of the passage? a. mina's university education prepared her mainly for a successful career in economics.b. mina grew from a hesitant language learner into a successful writer shaped by her experiences.c. mina became successful because her first novel was quickly accepted by a major publisher.d. mina's move to canada gradually made her less interested in her childhood experiences. write a, b, c, or d - {#1} question 24 the word \"hesitant\" in paragraph 1 is closest in meaning to ______. a. uncertainb. cheerfulc. impatientd. careless write a, b, c, or d - {#2} question 25 the phrase \"this habit\" in paragraph 1 refers to mina's habit of ______. a. speaking english mainly when she was taking part in classroom activitiesb. travelling regularly between south korea and canada with her familyc. recording observations and expressions she noticed in a small notebookd. reading economics textbooks while travelling around the city by bus write a, b, c, or d - {#3} question 26 what happened during mina's final year at university? a. she left university and started working for a publishing company.b. one of the book reviews she wrote won a university prize.c. her first novel was published and translated into several languages.d. she stopped studying economics and changed to a writing course. write a, b, c, or d - {#4} question 27 which of the following is not true according to the passage? a. mina continued writing while she was employed by an insurance company.b. several publishers rejected the first version of mina's novel manuscript.c. her grandparents' memories influenced parts of the novel she later revised.d. mina regularly gave large public speeches after becoming a successful writer. write a, b, c, or d - {#5} question 28 which of the following best paraphrases the sentence \"rather than abandoning it, mina studied the comments she had received and rewrote large sections of the book\"? a. mina ignored the publishers' comments and sent them the same manuscript again.b. mina stopped working on the novel and started an entirely different book instead.c. mina used the feedback she received to make major changes to the manuscript.d. mina asked the publishers to revise large parts of the novel on her behalf. write a, b, c, or d - {#6} question 29 what is the main purpose of paragraph 3? a. to show how mina dealt with rejection and eventually succeeded in publishing her novelb. to describe the university subjects mina studied and the ones she enjoyed mostc. to compare mina's novels with the stories and memories of her grandparentsd. to explain why mina considered insurance work more suitable than professional writing write a, b, c, or d - {#7} question 30 what can be inferred from the passage about mina's experiences of living in different cultures? a. they made her less interested in writing stories about family relationships.b. they later provided some of the material and themes for her writing.c. they eventually persuaded her to write her novels only in korean.d. they made it difficult for her to become a full-time professional writer. write a, b, c, or d - {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. Mina's university education prepared her mainly for a successful career in economics.B. Mina grew from a hesitant language learner into a successful writer shaped by her experiences.C. Mina became successful because her first novel was quickly accepted by a major publisher.D. Mina's move to Canada gradually made her less interested in her childhood experiences. Write A, B, C, or D - {#1} Question 24 The word \"hesitant\" in paragraph 1 is closest in meaning to ______. A. uncertainB. cheerfulC. impatientD. careless Write A, B, C, or D - {#2} Question 25 The phrase \"This habit\" in paragraph 1 refers to Mina's habit of ______. A. speaking English mainly when she was taking part in classroom activitiesB. travelling regularly between South Korea and Canada with her familyC. recording observations and expressions she noticed in a small notebookD. reading economics textbooks while travelling around the city by bus Write A, B, C, or D - {#3} Question 26 What happened during Mina's final year at university? A. She left university and started working for a publishing company.B. One of the book reviews she wrote won a university prize.C. Her first novel was published and translated into several languages.D. She stopped studying economics and changed to a writing course. Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Mina continued writing while she was employed by an insurance company.B. Several publishers rejected the first version of Mina's novel manuscript.C. Her grandparents' memories influenced parts of the novel she later revised.D. Mina regularly gave large public speeches after becoming a successful writer. Write A, B, C, or D - {#5} Question 28 Which of the following best paraphrases the sentence \"Rather than abandoning it, Mina studied the comments she had received and rewrote large sections of the book\"? A. Mina ignored the publishers' comments and sent them the same manuscript again.B. Mina stopped working on the novel and started an entirely different book instead.C. Mina used the feedback she received to make major changes to the manuscript.D. Mina asked the publishers to revise large parts of the novel on her behalf. Write A, B, C, or D - {#6} Question 29 What is the main purpose of paragraph 3? A. To show how Mina dealt with rejection and eventually succeeded in publishing her novelB. To describe the university subjects Mina studied and the ones she enjoyed mostC. To compare Mina's novels with the stories and memories of her grandparentsD. To explain why Mina considered insurance work more suitable than professional writing Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage about Mina's experiences of living in different cultures? A. They made her less interested in writing stories about family relationships.B. They later provided some of the material and themes for her writing.C. They eventually persuaded her to write her novels only in Korean.D. They made it difficult for her to become a full-time professional writer. Write A, B, C, or D - {#8}",
+      "questionId": "question-1899657-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 23 what is the main idea of the passage? a. mina's university education prepared her mainly for a successful career in economics.b. mina grew from a hesitant language learner into a successful writer shaped by her experiences.c. mina became successful because her first novel was quickly accepted by a major publisher.d. mina's move to canada gradually made her less interested in her childhood experiences. write a, b, c, or d - {#1} question 24 the word \"hesitant\" in paragraph 1 is closest in meaning to ______. a. uncertainb. cheerfulc. impatientd. careless write a, b, c, or d - {#2} question 25 the phrase \"this habit\" in paragraph 1 refers to mina's habit of ______. a. speaking english mainly when she was taking part in classroom activitiesb. travelling regularly between south korea and canada with her familyc. recording observations and expressions she noticed in a small notebookd. reading economics textbooks while travelling around the city by bus write a, b, c, or d - {#3} question 26 what happened during mina's final year at university? a. she left university and started working for a publishing company.b. one of the book reviews she wrote won a university prize.c. her first novel was published and translated into several languages.d. she stopped studying economics and changed to a writing course. write a, b, c, or d - {#4} question 27 which of the following is not true according to the passage? a. mina continued writing while she was employed by an insurance company.b. several publishers rejected the first version of mina's novel manuscript.c. her grandparents' memories influenced parts of the novel she later revised.d. mina regularly gave large public speeches after becoming a successful writer. write a, b, c, or d - {#5} question 28 which of the following best paraphrases the sentence \"rather than abandoning it, mina studied the comments she had received and rewrote large sections of the book\"? a. mina ignored the publishers' comments and sent them the same manuscript again.b. mina stopped working on the novel and started an entirely different book instead.c. mina used the feedback she received to make major changes to the manuscript.d. mina asked the publishers to revise large parts of the novel on her behalf. write a, b, c, or d - {#6} question 29 what is the main purpose of paragraph 3? a. to show how mina dealt with rejection and eventually succeeded in publishing her novelb. to describe the university subjects mina studied and the ones she enjoyed mostc. to compare mina's novels with the stories and memories of her grandparentsd. to explain why mina considered insurance work more suitable than professional writing write a, b, c, or d - {#7} question 30 what can be inferred from the passage about mina's experiences of living in different cultures? a. they made her less interested in writing stories about family relationships.b. they later provided some of the material and themes for her writing.c. they eventually persuaded her to write her novels only in korean.d. they made it difficult for her to become a full-time professional writer. write a, b, c, or d - {#8}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
