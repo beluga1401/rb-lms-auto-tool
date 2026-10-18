@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Thái Phương Thanh",
-    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "account_name": "Nguyễn Văn Phi Tiến",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 3 - ÔN TẬP GK1",
     "unit_key": "session_3_on_tap_gk1",
     "quiz_title": "GR11EX32-TERM 1 MID-TEST REVIEW",
     "quiz_key": "gr11ex32_term_1_mid_test_review",
-    "cmid": "739919",
+    "cmid": "739915",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_3_on_tap_gk1/gr11ex32_term_1_mid_test_review.json",
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 80,
-    "updated_at": "2026-10-18 19:55:34"
+    "question_count": 92,
+    "updated_at": "2026-10-18 20:31:05"
   },
   "answers": [
     {
@@ -398,7 +398,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1900797-3",
+      "id": "question-1901075-3",
       "inputs": [
         {
           "index": 0,
@@ -426,7 +426,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A DIFFERENT CAREER PLAN Lan had always enjoyed drawing and digital design, but her grandfather hoped she would become a doctor. He believed medicine offered a secure future and worried that creative work could be uncertain. Lan respected his experience, yet she wanted to apply for a graphic-design course. (13) ______. Before sending her application, Lan invited her parents and grandfather to look at information about the course. Her grandfather explained that when he was young, he had to leave school early and start work, so he valued stable professions. Lan then showed the family the course requirements, examples from her portfolio, and information about possible careers. (14) ______. Her parents said the final choice was hers. They did not tell her what to choose; they only advised her that she (15) ______ think carefully about the cost of the course, the amount of work involved, and the career opportunities available afterwards. Her grandfather did not immediately change his mind. Still, after seeing Lan's work and hearing how carefully she had considered her future, (16) ______. Lan later said that the discussion had not removed every difference between them. (17) ______. She felt more confident because her family understood why the course mattered to her, and she also understood why her grandfather worried about job security. Question 13.A. Lan therefore decided to study medicine before discussing her own interests further.B. Her grandfather had already chosen a university and completed the application for her.C. The disagreement reflected different ideas about a successful career rather than a lack of respect.D. Lan refused to explain why she was interested in design because she expected another argument.Write A, B, C, or D - {#1}Question 14.A. Seeing the information made the discussion more specific, even though their preferences were still different.B. As a result, her grandfather decided that creative careers could never provide stable employment.C. Her parents then told Lan that she should stop discussing her future with other family members.D. The conversation ended before either Lan or her grandfather had explained the reasons for their views.Write A, B, C, or D - {#2}Question 15.A. mustn'tB. doesn't have toC. had toD. shouldWrite A, B, C, or D - {#3}Question 16.A. he decided that all creative careers were more secure than medicine.B. he became more willing to listen, although he still preferred the medical career.C. Lan agreed to give up design before she sent the university application.D. her parents refused to let either of them discuss career choices again.Write A, B, C, or D - {#4}Question 17.A. She learned that young people should always follow the career choices preferred by older relatives.B. She concluded that family opinions should never influence an important personal decision.C. It showed her that different generations can disagree while still taking each other's reasons seriously.D. She decided that career disagreements usually disappear as soon as people are given enough information.Write A, B, C, or D - {#5}",
-      "questionId": "question-1900797-3",
+      "questionId": "question-1901075-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a different career plan lan had always enjoyed drawing and digital design, but her grandfather hoped she would become a doctor. he believed medicine offered a secure future and worried that creative work could be uncertain. lan respected his experience, yet she wanted to apply for a graphic-design course. (13) ______. before sending her application, lan invited her parents and grandfather to look at information about the course. her grandfather explained that when he was young, he had to leave school early and start work, so he valued stable professions. lan then showed the family the course requirements, examples from her portfolio, and information about possible careers. (14) ______. her parents said the final choice was hers. they did not tell her what to choose; they only advised her that she (15) ______ think carefully about the cost of the course, the amount of work involved, and the career opportunities available afterwards. her grandfather did not immediately change his mind. still, after seeing lan's work and hearing how carefully she had considered her future, (16) ______. lan later said that the discussion had not removed every difference between them. (17) ______. she felt more confident because her family understood why the course mattered to her, and she also understood why her grandfather worried about job security. question 13.a. lan therefore decided to study medicine before discussing her own interests further.b. her grandfather had already chosen a university and completed the application for her.c. the disagreement reflected different ideas about a successful career rather than a lack of respect.d. lan refused to explain why she was interested in design because she expected another argument.write a, b, c, or d - {#1}question 14.a. seeing the information made the discussion more specific, even though their preferences were still different.b. as a result, her grandfather decided that creative careers could never provide stable employment.c. her parents then told lan that she should stop discussing her future with other family members.d. the conversation ended before either lan or her grandfather had explained the reasons for their views.write a, b, c, or d - {#2}question 15.a. mustn'tb. doesn't have toc. had tod. shouldwrite a, b, c, or d - {#3}question 16.a. he decided that all creative careers were more secure than medicine.b. he became more willing to listen, although he still preferred the medical career.c. lan agreed to give up design before she sent the university application.d. her parents refused to let either of them discuss career choices again.write a, b, c, or d - {#4}question 17.a. she learned that young people should always follow the career choices preferred by older relatives.b. she concluded that family opinions should never influence an important personal decision.c. it showed her that different generations can disagree while still taking each other's reasons seriously.d. she decided that career disagreements usually disappear as soon as people are given enough information.write a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -434,7 +434,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1900797-4",
+      "id": "question-1901075-4",
       "inputs": [
         {
           "index": 0,
@@ -445,15 +445,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 18 a. Her parents explained that they wanted everyone to talk together during the meal instead of checking messages.b. At first, Nhi thought her family's rule about putting phones away during dinner was unfair.c. After hearing their reasons, she suggested that everyone, including the adults, follow the same rule.d. They agreed to try her suggestion for two weeks.e. The new arrangement felt fairer to Nhi because the responsibility was shared.A. b - c - a - d - eB. b - a - c - d - eC. a - b - d - c - eD. b - a - d - e - c Write A, B, C, or D - {#1}",
-      "questionId": "question-1900797-4",
+      "questionId": "question-1901075-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 18 a. her parents explained that they wanted everyone to talk together during the meal instead of checking messages.b. at first, nhi thought her family's rule about putting phones away during dinner was unfair.c. after hearing their reasons, she suggested that everyone, including the adults, follow the same rule.d. they agreed to try her suggestion for two weeks.e. the new arrangement felt fairer to nhi because the responsibility was shared.a. b - c - a - d - eb. b - a - c - d - ec. a - b - d - c - ed. b - a - d - e - c write a, b, c, or d - {#1}",
-      "questionNumber": 4,
+      "questionNumber": 5,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "b",
-      "id": "question-1900797-8",
+      "id": "question-1901075-8",
       "inputs": [
         {
           "index": 0,
@@ -464,15 +464,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 22 a. The completed interviews will be displayed during the event so visitors can compare experiences across generations.b. Our school's Intergenerational Day will take place next Friday in the main hall.c. Students who wish to participate must register with their form teacher by Monday.d. After registration, each student will receive three short interview questions to ask an older family member.A. b - d - c - aB. b - c - d - aC. c - b - a - dD. b - c - a - d Write A, B, C, or D - {#1}",
-      "questionId": "question-1900797-8",
+      "questionId": "question-1901075-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 22 a. the completed interviews will be displayed during the event so visitors can compare experiences across generations.b. our school's intergenerational day will take place next friday in the main hall.c. students who wish to participate must register with their form teacher by monday.d. after registration, each student will receive three short interview questions to ask an older family member.a. b - d - c - ab. b - c - d - ac. c - b - a - dd. b - c - a - d write a, b, c, or d - {#1}",
-      "questionNumber": 5,
+      "questionNumber": 7,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "a",
-      "id": "question-1900797-6",
+      "id": "question-1901075-6",
       "inputs": [
         {
           "index": 0,
@@ -483,15 +483,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 20 a. Trang: Yes. My grandfather prefers traditional ways of doing things, while I like trying new ideas.b. Huy: That's interesting. Have you noticed any differences in the way you think?c. Huy: Let's talk about generation differences in our families. Do you live with your grandparents?d. Trang: Yes, I do. We all live in the same house.e. Huy: Do those differences ever cause disagreements?f. Trang: Sometimes, but we usually explain our reasons and find a compromise.A. c - d - b - a - e - fB. c - b - d - a - e - fC. d - c - a - b - f - eD. c - d - e - b - a - f Write A, B, C, or D - {#1}",
-      "questionId": "question-1900797-6",
+      "questionId": "question-1901075-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 20 a. trang: yes. my grandfather prefers traditional ways of doing things, while i like trying new ideas.b. huy: that's interesting. have you noticed any differences in the way you think?c. huy: let's talk about generation differences in our families. do you live with your grandparents?d. trang: yes, i do. we all live in the same house.e. huy: do those differences ever cause disagreements?f. trang: sometimes, but we usually explain our reasons and find a compromise.a. c - d - b - a - e - fb. c - b - d - a - e - fc. d - c - a - b - f - ed. c - d - e - b - a - f write a, b, c, or d - {#1}",
-      "questionNumber": 6,
+      "questionNumber": 4,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "d",
-      "id": "question-1900797-5",
+      "id": "question-1901075-5",
       "inputs": [
         {
           "index": 0,
@@ -502,15 +502,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 19 a. For these reasons, encouragement based on a teenager's own progress is usually more constructive.b. One reason is that repeated comparisons can make teenagers feel that their efforts are never enough.c. I do not think parents should often compare teenagers with other people.d. For example, a student who is constantly compared with a high-achieving cousin may begin to doubt his or her own progress.e. That same comparison can also create resentment towards the cousin used as the example.A. c - d - b - e - aB. b - d - c - e - aC. a - b - e - d - cD. c - b - d - e - a Write A, B, C, or D - {#1}",
-      "questionId": "question-1900797-5",
+      "questionId": "question-1901075-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 19 a. for these reasons, encouragement based on a teenager's own progress is usually more constructive.b. one reason is that repeated comparisons can make teenagers feel that their efforts are never enough.c. i do not think parents should often compare teenagers with other people.d. for example, a student who is constantly compared with a high-achieving cousin may begin to doubt his or her own progress.e. that same comparison can also create resentment towards the cousin used as the example.a. c - d - b - e - ab. b - d - c - e - ac. a - b - e - d - cd. c - b - d - e - a write a, b, c, or d - {#1}",
-      "questionNumber": 7,
+      "questionNumber": 8,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "c",
-      "id": "question-1900797-7",
+      "id": "question-1901075-7",
       "inputs": [
         {
           "index": 0,
@@ -521,15 +521,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. Question 21 a. Mum: I'm afraid you can't. Your grandparents are visiting us on Sunday morning, so we need to leave early.b. Mai: Mum, is it OK if I stay at Lan's house on Saturday night?c. Mai: I understand. Can I stay at the party until nine instead?d. Mum: Of course you can. Please be home by half past nine.A. a - b - d - cB. b - c - a - dC. b - a - c - dD. b - a - d - c Write A, B, C, or D - {#1}",
-      "questionId": "question-1900797-7",
+      "questionId": "question-1901075-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in each of the following questions from 18 to 22. question 21 a. mum: i'm afraid you can't. your grandparents are visiting us on sunday morning, so we need to leave early.b. mai: mum, is it ok if i stay at lan's house on saturday night?c. mai: i understand. can i stay at the party until nine instead?d. mum: of course you can. please be home by half past nine.a. a - b - d - cb. b - c - a - dc. b - a - c - dd. b - a - d - c write a, b, c, or d - {#1}",
-      "questionNumber": 8,
+      "questionNumber": 6,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "b",
-      "id": "question-1900797-9",
+      "id": "question-1901075-9",
       "inputs": [
         {
           "index": 0,
@@ -568,15 +568,15 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and choose the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the passage mainly about?A. Why older people should learn digital skills from teenagersB. How a school skill-swap helped generations understand one anotherC. Why practical skills are more useful than digital skillsD. How students persuaded adults to attend a school eventWrite A, B, C, or D - {#1}Question 24.The word \"structured\" in paragraph 1 is closest in meaning to ______.A. organisedB. expensiveC. traditionalD. optionalWrite A, B, C, or D - {#2}Question 25.The phrase \"This exchange\" in paragraph 2 refers to ______.A. the school's decision to hold the event every monthB. the survey completed by participants after the eventC. the differences in opinion between students and adultsD. the process of partners teaching each other chosen skillsWrite A, B, C, or D - {#3}Question 26.According to paragraph 2, who decided which skills the pairs would share?A. Teachers assigned the same chosen skill to every pair.B. Adults selected all the skills before students arrived.C. Each pair chose which skills they wanted to share.D. Students were allowed to choose only digital skills.Write A, B, C, or D - {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The school expected one session to remove every generational disagreement.B. Some participants arrived with assumptions about the other age group.C. Several pairs continued to disagree about issues such as phones or careers.D. The school later continued the activity on a monthly basis.Write A, B, C, or D - {#5}Question 28.Which of the following best paraphrases the final sentence of the passage?A. Generations understand one another only when they finally share the same opinions.B. Time together can improve understanding even when people continue to disagree.C. Family disagreements usually disappear once people learn a new practical skill.D. Older and younger people communicate well only when schools organise formal activities.Write A, B, C, or D - {#6}Question 29.What is the main purpose of paragraph 3?A. To explain why students were more interested in digital skills than adults wereB. To describe the exact skills that each age group taught during the eventC. To report participants' reactions while showing that some disagreements remainedD. To argue that the event should replace ordinary family discussions at homeWrite A, B, C, or D - {#7}Question 30.What can be inferred about the organisers' view of generation gaps?A. The organisers wanted older participants to adopt teenagers' views.B. The organisers believed practical skills were more valuable than digital ones.C. The organisers expected all age differences to disappear through regular meetings.D. The organisers valued mutual understanding more than complete agreement.Write A, B, C, or D - {#8}",
-      "questionId": "question-1900797-9",
+      "questionId": "question-1901075-9",
       "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and choose the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the passage mainly about?a. why older people should learn digital skills from teenagersb. how a school skill-swap helped generations understand one anotherc. why practical skills are more useful than digital skillsd. how students persuaded adults to attend a school eventwrite a, b, c, or d - {#1}question 24.the word \"structured\" in paragraph 1 is closest in meaning to ______.a. organisedb. expensivec. traditionald. optionalwrite a, b, c, or d - {#2}question 25.the phrase \"this exchange\" in paragraph 2 refers to ______.a. the school's decision to hold the event every monthb. the survey completed by participants after the eventc. the differences in opinion between students and adultsd. the process of partners teaching each other chosen skillswrite a, b, c, or d - {#3}question 26.according to paragraph 2, who decided which skills the pairs would share?a. teachers assigned the same chosen skill to every pair.b. adults selected all the skills before students arrived.c. each pair chose which skills they wanted to share.d. students were allowed to choose only digital skills.write a, b, c, or d - {#4}question 27.which of the following is not true according to the passage?a. the school expected one session to remove every generational disagreement.b. some participants arrived with assumptions about the other age group.c. several pairs continued to disagree about issues such as phones or careers.d. the school later continued the activity on a monthly basis.write a, b, c, or d - {#5}question 28.which of the following best paraphrases the final sentence of the passage?a. generations understand one another only when they finally share the same opinions.b. time together can improve understanding even when people continue to disagree.c. family disagreements usually disappear once people learn a new practical skill.d. older and younger people communicate well only when schools organise formal activities.write a, b, c, or d - {#6}question 29.what is the main purpose of paragraph 3?a. to explain why students were more interested in digital skills than adults wereb. to describe the exact skills that each age group taught during the eventc. to report participants' reactions while showing that some disagreements remainedd. to argue that the event should replace ordinary family discussions at homewrite a, b, c, or d - {#7}question 30.what can be inferred about the organisers' view of generation gaps?a. the organisers wanted older participants to adopt teenagers' views.b. the organisers believed practical skills were more valuable than digital ones.c. the organisers expected all age differences to disappear through regular meetings.d. the organisers valued mutual understanding more than complete agreement.write a, b, c, or d - {#8}",
-      "questionNumber": 9,
+      "questionNumber": 10,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "c",
-      "id": "question-1900797-10",
+      "id": "question-1901075-10",
       "inputs": [
         {
           "index": 0,
@@ -623,10 +623,88 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each of the following questions from 31 to 40. Question 31.The word \"outdated\" in paragraph 1 is closest in meaning to ______.A. temporaryB. unfairC. no longer suitableD. difficult to explainWrite A, B, C, or D - {#1}Question 32.Why did the project give each rule a review date?A. To schedule a review of whether the rule still served its purposeB. To guarantee that teenagers could remove any rule they dislikedC. To make parents rewrite every rule at the end of each weekD. To prevent families from discussing rules between review datesWrite A, B, C, or D - {#2}Question 33.The phrase \"This distinction\" in paragraph 2 refers to ______.A. the difference between school rules and rules made at homeB. the difference between rules for younger and older teenagersC. the difference between a written rule and a spoken agreementD. the difference between reviewing a rule and automatically changing itWrite A, B, C, or D - {#3}Question 34.Which of the following best paraphrases the sentence \"A rule that can never be questioned may survive on paper while losing cooperation in practice\"?A. A family rule works best when nobody is allowed to question its purpose.B. A rule may remain official yet become less effective if cooperation disappears.C. Families should remove a rule as soon as a teenager disagrees with it.D. Written rules are more effective than rules discussed in conversation.Write A, B, C, or D - {#4}Question 35.What can be inferred about the project's view of family rules?A. Family rules should become less strict whenever teenagers grow older and more independent.B. Parents should avoid changing rules because consistency matters most.C. Rules work better when their purpose is clear and open to review.D. Teenagers should decide for themselves which family rules are reasonable.Write A, B, C, or D - {#5}Question 36.Where in paragraph 3 does the following sentence best fit?This new information also included examples of new responsibility or new problems that appeared during the week.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#6}Question 37.What is the main purpose of paragraph 3?A. To explain how families recorded evidence and reviewed rules togetherB. To show why most families stopped using written rules completelyC. To compare rules about schoolwork with rules about going outD. To describe the disagreements that occurred before the project beganWrite A, B, C, or D - {#7}Question 38.Which of the following is NOT supported by the passage?A. Some teenagers accepted limits more easily when the reasons were clear.B. Families could choose to keep a rule after reviewing it.C. The project was too small to prove broad improvements in family relationships.D. Every participating family relaxed at least one rule during the project.Write A, B, C, or D - {#8}Question 39.Which of the following best summarises the passage?A. Family rules are useful only when teenagers are allowed to change them whenever they want.B. Parents should keep rules unchanged because reviewing them usually creates more conflict.C. Reviewing the purpose of rules can reduce repeated conflict without removing necessary limits.D. The best family relationships are those in which parents avoid setting rules for teenagers.Write A, B, C, or D - {#9}Question 40.Which of the following is the best title for the passage?A. Why Family Rules Should Never Be ReconsideredB. Rules with Reasons: A Family Review ProjectC. When Teenagers Make All the Household DecisionsD. A Community Centre's Plan to End Family RulesWrite A, B, C, or D - {#10}",
-      "questionId": "question-1900797-10",
+      "questionId": "question-1901075-10",
       "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the best answer to each of the following questions from 31 to 40. question 31.the word \"outdated\" in paragraph 1 is closest in meaning to ______.a. temporaryb. unfairc. no longer suitabled. difficult to explainwrite a, b, c, or d - {#1}question 32.why did the project give each rule a review date?a. to schedule a review of whether the rule still served its purposeb. to guarantee that teenagers could remove any rule they dislikedc. to make parents rewrite every rule at the end of each weekd. to prevent families from discussing rules between review dateswrite a, b, c, or d - {#2}question 33.the phrase \"this distinction\" in paragraph 2 refers to ______.a. the difference between school rules and rules made at homeb. the difference between rules for younger and older teenagersc. the difference between a written rule and a spoken agreementd. the difference between reviewing a rule and automatically changing itwrite a, b, c, or d - {#3}question 34.which of the following best paraphrases the sentence \"a rule that can never be questioned may survive on paper while losing cooperation in practice\"?a. a family rule works best when nobody is allowed to question its purpose.b. a rule may remain official yet become less effective if cooperation disappears.c. families should remove a rule as soon as a teenager disagrees with it.d. written rules are more effective than rules discussed in conversation.write a, b, c, or d - {#4}question 35.what can be inferred about the project's view of family rules?a. family rules should become less strict whenever teenagers grow older and more independent.b. parents should avoid changing rules because consistency matters most.c. rules work better when their purpose is clear and open to review.d. teenagers should decide for themselves which family rules are reasonable.write a, b, c, or d - {#5}question 36.where in paragraph 3 does the following sentence best fit?this new information also included examples of new responsibility or new problems that appeared during the week.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#6}question 37.what is the main purpose of paragraph 3?a. to explain how families recorded evidence and reviewed rules togetherb. to show why most families stopped using written rules completelyc. to compare rules about schoolwork with rules about going outd. to describe the disagreements that occurred before the project beganwrite a, b, c, or d - {#7}question 38.which of the following is not supported by the passage?a. some teenagers accepted limits more easily when the reasons were clear.b. families could choose to keep a rule after reviewing it.c. the project was too small to prove broad improvements in family relationships.d. every participating family relaxed at least one rule during the project.write a, b, c, or d - {#8}question 39.which of the following best summarises the passage?a. family rules are useful only when teenagers are allowed to change them whenever they want.b. parents should keep rules unchanged because reviewing them usually creates more conflict.c. reviewing the purpose of rules can reduce repeated conflict without removing necessary limits.d. the best family relationships are those in which parents avoid setting rules for teenagers.write a, b, c, or d - {#9}question 40.which of the following is the best title for the passage?a. why family rules should never be reconsideredb. rules with reasons: a family review projectc. when teenagers make all the household decisionsd. a community centre's plan to end family ruleswrite a, b, c, or d - {#10}",
-      "questionNumber": 10,
+      "questionNumber": 9,
       "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. had to",
+      "id": "question-1901075-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a digital agreement at home when linh was in lower secondary school, she (7) {#1} give her phone to her parents at 9 p.m. every school night. now that she is 16, her parents think she is old enough to (8) {#2} more of her own decisions about technology. one rule remains clear: using her phone after midnight on school nights is not allowed, so she (9) {#3} do that. on weekends, however, no 9 p.m. rule applies, and she (10) {#4} put her phone away at that time. the family reviews the agreement every few months because school demands and family needs can (11) {#5}. next year, linh expects to start extra evening classes. if those classes leave her unable to follow her current routine, she knows she (12) {#6} adjust it to fit her new schedule.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. A DIGITAL AGREEMENT AT HOME When Linh was in lower secondary school, she (7) [Blank 7] give her phone to her parents at 9 p.m. every school night. Now that she is 16, her parents think she is old enough to (8) [Blank 8] more of her own decisions about technology. One rule remains clear: using her phone after midnight on school nights is not allowed, so she (9) [Blank 9] do that. On weekends, however, no 9 p.m. rule applies, and she (10) [Blank 10] put her phone away at that time. The family reviews the agreement every few months because school demands and family needs can (11) [Blank 11] . Next year, Linh expects to start extra evening classes. If those classes leave her unable to follow her current routine, she knows she (12) [Blank 12] adjust it to fit her new schedule.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.mustn'tB.shouldC.had toD.doesn't have toÔ (8):A.makeB.holdC.followD.compareÔ (9):A.doesn't have toB.had toC.shouldn'tD.mustn'tÔ (10):A.doesn't have toB.mustn'tC.shouldD.had toÔ (11):A.followB.conflictC.compareD.changeÔ (12):A.mustn'tB.will have toC.had toD.should",
+      "questionId": "question-1901075-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a digital agreement at home when linh was in lower secondary school, she (7) [blank 7] give her phone to her parents at 9 p.m. every school night. now that she is 16, her parents think she is old enough to (8) [blank 8] more of her own decisions about technology. one rule remains clear: using her phone after midnight on school nights is not allowed, so she (9) [blank 9] do that. on weekends, however, no 9 p.m. rule applies, and she (10) [blank 10] put her phone away at that time. the family reviews the agreement every few months because school demands and family needs can (11) [blank 11] . next year, linh expects to start extra evening classes. if those classes leave her unable to follow her current routine, she knows she (12) [blank 12] adjust it to fit her new schedule.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.mustn'tb.shouldc.had tod.doesn't have toô (8):a.makeb.holdc.followd.compareô (9):a.doesn't have tob.had toc.shouldn'td.mustn'tô (10):a.doesn't have tob.mustn'tc.shouldd.had toô (11):a.followb.conflictc.compared.changeô (12):a.mustn'tb.will have toc.had tod.should",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. had to"
+        },
+        {
+          "index": 1,
+          "value": "A. make"
+        },
+        {
+          "index": 2,
+          "value": "D. mustn't"
+        },
+        {
+          "index": 3,
+          "value": "A. doesn't have to"
+        },
+        {
+          "index": 4,
+          "value": "D. change"
+        },
+        {
+          "index": 5,
+          "value": "B. will have to"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A. conflict",
+      "id": "question-1901075-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. family talk workshop many families find that small disagreements grow when people assume another generation will not understand. our saturday family talk workshop helps parents and teenagers discuss common sources of (1) {#1}, such as screen time, clothing, and household rules. participants will work in pairs to identify one traditional (2) {#2} that affects a family rule and explain where that idea comes from. the school requires every registered student to attend the first session with one adult family member, so students (3) {#3} attend with an adult. family members (4) {#4} agree with every opinion they hear; the aim is to listen respectfully. facilitators recommend that everyone (5) {#5} explain their reasons instead of simply saying that another person is wrong. the workshop does not promise that every disagreement will disappear. (6) {#6}, it aims to help family members understand why different views exist.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FAMILY TALK WORKSHOP Many families find that small disagreements grow when people assume another generation will not understand. Our Saturday Family Talk Workshop helps parents and teenagers discuss common sources of (1) [Blank 1] , such as screen time, clothing, and household rules. Participants will work in pairs to identify one traditional (2) [Blank 2] that affects a family rule and explain where that idea comes from. The school requires every registered student to attend the first session with one adult family member, so students (3) [Blank 3] attend with an adult. Family members (4) [Blank 4] agree with every opinion they hear; the aim is to listen respectfully. Facilitators recommend that everyone (5) [Blank 5] explain their reasons instead of simply saying that another person is wrong. The workshop does not promise that every disagreement will disappear. (6) [Blank 6] , it aims to help family members understand why different views exist.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.conflictB.footstepsC.generationsD.devicesÔ (2):A.characteristicB.generationC.conflictD.viewÔ (3):A.mustn'tB.don't have toC.have toD.shouldÔ (4):A.had toB.shouldC.mustn'tD.don't have toÔ (5):A.shouldB.had toC.don't have toD.mustn'tÔ (6):A.SimilarlyB.For exampleC.ThereforeD.Instead",
+      "questionId": "question-1901075-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following flyer and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. family talk workshop many families find that small disagreements grow when people assume another generation will not understand. our saturday family talk workshop helps parents and teenagers discuss common sources of (1) [blank 1] , such as screen time, clothing, and household rules. participants will work in pairs to identify one traditional (2) [blank 2] that affects a family rule and explain where that idea comes from. the school requires every registered student to attend the first session with one adult family member, so students (3) [blank 3] attend with an adult. family members (4) [blank 4] agree with every opinion they hear; the aim is to listen respectfully. facilitators recommend that everyone (5) [blank 5] explain their reasons instead of simply saying that another person is wrong. the workshop does not promise that every disagreement will disappear. (6) [blank 6] , it aims to help family members understand why different views exist.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.conflictb.footstepsc.generationsd.devicesô (2):a.characteristicb.generationc.conflictd.viewô (3):a.mustn'tb.don't have toc.have tod.shouldô (4):a.had tob.shouldc.mustn'td.don't have toô (5):a.shouldb.had toc.don't have tod.mustn'tô (6):a.similarlyb.for examplec.therefored.instead",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. conflict"
+        },
+        {
+          "index": 1,
+          "value": "D. view"
+        },
+        {
+          "index": 2,
+          "value": "C. have to"
+        },
+        {
+          "index": 3,
+          "value": "D. don't have to"
+        },
+        {
+          "index": 4,
+          "value": "A. should"
+        },
+        {
+          "index": 5,
+          "value": "D. Instead"
+        }
+      ],
       "rightAnswer": ""
     }
   ]
