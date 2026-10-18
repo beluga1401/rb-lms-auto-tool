@@ -1,0 +1,633 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Hoàng Yến Vy",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR9EX33-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr9ex33_term_1_mid_test_review",
+    "cmid": "739882",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_9/session_3_on_tap_gk1/gr9ex33_term_1_mid_test_review.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 80,
+    "updated_at": "2026-10-18 20:50:26"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. city library after-school hub green square library has opened a new study area for teenagers. many students live nearby and often (1) friends there after school.the library is one of the most useful public (2) in the district. last month, staff (3) a short survey to learn what teenagers needed.the more students use the room, (4) it becomes between 4 and 5 p.m. to reduce crowding, some tables can now be booked in advance.because the library is near a metro station, students can (5) the area without asking their parents for a ride. staff hope the new service will make the neighbourhood more (6) for young people.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. CITY LIBRARY AFTER-SCHOOL HUB Green Square Library has opened a new study area for teenagers. Many students live nearby and often (1) {#1} friends there after school.The library is one of the most useful public (2) {#2} in the district. Last month, staff (3) {#3} a short survey to learn what teenagers needed.The more students use the room, (4) {#4} it becomes between 4 and 5 p.m. To reduce crowding, some tables can now be booked in advance.Because the library is near a metro station, students can (5) {#5} the area without asking their parents for a ride. Staff hope the new service will make the neighbourhood more (6) {#6} for young people.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "hang out with"
+        },
+        {
+          "index": 1,
+          "value": "amenities"
+        },
+        {
+          "index": 2,
+          "value": "carried out"
+        },
+        {
+          "index": 3,
+          "value": "the noisier"
+        },
+        {
+          "index": 4,
+          "value": "get around"
+        },
+        {
+          "index": 5,
+          "value": "liveable"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. CITY LIBRARY AFTER-SCHOOL HUB Green Square Library has opened a new study area for teenagers. Many students live nearby and often (1) {#1} friends there after school.The library is one of the most useful public (2) {#2} in the district. Last month, staff (3) {#3} a short survey to learn what teenagers needed.The more students use the room, (4) {#4} it becomes between 4 and 5 p.m. To reduce crowding, some tables can now be booked in advance.Because the library is near a metro station, students can (5) {#5} the area without asking their parents for a ride. Staff hope the new service will make the neighbourhood more (6) {#6} for young people.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following community notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. quieter evenings on le thanh street le thanh street is a lively place with cafés and small shops. however, people in nearby flats say the area becomes too noisy late at night.the local committee wants businesses to (7) unnecessary noise after 9 p.m. delivery drivers are asked to switch off their engines while waiting.on friday evenings, some cafés are (8) with customers. the more people gather outside, (9) it is for nearby residents to sleep.new signs show where motorbikes should be parked, (10) pavements stay clear for pedestrians. the committee will review the plan next month.the street is close to the (11) area, where many of the city's main shops, offices, restaurants, and entertainment venues are located, so it remains busy in the evening. organisers hope the plan will keep the area lively (12) make it more comfortable for residents.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following community notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. QUIETER EVENINGS ON LE THANH STREET Le Thanh Street is a lively place with cafés and small shops. However, people in nearby flats say the area becomes too noisy late at night.The local committee wants businesses to (7) {#1} unnecessary noise after 9 p.m. Delivery drivers are asked to switch off their engines while waiting.On Friday evenings, some cafés are (8) {#2} with customers. The more people gather outside, (9) {#3} it is for nearby residents to sleep.New signs show where motorbikes should be parked, (10) {#4} pavements stay clear for pedestrians. The committee will review the plan next month.The street is close to the (11) {#5} area, where many of the city's main shops, offices, restaurants, and entertainment venues are located, so it remains busy in the evening. Organisers hope the plan will keep the area lively (12) {#6} make it more comfortable for residents.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "cut down on"
+        },
+        {
+          "index": 1,
+          "value": "packed"
+        },
+        {
+          "index": 2,
+          "value": "the harder"
+        },
+        {
+          "index": 3,
+          "value": "so"
+        },
+        {
+          "index": 4,
+          "value": "downtown"
+        },
+        {
+          "index": 5,
+          "value": "and"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following community notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. QUIETER EVENINGS ON LE THANH STREET Le Thanh Street is a lively place with cafés and small shops. However, people in nearby flats say the area becomes too noisy late at night.The local committee wants businesses to (7) {#1} unnecessary noise after 9 p.m. Delivery drivers are asked to switch off their engines while waiting.On Friday evenings, some cafés are (8) {#2} with customers. The more people gather outside, (9) {#3} it is for nearby residents to sleep.New signs show where motorbikes should be parked, (10) {#4} pavements stay clear for pedestrians. The committee will review the plan next month.The street is close to the (11) {#5} area, where many of the city's main shops, offices, restaurants, and entertainment venues are located, so it remains busy in the evening. Organisers hope the plan will keep the area lively (12) {#6} make it more comfortable for residents.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. bike parking without blocking the pavement market lane is popular with people who cycle to its cafés and small shops. however, the pavement is narrow. riders often left their bicycles against trees, railings, and shop windows, which made it difficult for pedestrians to pass. (13) ______.the district committee considered two solutions. one was to put bicycle racks at the far end of the lane, where there was more space. the other was to turn two roadside car spaces into bicycle parking closer to the shops. (14) ______.during the first days of the trial, some cyclists still chained their bicycles to railings because they did not notice the new racks. (15) ______. by the second week, the racks were being used much more often and fewer bicycles blocked the pavement.at the end of the month, the committee checked the lane during its busiest periods. (16) ______. shop owners also said cyclists were still stopping to buy things, so they did not feel the new arrangement had reduced customer numbers.the committee decided to keep the bicycle racks and review the area again after three months. (17) ______. question 13.a. most shops wanted bicycles completely banned from the lane.b. shop owners wanted cycling to stay convenient, while pedestrians wanted a clearer pavement.c. pedestrians agreed that bicycles should remain beside shop windows.d. the committee decided that car parking was more important than cycling.write a, b, c, or d – question 14.a. the first option was immediately made permanent without a trial.b. both options were introduced across the whole lane on the same day.c. the committee delayed any decision until the following year.d. instead of deciding permanently, the committee tested the second option for one month.write a, b, c, or d – question 15.a. officials added yellow signs and pavement arrows pointing towards the new parking area.b. shop owners asked the committee to remove the bicycle racks immediately.c. cyclists were told to leave their bicycles outside the district instead.d. the committee reopened the two spaces for cars during the trial.write a, b, c, or d – question 16.a. more bicycles were blocking shop entrances than before the trial.b. drivers reported that the lane had become more difficult to enter.c. the pavement was noticeably clearer, especially on busy saturday afternoons.d. most cyclists had stopped visiting the shops on market lane.write a, b, c, or d – question 17.a. the committee concluded that bicycles should be removed from shopping areas.b. the trial showed that better bicycle parking could improve access without discouraging cycling.c. shop owners decided that car parking should replace the new bicycle racks.d. pedestrians preferred the original arrangement because the lane had more parking. write a, b, c, or d –",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. BIKE PARKING WITHOUT BLOCKING THE PAVEMENT Market Lane is popular with people who cycle to its cafés and small shops. However, the pavement is narrow. Riders often left their bicycles against trees, railings, and shop windows, which made it difficult for pedestrians to pass. (13) ______.The district committee considered two solutions. One was to put bicycle racks at the far end of the lane, where there was more space. The other was to turn two roadside car spaces into bicycle parking closer to the shops. (14) ______.During the first days of the trial, some cyclists still chained their bicycles to railings because they did not notice the new racks. (15) ______. By the second week, the racks were being used much more often and fewer bicycles blocked the pavement.At the end of the month, the committee checked the lane during its busiest periods. (16) ______. Shop owners also said cyclists were still stopping to buy things, so they did not feel the new arrangement had reduced customer numbers.The committee decided to keep the bicycle racks and review the area again after three months. (17) ______. Question 13.A. Most shops wanted bicycles completely banned from the lane.B. Shop owners wanted cycling to stay convenient, while pedestrians wanted a clearer pavement.C. Pedestrians agreed that bicycles should remain beside shop windows.D. The committee decided that car parking was more important than cycling.Write A, B, C, or D – {#1}Question 14.A. The first option was immediately made permanent without a trial.B. Both options were introduced across the whole lane on the same day.C. The committee delayed any decision until the following year.D. Instead of deciding permanently, the committee tested the second option for one month.Write A, B, C, or D – {#2}Question 15.A. Officials added yellow signs and pavement arrows pointing towards the new parking area.B. Shop owners asked the committee to remove the bicycle racks immediately.C. Cyclists were told to leave their bicycles outside the district instead.D. The committee reopened the two spaces for cars during the trial.Write A, B, C, or D – {#3}Question 16.A. More bicycles were blocking shop entrances than before the trial.B. Drivers reported that the lane had become more difficult to enter.C. The pavement was noticeably clearer, especially on busy Saturday afternoons.D. Most cyclists had stopped visiting the shops on Market Lane.Write A, B, C, or D – {#4}Question 17.A. The committee concluded that bicycles should be removed from shopping areas.B. The trial showed that better bicycle parking could improve access without discouraging cycling.C. Shop owners decided that car parking should replace the new bicycle racks.D. Pedestrians preferred the original arrangement because the lane had more parking. Write A, B, C, or D – {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. BIKE PARKING WITHOUT BLOCKING THE PAVEMENT Market Lane is popular with people who cycle to its cafés and small shops. However, the pavement is narrow. Riders often left their bicycles against trees, railings, and shop windows, which made it difficult for pedestrians to pass. (13) ______.The district committee considered two solutions. One was to put bicycle racks at the far end of the lane, where there was more space. The other was to turn two roadside car spaces into bicycle parking closer to the shops. (14) ______.During the first days of the trial, some cyclists still chained their bicycles to railings because they did not notice the new racks. (15) ______. By the second week, the racks were being used much more often and fewer bicycles blocked the pavement.At the end of the month, the committee checked the lane during its busiest periods. (16) ______. Shop owners also said cyclists were still stopping to buy things, so they did not feel the new arrangement had reduced customer numbers.The committee decided to keep the bicycle racks and review the area again after three months. (17) ______. Question 13.A. Most shops wanted bicycles completely banned from the lane.B. Shop owners wanted cycling to stay convenient, while pedestrians wanted a clearer pavement.C. Pedestrians agreed that bicycles should remain beside shop windows.D. The committee decided that car parking was more important than cycling.Write A, B, C, or D – {#1}Question 14.A. The first option was immediately made permanent without a trial.B. Both options were introduced across the whole lane on the same day.C. The committee delayed any decision until the following year.D. Instead of deciding permanently, the committee tested the second option for one month.Write A, B, C, or D – {#2}Question 15.A. Officials added yellow signs and pavement arrows pointing towards the new parking area.B. Shop owners asked the committee to remove the bicycle racks immediately.C. Cyclists were told to leave their bicycles outside the district instead.D. The committee reopened the two spaces for cars during the trial.Write A, B, C, or D – {#3}Question 16.A. More bicycles were blocking shop entrances than before the trial.B. Drivers reported that the lane had become more difficult to enter.C. The pavement was noticeably clearer, especially on busy Saturday afternoons.D. Most cyclists had stopped visiting the shops on Market Lane.Write A, B, C, or D – {#4}Question 17.A. The committee concluded that bicycles should be removed from shopping areas.B. The trial showed that better bicycle parking could improve access without discouraging cycling.C. Shop owners decided that car parking should replace the new bicycle racks.D. Pedestrians preferred the original arrangement because the lane had more parking. Write A, B, C, or D – {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. minh: yes, please. i haven't used this machine before.b. hoa: would you like me to show you how to buy a day ticket?c. hoa: choose “day pass” first, then select the number of tickets.d. minh: thanks. that looks much easier now. a. a – b – c – db. b – a – c – dc. b – c – a – dd. c – b – a – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Minh: Yes, please. I haven't used this machine before.b. Hoa: Would you like me to show you how to buy a day ticket?c. Hoa: Choose “Day Pass” first, then select the number of tickets.d. Minh: Thanks. That looks much easier now. A. a – b – c – dB. b – a – c – dC. b – c – a – dD. c – b – a – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Minh: Yes, please. I haven't used this machine before.b. Hoa: Would you like me to show you how to buy a day ticket?c. Hoa: Choose “Day Pass” first, then select the number of tickets.d. Minh: Thanks. That looks much easier now. A. a – b – c – dB. b – a – c – dC. b – c – a – dD. c – b – a – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. each pair should photograph one place where walking is difficult and write a short note about the problem.b. we will combine these notes into one class report for the neighbourhood committee.c. our class is carrying out a walkable streets survey this saturday.d. before you begin, your teacher will give each pair a map of the survey area.e. the report will suggest practical changes for safer and easier walking.a. c – d – a – b – eb. c – a – d – e – bc. d – c – a – b – ed. c – d – b – a – e write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Each pair should photograph one place where walking is difficult and write a short note about the problem.b. We will combine these notes into one class report for the neighbourhood committee.c. Our class is carrying out a Walkable Streets Survey this Saturday.d. Before you begin, your teacher will give each pair a map of the survey area.e. The report will suggest practical changes for safer and easier walking.A. c – d – a – b – eB. c – a – d – e – bC. d – c – a – b – eD. c – d – b – a – e Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Each pair should photograph one place where walking is difficult and write a short note about the problem.b. We will combine these notes into one class report for the neighbourhood committee.c. Our class is carrying out a Walkable Streets Survey this Saturday.d. Before you begin, your teacher will give each pair a map of the survey area.e. The report will suggest practical changes for safer and easier walking.A. c – d – a – b – eB. c – a – d – e – bC. d – c – a – b – eD. c – d – b – a – e Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. after the brighter lights were installed, more residents used the path in the evening.b. many people avoided a short walkway under the railway after dark because it was poorly lit.c. the council then replaced the old lamps with brighter, energy-saving ones.d. before approving the work, engineers checked that the existing wiring could be upgraded safely.a. b – c – d – ab. d – b – c – ac. b – d – c – ad. b – d – a – c write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. After the brighter lights were installed, more residents used the path in the evening.b. Many people avoided a short walkway under the railway after dark because it was poorly lit.c. The council then replaced the old lamps with brighter, energy-saving ones.d. Before approving the work, engineers checked that the existing wiring could be upgraded safely.A. b – c – d – aB. d – b – c – aC. b – d – c – aD. b – d – a – c Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. After the brighter lights were installed, more residents used the path in the evening.b. Many people avoided a short walkway under the railway after dark because it was poorly lit.c. The council then replaced the old lamps with brighter, energy-saving ones.d. Before approving the work, engineers checked that the existing wiring could be upgraded safely.A. b – c – d – aB. d – b – c – aC. b – d – c – aD. b – d – a – c Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. first, heavy traffic makes some streets noisy at rush hour.b. for these reasons, i prefer quieter areas outside the centre.c. i enjoy many things about my city, but i dislike two problems.d. air pollution is another problem on days with a lot of traffic.a. a – c – d – bb. c – d – a – bc. c – a – b – dd. c – a – d – b write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. First, heavy traffic makes some streets noisy at rush hour.b. For these reasons, I prefer quieter areas outside the centre.c. I enjoy many things about my city, but I dislike two problems.d. Air pollution is another problem on days with a lot of traffic.A. a – c – d – bB. c – d – a – bC. c – a – b – dD. c – a – d – b Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. First, heavy traffic makes some streets noisy at rush hour.b. For these reasons, I prefer quieter areas outside the centre.c. I enjoy many things about my city, but I dislike two problems.d. Air pollution is another problem on days with a lot of traffic.A. a – c – d – bB. c – d – a – bC. c – a – b – dD. c – a – d – b Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. on the map, bus stops, toilets, and other useful public amenities are clearly marked.b. visitors to east square often asked nearby shopkeepers for directions.c. to help them, the local council installed a large street map beside the square entrance.d. with these facilities clearly marked, first-time visitors can now find nearby services more easily.a. c – b – a – db. b – c – a – dc. b – a – c – dd. b – c – d – a write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. On the map, bus stops, toilets, and other useful public amenities are clearly marked.b. Visitors to East Square often asked nearby shopkeepers for directions.c. To help them, the local council installed a large street map beside the square entrance.d. With these facilities clearly marked, first-time visitors can now find nearby services more easily.A. c – b – a – dB. b – c – a – dC. b – a – c – dD. b – c – d – a Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. On the map, bus stops, toilets, and other useful public amenities are clearly marked.b. Visitors to East Square often asked nearby shopkeepers for directions.c. To help them, the local council installed a large street map beside the square entrance.d. With these facilities clearly marked, first-time visitors can now find nearby services more easily.A. c – b – a – dB. b – c – a – dC. b – a – c – dD. b – c – d – a Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31.the word “trial” in paragraph 2 is closest in meaning to ______.a. a permanent ruleb. a public complaintc. a short testd. a final decisionwrite a, b, c, or d – question 32.why had deliveries caused problems near the market?a. deliveries and visitors often arrived at the same time.b. most market sellers refused to use streets near the river.c. visitors preferred shopping before vendors finished setting up.d. the market had too few shops for evening customers.write a, b, c, or d – question 33.the phrase “this change” in paragraph 2 refers to ______.a. painting a loading area beside the marketb. asking volunteers to direct pedestriansc. allowing every vendor to choose delivery timesd. moving most deliveries to an earlier periodwrite a, b, c, or d – question 34.which statement best paraphrases the organisers' conclusion?a. the market should close earlier to prevent traffic near the river.b. changing delivery times can improve access without stopping market activity.c. visitors should avoid the market whenever delivery vehicles are nearby.d. only larger roads can solve access problems around busy markets.write a, b, c, or d – question 35.what can be inferred about some of the vendors?a. their concerns were mainly about practical delivery timing.b. most wanted the market to return to its old schedule.c. fresh-food sellers caused most congestion near the market.d. they preferred closing the market to changing delivery times.write a, b, c, or d – question 36.in which paragraph does the writer mention an adjustment made after drivers reported a difficulty?a. paragraph 1b. paragraph 2c. paragraph 4d. paragraph 5write a, b, c, or d – question 37.what is the main purpose of paragraph 4?a. to explain why the market became popular with touristsb. to describe the results of the trial and one adjustmentc. to compare delivery systems at two different city marketsd. to show why residents wanted the night market to closewrite a, b, c, or d – question 38.which of the following is not supported by the passage?a. the new plan moved most deliveries to a time before the market opened.b. a marked loading area was introduced for delivery vehicles.c. the organisers banned all vehicle deliveries near the market.d. residents reported fewer problems with blocked pavements.write a, b, c, or d – question 39.which of the following best summarises the passage?a. a night market increased sales by allowing more vehicles into narrow streets.b. residents closed a market after traffic problems became difficult to control.c. a delivery-time trial improved access while keeping the market operating.d. vendors moved the market because early deliveries damaged fresh food.write a, b, c, or d – question 40.which of the following is the best title for the passage?a. a better time for market deliveriesb. why the riverside market became largerc. the most popular shops at nightd. closing streets around the city centrewrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31.The word “trial” in paragraph 2 is closest in meaning to ______.A. a permanent ruleB. a public complaintC. a short testD. a final decisionWrite A, B, C, or D – {#1}Question 32.Why had deliveries caused problems near the market?A. Deliveries and visitors often arrived at the same time.B. Most market sellers refused to use streets near the river.C. Visitors preferred shopping before vendors finished setting up.D. The market had too few shops for evening customers.Write A, B, C, or D – {#2}Question 33.The phrase “This change” in paragraph 2 refers to ______.A. painting a loading area beside the marketB. asking volunteers to direct pedestriansC. allowing every vendor to choose delivery timesD. moving most deliveries to an earlier periodWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the organisers' conclusion?A. The market should close earlier to prevent traffic near the river.B. Changing delivery times can improve access without stopping market activity.C. Visitors should avoid the market whenever delivery vehicles are nearby.D. Only larger roads can solve access problems around busy markets.Write A, B, C, or D – {#4}Question 35.What can be inferred about some of the vendors?A. Their concerns were mainly about practical delivery timing.B. Most wanted the market to return to its old schedule.C. Fresh-food sellers caused most congestion near the market.D. They preferred closing the market to changing delivery times.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention an adjustment made after drivers reported a difficulty?A. Paragraph 1B. Paragraph 2C. Paragraph 4D. Paragraph 5Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why the market became popular with touristsB. To describe the results of the trial and one adjustmentC. To compare delivery systems at two different city marketsD. To show why residents wanted the night market to closeWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. The new plan moved most deliveries to a time before the market opened.B. A marked loading area was introduced for delivery vehicles.C. The organisers banned all vehicle deliveries near the market.D. Residents reported fewer problems with blocked pavements.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A night market increased sales by allowing more vehicles into narrow streets.B. Residents closed a market after traffic problems became difficult to control.C. A delivery-time trial improved access while keeping the market operating.D. Vendors moved the market because early deliveries damaged fresh food.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. A Better Time for Market DeliveriesB. Why the Riverside Market Became LargerC. The Most Popular Shops at NightD. Closing Streets Around the City CentreWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31.The word “trial” in paragraph 2 is closest in meaning to ______.A. a permanent ruleB. a public complaintC. a short testD. a final decisionWrite A, B, C, or D – {#1}Question 32.Why had deliveries caused problems near the market?A. Deliveries and visitors often arrived at the same time.B. Most market sellers refused to use streets near the river.C. Visitors preferred shopping before vendors finished setting up.D. The market had too few shops for evening customers.Write A, B, C, or D – {#2}Question 33.The phrase “This change” in paragraph 2 refers to ______.A. painting a loading area beside the marketB. asking volunteers to direct pedestriansC. allowing every vendor to choose delivery timesD. moving most deliveries to an earlier periodWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the organisers' conclusion?A. The market should close earlier to prevent traffic near the river.B. Changing delivery times can improve access without stopping market activity.C. Visitors should avoid the market whenever delivery vehicles are nearby.D. Only larger roads can solve access problems around busy markets.Write A, B, C, or D – {#4}Question 35.What can be inferred about some of the vendors?A. Their concerns were mainly about practical delivery timing.B. Most wanted the market to return to its old schedule.C. Fresh-food sellers caused most congestion near the market.D. They preferred closing the market to changing delivery times.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention an adjustment made after drivers reported a difficulty?A. Paragraph 1B. Paragraph 2C. Paragraph 4D. Paragraph 5Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why the market became popular with touristsB. To describe the results of the trial and one adjustmentC. To compare delivery systems at two different city marketsD. To show why residents wanted the night market to closeWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. The new plan moved most deliveries to a time before the market opened.B. A marked loading area was introduced for delivery vehicles.C. The organisers banned all vehicle deliveries near the market.D. Residents reported fewer problems with blocked pavements.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A night market increased sales by allowing more vehicles into narrow streets.B. Residents closed a market after traffic problems became difficult to control.C. A delivery-time trial improved access while keeping the market operating.D. Vendors moved the market because early deliveries damaged fresh food.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. A Better Time for Market DeliveriesB. Why the Riverside Market Became LargerC. The Most Popular Shops at NightD. Closing Streets Around the City CentreWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the main idea of the passage?a. the city replaced crowded streets with new walking paths.b. local businesses asked visitors to avoid the main avenue.c. a walking map helps visitors choose suitable routes.d. station staff created a map mainly to reduce traffic.write a, b, c, or d – question 24.the word “suitable” in paragraph 2 is closest in meaning to ______.a. appropriateb. expensivec. crowdedd. temporarywrite a, b, c, or d – question 25.according to paragraph 2, who is the blue route especially helpful for?a. visitors who wanted to reach the district fastest.b. shop owners working beside the main avenue.c. people who preferred walking through the small park.d. wheelchair users and parents pushing young children.write a, b, c, or d – question 26.the phrase “this section” in paragraph 3 refers to ______.a. the station exit near the avenueb. the turn behind the post officec. the park beside the green routed. the qr code on the mapwrite a, b, c, or d – question 27.which of the following is not true according to the passage?a. the red route is the quickest of the three.b. the green route passes through a quieter area.c. the blue route includes steep slopes and steps.d. the map can be accessed using a qr code.write a, b, c, or d – question 28.which statement best paraphrases the final paragraph?a. the map improves route choice without changing the streets.b. the map is useful only when city traffic is light.c. the city should replace maps with wider pedestrian roads.d. the district became less crowded after the map appeared.write a, b, c, or d – question 29.what is the main purpose of paragraph 2?a. to explain why visitors often ask station staff for helpb. to describe businesses along the main avenuec. to show how qr data were collectedd. to compare the three walking routes on the mapwrite a, b, c, or d – question 30.what can be inferred about the transport office?a. it plans to close the main avenue to pedestrians.b. it responds when users find route information unclear.c. it expects the map to remove traffic congestion.d. it believes longer routes are always better choices.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the main idea of the passage?A. The city replaced crowded streets with new walking paths.B. Local businesses asked visitors to avoid the main avenue.C. A walking map helps visitors choose suitable routes.D. Station staff created a map mainly to reduce traffic.Write A, B, C, or D – {#1}Question 24.The word “suitable” in paragraph 2 is closest in meaning to ______.A. appropriateB. expensiveC. crowdedD. temporaryWrite A, B, C, or D – {#2}Question 25.According to paragraph 2, who is the blue route especially helpful for?A. Visitors who wanted to reach the district fastest.B. Shop owners working beside the main avenue.C. People who preferred walking through the small park.D. Wheelchair users and parents pushing young children.Write A, B, C, or D – {#3}Question 26.The phrase “this section” in paragraph 3 refers to ______.A. the station exit near the avenueB. the turn behind the post officeC. the park beside the green routeD. the QR code on the mapWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The red route is the quickest of the three.B. The green route passes through a quieter area.C. The blue route includes steep slopes and steps.D. The map can be accessed using a QR code.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the final paragraph?A. The map improves route choice without changing the streets.B. The map is useful only when city traffic is light.C. The city should replace maps with wider pedestrian roads.D. The district became less crowded after the map appeared.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 2?A. To explain why visitors often ask station staff for helpB. To describe businesses along the main avenueC. To show how QR data were collectedD. To compare the three walking routes on the mapWrite A, B, C, or D – {#7}Question 30.What can be inferred about the transport office?A. It plans to close the main avenue to pedestrians.B. It responds when users find route information unclear.C. It expects the map to remove traffic congestion.D. It believes longer routes are always better choices.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the main idea of the passage?A. The city replaced crowded streets with new walking paths.B. Local businesses asked visitors to avoid the main avenue.C. A walking map helps visitors choose suitable routes.D. Station staff created a map mainly to reduce traffic.Write A, B, C, or D – {#1}Question 24.The word “suitable” in paragraph 2 is closest in meaning to ______.A. appropriateB. expensiveC. crowdedD. temporaryWrite A, B, C, or D – {#2}Question 25.According to paragraph 2, who is the blue route especially helpful for?A. Visitors who wanted to reach the district fastest.B. Shop owners working beside the main avenue.C. People who preferred walking through the small park.D. Wheelchair users and parents pushing young children.Write A, B, C, or D – {#3}Question 26.The phrase “this section” in paragraph 3 refers to ______.A. the station exit near the avenueB. the turn behind the post officeC. the park beside the green routeD. the QR code on the mapWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The red route is the quickest of the three.B. The green route passes through a quieter area.C. The blue route includes steep slopes and steps.D. The map can be accessed using a QR code.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the final paragraph?A. The map improves route choice without changing the streets.B. The map is useful only when city traffic is light.C. The city should replace maps with wider pedestrian roads.D. The district became less crowded after the map appeared.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 2?A. To explain why visitors often ask station staff for helpB. To describe businesses along the main avenueC. To show how QR data were collectedD. To compare the three walking routes on the mapWrite A, B, C, or D – {#7}Question 30.What can be inferred about the transport office?A. It plans to close the main avenue to pedestrians.B. It responds when users find route information unclear.C. It expects the map to remove traffic congestion.D. It believes longer routes are always better choices.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A. hang out with",
+      "id": "question-1901234-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. city library after-school hub green square library has opened a new study area for teenagers. many students live nearby and often (1) {#1} friends there after school.the library is one of the most useful public (2) {#2} in the district. last month, staff (3) {#3} a short survey to learn what teenagers needed.the more students use the room, (4) {#4} it becomes between 4 and 5 p.m. to reduce crowding, some tables can now be booked in advance.because the library is near a metro station, students can (5) {#5} the area without asking their parents for a ride. staff hope the new service will make the neighbourhood more (6) {#6} for young people.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. CITY LIBRARY AFTER-SCHOOL HUB Green Square Library has opened a new study area for teenagers. Many students live nearby and often (1) [Blank 1] friends there after school.The library is one of the most useful public (2) [Blank 2] in the district. Last month, staff (3) [Blank 3] a short survey to learn what teenagers needed.The more students use the room, (4) [Blank 4] it becomes between 4 and 5 p.m. To reduce crowding, some tables can now be booked in advance.Because the library is near a metro station, students can (5) [Blank 5] the area without asking their parents for a ride. Staff hope the new service will make the neighbourhood more (6) [Blank 6] for young people.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.hang out withB.carry outC.come down withD.cut down onÔ (2):A.amenitiesB.suburbsC.congestionD.routesÔ (3):A.carried outB.got aroundC.came down withD.cut down onÔ (4):A.noisierB.more noisyC.the noisiestD.the noisierÔ (5):A.cut down onB.get aroundC.hang out withD.carry outÔ (6):A.liveableB.downtownC.packedD.crowded",
+      "questionId": "question-1901234-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. city library after-school hub green square library has opened a new study area for teenagers. many students live nearby and often (1) [blank 1] friends there after school.the library is one of the most useful public (2) [blank 2] in the district. last month, staff (3) [blank 3] a short survey to learn what teenagers needed.the more students use the room, (4) [blank 4] it becomes between 4 and 5 p.m. to reduce crowding, some tables can now be booked in advance.because the library is near a metro station, students can (5) [blank 5] the area without asking their parents for a ride. staff hope the new service will make the neighbourhood more (6) [blank 6] for young people.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.hang out withb.carry outc.come down withd.cut down onô (2):a.amenitiesb.suburbsc.congestiond.routesô (3):a.carried outb.got aroundc.came down withd.cut down onô (4):a.noisierb.more noisyc.the noisiestd.the noisierô (5):a.cut down onb.get aroundc.hang out withd.carry outô (6):a.liveableb.downtownc.packedd.crowded",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. hang out with"
+        },
+        {
+          "index": 1,
+          "value": "A. amenities"
+        },
+        {
+          "index": 2,
+          "value": "A. carried out"
+        },
+        {
+          "index": 3,
+          "value": "D. the noisier"
+        },
+        {
+          "index": 4,
+          "value": "B. get around"
+        },
+        {
+          "index": 5,
+          "value": "A. liveable"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. cut down on",
+      "id": "question-1901234-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following community notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. quieter evenings on le thanh street le thanh street is a lively place with cafés and small shops. however, people in nearby flats say the area becomes too noisy late at night.the local committee wants businesses to (7) {#1} unnecessary noise after 9 p.m. delivery drivers are asked to switch off their engines while waiting.on friday evenings, some cafés are (8) {#2} with customers. the more people gather outside, (9) {#3} it is for nearby residents to sleep.new signs show where motorbikes should be parked, (10) {#4} pavements stay clear for pedestrians. the committee will review the plan next month.the street is close to the (11) {#5} area, where many of the city's main shops, offices, restaurants, and entertainment venues are located, so it remains busy in the evening. organisers hope the plan will keep the area lively (12) {#6} make it more comfortable for residents.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following community notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. QUIETER EVENINGS ON LE THANH STREET Le Thanh Street is a lively place with cafés and small shops. However, people in nearby flats say the area becomes too noisy late at night.The local committee wants businesses to (7) [Blank 7] unnecessary noise after 9 p.m. Delivery drivers are asked to switch off their engines while waiting.On Friday evenings, some cafés are (8) [Blank 8] with customers. The more people gather outside, (9) [Blank 9] it is for nearby residents to sleep.New signs show where motorbikes should be parked, (10) [Blank 10] pavements stay clear for pedestrians. The committee will review the plan next month.The street is close to the (11) [Blank 11] area, where many of the city's main shops, offices, restaurants, and entertainment venues are located, so it remains busy in the evening. Organisers hope the plan will keep the area lively (12) [Blank 12] make it more comfortable for residents.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.get aroundB.hang out withC.carry outD.cut down onÔ (8):A.emptyB.packedC.liveableD.peacefulÔ (9):A.harderB.more hardC.hardestD.the harderÔ (10):A.soB.althoughC.unlessD.becauseÔ (11):A.liveableB.downtownC.suburbanD.safeÔ (12):A.becauseB.butC.andD.unless",
+      "questionId": "question-1901234-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following community notice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. quieter evenings on le thanh street le thanh street is a lively place with cafés and small shops. however, people in nearby flats say the area becomes too noisy late at night.the local committee wants businesses to (7) [blank 7] unnecessary noise after 9 p.m. delivery drivers are asked to switch off their engines while waiting.on friday evenings, some cafés are (8) [blank 8] with customers. the more people gather outside, (9) [blank 9] it is for nearby residents to sleep.new signs show where motorbikes should be parked, (10) [blank 10] pavements stay clear for pedestrians. the committee will review the plan next month.the street is close to the (11) [blank 11] area, where many of the city's main shops, offices, restaurants, and entertainment venues are located, so it remains busy in the evening. organisers hope the plan will keep the area lively (12) [blank 12] make it more comfortable for residents.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.get aroundb.hang out withc.carry outd.cut down onô (8):a.emptyb.packedc.liveabled.peacefulô (9):a.harderb.more hardc.hardestd.the harderô (10):a.sob.althoughc.unlessd.becauseô (11):a.liveableb.downtownc.suburband.safeô (12):a.becauseb.butc.andd.unless",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. cut down on"
+        },
+        {
+          "index": 1,
+          "value": "B. packed"
+        },
+        {
+          "index": 2,
+          "value": "D. the harder"
+        },
+        {
+          "index": 3,
+          "value": "A. so"
+        },
+        {
+          "index": 4,
+          "value": "B. downtown"
+        },
+        {
+          "index": 5,
+          "value": "C. and"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1901234-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "questionNumber": 17,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. bike parking without blocking the pavement market lane is popular with people who cycle to its cafés and small shops. however, the pavement is narrow. riders often left their bicycles against trees, railings, and shop windows, which made it difficult for pedestrians to pass. (13) ______.the district committee considered two solutions. one was to put bicycle racks at the far end of the lane, where there was more space. the other was to turn two roadside car spaces into bicycle parking closer to the shops. (14) ______.during the first days of the trial, some cyclists still chained their bicycles to railings because they did not notice the new racks. (15) ______. by the second week, the racks were being used much more often and fewer bicycles blocked the pavement.at the end of the month, the committee checked the lane during its busiest periods. (16) ______. shop owners also said cyclists were still stopping to buy things, so they did not feel the new arrangement had reduced customer numbers.the committee decided to keep the bicycle racks and review the area again after three months. (17) ______. question 13.a. most shops wanted bicycles completely banned from the lane.b. shop owners wanted cycling to stay convenient, while pedestrians wanted a clearer pavement.c. pedestrians agreed that bicycles should remain beside shop windows.d. the committee decided that car parking was more important than cycling.write a, b, c, or d – {#1}question 14.a. the first option was immediately made permanent without a trial.b. both options were introduced across the whole lane on the same day.c. the committee delayed any decision until the following year.d. instead of deciding permanently, the committee tested the second option for one month.write a, b, c, or d – {#2}question 15.a. officials added yellow signs and pavement arrows pointing towards the new parking area.b. shop owners asked the committee to remove the bicycle racks immediately.c. cyclists were told to leave their bicycles outside the district instead.d. the committee reopened the two spaces for cars during the trial.write a, b, c, or d – {#3}question 16.a. more bicycles were blocking shop entrances than before the trial.b. drivers reported that the lane had become more difficult to enter.c. the pavement was noticeably clearer, especially on busy saturday afternoons.d. most cyclists had stopped visiting the shops on market lane.write a, b, c, or d – {#4}question 17.a. the committee concluded that bicycles should be removed from shopping areas.b. the trial showed that better bicycle parking could improve access without discouraging cycling.c. shop owners decided that car parking should replace the new bicycle racks.d. pedestrians preferred the original arrangement because the lane had more parking. write a, b, c, or d – {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. BIKE PARKING WITHOUT BLOCKING THE PAVEMENT Market Lane is popular with people who cycle to its cafés and small shops. However, the pavement is narrow. Riders often left their bicycles against trees, railings, and shop windows, which made it difficult for pedestrians to pass. (13) ______.The district committee considered two solutions. One was to put bicycle racks at the far end of the lane, where there was more space. The other was to turn two roadside car spaces into bicycle parking closer to the shops. (14) ______.During the first days of the trial, some cyclists still chained their bicycles to railings because they did not notice the new racks. (15) ______. By the second week, the racks were being used much more often and fewer bicycles blocked the pavement.At the end of the month, the committee checked the lane during its busiest periods. (16) ______. Shop owners also said cyclists were still stopping to buy things, so they did not feel the new arrangement had reduced customer numbers.The committee decided to keep the bicycle racks and review the area again after three months. (17) ______. Question 13.A. Most shops wanted bicycles completely banned from the lane.B. Shop owners wanted cycling to stay convenient, while pedestrians wanted a clearer pavement.C. Pedestrians agreed that bicycles should remain beside shop windows.D. The committee decided that car parking was more important than cycling.Write A, B, C, or D – {#1}Question 14.A. The first option was immediately made permanent without a trial.B. Both options were introduced across the whole lane on the same day.C. The committee delayed any decision until the following year.D. Instead of deciding permanently, the committee tested the second option for one month.Write A, B, C, or D – {#2}Question 15.A. Officials added yellow signs and pavement arrows pointing towards the new parking area.B. Shop owners asked the committee to remove the bicycle racks immediately.C. Cyclists were told to leave their bicycles outside the district instead.D. The committee reopened the two spaces for cars during the trial.Write A, B, C, or D – {#3}Question 16.A. More bicycles were blocking shop entrances than before the trial.B. Drivers reported that the lane had become more difficult to enter.C. The pavement was noticeably clearer, especially on busy Saturday afternoons.D. Most cyclists had stopped visiting the shops on Market Lane.Write A, B, C, or D – {#4}Question 17.A. The committee concluded that bicycles should be removed from shopping areas.B. The trial showed that better bicycle parking could improve access without discouraging cycling.C. Shop owners decided that car parking should replace the new bicycle racks.D. Pedestrians preferred the original arrangement because the lane had more parking. Write A, B, C, or D – {#5}",
+      "questionId": "question-1901234-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. bike parking without blocking the pavement market lane is popular with people who cycle to its cafés and small shops. however, the pavement is narrow. riders often left their bicycles against trees, railings, and shop windows, which made it difficult for pedestrians to pass. (13) ______.the district committee considered two solutions. one was to put bicycle racks at the far end of the lane, where there was more space. the other was to turn two roadside car spaces into bicycle parking closer to the shops. (14) ______.during the first days of the trial, some cyclists still chained their bicycles to railings because they did not notice the new racks. (15) ______. by the second week, the racks were being used much more often and fewer bicycles blocked the pavement.at the end of the month, the committee checked the lane during its busiest periods. (16) ______. shop owners also said cyclists were still stopping to buy things, so they did not feel the new arrangement had reduced customer numbers.the committee decided to keep the bicycle racks and review the area again after three months. (17) ______. question 13.a. most shops wanted bicycles completely banned from the lane.b. shop owners wanted cycling to stay convenient, while pedestrians wanted a clearer pavement.c. pedestrians agreed that bicycles should remain beside shop windows.d. the committee decided that car parking was more important than cycling.write a, b, c, or d – {#1}question 14.a. the first option was immediately made permanent without a trial.b. both options were introduced across the whole lane on the same day.c. the committee delayed any decision until the following year.d. instead of deciding permanently, the committee tested the second option for one month.write a, b, c, or d – {#2}question 15.a. officials added yellow signs and pavement arrows pointing towards the new parking area.b. shop owners asked the committee to remove the bicycle racks immediately.c. cyclists were told to leave their bicycles outside the district instead.d. the committee reopened the two spaces for cars during the trial.write a, b, c, or d – {#3}question 16.a. more bicycles were blocking shop entrances than before the trial.b. drivers reported that the lane had become more difficult to enter.c. the pavement was noticeably clearer, especially on busy saturday afternoons.d. most cyclists had stopped visiting the shops on market lane.write a, b, c, or d – {#4}question 17.a. the committee concluded that bicycles should be removed from shopping areas.b. the trial showed that better bicycle parking could improve access without discouraging cycling.c. shop owners decided that car parking should replace the new bicycle racks.d. pedestrians preferred the original arrangement because the lane had more parking. write a, b, c, or d – {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1901234-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. minh: yes, please. i haven't used this machine before.b. hoa: would you like me to show you how to buy a day ticket?c. hoa: choose \"day pass\" first, then select the number of tickets.d. minh: thanks. that looks much easier now. a. a – b – c – db. b – a – c – dc. b – c – a – dd. c – b – a – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Minh: Yes, please. I haven't used this machine before.b. Hoa: Would you like me to show you how to buy a day ticket?c. Hoa: Choose \"Day Pass\" first, then select the number of tickets.d. Minh: Thanks. That looks much easier now. A. a – b – c – dB. b – a – c – dC. b – c – a – dD. c – b – a – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1901234-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. minh: yes, please. i haven't used this machine before.b. hoa: would you like me to show you how to buy a day ticket?c. hoa: choose \"day pass\" first, then select the number of tickets.d. minh: thanks. that looks much easier now. a. a – b – c – db. b – a – c – dc. b – c – a – dd. c – b – a – d write a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1901234-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. each pair should photograph one place where walking is difficult and write a short note about the problem.b. we will combine these notes into one class report for the neighbourhood committee.c. our class is carrying out a walkable streets survey this saturday.d. before you begin, your teacher will give each pair a map of the survey area.e. the report will suggest practical changes for safer and easier walking.a. c – d – a – b – eb. c – a – d – e – bc. d – c – a – b – ed. c – d – b – a – e write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Each pair should photograph one place where walking is difficult and write a short note about the problem.b. We will combine these notes into one class report for the neighbourhood committee.c. Our class is carrying out a Walkable Streets Survey this Saturday.d. Before you begin, your teacher will give each pair a map of the survey area.e. The report will suggest practical changes for safer and easier walking.A. c – d – a – b – eB. c – a – d – e – bC. d – c – a – b – eD. c – d – b – a – e Write A, B, C, or D – {#1}",
+      "questionId": "question-1901234-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. each pair should photograph one place where walking is difficult and write a short note about the problem.b. we will combine these notes into one class report for the neighbourhood committee.c. our class is carrying out a walkable streets survey this saturday.d. before you begin, your teacher will give each pair a map of the survey area.e. the report will suggest practical changes for safer and easier walking.a. c – d – a – b – eb. c – a – d – e – bc. d – c – a – b – ed. c – d – b – a – e write a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1901234-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. on the map, bus stops, toilets, and other useful public amenities are clearly marked.b. visitors to east square often asked nearby shopkeepers for directions.c. to help them, the local council installed a large street map beside the square entrance.d. with these facilities clearly marked, first-time visitors can now find nearby services more easily.a. c – b – a – db. b – c – a – dc. b – a – c – dd. b – c – d – a write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. On the map, bus stops, toilets, and other useful public amenities are clearly marked.b. Visitors to East Square often asked nearby shopkeepers for directions.c. To help them, the local council installed a large street map beside the square entrance.d. With these facilities clearly marked, first-time visitors can now find nearby services more easily.A. c – b – a – dB. b – c – a – dC. b – a – c – dD. b – c – d – a Write A, B, C, or D – {#1}",
+      "questionId": "question-1901234-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. on the map, bus stops, toilets, and other useful public amenities are clearly marked.b. visitors to east square often asked nearby shopkeepers for directions.c. to help them, the local council installed a large street map beside the square entrance.d. with these facilities clearly marked, first-time visitors can now find nearby services more easily.a. c – b – a – db. b – c – a – dc. b – a – c – dd. b – c – d – a write a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1901234-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. after the brighter lights were installed, more residents used the path in the evening.b. many people avoided a short walkway under the railway after dark because it was poorly lit.c. the council then replaced the old lamps with brighter, energy-saving ones.d. before approving the work, engineers checked that the existing wiring could be upgraded safely.a. b – c – d – ab. d – b – c – ac. b – d – c – ad. b – d – a – c write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. After the brighter lights were installed, more residents used the path in the evening.b. Many people avoided a short walkway under the railway after dark because it was poorly lit.c. The council then replaced the old lamps with brighter, energy-saving ones.d. Before approving the work, engineers checked that the existing wiring could be upgraded safely.A. b – c – d – aB. d – b – c – aC. b – d – c – aD. b – d – a – c Write A, B, C, or D – {#1}",
+      "questionId": "question-1901234-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. after the brighter lights were installed, more residents used the path in the evening.b. many people avoided a short walkway under the railway after dark because it was poorly lit.c. the council then replaced the old lamps with brighter, energy-saving ones.d. before approving the work, engineers checked that the existing wiring could be upgraded safely.a. b – c – d – ab. d – b – c – ac. b – d – c – ad. b – d – a – c write a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1901234-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. first, heavy traffic makes some streets noisy at rush hour.b. for these reasons, i prefer quieter areas outside the centre.c. i enjoy many things about my city, but i dislike two problems.d. air pollution is another problem on days with a lot of traffic.a. a – c – d – bb. c – d – a – bc. c – a – b – dd. c – a – d – b write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. First, heavy traffic makes some streets noisy at rush hour.b. For these reasons, I prefer quieter areas outside the centre.c. I enjoy many things about my city, but I dislike two problems.d. Air pollution is another problem on days with a lot of traffic.A. a – c – d – bB. c – d – a – bC. c – a – b – dD. c – a – d – b Write A, B, C, or D – {#1}",
+      "questionId": "question-1901234-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. first, heavy traffic makes some streets noisy at rush hour.b. for these reasons, i prefer quieter areas outside the centre.c. i enjoy many things about my city, but i dislike two problems.d. air pollution is another problem on days with a lot of traffic.a. a – c – d – bb. c – d – a – bc. c – a – b – dd. c – a – d – b write a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1901234-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the main idea of the passage?a. the city replaced crowded streets with new walking paths.b. local businesses asked visitors to avoid the main avenue.c. a walking map helps visitors choose suitable routes.d. station staff created a map mainly to reduce traffic.write a, b, c, or d – {#1}question 24.the word \"suitable\" in paragraph 2 is closest in meaning to ______.a. appropriateb. expensivec. crowdedd. temporarywrite a, b, c, or d – {#2}question 25.according to paragraph 2, who is the blue route especially helpful for?a. visitors who wanted to reach the district fastest.b. shop owners working beside the main avenue.c. people who preferred walking through the small park.d. wheelchair users and parents pushing young children.write a, b, c, or d – {#3}question 26.the phrase \"this section\" in paragraph 3 refers to ______.a. the station exit near the avenueb. the turn behind the post officec. the park beside the green routed. the qr code on the mapwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. the red route is the quickest of the three.b. the green route passes through a quieter area.c. the blue route includes steep slopes and steps.d. the map can be accessed using a qr code.write a, b, c, or d – {#5}question 28.which statement best paraphrases the final paragraph?a. the map improves route choice without changing the streets.b. the map is useful only when city traffic is light.c. the city should replace maps with wider pedestrian roads.d. the district became less crowded after the map appeared.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 2?a. to explain why visitors often ask station staff for helpb. to describe businesses along the main avenuec. to show how qr data were collectedd. to compare the three walking routes on the mapwrite a, b, c, or d – {#7}question 30.what can be inferred about the transport office?a. it plans to close the main avenue to pedestrians.b. it responds when users find route information unclear.c. it expects the map to remove traffic congestion.d. it believes longer routes are always better choices.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the main idea of the passage?A. The city replaced crowded streets with new walking paths.B. Local businesses asked visitors to avoid the main avenue.C. A walking map helps visitors choose suitable routes.D. Station staff created a map mainly to reduce traffic.Write A, B, C, or D – {#1}Question 24.The word \"suitable\" in paragraph 2 is closest in meaning to ______.A. appropriateB. expensiveC. crowdedD. temporaryWrite A, B, C, or D – {#2}Question 25.According to paragraph 2, who is the blue route especially helpful for?A. Visitors who wanted to reach the district fastest.B. Shop owners working beside the main avenue.C. People who preferred walking through the small park.D. Wheelchair users and parents pushing young children.Write A, B, C, or D – {#3}Question 26.The phrase \"this section\" in paragraph 3 refers to ______.A. the station exit near the avenueB. the turn behind the post officeC. the park beside the green routeD. the QR code on the mapWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The red route is the quickest of the three.B. The green route passes through a quieter area.C. The blue route includes steep slopes and steps.D. The map can be accessed using a QR code.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the final paragraph?A. The map improves route choice without changing the streets.B. The map is useful only when city traffic is light.C. The city should replace maps with wider pedestrian roads.D. The district became less crowded after the map appeared.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 2?A. To explain why visitors often ask station staff for helpB. To describe businesses along the main avenueC. To show how QR data were collectedD. To compare the three walking routes on the mapWrite A, B, C, or D – {#7}Question 30.What can be inferred about the transport office?A. It plans to close the main avenue to pedestrians.B. It responds when users find route information unclear.C. It expects the map to remove traffic congestion.D. It believes longer routes are always better choices.Write A, B, C, or D – {#8}",
+      "questionId": "question-1901234-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the main idea of the passage?a. the city replaced crowded streets with new walking paths.b. local businesses asked visitors to avoid the main avenue.c. a walking map helps visitors choose suitable routes.d. station staff created a map mainly to reduce traffic.write a, b, c, or d – {#1}question 24.the word \"suitable\" in paragraph 2 is closest in meaning to ______.a. appropriateb. expensivec. crowdedd. temporarywrite a, b, c, or d – {#2}question 25.according to paragraph 2, who is the blue route especially helpful for?a. visitors who wanted to reach the district fastest.b. shop owners working beside the main avenue.c. people who preferred walking through the small park.d. wheelchair users and parents pushing young children.write a, b, c, or d – {#3}question 26.the phrase \"this section\" in paragraph 3 refers to ______.a. the station exit near the avenueb. the turn behind the post officec. the park beside the green routed. the qr code on the mapwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. the red route is the quickest of the three.b. the green route passes through a quieter area.c. the blue route includes steep slopes and steps.d. the map can be accessed using a qr code.write a, b, c, or d – {#5}question 28.which statement best paraphrases the final paragraph?a. the map improves route choice without changing the streets.b. the map is useful only when city traffic is light.c. the city should replace maps with wider pedestrian roads.d. the district became less crowded after the map appeared.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 2?a. to explain why visitors often ask station staff for helpb. to describe businesses along the main avenuec. to show how qr data were collectedd. to compare the three walking routes on the mapwrite a, b, c, or d – {#7}question 30.what can be inferred about the transport office?a. it plans to close the main avenue to pedestrians.b. it responds when users find route information unclear.c. it expects the map to remove traffic congestion.d. it believes longer routes are always better choices.write a, b, c, or d – {#8}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1901234-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31.the word \"trial\" in paragraph 2 is closest in meaning to ______.a. a permanent ruleb. a public complaintc. a short testd. a final decisionwrite a, b, c, or d – {#1}question 32.why had deliveries caused problems near the market?a. deliveries and visitors often arrived at the same time.b. most market sellers refused to use streets near the river.c. visitors preferred shopping before vendors finished setting up.d. the market had too few shops for evening customers.write a, b, c, or d – {#2}question 33.the phrase \"this change\" in paragraph 2 refers to ______.a. painting a loading area beside the marketb. asking volunteers to direct pedestriansc. allowing every vendor to choose delivery timesd. moving most deliveries to an earlier periodwrite a, b, c, or d – {#3}question 34.which statement best paraphrases the organisers' conclusion?a. the market should close earlier to prevent traffic near the river.b. changing delivery times can improve access without stopping market activity.c. visitors should avoid the market whenever delivery vehicles are nearby.d. only larger roads can solve access problems around busy markets.write a, b, c, or d – {#4}question 35.what can be inferred about some of the vendors?a. their concerns were mainly about practical delivery timing.b. most wanted the market to return to its old schedule.c. fresh-food sellers caused most congestion near the market.d. they preferred closing the market to changing delivery times.write a, b, c, or d – {#5}question 36.in which paragraph does the writer mention an adjustment made after drivers reported a difficulty?a. paragraph 1b. paragraph 2c. paragraph 4d. paragraph 5write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 4?a. to explain why the market became popular with touristsb. to describe the results of the trial and one adjustmentc. to compare delivery systems at two different city marketsd. to show why residents wanted the night market to closewrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. the new plan moved most deliveries to a time before the market opened.b. a marked loading area was introduced for delivery vehicles.c. the organisers banned all vehicle deliveries near the market.d. residents reported fewer problems with blocked pavements.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. a night market increased sales by allowing more vehicles into narrow streets.b. residents closed a market after traffic problems became difficult to control.c. a delivery-time trial improved access while keeping the market operating.d. vendors moved the market because early deliveries damaged fresh food.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. a better time for market deliveriesb. why the riverside market became largerc. the most popular shops at nightd. closing streets around the city centrewrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31.The word \"trial\" in paragraph 2 is closest in meaning to ______.A. a permanent ruleB. a public complaintC. a short testD. a final decisionWrite A, B, C, or D – {#1}Question 32.Why had deliveries caused problems near the market?A. Deliveries and visitors often arrived at the same time.B. Most market sellers refused to use streets near the river.C. Visitors preferred shopping before vendors finished setting up.D. The market had too few shops for evening customers.Write A, B, C, or D – {#2}Question 33.The phrase \"This change\" in paragraph 2 refers to ______.A. painting a loading area beside the marketB. asking volunteers to direct pedestriansC. allowing every vendor to choose delivery timesD. moving most deliveries to an earlier periodWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the organisers' conclusion?A. The market should close earlier to prevent traffic near the river.B. Changing delivery times can improve access without stopping market activity.C. Visitors should avoid the market whenever delivery vehicles are nearby.D. Only larger roads can solve access problems around busy markets.Write A, B, C, or D – {#4}Question 35.What can be inferred about some of the vendors?A. Their concerns were mainly about practical delivery timing.B. Most wanted the market to return to its old schedule.C. Fresh-food sellers caused most congestion near the market.D. They preferred closing the market to changing delivery times.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention an adjustment made after drivers reported a difficulty?A. Paragraph 1B. Paragraph 2C. Paragraph 4D. Paragraph 5Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why the market became popular with touristsB. To describe the results of the trial and one adjustmentC. To compare delivery systems at two different city marketsD. To show why residents wanted the night market to closeWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. The new plan moved most deliveries to a time before the market opened.B. A marked loading area was introduced for delivery vehicles.C. The organisers banned all vehicle deliveries near the market.D. Residents reported fewer problems with blocked pavements.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A night market increased sales by allowing more vehicles into narrow streets.B. Residents closed a market after traffic problems became difficult to control.C. A delivery-time trial improved access while keeping the market operating.D. Vendors moved the market because early deliveries damaged fresh food.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. A Better Time for Market DeliveriesB. Why the Riverside Market Became LargerC. The Most Popular Shops at NightD. Closing Streets Around the City CentreWrite A, B, C, or D – {#10}",
+      "questionId": "question-1901234-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31.the word \"trial\" in paragraph 2 is closest in meaning to ______.a. a permanent ruleb. a public complaintc. a short testd. a final decisionwrite a, b, c, or d – {#1}question 32.why had deliveries caused problems near the market?a. deliveries and visitors often arrived at the same time.b. most market sellers refused to use streets near the river.c. visitors preferred shopping before vendors finished setting up.d. the market had too few shops for evening customers.write a, b, c, or d – {#2}question 33.the phrase \"this change\" in paragraph 2 refers to ______.a. painting a loading area beside the marketb. asking volunteers to direct pedestriansc. allowing every vendor to choose delivery timesd. moving most deliveries to an earlier periodwrite a, b, c, or d – {#3}question 34.which statement best paraphrases the organisers' conclusion?a. the market should close earlier to prevent traffic near the river.b. changing delivery times can improve access without stopping market activity.c. visitors should avoid the market whenever delivery vehicles are nearby.d. only larger roads can solve access problems around busy markets.write a, b, c, or d – {#4}question 35.what can be inferred about some of the vendors?a. their concerns were mainly about practical delivery timing.b. most wanted the market to return to its old schedule.c. fresh-food sellers caused most congestion near the market.d. they preferred closing the market to changing delivery times.write a, b, c, or d – {#5}question 36.in which paragraph does the writer mention an adjustment made after drivers reported a difficulty?a. paragraph 1b. paragraph 2c. paragraph 4d. paragraph 5write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 4?a. to explain why the market became popular with touristsb. to describe the results of the trial and one adjustmentc. to compare delivery systems at two different city marketsd. to show why residents wanted the night market to closewrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. the new plan moved most deliveries to a time before the market opened.b. a marked loading area was introduced for delivery vehicles.c. the organisers banned all vehicle deliveries near the market.d. residents reported fewer problems with blocked pavements.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. a night market increased sales by allowing more vehicles into narrow streets.b. residents closed a market after traffic problems became difficult to control.c. a delivery-time trial improved access while keeping the market operating.d. vendors moved the market because early deliveries damaged fresh food.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. a better time for market deliveriesb. why the riverside market became largerc. the most popular shops at nightd. closing streets around the city centrewrite a, b, c, or d – {#10}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
