@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 21:03:50",
+  "updated_at": "2026-10-18 21:04:02",
   "total_configs": 23,
   "configs": [
     {
@@ -37,24 +37,6 @@
       "score_pct": 96.0,
       "question_count": 42,
       "updated_at": "2026-10-12 21:58:13"
-    },
-    {
-      "account_name": "Trịnh Quốc Tiến",
-      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 2_EXERCISES 17-29",
-      "unit_key": "session_2_exercises_17_29",
-      "quiz_title": "GR11EX28MOET UNIT 3",
-      "quiz_key": "gr11ex28moet_unit_3",
-      "cmid": "733921",
-      "course_id": "4775",
-      "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex28moet_unit_3.json",
-      "score": "100.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 20,
-      "updated_at": "2026-10-13 18:13:50"
     },
     {
       "account_name": "Trịnh Quốc Tiến",
@@ -415,6 +397,24 @@
       "score_pct": 100.0,
       "question_count": 92,
       "updated_at": "2026-10-18 21:03:50"
+    },
+    {
+      "account_name": "Trần San Ny",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 2_EXERCISES 17-29",
+      "unit_key": "session_2_exercises_17_29",
+      "quiz_title": "GR11EX28MOET UNIT 3",
+      "quiz_key": "gr11ex28moet_unit_3",
+      "cmid": "733921",
+      "course_id": "9690",
+      "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex28moet_unit_3.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 20,
+      "updated_at": "2026-10-18 21:04:02"
     }
   ]
 }
