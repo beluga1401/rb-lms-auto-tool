@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "account_name": "Trần San Ny",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR11EX27MOET UNIT 3",
+    "quiz_key": "gr11ex27moet_unit_3",
+    "cmid": "733920",
+    "course_id": "9690",
+    "repo_path": "cloud_configs/khoi_11/session_2_exercises_17_29/gr11ex27moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 30,
+    "updated_at": "2026-10-18 21:02:49"
+  },
+  "answers": [
+    {
+      "id": "question-1901314-3",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.the smart-city model ________ a sensor beside each streetlight. these devices are permanent features of the model.",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. The smart-city model ________ a sensor beside each streetlight. These devices are permanent features of the model.",
+      "options": [
+        "has"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-3",
+      "questionNumber": 7,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.The smart-city model ________ a sensor beside each streetlight. These devices are permanent features of the model.",
+      "answer": "has",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.the smart-city model ________ a sensor beside each streetlight. these devices are permanent features of the model.",
+      "letter": "C",
+      "rightAnswer": "has"
+    },
+    {
+      "id": "question-1901314-7",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.residents feel ________ in the proposed neighbourhood because its homes and public spaces are designed for convenient, pleasant living.",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. Residents feel ________ in the proposed neighbourhood because its homes and public spaces are designed for convenient, pleasant living.",
+      "options": [
+        "comfortable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-7",
+      "questionNumber": 4,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.Residents feel ________ in the proposed neighbourhood because its homes and public spaces are designed for convenient, pleasant living.",
+      "answer": "comfortable",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.residents feel ________ in the proposed neighbourhood because its homes and public spaces are designed for convenient, pleasant living.",
+      "letter": "B",
+      "rightAnswer": "comfortable"
+    },
+    {
+      "id": "question-1901314-9",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.the proposed cycle path seems ________, rather than a complete answer to all the city's transport problems.",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. The proposed cycle path seems ________, rather than a complete answer to all the city’s transport problems.",
+      "options": [
+        "a useful addition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-9",
+      "questionNumber": 3,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.The proposed cycle path seems ________, rather than a complete answer to all the city's transport problems.",
+      "answer": "a useful addition",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.the proposed cycle path seems ________, rather than a complete answer to all the city's transport problems.",
+      "letter": "A",
+      "rightAnswer": "a useful addition"
+    },
+    {
+      "id": "question-1901314-10",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.with improved living conditions and more convenient services, the redesigned neighbourhood will become ________ for its residents.",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. With improved living conditions and more convenient services, the redesigned neighbourhood will become ________ for its residents.",
+      "options": [
+        "more liveable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-10",
+      "questionNumber": 1,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.With improved living conditions and more convenient services, the redesigned neighbourhood will become ________ for its residents.",
+      "answer": "more liveable",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.with improved living conditions and more convenient services, the redesigned neighbourhood will become ________ for its residents.",
+      "letter": "C",
+      "rightAnswer": "more liveable"
+    },
+    {
+      "id": "question-1901314-6",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.with its new buildings and connected transport systems, the city's modern infrastructure looks ________.",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. With its new buildings and connected transport systems, the city’s modern infrastructure looks ________.",
+      "options": [
+        "attractive"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-6",
+      "questionNumber": 9,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.With its new buildings and connected transport systems, the city's modern infrastructure looks ________.",
+      "answer": "attractive",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.with its new buildings and connected transport systems, the city's modern infrastructure looks ________.",
+      "letter": "B",
+      "rightAnswer": "attractive"
+    },
+    {
+      "id": "question-1901314-4",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"please wait a moment. you can hear the group members discussing transport in the next room: they ________ a meeting right now.\"",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. “Please wait a moment. You can hear the group members discussing transport in the next room: they ________ a meeting right now.”",
+      "options": [
+        "are having"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-4",
+      "questionNumber": 8,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"Please wait a moment. You can hear the group members discussing transport in the next room: they ________ a meeting right now.\"",
+      "answer": "are having",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"please wait a moment. you can hear the group members discussing transport in the next room: they ________ a meeting right now.\"",
+      "letter": "D",
+      "rightAnswer": "are having"
+    },
+    {
+      "id": "question-1901314-1",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.mai states her general opinion while her group actively considers a proposal: \"i ________ that public transport is important, and our group ________ of adding more bus routes at the moment.\"",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. Mai states her general opinion while her group actively considers a proposal: “I ________ that public transport is important, and our group ________ of adding more bus routes at the moment.”",
+      "options": [
+        "think / is thinking"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-1",
+      "questionNumber": 5,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.Mai states her general opinion while her group actively considers a proposal: \"I ________ that public transport is important, and our group ________ of adding more bus routes at the moment.\"",
+      "answer": "think / is thinking",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.mai states her general opinion while her group actively considers a proposal: \"i ________ that public transport is important, and our group ________ of adding more bus routes at the moment.\"",
+      "letter": "A",
+      "rightAnswer": "think / is thinking"
+    },
+    {
+      "id": "question-1901314-8",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.the waste collection proposal sounds ________: sensors will inform teams when bins are full, helping them organize the service.",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. The waste collection proposal sounds ________: sensors will inform teams when bins are full, helping them organize the service.",
+      "options": [
+        "promising"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-8",
+      "questionNumber": 10,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.The waste collection proposal sounds ________: sensors will inform teams when bins are full, helping them organize the service.",
+      "answer": "promising",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.the waste collection proposal sounds ________: sensors will inform teams when bins are full, helping them organize the service.",
+      "letter": "B",
+      "rightAnswer": "promising"
+    },
+    {
+      "id": "question-1901314-5",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"this smart device ________ to our group, whereas the sensors beside the rubbish bins ________ to the city council.\"",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. “This smart device ________ to our group, whereas the sensors beside the rubbish bins ________ to the city council.”",
+      "options": [
+        "belongs / belong"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-5",
+      "questionNumber": 2,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"This smart device ________ to our group, whereas the sensors beside the rubbish bins ________ to the city council.\"",
+      "answer": "belongs / belong",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"this smart device ________ to our group, whereas the sensors beside the rubbish bins ________ to the city council.\"",
+      "letter": "B",
+      "rightAnswer": "belongs / belong"
+    },
+    {
+      "id": "question-1901314-2",
+      "questionKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"please give us a moment before we decide. we ________ of adding roof gardens to the high-rise buildings, and we are still comparing the options.\"",
+      "questionRaw": "Choose the option that best completes each sentence or short context. Consider: - whether the verb describes a state or an ongoing activity; - whether it agrees with its subject; - whether a linking verb needs a description or identification; - how the completed sentence fits the situation. “Please give us a moment before we decide. We ________ of adding roof gardens to the high-rise buildings, and we are still comparing the options.”",
+      "options": [
+        "are thinking"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1901314-2",
+      "questionNumber": 6,
+      "question": "Choose the option that best completes each sentence or short context.Consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"Please give us a moment before we decide. We ________ of adding roof gardens to the high-rise buildings, and we are still comparing the options.\"",
+      "answer": "are thinking",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best completes each sentence or short context.consider:- whether the verb describes a state or an ongoing activity;- whether it agrees with its subject;- whether a linking verb needs a description or identification;- how the completed sentence fits the situation.\"please give us a moment before we decide. we ________ of adding roof gardens to the high-rise buildings, and we are still comparing the options.\"",
+      "letter": "C",
+      "rightAnswer": "are thinking"
+    },
+    {
+      "id": "11",
+      "questionKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. thinksb. thinkingc. are thoughtd. are thinking write a, b, c or d: question 2a. liveabilityb. liveablec. liveablyd. livewrite a, b, c or d: question 3a. afterb. beforec. whiled. instead ofwrite a, b, c or d: question 4a. i have no doubt about itb. i’m absolutely sure about itc. i’m not sure this is trued. i’m sure about itwrite a, b, c or d:",
+      "questionRaw": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. thinksB. thinkingC. are thoughtD. are thinking Write A, B, C or D: {#1} Question 2A. liveabilityB. liveableC. liveablyD. liveWrite A, B, C or D: {#2} Question 3A. AfterB. BeforeC. WhileD. Instead ofWrite A, B, C or D: {#3} Question 4A. I have no doubt about itB. I’m absolutely sure about itC. I’m not sure this is trueD. I’m sure about itWrite A, B, C or D: {#4}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. thinksB. thinkingC. are thoughtD. are thinking Write A, B, C or D: {#1} Question 2A. liveabilityB. liveableC. liveablyD. liveWrite A, B, C or D: {#2} Question 3A. AfterB. BeforeC. WhileD. Instead ofWrite A, B, C or D: {#3} Question 4A. I have no doubt about itB. I’m absolutely sure about itC. I’m not sure this is trueD. I’m sure about itWrite A, B, C or D: {#4}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "12",
+      "questionKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. reservesb. emissionsc. suppliesd. resources write a, b, c or d: question 2a. collectivelyb. collectorc. collectiond. collectable write a, b, c or d: question 3a. privacyb. mobilityc. biodiversityd. efficiency write a, b, c or d:",
+      "questionRaw": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. reservesB. emissionsC. suppliesD. resources Write A, B, C or D: {#1} Question 2A. collectivelyB. collectorC. collectionD. collectable Write A, B, C or D: {#2} Question 3A. privacyB. mobilityC. biodiversityD. efficiency Write A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "12",
+      "questionNumber": 12,
+      "question": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. reservesB. emissionsC. suppliesD. resources Write A, B, C or D: {#1} Question 2A. collectivelyB. collectorC. collectionD. collectable Write A, B, C or D: {#2} Question 3A. privacyB. mobilityC. biodiversityD. efficiency Write A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "13",
+      "questionKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. roof gardenb. pedestrian zonec. urban centred. parking spacewrite a, b, c or d: question 2a. get aroundb. move awayc. move ind. stay indoorswrite a, b, c or d: question 3a. whob. whosec. whatd. which write a, b, c or d:",
+      "questionRaw": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. roof gardenB. pedestrian zoneC. urban centreD. parking spaceWrite A, B, C or D: {#1} Question 2A. get aroundB. move awayC. move inD. stay indoorsWrite A, B, C or D: {#2} Question 3A. whoB. whoseC. whatD. which Write A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "13",
+      "questionNumber": 13,
+      "question": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. roof gardenB. pedestrian zoneC. urban centreD. parking spaceWrite A, B, C or D: {#1} Question 2A. get aroundB. move awayC. move inD. stay indoorsWrite A, B, C or D: {#2} Question 3A. whoB. whoseC. whatD. which Write A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "D",
+      "id": "question-1901314-13",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. thinksb. thinkingc. are thoughtd. are thinking write a, b, c or d: {#1} question 2a. liveabilityb. liveablec. liveablyd. livewrite a, b, c or d: {#2} question 3a. afterb. beforec. whiled. instead ofwrite a, b, c or d: {#3} question 4a. i have no doubt about itb. i'm absolutely sure about itc. i'm not sure this is trued. i'm sure about itwrite a, b, c or d: {#4}",
+      "letter": "",
+      "options": [],
+      "question": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. thinksB. thinkingC. are thoughtD. are thinking Write A, B, C or D: {#1} Question 2A. liveabilityB. liveableC. liveablyD. liveWrite A, B, C or D: {#2} Question 3A. AfterB. BeforeC. WhileD. Instead ofWrite A, B, C or D: {#3} Question 4A. I have no doubt about itB. I'm absolutely sure about itC. I'm not sure this is trueD. I'm sure about itWrite A, B, C or D: {#4}",
+      "questionId": "question-1901314-13",
+      "questionKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. thinksb. thinkingc. are thoughtd. are thinking write a, b, c or d: {#1} question 2a. liveabilityb. liveablec. liveablyd. livewrite a, b, c or d: {#2} question 3a. afterb. beforec. whiled. instead ofwrite a, b, c or d: {#3} question 4a. i have no doubt about itb. i'm absolutely sure about itc. i'm not sure this is trued. i'm sure about itwrite a, b, c or d: {#4}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1901314-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. roof gardenb. pedestrian zonec. urban centred. parking spacewrite a, b, c or d: {#1} question 2a. get aroundb. move awayc. move ind. stay indoorswrite a, b, c or d: {#2} question 3a. whob. whosec. whatd. which write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. roof gardenB. pedestrian zoneC. urban centreD. parking spaceWrite A, B, C or D: {#1} Question 2A. get aroundB. move awayC. move inD. stay indoorsWrite A, B, C or D: {#2} Question 3A. whoB. whoseC. whatD. which Write A, B, C or D: {#3}",
+      "questionId": "question-1901314-11",
+      "questionKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. roof gardenb. pedestrian zonec. urban centred. parking spacewrite a, b, c or d: {#1} question 2a. get aroundb. move awayc. move ind. stay indoorswrite a, b, c or d: {#2} question 3a. whob. whosec. whatd. which write a, b, c or d: {#3}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901314-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. reservesb. emissionsc. suppliesd. resources write a, b, c or d: {#1} question 2a. collectivelyb. collectorc. collectiond. collectable write a, b, c or d: {#2} question 3a. privacyb. mobilityc. biodiversityd. efficiency write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Read the mini text and choose the option A, B, C, or D that best completes each numbered blank. Read the whole text before answering. After choosing, reread it with your answers inserted. Question 1A. reservesB. emissionsC. suppliesD. resources Write A, B, C or D: {#1} Question 2A. collectivelyB. collectorC. collectionD. collectable Write A, B, C or D: {#2} Question 3A. privacyB. mobilityC. biodiversityD. efficiency Write A, B, C or D: {#3}",
+      "questionId": "question-1901314-12",
+      "questionKey": "read the mini text and choose the option a, b, c, or d that best completes each numbered blank. read the whole text before answering. after choosing, reread it with your answers inserted. question 1a. reservesb. emissionsc. suppliesd. resources write a, b, c or d: {#1} question 2a. collectivelyb. collectorc. collectiond. collectable write a, b, c or d: {#2} question 3a. privacyb. mobilityc. biodiversityd. efficiency write a, b, c or d: {#3}",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
