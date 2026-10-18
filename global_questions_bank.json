@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-18T01:15:38Z",
-  "total_questions": 12,
+  "updated_at": "2026-10-18T12:17:00Z",
+  "total_questions": 36,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -252,6 +252,502 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-18T01:15:37Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. To address both problems, the report proposes installing automatic lights and sensor taps.b. Students sometimes leave restroom lights on and taps running when nobody is using the facilities.c. The report therefore recommends installing the devices to prevent this unnecessary use of resources.d. These habits waste electricity and water.e. These devices can stop operating automatically when nobody is nearby, reducing the waste identified above.A. b–d–e–a–cB. b–d–c–a–eC. b–d–a–e–cD. b–e–a–d–cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. To address both problems, the report proposes installing automatic lights and sensor taps.b. Students sometimes leave restroom lights on and taps running when nobody is using the facilities.c. The report therefore recommends installing the devices to prevent this unnecessary use of resources.d. These habits waste electricity and water.e. These devices can stop operating automatically when nobody is nearby, reducing the waste identified above.A. b–d–e–a–cB. b–d–c–a–eC. b–d–a–e–cD. b–e–a–d–cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a to address both problems the report proposes installing automatic lights and sensor taps b students sometimes leave restroom lights on and taps running when nobody is using the facilities c the report therefore recommends installing the devices to prevent this unnecessary use of resources d these habits waste electricity and water e these devices can stop operating automatically when nobody is nearby reducing the waste identified above a b d e a cb b d c a ec b d a e cd b e a d cwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the blank sides can be used for taking notes during future club meetings b this collection consists of sheets printed on only one side c using the sheets for this purpose reduces the need to obtain new paper for those meetings d after a club meeting students collected the leftover worksheets instead of throwing them away a d b a cb d b c ac d c a bd b d a cwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. The blank sides can be used for taking notes during future club meetings.b. This collection consists of sheets printed on only one side.c. Using the sheets for this purpose reduces the need to obtain new paper for those meetings.d. After a club meeting, students collected the leftover worksheets instead of throwing them away. A. d–b–a–cB. d–b–c–aC. d–c–a–bD. b–d–a–cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the blank sides can be used for taking notes during future club meetings b this collection consists of sheets printed on only one side c using the sheets for this purpose reduces the need to obtain new paper for those meetings d after a club meeting students collected the leftover worksheets instead of throwing them away a d b a cb d b c ac d c a bd b d a cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the blank sides can be used for taking notes during future club meetings b this collection consists of sheets printed on only one side c using the sheets for this purpose reduces the need to obtain new paper for those meetings d after a club meeting students collected the leftover worksheets instead of throwing them away a d b a cb d b c ac d c a bd b d a cwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the blank sides can be used for taking notes during future club meetings b this collection consists of sheets printed on only one side c using the sheets for this purpose reduces the need to obtain new paper for those meetings d after a club meeting students collected the leftover worksheets instead of throwing them away a d b a cb d b c ac d c a bd b d a cwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. The blank sides can be used for taking notes during future club meetings.b. This collection consists of sheets printed on only one side.c. Using the sheets for this purpose reduces the need to obtain new paper for those meetings.d. After a club meeting, students collected the leftover worksheets instead of throwing them away. A. d–b–a–cB. d–b–c–aC. d–c–a–bD. b–d–a–cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the blank sides can be used for taking notes during future club meetings b this collection consists of sheets printed on only one side c using the sheets for this purpose reduces the need to obtain new paper for those meetings d after a club meeting students collected the leftover worksheets instead of throwing them away a d b a cb d b c ac d c a bd b d a cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the blank sides can be used for taking notes during future club meetings b this collection consists of sheets printed on only one side c using the sheets for this purpose reduces the need to obtain new paper for those meetings d after a club meeting students collected the leftover worksheets instead of throwing them away a d b a cb d b c ac d c a bd b d a cwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a they used these observations to write a short explanation of why the habit was important b to investigate the need for this habit they observed taps left running when water was not needed c after completing that draft they rehearsed a presentation explaining the habit and the suggested actions d they placed this explanation above three practical water saving actions in their leaflet draft e the group chose saving water as the habit for its green day leaflet a e b d a cb e a b d cc e b a c dd e b a d c write a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. They used these observations to write a short explanation of why the habit was important.b. To investigate the need for this habit, they observed taps left running when water was not needed.c. After completing that draft, they rehearsed a presentation explaining the habit and the suggested actions.d. They placed this explanation above three practical water-saving actions in their leaflet draft.e. The group chose saving water as the habit for its Green Day leaflet.A. e–b–d–a–cB. e–a–b–d–cC. e–b–a–c–dD. e–b–a–d–c Write A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a they used these observations to write a short explanation of why the habit was important b to investigate the need for this habit they observed taps left running when water was not needed c after completing that draft they rehearsed a presentation explaining the habit and the suggested actions d they placed this explanation above three practical water saving actions in their leaflet draft e the group chose saving water as the habit for its green day leaflet a e b d a cb e a b d cc e b a c dd e b a d c write a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a they used these observations to write a short explanation of why the habit was important b to investigate the need for this habit they observed taps left running when water was not needed c after completing that draft they rehearsed a presentation explaining the habit and the suggested actions d they placed this explanation above three practical water saving actions in their leaflet draft e the group chose saving water as the habit for its green day leaflet a e b d a cb e a b d cc e b a c dd e b a d c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a they used these observations to write a short explanation of why the habit was important b to investigate the need for this habit they observed taps left running when water was not needed c after completing that draft they rehearsed a presentation explaining the habit and the suggested actions d they placed this explanation above three practical water saving actions in their leaflet draft e the group chose saving water as the habit for its green day leaflet a e b d a cb e a b d cc e b a c dd e b a d c write a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. They used these observations to write a short explanation of why the habit was important.b. To investigate the need for this habit, they observed taps left running when water was not needed.c. After completing that draft, they rehearsed a presentation explaining the habit and the suggested actions.d. They placed this explanation above three practical water-saving actions in their leaflet draft.e. The group chose saving water as the habit for its Green Day leaflet.A. e–b–d–a–cB. e–a–b–d–cC. e–b–a–c–dD. e–b–a–d–c Write A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a they used these observations to write a short explanation of why the habit was important b to investigate the need for this habit they observed taps left running when water was not needed c after completing that draft they rehearsed a presentation explaining the habit and the suggested actions d they placed this explanation above three practical water saving actions in their leaflet draft e the group chose saving water as the habit for its green day leaflet a e b d a cb e a b d cc e b a c dd e b a d c write a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a they used these observations to write a short explanation of why the habit was important b to investigate the need for this habit they observed taps left running when water was not needed c after completing that draft they rehearsed a presentation explaining the habit and the suggested actions d they placed this explanation above three practical water saving actions in their leaflet draft e the group chose saving water as the habit for its green day leaflet a e b d a cb e a b d cc e b a c dd e b a d c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the school s recycling team gave students two preparation rules for used food containers b the second rule is to rinse out containers accepted after this check removing any remaining food c once these accepted containers are clean students can place them in the collection bin d the first rule is to check whether the school s recycling scheme accepts the container s material a a b d cb a d b cc a d c bd a c d bwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. The school’s recycling team gave students two preparation rules for used food containers.b. The second rule is to rinse out containers accepted after this check, removing any remaining food.c. Once these accepted containers are clean, students can place them in the collection bin.d. The first rule is to check whether the school’s recycling scheme accepts the container’s material. A. a–b–d–cB. a–d–b–cC. a–d–c–bD. a–c–d–bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the school s recycling team gave students two preparation rules for used food containers b the second rule is to rinse out containers accepted after this check removing any remaining food c once these accepted containers are clean students can place them in the collection bin d the first rule is to check whether the school s recycling scheme accepts the container s material a a b d cb a d b cc a d c bd a c d bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the school s recycling team gave students two preparation rules for used food containers b the second rule is to rinse out containers accepted after this check removing any remaining food c once these accepted containers are clean students can place them in the collection bin d the first rule is to check whether the school s recycling scheme accepts the container s material a a b d cb a d b cc a d c bd a c d bwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the school s recycling team gave students two preparation rules for used food containers b the second rule is to rinse out containers accepted after this check removing any remaining food c once these accepted containers are clean students can place them in the collection bin d the first rule is to check whether the school s recycling scheme accepts the container s material a a b d cb a d b cc a d c bd a c d bwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. The school’s recycling team gave students two preparation rules for used food containers.b. The second rule is to rinse out containers accepted after this check, removing any remaining food.c. Once these accepted containers are clean, students can place them in the collection bin.d. The first rule is to check whether the school’s recycling scheme accepts the container’s material. A. a–b–d–cB. a–d–b–cC. a–d–c–bD. a–c–d–bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the school s recycling team gave students two preparation rules for used food containers b the second rule is to rinse out containers accepted after this check removing any remaining food c once these accepted containers are clean students can place them in the collection bin d the first rule is to check whether the school s recycling scheme accepts the container s material a a b d cb a d b cc a d c bd a c d bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a the school s recycling team gave students two preparation rules for used food containers b the second rule is to rinse out containers accepted after this check removing any remaining food c once these accepted containers are clean students can place them in the collection bin d the first rule is to check whether the school s recycling scheme accepts the container s material a a b d cb a d b cc a d c bd a c d bwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a together the public transport and walking or cycling options may reduce the number of private vehicles arriving at the school gate b the report identifies traffic jams caused by many parents driving their children to school c the proposal also encourages students who can do so to walk or cycle instead d in view of this possible reduction the report recommends putting the proposal into practice e to address this traffic problem it proposes encouraging greater use of public transport a b e c a db b e a d cc b c e a dd b e c d awrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. Together, the public-transport and walking-or-cycling options may reduce the number of private vehicles arriving at the school gate.b. The report identifies traffic jams caused by many parents driving their children to school.c. The proposal also encourages students who can do so to walk or cycle instead.d. In view of this possible reduction, the report recommends putting the proposal into practice.e. To address this traffic problem, it proposes encouraging greater use of public transport. A. b–e–c–a–dB. b–e–a–d–cC. b–c–e–a–dD. b–e–c–d–aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a together the public transport and walking or cycling options may reduce the number of private vehicles arriving at the school gate b the report identifies traffic jams caused by many parents driving their children to school c the proposal also encourages students who can do so to walk or cycle instead d in view of this possible reduction the report recommends putting the proposal into practice e to address this traffic problem it proposes encouraging greater use of public transport a b e c a db b e a d cc b c e a dd b e c d awrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a together the public transport and walking or cycling options may reduce the number of private vehicles arriving at the school gate b the report identifies traffic jams caused by many parents driving their children to school c the proposal also encourages students who can do so to walk or cycle instead d in view of this possible reduction the report recommends putting the proposal into practice e to address this traffic problem it proposes encouraging greater use of public transport a b e c a db b e a d cc b c e a dd b e c d awrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a together the public transport and walking or cycling options may reduce the number of private vehicles arriving at the school gate b the report identifies traffic jams caused by many parents driving their children to school c the proposal also encourages students who can do so to walk or cycle instead d in view of this possible reduction the report recommends putting the proposal into practice e to address this traffic problem it proposes encouraging greater use of public transport a b e c a db b e a d cc b c e a dd b e c d awrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Check internal links as well as the opening. Question:a. Together, the public-transport and walking-or-cycling options may reduce the number of private vehicles arriving at the school gate.b. The report identifies traffic jams caused by many parents driving their children to school.c. The proposal also encourages students who can do so to walk or cycle instead.d. In view of this possible reduction, the report recommends putting the proposal into practice.e. To address this traffic problem, it proposes encouraging greater use of public transport. A. b–e–c–a–dB. b–e–a–d–cC. b–c–e–a–dD. b–e–c–d–aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a together the public transport and walking or cycling options may reduce the number of private vehicles arriving at the school gate b the report identifies traffic jams caused by many parents driving their children to school c the proposal also encourages students who can do so to walk or cycle instead d in view of this possible reduction the report recommends putting the proposal into practice e to address this traffic problem it proposes encouraging greater use of public transport a b e c a db b e a d cc b c e a dd b e c d awrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into the most coherent paragraph check internal links as well as the opening question a together the public transport and walking or cycling options may reduce the number of private vehicles arriving at the school gate b the report identifies traffic jams caused by many parents driving their children to school c the proposal also encourages students who can do so to walk or cycle instead d in view of this possible reduction the report recommends putting the proposal into practice e to address this traffic problem it proposes encouraging greater use of public transport a b e c a db b e a d cc b c e a dd b e c d awrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona minh because the activities show practical habits students can use at school and several classes have expressed interest b hoa how many students do you think will attend green day c hoa those are encouraging signs we should prepare enough leaflets while remembering that attendance is still uncertain d hoa why do you expect a good number of students to come e minh i can t give an exact number but i expect quite a few students may come a b e d a cb b d e a cc b e d c ad e b d a cwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Minh: Because the activities show practical habits students can use at school, and several classes have expressed interest.b. Hoa: How many students do you think will attend Green Day?c. Hoa: Those are encouraging signs. We should prepare enough leaflets while remembering that attendance is still uncertain.d. Hoa: Why do you expect a good number of students to come?e. Minh: I can’t give an exact number, but I expect quite a few students may come.A. b–e–d–a–cB. b–d–e–a–cC. b–e–d–c–aD. e–b–d–a–cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona minh because the activities show practical habits students can use at school and several classes have expressed interest b hoa how many students do you think will attend green day c hoa those are encouraging signs we should prepare enough leaflets while remembering that attendance is still uncertain d hoa why do you expect a good number of students to come e minh i can t give an exact number but i expect quite a few students may come a b e d a cb b d e a cc b e d c ad e b d a cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona minh because the activities show practical habits students can use at school and several classes have expressed interest b hoa how many students do you think will attend green day c hoa those are encouraging signs we should prepare enough leaflets while remembering that attendance is still uncertain d hoa why do you expect a good number of students to come e minh i can t give an exact number but i expect quite a few students may come a b e d a cb b d e a cc b e d c ad e b d a cwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona minh because the activities show practical habits students can use at school and several classes have expressed interest b hoa how many students do you think will attend green day c hoa those are encouraging signs we should prepare enough leaflets while remembering that attendance is still uncertain d hoa why do you expect a good number of students to come e minh i can t give an exact number but i expect quite a few students may come a b e d a cb b d e a cc b e d c ad e b d a cwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Minh: Because the activities show practical habits students can use at school, and several classes have expressed interest.b. Hoa: How many students do you think will attend Green Day?c. Hoa: Those are encouraging signs. We should prepare enough leaflets while remembering that attendance is still uncertain.d. Hoa: Why do you expect a good number of students to come?e. Minh: I can’t give an exact number, but I expect quite a few students may come.A. b–e–d–a–cB. b–d–e–a–cC. b–e–d–c–aD. e–b–d–a–cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona minh because the activities show practical habits students can use at school and several classes have expressed interest b hoa how many students do you think will attend green day c hoa those are encouraging signs we should prepare enough leaflets while remembering that attendance is still uncertain d hoa why do you expect a good number of students to come e minh i can t give an exact number but i expect quite a few students may come a b e d a cb b d e a cc b e d c ad e b d a cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona minh because the activities show practical habits students can use at school and several classes have expressed interest b hoa how many students do you think will attend green day c hoa those are encouraging signs we should prepare enough leaflets while remembering that attendance is still uncertain d hoa why do you expect a good number of students to come e minh i can t give an exact number but i expect quite a few students may come a b e d a cb b d e a cc b e d c ad e b d a cwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona phuong why might changing the habit take time b phuong then we should keep reminding students rather than expect an immediate change c hai they may help but students might need time to develop a regular checking habit d hai because students who usually leave in a hurry may still forget to check the lights at first e phuong will the new reminder signs change students electricity use habits immediately a e a c d bb e c a b dc c e a d bd e c a d bwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Phuong: Why might changing the habit take time?b. Phuong: Then we should keep reminding students rather than expect an immediate change.c. Hai: They may help, but students might need time to develop a regular checking habit.d. Hai: Because students who usually leave in a hurry may still forget to check the lights at first.e. Phuong: Will the new reminder signs change students’ electricity-use habits immediately? A. e–a–c–d–bB. e–c–a–b–dC. c–e–a–d–bD. e–c–a–d–bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona phuong why might changing the habit take time b phuong then we should keep reminding students rather than expect an immediate change c hai they may help but students might need time to develop a regular checking habit d hai because students who usually leave in a hurry may still forget to check the lights at first e phuong will the new reminder signs change students electricity use habits immediately a e a c d bb e c a b dc c e a d bd e c a d bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona phuong why might changing the habit take time b phuong then we should keep reminding students rather than expect an immediate change c hai they may help but students might need time to develop a regular checking habit d hai because students who usually leave in a hurry may still forget to check the lights at first e phuong will the new reminder signs change students electricity use habits immediately a e a c d bb e c a b dc c e a d bd e c a d bwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona phuong why might changing the habit take time b phuong then we should keep reminding students rather than expect an immediate change c hai they may help but students might need time to develop a regular checking habit d hai because students who usually leave in a hurry may still forget to check the lights at first e phuong will the new reminder signs change students electricity use habits immediately a e a c d bb e c a b dc c e a d bd e c a d bwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Phuong: Why might changing the habit take time?b. Phuong: Then we should keep reminding students rather than expect an immediate change.c. Hai: They may help, but students might need time to develop a regular checking habit.d. Hai: Because students who usually leave in a hurry may still forget to check the lights at first.e. Phuong: Will the new reminder signs change students’ electricity-use habits immediately? A. e–a–c–d–bB. e–c–a–b–dC. c–e–a–d–bD. e–c–a–d–bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona phuong why might changing the habit take time b phuong then we should keep reminding students rather than expect an immediate change c hai they may help but students might need time to develop a regular checking habit d hai because students who usually leave in a hurry may still forget to check the lights at first e phuong will the new reminder signs change students electricity use habits immediately a e a c d bb e c a b dc c e a d bd e c a d bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona phuong why might changing the habit take time b phuong then we should keep reminding students rather than expect an immediate change c hai they may help but students might need time to develop a regular checking habit d hai because students who usually leave in a hurry may still forget to check the lights at first e phuong will the new reminder signs change students electricity use habits immediately a e a c d bb e c a b dc c e a d bd e c a d bwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona mai why do you think approval is likely b lan it s likely that they will approve it because the proposal addresses water waste c lan we observed taps left running and our proposal explains how sensor taps could help address that problem d mai do you think the youth union will approve our sensor tap proposal e mai those observations support your prediction let s make sure they are clearly explained in the proposal a d a b c eb d b a c ec d b a e cd b d a c ewrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Mai: Why do you think approval is likely?b. Lan: It’s likely that they will approve it because the proposal addresses water waste.c. Lan: We observed taps left running, and our proposal explains how sensor taps could help address that problem.d. Mai: Do you think the Youth Union will approve our sensor-tap proposal?e. Mai: Those observations support your prediction. Let’s make sure they are clearly explained in the proposal. A. d–a–b–c–eB. d–b–a–c–eC. d–b–a–e–cD. b–d–a–c–eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona mai why do you think approval is likely b lan it s likely that they will approve it because the proposal addresses water waste c lan we observed taps left running and our proposal explains how sensor taps could help address that problem d mai do you think the youth union will approve our sensor tap proposal e mai those observations support your prediction let s make sure they are clearly explained in the proposal a d a b c eb d b a c ec d b a e cd b d a c ewrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona mai why do you think approval is likely b lan it s likely that they will approve it because the proposal addresses water waste c lan we observed taps left running and our proposal explains how sensor taps could help address that problem d mai do you think the youth union will approve our sensor tap proposal e mai those observations support your prediction let s make sure they are clearly explained in the proposal a d a b c eb d b a c ec d b a e cd b d a c ewrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona mai why do you think approval is likely b lan it s likely that they will approve it because the proposal addresses water waste c lan we observed taps left running and our proposal explains how sensor taps could help address that problem d mai do you think the youth union will approve our sensor tap proposal e mai those observations support your prediction let s make sure they are clearly explained in the proposal a d a b c eb d b a c ec d b a e cd b d a c ewrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Mai: Why do you think approval is likely?b. Lan: It’s likely that they will approve it because the proposal addresses water waste.c. Lan: We observed taps left running, and our proposal explains how sensor taps could help address that problem.d. Mai: Do you think the Youth Union will approve our sensor-tap proposal?e. Mai: Those observations support your prediction. Let’s make sure they are clearly explained in the proposal. A. d–a–b–c–eB. d–b–a–c–eC. d–b–a–e–cD. b–d–a–c–eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona mai why do you think approval is likely b lan it s likely that they will approve it because the proposal addresses water waste c lan we observed taps left running and our proposal explains how sensor taps could help address that problem d mai do you think the youth union will approve our sensor tap proposal e mai those observations support your prediction let s make sure they are clearly explained in the proposal a d a b c eb d b a c ec d b a e cd b d a c ewrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona mai why do you think approval is likely b lan it s likely that they will approve it because the proposal addresses water waste c lan we observed taps left running and our proposal explains how sensor taps could help address that problem d mai do you think the youth union will approve our sensor tap proposal e mai those observations support your prediction let s make sure they are clearly explained in the proposal a d a b c eb d b a c ec d b a e cd b d a c ewrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona nam it s hard to predict several classes have strong green projects b nam because the judges have to compare different ideas such as saving electricity and reducing plastic waste c mark do you think our class will win the green classroom competition d mark that explanation makes sense we should do our best without assuming we will win e mark why do you say it s hard to predict the winner a c e a b db c a e d bc a c e b dd c a e b dwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Nam: It’s hard to predict. Several classes have strong green projects.b. Nam: Because the judges have to compare different ideas, such as saving electricity and reducing plastic waste.c. Mark: Do you think our class will win the Green Classroom Competition?d. Mark: That explanation makes sense. We should do our best without assuming we will win.e. Mark: Why do you say it’s hard to predict the winner?A. c–e–a–b–dB. c–a–e–d–bC. a–c–e–b–dD. c–a–e–b–dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona nam it s hard to predict several classes have strong green projects b nam because the judges have to compare different ideas such as saving electricity and reducing plastic waste c mark do you think our class will win the green classroom competition d mark that explanation makes sense we should do our best without assuming we will win e mark why do you say it s hard to predict the winner a c e a b db c a e d bc a c e b dd c a e b dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona nam it s hard to predict several classes have strong green projects b nam because the judges have to compare different ideas such as saving electricity and reducing plastic waste c mark do you think our class will win the green classroom competition d mark that explanation makes sense we should do our best without assuming we will win e mark why do you say it s hard to predict the winner a c e a b db c a e d bc a c e b dd c a e b dwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona nam it s hard to predict several classes have strong green projects b nam because the judges have to compare different ideas such as saving electricity and reducing plastic waste c mark do you think our class will win the green classroom competition d mark that explanation makes sense we should do our best without assuming we will win e mark why do you say it s hard to predict the winner a c e a b db c a e d bc a c e b dd c a e b dwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. Nam: It’s hard to predict. Several classes have strong green projects.b. Nam: Because the judges have to compare different ideas, such as saving electricity and reducing plastic waste.c. Mark: Do you think our class will win the Green Classroom Competition?d. Mark: That explanation makes sense. We should do our best without assuming we will win.e. Mark: Why do you say it’s hard to predict the winner?A. c–e–a–b–dB. c–a–e–d–bC. a–c–e–b–dD. c–a–e–b–dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona nam it s hard to predict several classes have strong green projects b nam because the judges have to compare different ideas such as saving electricity and reducing plastic waste c mark do you think our class will win the green classroom competition d mark that explanation makes sense we should do our best without assuming we will win e mark why do you say it s hard to predict the winner a c e a b db c a e d bc a c e b dd c a e b dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona nam it s hard to predict several classes have strong green projects b nam because the judges have to compare different ideas such as saving electricity and reducing plastic waste c mark do you think our class will win the green classroom competition d mark that explanation makes sense we should do our best without assuming we will win e mark why do you say it s hard to predict the winner a c e a b db c a e d bc a c e b dd c a e b dwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona an which green day activity do you think students will enjoy most b an what makes you think that activity will be popular c binh students can turn sheets with blank sides into useful notes so the activity gives them something practical to do d binh i think the paper reuse activity will be popular a a b d cb d a b cc a d b cd a c b dwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. An: Which Green Day activity do you think students will enjoy most?b. An: What makes you think that activity will be popular?c. Binh: Students can turn sheets with blank sides into useful notes, so the activity gives them something practical to do.d. Binh: I think the paper-reuse activity will be popular. A. a–b–d–cB. d–a–b–cC. a–d–b–cD. a–c–b–dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona an which green day activity do you think students will enjoy most b an what makes you think that activity will be popular c binh students can turn sheets with blank sides into useful notes so the activity gives them something practical to do d binh i think the paper reuse activity will be popular a a b d cb d a b cc a d b cd a c b dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona an which green day activity do you think students will enjoy most b an what makes you think that activity will be popular c binh students can turn sheets with blank sides into useful notes so the activity gives them something practical to do d binh i think the paper reuse activity will be popular a a b d cb d a b cc a d b cd a c b dwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona an which green day activity do you think students will enjoy most b an what makes you think that activity will be popular c binh students can turn sheets with blank sides into useful notes so the activity gives them something practical to do d binh i think the paper reuse activity will be popular a a b d cb d a b cc a d b cd a c b dwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into the most coherent conversation. Follow speaker roles and dependencies between turns. Questiona. An: Which Green Day activity do you think students will enjoy most?b. An: What makes you think that activity will be popular?c. Binh: Students can turn sheets with blank sides into useful notes, so the activity gives them something practical to do.d. Binh: I think the paper-reuse activity will be popular. A. a–b–d–cB. d–a–b–cC. a–d–b–cD. a–c–b–dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona an which green day activity do you think students will enjoy most b an what makes you think that activity will be popular c binh students can turn sheets with blank sides into useful notes so the activity gives them something practical to do d binh i think the paper reuse activity will be popular a a b d cb d a b cc a d b cd a c b dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into the most coherent conversation follow speaker roles and dependencies between turns questiona an which green day activity do you think students will enjoy most b an what makes you think that activity will be popular c binh students can turn sheets with blank sides into useful notes so the activity gives them something practical to do d binh i think the paper reuse activity will be popular a a b d cb d a b cc a d b cd a c b dwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a facilitiesb resourcesc containersd productswrite a b c or d 1 question 2a look afterb take backc pass aroundd throw awaywrite a b c or d 2 question 3a efficientlyb efficientc efficiencyd inefficientwrite a b c or d 3 question 4a thatb whoc whichd whatwrite a b c or d 4 question 5a thereforeb howeverc otherwised similarlywrite a b c or d 5": {
+      "question": "Choose A, B, C, or D for every blank. Use the title, headings, grammar, and overall purpose. Question 1A. facilitiesB. resourcesC. containersD. productsWrite A, B, C or D: {#1} Question 2A. look afterB. take backC. pass aroundD. throw awayWrite A, B, C or D: {#2} Question 3A. efficientlyB. efficientC. efficiencyD. inefficientWrite A, B, C or D: {#3} Question 4A. thatB. whoC. whichD. whatWrite A, B, C or D: {#4} Question 5A. ThereforeB. HoweverC. OtherwiseD. SimilarlyWrite A, B, C or D: {#5}",
+      "clean_stem": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a facilitiesb resourcesc containersd productswrite a b c or d 1 question 2a look afterb take backc pass aroundd throw awaywrite a b c or d 2 question 3a efficientlyb efficientc efficiencyd inefficientwrite a b c or d 3 question 4a thatb whoc whichd whatwrite a b c or d 4 question 5a thereforeb howeverc otherwised similarlywrite a b c or d 5",
+      "stem_key": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a facilitiesb resourcesc containersd productswrite a b c or d 1 question 2a look afterb take backc pass aroundd throw awaywrite a b c or d 2 question 3a efficientlyb efficientc efficiencyd inefficientwrite a b c or d 3 question 4a thatb whoc whichd whatwrite a b c or d 4 question 5a thereforeb howeverc otherwised similarlywrite a b c or d 5",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a facilitiesb resourcesc containersd productswrite a b c or d question 2a look afterb take backc pass aroundd throw awaywrite a b c or d question 3a efficientlyb efficientc efficiencyd inefficientwrite a b c or d question 4a thatb whoc whichd whatwrite a b c or d question 5a thereforeb howeverc otherwised similarlywrite a b c or d": {
+      "question": "Choose A, B, C, or D for every blank. Use the title, headings, grammar, and overall purpose. Question 1A. facilitiesB. resourcesC. containersD. productsWrite A, B, C or D: {#1} Question 2A. look afterB. take backC. pass aroundD. throw awayWrite A, B, C or D: {#2} Question 3A. efficientlyB. efficientC. efficiencyD. inefficientWrite A, B, C or D: {#3} Question 4A. thatB. whoC. whichD. whatWrite A, B, C or D: {#4} Question 5A. ThereforeB. HoweverC. OtherwiseD. SimilarlyWrite A, B, C or D: {#5}",
+      "clean_stem": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a facilitiesb resourcesc containersd productswrite a b c or d 1 question 2a look afterb take backc pass aroundd throw awaywrite a b c or d 2 question 3a efficientlyb efficientc efficiencyd inefficientwrite a b c or d 3 question 4a thatb whoc whichd whatwrite a b c or d 4 question 5a thereforeb howeverc otherwised similarlywrite a b c or d 5",
+      "stem_key": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a facilitiesb resourcesc containersd productswrite a b c or d 1 question 2a look afterb take backc pass aroundd throw awaywrite a b c or d 2 question 3a efficientlyb efficientc efficiencyd inefficientwrite a b c or d 3 question 4a thatb whoc whichd whatwrite a b c or d 4 question 5a thereforeb howeverc otherwised similarlywrite a b c or d 5",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a aboutb onc tod forwrite a b c or d 1 question 2a equipmentb ingredientsc packagingd decorationswrite a b c or d 2 question 3a fill upb rinse outc seal offd pack upwrite a b c or d 3 question 4a contaminateb contaminationc contaminatesd contaminatedwrite a b c or d 4 question 5a environmentb environmentalc environmentallyd environmentswrite a b c or d 5": {
+      "question": "Choose A, B, C, or D for every blank. Use the title, headings, grammar, and overall purpose. Question 1A. aboutB. onC. toD. forWrite A, B, C or D: {#1} Question 2A. equipmentB. ingredientsC. packagingD. decorationsWrite A, B, C or D: {#2} Question 3A. fill upB. rinse outC. seal offD. pack upWrite A, B, C or D: {#3} Question 4A. contaminateB. contaminationC. contaminatesD. contaminatedWrite A, B, C or D: {#4} Question 5A. environmentB. environmentalC. environmentallyD. environmentsWrite A, B, C or D: {#5}",
+      "clean_stem": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a aboutb onc tod forwrite a b c or d 1 question 2a equipmentb ingredientsc packagingd decorationswrite a b c or d 2 question 3a fill upb rinse outc seal offd pack upwrite a b c or d 3 question 4a contaminateb contaminationc contaminatesd contaminatedwrite a b c or d 4 question 5a environmentb environmentalc environmentallyd environmentswrite a b c or d 5",
+      "stem_key": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a aboutb onc tod forwrite a b c or d 1 question 2a equipmentb ingredientsc packagingd decorationswrite a b c or d 2 question 3a fill upb rinse outc seal offd pack upwrite a b c or d 3 question 4a contaminateb contaminationc contaminatesd contaminatedwrite a b c or d 4 question 5a environmentb environmentalc environmentallyd environmentswrite a b c or d 5",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
+    },
+    "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a aboutb onc tod forwrite a b c or d question 2a equipmentb ingredientsc packagingd decorationswrite a b c or d question 3a fill upb rinse outc seal offd pack upwrite a b c or d question 4a contaminateb contaminationc contaminatesd contaminatedwrite a b c or d question 5a environmentb environmentalc environmentallyd environmentswrite a b c or d": {
+      "question": "Choose A, B, C, or D for every blank. Use the title, headings, grammar, and overall purpose. Question 1A. aboutB. onC. toD. forWrite A, B, C or D: {#1} Question 2A. equipmentB. ingredientsC. packagingD. decorationsWrite A, B, C or D: {#2} Question 3A. fill upB. rinse outC. seal offD. pack upWrite A, B, C or D: {#3} Question 4A. contaminateB. contaminationC. contaminatesD. contaminatedWrite A, B, C or D: {#4} Question 5A. environmentB. environmentalC. environmentallyD. environmentsWrite A, B, C or D: {#5}",
+      "clean_stem": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a aboutb onc tod forwrite a b c or d 1 question 2a equipmentb ingredientsc packagingd decorationswrite a b c or d 2 question 3a fill upb rinse outc seal offd pack upwrite a b c or d 3 question 4a contaminateb contaminationc contaminatesd contaminatedwrite a b c or d 4 question 5a environmentb environmentalc environmentallyd environmentswrite a b c or d 5",
+      "stem_key": "choose a b c or d for every blank use the title headings grammar and overall purpose question 1a aboutb onc tod forwrite a b c or d 1 question 2a equipmentb ingredientsc packagingd decorationswrite a b c or d 2 question 3a fill upb rinse outc seal offd pack upwrite a b c or d 3 question 4a contaminateb contaminationc contaminatesd contaminatedwrite a b c or d 4 question 5a environmentb environmentalc environmentallyd environmentswrite a b c or d 5",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-18T12:16:59Z"
     }
   }
 }
