@@ -1,0 +1,632 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Hoàng Yến Vy",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR9EX32-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr9ex32_term_1_mid_test_review",
+    "cmid": "739881",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_9/session_3_on_tap_gk1/gr9ex32_term_1_mid_test_review.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 80,
+    "updated_at": "2026-10-18 20:49:05"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the school announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. clean air week our school is joining clean air week next month. grade 9 students will (7) a short project on how families travel around the neighbourhood.the project aims to encourage families to (8) car use for short journeys. heavy traffic often causes serious (9) near the school gates in the morning.the fewer cars there are at drop-off time, (10) the roads become.students will also design posters about walking, cycling, and using public transport. together, these changes can make the area more (11) for everyone.we hope many families will join, (12) small changes can make daily travel healthier and easier.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the school announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. CLEAN AIR WEEK Our school is joining Clean Air Week next month. Grade 9 students will (7) {#1} a short project on how families travel around the neighbourhood.The project aims to encourage families to (8) {#2} car use for short journeys. Heavy traffic often causes serious (9) {#3} near the school gates in the morning.The fewer cars there are at drop-off time, (10) {#4} the roads become.Students will also design posters about walking, cycling, and using public transport. Together, these changes can make the area more (11) {#5} for everyone.We hope many families will join, (12) {#6} small changes can make daily travel healthier and easier.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "carry out"
+        },
+        {
+          "index": 1,
+          "value": "cut down on"
+        },
+        {
+          "index": 2,
+          "value": "congestion"
+        },
+        {
+          "index": 3,
+          "value": "the safer"
+        },
+        {
+          "index": 4,
+          "value": "liveable"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the school announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. CLEAN AIR WEEK Our school is joining Clean Air Week next month. Grade 9 students will (7) {#1} a short project on how families travel around the neighbourhood.The project aims to encourage families to (8) {#2} car use for short journeys. Heavy traffic often causes serious (9) {#3} near the school gates in the morning.The fewer cars there are at drop-off time, (10) {#4} the roads become.Students will also design posters about walking, cycling, and using public transport. Together, these changes can make the area more (11) {#5} for everyone.We hope many families will join, (12) {#6} small changes can make daily travel healthier and easier.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following visitor information leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. getting around central city central city is easy to explore if you plan ahead. the area around the main station has several public (1) , including a library, sports centre, and park. at rush hour, the metro can be very (2) , so visitors should allow extra time. many people use it to (3) the city because it avoids much of the road traffic.in general, the earlier you travel, (4) the trains are. if you want to stay in the city centre, close to the main shops, restaurants, and cinemas, choose the (5) area.the city has recently added clearer maps at stations, (6) first-time visitors can find their way more easily.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following visitor information leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. GETTING AROUND CENTRAL CITY Central City is easy to explore if you plan ahead. The area around the main station has several public (1) {#1}, including a library, sports centre, and park. At rush hour, the metro can be very (2) {#2}, so visitors should allow extra time. Many people use it to (3) {#3} the city because it avoids much of the road traffic.In general, the earlier you travel, (4) {#4} the trains are. If you want to stay in the city centre, close to the main shops, restaurants, and cinemas, choose the (5) {#5} area.The city has recently added clearer maps at stations, (6) {#6} first-time visitors can find their way more easily.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "amenities"
+        },
+        {
+          "index": 1,
+          "value": "packed"
+        },
+        {
+          "index": 2,
+          "value": "get around"
+        },
+        {
+          "index": 3,
+          "value": "the less crowded"
+        },
+        {
+          "index": 4,
+          "value": "downtown"
+        },
+        {
+          "index": 5,
+          "value": "so"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following visitor information leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. GETTING AROUND CENTRAL CITY Central City is easy to explore if you plan ahead. The area around the main station has several public (1) {#1}, including a library, sports centre, and park. At rush hour, the metro can be very (2) {#2}, so visitors should allow extra time. Many people use it to (3) {#3} the city because it avoids much of the road traffic.In general, the earlier you travel, (4) {#4} the trains are. If you want to stay in the city centre, close to the main shops, restaurants, and cinemas, choose the (5) {#5} area.The city has recently added clearer maps at stations, (6) {#6} first-time visitors can find their way more easily.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. safer streets near hong ha school every weekday morning, the streets around hong ha secondary school become very busy. cars, motorbikes, bicycles, and students all arrive at almost the same time. last term, the student council decided to find out which problems worried people most. (13) ______.the survey showed that the busiest and most difficult period was between 6:45 and 7:15 a.m. teachers sent the results to the local ward office. (14) ______. the new plan had three main parts. for the first two weeks, volunteers stood near the pedestrian crossing to guide younger students. (15) ______. parents were also asked not to stop their vehicles on the pavement.after one month, the school carried out a second short survey. (16) ______. however, the school still reminds drivers to be especially careful on rainy mornings.the project was simple and did not require major construction. it depended mainly on information, clear rules, and cooperation. (17) ______. question 13.a. the school asked only bus drivers to describe their daily routes.b. more than 200 students and parents answered questions about local traffic.c. several students suggested replacing the school with a quieter building.d. the local ward office immediately closed the road beside the school.write a, b, c, or d – question 14.a. the school then moved its main entrance to another street.b. parents suggested changing lesson times instead of traffic rules.c. the survey was repeated before any possible action was discussed.d. after reviewing the findings, officials agreed to test a traffic plan.write a, b, c, or d – question 15.a. new signs reminded drivers to slow down near the school gate.b. students were told to remain inside until all traffic disappeared.c. the pedestrian crossing was closed during the busiest morning period.d. public buses were asked to park directly outside the school entrance.write a, b, c, or d – question 16.a. more families reported that crossing the road had become difficult.b. the ward office decided to remove all the new signs immediately.c. fewer students reported problems crossing the road at busy times.d. more parents started driving their children directly into the school.write a, b, c, or d – question 17.a. the school now plans to replace volunteers with traffic police every day.b. traffic problems usually disappear when school starting times are changed.c. the first survey was more useful than the safety measures that followed.d. small changes can improve safety when schools and residents cooperate.write a, b, c, or d –",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SAFER STREETS NEAR HONG HA SCHOOL Every weekday morning, the streets around Hong Ha Secondary School become very busy. Cars, motorbikes, bicycles, and students all arrive at almost the same time. Last term, the student council decided to find out which problems worried people most. (13) ______.The survey showed that the busiest and most difficult period was between 6:45 and 7:15 a.m. Teachers sent the results to the local ward office. (14) ______. The new plan had three main parts. For the first two weeks, volunteers stood near the pedestrian crossing to guide younger students. (15) ______. Parents were also asked not to stop their vehicles on the pavement.After one month, the school carried out a second short survey. (16) ______. However, the school still reminds drivers to be especially careful on rainy mornings.The project was simple and did not require major construction. It depended mainly on information, clear rules, and cooperation. (17) ______. Question 13.A. The school asked only bus drivers to describe their daily routes.B. More than 200 students and parents answered questions about local traffic.C. Several students suggested replacing the school with a quieter building.D. The local ward office immediately closed the road beside the school.Write A, B, C, or D – {#1}Question 14.A. The school then moved its main entrance to another street.B. Parents suggested changing lesson times instead of traffic rules.C. The survey was repeated before any possible action was discussed.D. After reviewing the findings, officials agreed to test a traffic plan.Write A, B, C, or D – {#2}Question 15.A. New signs reminded drivers to slow down near the school gate.B. Students were told to remain inside until all traffic disappeared.C. The pedestrian crossing was closed during the busiest morning period.D. Public buses were asked to park directly outside the school entrance.Write A, B, C, or D – {#3}Question 16.A. More families reported that crossing the road had become difficult.B. The ward office decided to remove all the new signs immediately.C. Fewer students reported problems crossing the road at busy times.D. More parents started driving their children directly into the school.Write A, B, C, or D – {#4}Question 17.A. The school now plans to replace volunteers with traffic police every day.B. Traffic problems usually disappear when school starting times are changed.C. The first survey was more useful than the safety measures that followed.D. Small changes can improve safety when schools and residents cooperate.Write A, B, C, or D – {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SAFER STREETS NEAR HONG HA SCHOOL Every weekday morning, the streets around Hong Ha Secondary School become very busy. Cars, motorbikes, bicycles, and students all arrive at almost the same time. Last term, the student council decided to find out which problems worried people most. (13) ______.The survey showed that the busiest and most difficult period was between 6:45 and 7:15 a.m. Teachers sent the results to the local ward office. (14) ______. The new plan had three main parts. For the first two weeks, volunteers stood near the pedestrian crossing to guide younger students. (15) ______. Parents were also asked not to stop their vehicles on the pavement.After one month, the school carried out a second short survey. (16) ______. However, the school still reminds drivers to be especially careful on rainy mornings.The project was simple and did not require major construction. It depended mainly on information, clear rules, and cooperation. (17) ______. Question 13.A. The school asked only bus drivers to describe their daily routes.B. More than 200 students and parents answered questions about local traffic.C. Several students suggested replacing the school with a quieter building.D. The local ward office immediately closed the road beside the school.Write A, B, C, or D – {#1}Question 14.A. The school then moved its main entrance to another street.B. Parents suggested changing lesson times instead of traffic rules.C. The survey was repeated before any possible action was discussed.D. After reviewing the findings, officials agreed to test a traffic plan.Write A, B, C, or D – {#2}Question 15.A. New signs reminded drivers to slow down near the school gate.B. Students were told to remain inside until all traffic disappeared.C. The pedestrian crossing was closed during the busiest morning period.D. Public buses were asked to park directly outside the school entrance.Write A, B, C, or D – {#3}Question 16.A. More families reported that crossing the road had become difficult.B. The ward office decided to remove all the new signs immediately.C. Fewer students reported problems crossing the road at busy times.D. More parents started driving their children directly into the school.Write A, B, C, or D – {#4}Question 17.A. The school now plans to replace volunteers with traffic police every day.B. Traffic problems usually disappear when school starting times are changed.C. The first survey was more useful than the safety measures that followed.D. Small changes can improve safety when schools and residents cooperate.Write A, B, C, or D – {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. nam: thank you. that would be really helpful.b. lan: i can show you how to use the metro map if you like.c. nam: i'm not sure which line goes to the sports centre.d. lan: no problem. we need the blue line from this station.a. b – c – a – db. c – a – b – dc. c – b – d – ad. c – b – a – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Nam: Thank you. That would be really helpful.b. Lan: I can show you how to use the metro map if you like.c. Nam: I'm not sure which line goes to the sports centre.d. Lan: No problem. We need the blue line from this station.A. b – c – a – dB. c – a – b – dC. c – b – d – aD. c – b – a – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Nam: Thank you. That would be really helpful.b. Lan: I can show you how to use the metro map if you like.c. Nam: I'm not sure which line goes to the sports centre.d. Lan: No problem. We need the blue line from this station.A. b – c – a – dB. c – a – b – dC. c – b – d – aD. c – b – a – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. as a result, the park became cleaner and easier for families to use.b. residents complained that bins near the playground filled too quickly at weekends.c. the local council added two larger bins and arranged an extra sunday collection.d. volunteers also put up signs asking visitors to separate recyclable waste. a. b – d – c – ab. b – c – d – ac. c – b – a – dd. d – b – c – a write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. As a result, the park became cleaner and easier for families to use.b. Residents complained that bins near the playground filled too quickly at weekends.c. The local council added two larger bins and arranged an extra Sunday collection.d. Volunteers also put up signs asking visitors to separate recyclable waste. A. b – d – c – aB. b – c – d – aC. c – b – a – dD. d – b – c – a Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. As a result, the park became cleaner and easier for families to use.b. Residents complained that bins near the playground filled too quickly at weekends.c. The local council added two larger bins and arranged an extra Sunday collection.d. Volunteers also put up signs asking visitors to separate recyclable waste. A. b – d – c – aB. b – c – d – aC. c – b – a – dD. d – b – c – a Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. for these reasons, she usually takes the metro to school.b. linh lives in a busy area near the city centre.c. the roads around her home are often crowded in the morning.d. fortunately, the metro station is only five minutes from her apartment. a. b – d – c – ab. c – b – d – ac. b – c – d – ad. b – c – a – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. For these reasons, she usually takes the metro to school.b. Linh lives in a busy area near the city centre.c. The roads around her home are often crowded in the morning.d. Fortunately, the metro station is only five minutes from her apartment. A. b – d – c – aB. c – b – d – aC. b – c – d – aD. b – c – a – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. For these reasons, she usually takes the metro to school.b. Linh lives in a busy area near the city centre.c. The roads around her home are often crowded in the morning.d. Fortunately, the metro station is only five minutes from her apartment. A. b – d – c – aB. c – b – d – aC. b – c – d – aD. b – c – a – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. teams should submit one idea for reducing traffic or pollution in their neighbourhood.b. after the deadline, the best ideas will be selected for display.c. our school is launching a city improvement challenge for grade 9 students.d. to enter the challenge, please send your proposal to your english teacher by friday.e. we hope the project will encourage students to think about practical city solutions.a. a – c – d – e – bb. c – d – a – b – ec. c – a – d – b – ed. c – a – b – e – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Teams should submit one idea for reducing traffic or pollution in their neighbourhood.b. After the deadline, the best ideas will be selected for display.c. Our school is launching a City Improvement Challenge for Grade 9 students.d. To enter the challenge, please send your proposal to your English teacher by Friday.e. We hope the project will encourage students to think about practical city solutions.A. a – c – d – e – bB. c – d – a – b – eC. c – a – d – b – eD. c – a – b – e – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Teams should submit one idea for reducing traffic or pollution in their neighbourhood.b. After the deadline, the best ideas will be selected for display.c. Our school is launching a City Improvement Challenge for Grade 9 students.d. To enter the challenge, please send your proposal to your English teacher by Friday.e. We hope the project will encourage students to think about practical city solutions.A. a – c – d – e – bB. c – d – a – b – eC. c – a – d – b – eD. c – a – b – e – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. first, there are many useful public amenities near my home.b. in conclusion, i enjoy city life because it is convenient and lively.c. i like living in my city for several reasons.d. i can also get around easily by bus and metro. a. c – a – d – bb. a – c – b – dc. c – d – b – ad. d – a – c – b write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. First, there are many useful public amenities near my home.b. In conclusion, I enjoy city life because it is convenient and lively.c. I like living in my city for several reasons.d. I can also get around easily by bus and metro. A. c – a – d – bB. a – c – b – dC. c – d – b – aD. d – a – c – b Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. First, there are many useful public amenities near my home.b. In conclusion, I enjoy city life because it is convenient and lively.c. I like living in my city for several reasons.d. I can also get around easily by bus and metro. A. c – a – d – bB. a – c – b – dC. c – d – b – aD. d – a – c – b Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31.the word “dense” in paragraph 1 is closest in meaning to ______.a. thickly coveredb. carefully plannedc. brightly colouredd. recently cleanedwrite a, b, c, or d – question 32.why did the youth group ask residents for their opinions?a. to decide how much money each family should contributeb. to find out whether people wanted another apartment buildingc. to choose which local businesses should manage the new parkd. to learn what kinds of facilities local people wantedwrite a, b, c, or d – question 33.the phrase “this rule” in paragraph 3 refers to ______.a. installing lights around the walking pathb. allowing teenagers to meet in the parkc. closing the park at 9 p.m.d. planting trees beside the apartment blockswrite a, b, c, or d – question 34.which statement best paraphrases the committee's view in the final paragraph?a. only large parks can make crowded neighbourhoods more attractive.b. small spaces can be useful when they meet local residents' needs.c. every unused area in the city should become a public park.d. new parks are mainly valuable because they increase property prices.write a, b, c, or d – question 35.what can be inferred from paragraph 4?a. most residents use the park only during the morning.b. teenagers use the park more often than every other age group.c. the bicycle rack was included before the park first opened.d. the park serves different groups at different times of the day.write a, b, c, or d – question 36.in which paragraph does the writer mention a change made after a new problem appeared?a. paragraph 4b. paragraph 2c. paragraph 5d. paragraph 1write a, b, c, or d – question 37.what is the main purpose of paragraph 4?a. to explain why the original park plan cost too muchb. to compare the park with larger city green spacesc. to describe park use and a later improvementd. to show why residents disagreed about using the parkwrite a, b, c, or d – question 38.which of the following is not supported by the passage?a. residents were asked for ideas before the final park plan was made.b. a bicycle rack was added after the park had already opened.c. the park was created mainly to attract tourists to the neighbourhood.d. some nearby residents were worried about noise late in the evening.write a, b, c, or d – question 39.which of the following best summarises the passage?a. a neglected city space became a useful park through local planning and community input.b. a youth group built a large park after residents demanded more sports facilities.c. apartment residents turned a parking area into a park without help from local officials.d. a new city park solved the wider shortage of green space in hoa minh.write a, b, c, or d – question 40.which of the following is the best title for the passage?a. why hoa minh needs more apartment buildingsb. a small space with a new rolec. problems with parking in a crowded cityd. how teenagers spend time in public parkswrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31.The word “dense” in paragraph 1 is closest in meaning to ______.A. thickly coveredB. carefully plannedC. brightly colouredD. recently cleanedWrite A, B, C, or D – {#1}Question 32.Why did the youth group ask residents for their opinions?A. To decide how much money each family should contributeB. To find out whether people wanted another apartment buildingC. To choose which local businesses should manage the new parkD. To learn what kinds of facilities local people wantedWrite A, B, C, or D – {#2}Question 33.The phrase “This rule” in paragraph 3 refers to ______.A. installing lights around the walking pathB. allowing teenagers to meet in the parkC. closing the park at 9 p.m.D. planting trees beside the apartment blocksWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the committee's view in the final paragraph?A. Only large parks can make crowded neighbourhoods more attractive.B. Small spaces can be useful when they meet local residents' needs.C. Every unused area in the city should become a public park.D. New parks are mainly valuable because they increase property prices.Write A, B, C, or D – {#4}Question 35.What can be inferred from paragraph 4?A. Most residents use the park only during the morning.B. Teenagers use the park more often than every other age group.C. The bicycle rack was included before the park first opened.D. The park serves different groups at different times of the day.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention a change made after a new problem appeared?A. Paragraph 4B. Paragraph 2C. Paragraph 5D. Paragraph 1Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why the original park plan cost too muchB. To compare the park with larger city green spacesC. To describe park use and a later improvementD. To show why residents disagreed about using the parkWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Residents were asked for ideas before the final park plan was made.B. A bicycle rack was added after the park had already opened.C. The park was created mainly to attract tourists to the neighbourhood.D. Some nearby residents were worried about noise late in the evening.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A neglected city space became a useful park through local planning and community input.B. A youth group built a large park after residents demanded more sports facilities.C. Apartment residents turned a parking area into a park without help from local officials.D. A new city park solved the wider shortage of green space in Hoa Minh.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Hoa Minh Needs More Apartment BuildingsB. A Small Space with a New RoleC. Problems with Parking in a Crowded CityD. How Teenagers Spend Time in Public ParksWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "value": "b"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "a"
+        },
+        {
+          "index": 6,
+          "value": "c"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "a"
+        },
+        {
+          "index": 9,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31.The word “dense” in paragraph 1 is closest in meaning to ______.A. thickly coveredB. carefully plannedC. brightly colouredD. recently cleanedWrite A, B, C, or D – {#1}Question 32.Why did the youth group ask residents for their opinions?A. To decide how much money each family should contributeB. To find out whether people wanted another apartment buildingC. To choose which local businesses should manage the new parkD. To learn what kinds of facilities local people wantedWrite A, B, C, or D – {#2}Question 33.The phrase “This rule” in paragraph 3 refers to ______.A. installing lights around the walking pathB. allowing teenagers to meet in the parkC. closing the park at 9 p.m.D. planting trees beside the apartment blocksWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the committee's view in the final paragraph?A. Only large parks can make crowded neighbourhoods more attractive.B. Small spaces can be useful when they meet local residents' needs.C. Every unused area in the city should become a public park.D. New parks are mainly valuable because they increase property prices.Write A, B, C, or D – {#4}Question 35.What can be inferred from paragraph 4?A. Most residents use the park only during the morning.B. Teenagers use the park more often than every other age group.C. The bicycle rack was included before the park first opened.D. The park serves different groups at different times of the day.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention a change made after a new problem appeared?A. Paragraph 4B. Paragraph 2C. Paragraph 5D. Paragraph 1Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why the original park plan cost too muchB. To compare the park with larger city green spacesC. To describe park use and a later improvementD. To show why residents disagreed about using the parkWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Residents were asked for ideas before the final park plan was made.B. A bicycle rack was added after the park had already opened.C. The park was created mainly to attract tourists to the neighbourhood.D. Some nearby residents were worried about noise late in the evening.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A neglected city space became a useful park through local planning and community input.B. A youth group built a large park after residents demanded more sports facilities.C. Apartment residents turned a parking area into a park without help from local officials.D. A new city park solved the wider shortage of green space in Hoa Minh.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Hoa Minh Needs More Apartment BuildingsB. A Small Space with a New RoleC. Problems with Parking in a Crowded CityD. How Teenagers Spend Time in Public ParksWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the main idea of the passage?a. river street needs fewer buses during the busiest hours of the day.b. a redesigned bus stop made daily travel easier for local passengers.c. volunteers replaced council workers at a busy public transport station.d. more residents began driving because the original bus stop was crowded.write a, b, c, or d – question 24.the word “relocate” in paragraph 2 is closest in meaning to ______.a. repair it after damageb. move it somewhere elsec. make it much largerd. close it for goodwrite a, b, c, or d – question 25.why was the new bus-stop location more suitable?a. it had more pavement space away from the junction.b. it allowed buses to avoid the busiest road section.c. it was closer to the main shops and offices.d. it gave passengers a sheltered place to wait indoors.write a, b, c, or d – question 26.the phrase “these changes” in paragraph 2 refers to ______.a. reducing traffic and changing bus routesb. widening the road and closing the junctionc. moving and improving the bus-stop facilitiesd. replacing buses with other forms of transportwrite a, b, c, or d – question 27.which of the following is not true according to the passage?a. volunteers helped passengers use the new route map.b. the old stop did not have a rain shelter.c. passengers later reported fewer problems at the stop.d. the project reduced traffic on river street.write a, b, c, or d – question 28.which statement best paraphrases the final paragraph?a. the new stop solved most of river street's transport problems.b. the project improved the waiting experience without ending congestion.c. passengers stopped complaining because fewer buses used the road.d. the council considered the project unsuccessful because traffic remained heavy.write a, b, c, or d – question 29.what is the main purpose of paragraph 3?a. to explain why older people prefer travelling by busb. to compare the old route map with the new onec. to describe how the council chose the bus-stop locationd. to explain how volunteers supported passengers after the changewrite a, b, c, or d – question 30.what can be inferred from the passage?a. the council plans to remove all bus stops near busy roads.b. most passengers now avoid river street during the morning rush.c. practical small changes can improve travel without solving every traffic problem.d. the volunteers were mainly responsible for designing the new bus shelter.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the main idea of the passage?A. River Street needs fewer buses during the busiest hours of the day.B. A redesigned bus stop made daily travel easier for local passengers.C. Volunteers replaced council workers at a busy public transport station.D. More residents began driving because the original bus stop was crowded.Write A, B, C, or D – {#1}Question 24.The word “relocate” in paragraph 2 is closest in meaning to ______.A. repair it after damageB. move it somewhere elseC. make it much largerD. close it for goodWrite A, B, C, or D – {#2}Question 25.Why was the new bus-stop location more suitable?A. It had more pavement space away from the junction.B. It allowed buses to avoid the busiest road section.C. It was closer to the main shops and offices.D. It gave passengers a sheltered place to wait indoors.Write A, B, C, or D – {#3}Question 26.The phrase “These changes” in paragraph 2 refers to ______.A. reducing traffic and changing bus routesB. widening the road and closing the junctionC. moving and improving the bus-stop facilitiesD. replacing buses with other forms of transportWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Volunteers helped passengers use the new route map.B. The old stop did not have a rain shelter.C. Passengers later reported fewer problems at the stop.D. The project reduced traffic on River Street.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the final paragraph?A. The new stop solved most of River Street's transport problems.B. The project improved the waiting experience without ending congestion.C. Passengers stopped complaining because fewer buses used the road.D. The council considered the project unsuccessful because traffic remained heavy.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 3?A. To explain why older people prefer travelling by busB. To compare the old route map with the new oneC. To describe how the council chose the bus-stop locationD. To explain how volunteers supported passengers after the changeWrite A, B, C, or D – {#7}Question 30.What can be inferred from the passage?A. The council plans to remove all bus stops near busy roads.B. Most passengers now avoid River Street during the morning rush.C. Practical small changes can improve travel without solving every traffic problem.D. The volunteers were mainly responsible for designing the new bus shelter.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "b"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the main idea of the passage?A. River Street needs fewer buses during the busiest hours of the day.B. A redesigned bus stop made daily travel easier for local passengers.C. Volunteers replaced council workers at a busy public transport station.D. More residents began driving because the original bus stop was crowded.Write A, B, C, or D – {#1}Question 24.The word “relocate” in paragraph 2 is closest in meaning to ______.A. repair it after damageB. move it somewhere elseC. make it much largerD. close it for goodWrite A, B, C, or D – {#2}Question 25.Why was the new bus-stop location more suitable?A. It had more pavement space away from the junction.B. It allowed buses to avoid the busiest road section.C. It was closer to the main shops and offices.D. It gave passengers a sheltered place to wait indoors.Write A, B, C, or D – {#3}Question 26.The phrase “These changes” in paragraph 2 refers to ______.A. reducing traffic and changing bus routesB. widening the road and closing the junctionC. moving and improving the bus-stop facilitiesD. replacing buses with other forms of transportWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Volunteers helped passengers use the new route map.B. The old stop did not have a rain shelter.C. Passengers later reported fewer problems at the stop.D. The project reduced traffic on River Street.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the final paragraph?A. The new stop solved most of River Street's transport problems.B. The project improved the waiting experience without ending congestion.C. Passengers stopped complaining because fewer buses used the road.D. The council considered the project unsuccessful because traffic remained heavy.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 3?A. To explain why older people prefer travelling by busB. To compare the old route map with the new oneC. To describe how the council chose the bus-stop locationD. To explain how volunteers supported passengers after the changeWrite A, B, C, or D – {#7}Question 30.What can be inferred from the passage?A. The council plans to remove all bus stops near busy roads.B. Most passengers now avoid River Street during the morning rush.C. Practical small changes can improve travel without solving every traffic problem.D. The volunteers were mainly responsible for designing the new bus shelter.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. amenities",
+      "id": "question-1901222-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following visitor information leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. getting around central city central city is easy to explore if you plan ahead. the area around the main station has several public (1) {#1}, including a library, sports centre, and park. at rush hour, the metro can be very (2) {#2}, so visitors should allow extra time. many people use it to (3) {#3} the city because it avoids much of the road traffic.in general, the earlier you travel, (4) {#4} the trains are. if you want to stay in the city centre, close to the main shops, restaurants, and cinemas, choose the (5) {#5} area.the city has recently added clearer maps at stations, (6) {#6} first-time visitors can find their way more easily.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following visitor information leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. GETTING AROUND CENTRAL CITY Central City is easy to explore if you plan ahead. The area around the main station has several public (1) [Blank 1] , including a library, sports centre, and park. At rush hour, the metro can be very (2) [Blank 2] , so visitors should allow extra time. Many people use it to (3) [Blank 3] the city because it avoids much of the road traffic.In general, the earlier you travel, (4) [Blank 4] the trains are. If you want to stay in the city centre, close to the main shops, restaurants, and cinemas, choose the (5) [Blank 5] area.The city has recently added clearer maps at stations, (6) [Blank 6] first-time visitors can find their way more easily.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.routesB.suburbsC.amenitiesD.junglesÔ (2):A.emptyB.peacefulC.packedD.privateÔ (3):A.hang out withB.cut down onC.get aroundD.carry outÔ (4):A.the more crowdingB.less crowdedC.the less crowdedD.the least crowdedÔ (5):A.downtownB.suburbanC.residentialD.coastalÔ (6):A.unlessB.althoughC.soD.because",
+      "questionId": "question-1901222-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following visitor information leaflet and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. getting around central city central city is easy to explore if you plan ahead. the area around the main station has several public (1) [blank 1] , including a library, sports centre, and park. at rush hour, the metro can be very (2) [blank 2] , so visitors should allow extra time. many people use it to (3) [blank 3] the city because it avoids much of the road traffic.in general, the earlier you travel, (4) [blank 4] the trains are. if you want to stay in the city centre, close to the main shops, restaurants, and cinemas, choose the (5) [blank 5] area.the city has recently added clearer maps at stations, (6) [blank 6] first-time visitors can find their way more easily.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.routesb.suburbsc.amenitiesd.junglesô (2):a.emptyb.peacefulc.packedd.privateô (3):a.hang out withb.cut down onc.get aroundd.carry outô (4):a.the more crowdingb.less crowdedc.the less crowdedd.the least crowdedô (5):a.downtownb.suburbanc.residentiald.coastalô (6):a.unlessb.althoughc.sod.because",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. amenities"
+        },
+        {
+          "index": 1,
+          "value": "C. packed"
+        },
+        {
+          "index": 2,
+          "value": "C. get around"
+        },
+        {
+          "index": 3,
+          "value": "C. the less crowded"
+        },
+        {
+          "index": 4,
+          "value": "A. downtown"
+        },
+        {
+          "index": 5,
+          "value": "C. so"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. carry out",
+      "id": "question-1901222-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the school announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. clean air week our school is joining clean air week next month. grade 9 students will (7) {#1} a short project on how families travel around the neighbourhood.the project aims to encourage families to (8) {#2} car use for short journeys. heavy traffic often causes serious (9) {#3} near the school gates in the morning.the fewer cars there are at drop-off time, (10) {#4} the roads become.students will also design posters about walking, cycling, and using public transport. together, these changes can make the area more (11) {#5} for everyone.we hope many families will join, (12) {#6} small changes can make daily travel healthier and easier.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the school announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. CLEAN AIR WEEK Our school is joining Clean Air Week next month. Grade 9 students will (7) [Blank 7] a short project on how families travel around the neighbourhood.The project aims to encourage families to (8) [Blank 8] car use for short journeys. Heavy traffic often causes serious (9) [Blank 9] near the school gates in the morning.The fewer cars there are at drop-off time, (10) [Blank 10] the roads become.Students will also design posters about walking, cycling, and using public transport. Together, these changes can make the area more (11) [Blank 11] for everyone.We hope many families will join, (12) [Blank 12] small changes can make daily travel healthier and easier.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.get aroundB.come down withC.hang out withD.carry outÔ (8):A.hang out withB.cut down onC.get aroundD.carry outÔ (9):A.amenityB.congestionC.nightlifeD.entertainmentÔ (10):A.the saferB.more safelyC.safer thanD.the safestÔ (11):A.noisyB.downtownC.liveableD.crowdedÔ (12):A.becauseB.butC.unlessD.although",
+      "questionId": "question-1901222-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the school announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. clean air week our school is joining clean air week next month. grade 9 students will (7) [blank 7] a short project on how families travel around the neighbourhood.the project aims to encourage families to (8) [blank 8] car use for short journeys. heavy traffic often causes serious (9) [blank 9] near the school gates in the morning.the fewer cars there are at drop-off time, (10) [blank 10] the roads become.students will also design posters about walking, cycling, and using public transport. together, these changes can make the area more (11) [blank 11] for everyone.we hope many families will join, (12) [blank 12] small changes can make daily travel healthier and easier.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.get aroundb.come down withc.hang out withd.carry outô (8):a.hang out withb.cut down onc.get aroundd.carry outô (9):a.amenityb.congestionc.nightlifed.entertainmentô (10):a.the saferb.more safelyc.safer thand.the safestô (11):a.noisyb.downtownc.liveabled.crowdedô (12):a.becauseb.butc.unlessd.although",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. carry out"
+        },
+        {
+          "index": 1,
+          "value": "B. cut down on"
+        },
+        {
+          "index": 2,
+          "value": "B. congestion"
+        },
+        {
+          "index": 3,
+          "value": "A. the safer"
+        },
+        {
+          "index": 4,
+          "value": "C. liveable"
+        },
+        {
+          "index": 5,
+          "value": "A. because"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901222-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. safer streets near hong ha school every weekday morning, the streets around hong ha secondary school become very busy. cars, motorbikes, bicycles, and students all arrive at almost the same time. last term, the student council decided to find out which problems worried people most. (13) ______.the survey showed that the busiest and most difficult period was between 6:45 and 7:15 a.m. teachers sent the results to the local ward office. (14) ______. the new plan had three main parts. for the first two weeks, volunteers stood near the pedestrian crossing to guide younger students. (15) ______. parents were also asked not to stop their vehicles on the pavement.after one month, the school carried out a second short survey. (16) ______. however, the school still reminds drivers to be especially careful on rainy mornings.the project was simple and did not require major construction. it depended mainly on information, clear rules, and cooperation. (17) ______. question 13.a. the school asked only bus drivers to describe their daily routes.b. more than 200 students and parents answered questions about local traffic.c. several students suggested replacing the school with a quieter building.d. the local ward office immediately closed the road beside the school.write a, b, c, or d – {#1}question 14.a. the school then moved its main entrance to another street.b. parents suggested changing lesson times instead of traffic rules.c. the survey was repeated before any possible action was discussed.d. after reviewing the findings, officials agreed to test a traffic plan.write a, b, c, or d – {#2}question 15.a. new signs reminded drivers to slow down near the school gate.b. students were told to remain inside until all traffic disappeared.c. the pedestrian crossing was closed during the busiest morning period.d. public buses were asked to park directly outside the school entrance.write a, b, c, or d – {#3}question 16.a. more families reported that crossing the road had become difficult.b. the ward office decided to remove all the new signs immediately.c. fewer students reported problems crossing the road at busy times.d. more parents started driving their children directly into the school.write a, b, c, or d – {#4}question 17.a. the school now plans to replace volunteers with traffic police every day.b. traffic problems usually disappear when school starting times are changed.c. the first survey was more useful than the safety measures that followed.d. small changes can improve safety when schools and residents cooperate.write a, b, c, or d – {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SAFER STREETS NEAR HONG HA SCHOOL Every weekday morning, the streets around Hong Ha Secondary School become very busy. Cars, motorbikes, bicycles, and students all arrive at almost the same time. Last term, the student council decided to find out which problems worried people most. (13) ______.The survey showed that the busiest and most difficult period was between 6:45 and 7:15 a.m. Teachers sent the results to the local ward office. (14) ______. The new plan had three main parts. For the first two weeks, volunteers stood near the pedestrian crossing to guide younger students. (15) ______. Parents were also asked not to stop their vehicles on the pavement.After one month, the school carried out a second short survey. (16) ______. However, the school still reminds drivers to be especially careful on rainy mornings.The project was simple and did not require major construction. It depended mainly on information, clear rules, and cooperation. (17) ______. Question 13.A. The school asked only bus drivers to describe their daily routes.B. More than 200 students and parents answered questions about local traffic.C. Several students suggested replacing the school with a quieter building.D. The local ward office immediately closed the road beside the school.Write A, B, C, or D – {#1}Question 14.A. The school then moved its main entrance to another street.B. Parents suggested changing lesson times instead of traffic rules.C. The survey was repeated before any possible action was discussed.D. After reviewing the findings, officials agreed to test a traffic plan.Write A, B, C, or D – {#2}Question 15.A. New signs reminded drivers to slow down near the school gate.B. Students were told to remain inside until all traffic disappeared.C. The pedestrian crossing was closed during the busiest morning period.D. Public buses were asked to park directly outside the school entrance.Write A, B, C, or D – {#3}Question 16.A. More families reported that crossing the road had become difficult.B. The ward office decided to remove all the new signs immediately.C. Fewer students reported problems crossing the road at busy times.D. More parents started driving their children directly into the school.Write A, B, C, or D – {#4}Question 17.A. The school now plans to replace volunteers with traffic police every day.B. Traffic problems usually disappear when school starting times are changed.C. The first survey was more useful than the safety measures that followed.D. Small changes can improve safety when schools and residents cooperate.Write A, B, C, or D – {#5}",
+      "questionId": "question-1901222-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. safer streets near hong ha school every weekday morning, the streets around hong ha secondary school become very busy. cars, motorbikes, bicycles, and students all arrive at almost the same time. last term, the student council decided to find out which problems worried people most. (13) ______.the survey showed that the busiest and most difficult period was between 6:45 and 7:15 a.m. teachers sent the results to the local ward office. (14) ______. the new plan had three main parts. for the first two weeks, volunteers stood near the pedestrian crossing to guide younger students. (15) ______. parents were also asked not to stop their vehicles on the pavement.after one month, the school carried out a second short survey. (16) ______. however, the school still reminds drivers to be especially careful on rainy mornings.the project was simple and did not require major construction. it depended mainly on information, clear rules, and cooperation. (17) ______. question 13.a. the school asked only bus drivers to describe their daily routes.b. more than 200 students and parents answered questions about local traffic.c. several students suggested replacing the school with a quieter building.d. the local ward office immediately closed the road beside the school.write a, b, c, or d – {#1}question 14.a. the school then moved its main entrance to another street.b. parents suggested changing lesson times instead of traffic rules.c. the survey was repeated before any possible action was discussed.d. after reviewing the findings, officials agreed to test a traffic plan.write a, b, c, or d – {#2}question 15.a. new signs reminded drivers to slow down near the school gate.b. students were told to remain inside until all traffic disappeared.c. the pedestrian crossing was closed during the busiest morning period.d. public buses were asked to park directly outside the school entrance.write a, b, c, or d – {#3}question 16.a. more families reported that crossing the road had become difficult.b. the ward office decided to remove all the new signs immediately.c. fewer students reported problems crossing the road at busy times.d. more parents started driving their children directly into the school.write a, b, c, or d – {#4}question 17.a. the school now plans to replace volunteers with traffic police every day.b. traffic problems usually disappear when school starting times are changed.c. the first survey was more useful than the safety measures that followed.d. small changes can improve safety when schools and residents cooperate.write a, b, c, or d – {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1901222-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. first, there are many useful public amenities near my home.b. in conclusion, i enjoy city life because it is convenient and lively.c. i like living in my city for several reasons.d. i can also get around easily by bus and metro. a. c – a – d – bb. a – c – b – dc. c – d – b – ad. d – a – c – b write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. First, there are many useful public amenities near my home.b. In conclusion, I enjoy city life because it is convenient and lively.c. I like living in my city for several reasons.d. I can also get around easily by bus and metro. A. c – a – d – bB. a – c – b – dC. c – d – b – aD. d – a – c – b Write A, B, C, or D – {#1}",
+      "questionId": "question-1901222-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. first, there are many useful public amenities near my home.b. in conclusion, i enjoy city life because it is convenient and lively.c. i like living in my city for several reasons.d. i can also get around easily by bus and metro. a. c – a – d – bb. a – c – b – dc. c – d – b – ad. d – a – c – b write a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1901222-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. nam: thank you. that would be really helpful.b. lan: i can show you how to use the metro map if you like.c. nam: i'm not sure which line goes to the sports centre.d. lan: no problem. we need the blue line from this station.a. b – c – a – db. c – a – b – dc. c – b – d – ad. c – b – a – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Nam: Thank you. That would be really helpful.b. Lan: I can show you how to use the metro map if you like.c. Nam: I'm not sure which line goes to the sports centre.d. Lan: No problem. We need the blue line from this station.A. b – c – a – dB. c – a – b – dC. c – b – d – aD. c – b – a – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1901222-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. nam: thank you. that would be really helpful.b. lan: i can show you how to use the metro map if you like.c. nam: i'm not sure which line goes to the sports centre.d. lan: no problem. we need the blue line from this station.a. b – c – a – db. c – a – b – dc. c – b – d – ad. c – b – a – d write a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1901222-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. teams should submit one idea for reducing traffic or pollution in their neighbourhood.b. after the deadline, the best ideas will be selected for display.c. our school is launching a city improvement challenge for grade 9 students.d. to enter the challenge, please send your proposal to your english teacher by friday.e. we hope the project will encourage students to think about practical city solutions.a. a – c – d – e – bb. c – d – a – b – ec. c – a – d – b – ed. c – a – b – e – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Teams should submit one idea for reducing traffic or pollution in their neighbourhood.b. After the deadline, the best ideas will be selected for display.c. Our school is launching a City Improvement Challenge for Grade 9 students.d. To enter the challenge, please send your proposal to your English teacher by Friday.e. We hope the project will encourage students to think about practical city solutions.A. a – c – d – e – bB. c – d – a – b – eC. c – a – d – b – eD. c – a – b – e – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1901222-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. teams should submit one idea for reducing traffic or pollution in their neighbourhood.b. after the deadline, the best ideas will be selected for display.c. our school is launching a city improvement challenge for grade 9 students.d. to enter the challenge, please send your proposal to your english teacher by friday.e. we hope the project will encourage students to think about practical city solutions.a. a – c – d – e – bb. c – d – a – b – ec. c – a – d – b – ed. c – a – b – e – d write a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901222-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. as a result, the park became cleaner and easier for families to use.b. residents complained that bins near the playground filled too quickly at weekends.c. the local council added two larger bins and arranged an extra sunday collection.d. volunteers also put up signs asking visitors to separate recyclable waste. a. b – d – c – ab. b – c – d – ac. c – b – a – dd. d – b – c – a write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. As a result, the park became cleaner and easier for families to use.b. Residents complained that bins near the playground filled too quickly at weekends.c. The local council added two larger bins and arranged an extra Sunday collection.d. Volunteers also put up signs asking visitors to separate recyclable waste. A. b – d – c – aB. b – c – d – aC. c – b – a – dD. d – b – c – a Write A, B, C, or D – {#1}",
+      "questionId": "question-1901222-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. as a result, the park became cleaner and easier for families to use.b. residents complained that bins near the playground filled too quickly at weekends.c. the local council added two larger bins and arranged an extra sunday collection.d. volunteers also put up signs asking visitors to separate recyclable waste. a. b – d – c – ab. b – c – d – ac. c – b – a – dd. d – b – c – a write a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1901222-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. for these reasons, she usually takes the metro to school.b. linh lives in a busy area near the city centre.c. the roads around her home are often crowded in the morning.d. fortunately, the metro station is only five minutes from her apartment. a. b – d – c – ab. c – b – d – ac. b – c – d – ad. b – c – a – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. For these reasons, she usually takes the metro to school.b. Linh lives in a busy area near the city centre.c. The roads around her home are often crowded in the morning.d. Fortunately, the metro station is only five minutes from her apartment. A. b – d – c – aB. c – b – d – aC. b – c – d – aD. b – c – a – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1901222-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. for these reasons, she usually takes the metro to school.b. linh lives in a busy area near the city centre.c. the roads around her home are often crowded in the morning.d. fortunately, the metro station is only five minutes from her apartment. a. b – d – c – ab. c – b – d – ac. b – c – d – ad. b – c – a – d write a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1901222-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "value": "b"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "a"
+        },
+        {
+          "index": 6,
+          "value": "c"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "a"
+        },
+        {
+          "index": 9,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31.the word \"dense\" in paragraph 1 is closest in meaning to ______.a. thickly coveredb. carefully plannedc. brightly colouredd. recently cleanedwrite a, b, c, or d – {#1}question 32.why did the youth group ask residents for their opinions?a. to decide how much money each family should contributeb. to find out whether people wanted another apartment buildingc. to choose which local businesses should manage the new parkd. to learn what kinds of facilities local people wantedwrite a, b, c, or d – {#2}question 33.the phrase \"this rule\" in paragraph 3 refers to ______.a. installing lights around the walking pathb. allowing teenagers to meet in the parkc. closing the park at 9 p.m.d. planting trees beside the apartment blockswrite a, b, c, or d – {#3}question 34.which statement best paraphrases the committee's view in the final paragraph?a. only large parks can make crowded neighbourhoods more attractive.b. small spaces can be useful when they meet local residents' needs.c. every unused area in the city should become a public park.d. new parks are mainly valuable because they increase property prices.write a, b, c, or d – {#4}question 35.what can be inferred from paragraph 4?a. most residents use the park only during the morning.b. teenagers use the park more often than every other age group.c. the bicycle rack was included before the park first opened.d. the park serves different groups at different times of the day.write a, b, c, or d – {#5}question 36.in which paragraph does the writer mention a change made after a new problem appeared?a. paragraph 4b. paragraph 2c. paragraph 5d. paragraph 1write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 4?a. to explain why the original park plan cost too muchb. to compare the park with larger city green spacesc. to describe park use and a later improvementd. to show why residents disagreed about using the parkwrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. residents were asked for ideas before the final park plan was made.b. a bicycle rack was added after the park had already opened.c. the park was created mainly to attract tourists to the neighbourhood.d. some nearby residents were worried about noise late in the evening.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. a neglected city space became a useful park through local planning and community input.b. a youth group built a large park after residents demanded more sports facilities.c. apartment residents turned a parking area into a park without help from local officials.d. a new city park solved the wider shortage of green space in hoa minh.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. why hoa minh needs more apartment buildingsb. a small space with a new rolec. problems with parking in a crowded cityd. how teenagers spend time in public parkswrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31.The word \"dense\" in paragraph 1 is closest in meaning to ______.A. thickly coveredB. carefully plannedC. brightly colouredD. recently cleanedWrite A, B, C, or D – {#1}Question 32.Why did the youth group ask residents for their opinions?A. To decide how much money each family should contributeB. To find out whether people wanted another apartment buildingC. To choose which local businesses should manage the new parkD. To learn what kinds of facilities local people wantedWrite A, B, C, or D – {#2}Question 33.The phrase \"This rule\" in paragraph 3 refers to ______.A. installing lights around the walking pathB. allowing teenagers to meet in the parkC. closing the park at 9 p.m.D. planting trees beside the apartment blocksWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the committee's view in the final paragraph?A. Only large parks can make crowded neighbourhoods more attractive.B. Small spaces can be useful when they meet local residents' needs.C. Every unused area in the city should become a public park.D. New parks are mainly valuable because they increase property prices.Write A, B, C, or D – {#4}Question 35.What can be inferred from paragraph 4?A. Most residents use the park only during the morning.B. Teenagers use the park more often than every other age group.C. The bicycle rack was included before the park first opened.D. The park serves different groups at different times of the day.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention a change made after a new problem appeared?A. Paragraph 4B. Paragraph 2C. Paragraph 5D. Paragraph 1Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why the original park plan cost too muchB. To compare the park with larger city green spacesC. To describe park use and a later improvementD. To show why residents disagreed about using the parkWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Residents were asked for ideas before the final park plan was made.B. A bicycle rack was added after the park had already opened.C. The park was created mainly to attract tourists to the neighbourhood.D. Some nearby residents were worried about noise late in the evening.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A neglected city space became a useful park through local planning and community input.B. A youth group built a large park after residents demanded more sports facilities.C. Apartment residents turned a parking area into a park without help from local officials.D. A new city park solved the wider shortage of green space in Hoa Minh.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Hoa Minh Needs More Apartment BuildingsB. A Small Space with a New RoleC. Problems with Parking in a Crowded CityD. How Teenagers Spend Time in Public ParksWrite A, B, C, or D – {#10}",
+      "questionId": "question-1901222-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31.the word \"dense\" in paragraph 1 is closest in meaning to ______.a. thickly coveredb. carefully plannedc. brightly colouredd. recently cleanedwrite a, b, c, or d – {#1}question 32.why did the youth group ask residents for their opinions?a. to decide how much money each family should contributeb. to find out whether people wanted another apartment buildingc. to choose which local businesses should manage the new parkd. to learn what kinds of facilities local people wantedwrite a, b, c, or d – {#2}question 33.the phrase \"this rule\" in paragraph 3 refers to ______.a. installing lights around the walking pathb. allowing teenagers to meet in the parkc. closing the park at 9 p.m.d. planting trees beside the apartment blockswrite a, b, c, or d – {#3}question 34.which statement best paraphrases the committee's view in the final paragraph?a. only large parks can make crowded neighbourhoods more attractive.b. small spaces can be useful when they meet local residents' needs.c. every unused area in the city should become a public park.d. new parks are mainly valuable because they increase property prices.write a, b, c, or d – {#4}question 35.what can be inferred from paragraph 4?a. most residents use the park only during the morning.b. teenagers use the park more often than every other age group.c. the bicycle rack was included before the park first opened.d. the park serves different groups at different times of the day.write a, b, c, or d – {#5}question 36.in which paragraph does the writer mention a change made after a new problem appeared?a. paragraph 4b. paragraph 2c. paragraph 5d. paragraph 1write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 4?a. to explain why the original park plan cost too muchb. to compare the park with larger city green spacesc. to describe park use and a later improvementd. to show why residents disagreed about using the parkwrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. residents were asked for ideas before the final park plan was made.b. a bicycle rack was added after the park had already opened.c. the park was created mainly to attract tourists to the neighbourhood.d. some nearby residents were worried about noise late in the evening.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. a neglected city space became a useful park through local planning and community input.b. a youth group built a large park after residents demanded more sports facilities.c. apartment residents turned a parking area into a park without help from local officials.d. a new city park solved the wider shortage of green space in hoa minh.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. why hoa minh needs more apartment buildingsb. a small space with a new rolec. problems with parking in a crowded cityd. how teenagers spend time in public parkswrite a, b, c, or d – {#10}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1901222-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "b"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the main idea of the passage?a. river street needs fewer buses during the busiest hours of the day.b. a redesigned bus stop made daily travel easier for local passengers.c. volunteers replaced council workers at a busy public transport station.d. more residents began driving because the original bus stop was crowded.write a, b, c, or d – {#1}question 24.the word \"relocate\" in paragraph 2 is closest in meaning to ______.a. repair it after damageb. move it somewhere elsec. make it much largerd. close it for goodwrite a, b, c, or d – {#2}question 25.why was the new bus-stop location more suitable?a. it had more pavement space away from the junction.b. it allowed buses to avoid the busiest road section.c. it was closer to the main shops and offices.d. it gave passengers a sheltered place to wait indoors.write a, b, c, or d – {#3}question 26.the phrase \"these changes\" in paragraph 2 refers to ______.a. reducing traffic and changing bus routesb. widening the road and closing the junctionc. moving and improving the bus-stop facilitiesd. replacing buses with other forms of transportwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. volunteers helped passengers use the new route map.b. the old stop did not have a rain shelter.c. passengers later reported fewer problems at the stop.d. the project reduced traffic on river street.write a, b, c, or d – {#5}question 28.which statement best paraphrases the final paragraph?a. the new stop solved most of river street's transport problems.b. the project improved the waiting experience without ending congestion.c. passengers stopped complaining because fewer buses used the road.d. the council considered the project unsuccessful because traffic remained heavy.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 3?a. to explain why older people prefer travelling by busb. to compare the old route map with the new onec. to describe how the council chose the bus-stop locationd. to explain how volunteers supported passengers after the changewrite a, b, c, or d – {#7}question 30.what can be inferred from the passage?a. the council plans to remove all bus stops near busy roads.b. most passengers now avoid river street during the morning rush.c. practical small changes can improve travel without solving every traffic problem.d. the volunteers were mainly responsible for designing the new bus shelter.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23.What is the main idea of the passage?A. River Street needs fewer buses during the busiest hours of the day.B. A redesigned bus stop made daily travel easier for local passengers.C. Volunteers replaced council workers at a busy public transport station.D. More residents began driving because the original bus stop was crowded.Write A, B, C, or D – {#1}Question 24.The word \"relocate\" in paragraph 2 is closest in meaning to ______.A. repair it after damageB. move it somewhere elseC. make it much largerD. close it for goodWrite A, B, C, or D – {#2}Question 25.Why was the new bus-stop location more suitable?A. It had more pavement space away from the junction.B. It allowed buses to avoid the busiest road section.C. It was closer to the main shops and offices.D. It gave passengers a sheltered place to wait indoors.Write A, B, C, or D – {#3}Question 26.The phrase \"These changes\" in paragraph 2 refers to ______.A. reducing traffic and changing bus routesB. widening the road and closing the junctionC. moving and improving the bus-stop facilitiesD. replacing buses with other forms of transportWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Volunteers helped passengers use the new route map.B. The old stop did not have a rain shelter.C. Passengers later reported fewer problems at the stop.D. The project reduced traffic on River Street.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the final paragraph?A. The new stop solved most of River Street's transport problems.B. The project improved the waiting experience without ending congestion.C. Passengers stopped complaining because fewer buses used the road.D. The council considered the project unsuccessful because traffic remained heavy.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 3?A. To explain why older people prefer travelling by busB. To compare the old route map with the new oneC. To describe how the council chose the bus-stop locationD. To explain how volunteers supported passengers after the changeWrite A, B, C, or D – {#7}Question 30.What can be inferred from the passage?A. The council plans to remove all bus stops near busy roads.B. Most passengers now avoid River Street during the morning rush.C. Practical small changes can improve travel without solving every traffic problem.D. The volunteers were mainly responsible for designing the new bus shelter.Write A, B, C, or D – {#8}",
+      "questionId": "question-1901222-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23.what is the main idea of the passage?a. river street needs fewer buses during the busiest hours of the day.b. a redesigned bus stop made daily travel easier for local passengers.c. volunteers replaced council workers at a busy public transport station.d. more residents began driving because the original bus stop was crowded.write a, b, c, or d – {#1}question 24.the word \"relocate\" in paragraph 2 is closest in meaning to ______.a. repair it after damageb. move it somewhere elsec. make it much largerd. close it for goodwrite a, b, c, or d – {#2}question 25.why was the new bus-stop location more suitable?a. it had more pavement space away from the junction.b. it allowed buses to avoid the busiest road section.c. it was closer to the main shops and offices.d. it gave passengers a sheltered place to wait indoors.write a, b, c, or d – {#3}question 26.the phrase \"these changes\" in paragraph 2 refers to ______.a. reducing traffic and changing bus routesb. widening the road and closing the junctionc. moving and improving the bus-stop facilitiesd. replacing buses with other forms of transportwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. volunteers helped passengers use the new route map.b. the old stop did not have a rain shelter.c. passengers later reported fewer problems at the stop.d. the project reduced traffic on river street.write a, b, c, or d – {#5}question 28.which statement best paraphrases the final paragraph?a. the new stop solved most of river street's transport problems.b. the project improved the waiting experience without ending congestion.c. passengers stopped complaining because fewer buses used the road.d. the council considered the project unsuccessful because traffic remained heavy.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 3?a. to explain why older people prefer travelling by busb. to compare the old route map with the new onec. to describe how the council chose the bus-stop locationd. to explain how volunteers supported passengers after the changewrite a, b, c, or d – {#7}question 30.what can be inferred from the passage?a. the council plans to remove all bus stops near busy roads.b. most passengers now avoid river street during the morning rush.c. practical small changes can improve travel without solving every traffic problem.d. the volunteers were mainly responsible for designing the new bus shelter.write a, b, c, or d – {#8}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
