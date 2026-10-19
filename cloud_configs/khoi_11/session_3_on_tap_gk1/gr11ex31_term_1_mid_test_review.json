@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
+    "account_name": "Trịnh Quốc Tiến",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -14,8 +14,8 @@
     "repo_path": "cloud_configs/khoi_11/session_3_on_tap_gk1/gr11ex31_term_1_mid_test_review.json",
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 92,
-    "updated_at": "2026-10-18 20:29:03"
+    "question_count": 128,
+    "updated_at": "2026-10-19 19:31:24"
   },
   "answers": [
     {
@@ -95,10 +95,12 @@
       "dragdrops": []
     },
     {
-      "id": "3",
+      "id": "question-1901060-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. an after-school reset lan used to arrive home from school feeling tired and often opened an energy drink while beginning her homework. she knew the habit was not helping her evening routine, but she also knew that changing her whole lifestyle at once would be difficult. (13) ______.her pe teacher had suggested taking a short walk before sitting down to study. lan tried the idea one monday after school. (14) ______.she also began bringing yoghurt or fruit from home so that she would not depend on whatever was quickest to buy on the way back from school. previously, she often chose a snack only after she had become very hungry. (15) ______.not every afternoon goes according to plan. during exam week, for example, lan sometimes skips the walk and starts her homework immediately. (16) ______. lan says the most useful change has not been one particular snack or one exact type of exercise. (17) ______. she now advises friends to choose a routine that is realistic enough to repeat rather than a perfect plan that lasts only a few days. question 13.a. she therefore decided that the only useful solution was to stop studying after school.b. instead of writing a long list of rules, she chose one part of her afternoon to change first.c. for this reason, she changed her sleep, diet, and exercise habits completely on the same day.d. as a result, she continued exactly the same routine because making a change seemed impossible.write a, b, c, or d - question 14.a. after a few days, she decided that the walk had made her too tired to study.b. she had followed exactly the same walking routine since she was in primary school.c. because the walk was short, she immediately replaced it with a long run every evening.d. that experiment gradually became a weekday habit, and she has kept it for nearly three months.write a, b, c, or d - question 15.a. having a prepared snack meant she no longer had to make that decision when she was already hungry.b. the nearby shop therefore became a more important part of her afternoon routine than before.c. she concluded that all packaged food should be avoided, whatever information appeared on the label.d. this change made the timing of her afternoon walk impossible to predict.write a, b, c, or d - question 16.a. when this happens once, she usually stops following the routine for the rest of the month.b. this has proved to her that healthy habits are useful only when they are followed perfectly.c. even so, she usually returns to the routine the following day instead of treating one missed day as a failure.d. for that reason, she no longer makes any plans for exercise during busy weeks.write a, b, c, or d - question 17.a. she now believes that every student should follow exactly the same afternoon routine.b. it has been learning to make a small plan that she can continue even when her schedule changes.c. she has decided that a successful routine must include an energy drink before homework.d. it has been finding a routine that never needs to change under any circumstances. write a, b, c, or d -",
       "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. AN AFTER-SCHOOL RESET Lan used to arrive home from school feeling tired and often opened an energy drink while beginning her homework. She knew the habit was not helping her evening routine, but she also knew that changing her whole lifestyle at once would be difficult. (13) ______.Her PE teacher had suggested taking a short walk before sitting down to study. Lan tried the idea one Monday after school. (14) ______.She also began bringing yoghurt or fruit from home so that she would not depend on whatever was quickest to buy on the way back from school. Previously, she often chose a snack only after she had become very hungry. (15) ______.Not every afternoon goes according to plan. During exam week, for example, Lan sometimes skips the walk and starts her homework immediately. (16) ______. Lan says the most useful change has not been one particular snack or one exact type of exercise. (17) ______. She now advises friends to choose a routine that is realistic enough to repeat rather than a perfect plan that lasts only a few days. Question 13.A. She therefore decided that the only useful solution was to stop studying after school.B. Instead of writing a long list of rules, she chose one part of her afternoon to change first.C. For this reason, she changed her sleep, diet, and exercise habits completely on the same day.D. As a result, she continued exactly the same routine because making a change seemed impossible.Write A, B, C, or D - {#1}Question 14.A. After a few days, she decided that the walk had made her too tired to study.B. She had followed exactly the same walking routine since she was in primary school.C. Because the walk was short, she immediately replaced it with a long run every evening.D. That experiment gradually became a weekday habit, and she has kept it for nearly three months.Write A, B, C, or D - {#2}Question 15.A. Having a prepared snack meant she no longer had to make that decision when she was already hungry.B. The nearby shop therefore became a more important part of her afternoon routine than before.C. She concluded that all packaged food should be avoided, whatever information appeared on the label.D. This change made the timing of her afternoon walk impossible to predict.Write A, B, C, or D - {#3}Question 16.A. When this happens once, she usually stops following the routine for the rest of the month.B. This has proved to her that healthy habits are useful only when they are followed perfectly.C. Even so, she usually returns to the routine the following day instead of treating one missed day as a failure.D. For that reason, she no longer makes any plans for exercise during busy weeks.Write A, B, C, or D - {#4}Question 17.A. She now believes that every student should follow exactly the same afternoon routine.B. It has been learning to make a small plan that she can continue even when her schedule changes.C. She has decided that a successful routine must include an energy drink before homework.D. It has been finding a routine that never needs to change under any circumstances. Write A, B, C, or D - {#5}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -118,21 +120,27 @@
         },
         {
           "index": 4,
+          "questionNumber": 17,
           "value": "b"
         }
       ],
       "selects": [],
-      "questionId": "3",
+      "questionId": "question-1901060-3",
       "questionNumber": 3,
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. AN AFTER-SCHOOL RESET Lan used to arrive home from school feeling tired and often opened an energy drink while beginning her homework. She knew the habit was not helping her evening routine, but she also knew that changing her whole lifestyle at once would be difficult. (13) ______.Her PE teacher had suggested taking a short walk before sitting down to study. Lan tried the idea one Monday after school. (14) ______.She also began bringing yoghurt or fruit from home so that she would not depend on whatever was quickest to buy on the way back from school. Previously, she often chose a snack only after she had become very hungry. (15) ______.Not every afternoon goes according to plan. During exam week, for example, Lan sometimes skips the walk and starts her homework immediately. (16) ______. Lan says the most useful change has not been one particular snack or one exact type of exercise. (17) ______. She now advises friends to choose a routine that is realistic enough to repeat rather than a perfect plan that lasts only a few days. Question 13.A. She therefore decided that the only useful solution was to stop studying after school.B. Instead of writing a long list of rules, she chose one part of her afternoon to change first.C. For this reason, she changed her sleep, diet, and exercise habits completely on the same day.D. As a result, she continued exactly the same routine because making a change seemed impossible.Write A, B, C, or D - {#1}Question 14.A. After a few days, she decided that the walk had made her too tired to study.B. She had followed exactly the same walking routine since she was in primary school.C. Because the walk was short, she immediately replaced it with a long run every evening.D. That experiment gradually became a weekday habit, and she has kept it for nearly three months.Write A, B, C, or D - {#2}Question 15.A. Having a prepared snack meant she no longer had to make that decision when she was already hungry.B. The nearby shop therefore became a more important part of her afternoon routine than before.C. She concluded that all packaged food should be avoided, whatever information appeared on the label.D. This change made the timing of her afternoon walk impossible to predict.Write A, B, C, or D - {#3}Question 16.A. When this happens once, she usually stops following the routine for the rest of the month.B. This has proved to her that healthy habits are useful only when they are followed perfectly.C. Even so, she usually returns to the routine the following day instead of treating one missed day as a failure.D. For that reason, she no longer makes any plans for exercise during busy weeks.Write A, B, C, or D - {#4}Question 17.A. She now believes that every student should follow exactly the same afternoon routine.B. It has been learning to make a small plan that she can continue even when her schedule changes.C. She has decided that a successful routine must include an energy drink before homework.D. It has been finding a routine that never needs to change under any circumstances. Write A, B, C, or D - {#5}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. an after-school reset lan used to arrive home from school feeling tired and often opened an energy drink while beginning her homework. she knew the habit was not helping her evening routine, but she also knew that changing her whole lifestyle at once would be difficult. (13) ______.her pe teacher had suggested taking a short walk before sitting down to study. lan tried the idea one monday after school. (14) ______.she also began bringing yoghurt or fruit from home so that she would not depend on whatever was quickest to buy on the way back from school. previously, she often chose a snack only after she had become very hungry. (15) ______.not every afternoon goes according to plan. during exam week, for example, lan sometimes skips the walk and starts her homework immediately. (16) ______. lan says the most useful change has not been one particular snack or one exact type of exercise. (17) ______. she now advises friends to choose a routine that is realistic enough to repeat rather than a perfect plan that lasts only a few days. question 13.a. she therefore decided that the only useful solution was to stop studying after school.b. instead of writing a long list of rules, she chose one part of her afternoon to change first.c. for this reason, she changed her sleep, diet, and exercise habits completely on the same day.d. as a result, she continued exactly the same routine because making a change seemed impossible.write a, b, c, or d - {#1}question 14.a. after a few days, she decided that the walk had made her too tired to study.b. she had followed exactly the same walking routine since she was in primary school.c. because the walk was short, she immediately replaced it with a long run every evening.d. that experiment gradually became a weekday habit, and she has kept it for nearly three months.write a, b, c, or d - {#2}question 15.a. having a prepared snack meant she no longer had to make that decision when she was already hungry.b. the nearby shop therefore became a more important part of her afternoon routine than before.c. she concluded that all packaged food should be avoided, whatever information appeared on the label.d. this change made the timing of her afternoon walk impossible to predict.write a, b, c, or d - {#3}question 16.a. when this happens once, she usually stops following the routine for the rest of the month.b. this has proved to her that healthy habits are useful only when they are followed perfectly.c. even so, she usually returns to the routine the following day instead of treating one missed day as a failure.d. for that reason, she no longer makes any plans for exercise during busy weeks.write a, b, c, or d - {#4}question 17.a. she now believes that every student should follow exactly the same afternoon routine.b. it has been learning to make a small plan that she can continue even when her schedule changes.c. she has decided that a successful routine must include an energy drink before homework.d. it has been finding a routine that never needs to change under any circumstances. write a, b, c, or d - {#5}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
-      "id": "4",
+      "id": "question-1901060-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. at the end, students can ask questions about making practical food choices during a busy school week.b. the school's food and focus seminar will take place in the library on wednesday afternoon.c. a nutrition teacher will begin by showing students how to compare the labels on several common snacks.d. this demonstration will be followed by a short discussion on planning simple meals and snacks. a. c - b - d - ab. b - d - c - ac. b - c - d - ad. b - c - a - d write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. At the end, students can ask questions about making practical food choices during a busy school week.b. The school's Food and Focus seminar will take place in the library on Wednesday afternoon.c. A nutrition teacher will begin by showing students how to compare the labels on several common snacks.d. This demonstration will be followed by a short discussion on planning simple meals and snacks. A. c - b - d - aB. b - d - c - aC. b - c - d - aD. b - c - a - d Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -140,17 +148,22 @@
         }
       ],
       "selects": [],
-      "questionId": "4",
-      "questionNumber": 4,
+      "questionId": "question-1901060-8",
+      "questionNumber": 8,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. At the end, students can ask questions about making practical food choices during a busy school week.b. The school's Food and Focus seminar will take place in the library on Wednesday afternoon.c. A nutrition teacher will begin by showing students how to compare the labels on several common snacks.d. This demonstration will be followed by a short discussion on planning simple meals and snacks. A. c - b - d - aB. b - d - c - aC. b - c - d - aD. b - c - a - d Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. at the end, students can ask questions about making practical food choices during a busy school week.b. the school's food and focus seminar will take place in the library on wednesday afternoon.c. a nutrition teacher will begin by showing students how to compare the labels on several common snacks.d. this demonstration will be followed by a short discussion on planning simple meals and snacks. a. c - b - d - ab. b - d - c - ac. b - c - d - ad. b - c - a - d write a, b, c, or d - {#1}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
-      "id": "5",
+      "id": "question-1901060-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. customer: that's very kind. i'm looking for a yoghurt with less added sugar.b. assistant: the nutrition information is on the back. i can show you how to compare the labels.c. customer: thanks. i usually only look at the front of the package.d. assistant: can i give you a hand? you seem to be comparing several products.e. assistant: no problem. is there anything else i can do for you?f. customer: thanks, but i think i'm fine now. a. d - b - a - c - e - fb. d - a - b - c - e - fc. a - d - b - c - f - ed. d - a - c - b - e - f write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Customer: That's very kind. I'm looking for a yoghurt with less added sugar.b. Assistant: The nutrition information is on the back. I can show you how to compare the labels.c. Customer: Thanks. I usually only look at the front of the package.d. Assistant: Can I give you a hand? You seem to be comparing several products.e. Assistant: No problem. Is there anything else I can do for you?f. Customer: Thanks, but I think I'm fine now. A. d - b - a - c - e - fB. d - a - b - c - e - fC. a - d - b - c - f - eD. d - a - c - b - e - f Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -158,17 +171,22 @@
         }
       ],
       "selects": [],
-      "questionId": "5",
-      "questionNumber": 5,
+      "questionId": "question-1901060-7",
+      "questionNumber": 6,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Customer: That's very kind. I'm looking for a yoghurt with less added sugar.b. Assistant: The nutrition information is on the back. I can show you how to compare the labels.c. Customer: Thanks. I usually only look at the front of the package.d. Assistant: Can I give you a hand? You seem to be comparing several products.e. Assistant: No problem. Is there anything else I can do for you?f. Customer: Thanks, but I think I'm fine now. A. d - b - a - c - e - fB. d - a - b - c - e - fC. a - d - b - c - f - eD. d - a - c - b - e - f Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. customer: that's very kind. i'm looking for a yoghurt with less added sugar.b. assistant: the nutrition information is on the back. i can show you how to compare the labels.c. customer: thanks. i usually only look at the front of the package.d. assistant: can i give you a hand? you seem to be comparing several products.e. assistant: no problem. is there anything else i can do for you?f. customer: thanks, but i think i'm fine now. a. d - b - a - c - e - fb. d - a - b - c - e - fc. a - d - b - c - f - ed. d - a - c - b - e - f write a, b, c, or d - {#1}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
-      "id": "6",
+      "id": "question-1901060-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. because of that discovery, she began comparing labels instead of relying on the picture on the front.b. thao used to choose fruit yoghurt mainly because the package looked healthy.c. during a class activity, she discovered that similar-looking products could contain different amounts of sugar.d. now she checks serving size and ingredients before deciding which one to buy.e. the change has not made her avoid yoghurt; it has simply made her choose more deliberately. a. b - a - c - d - eb. c - b - a - e - dc. b - c - a - d - ed. b - c - d - a - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. Because of that discovery, she began comparing labels instead of relying on the picture on the front.b. Thao used to choose fruit yoghurt mainly because the package looked healthy.c. During a class activity, she discovered that similar-looking products could contain different amounts of sugar.d. Now she checks serving size and ingredients before deciding which one to buy.e. The change has not made her avoid yoghurt; it has simply made her choose more deliberately. A. b - a - c - d - eB. c - b - a - e - dC. b - c - a - d - eD. b - c - d - a - e Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -176,17 +194,22 @@
         }
       ],
       "selects": [],
-      "questionId": "6",
-      "questionNumber": 6,
+      "questionId": "question-1901060-5",
+      "questionNumber": 5,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. Because of that discovery, she began comparing labels instead of relying on the picture on the front.b. Thao used to choose fruit yoghurt mainly because the package looked healthy.c. During a class activity, she discovered that similar-looking products could contain different amounts of sugar.d. Now she checks serving size and ingredients before deciding which one to buy.e. The change has not made her avoid yoghurt; it has simply made her choose more deliberately. A. b - a - c - d - eB. c - b - a - e - dC. b - c - a - d - eD. b - c - d - a - e Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. because of that discovery, she began comparing labels instead of relying on the picture on the front.b. thao used to choose fruit yoghurt mainly because the package looked healthy.c. during a class activity, she discovered that similar-looking products could contain different amounts of sugar.d. now she checks serving size and ingredients before deciding which one to buy.e. the change has not made her avoid yoghurt; it has simply made her choose more deliberately. a. b - a - c - d - eb. c - b - a - e - dc. b - c - a - d - ed. b - c - d - a - e write a, b, c, or d - {#1}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
-      "id": "7",
+      "id": "question-1901060-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. once you have finished your schoolwork, put your phone on a desk away from the bed so that you are less likely to pick it up automatically.b. a short wind-down routine can help separate study time from sleep time.c. with the phone out of reach, choose a quiet activity such as reading for a few minutes.d. when you begin to feel sleepy, turn off the light and go to bed.e. stop schoolwork about twenty minutes before you plan to sleep. a. b - e - a - c - db. e - b - a - d - cc. c - a - e - b - dd. d - e - c - a - b write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Once you have finished your schoolwork, put your phone on a desk away from the bed so that you are less likely to pick it up automatically.b. A short wind-down routine can help separate study time from sleep time.c. With the phone out of reach, choose a quiet activity such as reading for a few minutes.d. When you begin to feel sleepy, turn off the light and go to bed.e. Stop schoolwork about twenty minutes before you plan to sleep. A. b - e - a - c - dB. e - b - a - d - cC. c - a - e - b - dD. d - e - c - a - b Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "a"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -194,17 +217,22 @@
         }
       ],
       "selects": [],
-      "questionId": "7",
-      "questionNumber": 7,
+      "questionId": "question-1901060-4",
+      "questionNumber": 4,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Once you have finished your schoolwork, put your phone on a desk away from the bed so that you are less likely to pick it up automatically.b. A short wind-down routine can help separate study time from sleep time.c. With the phone out of reach, choose a quiet activity such as reading for a few minutes.d. When you begin to feel sleepy, turn off the light and go to bed.e. Stop schoolwork about twenty minutes before you plan to sleep. A. b - e - a - c - dB. e - b - a - d - cC. c - a - e - b - dD. d - e - c - a - b Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "a",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. once you have finished your schoolwork, put your phone on a desk away from the bed so that you are less likely to pick it up automatically.b. a short wind-down routine can help separate study time from sleep time.c. with the phone out of reach, choose a quiet activity such as reading for a few minutes.d. when you begin to feel sleepy, turn off the light and go to bed.e. stop schoolwork about twenty minutes before you plan to sleep. a. b - e - a - c - db. e - b - a - d - cc. c - a - e - b - dd. d - e - c - a - b write a, b, c, or d - {#1}",
+      "letter": "A",
+      "rightAnswer": ""
     },
     {
-      "id": "8",
+      "id": "question-1901060-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. thanks for telling me about saturday's community walk.b. hi minh,c. see you there,d. i'd like to join, but could you tell me where the group is meeting?e. also, should i bring water, or will it be provided?f. hoa a. a - b - d - e - c - fb. b - d - a - e - c - fc. b - a - e - d - f - cd. b - a - d - e - c - f write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Thanks for telling me about Saturday's community walk.b. Hi Minh,c. See you there,d. I'd like to join, but could you tell me where the group is meeting?e. Also, should I bring water, or will it be provided?f. Hoa A. a - b - d - e - c - fB. b - d - a - e - c - fC. b - a - e - d - f - cD. b - a - d - e - c - f Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "d"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -212,17 +240,22 @@
         }
       ],
       "selects": [],
-      "questionId": "8",
-      "questionNumber": 8,
+      "questionId": "question-1901060-6",
+      "questionNumber": 7,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Thanks for telling me about Saturday's community walk.b. Hi Minh,c. See you there,d. I'd like to join, but could you tell me where the group is meeting?e. Also, should I bring water, or will it be provided?f. Hoa A. a - b - d - e - c - fB. b - d - a - e - c - fC. b - a - e - d - f - cD. b - a - d - e - c - f Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "d",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. thanks for telling me about saturday's community walk.b. hi minh,c. see you there,d. i'd like to join, but could you tell me where the group is meeting?e. also, should i bring water, or will it be provided?f. hoa a. a - b - d - e - c - fb. b - d - a - e - c - fc. b - a - e - d - f - cd. b - a - d - e - c - f write a, b, c, or d - {#1}",
+      "letter": "D",
+      "rightAnswer": ""
     },
     {
-      "id": "9",
+      "id": "question-1901060-9",
       "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 23.what is the passage mainly about?a. why students needed more lessons about choosing a healthy breakfastb. how convenient breakfast access helped students act on healthy intentionsc. why students were advised to spend more time eating breakfast at homed. how a school breakfast programme improved students' academic performancewrite a, b, c, or d - question 24.the word \"barrier\" in paragraph 1 is closest in meaning to ______.a. rewardb. instructionc. obstacled. habitwrite a, b, c, or d - question 25.the phrase \"this arrangement\" in paragraph 2 refers to ______.a. asking all students to choose the same type of breakfastb. opening the library entrance earlier so students could eat therec. requiring students to finish breakfast before going to their first lessond. placing easy-to-collect breakfast food near the library before classwrite a, b, c, or d - question 26.according to paragraph 1, why did many students sometimes skip breakfast?a. they felt they had too little time in the morning.b. they did not know which foods were suitable for breakfast.c. they preferred buying sweets at school.d. their teachers had advised them not to eat before class.write a, b, c, or d - question 27.which of the following is not true according to the passage?a. the breakfast corner was first tested for four weeks.b. students were able to take food away from the corner.c. the school claimed that the trial improved students' academic results.d. the breakfast corner continued in a more limited form after the trial.write a, b, c, or d - question 28.which of the following best paraphrases the final sentence of the passage?a. students make healthy choices mainly when teachers keep explaining which foods are good for them.b. knowing a healthy choice does not always make it easy to put into practice.c. healthy food is effective only when schools make it freely available to students.d. schools should prevent students from choosing unhealthy food whenever they have the opportunity.write a, b, c, or d - question 29.what is the main purpose of paragraph 3?a. to report the trial's results while explaining what those results could and could not showb. to compare breakfast habits of students who used the corner with those who did notc. to explain why the breakfast corner was moved closer to the school libraryd. to describe the nutritional value of the foods available at the breakfast cornerwrite a, b, c, or d - question 30.what can be inferred about the school's approach to healthy habits?a. the school believes information alone is usually enough to change students' behaviour.b. the school thinks all students should follow exactly the same healthy eating routine.c. the school is mainly interested in controlling which foods students are allowed to eat.d. the school believes practical conditions can influence whether students carry out healthy choices.write a, b, c, or d -",
       "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23.What is the passage mainly about?A. Why students needed more lessons about choosing a healthy breakfastB. How convenient breakfast access helped students act on healthy intentionsC. Why students were advised to spend more time eating breakfast at homeD. How a school breakfast programme improved students' academic performanceWrite A, B, C, or D - {#1}Question 24.The word \"barrier\" in paragraph 1 is closest in meaning to ______.A. rewardB. instructionC. obstacleD. habitWrite A, B, C, or D - {#2}Question 25.The phrase \"This arrangement\" in paragraph 2 refers to ______.A. asking all students to choose the same type of breakfastB. opening the library entrance earlier so students could eat thereC. requiring students to finish breakfast before going to their first lessonD. placing easy-to-collect breakfast food near the library before classWrite A, B, C, or D - {#3}Question 26.According to paragraph 1, why did many students sometimes skip breakfast?A. They felt they had too little time in the morning.B. They did not know which foods were suitable for breakfast.C. They preferred buying sweets at school.D. Their teachers had advised them not to eat before class.Write A, B, C, or D - {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The Breakfast Corner was first tested for four weeks.B. Students were able to take food away from the corner.C. The school claimed that the trial improved students' academic results.D. The Breakfast Corner continued in a more limited form after the trial.Write A, B, C, or D - {#5}Question 28.Which of the following best paraphrases the final sentence of the passage?A. Students make healthy choices mainly when teachers keep explaining which foods are good for them.B. Knowing a healthy choice does not always make it easy to put into practice.C. Healthy food is effective only when schools make it freely available to students.D. Schools should prevent students from choosing unhealthy food whenever they have the opportunity.Write A, B, C, or D - {#6}Question 29.What is the main purpose of paragraph 3?A. To report the trial's results while explaining what those results could and could not showB. To compare breakfast habits of students who used the corner with those who did notC. To explain why the Breakfast Corner was moved closer to the school libraryD. To describe the nutritional value of the foods available at the Breakfast CornerWrite A, B, C, or D - {#7}Question 30.What can be inferred about the school's approach to healthy habits?A. The school believes information alone is usually enough to change students' behaviour.B. The school thinks all students should follow exactly the same healthy eating routine.C. The school is mainly interested in controlling which foods students are allowed to eat.D. The school believes practical conditions can influence whether students carry out healthy choices.Write A, B, C, or D - {#8}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -258,17 +291,22 @@
         }
       ],
       "selects": [],
-      "questionId": "9",
+      "questionId": "question-1901060-9",
       "questionNumber": 9,
       "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23.What is the passage mainly about?A. Why students needed more lessons about choosing a healthy breakfastB. How convenient breakfast access helped students act on healthy intentionsC. Why students were advised to spend more time eating breakfast at homeD. How a school breakfast programme improved students' academic performanceWrite A, B, C, or D - {#1}Question 24.The word \"barrier\" in paragraph 1 is closest in meaning to ______.A. rewardB. instructionC. obstacleD. habitWrite A, B, C, or D - {#2}Question 25.The phrase \"This arrangement\" in paragraph 2 refers to ______.A. asking all students to choose the same type of breakfastB. opening the library entrance earlier so students could eat thereC. requiring students to finish breakfast before going to their first lessonD. placing easy-to-collect breakfast food near the library before classWrite A, B, C, or D - {#3}Question 26.According to paragraph 1, why did many students sometimes skip breakfast?A. They felt they had too little time in the morning.B. They did not know which foods were suitable for breakfast.C. They preferred buying sweets at school.D. Their teachers had advised them not to eat before class.Write A, B, C, or D - {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The Breakfast Corner was first tested for four weeks.B. Students were able to take food away from the corner.C. The school claimed that the trial improved students' academic results.D. The Breakfast Corner continued in a more limited form after the trial.Write A, B, C, or D - {#5}Question 28.Which of the following best paraphrases the final sentence of the passage?A. Students make healthy choices mainly when teachers keep explaining which foods are good for them.B. Knowing a healthy choice does not always make it easy to put into practice.C. Healthy food is effective only when schools make it freely available to students.D. Schools should prevent students from choosing unhealthy food whenever they have the opportunity.Write A, B, C, or D - {#6}Question 29.What is the main purpose of paragraph 3?A. To report the trial's results while explaining what those results could and could not showB. To compare breakfast habits of students who used the corner with those who did notC. To explain why the Breakfast Corner was moved closer to the school libraryD. To describe the nutritional value of the foods available at the Breakfast CornerWrite A, B, C, or D - {#7}Question 30.What can be inferred about the school's approach to healthy habits?A. The school believes information alone is usually enough to change students' behaviour.B. The school thinks all students should follow exactly the same healthy eating routine.C. The school is mainly interested in controlling which foods students are allowed to eat.D. The school believes practical conditions can influence whether students carry out healthy choices.Write A, B, C, or D - {#8}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 23.what is the passage mainly about?a. why students needed more lessons about choosing a healthy breakfastb. how convenient breakfast access helped students act on healthy intentionsc. why students were advised to spend more time eating breakfast at homed. how a school breakfast programme improved students' academic performancewrite a, b, c, or d - {#1}question 24.the word \"barrier\" in paragraph 1 is closest in meaning to ______.a. rewardb. instructionc. obstacled. habitwrite a, b, c, or d - {#2}question 25.the phrase \"this arrangement\" in paragraph 2 refers to ______.a. asking all students to choose the same type of breakfastb. opening the library entrance earlier so students could eat therec. requiring students to finish breakfast before going to their first lessond. placing easy-to-collect breakfast food near the library before classwrite a, b, c, or d - {#3}question 26.according to paragraph 1, why did many students sometimes skip breakfast?a. they felt they had too little time in the morning.b. they did not know which foods were suitable for breakfast.c. they preferred buying sweets at school.d. their teachers had advised them not to eat before class.write a, b, c, or d - {#4}question 27.which of the following is not true according to the passage?a. the breakfast corner was first tested for four weeks.b. students were able to take food away from the corner.c. the school claimed that the trial improved students' academic results.d. the breakfast corner continued in a more limited form after the trial.write a, b, c, or d - {#5}question 28.which of the following best paraphrases the final sentence of the passage?a. students make healthy choices mainly when teachers keep explaining which foods are good for them.b. knowing a healthy choice does not always make it easy to put into practice.c. healthy food is effective only when schools make it freely available to students.d. schools should prevent students from choosing unhealthy food whenever they have the opportunity.write a, b, c, or d - {#6}question 29.what is the main purpose of paragraph 3?a. to report the trial's results while explaining what those results could and could not showb. to compare breakfast habits of students who used the corner with those who did notc. to explain why the breakfast corner was moved closer to the school libraryd. to describe the nutritional value of the foods available at the breakfast cornerwrite a, b, c, or d - {#7}question 30.what can be inferred about the school's approach to healthy habits?a. the school believes information alone is usually enough to change students' behaviour.b. the school thinks all students should follow exactly the same healthy eating routine.c. the school is mainly interested in controlling which foods students are allowed to eat.d. the school believes practical conditions can influence whether students carry out healthy choices.write a, b, c, or d - {#8}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
-      "id": "10",
+      "id": "question-1901060-10",
       "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 31.the phrase \"fixated on\" in paragraph 2 is closest in meaning to ______.a. confused aboutb. excessively focused onc. disappointed withd. physically tired fromwrite a, b, c, or d - question 32.why did the instructors remove the public leaderboard?a. they found that the trackers were giving students inaccurate activity totals.b. they wanted students to stop using the activity trackers altogether.c. they wanted less competition and more attention to personal activity patterns.d. they found that very few students were checking the public leaderboard.write a, b, c, or d - question 33.the phrase \"this shift in focus\" in paragraph 4 refers to the change from ______.a. comparing with others to reflecting on personal activity patternsb. using activity trackers to avoiding digital technology completelyc. walking outdoors to doing all exercise inside the youth clubd. recording daily movement to discussing different food choiceswrite a, b, c, or d - question 34.which of the following best paraphrases the sentence \"the number had begun to replace the reason for moving\"?a. students had stopped looking at their activity totals because the numbers were confusing.b. the trackers could not record the reasons why students chose particular activities.c. students wanted the instructors to define exactly how many daily steps counted as healthy.d. some students focused on the total instead of whether the activity suited them.write a, b, c, or d - question 35.what can be inferred about the instructors' view of a high step total?a. it is always evidence that a student has developed a healthy routine.b. it can be useful, but its meaning depends on the context of the activity.c. it is meaningful only when a student has the highest total in the group.d. it should replace personal judgement when students decide how much activity to do.write a, b, c, or d - question 36.where in paragraph 3 does the following sentence best fit?the change affected what students could see about one another, but not the information available about their own activity.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - question 37.what is the main purpose of paragraph 4?a. to explain why ordinary daily activities should replace planned exerciseb. to show that the participants stopped using the trackers before the project endedc. to describe how students' interpretation of the tracker data changed during the projectd. to prove that every student's daily step total increased after six weekswrite a, b, c, or d - question 38.which of the following is not supported by the passage?a. some students initially compared their activity totals with other participants.b. students continued to see their own totals after the public leaderboard was removed.c. the instructors valued students' ability to interpret activity information.d. every participant completed the project with a higher daily step total.write a, b, c, or d - question 39.which of the following best summarises the passage?a. activity trackers are useful only when students compete to achieve the highest possible number.b. activity data can support reflection, but numbers lose value when treated as goals without context.c. the club stopped using activity trackers because students found them inaccurate and difficult to understand.d. teenagers should avoid measuring physical activity because all forms of measurement create unhealthy competition.write a, b, c, or d - question 40.which of the following is the best title for the passage?a. counting steps, understanding habitsb. why every teenager needs a higher step goalc. the competition that made everyone more actived. how to win an activity-tracker challengewrite a, b, c, or d -",
       "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31.The phrase \"fixated on\" in paragraph 2 is closest in meaning to ______.A. confused aboutB. excessively focused onC. disappointed withD. physically tired fromWrite A, B, C, or D - {#1}Question 32.Why did the instructors remove the public leaderboard?A. They found that the trackers were giving students inaccurate activity totals.B. They wanted students to stop using the activity trackers altogether.C. They wanted less competition and more attention to personal activity patterns.D. They found that very few students were checking the public leaderboard.Write A, B, C, or D - {#2}Question 33.The phrase \"This shift in focus\" in paragraph 4 refers to the change from ______.A. comparing with others to reflecting on personal activity patternsB. using activity trackers to avoiding digital technology completelyC. walking outdoors to doing all exercise inside the youth clubD. recording daily movement to discussing different food choicesWrite A, B, C, or D - {#3}Question 34.Which of the following best paraphrases the sentence \"the number had begun to replace the reason for moving\"?A. Students had stopped looking at their activity totals because the numbers were confusing.B. The trackers could not record the reasons why students chose particular activities.C. Students wanted the instructors to define exactly how many daily steps counted as healthy.D. Some students focused on the total instead of whether the activity suited them.Write A, B, C, or D - {#4}Question 35.What can be inferred about the instructors' view of a high step total?A. It is always evidence that a student has developed a healthy routine.B. It can be useful, but its meaning depends on the context of the activity.C. It is meaningful only when a student has the highest total in the group.D. It should replace personal judgement when students decide how much activity to do.Write A, B, C, or D - {#5}Question 36.Where in paragraph 3 does the following sentence best fit?The change affected what students could see about one another, but not the information available about their own activity.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why ordinary daily activities should replace planned exerciseB. To show that the participants stopped using the trackers before the project endedC. To describe how students' interpretation of the tracker data changed during the projectD. To prove that every student's daily step total increased after six weeksWrite A, B, C, or D - {#7}Question 38.Which of the following is NOT supported by the passage?A. Some students initially compared their activity totals with other participants.B. Students continued to see their own totals after the public leaderboard was removed.C. The instructors valued students' ability to interpret activity information.D. Every participant completed the project with a higher daily step total.Write A, B, C, or D - {#8}Question 39.Which of the following best summarises the passage?A. Activity trackers are useful only when students compete to achieve the highest possible number.B. Activity data can support reflection, but numbers lose value when treated as goals without context.C. The club stopped using activity trackers because students found them inaccurate and difficult to understand.D. Teenagers should avoid measuring physical activity because all forms of measurement create unhealthy competition.Write A, B, C, or D - {#9}Question 40.Which of the following is the best title for the passage?A. Counting Steps, Understanding HabitsB. Why Every Teenager Needs a Higher Step GoalC. The Competition That Made Everyone More ActiveD. How to Win an Activity-Tracker ChallengeWrite A, B, C, or D - {#10}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
@@ -312,11 +350,14 @@
         }
       ],
       "selects": [],
-      "questionId": "10",
+      "questionId": "question-1901060-10",
       "questionNumber": 10,
       "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31.The phrase \"fixated on\" in paragraph 2 is closest in meaning to ______.A. confused aboutB. excessively focused onC. disappointed withD. physically tired fromWrite A, B, C, or D - {#1}Question 32.Why did the instructors remove the public leaderboard?A. They found that the trackers were giving students inaccurate activity totals.B. They wanted students to stop using the activity trackers altogether.C. They wanted less competition and more attention to personal activity patterns.D. They found that very few students were checking the public leaderboard.Write A, B, C, or D - {#2}Question 33.The phrase \"This shift in focus\" in paragraph 4 refers to the change from ______.A. comparing with others to reflecting on personal activity patternsB. using activity trackers to avoiding digital technology completelyC. walking outdoors to doing all exercise inside the youth clubD. recording daily movement to discussing different food choicesWrite A, B, C, or D - {#3}Question 34.Which of the following best paraphrases the sentence \"the number had begun to replace the reason for moving\"?A. Students had stopped looking at their activity totals because the numbers were confusing.B. The trackers could not record the reasons why students chose particular activities.C. Students wanted the instructors to define exactly how many daily steps counted as healthy.D. Some students focused on the total instead of whether the activity suited them.Write A, B, C, or D - {#4}Question 35.What can be inferred about the instructors' view of a high step total?A. It is always evidence that a student has developed a healthy routine.B. It can be useful, but its meaning depends on the context of the activity.C. It is meaningful only when a student has the highest total in the group.D. It should replace personal judgement when students decide how much activity to do.Write A, B, C, or D - {#5}Question 36.Where in paragraph 3 does the following sentence best fit?The change affected what students could see about one another, but not the information available about their own activity.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why ordinary daily activities should replace planned exerciseB. To show that the participants stopped using the trackers before the project endedC. To describe how students' interpretation of the tracker data changed during the projectD. To prove that every student's daily step total increased after six weeksWrite A, B, C, or D - {#7}Question 38.Which of the following is NOT supported by the passage?A. Some students initially compared their activity totals with other participants.B. Students continued to see their own totals after the public leaderboard was removed.C. The instructors valued students' ability to interpret activity information.D. Every participant completed the project with a higher daily step total.Write A, B, C, or D - {#8}Question 39.Which of the following best summarises the passage?A. Activity trackers are useful only when students compete to achieve the highest possible number.B. Activity data can support reflection, but numbers lose value when treated as goals without context.C. The club stopped using activity trackers because students found them inaccurate and difficult to understand.D. Teenagers should avoid measuring physical activity because all forms of measurement create unhealthy competition.Write A, B, C, or D - {#9}Question 40.Which of the following is the best title for the passage?A. Counting Steps, Understanding HabitsB. Why Every Teenager Needs a Higher Step GoalC. The Competition That Made Everyone More ActiveD. How to Win an Activity-Tracker ChallengeWrite A, B, C, or D - {#10}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 31.the phrase \"fixated on\" in paragraph 2 is closest in meaning to ______.a. confused aboutb. excessively focused onc. disappointed withd. physically tired fromwrite a, b, c, or d - {#1}question 32.why did the instructors remove the public leaderboard?a. they found that the trackers were giving students inaccurate activity totals.b. they wanted students to stop using the activity trackers altogether.c. they wanted less competition and more attention to personal activity patterns.d. they found that very few students were checking the public leaderboard.write a, b, c, or d - {#2}question 33.the phrase \"this shift in focus\" in paragraph 4 refers to the change from ______.a. comparing with others to reflecting on personal activity patternsb. using activity trackers to avoiding digital technology completelyc. walking outdoors to doing all exercise inside the youth clubd. recording daily movement to discussing different food choiceswrite a, b, c, or d - {#3}question 34.which of the following best paraphrases the sentence \"the number had begun to replace the reason for moving\"?a. students had stopped looking at their activity totals because the numbers were confusing.b. the trackers could not record the reasons why students chose particular activities.c. students wanted the instructors to define exactly how many daily steps counted as healthy.d. some students focused on the total instead of whether the activity suited them.write a, b, c, or d - {#4}question 35.what can be inferred about the instructors' view of a high step total?a. it is always evidence that a student has developed a healthy routine.b. it can be useful, but its meaning depends on the context of the activity.c. it is meaningful only when a student has the highest total in the group.d. it should replace personal judgement when students decide how much activity to do.write a, b, c, or d - {#5}question 36.where in paragraph 3 does the following sentence best fit?the change affected what students could see about one another, but not the information available about their own activity.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#6}question 37.what is the main purpose of paragraph 4?a. to explain why ordinary daily activities should replace planned exerciseb. to show that the participants stopped using the trackers before the project endedc. to describe how students' interpretation of the tracker data changed during the projectd. to prove that every student's daily step total increased after six weekswrite a, b, c, or d - {#7}question 38.which of the following is not supported by the passage?a. some students initially compared their activity totals with other participants.b. students continued to see their own totals after the public leaderboard was removed.c. the instructors valued students' ability to interpret activity information.d. every participant completed the project with a higher daily step total.write a, b, c, or d - {#8}question 39.which of the following best summarises the passage?a. activity trackers are useful only when students compete to achieve the highest possible number.b. activity data can support reflection, but numbers lose value when treated as goals without context.c. the club stopped using activity trackers because students found them inaccurate and difficult to understand.d. teenagers should avoid measuring physical activity because all forms of measurement create unhealthy competition.write a, b, c, or d - {#9}question 40.which of the following is the best title for the passage?a. counting steps, understanding habitsb. why every teenager needs a higher step goalc. the competition that made everyone more actived. how to win an activity-tracker challengewrite a, b, c, or d - {#10}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
       "answer": "B. suffer from",
@@ -398,7 +439,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1901060-3",
+      "id": "question-1903277-3",
       "inputs": [
         {
           "index": 0,
@@ -426,7 +467,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. AN AFTER-SCHOOL RESET Lan used to arrive home from school feeling tired and often opened an energy drink while beginning her homework. She knew the habit was not helping her evening routine, but she also knew that changing her whole lifestyle at once would be difficult. (13) ______.Her PE teacher had suggested taking a short walk before sitting down to study. Lan tried the idea one Monday after school. (14) ______.She also began bringing yoghurt or fruit from home so that she would not depend on whatever was quickest to buy on the way back from school. Previously, she often chose a snack only after she had become very hungry. (15) ______.Not every afternoon goes according to plan. During exam week, for example, Lan sometimes skips the walk and starts her homework immediately. (16) ______. Lan says the most useful change has not been one particular snack or one exact type of exercise. (17) ______. She now advises friends to choose a routine that is realistic enough to repeat rather than a perfect plan that lasts only a few days. Question 13.A. She therefore decided that the only useful solution was to stop studying after school.B. Instead of writing a long list of rules, she chose one part of her afternoon to change first.C. For this reason, she changed her sleep, diet, and exercise habits completely on the same day.D. As a result, she continued exactly the same routine because making a change seemed impossible.Write A, B, C, or D - {#1}Question 14.A. After a few days, she decided that the walk had made her too tired to study.B. She had followed exactly the same walking routine since she was in primary school.C. Because the walk was short, she immediately replaced it with a long run every evening.D. That experiment gradually became a weekday habit, and she has kept it for nearly three months.Write A, B, C, or D - {#2}Question 15.A. Having a prepared snack meant she no longer had to make that decision when she was already hungry.B. The nearby shop therefore became a more important part of her afternoon routine than before.C. She concluded that all packaged food should be avoided, whatever information appeared on the label.D. This change made the timing of her afternoon walk impossible to predict.Write A, B, C, or D - {#3}Question 16.A. When this happens once, she usually stops following the routine for the rest of the month.B. This has proved to her that healthy habits are useful only when they are followed perfectly.C. Even so, she usually returns to the routine the following day instead of treating one missed day as a failure.D. For that reason, she no longer makes any plans for exercise during busy weeks.Write A, B, C, or D - {#4}Question 17.A. She now believes that every student should follow exactly the same afternoon routine.B. It has been learning to make a small plan that she can continue even when her schedule changes.C. She has decided that a successful routine must include an energy drink before homework.D. It has been finding a routine that never needs to change under any circumstances. Write A, B, C, or D - {#5}",
-      "questionId": "question-1901060-3",
+      "questionId": "question-1903277-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. an after-school reset lan used to arrive home from school feeling tired and often opened an energy drink while beginning her homework. she knew the habit was not helping her evening routine, but she also knew that changing her whole lifestyle at once would be difficult. (13) ______.her pe teacher had suggested taking a short walk before sitting down to study. lan tried the idea one monday after school. (14) ______.she also began bringing yoghurt or fruit from home so that she would not depend on whatever was quickest to buy on the way back from school. previously, she often chose a snack only after she had become very hungry. (15) ______.not every afternoon goes according to plan. during exam week, for example, lan sometimes skips the walk and starts her homework immediately. (16) ______. lan says the most useful change has not been one particular snack or one exact type of exercise. (17) ______. she now advises friends to choose a routine that is realistic enough to repeat rather than a perfect plan that lasts only a few days. question 13.a. she therefore decided that the only useful solution was to stop studying after school.b. instead of writing a long list of rules, she chose one part of her afternoon to change first.c. for this reason, she changed her sleep, diet, and exercise habits completely on the same day.d. as a result, she continued exactly the same routine because making a change seemed impossible.write a, b, c, or d - {#1}question 14.a. after a few days, she decided that the walk had made her too tired to study.b. she had followed exactly the same walking routine since she was in primary school.c. because the walk was short, she immediately replaced it with a long run every evening.d. that experiment gradually became a weekday habit, and she has kept it for nearly three months.write a, b, c, or d - {#2}question 15.a. having a prepared snack meant she no longer had to make that decision when she was already hungry.b. the nearby shop therefore became a more important part of her afternoon routine than before.c. she concluded that all packaged food should be avoided, whatever information appeared on the label.d. this change made the timing of her afternoon walk impossible to predict.write a, b, c, or d - {#3}question 16.a. when this happens once, she usually stops following the routine for the rest of the month.b. this has proved to her that healthy habits are useful only when they are followed perfectly.c. even so, she usually returns to the routine the following day instead of treating one missed day as a failure.d. for that reason, she no longer makes any plans for exercise during busy weeks.write a, b, c, or d - {#4}question 17.a. she now believes that every student should follow exactly the same afternoon routine.b. it has been learning to make a small plan that she can continue even when her schedule changes.c. she has decided that a successful routine must include an energy drink before homework.d. it has been finding a routine that never needs to change under any circumstances. write a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -434,7 +475,7 @@
     },
     {
       "answer": "a",
-      "id": "question-1901060-4",
+      "id": "question-1903277-4",
       "inputs": [
         {
           "index": 0,
@@ -445,15 +486,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Once you have finished your schoolwork, put your phone on a desk away from the bed so that you are less likely to pick it up automatically.b. A short wind-down routine can help separate study time from sleep time.c. With the phone out of reach, choose a quiet activity such as reading for a few minutes.d. When you begin to feel sleepy, turn off the light and go to bed.e. Stop schoolwork about twenty minutes before you plan to sleep. A. b - e - a - c - dB. e - b - a - d - cC. c - a - e - b - dD. d - e - c - a - b Write A, B, C, or D - {#1}",
-      "questionId": "question-1901060-4",
+      "questionId": "question-1903277-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. once you have finished your schoolwork, put your phone on a desk away from the bed so that you are less likely to pick it up automatically.b. a short wind-down routine can help separate study time from sleep time.c. with the phone out of reach, choose a quiet activity such as reading for a few minutes.d. when you begin to feel sleepy, turn off the light and go to bed.e. stop schoolwork about twenty minutes before you plan to sleep. a. b - e - a - c - db. e - b - a - d - cc. c - a - e - b - dd. d - e - c - a - b write a, b, c, or d - {#1}",
-      "questionNumber": 4,
+      "questionNumber": 8,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "b",
-      "id": "question-1901060-7",
+      "id": "question-1903277-7",
       "inputs": [
         {
           "index": 0,
@@ -464,7 +505,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Customer: That's very kind. I'm looking for a yoghurt with less added sugar.b. Assistant: The nutrition information is on the back. I can show you how to compare the labels.c. Customer: Thanks. I usually only look at the front of the package.d. Assistant: Can I give you a hand? You seem to be comparing several products.e. Assistant: No problem. Is there anything else I can do for you?f. Customer: Thanks, but I think I'm fine now. A. d - b - a - c - e - fB. d - a - b - c - e - fC. a - d - b - c - f - eD. d - a - c - b - e - f Write A, B, C, or D - {#1}",
-      "questionId": "question-1901060-7",
+      "questionId": "question-1903277-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. customer: that's very kind. i'm looking for a yoghurt with less added sugar.b. assistant: the nutrition information is on the back. i can show you how to compare the labels.c. customer: thanks. i usually only look at the front of the package.d. assistant: can i give you a hand? you seem to be comparing several products.e. assistant: no problem. is there anything else i can do for you?f. customer: thanks, but i think i'm fine now. a. d - b - a - c - e - fb. d - a - b - c - e - fc. a - d - b - c - f - ed. d - a - c - b - e - f write a, b, c, or d - {#1}",
       "questionNumber": 6,
       "selects": [],
@@ -472,7 +513,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1901060-8",
+      "id": "question-1903277-8",
       "inputs": [
         {
           "index": 0,
@@ -483,15 +524,15 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. At the end, students can ask questions about making practical food choices during a busy school week.b. The school's Food and Focus seminar will take place in the library on Wednesday afternoon.c. A nutrition teacher will begin by showing students how to compare the labels on several common snacks.d. This demonstration will be followed by a short discussion on planning simple meals and snacks. A. c - b - d - aB. b - d - c - aC. b - c - d - aD. b - c - a - d Write A, B, C, or D - {#1}",
-      "questionId": "question-1901060-8",
+      "questionId": "question-1903277-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. at the end, students can ask questions about making practical food choices during a busy school week.b. the school's food and focus seminar will take place in the library on wednesday afternoon.c. a nutrition teacher will begin by showing students how to compare the labels on several common snacks.d. this demonstration will be followed by a short discussion on planning simple meals and snacks. a. c - b - d - ab. b - d - c - ac. b - c - d - ad. b - c - a - d write a, b, c, or d - {#1}",
-      "questionNumber": 8,
+      "questionNumber": 4,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "c",
-      "id": "question-1901060-5",
+      "id": "question-1903277-5",
       "inputs": [
         {
           "index": 0,
@@ -502,7 +543,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. Because of that discovery, she began comparing labels instead of relying on the picture on the front.b. Thao used to choose fruit yoghurt mainly because the package looked healthy.c. During a class activity, she discovered that similar-looking products could contain different amounts of sugar.d. Now she checks serving size and ingredients before deciding which one to buy.e. The change has not made her avoid yoghurt; it has simply made her choose more deliberately. A. b - a - c - d - eB. c - b - a - e - dC. b - c - a - d - eD. b - c - d - a - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1901060-5",
+      "questionId": "question-1903277-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. because of that discovery, she began comparing labels instead of relying on the picture on the front.b. thao used to choose fruit yoghurt mainly because the package looked healthy.c. during a class activity, she discovered that similar-looking products could contain different amounts of sugar.d. now she checks serving size and ingredients before deciding which one to buy.e. the change has not made her avoid yoghurt; it has simply made her choose more deliberately. a. b - a - c - d - eb. c - b - a - e - dc. b - c - a - d - ed. b - c - d - a - e write a, b, c, or d - {#1}",
       "questionNumber": 5,
       "selects": [],
@@ -510,7 +551,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1901060-6",
+      "id": "question-1903277-6",
       "inputs": [
         {
           "index": 0,
@@ -521,7 +562,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Thanks for telling me about Saturday's community walk.b. Hi Minh,c. See you there,d. I'd like to join, but could you tell me where the group is meeting?e. Also, should I bring water, or will it be provided?f. Hoa A. a - b - d - e - c - fB. b - d - a - e - c - fC. b - a - e - d - f - cD. b - a - d - e - c - f Write A, B, C, or D - {#1}",
-      "questionId": "question-1901060-6",
+      "questionId": "question-1903277-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. thanks for telling me about saturday's community walk.b. hi minh,c. see you there,d. i'd like to join, but could you tell me where the group is meeting?e. also, should i bring water, or will it be provided?f. hoa a. a - b - d - e - c - fb. b - d - a - e - c - fc. b - a - e - d - f - cd. b - a - d - e - c - f write a, b, c, or d - {#1}",
       "questionNumber": 7,
       "selects": [],
@@ -529,7 +570,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1901060-10",
+      "id": "question-1903277-10",
       "inputs": [
         {
           "index": 0,
@@ -576,15 +617,15 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31.The phrase \"fixated on\" in paragraph 2 is closest in meaning to ______.A. confused aboutB. excessively focused onC. disappointed withD. physically tired fromWrite A, B, C, or D - {#1}Question 32.Why did the instructors remove the public leaderboard?A. They found that the trackers were giving students inaccurate activity totals.B. They wanted students to stop using the activity trackers altogether.C. They wanted less competition and more attention to personal activity patterns.D. They found that very few students were checking the public leaderboard.Write A, B, C, or D - {#2}Question 33.The phrase \"This shift in focus\" in paragraph 4 refers to the change from ______.A. comparing with others to reflecting on personal activity patternsB. using activity trackers to avoiding digital technology completelyC. walking outdoors to doing all exercise inside the youth clubD. recording daily movement to discussing different food choicesWrite A, B, C, or D - {#3}Question 34.Which of the following best paraphrases the sentence \"the number had begun to replace the reason for moving\"?A. Students had stopped looking at their activity totals because the numbers were confusing.B. The trackers could not record the reasons why students chose particular activities.C. Students wanted the instructors to define exactly how many daily steps counted as healthy.D. Some students focused on the total instead of whether the activity suited them.Write A, B, C, or D - {#4}Question 35.What can be inferred about the instructors' view of a high step total?A. It is always evidence that a student has developed a healthy routine.B. It can be useful, but its meaning depends on the context of the activity.C. It is meaningful only when a student has the highest total in the group.D. It should replace personal judgement when students decide how much activity to do.Write A, B, C, or D - {#5}Question 36.Where in paragraph 3 does the following sentence best fit?The change affected what students could see about one another, but not the information available about their own activity.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#6}Question 37.What is the main purpose of paragraph 4?A. To explain why ordinary daily activities should replace planned exerciseB. To show that the participants stopped using the trackers before the project endedC. To describe how students' interpretation of the tracker data changed during the projectD. To prove that every student's daily step total increased after six weeksWrite A, B, C, or D - {#7}Question 38.Which of the following is NOT supported by the passage?A. Some students initially compared their activity totals with other participants.B. Students continued to see their own totals after the public leaderboard was removed.C. The instructors valued students' ability to interpret activity information.D. Every participant completed the project with a higher daily step total.Write A, B, C, or D - {#8}Question 39.Which of the following best summarises the passage?A. Activity trackers are useful only when students compete to achieve the highest possible number.B. Activity data can support reflection, but numbers lose value when treated as goals without context.C. The club stopped using activity trackers because students found them inaccurate and difficult to understand.D. Teenagers should avoid measuring physical activity because all forms of measurement create unhealthy competition.Write A, B, C, or D - {#9}Question 40.Which of the following is the best title for the passage?A. Counting Steps, Understanding HabitsB. Why Every Teenager Needs a Higher Step GoalC. The Competition That Made Everyone More ActiveD. How to Win an Activity-Tracker ChallengeWrite A, B, C, or D - {#10}",
-      "questionId": "question-1901060-10",
+      "questionId": "question-1903277-10",
       "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 31.the phrase \"fixated on\" in paragraph 2 is closest in meaning to ______.a. confused aboutb. excessively focused onc. disappointed withd. physically tired fromwrite a, b, c, or d - {#1}question 32.why did the instructors remove the public leaderboard?a. they found that the trackers were giving students inaccurate activity totals.b. they wanted students to stop using the activity trackers altogether.c. they wanted less competition and more attention to personal activity patterns.d. they found that very few students were checking the public leaderboard.write a, b, c, or d - {#2}question 33.the phrase \"this shift in focus\" in paragraph 4 refers to the change from ______.a. comparing with others to reflecting on personal activity patternsb. using activity trackers to avoiding digital technology completelyc. walking outdoors to doing all exercise inside the youth clubd. recording daily movement to discussing different food choiceswrite a, b, c, or d - {#3}question 34.which of the following best paraphrases the sentence \"the number had begun to replace the reason for moving\"?a. students had stopped looking at their activity totals because the numbers were confusing.b. the trackers could not record the reasons why students chose particular activities.c. students wanted the instructors to define exactly how many daily steps counted as healthy.d. some students focused on the total instead of whether the activity suited them.write a, b, c, or d - {#4}question 35.what can be inferred about the instructors' view of a high step total?a. it is always evidence that a student has developed a healthy routine.b. it can be useful, but its meaning depends on the context of the activity.c. it is meaningful only when a student has the highest total in the group.d. it should replace personal judgement when students decide how much activity to do.write a, b, c, or d - {#5}question 36.where in paragraph 3 does the following sentence best fit?the change affected what students could see about one another, but not the information available about their own activity.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#6}question 37.what is the main purpose of paragraph 4?a. to explain why ordinary daily activities should replace planned exerciseb. to show that the participants stopped using the trackers before the project endedc. to describe how students' interpretation of the tracker data changed during the projectd. to prove that every student's daily step total increased after six weekswrite a, b, c, or d - {#7}question 38.which of the following is not supported by the passage?a. some students initially compared their activity totals with other participants.b. students continued to see their own totals after the public leaderboard was removed.c. the instructors valued students' ability to interpret activity information.d. every participant completed the project with a higher daily step total.write a, b, c, or d - {#8}question 39.which of the following best summarises the passage?a. activity trackers are useful only when students compete to achieve the highest possible number.b. activity data can support reflection, but numbers lose value when treated as goals without context.c. the club stopped using activity trackers because students found them inaccurate and difficult to understand.d. teenagers should avoid measuring physical activity because all forms of measurement create unhealthy competition.write a, b, c, or d - {#9}question 40.which of the following is the best title for the passage?a. counting steps, understanding habitsb. why every teenager needs a higher step goalc. the competition that made everyone more actived. how to win an activity-tracker challengewrite a, b, c, or d - {#10}",
-      "questionNumber": 10,
+      "questionNumber": 9,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "b",
-      "id": "question-1901060-9",
+      "id": "question-1903277-9",
       "inputs": [
         {
           "index": 0,
@@ -623,9 +664,9 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23.What is the passage mainly about?A. Why students needed more lessons about choosing a healthy breakfastB. How convenient breakfast access helped students act on healthy intentionsC. Why students were advised to spend more time eating breakfast at homeD. How a school breakfast programme improved students' academic performanceWrite A, B, C, or D - {#1}Question 24.The word \"barrier\" in paragraph 1 is closest in meaning to ______.A. rewardB. instructionC. obstacleD. habitWrite A, B, C, or D - {#2}Question 25.The phrase \"This arrangement\" in paragraph 2 refers to ______.A. asking all students to choose the same type of breakfastB. opening the library entrance earlier so students could eat thereC. requiring students to finish breakfast before going to their first lessonD. placing easy-to-collect breakfast food near the library before classWrite A, B, C, or D - {#3}Question 26.According to paragraph 1, why did many students sometimes skip breakfast?A. They felt they had too little time in the morning.B. They did not know which foods were suitable for breakfast.C. They preferred buying sweets at school.D. Their teachers had advised them not to eat before class.Write A, B, C, or D - {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. The Breakfast Corner was first tested for four weeks.B. Students were able to take food away from the corner.C. The school claimed that the trial improved students' academic results.D. The Breakfast Corner continued in a more limited form after the trial.Write A, B, C, or D - {#5}Question 28.Which of the following best paraphrases the final sentence of the passage?A. Students make healthy choices mainly when teachers keep explaining which foods are good for them.B. Knowing a healthy choice does not always make it easy to put into practice.C. Healthy food is effective only when schools make it freely available to students.D. Schools should prevent students from choosing unhealthy food whenever they have the opportunity.Write A, B, C, or D - {#6}Question 29.What is the main purpose of paragraph 3?A. To report the trial's results while explaining what those results could and could not showB. To compare breakfast habits of students who used the corner with those who did notC. To explain why the Breakfast Corner was moved closer to the school libraryD. To describe the nutritional value of the foods available at the Breakfast CornerWrite A, B, C, or D - {#7}Question 30.What can be inferred about the school's approach to healthy habits?A. The school believes information alone is usually enough to change students' behaviour.B. The school thinks all students should follow exactly the same healthy eating routine.C. The school is mainly interested in controlling which foods students are allowed to eat.D. The school believes practical conditions can influence whether students carry out healthy choices.Write A, B, C, or D - {#8}",
-      "questionId": "question-1901060-9",
+      "questionId": "question-1903277-9",
       "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question. question 23.what is the passage mainly about?a. why students needed more lessons about choosing a healthy breakfastb. how convenient breakfast access helped students act on healthy intentionsc. why students were advised to spend more time eating breakfast at homed. how a school breakfast programme improved students' academic performancewrite a, b, c, or d - {#1}question 24.the word \"barrier\" in paragraph 1 is closest in meaning to ______.a. rewardb. instructionc. obstacled. habitwrite a, b, c, or d - {#2}question 25.the phrase \"this arrangement\" in paragraph 2 refers to ______.a. asking all students to choose the same type of breakfastb. opening the library entrance earlier so students could eat therec. requiring students to finish breakfast before going to their first lessond. placing easy-to-collect breakfast food near the library before classwrite a, b, c, or d - {#3}question 26.according to paragraph 1, why did many students sometimes skip breakfast?a. they felt they had too little time in the morning.b. they did not know which foods were suitable for breakfast.c. they preferred buying sweets at school.d. their teachers had advised them not to eat before class.write a, b, c, or d - {#4}question 27.which of the following is not true according to the passage?a. the breakfast corner was first tested for four weeks.b. students were able to take food away from the corner.c. the school claimed that the trial improved students' academic results.d. the breakfast corner continued in a more limited form after the trial.write a, b, c, or d - {#5}question 28.which of the following best paraphrases the final sentence of the passage?a. students make healthy choices mainly when teachers keep explaining which foods are good for them.b. knowing a healthy choice does not always make it easy to put into practice.c. healthy food is effective only when schools make it freely available to students.d. schools should prevent students from choosing unhealthy food whenever they have the opportunity.write a, b, c, or d - {#6}question 29.what is the main purpose of paragraph 3?a. to report the trial's results while explaining what those results could and could not showb. to compare breakfast habits of students who used the corner with those who did notc. to explain why the breakfast corner was moved closer to the school libraryd. to describe the nutritional value of the foods available at the breakfast cornerwrite a, b, c, or d - {#7}question 30.what can be inferred about the school's approach to healthy habits?a. the school believes information alone is usually enough to change students' behaviour.b. the school thinks all students should follow exactly the same healthy eating routine.c. the school is mainly interested in controlling which foods students are allowed to eat.d. the school believes practical conditions can influence whether students carry out healthy choices.write a, b, c, or d - {#8}",
-      "questionNumber": 9,
+      "questionNumber": 10,
       "selects": [],
       "rightAnswer": ""
     },
@@ -703,6 +744,252 @@
         {
           "index": 5,
           "value": "D. As a result"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B. suffer from",
+      "id": "question-1900778-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. sleep and screen check-in do you sometimes (7) {#1} tiredness during morning lessons even after spending enough time in bed?our student wellbeing team has developed a short activity to help you examine what your evening (8) {#2} actually looks like.last term, forty volunteers (9) {#3} their screen use and bedtime for seven days. the aim was not to tell students that phones were always harmful, but to help them notice their own patterns.since the project ended, several students (10) {#4} late-night scrolling and have started leaving their phones away from the bed.the new guide does not ban phones. (11) {#5}, it asks students to think about when and why they use them.bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) {#6} between late screen use and how alert you feel the next morning.",
+      "letter": "",
+      "options": [
+        "B. suffer from"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. SLEEP AND SCREEN CHECK-IN Do you sometimes (7) [Blank 7] tiredness during morning lessons even after spending enough time in bed?Our student wellbeing team has developed a short activity to help you examine what your evening (8) [Blank 8] actually looks like.Last term, forty volunteers (9) [Blank 9] their screen use and bedtime for seven days. The aim was not to tell students that phones were always harmful, but to help them notice their own patterns.Since the project ended, several students (10) [Blank 10] late-night scrolling and have started leaving their phones away from the bed.The new guide does not ban phones. (11) [Blank 11] , it asks students to think about when and why they use them.Bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) [Blank 12] between late screen use and how alert you feel the next morning.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.cut down onB.suffer fromC.work outD.examineÔ (8):A.strengthB.routineC.treatmentD.dietÔ (9):A.are recordingB.recordedC.recordD.have recordedÔ (10):A.cut down onB.cut downC.have cut down onD.have cut downÔ (11):A.ThereforeB.LikewiseC.InsteadD.SimilarlyÔ (12):A.connectionB.strengthC.nutrientD.treatment",
+      "questionId": "question-1900778-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. sleep and screen check-in do you sometimes (7) tiredness during morning lessons even after spending enough time in bed?our student wellbeing team has developed a short activity to help you examine what your evening (8) actually looks like.last term, forty volunteers (9) their screen use and bedtime for seven days. the aim was not to tell students that phones were always harmful, but to help them notice their own patterns.since the project ended, several students (10) late-night scrolling and have started leaving their phones away from the bed.the new guide does not ban phones. (11) , it asks students to think about when and why they use them.bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) between late screen use and how alert you feel the next morning.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.cut down onb.suffer fromc.work outd.examineô (8):a.strengthb.routinec.treatmentd.dietô (9):a.are recordingb.recordedc.recordd.have recordedô (10):a.cut down onb.cut downc.have cut down ond.have cut downô (11):a.thereforeb.likewisec.insteadd.similarlyô (12):a.connectionb.strengthc.nutrientd.treatment",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "B. suffer from"
+        },
+        {
+          "index": 1,
+          "value": "B. routine"
+        },
+        {
+          "index": 2,
+          "value": "B. recorded"
+        },
+        {
+          "index": 3,
+          "value": "C. have cut down on"
+        },
+        {
+          "index": 4,
+          "value": "C. Instead"
+        },
+        {
+          "index": 5,
+          "value": "A. connection"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. work",
+      "id": "question-1900778-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. move in minutes many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. greenfield youth centre has therefore created two short outdoor routes for students who want to (1) {#1} out without spending an hour at the gym. each route combines brisk walking with several simple exercises designed to improve balance and leg (2) {#2}. the centre first (3) {#3} a small trial during the spring holiday. since the full programme began in august, more than 200 teenagers (4) {#4} at least one route. several participants say they now feel more (5) {#5} during evening study and are more willing to walk short distances instead of asking for a lift.each route takes less than twenty minutes. (6) {#6}, students can choose one even on days when they have homework, clubs, or other activities.",
+      "letter": "",
+      "options": [
+        "C. work"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. MOVE IN MINUTES Many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. Greenfield Youth Centre has therefore created two short outdoor routes for students who want to (1) [Blank 1] out without spending an hour at the gym. Each route combines brisk walking with several simple exercises designed to improve balance and leg (2) [Blank 2] . The centre first (3) [Blank 3] a small trial during the spring holiday. Since the full programme began in August, more than 200 teenagers (4) [Blank 4] at least one route. Several participants say they now feel more (5) [Blank 5] during evening study and are more willing to walk short distances instead of asking for a lift.Each route takes less than twenty minutes. (6) [Blank 6] , students can choose one even on days when they have homework, clubs, or other activities.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.turnB.bringC.workD.carryÔ (2):A.strengthB.nutrientC.ingredientD.treatmentÔ (3):A.ranB.runsC.had runD.has runÔ (4):A.have completedB.completeC.completedD.are completingÔ (5):A.examinedB.energeticC.unbalancedD.treatedÔ (6):A.For exampleB.MeanwhileC.HoweverD.As a result",
+      "questionId": "question-1900778-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. move in minutes many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. greenfield youth centre has therefore created two short outdoor routes for students who want to (1) out without spending an hour at the gym. each route combines brisk walking with several simple exercises designed to improve balance and leg (2) . the centre first (3) a small trial during the spring holiday. since the full programme began in august, more than 200 teenagers (4) at least one route. several participants say they now feel more (5) during evening study and are more willing to walk short distances instead of asking for a lift.each route takes less than twenty minutes. (6) , students can choose one even on days when they have homework, clubs, or other activities.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.turnb.bringc.workd.carryô (2):a.strengthb.nutrientc.ingredientd.treatmentô (3):a.ranb.runsc.had rund.has runô (4):a.have completedb.completec.completedd.are completingô (5):a.examinedb.energeticc.unbalancedd.treatedô (6):a.for exampleb.meanwhilec.howeverd.as a result",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. work"
+        },
+        {
+          "index": 1,
+          "value": "A. strength"
+        },
+        {
+          "index": 2,
+          "value": "A. ran"
+        },
+        {
+          "index": 3,
+          "value": "A. have completed"
+        },
+        {
+          "index": 4,
+          "value": "B. energetic"
+        },
+        {
+          "index": 5,
+          "value": "D. As a result"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. suffer from",
+      "id": "question-1901060-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. sleep and screen check-in do you sometimes (7) {#1} tiredness during morning lessons even after spending enough time in bed?our student wellbeing team has developed a short activity to help you examine what your evening (8) {#2} actually looks like.last term, forty volunteers (9) {#3} their screen use and bedtime for seven days. the aim was not to tell students that phones were always harmful, but to help them notice their own patterns.since the project ended, several students (10) {#4} late-night scrolling and have started leaving their phones away from the bed.the new guide does not ban phones. (11) {#5}, it asks students to think about when and why they use them.bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) {#6} between late screen use and how alert you feel the next morning.",
+      "letter": "",
+      "options": [
+        "B. suffer from"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. SLEEP AND SCREEN CHECK-IN Do you sometimes (7) [Blank 7] tiredness during morning lessons even after spending enough time in bed?Our student wellbeing team has developed a short activity to help you examine what your evening (8) [Blank 8] actually looks like.Last term, forty volunteers (9) [Blank 9] their screen use and bedtime for seven days. The aim was not to tell students that phones were always harmful, but to help them notice their own patterns.Since the project ended, several students (10) [Blank 10] late-night scrolling and have started leaving their phones away from the bed.The new guide does not ban phones. (11) [Blank 11] , it asks students to think about when and why they use them.Bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) [Blank 12] between late screen use and how alert you feel the next morning.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.work outB.suffer fromC.cut down onD.examineÔ (8):A.routineB.strengthC.treatmentD.dietÔ (9):A.are recordingB.recordC.have recordedD.recordedÔ (10):A.have cut downB.cut down onC.have cut down onD.cut downÔ (11):A.LikewiseB.SimilarlyC.InsteadD.ThereforeÔ (12):A.strengthB.treatmentC.connectionD.nutrient",
+      "questionId": "question-1901060-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. sleep and screen check-in do you sometimes (7) tiredness during morning lessons even after spending enough time in bed?our student wellbeing team has developed a short activity to help you examine what your evening (8) actually looks like.last term, forty volunteers (9) their screen use and bedtime for seven days. the aim was not to tell students that phones were always harmful, but to help them notice their own patterns.since the project ended, several students (10) late-night scrolling and have started leaving their phones away from the bed.the new guide does not ban phones. (11) , it asks students to think about when and why they use them.bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) between late screen use and how alert you feel the next morning.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.work outb.suffer fromc.cut down ond.examineô (8):a.routineb.strengthc.treatmentd.dietô (9):a.are recordingb.recordc.have recordedd.recordedô (10):a.have cut downb.cut down onc.have cut down ond.cut downô (11):a.likewiseb.similarlyc.insteadd.thereforeô (12):a.strengthb.treatmentc.connectiond.nutrient",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "B. suffer from"
+        },
+        {
+          "index": 1,
+          "value": "A. routine"
+        },
+        {
+          "index": 2,
+          "value": "D. recorded"
+        },
+        {
+          "index": 3,
+          "value": "C. have cut down on"
+        },
+        {
+          "index": 4,
+          "value": "C. Instead"
+        },
+        {
+          "index": 5,
+          "value": "C. connection"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A. work",
+      "id": "question-1901060-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. move in minutes many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. greenfield youth centre has therefore created two short outdoor routes for students who want to (1) {#1} out without spending an hour at the gym. each route combines brisk walking with several simple exercises designed to improve balance and leg (2) {#2}. the centre first (3) {#3} a small trial during the spring holiday. since the full programme began in august, more than 200 teenagers (4) {#4} at least one route. several participants say they now feel more (5) {#5} during evening study and are more willing to walk short distances instead of asking for a lift.each route takes less than twenty minutes. (6) {#6}, students can choose one even on days when they have homework, clubs, or other activities.",
+      "letter": "",
+      "options": [
+        "A. work"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. MOVE IN MINUTES Many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. Greenfield Youth Centre has therefore created two short outdoor routes for students who want to (1) [Blank 1] out without spending an hour at the gym. Each route combines brisk walking with several simple exercises designed to improve balance and leg (2) [Blank 2] . The centre first (3) [Blank 3] a small trial during the spring holiday. Since the full programme began in August, more than 200 teenagers (4) [Blank 4] at least one route. Several participants say they now feel more (5) [Blank 5] during evening study and are more willing to walk short distances instead of asking for a lift.Each route takes less than twenty minutes. (6) [Blank 6] , students can choose one even on days when they have homework, clubs, or other activities.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.workB.turnC.carryD.bringÔ (2):A.ingredientB.strengthC.nutrientD.treatmentÔ (3):A.runsB.has runC.had runD.ranÔ (4):A.are completingB.completedC.have completedD.completeÔ (5):A.examinedB.energeticC.unbalancedD.treatedÔ (6):A.HoweverB.For exampleC.MeanwhileD.As a result",
+      "questionId": "question-1901060-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. move in minutes many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. greenfield youth centre has therefore created two short outdoor routes for students who want to (1) out without spending an hour at the gym. each route combines brisk walking with several simple exercises designed to improve balance and leg (2) . the centre first (3) a small trial during the spring holiday. since the full programme began in august, more than 200 teenagers (4) at least one route. several participants say they now feel more (5) during evening study and are more willing to walk short distances instead of asking for a lift.each route takes less than twenty minutes. (6) , students can choose one even on days when they have homework, clubs, or other activities.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.workb.turnc.carryd.bringô (2):a.ingredientb.strengthc.nutrientd.treatmentô (3):a.runsb.has runc.had rund.ranô (4):a.are completingb.completedc.have completedd.completeô (5):a.examinedb.energeticc.unbalancedd.treatedô (6):a.howeverb.for examplec.meanwhiled.as a result",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. work"
+        },
+        {
+          "index": 1,
+          "value": "B. strength"
+        },
+        {
+          "index": 2,
+          "value": "D. ran"
+        },
+        {
+          "index": 3,
+          "value": "C. have completed"
+        },
+        {
+          "index": 4,
+          "value": "B. energetic"
+        },
+        {
+          "index": 5,
+          "value": "D. As a result"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. work",
+      "id": "question-1903277-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. move in minutes many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. greenfield youth centre has therefore created two short outdoor routes for students who want to (1) {#1} out without spending an hour at the gym. each route combines brisk walking with several simple exercises designed to improve balance and leg (2) {#2}. the centre first (3) {#3} a small trial during the spring holiday. since the full programme began in august, more than 200 teenagers (4) {#4} at least one route. several participants say they now feel more (5) {#5} during evening study and are more willing to walk short distances instead of asking for a lift.each route takes less than twenty minutes. (6) {#6}, students can choose one even on days when they have homework, clubs, or other activities.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. MOVE IN MINUTES Many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. Greenfield Youth Centre has therefore created two short outdoor routes for students who want to (1) [Blank 1] out without spending an hour at the gym. Each route combines brisk walking with several simple exercises designed to improve balance and leg (2) [Blank 2] . The centre first (3) [Blank 3] a small trial during the spring holiday. Since the full programme began in August, more than 200 teenagers (4) [Blank 4] at least one route. Several participants say they now feel more (5) [Blank 5] during evening study and are more willing to walk short distances instead of asking for a lift.Each route takes less than twenty minutes. (6) [Blank 6] , students can choose one even on days when they have homework, clubs, or other activities.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.carryB.turnC.workD.bringÔ (2):A.ingredientB.treatmentC.nutrientD.strengthÔ (3):A.had runB.ranC.has runD.runsÔ (4):A.completedB.have completedC.completeD.are completingÔ (5):A.energeticB.examinedC.unbalancedD.treatedÔ (6):A.HoweverB.MeanwhileC.As a resultD.For example",
+      "questionId": "question-1903277-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. move in minutes many teenagers want to be more active but find it difficult to fit a long exercise session into a busy day. greenfield youth centre has therefore created two short outdoor routes for students who want to (1) [blank 1] out without spending an hour at the gym. each route combines brisk walking with several simple exercises designed to improve balance and leg (2) [blank 2] . the centre first (3) [blank 3] a small trial during the spring holiday. since the full programme began in august, more than 200 teenagers (4) [blank 4] at least one route. several participants say they now feel more (5) [blank 5] during evening study and are more willing to walk short distances instead of asking for a lift.each route takes less than twenty minutes. (6) [blank 6] , students can choose one even on days when they have homework, clubs, or other activities.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.carryb.turnc.workd.bringô (2):a.ingredientb.treatmentc.nutrientd.strengthô (3):a.had runb.ranc.has rund.runsô (4):a.completedb.have completedc.completed.are completingô (5):a.energeticb.examinedc.unbalancedd.treatedô (6):a.howeverb.meanwhilec.as a resultd.for example",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. work"
+        },
+        {
+          "index": 1,
+          "value": "D. strength"
+        },
+        {
+          "index": 2,
+          "value": "B. ran"
+        },
+        {
+          "index": 3,
+          "value": "B. have completed"
+        },
+        {
+          "index": 4,
+          "value": "A. energetic"
+        },
+        {
+          "index": 5,
+          "value": "C. As a result"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. suffer from",
+      "id": "question-1903277-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. sleep and screen check-in do you sometimes (7) {#1} tiredness during morning lessons even after spending enough time in bed?our student wellbeing team has developed a short activity to help you examine what your evening (8) {#2} actually looks like.last term, forty volunteers (9) {#3} their screen use and bedtime for seven days. the aim was not to tell students that phones were always harmful, but to help them notice their own patterns.since the project ended, several students (10) {#4} late-night scrolling and have started leaving their phones away from the bed.the new guide does not ban phones. (11) {#5}, it asks students to think about when and why they use them.bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) {#6} between late screen use and how alert you feel the next morning.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. SLEEP AND SCREEN CHECK-IN Do you sometimes (7) [Blank 7] tiredness during morning lessons even after spending enough time in bed?Our student wellbeing team has developed a short activity to help you examine what your evening (8) [Blank 8] actually looks like.Last term, forty volunteers (9) [Blank 9] their screen use and bedtime for seven days. The aim was not to tell students that phones were always harmful, but to help them notice their own patterns.Since the project ended, several students (10) [Blank 10] late-night scrolling and have started leaving their phones away from the bed.The new guide does not ban phones. (11) [Blank 11] , it asks students to think about when and why they use them.Bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) [Blank 12] between late screen use and how alert you feel the next morning.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.work outB.examineC.suffer fromD.cut down onÔ (8):A.routineB.strengthC.dietD.treatmentÔ (9):A.have recordedB.recordC.are recordingD.recordedÔ (10):A.cut downB.cut down onC.have cut downD.have cut down onÔ (11):A.InsteadB.LikewiseC.ThereforeD.SimilarlyÔ (12):A.connectionB.nutrientC.treatmentD.strength",
+      "questionId": "question-1903277-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. sleep and screen check-in do you sometimes (7) [blank 7] tiredness during morning lessons even after spending enough time in bed?our student wellbeing team has developed a short activity to help you examine what your evening (8) [blank 8] actually looks like.last term, forty volunteers (9) [blank 9] their screen use and bedtime for seven days. the aim was not to tell students that phones were always harmful, but to help them notice their own patterns.since the project ended, several students (10) [blank 10] late-night scrolling and have started leaving their phones away from the bed.the new guide does not ban phones. (11) [blank 11] , it asks students to think about when and why they use them.bring a simple record of your own evening habits, and a counsellor will help you look for a possible (12) [blank 12] between late screen use and how alert you feel the next morning.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.work outb.examinec.suffer fromd.cut down onô (8):a.routineb.strengthc.dietd.treatmentô (9):a.have recordedb.recordc.are recordingd.recordedô (10):a.cut downb.cut down onc.have cut downd.have cut down onô (11):a.insteadb.likewisec.therefored.similarlyô (12):a.connectionb.nutrientc.treatmentd.strength",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. suffer from"
+        },
+        {
+          "index": 1,
+          "value": "A. routine"
+        },
+        {
+          "index": 2,
+          "value": "D. recorded"
+        },
+        {
+          "index": 3,
+          "value": "D. have cut down on"
+        },
+        {
+          "index": 4,
+          "value": "A. Instead"
+        },
+        {
+          "index": 5,
+          "value": "A. connection"
         }
       ],
       "rightAnswer": ""
