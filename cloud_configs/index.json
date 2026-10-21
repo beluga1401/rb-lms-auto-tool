@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 19:36:08",
+  "updated_at": "2026-10-21 19:43:13",
   "total_configs": 23,
   "configs": [
     {
@@ -145,24 +145,6 @@
       "score_pct": 100.0,
       "question_count": 80,
       "updated_at": "2026-10-18 19:19:11"
-    },
-    {
-      "account_name": "Huỳnh Lê Phong Linh",
-      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
-      "class_key": "khoi_12",
-      "grade_num": "12",
-      "unit_name": "SESSION 3 - ÔN TẬP GK1",
-      "unit_key": "session_3_on_tap_gk1",
-      "quiz_title": "GR12EX33-TERM 1 MID-TEST REVIEW",
-      "quiz_key": "gr12ex33_term_1_mid_test_review",
-      "cmid": "739928",
-      "course_id": "9692",
-      "repo_path": "cloud_configs/khoi_12/session_3_on_tap_gk1/gr12ex33_term_1_mid_test_review.json",
-      "score": "95.00 trên 100.00",
-      "score_pct": 95.0,
-      "question_count": 78,
-      "updated_at": "2026-10-18 19:31:58"
     },
     {
       "account_name": "Thái Phương Thanh",
@@ -415,6 +397,24 @@
       "score_pct": 100.0,
       "question_count": 133,
       "updated_at": "2026-10-21 19:36:08"
+    },
+    {
+      "account_name": "Bùi Thiên Ân",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 3 - ÔN TẬP GK1",
+      "unit_key": "session_3_on_tap_gk1",
+      "quiz_title": "GR12EX33-TERM 1 MID-TEST REVIEW",
+      "quiz_key": "gr12ex33_term_1_mid_test_review",
+      "cmid": "739928",
+      "course_id": "4775",
+      "repo_path": "cloud_configs/khoi_12/session_3_on_tap_gk1/gr12ex33_term_1_mid_test_review.json",
+      "score": "97.50 trên 100.00",
+      "score_pct": 97.5,
+      "question_count": 90,
+      "updated_at": "2026-10-21 19:43:13"
     }
   ]
 }
