@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 19:43:13",
+  "updated_at": "2026-10-21 19:45:31",
   "total_configs": 23,
   "configs": [
     {
@@ -411,10 +411,10 @@
       "cmid": "739928",
       "course_id": "4775",
       "repo_path": "cloud_configs/khoi_12/session_3_on_tap_gk1/gr12ex33_term_1_mid_test_review.json",
-      "score": "97.50 trên 100.00",
-      "score_pct": 97.5,
-      "question_count": 90,
-      "updated_at": "2026-10-21 19:43:13"
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 102,
+      "updated_at": "2026-10-21 19:45:31"
     }
   ]
 }
