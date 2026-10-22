@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "account_name": "Lãm Đinh",
+    "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+    "class_key": "khoi_10",
+    "grade_num": "10",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR10EX26MOET UNIT 3",
+    "quiz_key": "gr10ex26moet_unit_3",
+    "cmid": "733910",
+    "course_id": "11741",
+    "repo_path": "cloud_configs/khoi_10/session_2_exercises_17_29/gr10ex26moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-10-22 20:51:40"
+  },
+  "answers": [
+    {
+      "id": "question-1910201-3",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the young singer has become a teen ________: thousands of teenagers admire him and follow his music.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. The young singer has become a teen ________: thousands of teenagers admire him and follow his music.",
+      "options": [
+        "idol"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-3",
+      "questionNumber": 2,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The young singer has become a teen ________: thousands of teenagers admire him and follow his music.",
+      "answer": "idol",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the young singer has become a teen ________: thousands of teenagers admire him and follow his music.",
+      "letter": "B",
+      "rightAnswer": "idol"
+    },
+    {
+      "id": "question-1910201-6",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.after a month on tour, the band will come ________ to its home town. its members have promised local fans that they will return.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. After a month on tour, the band will come ________ to its home town. Its members have promised local fans that they will return.",
+      "options": [
+        "back"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-6",
+      "questionNumber": 5,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.After a month on tour, the band will come ________ to its home town. Its members have promised local fans that they will return.",
+      "answer": "back",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.after a month on tour, the band will come ________ to its home town. its members have promised local fans that they will return.",
+      "letter": "C",
+      "rightAnswer": "back"
+    },
+    {
+      "id": "question-1910201-2",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the band cannot begin its rehearsal because its musical ________, including the guitars and drums, are still locked in the equipment cupboard.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. The band cannot begin its rehearsal because its musical ________, including the guitars and drums, are still locked in the equipment cupboard.",
+      "options": [
+        "instruments"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-2",
+      "questionNumber": 8,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The band cannot begin its rehearsal because its musical ________, including the guitars and drums, are still locked in the equipment cupboard.",
+      "answer": "instruments",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the band cannot begin its rehearsal because its musical ________, including the guitars and drums, are still locked in the equipment cupboard.",
+      "letter": "B",
+      "rightAnswer": "instruments"
+    },
+    {
+      "id": "question-1910201-7",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.in our classroom singing competition, students can vote ________ the singer they want to win.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. In our classroom singing competition, students can vote ________ the singer they want to win.",
+      "options": [
+        "for"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-7",
+      "questionNumber": 1,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.In our classroom singing competition, students can vote ________ the singer they want to win.",
+      "answer": "for",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.in our classroom singing competition, students can vote ________ the singer they want to win.",
+      "letter": "C",
+      "rightAnswer": "for"
+    },
+    {
+      "id": "question-1910201-5",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.after the first round, the selected contestants will go ________ to the next stage of the competition; the others will leave the contest.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. After the first round, the selected contestants will go ________ to the next stage of the competition; the others will leave the contest.",
+      "options": [
+        "on"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-5",
+      "questionNumber": 4,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.After the first round, the selected contestants will go ________ to the next stage of the competition; the others will leave the contest.",
+      "answer": "on",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.after the first round, the selected contestants will go ________ to the next stage of the competition; the others will leave the contest.",
+      "letter": "B",
+      "rightAnswer": "on"
+    },
+    {
+      "id": "question-1910201-9",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.after discussing several possibilities, our group came up ________ an idea for a new music show.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. After discussing several possibilities, our group came up ________ an idea for a new music show.",
+      "options": [
+        "with"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-9",
+      "questionNumber": 10,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.After discussing several possibilities, our group came up ________ an idea for a new music show.",
+      "answer": "with",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.after discussing several possibilities, our group came up ________ an idea for a new music show.",
+      "letter": "D",
+      "rightAnswer": "with"
+    },
+    {
+      "id": "question-1910201-1",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.although mai has never taken music lessons, she learns new tunes quickly. her natural musical ________ helps her recognise and reproduce melodies.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. Although Mai has never taken music lessons, she learns new tunes quickly. Her natural musical ________ helps her recognise and reproduce melodies.",
+      "options": [
+        "talent"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-1",
+      "questionNumber": 7,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.Although Mai has never taken music lessons, she learns new tunes quickly. Her natural musical ________ helps her recognise and reproduce melodies.",
+      "answer": "talent",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.although mai has never taken music lessons, she learns new tunes quickly. her natural musical ________ helps her recognise and reproduce melodies.",
+      "letter": "D",
+      "rightAnswer": "talent"
+    },
+    {
+      "id": "question-1910201-10",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.for the classroom show, the participants will dress ________ as famous artists and perform one of their songs.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. For the classroom show, the participants will dress ________ as famous artists and perform one of their songs.",
+      "options": [
+        "up"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-10",
+      "questionNumber": 6,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.For the classroom show, the participants will dress ________ as famous artists and perform one of their songs.",
+      "answer": "up",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.for the classroom show, the participants will dress ________ as famous artists and perform one of their songs.",
+      "letter": "D",
+      "rightAnswer": "up"
+    },
+    {
+      "id": "question-1910201-8",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the school music festival will take ________ in the main hall on friday evening.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. The school music festival will take ________ in the main hall on Friday evening.",
+      "options": [
+        "place"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-8",
+      "questionNumber": 9,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The school music festival will take ________ in the main hall on Friday evening.",
+      "answer": "place",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the school music festival will take ________ in the main hall on friday evening.",
+      "letter": "B",
+      "rightAnswer": "place"
+    },
+    {
+      "id": "question-1910201-4",
+      "questionKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the programme advertises a ________ show because viewers will see the singers perform as it happens, rather than watch an earlier recording.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the natural phrase. *Check the complete expression and its meaning in the sentence. The programme advertises a ________ show because viewers will see the singers perform as it happens, rather than watch an earlier recording.",
+      "options": [
+        "live"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-4",
+      "questionNumber": 3,
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The programme advertises a ________ show because viewers will see the singers perform as it happens, rather than watch an earlier recording.",
+      "answer": "live",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the natural phrase.*check the complete expression and its meaning in the sentence.the programme advertises a ________ show because viewers will see the singers perform as it happens, rather than watch an earlier recording.",
+      "letter": "A",
+      "rightAnswer": "live"
+    },
+    {
+      "id": "question-1910201-18",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.only one contestant will receive the main cash prize. the ________ will be announced after the final round.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. Only one contestant will receive the main cash prize. The ________ will be announced after the final round.",
+      "options": [
+        "winner"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-18",
+      "questionNumber": 20,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Only one contestant will receive the main cash prize. The ________ will be announced after the final round.",
+      "answer": "winner",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.only one contestant will receive the main cash prize. the ________ will be announced after the final round.",
+      "letter": "B",
+      "rightAnswer": "winner"
+    },
+    {
+      "id": "question-1910201-17",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.in the classroom competition, each audience member could cast two ________ for their preferred singers.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. In the classroom competition, each audience member could cast two ________ for their preferred singers.",
+      "options": [
+        "votes"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-17",
+      "questionNumber": 16,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.In the classroom competition, each audience member could cast two ________ for their preferred singers.",
+      "answer": "votes",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.in the classroom competition, each audience member could cast two ________ for their preferred singers.",
+      "letter": "D",
+      "rightAnswer": "votes"
+    },
+    {
+      "id": "question-1910201-12",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.the audience praised the band's final ________ and asked the musicians to play another song.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. The audience praised the band’s final ________ and asked the musicians to play another song.",
+      "options": [
+        "performance"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-12",
+      "questionNumber": 12,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.The audience praised the band's final ________ and asked the musicians to play another song.",
+      "answer": "performance",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.the audience praised the band's final ________ and asked the musicians to play another song.",
+      "letter": "A",
+      "rightAnswer": "performance"
+    },
+    {
+      "id": "question-1910201-14",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.both ________ performed live at the school concert, and each sang an original song.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. Both ________ performed live at the school concert, and each sang an original song.",
+      "options": [
+        "singers"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-14",
+      "questionNumber": 19,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Both ________ performed live at the school concert, and each sang an original song.",
+      "answer": "singers",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.both ________ performed live at the school concert, and each sang an original song.",
+      "letter": "A",
+      "rightAnswer": "singers"
+    },
+    {
+      "id": "question-1910201-16",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.our group decided to research ________ music and explain its instruments and costumes to the class.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. Our group decided to research ________ music and explain its instruments and costumes to the class.",
+      "options": [
+        "traditional"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-16",
+      "questionNumber": 11,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Our group decided to research ________ music and explain its instruments and costumes to the class.",
+      "answer": "traditional",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.our group decided to research ________ music and explain its instruments and costumes to the class.",
+      "letter": "D",
+      "rightAnswer": "traditional"
+    },
+    {
+      "id": "question-1910201-19",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.after each performance, the judges' ________ are added together to calculate the contestant's total.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. After each performance, the judges’ ________ are added together to calculate the contestant’s total.",
+      "options": [
+        "scores"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-19",
+      "questionNumber": 13,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.After each performance, the judges' ________ are added together to calculate the contestant's total.",
+      "answer": "scores",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.after each performance, the judges' ________ are added together to calculate the contestant's total.",
+      "letter": "A",
+      "rightAnswer": "scores"
+    },
+    {
+      "id": "question-1910201-15",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.every ________ in the singing competition must prepare one song for the first round.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. Every ________ in the singing competition must prepare one song for the first round.",
+      "options": [
+        "participant"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-15",
+      "questionNumber": 14,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Every ________ in the singing competition must prepare one song for the first round.",
+      "answer": "participant",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.every ________ in the singing competition must prepare one song for the first round.",
+      "letter": "C",
+      "rightAnswer": "participant"
+    },
+    {
+      "id": "question-1910201-11",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.for their traditional music presentation, the students brought several ________ instruments, including a drum and bamboo clappers.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. For their traditional music presentation, the students brought several ________ instruments, including a drum and bamboo clappers.",
+      "options": [
+        "musical"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-11",
+      "questionNumber": 17,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.For their traditional music presentation, the students brought several ________ instruments, including a drum and bamboo clappers.",
+      "answer": "musical",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.for their traditional music presentation, the students brought several ________ instruments, including a drum and bamboo clappers.",
+      "letter": "B",
+      "rightAnswer": "musical"
+    },
+    {
+      "id": "question-1910201-13",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.several young singers entered the school's singing ________, hoping to reach the final.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. Several young singers entered the school’s singing ________, hoping to reach the final.",
+      "options": [
+        "competition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-13",
+      "questionNumber": 15,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Several young singers entered the school's singing ________, hoping to reach the final.",
+      "answer": "competition",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.several young singers entered the school's singing ________, hoping to reach the final.",
+      "letter": "B",
+      "rightAnswer": "competition"
+    },
+    {
+      "id": "question-1910201-20",
+      "questionKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.one professional ________ visited the class to demonstrate how to play the guitar.",
+      "questionRaw": "Read each sentence carefully. Choose the option that completes the sentence correctly. *Check: which word class the blank requires; whether a noun should be singular or plural; whether the completed sentence makes sense. One professional ________ visited the class to demonstrate how to play the guitar.",
+      "options": [
+        "musician"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910201-20",
+      "questionNumber": 18,
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.One professional ________ visited the class to demonstrate how to play the guitar.",
+      "answer": "musician",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that completes the sentence correctly.*check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.one professional ________ visited the class to demonstrate how to play the guitar.",
+      "letter": "B",
+      "rightAnswer": "musician"
+    }
+  ]
+}
