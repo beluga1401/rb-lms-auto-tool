@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "account_name": "Lãm Đinh",
+    "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+    "class_key": "khoi_10",
+    "grade_num": "10",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR10EX27MOET UNIT 3",
+    "quiz_key": "gr10ex27moet_unit_3",
+    "cmid": "733911",
+    "course_id": "11741",
+    "repo_path": "cloud_configs/khoi_10/session_2_exercises_17_29/gr10ex27moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 30,
+    "updated_at": "2026-10-22 20:54:59"
+  },
+  "answers": [
+    {
+      "id": "question-1910231-1",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.our traditional music presentation has two equally important sections: we describe the musical instruments, ________ we also explain the performers' costumes.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. Our traditional music presentation has two equally important sections: we describe the musical instruments, ________ we also explain the performers’ costumes.",
+      "options": [
+        "and"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-1",
+      "questionNumber": 6,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.Our traditional music presentation has two equally important sections: we describe the musical instruments, ________ we also explain the performers' costumes.",
+      "answer": "and",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.our traditional music presentation has two equally important sections: we describe the musical instruments, ________ we also explain the performers' costumes.",
+      "letter": "A",
+      "rightAnswer": "and"
+    },
+    {
+      "id": "question-1910231-5",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.after comparing possible project topics, our group decided ________ traditional music and explain its instruments to the class.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. After comparing possible project topics, our group decided ________ traditional music and explain its instruments to the class.",
+      "options": [
+        "to research"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-5",
+      "questionNumber": 5,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.After comparing possible project topics, our group decided ________ traditional music and explain its instruments to the class.",
+      "answer": "to research",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.after comparing possible project topics, our group decided ________ traditional music and explain its instruments to the class.",
+      "letter": "C",
+      "rightAnswer": "to research"
+    },
+    {
+      "id": "question-1910231-8",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the teacher let the musicians ________ in the classroom before their live performance.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. The teacher let the musicians ________ in the classroom before their live performance.",
+      "options": [
+        "rehearse"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-8",
+      "questionNumber": 2,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.The teacher let the musicians ________ in the classroom before their live performance.",
+      "answer": "rehearse",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the teacher let the musicians ________ in the classroom before their live performance.",
+      "letter": "B",
+      "rightAnswer": "rehearse"
+    },
+    {
+      "id": "question-1910231-10",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.from the first note to the last, we heard the musician ________ the entire song on the guitar.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. From the first note to the last, we heard the musician ________ the entire song on the guitar.",
+      "options": [
+        "play"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-10",
+      "questionNumber": 9,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.From the first note to the last, we heard the musician ________ the entire song on the guitar.",
+      "answer": "play",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.from the first note to the last, we heard the musician ________ the entire song on the guitar.",
+      "letter": "A",
+      "rightAnswer": "play"
+    },
+    {
+      "id": "question-1910231-2",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.nam wants to attend the music festival, ________ he cannot go because he has an exam at the same time.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. Nam wants to attend the music festival, ________ he cannot go because he has an exam at the same time.",
+      "options": [
+        "but"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-2",
+      "questionNumber": 7,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.Nam wants to attend the music festival, ________ he cannot go because he has an exam at the same time.",
+      "answer": "but",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.nam wants to attend the music festival, ________ he cannot go because he has an exam at the same time.",
+      "letter": "A",
+      "rightAnswer": "but"
+    },
+    {
+      "id": "question-1910231-9",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the cheerful performance made the audience ________, and many people left the theatre feeling happy.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. The cheerful performance made the audience ________, and many people left the theatre feeling happy.",
+      "options": [
+        "smile"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-9",
+      "questionNumber": 10,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.The cheerful performance made the audience ________, and many people left the theatre feeling happy.",
+      "answer": "smile",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the cheerful performance made the audience ________, and many people left the theatre feeling happy.",
+      "letter": "C",
+      "rightAnswer": "smile"
+    },
+    {
+      "id": "question-1910231-6",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.before the first round, the organiser asked every participant ________ one song for the judges.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. Before the first round, the organiser asked every participant ________ one song for the judges.",
+      "options": [
+        "to prepare"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-6",
+      "questionNumber": 3,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.Before the first round, the organiser asked every participant ________ one song for the judges.",
+      "answer": "to prepare",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.before the first round, the organiser asked every participant ________ one song for the judges.",
+      "letter": "B",
+      "rightAnswer": "to prepare"
+    },
+    {
+      "id": "question-1910231-4",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the concert was cancelled because of the storm, ________ the audience went home without hearing a performance.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. The concert was cancelled because of the storm, ________ the audience went home without hearing a performance.",
+      "options": [
+        "so"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-4",
+      "questionNumber": 8,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.The concert was cancelled because of the storm, ________ the audience went home without hearing a performance.",
+      "answer": "so",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the concert was cancelled because of the storm, ________ the audience went home without hearing a performance.",
+      "letter": "A",
+      "rightAnswer": "so"
+    },
+    {
+      "id": "question-1910231-3",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.you have a choice: you can attend the live show, ________ you can watch a recording at home instead.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. You have a choice: you can attend the live show, ________ you can watch a recording at home instead.",
+      "options": [
+        "or"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-3",
+      "questionNumber": 1,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.You have a choice: you can attend the live show, ________ you can watch a recording at home instead.",
+      "answer": "or",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.you have a choice: you can attend the live show, ________ you can watch a recording at home instead.",
+      "letter": "A",
+      "rightAnswer": "or"
+    },
+    {
+      "id": "question-1910231-7",
+      "questionKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the young singer hopes ________ the cash prize in the final, although several talented participants are competing.",
+      "questionRaw": "Read each sentence carefully. Choose the option that best completes the sentence. For conjunction questions, identify the relationship between the two clauses. For verb-form questions, check the pattern required by the verb before the blank. The young singer hopes ________ the cash prize in the final, although several talented participants are competing.",
+      "options": [
+        "to win"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910231-7",
+      "questionNumber": 4,
+      "question": "Read each sentence carefully. Choose the option that best completes the sentence.For conjunction questions, identify the relationship between the two clauses.For verb-form questions, check the pattern required by the verb before the blank.The young singer hopes ________ the cash prize in the final, although several talented participants are competing.",
+      "answer": "to win",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence carefully. choose the option that best completes the sentence.for conjunction questions, identify the relationship between the two clauses.for verb-form questions, check the pattern required by the verb before the blank.the young singer hopes ________ the cash prize in the final, although several talented participants are competing.",
+      "letter": "D",
+      "rightAnswer": "to win"
+    },
+    {
+      "id": "11",
+      "questionKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. musical recordingb. costume designc. television dramad. performance art write a, b, c or d: question 2a. itb. themc. themselvesd. their write a, b, c or d: question 3a. sob. becausec. butd. or write a, b, c or d:",
+      "questionRaw": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. musical recordingB. costume designC. television dramaD. performance art Write A, B, C or D: {#1} Question 2A. itB. themC. themselvesD. their Write A, B, C or D: {#2} Question 3A. soB. becauseC. butD. or Write A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. musical recordingB. costume designC. television dramaD. performance art Write A, B, C or D: {#1} Question 2A. itB. themC. themselvesD. their Write A, B, C or D: {#2} Question 3A. soB. becauseC. butD. or Write A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "12",
+      "questionKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. performanceb. votec. staged. seasonwrite a, b, c or d: question 2a. performingb. to performc. performedd. performwrite a, b, c or d: question 3a. scoresb. feesc. viewsd. votes write a, b, c or d: question 4a. orb. butc. sod. yet write a, b, c or d:",
+      "questionRaw": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. performanceB. voteC. stageD. seasonWrite A, B, C or D: {#1} Question 2A. performingB. to performC. performedD. performWrite A, B, C or D: {#2} Question 3A. scoresB. feesC. viewsD. votes Write A, B, C or D: {#3} Question 4A. orB. butC. soD. yet Write A, B, C or D: {#4}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "12",
+      "questionNumber": 12,
+      "question": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. performanceB. voteC. stageD. seasonWrite A, B, C or D: {#1} Question 2A. performingB. to performC. performedD. performWrite A, B, C or D: {#2} Question 3A. scoresB. feesC. viewsD. votes Write A, B, C or D: {#3} Question 4A. orB. butC. soD. yet Write A, B, C or D: {#4}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "13",
+      "questionKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. fanb. starc. judged. participant write a, b, c or d: question 2a. deleteb. downloadc. uploadd. watch write a, b, c or d: question 3a. audienceb. bandc. paneld. choir write a, b, c or d:",
+      "questionRaw": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. fanB. starC. judgeD. participant Write A, B, C or D: {#1} Question 2A. deleteB. downloadC. uploadD. watch Write A, B, C or D: {#2} Question 3A. audienceB. bandC. panelD. choir Write A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "13",
+      "questionNumber": 13,
+      "question": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. fanB. starC. judgeD. participant Write A, B, C or D: {#1} Question 2A. deleteB. downloadC. uploadD. watch Write A, B, C or D: {#2} Question 3A. audienceB. bandC. panelD. choir Write A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "D",
+      "id": "question-1910231-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. performanceb. votec. staged. seasonwrite a, b, c or d: {#1} question 2a. performingb. to performc. performedd. performwrite a, b, c or d: {#2} question 3a. scoresb. feesc. viewsd. votes write a, b, c or d: {#3} question 4a. orb. butc. sod. yet write a, b, c or d: {#4}",
+      "letter": "",
+      "options": [],
+      "question": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. performanceB. voteC. stageD. seasonWrite A, B, C or D: {#1} Question 2A. performingB. to performC. performedD. performWrite A, B, C or D: {#2} Question 3A. scoresB. feesC. viewsD. votes Write A, B, C or D: {#3} Question 4A. orB. butC. soD. yet Write A, B, C or D: {#4}",
+      "questionId": "question-1910231-12",
+      "questionKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. performanceb. votec. staged. seasonwrite a, b, c or d: {#1} question 2a. performingb. to performc. performedd. performwrite a, b, c or d: {#2} question 3a. scoresb. feesc. viewsd. votes write a, b, c or d: {#3} question 4a. orb. butc. sod. yet write a, b, c or d: {#4}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1910231-13",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. musical recordingb. costume designc. television dramad. performance art write a, b, c or d: {#1} question 2a. itb. themc. themselvesd. their write a, b, c or d: {#2} question 3a. sob. becausec. butd. or write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. musical recordingB. costume designC. television dramaD. performance art Write A, B, C or D: {#1} Question 2A. itB. themC. themselvesD. their Write A, B, C or D: {#2} Question 3A. soB. becauseC. butD. or Write A, B, C or D: {#3}",
+      "questionId": "question-1910231-13",
+      "questionKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. musical recordingb. costume designc. television dramad. performance art write a, b, c or d: {#1} question 2a. itb. themc. themselvesd. their write a, b, c or d: {#2} question 3a. sob. becausec. butd. or write a, b, c or d: {#3}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1910231-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. fanb. starc. judged. participant write a, b, c or d: {#1} question 2a. deleteb. downloadc. uploadd. watch write a, b, c or d: {#2} question 3a. audienceb. bandc. paneld. choir write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Read each complete text before answering. Choose the option A, B, C, or D that best fits each numbered blank. Check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. Question 1A. fanB. starC. judgeD. participant Write A, B, C or D: {#1} Question 2A. deleteB. downloadC. uploadD. watch Write A, B, C or D: {#2} Question 3A. audienceB. bandC. panelD. choir Write A, B, C or D: {#3}",
+      "questionId": "question-1910231-11",
+      "questionKey": "read each complete text before answering. choose the option a, b, c, or d that best fits each numbered blank. check: the meaning of surrounding sentences; natural word combinations; grammatical patterns; reference relationships; connections between ideas. question 1a. fanb. starc. judged. participant write a, b, c or d: {#1} question 2a. deleteb. downloadc. uploadd. watch write a, b, c or d: {#2} question 3a. audienceb. bandc. paneld. choir write a, b, c or d: {#3}",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
