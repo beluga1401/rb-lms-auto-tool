@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22 21:09:41",
-  "total_configs": 28,
+  "updated_at": "2026-10-22 21:12:27",
+  "total_configs": 29,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -505,6 +505,24 @@
       "score_pct": 100.0,
       "question_count": 40,
       "updated_at": "2026-10-22 21:09:41"
+    },
+    {
+      "account_name": "Lãm Đinh",
+      "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+      "class_key": "khoi_10",
+      "grade_num": "10",
+      "unit_name": "SESSION 3 - ÔN TẬP GK1",
+      "unit_key": "session_3_on_tap_gk1",
+      "quiz_title": "GR10EX30-TERM 1 MID-TEST REVIEW",
+      "quiz_key": "gr10ex30_term_1_mid_test_review",
+      "cmid": "739909",
+      "course_id": "11741",
+      "repo_path": "cloud_configs/khoi_10/session_3_on_tap_gk1/gr10ex30_term_1_mid_test_review.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 80,
+      "updated_at": "2026-10-22 21:12:27"
     }
   ]
 }
