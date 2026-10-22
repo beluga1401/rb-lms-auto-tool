@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "account_name": "Lãm Đinh",
+    "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+    "class_key": "khoi_10",
+    "grade_num": "10",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR10EX25MOET UNIT 3",
+    "quiz_key": "gr10ex25moet_unit_3",
+    "cmid": "733909",
+    "course_id": "11741",
+    "repo_path": "cloud_configs/khoi_10/session_2_exercises_17_29/gr10ex25moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 25,
+    "updated_at": "2026-10-22 20:47:56"
+  },
+  "answers": [
+    {
+      "id": "question-1910176-10",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.as a judge, ms lan listened to every contestant, awarded scores, and helped decide who would reach the final.the word judge is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. As a judge, Ms Lan listened to every contestant, awarded scores, and helped decide who would reach the final. The word judge is closest in meaning to ________.",
+      "options": [
+        "a person who assesses performances in a competition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-10",
+      "questionNumber": 1,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.As a judge, Ms Lan listened to every contestant, awarded scores, and helped decide who would reach the final.The word judge is closest in meaning to ________.",
+      "answer": "a person who assesses performances in a competition",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.as a judge, ms lan listened to every contestant, awarded scores, and helped decide who would reach the final.the word judge is closest in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "a person who assesses performances in a competition"
+    },
+    {
+      "id": "question-1910176-4",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.at the school concert, mai sang a cover song. another artist had performed it years earlier, but mai sang it in her own style.the phrase cover song is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. At the school concert, Mai sang a cover song. Another artist had performed it years earlier, but Mai sang it in her own style. The phrase cover song is closest in meaning to ________.",
+      "options": [
+        "a new performance of a previously performed song"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-4",
+      "questionNumber": 11,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.At the school concert, Mai sang a cover song. Another artist had performed it years earlier, but Mai sang it in her own style.The phrase cover song is closest in meaning to ________.",
+      "answer": "a new performance of a previously performed song",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.at the school concert, mai sang a cover song. another artist had performed it years earlier, but mai sang it in her own style.the phrase cover song is closest in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "a new performance of a previously performed song"
+    },
+    {
+      "id": "question-1910176-1",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.linh can recognise a tune after hearing it once and quickly learns to play it on the piano. her teacher describes her as talented. the word talented is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. Linh can recognise a tune after hearing it once and quickly learns to play it on the piano. Her teacher describes her as talented. The word talented is closest in meaning to ________.",
+      "options": [
+        "naturally able to do something well"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-1",
+      "questionNumber": 3,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Linh can recognise a tune after hearing it once and quickly learns to play it on the piano. Her teacher describes her as talented. The word talented is closest in meaning to ________.",
+      "answer": "naturally able to do something well",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.linh can recognise a tune after hearing it once and quickly learns to play it on the piano. her teacher describes her as talented. the word talented is closest in meaning to ________.",
+      "letter": "B",
+      "rightAnswer": "naturally able to do something well"
+    },
+    {
+      "id": "question-1910176-12",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.hoa finished second in the singing competition, immediately behind the winner, so she was named the runner-up.the word runner-up is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. Hoa finished second in the singing competition, immediately behind the winner, so she was named the runner-up. The word runner-up is closest in meaning to ________.",
+      "options": [
+        "the contestant finishing immediately behind the winner"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-12",
+      "questionNumber": 6,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Hoa finished second in the singing competition, immediately behind the winner, so she was named the runner-up.The word runner-up is closest in meaning to ________.",
+      "answer": "the contestant finishing immediately behind the winner",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.hoa finished second in the singing competition, immediately behind the winner, so she was named the runner-up.the word runner-up is closest in meaning to ________.",
+      "letter": "A",
+      "rightAnswer": "the contestant finishing immediately behind the winner"
+    },
+    {
+      "id": "question-1910176-5",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the band uses social media to share performance videos, post pictures, and exchange messages with fans.the phrase social media is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The band uses social media to share performance videos, post pictures, and exchange messages with fans. The phrase social media is closest in meaning to ________.",
+      "options": [
+        "online platforms used to share content and communicate"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-5",
+      "questionNumber": 13,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The band uses social media to share performance videos, post pictures, and exchange messages with fans.The phrase social media is closest in meaning to ________.",
+      "answer": "online platforms used to share content and communicate",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the band uses social media to share performance videos, post pictures, and exchange messages with fans.the phrase social media is closest in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "online platforms used to share content and communicate"
+    },
+    {
+      "id": "question-1910176-13",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the festival had a friendly atmosphere. visitors smiled, chatted with one another, and enjoyed the music together.the word atmosphere is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The festival had a friendly atmosphere. Visitors smiled, chatted with one another, and enjoyed the music together. The word atmosphere is closest in meaning to ________.",
+      "options": [
+        "the general feeling or mood of an event"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-13",
+      "questionNumber": 5,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The festival had a friendly atmosphere. Visitors smiled, chatted with one another, and enjoyed the music together.The word atmosphere is closest in meaning to ________.",
+      "answer": "the general feeling or mood of an event",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the festival had a friendly atmosphere. visitors smiled, chatted with one another, and enjoyed the music together.the word atmosphere is closest in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "the general feeling or mood of an event"
+    },
+    {
+      "id": "question-1910176-7",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the website counts a view each time someone watches the band's video. one person may watch it more than once.the word view is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The website counts a view each time someone watches the band’s video. One person may watch it more than once. The word view is closest in meaning to ________.",
+      "options": [
+        "one occasion when an online video is watched"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-7",
+      "questionNumber": 12,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The website counts a view each time someone watches the band's video. One person may watch it more than once.The word view is closest in meaning to ________.",
+      "answer": "one occasion when an online video is watched",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the website counts a view each time someone watches the band's video. one person may watch it more than once.the word view is closest in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "one occasion when an online video is watched"
+    },
+    {
+      "id": "question-1910176-9",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the school organised a charity concert and donated the ticket money to help children in need.the phrase charity concert is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The school organised a charity concert and donated the ticket money to help children in need. The phrase charity concert is closest in meaning to ________.",
+      "options": [
+        "a musical event raising money for a good cause"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-9",
+      "questionNumber": 2,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The school organised a charity concert and donated the ticket money to help children in need.The phrase charity concert is closest in meaning to ________.",
+      "answer": "a musical event raising money for a good cause",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the school organised a charity concert and donated the ticket money to help children in need.the phrase charity concert is closest in meaning to ________.",
+      "letter": "B",
+      "rightAnswer": "a musical event raising money for a good cause"
+    },
+    {
+      "id": "question-1910176-11",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the competition has three rounds. in the first stage, all contestants perform; selected singers then continue to the semi-final.the word stage is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The competition has three rounds. In the first stage, all contestants perform; selected singers then continue to the semi-final. The word stage is closest in meaning to ________.",
+      "options": [
+        "a particular phase within a competition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-11",
+      "questionNumber": 4,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The competition has three rounds. In the first stage, all contestants perform; selected singers then continue to the semi-final.The word stage is closest in meaning to ________.",
+      "answer": "a particular phase within a competition",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the competition has three rounds. in the first stage, all contestants perform; selected singers then continue to the semi-final.the word stage is closest in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "a particular phase within a competition"
+    },
+    {
+      "id": "question-1910176-14",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument.the phrase cash prize is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument. The phrase cash prize is closest in meaning to ________.",
+      "options": [
+        "money awarded to a contestant for winning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-14",
+      "questionNumber": 15,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument.The phrase cash prize is closest in meaning to ________.",
+      "answer": "money awarded to a contestant for winning",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument.the phrase cash prize is closest in meaning to ________.",
+      "letter": "A",
+      "rightAnswer": "money awarded to a contestant for winning"
+    },
+    {
+      "id": "question-1910176-15",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.our group wanted a fresh music-show idea. after discussing several possibilities, we came up with a plan combining singing and short artist interviews.the phrase came up with is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. Our group wanted a fresh music-show idea. After discussing several possibilities, we came up with a plan combining singing and short artist interviews. The phrase came up with is closest in meaning to ________.",
+      "options": [
+        "thought of and suggested a plan"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-15",
+      "questionNumber": 9,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Our group wanted a fresh music-show idea. After discussing several possibilities, we came up with a plan combining singing and short artist interviews.The phrase came up with is closest in meaning to ________.",
+      "answer": "thought of and suggested a plan",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.our group wanted a fresh music-show idea. after discussing several possibilities, we came up with a plan combining singing and short artist interviews.the phrase came up with is closest in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "thought of and suggested a plan"
+    },
+    {
+      "id": "question-1910176-2",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.thousands of teenagers follow the young singer, display his pictures, and discuss his latest songs. he has become a teen idol.the phrase teen idol is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. Thousands of teenagers follow the young singer, display his pictures, and discuss his latest songs. He has become a teen idol. The phrase teen idol is closest in meaning to ________.",
+      "options": [
+        "a young celebrity greatly admired by teenagers"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-2",
+      "questionNumber": 14,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Thousands of teenagers follow the young singer, display his pictures, and discuss his latest songs. He has become a teen idol.The phrase teen idol is closest in meaning to ________.",
+      "answer": "a young celebrity greatly admired by teenagers",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.thousands of teenagers follow the young singer, display his pictures, and discuss his latest songs. he has become a teen idol.the phrase teen idol is closest in meaning to ________.",
+      "letter": "A",
+      "rightAnswer": "a young celebrity greatly admired by teenagers"
+    },
+    {
+      "id": "question-1910176-3",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.in this reality competition, ordinary people appear on television as themselves and compete to become the winning singer. they are not actors playing fictional characters.the phrase reality competition is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. In this reality competition, ordinary people appear on television as themselves and compete to become the winning singer. They are not actors playing fictional characters. The phrase reality competition is closest in meaning to ________.",
+      "options": [
+        "a television contest involving ordinary people as themselves"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-3",
+      "questionNumber": 10,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.In this reality competition, ordinary people appear on television as themselves and compete to become the winning singer. They are not actors playing fictional characters.The phrase reality competition is closest in meaning to ________.",
+      "answer": "a television contest involving ordinary people as themselves",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.in this reality competition, ordinary people appear on television as themselves and compete to become the winning singer. they are not actors playing fictional characters.the phrase reality competition is closest in meaning to ________.",
+      "letter": "A",
+      "rightAnswer": "a television contest involving ordinary people as themselves"
+    },
+    {
+      "id": "question-1910176-8",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the audience listened quietly while the singer performed. when the song ended, the people in the seats stood up and clapped.the word audience is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The audience listened quietly while the singer performed. When the song ended, the people in the seats stood up and clapped. The word audience is closest in meaning to ________.",
+      "options": [
+        "the people watching or listening to the performance"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-8",
+      "questionNumber": 7,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The audience listened quietly while the singer performed. When the song ended, the people in the seats stood up and clapped.The word audience is closest in meaning to ________.",
+      "answer": "the people watching or listening to the performance",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the audience listened quietly while the singer performed. when the song ended, the people in the seats stood up and clapped.the word audience is closest in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "the people watching or listening to the performance"
+    },
+    {
+      "id": "question-1910176-6",
+      "questionKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the band has released a new single containing one main song. fans are sharing the recording and discussing its lyrics.the word single is closest in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase. Use the complete context. An option may relate to music without expressing the target’s meaning. The band has released a new single containing one main song. Fans are sharing the recording and discussing its lyrics. The word single is closest in meaning to ________.",
+      "options": [
+        "a music recording containing one main song"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-6",
+      "questionNumber": 8,
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The band has released a new single containing one main song. Fans are sharing the recording and discussing its lyrics.The word single is closest in meaning to ________.",
+      "answer": "a music recording containing one main song",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is closest in meaning to the bold word or phrase.use the complete context. an option may relate to music without expressing the target's meaning.the band has released a new single containing one main song. fans are sharing the recording and discussing its lyrics.the word single is closest in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "a music recording containing one main song"
+    },
+    {
+      "id": "question-1910176-25",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.after discussing the invitation, the musicians agreed to perform at the school concert and accepted the organisers' proposal.the word agreed is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. After discussing the invitation, the musicians agreed to perform at the school concert and accepted the organisers’ proposal. The word agreed is OPPOSITE in meaning to ________.",
+      "options": [
+        "refused"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-25",
+      "questionNumber": 16,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.After discussing the invitation, the musicians agreed to perform at the school concert and accepted the organisers' proposal.The word agreed is OPPOSITE in meaning to ________.",
+      "answer": "refused",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.after discussing the invitation, the musicians agreed to perform at the school concert and accepted the organisers' proposal.the word agreed is opposite in meaning to ________.",
+      "letter": "A",
+      "rightAnswer": "refused"
+    },
+    {
+      "id": "question-1910176-24",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.many students enjoy listening to traditional music. they look forward to hearing it during the school's cultural programme.the word enjoy is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. Many students enjoy listening to traditional music. They look forward to hearing it during the school’s cultural programme. The word enjoy is OPPOSITE in meaning to ________.",
+      "options": [
+        "dislike"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-24",
+      "questionNumber": 23,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Many students enjoy listening to traditional music. They look forward to hearing it during the school's cultural programme.The word enjoy is OPPOSITE in meaning to ________.",
+      "answer": "dislike",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.many students enjoy listening to traditional music. they look forward to hearing it during the school's cultural programme.the word enjoy is opposite in meaning to ________.",
+      "letter": "B",
+      "rightAnswer": "dislike"
+    },
+    {
+      "id": "question-1910176-20",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.the students will upload a video from their laptop to the school's website so that others can watch their performance online.the phrase upload a video is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. The students will upload a video from their laptop to the school’s website so that others can watch their performance online. The phrase upload a video is OPPOSITE in meaning to ________.",
+      "options": [
+        "download a recording onto a device"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-20",
+      "questionNumber": 21,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.The students will upload a video from their laptop to the school's website so that others can watch their performance online.The phrase upload a video is OPPOSITE in meaning to ________.",
+      "answer": "download a recording onto a device",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.the students will upload a video from their laptop to the school's website so that others can watch their performance online.the phrase upload a video is opposite in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "download a recording onto a device"
+    },
+    {
+      "id": "question-1910176-23",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.before going on stage, nam felt relaxed. his shoulders were loose, and he was not worried about performing.the word relaxed is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. Before going on stage, Nam felt relaxed. His shoulders were loose, and he was not worried about performing. The word relaxed is OPPOSITE in meaning to ________.",
+      "options": [
+        "tense"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-23",
+      "questionNumber": 18,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Before going on stage, Nam felt relaxed. His shoulders were loose, and he was not worried about performing.The word relaxed is OPPOSITE in meaning to ________.",
+      "answer": "tense",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.before going on stage, nam felt relaxed. his shoulders were loose, and he was not worried about performing.the word relaxed is opposite in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "tense"
+    },
+    {
+      "id": "question-1910176-21",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.the singer became famous after her songs reached listeners across the country. people recognised her wherever she performed.the word famous is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. The singer became famous after her songs reached listeners across the country. People recognised her wherever she performed. The word famous is OPPOSITE in meaning to ________.",
+      "options": [
+        "largely unknown"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-21",
+      "questionNumber": 25,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.The singer became famous after her songs reached listeners across the country. People recognised her wherever she performed.The word famous is OPPOSITE in meaning to ________.",
+      "answer": "largely unknown",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.the singer became famous after her songs reached listeners across the country. people recognised her wherever she performed.the word famous is opposite in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "largely unknown"
+    },
+    {
+      "id": "question-1910176-19",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.tonight's programme is a live show: viewers will watch the singers at the same time as they perform.the phrase live show is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. Tonight’s programme is a live show: viewers will watch the singers at the same time as they perform. The phrase live show is OPPOSITE in meaning to ________.",
+      "options": [
+        "a show played from an earlier recording"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-19",
+      "questionNumber": 20,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Tonight's programme is a live show: viewers will watch the singers at the same time as they perform.The phrase live show is OPPOSITE in meaning to ________.",
+      "answer": "a show played from an earlier recording",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.tonight's programme is a live show: viewers will watch the singers at the same time as they perform.the phrase live show is opposite in meaning to ________.",
+      "letter": "B",
+      "rightAnswer": "a show played from an earlier recording"
+    },
+    {
+      "id": "question-1910176-17",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.after passing the first round, the selected singers will go on with the competition and prepare for the semi-final.the phrase go on is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. After passing the first round, the selected singers will go on with the competition and prepare for the semi-final. The phrase go on is OPPOSITE in meaning to ________.",
+      "options": [
+        "stop taking part"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-17",
+      "questionNumber": 17,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.After passing the first round, the selected singers will go on with the competition and prepare for the semi-final.The phrase go on is OPPOSITE in meaning to ________.",
+      "answer": "stop taking part",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.after passing the first round, the selected singers will go on with the competition and prepare for the semi-final.the phrase go on is opposite in meaning to ________.",
+      "letter": "D",
+      "rightAnswer": "stop taking part"
+    },
+    {
+      "id": "question-1910176-16",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.mai is talented at playing the piano. she has a natural ability to recognise tunes and learn new pieces quickly.the word talented is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. Mai is talented at playing the piano. She has a natural ability to recognise tunes and learn new pieces quickly. The word talented is OPPOSITE in meaning to ________.",
+      "options": [
+        "lacking natural musical ability"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-16",
+      "questionNumber": 19,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Mai is talented at playing the piano. She has a natural ability to recognise tunes and learn new pieces quickly.The word talented is OPPOSITE in meaning to ________.",
+      "answer": "lacking natural musical ability",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.mai is talented at playing the piano. she has a natural ability to recognise tunes and learn new pieces quickly.the word talented is opposite in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "lacking natural musical ability"
+    },
+    {
+      "id": "question-1910176-18",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.after spending a month performing elsewhere, the band will come back to its home town for a concert.the phrase come back is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. After spending a month performing elsewhere, the band will come back to its home town for a concert. The phrase come back is OPPOSITE in meaning to ________.",
+      "options": [
+        "go away from the place"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-18",
+      "questionNumber": 22,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.After spending a month performing elsewhere, the band will come back to its home town for a concert.The phrase come back is OPPOSITE in meaning to ________.",
+      "answer": "go away from the place",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.after spending a month performing elsewhere, the band will come back to its home town for a concert.the phrase come back is opposite in meaning to ________.",
+      "letter": "C",
+      "rightAnswer": "go away from the place"
+    },
+    {
+      "id": "question-1910176-22",
+      "questionKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.the students found the music show exciting. its varied performances held their attention from beginning to end.the word exciting is opposite in meaning to ________.",
+      "questionRaw": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase. *First identify the target’s meaning. Then select the option that reverses that meaning in the stated context. The students found the music show exciting. Its varied performances held their attention from beginning to end. The word exciting is OPPOSITE in meaning to ________.",
+      "options": [
+        "boring"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1910176-22",
+      "questionNumber": 24,
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.The students found the music show exciting. Its varied performances held their attention from beginning to end.The word exciting is OPPOSITE in meaning to ________.",
+      "answer": "boring",
+      "dragdrops": [],
+      "legacyQKey": "read each sentence or short context carefully. choose the option that is opposite in meaning to the bold word or phrase.*first identify the target's meaning. then select the option that reverses that meaning in the stated context.the students found the music show exciting. its varied performances held their attention from beginning to end.the word exciting is opposite in meaning to ________.",
+      "letter": "A",
+      "rightAnswer": "boring"
+    }
+  ]
+}
