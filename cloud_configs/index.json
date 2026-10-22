@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21 19:45:31",
-  "total_configs": 23,
+  "updated_at": "2026-10-22 20:47:56",
+  "total_configs": 24,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -415,6 +415,24 @@
       "score_pct": 100.0,
       "question_count": 102,
       "updated_at": "2026-10-21 19:45:31"
+    },
+    {
+      "account_name": "Lãm Đinh",
+      "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+      "class_key": "khoi_10",
+      "grade_num": "10",
+      "unit_name": "SESSION 2_EXERCISES 17-29",
+      "unit_key": "session_2_exercises_17_29",
+      "quiz_title": "GR10EX25MOET UNIT 3",
+      "quiz_key": "gr10ex25moet_unit_3",
+      "cmid": "733909",
+      "course_id": "11741",
+      "repo_path": "cloud_configs/khoi_10/session_2_exercises_17_29/gr10ex25moet_unit_3.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 25,
+      "updated_at": "2026-10-22 20:47:56"
     }
   ]
 }
