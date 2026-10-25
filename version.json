@@ -1,15 +1,16 @@
 {
-  "version": "4.9.3",
+  "version": "4.9.4",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-17",
+  "release_date": "2026-10-25",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi kẹt dừng tại màn hình 'Đã hoàn thành lần làm này.' (notice box đỏ / hồng): Quét toàn trang và tự động bấm nút 'Tiếp tục' trong mọi cấu trúc DOM của Moodle (.singlebutton, .continuebutton, #notice, #region-main).",
-    "Mở rộng cơ chế click notice: Tự động phát hiện nút 'Tiếp tục' dạng button, input submit và link thẻ a trong form singlebutton, dispatch sự kiện chuột và requestSubmit chuẩn xác.",
-    "Bảo vệ 2 chiều hoàn hảo: Tuyệt đối không click nhầm trên view.php / review.php khi ở trạng thái Sẵn sàng, nhưng tự động vượt qua 100% màn hình thông báo hoàn thành trên attempt.php / processattempt.php khi đang chạy chu trình AI 1-Touch 100 Điểm."
+    "Tích hợp nhúng trực tiếp Google Chrome thật (Win32 HWND container): Cho phép đăng nhập tài khoản Google (Google OAuth, Beluga profile, SSO trường học) 100% không bị chặn 'Trình duyệt không an toàn'.",
+    "Điều khiển tự động qua Chrome DevTools Protocol (CDP): Tự động trích xuất đề thi từ Chrome, gửi AI Gemini / DeepSeek giải đề và tự động chép đáp án trực tiếp vào DOM của Chrome không cần cài Extension.",
+    "Nút chuyển đổi linh hoạt 1-click giữa QWebEngine mặc định và Google Chrome thật ngay trên thanh điều hướng.",
+    "Dọn dẹp code rác & tối ưu bộ nhớ: Loại bỏ mã trùng lặp, tối ưu cờ RAM cho Chrome (--js-flags=--max-old-space-size=256) giúp app hoạt động mượt mà và nhẹ nhàng hơn."
   ]
 }
