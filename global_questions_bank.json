@@ -1,7 +1,7 @@
 {
-  "version": "4.8.0",
-  "updated_at": "2026-10-13T12:10:33Z",
-  "total_questions": 1,
+  "version": "4.9.3",
+  "updated_at": "2026-10-25T14:06:26Z",
+  "total_questions": 21,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -13,6 +13,306 @@
         "Bird",
         "Fish"
       ]
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase grandparents help keep traditions by teaching children the customs they learnt when they were young": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.Grandparents help keep traditions ________ by teaching children the customs they learnt when they were young.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase grandparents help keep traditions by teaching children the customs they learnt when they were young",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase grandparents help keep traditions by teaching children the customs they learnt when they were young",
+      "answer": "alive",
+      "letter": "B",
+      "options": [
+        "alive"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase we should protect these traditions for future including children who have not yet been born": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.We should protect these traditions for future ________, including children who have not yet been born.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase we should protect these traditions for future including children who have not yet been born",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase we should protect these traditions for future including children who have not yet been born",
+      "answer": "generations",
+      "letter": "B",
+      "options": [
+        "generations"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase the villagers preservation the time and hard work they put into protecting the communal house have kept it in good condition": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The villagers' preservation ________ — the time and hard work they put into protecting the communal house — have kept it in good condition.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase the villagers preservation the time and hard work they put into protecting the communal house have kept it in good condition",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase the villagers preservation the time and hard work they put into protecting the communal house have kept it in good condition",
+      "answer": "efforts",
+      "letter": "A",
+      "options": [
+        "efforts"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase the regional festival aims to promote by encouraging more visitors to learn about the area s traditions": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The regional festival aims to promote ________ by encouraging more visitors to learn about the area's traditions.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase the regional festival aims to promote by encouraging more visitors to learn about the area s traditions",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase the regional festival aims to promote by encouraging more visitors to learn about the area s traditions",
+      "answer": "tourism",
+      "letter": "C",
+      "options": [
+        "tourism"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase although family life has changed they still their customs and traditions by following the practices taught by older generations": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.Although family life has changed, they still ________ their customs and traditions by following the practices taught by older generations.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase although family life has changed they still their customs and traditions by following the practices taught by older generations",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase although family life has changed they still their customs and traditions by following the practices taught by older generations",
+      "answer": "observe",
+      "letter": "A",
+      "options": [
+        "observe"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase the village head will us around the communal house and explain how its different rooms are used": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The village head will ________ us around the communal house and explain how its different rooms are used.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase the village head will us around the communal house and explain how its different rooms are used",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase the village head will us around the communal house and explain how its different rooms are used",
+      "answer": "show",
+      "letter": "C",
+      "options": [
+        "show"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase the old buildings and customs inherited from earlier generations form part of the village s cultural": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The old buildings and customs inherited from earlier generations form part of the village's cultural ________.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase the old buildings and customs inherited from earlier generations form part of the village s cultural",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase the old buildings and customs inherited from earlier generations form part of the village s cultural",
+      "answer": "heritage",
+      "letter": "B",
+      "options": [
+        "heritage"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase during family ceremonies they worship their to show respect for family members who lived long ago": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.During family ceremonies, they worship their ________ to show respect for family members who lived long ago.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase during family ceremonies they worship their to show respect for family members who lived long ago",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase during family ceremonies they worship their to show respect for family members who lived long ago",
+      "answer": "ancestors",
+      "letter": "B",
+      "options": [
+        "ancestors"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase our classmates want to take part the traditional games at the regional festival": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.Our classmates want to take part ________ the traditional games at the regional festival.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase our classmates want to take part the traditional games at the regional festival",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase our classmates want to take part the traditional games at the regional festival",
+      "answer": "in",
+      "letter": "B",
+      "options": [
+        "in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence with the most appropriate word or phrase the family gathers each year to celebrate the death of relatives who have passed away": {
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The family gathers each year to celebrate the death ________ of relatives who have passed away.",
+      "clean_stem": "choose a b c or d to complete each sentence with the most appropriate word or phrase the family gathers each year to celebrate the death of relatives who have passed away",
+      "stem_key": "choose a b c or d to complete each sentence with the most appropriate word or phrase the family gathers each year to celebrate the death of relatives who have passed away",
+      "answer": "anniversaries",
+      "letter": "D",
+      "options": [
+        "anniversaries"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning for the class presentation mai chose a dish that her family has prepared for generations": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.For the class presentation, Mai chose a ________ dish that her family has prepared for generations.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning for the class presentation mai chose a dish that her family has prepared for generations",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning for the class presentation mai chose a dish that her family has prepared for generations",
+      "answer": "traditional",
+      "letter": "A",
+      "options": [
+        "traditional"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning many families continue to customs and traditions learnt from older generations": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.Many families continue to ________ customs and traditions learnt from older generations.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning many families continue to customs and traditions learnt from older generations",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning many families continue to customs and traditions learnt from older generations",
+      "answer": "observe",
+      "letter": "A",
+      "options": [
+        "observe"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the old castle remains because a family still lives in several of its rooms": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The old castle remains ________ because a family still lives in several of its rooms.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the old castle remains because a family still lives in several of its rooms",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the old castle remains because a family still lives in several of its rooms",
+      "answer": "occupied",
+      "letter": "A",
+      "options": [
+        "occupied"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the of old family photographs from sunlight and moisture helps keep them in good condition": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The ________ of old family photographs from sunlight and moisture helps keep them in good condition.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the of old family photographs from sunlight and moisture helps keep them in good condition",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the of old family photographs from sunlight and moisture helps keep them in good condition",
+      "answer": "protection",
+      "letter": "A",
+      "options": [
+        "protection"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the organisers hope that their regional festival will tourism by attracting visitors interested in local traditions": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The organisers hope that their regional festival will ________ tourism by attracting visitors interested in local traditions.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the organisers hope that their regional festival will tourism by attracting visitors interested in local traditions",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the organisers hope that their regional festival will tourism by attracting visitors interested in local traditions",
+      "answer": "promote",
+      "letter": "B",
+      "options": [
+        "promote"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the group researched the of the traditional dish to find out where it first appeared": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The group researched the ________ of the traditional dish to find out where it first appeared.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the group researched the of the traditional dish to find out where it first appeared",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the group researched the of the traditional dish to find out where it first appeared",
+      "answer": "origin",
+      "letter": "B",
+      "options": [
+        "origin"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning by sharing their memories and photographs the grandparents made a valuable to the students project": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.By sharing their memories and photographs, the grandparents made a valuable ________ to the students' project.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning by sharing their memories and photographs the grandparents made a valuable to the students project",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning by sharing their memories and photographs the grandparents made a valuable to the students project",
+      "answer": "contribution",
+      "letter": "D",
+      "options": [
+        "contribution"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the communal house is because it played an important role in the area s history": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The communal house is ________ because it played an important role in the area's history.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the communal house is because it played an important role in the area s history",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the communal house is because it played an important role in the area s history",
+      "answer": "historic",
+      "letter": "A",
+      "options": [
+        "historic"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the of the old communal house is one of the project s main aims": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The ________ of the old communal house is one of the project's main aims.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the of the old communal house is one of the project s main aims",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the of the old communal house is one of the project s main aims",
+      "answer": "preservation",
+      "letter": "C",
+      "options": [
+        "preservation"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
+    },
+    "choose a b c or d to complete each sentence check both the required word form and its meaning the students believe that people should the value of cultural heritage and help keep it safe": {
+      "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The students believe that people should ________ the value of cultural heritage and help keep it safe.",
+      "clean_stem": "choose a b c or d to complete each sentence check both the required word form and its meaning the students believe that people should the value of cultural heritage and help keep it safe",
+      "stem_key": "choose a b c or d to complete each sentence check both the required word form and its meaning the students believe that people should the value of cultural heritage and help keep it safe",
+      "answer": "recognise",
+      "letter": "D",
+      "options": [
+        "recognise"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-25T14:06:25Z"
     }
   }
 }
