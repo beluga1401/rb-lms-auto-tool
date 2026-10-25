@@ -1,0 +1,540 @@
+{
+  "metadata": {
+    "account_name": "Phạm Phương Nam",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 2_EXERCISES 17-29",
+    "unit_key": "session_2_exercises_17_29",
+    "quiz_title": "GR9EX29MOET UNIT 3",
+    "quiz_key": "gr9ex29moet_unit_3",
+    "cmid": "733893",
+    "course_id": "4771",
+    "repo_path": "cloud_configs/khoi_9/session_2_exercises_17_29/gr9ex29moet_unit_3.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 40,
+    "updated_at": "2026-10-25 20:46:03"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: planning a busy weeka. to solve this problem, she wrote each assignment and its due date in a calendar and planned when to work on it.b. mai felt stressed out because she had several assignments and did not know how to organise her week.c. at the end of the week, she had completed the planned work and felt calmer.d. following this plan, she worked on a few tasks each day instead of leaving everything until the last evening.a. b – d – a – cb. b – a – d – cc. a – b – d – cd. b – a – c – dwrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Planning a Busy Weeka. To solve this problem, she wrote each assignment and its due date in a calendar and planned when to work on it.b. Mai felt stressed out because she had several assignments and did not know how to organise her week.c. At the end of the week, she had completed the planned work and felt calmer.d. Following this plan, she worked on a few tasks each day instead of leaving everything until the last evening.A. b – d – a – cB. b – a – d – cC. a – b – d – cD. b – a – c – dWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Planning a Busy Weeka. To solve this problem, she wrote each assignment and its due date in a calendar and planned when to work on it.b. Mai felt stressed out because she had several assignments and did not know how to organise her week.c. At the end of the week, she had completed the planned work and felt calmer.d. Following this plan, she worked on a few tasks each day instead of leaving everything until the last evening.A. b – d – a – cB. b – a – d – cC. a – b – d – cD. b – a – c – dWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: finding a better balancea. this new schedule gave him time to finish important work, exercise, and get enough sleep.b. to change these habits, he divided his evenings between study, physical activity, and rest.c. during exam preparation, phong spent nearly every evening studying and often went to bed late.d. with a healthier balance between his activities, he felt more alert during morning lessons.e. as a result of these late nights, he often felt tired at school and found it difficult to concentrate.a. c – e – d – b – ab. e – c – b – d – ac. c – e – a – b – dd. c – e – b – a – dwrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Finding a Better Balancea. This new schedule gave him time to finish important work, exercise, and get enough sleep.b. To change these habits, he divided his evenings between study, physical activity, and rest.c. During exam preparation, Phong spent nearly every evening studying and often went to bed late.d. With a healthier balance between his activities, he felt more alert during morning lessons.e. As a result of these late nights, he often felt tired at school and found it difficult to concentrate.A. c – e – d – b – aB. e – c – b – d – aC. c – e – a – b – dD. c – e – b – a – dWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Finding a Better Balancea. This new schedule gave him time to finish important work, exercise, and get enough sleep.b. To change these habits, he divided his evenings between study, physical activity, and rest.c. During exam preparation, Phong spent nearly every evening studying and often went to bed late.d. With a healthier balance between his activities, he felt more alert during morning lessons.e. As a result of these late nights, he often felt tired at school and found it difficult to concentrate.A. c – e – d – b – aB. e – c – b – d – aC. c – e – a – b – dD. c – e – b – a – dWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: preparing a time-management survey reporta. by completing the assignments in this order, she submitted both before their deadlines.b. once the history assignment was finished, she turned her attention to the science project.c. because the history deadline was closer, she gave that assignment priority and started it first.d. linh had a history assignment due tomorrow and a science project due the following week.a. d – b – c – ab. c – d – a – bc. d – c – b – ad. d – c – a – bwrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Preparing a Time-Management Survey Reporta. By completing the assignments in this order, she submitted both before their deadlines.b. Once the history assignment was finished, she turned her attention to the science project.c. Because the history deadline was closer, she gave that assignment priority and started it first.d. Linh had a history assignment due tomorrow and a science project due the following week.A. d – b – c – aB. c – d – a – bC. d – c – b – aD. d – c – a – bWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Preparing a Time-Management Survey Reporta. By completing the assignments in this order, she submitted both before their deadlines.b. Once the history assignment was finished, she turned her attention to the science project.c. Because the history deadline was closer, she gave that assignment priority and started it first.d. Linh had a history assignment due tomorrow and a science project due the following week.A. d – b – c – aB. c – d – a – bC. d – c – b – aD. d – c – a – bWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: preparing a time-management survey reporta. finally, we organised the findings and advice into a short presentation for the class.b. before the interviews, our group practised asking the five textbook questions about time-management habits.c. during each interview, we recorded the classmate’s yes/no answers in a table.d. once the table was complete, we counted each student’s yes answers and classified the results.e. we then interviewed five classmates using those questions.a. b – e – c – d – ab. b – e – c – a – dc. e – b – c – a – dd. b – e – d – c – awrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Preparing a Time-Management Survey Reporta. Finally, we organised the findings and advice into a short presentation for the class.b. Before the interviews, our group practised asking the five textbook questions about time-management habits.c. During each interview, we recorded the classmate’s Yes/No answers in a table.d. Once the table was complete, we counted each student’s Yes answers and classified the results.e. We then interviewed five classmates using those questions.A. b – e – c – d – aB. b – e – c – a – dC. e – b – c – a – dD. b – e – d – c – aWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Preparing a Time-Management Survey Reporta. Finally, we organised the findings and advice into a short presentation for the class.b. Before the interviews, our group practised asking the five textbook questions about time-management habits.c. During each interview, we recorded the classmate’s Yes/No answers in a table.d. Once the table was complete, we counted each student’s Yes answers and classified the results.e. We then interviewed five classmates using those questions.A. b – e – c – d – aB. b – e – c – a – dC. e – b – c – a – dD. b – e – d – c – aWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: avoiding phone distractionsa. to stop these interruptions, he turned off notifications and put his phone away.b. nam kept checking messages on his phone while doing his homework.c. after completing the assignment, he took a break and checked his messages.d. these frequent interruptions meant that he made little progress with the assignment.e. with his phone silent and out of reach, he could concentrate and work steadily towards finishing the task.a. b – d – a – c – eb. b – d – a – e – cc. d – b – a – c – ed. b – d – e – a – cwrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Avoiding Phone Distractionsa. To stop these interruptions, he turned off notifications and put his phone away.b. Nam kept checking messages on his phone while doing his homework.c. After completing the assignment, he took a break and checked his messages.d. These frequent interruptions meant that he made little progress with the assignment.e. With his phone silent and out of reach, he could concentrate and work steadily towards finishing the task.A. b – d – a – c – eB. b – d – a – e – cC. d – b – a – c – eD. b – d – e – a – cWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Avoiding Phone Distractionsa. To stop these interruptions, he turned off notifications and put his phone away.b. Nam kept checking messages on his phone while doing his homework.c. After completing the assignment, he took a break and checked his messages.d. These frequent interruptions meant that he made little progress with the assignment.e. With his phone silent and out of reach, he could concentrate and work steadily towards finishing the task.A. b – d – a – c – eB. b – d – a – e – cC. d – b – a – c – eD. b – d – e – a – cWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — conducting a time-management surveya. interviewer: thank you. i’ll record your answer as yes.b. classmate: yes. i usually make one on sunday evening.c. interviewer: do you often create a schedule to organise your week?d. interviewer: let me ask that again: do you often make a schedule for your week?e. classmate: sorry? could you say the question again?a. c – d – e – b – ab. e – c – d – a – bc. c – e – b – d – ad. c – e – d – b – awrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Conducting a Time-Management Surveya. Interviewer: Thank you. I’ll record your answer as Yes.b. Classmate: Yes. I usually make one on Sunday evening.c. Interviewer: Do you often create a schedule to organise your week?d. Interviewer: Let me ask that again: do you often make a schedule for your week?e. Classmate: Sorry? Could you say the question again?A. c – d – e – b – aB. e – c – d – a – bC. c – e – b – d – aD. c – e – d – b – aWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Conducting a Time-Management Surveya. Interviewer: Thank you. I’ll record your answer as Yes.b. Classmate: Yes. I usually make one on Sunday evening.c. Interviewer: Do you often create a schedule to organise your week?d. Interviewer: Let me ask that again: do you often make a schedule for your week?e. Classmate: Sorry? Could you say the question again?A. c – d – e – b – aB. e – c – d – a – bC. c – e – b – d – aD. c – e – d – b – aWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking a study-session timea. mai: i beg your pardon. what time did you say?b. phong: let me repeat: our study session starts at four o’clock.c. mai: thanks. i’ll arrive a few minutes before four.d. phong: our study session starts at four o’clock this afternoon.a. d – a – b – cb. a – d – c – bc. d – b – a – cd. d – a – c – bwrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking a Study-Session Timea. Mai: I beg your pardon. What time did you say?b. Phong: Let me repeat: our study session starts at four o’clock.c. Mai: Thanks. I’ll arrive a few minutes before four.d. Phong: Our study session starts at four o’clock this afternoon.A. d – a – b – cB. a – d – c – bC. d – b – a – cD. d – a – c – bWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking a Study-Session Timea. Mai: I beg your pardon. What time did you say?b. Phong: Let me repeat: our study session starts at four o’clock.c. Mai: Thanks. I’ll arrive a few minutes before four.d. Phong: Our study session starts at four o’clock this afternoon.A. d – a – b – cB. a – d – c – bC. d – b – a – cD. d – a – c – bWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking a project’s due datea. hoa: next friday. we need to submit it before the afternoon lesson.b. hoa: sorry? i didn’t hear your question clearly.c. nam: thanks. i’ll put that date in my calendar.d. nam: when is our science project due?e. nam: i asked when our science project is due.a. d – e – b – a – cb. d – b – a – e – cc. d – b – e – a – cd. b – d – e – c – awrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking a Project’s Due Datea. Hoa: Next Friday. We need to submit it before the afternoon lesson.b. Hoa: Sorry? I didn’t hear your question clearly.c. Nam: Thanks. I’ll put that date in my calendar.d. Nam: When is our science project due?e. Nam: I asked when our science project is due.A. d – e – b – a – cB. d – b – a – e – cC. d – b – e – a – cD. b – d – e – c – aWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking a Project’s Due Datea. Hoa: Next Friday. We need to submit it before the afternoon lesson.b. Hoa: Sorry? I didn’t hear your question clearly.c. Nam: Thanks. I’ll put that date in my calendar.d. Nam: When is our science project due?e. Nam: I asked when our science project is due.A. d – e – b – a – cB. d – b – a – e – cC. d – b – e – a – cD. b – d – e – c – aWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking survey instructionsa. teacher: certainly. write each person’s yes/no answers in the table first; count the yes answers afterwards.b. student: understood. we’ll record the answers before counting them.c. teacher: record each classmate’s answers before you count the yes responses.d. student: could you repeat the instruction, please? i missed the first part.a. c – a – d – bb. c – d – a – bc. d – c – b – ad. c – d – b – awrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking Survey Instructionsa. Teacher: Certainly. Write each person’s Yes/No answers in the table first; count the Yes answers afterwards.b. Student: Understood. We’ll record the answers before counting them.c. Teacher: Record each classmate’s answers before you count the Yes responses.d. Student: Could you repeat the instruction, please? I missed the first part.A. c – a – d – bB. c – d – a – bC. d – c – b – aD. c – d – b – aWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking Survey Instructionsa. Teacher: Certainly. Write each person’s Yes/No answers in the table first; count the Yes answers afterwards.b. Student: Understood. We’ll record the answers before counting them.c. Teacher: Record each classmate’s answers before you count the Yes responses.d. Student: Could you repeat the instruction, please? I missed the first part.A. c – a – d – bB. c – d – a – bC. d – c – b – aD. c – d – b – aWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — asking for a booka. linh: of course. here it is.b. bao: i said, “could you pass me the english book, please?”c. bao: thank you. i need it to check the time-management tips.d. linh: could you repeat that, please? i couldn’t hear you over the noise.e. bao: could you pass me the english book, please?a. e – a – d – b – cb. d – e – b – c – ac. e – b – d – a – cd. e – d – b – a – cwrite a, b, c or d:",
+      "questionRaw": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Asking for a Booka. Linh: Of course. Here it is.b. Bao: I said, “Could you pass me the English book, please?”c. Bao: Thank you. I need it to check the time-management tips.d. Linh: Could you repeat that, please? I couldn’t hear you over the noise.e. Bao: Could you pass me the English book, please?A. e – a – d – b – cB. d – e – b – c – aC. e – b – d – a – cD. e – d – b – a – cWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Asking for a Booka. Linh: Of course. Here it is.b. Bao: I said, “Could you pass me the English book, please?”c. Bao: Thank you. I need it to check the time-management tips.d. Linh: Could you repeat that, please? I couldn’t hear you over the noise.e. Bao: Could you pass me the English book, please?A. e – a – d – b – cB. d – e – b – c – aC. e – b – d – a – cD. e – d – b – a – cWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "11",
+      "questionKey": "choose the option a, b, c, or d that best fits each numbered blank. check the words around the blank and the purpose of the guide. your answer must fit both the grammar and the meaning. question 1 a. daily b. due c. busy d. freewrite a, b, c or d: question 2 a. encouragement b. repetition c. permission d. prioritywrite a, b, c or d: question 3 a. routine b. calendar c. mood d. goalwrite a, b, c or d: question 4 a. take b. make c. get d. keepwrite a, b, c or d: question 5 a. getting b. get c. gets d. to getwrite a, b, c or d:",
+      "questionRaw": "Choose the option A, B, C, or D that best fits each numbered blank. Check the words around the blank and the purpose of the guide. Your answer must fit both the grammar and the meaning. Question 1 A. daily B. due C. busy D. freeWrite A, B, C or D: {#1} Question 2 A. encouragement B. repetition C. permission D. priorityWrite A, B, C or D: {#2} Question 3 A. routine B. calendar C. mood D. goalWrite A, B, C or D: {#3} Question 4 A. take B. make C. get D. keepWrite A, B, C or D: {#4} Question 5 A. getting B. get C. gets D. to getWrite A, B, C or D: {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Choose the option A, B, C, or D that best fits each numbered blank. Check the words around the blank and the purpose of the guide. Your answer must fit both the grammar and the meaning. Question 1 A. daily B. due C. busy D. freeWrite A, B, C or D: {#1} Question 2 A. encouragement B. repetition C. permission D. priorityWrite A, B, C or D: {#2} Question 3 A. routine B. calendar C. mood D. goalWrite A, B, C or D: {#3} Question 4 A. take B. make C. get D. keepWrite A, B, C or D: {#4} Question 5 A. getting B. get C. gets D. to getWrite A, B, C or D: {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "12",
+      "questionKey": "choose the option a, b, c, or d that best fits each numbered blank. check the words around the blank and the purpose of the guide. your answer must fit both the grammar and the meaning. question 6 a. repetition b. advice c. support d. permissionwrite a, b, c or d: question 7 a. appropriate b. inappropriate c. inappropriately d. appropriatelywrite a, b, c or d: question 8 a. add b. addition c. additional d. additionallywrite a, b, c or d: question 9 a. distractions b. encouragement c. deadlines d. ingredientswrite a, b, c or d: question 10 a. plan b. planning c. planned d. to planwrite a, b, c or d:",
+      "questionRaw": "Choose the option A, B, C, or D that best fits each numbered blank. Check the words around the blank and the purpose of the guide. Your answer must fit both the grammar and the meaning. Question 6 A. repetition B. advice C. support D. permissionWrite A, B, C or D: {#1} Question 7 A. appropriate B. inappropriate C. inappropriately D. appropriatelyWrite A, B, C or D: {#2} Question 8 A. add B. addition C. additional D. additionallyWrite A, B, C or D: {#3} Question 9 A. distractions B. encouragement C. deadlines D. ingredientsWrite A, B, C or D: {#4} Question 10 A. plan B. planning C. planned D. to planWrite A, B, C or D: {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "12",
+      "questionNumber": 12,
+      "question": "Choose the option A, B, C, or D that best fits each numbered blank. Check the words around the blank and the purpose of the guide. Your answer must fit both the grammar and the meaning. Question 6 A. repetition B. advice C. support D. permissionWrite A, B, C or D: {#1} Question 7 A. appropriate B. inappropriate C. inappropriately D. appropriatelyWrite A, B, C or D: {#2} Question 8 A. add B. addition C. additional D. additionallyWrite A, B, C or D: {#3} Question 9 A. distractions B. encouragement C. deadlines D. ingredientsWrite A, B, C or D: {#4} Question 10 A. plan B. planning C. planned D. to planWrite A, B, C or D: {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A",
+      "id": "question-1918951-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: preparing a time-management survey reporta. finally, we organised the findings and advice into a short presentation for the class.b. before the interviews, our group practised asking the five textbook questions about time-management habits.c. during each interview, we recorded the classmate's yes/no answers in a table.d. once the table was complete, we counted each student's yes answers and classified the results.e. we then interviewed five classmates using those questions.a. b – e – c – d – ab. b – e – c – a – dc. e – b – c – a – dd. b – e – d – c – awrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Preparing a Time-Management Survey Reporta. Finally, we organised the findings and advice into a short presentation for the class.b. Before the interviews, our group practised asking the five textbook questions about time-management habits.c. During each interview, we recorded the classmate's Yes/No answers in a table.d. Once the table was complete, we counted each student's Yes answers and classified the results.e. We then interviewed five classmates using those questions.A. b – e – c – d – aB. b – e – c – a – dC. e – b – c – a – dD. b – e – d – c – aWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-3",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: preparing a time-management survey reporta. finally, we organised the findings and advice into a short presentation for the class.b. before the interviews, our group practised asking the five textbook questions about time-management habits.c. during each interview, we recorded the classmate's yes/no answers in a table.d. once the table was complete, we counted each student's yes answers and classified the results.e. we then interviewed five classmates using those questions.a. b – e – c – d – ab. b – e – c – a – dc. e – b – c – a – dd. b – e – d – c – awrite a, b, c or d: {#1}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1918951-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: avoiding phone distractionsa. to stop these interruptions, he turned off notifications and put his phone away.b. nam kept checking messages on his phone while doing his homework.c. after completing the assignment, he took a break and checked his messages.d. these frequent interruptions meant that he made little progress with the assignment.e. with his phone silent and out of reach, he could concentrate and work steadily towards finishing the task.a. b – d – a – c – eb. b – d – a – e – cc. d – b – a – c – ed. b – d – e – a – cwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Avoiding Phone Distractionsa. To stop these interruptions, he turned off notifications and put his phone away.b. Nam kept checking messages on his phone while doing his homework.c. After completing the assignment, he took a break and checked his messages.d. These frequent interruptions meant that he made little progress with the assignment.e. With his phone silent and out of reach, he could concentrate and work steadily towards finishing the task.A. b – d – a – c – eB. b – d – a – e – cC. d – b – a – c – eD. b – d – e – a – cWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-5",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: avoiding phone distractionsa. to stop these interruptions, he turned off notifications and put his phone away.b. nam kept checking messages on his phone while doing his homework.c. after completing the assignment, he took a break and checked his messages.d. these frequent interruptions meant that he made little progress with the assignment.e. with his phone silent and out of reach, he could concentrate and work steadily towards finishing the task.a. b – d – a – c – eb. b – d – a – e – cc. d – b – a – c – ed. b – d – e – a – cwrite a, b, c or d: {#1}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1918951-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: preparing a time-management survey reporta. by completing the assignments in this order, she submitted both before their deadlines.b. once the history assignment was finished, she turned her attention to the science project.c. because the history deadline was closer, she gave that assignment priority and started it first.d. linh had a history assignment due tomorrow and a science project due the following week.a. d – b – c – ab. c – d – a – bc. d – c – b – ad. d – c – a – bwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Preparing a Time-Management Survey Reporta. By completing the assignments in this order, she submitted both before their deadlines.b. Once the history assignment was finished, she turned her attention to the science project.c. Because the history deadline was closer, she gave that assignment priority and started it first.d. Linh had a history assignment due tomorrow and a science project due the following week.A. d – b – c – aB. c – d – a – bC. d – c – b – aD. d – c – a – bWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-4",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: preparing a time-management survey reporta. by completing the assignments in this order, she submitted both before their deadlines.b. once the history assignment was finished, she turned her attention to the science project.c. because the history deadline was closer, she gave that assignment priority and started it first.d. linh had a history assignment due tomorrow and a science project due the following week.a. d – b – c – ab. c – d – a – bc. d – c – b – ad. d – c – a – bwrite a, b, c or d: {#1}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1918951-1",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: planning a busy weeka. to solve this problem, she wrote each assignment and its due date in a calendar and planned when to work on it.b. mai felt stressed out because she had several assignments and did not know how to organise her week.c. at the end of the week, she had completed the planned work and felt calmer.d. following this plan, she worked on a few tasks each day instead of leaving everything until the last evening.a. b – d – a – cb. b – a – d – cc. a – b – d – cd. b – a – c – dwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Planning a Busy Weeka. To solve this problem, she wrote each assignment and its due date in a calendar and planned when to work on it.b. Mai felt stressed out because she had several assignments and did not know how to organise her week.c. At the end of the week, she had completed the planned work and felt calmer.d. Following this plan, she worked on a few tasks each day instead of leaving everything until the last evening.A. b – d – a – cB. b – a – d – cC. a – b – d – cD. b – a – c – dWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-1",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: planning a busy weeka. to solve this problem, she wrote each assignment and its due date in a calendar and planned when to work on it.b. mai felt stressed out because she had several assignments and did not know how to organise her week.c. at the end of the week, she had completed the planned work and felt calmer.d. following this plan, she worked on a few tasks each day instead of leaving everything until the last evening.a. b – d – a – cb. b – a – d – cc. a – b – d – cd. b – a – c – dwrite a, b, c or d: {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1918951-2",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: finding a better balancea. this new schedule gave him time to finish important work, exercise, and get enough sleep.b. to change these habits, he divided his evenings between study, physical activity, and rest.c. during exam preparation, phong spent nearly every evening studying and often went to bed late.d. with a healthier balance between his activities, he felt more alert during morning lessons.e. as a result of these late nights, he often felt tired at school and found it difficult to concentrate.a. c – e – d – b – ab. e – c – b – d – ac. c – e – a – b – dd. c – e – b – a – dwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled sentences to make a coherent paragraph or process description. Choose the correct order A, B, C, or D. Look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. Question: Finding a Better Balancea. This new schedule gave him time to finish important work, exercise, and get enough sleep.b. To change these habits, he divided his evenings between study, physical activity, and rest.c. During exam preparation, Phong spent nearly every evening studying and often went to bed late.d. With a healthier balance between his activities, he felt more alert during morning lessons.e. As a result of these late nights, he often felt tired at school and found it difficult to concentrate.A. c – e – d – b – aB. e – c – b – d – aC. c – e – a – b – dD. c – e – b – a – dWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-2",
+      "questionKey": "arrange the labelled sentences to make a coherent paragraph or process description. choose the correct order a, b, c, or d. look for: a clear opening; references such as this problem, these habits, and this new schedule; reasons and results; actions that must happen before others; a suitable ending. question: finding a better balancea. this new schedule gave him time to finish important work, exercise, and get enough sleep.b. to change these habits, he divided his evenings between study, physical activity, and rest.c. during exam preparation, phong spent nearly every evening studying and often went to bed late.d. with a healthier balance between his activities, he felt more alert during morning lessons.e. as a result of these late nights, he often felt tired at school and found it difficult to concentrate.a. c – e – d – b – ab. e – c – b – d – ac. c – e – a – b – dd. c – e – b – a – dwrite a, b, c or d: {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1918951-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking survey instructionsa. teacher: certainly. write each person's yes/no answers in the table first; count the yes answers afterwards.b. student: understood. we'll record the answers before counting them.c. teacher: record each classmate's answers before you count the yes responses.d. student: could you repeat the instruction, please? i missed the first part.a. c – a – d – bb. c – d – a – bc. d – c – b – ad. c – d – b – awrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking Survey Instructionsa. Teacher: Certainly. Write each person's Yes/No answers in the table first; count the Yes answers afterwards.b. Student: Understood. We'll record the answers before counting them.c. Teacher: Record each classmate's answers before you count the Yes responses.d. Student: Could you repeat the instruction, please? I missed the first part.A. c – a – d – bB. c – d – a – bC. d – c – b – aD. c – d – b – aWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-9",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking survey instructionsa. teacher: certainly. write each person's yes/no answers in the table first; count the yes answers afterwards.b. student: understood. we'll record the answers before counting them.c. teacher: record each classmate's answers before you count the yes responses.d. student: could you repeat the instruction, please? i missed the first part.a. c – a – d – bb. c – d – a – bc. d – c – b – ad. c – d – b – awrite a, b, c or d: {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1918951-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — asking for a booka. linh: of course. here it is.b. bao: i said, \"could you pass me the english book, please?\"c. bao: thank you. i need it to check the time-management tips.d. linh: could you repeat that, please? i couldn't hear you over the noise.e. bao: could you pass me the english book, please?a. e – a – d – b – cb. d – e – b – c – ac. e – b – d – a – cd. e – d – b – a – cwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Asking for a Booka. Linh: Of course. Here it is.b. Bao: I said, \"Could you pass me the English book, please?\"c. Bao: Thank you. I need it to check the time-management tips.d. Linh: Could you repeat that, please? I couldn't hear you over the noise.e. Bao: Could you pass me the English book, please?A. e – a – d – b – cB. d – e – b – c – aC. e – b – d – a – cD. e – d – b – a – cWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-8",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — asking for a booka. linh: of course. here it is.b. bao: i said, \"could you pass me the english book, please?\"c. bao: thank you. i need it to check the time-management tips.d. linh: could you repeat that, please? i couldn't hear you over the noise.e. bao: could you pass me the english book, please?a. e – a – d – b – cb. d – e – b – c – ac. e – b – d – a – cd. e – d – b – a – cwrite a, b, c or d: {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1918951-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking a project's due datea. hoa: next friday. we need to submit it before the afternoon lesson.b. hoa: sorry? i didn't hear your question clearly.c. nam: thanks. i'll put that date in my calendar.d. nam: when is our science project due?e. nam: i asked when our science project is due.a. d – e – b – a – cb. d – b – a – e – cc. d – b – e – a – cd. b – d – e – c – awrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking a Project's Due Datea. Hoa: Next Friday. We need to submit it before the afternoon lesson.b. Hoa: Sorry? I didn't hear your question clearly.c. Nam: Thanks. I'll put that date in my calendar.d. Nam: When is our science project due?e. Nam: I asked when our science project is due.A. d – e – b – a – cB. d – b – a – e – cC. d – b – e – a – cD. b – d – e – c – aWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-6",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking a project's due datea. hoa: next friday. we need to submit it before the afternoon lesson.b. hoa: sorry? i didn't hear your question clearly.c. nam: thanks. i'll put that date in my calendar.d. nam: when is our science project due?e. nam: i asked when our science project is due.a. d – e – b – a – cb. d – b – a – e – cc. d – b – e – a – cd. b – d – e – c – awrite a, b, c or d: {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1918951-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — conducting a time-management surveya. interviewer: thank you. i'll record your answer as yes.b. classmate: yes. i usually make one on sunday evening.c. interviewer: do you often create a schedule to organise your week?d. interviewer: let me ask that again: do you often make a schedule for your week?e. classmate: sorry? could you say the question again?a. c – d – e – b – ab. e – c – d – a – bc. c – e – b – d – ad. c – e – d – b – awrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Conducting a Time-Management Surveya. Interviewer: Thank you. I'll record your answer as Yes.b. Classmate: Yes. I usually make one on Sunday evening.c. Interviewer: Do you often create a schedule to organise your week?d. Interviewer: Let me ask that again: do you often make a schedule for your week?e. Classmate: Sorry? Could you say the question again?A. c – d – e – b – aB. e – c – d – a – bC. c – e – b – d – aD. c – e – d – b – aWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-10",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — conducting a time-management surveya. interviewer: thank you. i'll record your answer as yes.b. classmate: yes. i usually make one on sunday evening.c. interviewer: do you often create a schedule to organise your week?d. interviewer: let me ask that again: do you often make a schedule for your week?e. classmate: sorry? could you say the question again?a. c – d – e – b – ab. e – c – d – a – bc. c – e – b – d – ad. c – e – d – b – awrite a, b, c or d: {#1}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1918951-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking a study-session timea. mai: i beg your pardon. what time did you say?b. phong: let me repeat: our study session starts at four o'clock.c. mai: thanks. i'll arrive a few minutes before four.d. phong: our study session starts at four o'clock this afternoon.a. d – a – b – cb. a – d – c – bc. d – b – a – cd. d – a – c – bwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Arrange the labelled utterances to make a natural conversation. Choose the correct order A, B, C, or D. Look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. Question — Checking a Study-Session Timea. Mai: I beg your pardon. What time did you say?b. Phong: Let me repeat: our study session starts at four o'clock.c. Mai: Thanks. I'll arrive a few minutes before four.d. Phong: Our study session starts at four o'clock this afternoon.A. d – a – b – cB. a – d – c – bC. d – b – a – cD. d – a – c – bWrite A, B, C or D: {#1}",
+      "questionId": "question-1918951-7",
+      "questionKey": "arrange the labelled utterances to make a natural conversation. choose the correct order a, b, c, or d. look for: the first question, request, or instruction; the request for repetition; the repeated or restated message; an appropriate answer; a natural acknowledgement or closing. question — checking a study-session timea. mai: i beg your pardon. what time did you say?b. phong: let me repeat: our study session starts at four o'clock.c. mai: thanks. i'll arrive a few minutes before four.d. phong: our study session starts at four o'clock this afternoon.a. d – a – b – cb. a – d – c – bc. d – b – a – cd. d – a – c – bwrite a, b, c or d: {#1}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1918951-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "questionNumber": 4,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "choose the option a, b, c, or d that best fits each numbered blank. check the words around the blank and the purpose of the guide. your answer must fit both the grammar and the meaning. question 1 a. daily b. due c. busy d. freewrite a, b, c or d: {#1} question 2 a. encouragement b. repetition c. permission d. prioritywrite a, b, c or d: {#2} question 3 a. routine b. calendar c. mood d. goalwrite a, b, c or d: {#3} question 4 a. take b. make c. get d. keepwrite a, b, c or d: {#4} question 5 a. getting b. get c. gets d. to getwrite a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "Choose the option A, B, C, or D that best fits each numbered blank. Check the words around the blank and the purpose of the guide. Your answer must fit both the grammar and the meaning. Question 1 A. daily B. due C. busy D. freeWrite A, B, C or D: {#1} Question 2 A. encouragement B. repetition C. permission D. priorityWrite A, B, C or D: {#2} Question 3 A. routine B. calendar C. mood D. goalWrite A, B, C or D: {#3} Question 4 A. take B. make C. get D. keepWrite A, B, C or D: {#4} Question 5 A. getting B. get C. gets D. to getWrite A, B, C or D: {#5}",
+      "questionId": "question-1918951-11",
+      "questionKey": "choose the option a, b, c, or d that best fits each numbered blank. check the words around the blank and the purpose of the guide. your answer must fit both the grammar and the meaning. question 1 a. daily b. due c. busy d. freewrite a, b, c or d: {#1} question 2 a. encouragement b. repetition c. permission d. prioritywrite a, b, c or d: {#2} question 3 a. routine b. calendar c. mood d. goalwrite a, b, c or d: {#3} question 4 a. take b. make c. get d. keepwrite a, b, c or d: {#4} question 5 a. getting b. get c. gets d. to getwrite a, b, c or d: {#5}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1918951-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "questionNumber": 7,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "questionNumber": 7,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "questionNumber": 9,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 9,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "choose the option a, b, c, or d that best fits each numbered blank. check the words around the blank and the purpose of the guide. your answer must fit both the grammar and the meaning. question 6 a. repetition b. advice c. support d. permissionwrite a, b, c or d: {#1} question 7 a. appropriate b. inappropriate c. inappropriately d. appropriatelywrite a, b, c or d: {#2} question 8 a. add b. addition c. additional d. additionallywrite a, b, c or d: {#3} question 9 a. distractions b. encouragement c. deadlines d. ingredientswrite a, b, c or d: {#4} question 10 a. plan b. planning c. planned d. to planwrite a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "Choose the option A, B, C, or D that best fits each numbered blank. Check the words around the blank and the purpose of the guide. Your answer must fit both the grammar and the meaning. Question 6 A. repetition B. advice C. support D. permissionWrite A, B, C or D: {#1} Question 7 A. appropriate B. inappropriate C. inappropriately D. appropriatelyWrite A, B, C or D: {#2} Question 8 A. add B. addition C. additional D. additionallyWrite A, B, C or D: {#3} Question 9 A. distractions B. encouragement C. deadlines D. ingredientsWrite A, B, C or D: {#4} Question 10 A. plan B. planning C. planned D. to planWrite A, B, C or D: {#5}",
+      "questionId": "question-1918951-12",
+      "questionKey": "choose the option a, b, c, or d that best fits each numbered blank. check the words around the blank and the purpose of the guide. your answer must fit both the grammar and the meaning. question 6 a. repetition b. advice c. support d. permissionwrite a, b, c or d: {#1} question 7 a. appropriate b. inappropriate c. inappropriately d. appropriatelywrite a, b, c or d: {#2} question 8 a. add b. addition c. additional d. additionallywrite a, b, c or d: {#3} question 9 a. distractions b. encouragement c. deadlines d. ingredientswrite a, b, c or d: {#4} question 10 a. plan b. planning c. planned d. to planwrite a, b, c or d: {#5}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
