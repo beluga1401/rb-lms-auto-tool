@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "account_name": "Phạm Phương Nam",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4",
+    "unit_key": "session_4",
+    "quiz_title": "GR9EX36MOET",
+    "quiz_key": "gr9ex36moet",
+    "cmid": "743015",
+    "course_id": "4771",
+    "repo_path": "cloud_configs/khoi_9/session_4/gr9ex36moet.json",
+    "score": "95.00 trên 100.00",
+    "score_pct": 95.0,
+    "question_count": 30,
+    "updated_at": "2026-10-25 21:08:33"
+  },
+  "answers": [
+    {
+      "id": "question-1919116-4",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.at ten o'clock yesterday morning, the students were listening to a guide inside the communal house. they ________ traditional games outside at that time.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. At ten o’clock yesterday morning, the students were listening to a guide inside the communal house. They ________ traditional games outside at that time.",
+      "options": [
+        "weren't playing"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-4",
+      "questionNumber": 9,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.At ten o'clock yesterday morning, the students were listening to a guide inside the communal house. They ________ traditional games outside at that time.",
+      "answer": "weren't playing",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.at ten o'clock yesterday morning, the students were listening to a guide inside the communal house. they ________ traditional games outside at that time.",
+      "letter": "C",
+      "rightAnswer": "weren't playing"
+    },
+    {
+      "id": "question-1919116-10",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.lan lives far from her grandparents and cannot visit them often. she wishes she ________ closer so that they could spend more time talking face to face.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. Lan lives far from her grandparents and cannot visit them often. She wishes she ________ closer so that they could spend more time talking face to face.",
+      "options": [
+        "lived"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-10",
+      "questionNumber": 6,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.Lan lives far from her grandparents and cannot visit them often. She wishes she ________ closer so that they could spend more time talking face to face.",
+      "answer": "lived",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.lan lives far from her grandparents and cannot visit them often. she wishes she ________ closer so that they could spend more time talking face to face.",
+      "letter": "A",
+      "rightAnswer": "lived"
+    },
+    {
+      "id": "question-1919116-5",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.when you called your grandfather last night, ________ his old school days to your younger sister?",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. When you called your grandfather last night, ________ his old school days to your younger sister?",
+      "options": [
+        "was he describing"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-5",
+      "questionNumber": 3,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.When you called your grandfather last night, ________ his old school days to your younger sister?",
+      "answer": "was he describing",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.when you called your grandfather last night, ________ his old school days to your younger sister?",
+      "letter": "C",
+      "rightAnswer": "was he describing"
+    },
+    {
+      "id": "question-1919116-1",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.at three o'clock yesterday afternoon, mai and lan ________ the wooden doors of the historic structure. they were halfway through checking their condition.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. At three o’clock yesterday afternoon, Mai and Lan ________ the wooden doors of the historic structure. They were halfway through checking their condition.",
+      "options": [
+        "were examining"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-1",
+      "questionNumber": 8,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.At three o'clock yesterday afternoon, Mai and Lan ________ the wooden doors of the historic structure. They were halfway through checking their condition.",
+      "answer": "were examining",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.at three o'clock yesterday afternoon, mai and lan ________ the wooden doors of the historic structure. they were halfway through checking their condition.",
+      "letter": "A",
+      "rightAnswer": "were examining"
+    },
+    {
+      "id": "question-1919116-3",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.during yesterday's presentation, mai ________ the ingredients of a traditional dish while her group members were showing pictures of it.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. During yesterday’s presentation, Mai ________ the ingredients of a traditional dish while her group members were showing pictures of it.",
+      "options": [
+        "was explaining"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-3",
+      "questionNumber": 4,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.During yesterday's presentation, Mai ________ the ingredients of a traditional dish while her group members were showing pictures of it.",
+      "answer": "was explaining",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.during yesterday's presentation, mai ________ the ingredients of a traditional dish while her group members were showing pictures of it.",
+      "letter": "C",
+      "rightAnswer": "was explaining"
+    },
+    {
+      "id": "question-1919116-6",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.mai wants to borrow more books about cultural heritage, but she does not have enough time to read them. she wishes she ________ more free time.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. Mai wants to borrow more books about cultural heritage, but she does not have enough time to read them. She wishes she ________ more free time.",
+      "options": [
+        "had"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-6",
+      "questionNumber": 2,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.Mai wants to borrow more books about cultural heritage, but she does not have enough time to read them. She wishes she ________ more free time.",
+      "answer": "had",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.mai wants to borrow more books about cultural heritage, but she does not have enough time to read them. she wishes she ________ more free time.",
+      "letter": "D",
+      "rightAnswer": "had"
+    },
+    {
+      "id": "7",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order. we know very little about the meaning of our family’s rituals. we wish we ________ more about these traditions.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. We know very little about the meaning of our family’s rituals. We wish we ________ more about these traditions.",
+      "options": [
+        "knew Correct. Wish we knew expresses a desire for more knowledge now."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. We know very little about the meaning of our family’s rituals. We wish we ________ more about these traditions.",
+      "answer": "knew Correct. Wish we knew expresses a desire for more knowledge now.",
+      "dragdrops": []
+    },
+    {
+      "id": "question-1919116-8",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.we cannot travel abroad at present, but we are interested in angkor wat. we wish we ________ that religious monument.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. We cannot travel abroad at present, but we are interested in Angkor Wat. We wish we ________ that religious monument.",
+      "options": [
+        "could visit"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-8",
+      "questionNumber": 10,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.We cannot travel abroad at present, but we are interested in Angkor Wat. We wish we ________ that religious monument.",
+      "answer": "could visit",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.we cannot travel abroad at present, but we are interested in angkor wat. we wish we ________ that religious monument.",
+      "letter": "B",
+      "rightAnswer": "could visit"
+    },
+    {
+      "id": "question-1919116-7",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.i have so much homework that i rarely have time for leisure activities. i wish i ________ so much homework.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. I have so much homework that I rarely have time for leisure activities. I wish I ________ so much homework.",
+      "options": [
+        "didn't have"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-7",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.I have so much homework that I rarely have time for leisure activities. I wish I ________ so much homework.",
+      "answer": "didn't have",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.i have so much homework that i rarely have time for leisure activities. i wish i ________ so much homework.",
+      "letter": "C",
+      "rightAnswer": "didn't have"
+    },
+    {
+      "id": "question-1919116-2",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.while we ________ around the communal house yesterday, the guide pointed out some well-preserved decorations.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order. While we ________ around the communal house yesterday, the guide pointed out some well-preserved decorations.",
+      "options": [
+        "were looking"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1919116-2",
+      "questionNumber": 5,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Check time, meaning, agreement, and word order.While we ________ around the communal house yesterday, the guide pointed out some well-preserved decorations.",
+      "answer": "were looking",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. check time, meaning, agreement, and word order.while we ________ around the communal house yesterday, the guide pointed out some well-preserved decorations.",
+      "letter": "B",
+      "rightAnswer": "were looking"
+    },
+    {
+      "id": "11",
+      "questionKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 1a. promotionb. recognitionc. gratituded. occupationwrite a, b, c or d: question 2a. face to faceb. by phonec. through messagesd. by email write a, b, c or d: question 3a. are looking atb. have looked atc. look atd. were looking at write a, b, c or d: question 4a. traditionb. contributionc. occasiond. ingredient write a, b, c or d:",
+      "questionRaw": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 1A. promotionB. recognitionC. gratitudeD. occupationWrite A, B, C or D: {#1} Question 2A. face to faceB. by phoneC. through messagesD. by email Write A, B, C or D: {#2} Question 3A. are looking atB. have looked atC. look atD. were looking at Write A, B, C or D: {#3} Question 4A. traditionB. contributionC. occasionD. ingredient Write A, B, C or D: {#4}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 1A. promotionB. recognitionC. gratitudeD. occupationWrite A, B, C or D: {#1} Question 2A. face to faceB. by phoneC. through messagesD. by email Write A, B, C or D: {#2} Question 3A. are looking atB. have looked atC. look atD. were looking at Write A, B, C or D: {#3} Question 4A. traditionB. contributionC. occasionD. ingredient Write A, B, C or D: {#4}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "12",
+      "questionKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 8a. well-preservedb. badly damagedc. recently takend. heavily markedwrite a, b, c or d: question 9a. festivalsb. occasionsc. generationsd. ceremonieswrite a, b, c or d: question 10a. canb. willc. mayd. couldwrite a, b, c or d:",
+      "questionRaw": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 8A. well-preservedB. badly damagedC. recently takenD. heavily markedWrite A, B, C or D: {#1} Question 9A. festivalsB. occasionsC. generationsD. ceremoniesWrite A, B, C or D: {#2} Question 10A. canB. willC. mayD. couldWrite A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "12",
+      "questionNumber": 12,
+      "question": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 8A. well-preservedB. badly damagedC. recently takenD. heavily markedWrite A, B, C or D: {#1} Question 9A. festivalsB. occasionsC. generationsD. ceremoniesWrite A, B, C or D: {#2} Question 10A. canB. willC. mayD. couldWrite A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "13",
+      "questionKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 5a. craftsmanshipb. agriculturec. clothingd. cuisinewrite a, b, c or d: question 6a. utensilsb. ingredientsc. methodsd. recipes write a, b, c or d: question 7a. household dutyb. school assignmentc. leisure activityd. public ceremonywrite a, b, c or d:",
+      "questionRaw": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 5A. craftsmanshipB. agricultureC. clothingD. cuisineWrite A, B, C or D: {#1} Question 6A. utensilsB. ingredientsC. methodsD. recipes Write A, B, C or D: {#2} Question 7A. household dutyB. school assignmentC. leisure activityD. public ceremonyWrite A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "13",
+      "questionNumber": 13,
+      "question": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 5A. craftsmanshipB. agricultureC. clothingD. cuisineWrite A, B, C or D: {#1} Question 6A. utensilsB. ingredientsC. methodsD. recipes Write A, B, C or D: {#2} Question 7A. household dutyB. school assignmentC. leisure activityD. public ceremonyWrite A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C",
+      "id": "question-1919116-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 1a. promotionb. recognitionc. gratituded. occupationwrite a, b, c or d: {#1} question 2a. face to faceb. by phonec. through messagesd. by email write a, b, c or d: {#2} question 3a. are looking atb. have looked atc. look atd. were looking at write a, b, c or d: {#3} question 4a. traditionb. contributionc. occasiond. ingredient write a, b, c or d: {#4}",
+      "letter": "",
+      "options": [],
+      "question": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 1A. promotionB. recognitionC. gratitudeD. occupationWrite A, B, C or D: {#1} Question 2A. face to faceB. by phoneC. through messagesD. by email Write A, B, C or D: {#2} Question 3A. are looking atB. have looked atC. look atD. were looking at Write A, B, C or D: {#3} Question 4A. traditionB. contributionC. occasionD. ingredient Write A, B, C or D: {#4}",
+      "questionId": "question-1919116-11",
+      "questionKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 1a. promotionb. recognitionc. gratituded. occupationwrite a, b, c or d: {#1} question 2a. face to faceb. by phonec. through messagesd. by email write a, b, c or d: {#2} question 3a. are looking atb. have looked atc. look atd. were looking at write a, b, c or d: {#3} question 4a. traditionb. contributionc. occasiond. ingredient write a, b, c or d: {#4}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1919116-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "questionNumber": 5,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 5a. craftsmanshipb. agriculturec. clothingd. cuisinewrite a, b, c or d: {#1} question 6a. utensilsb. ingredientsc. methodsd. recipes write a, b, c or d: {#2} question 7a. household dutyb. school assignmentc. leisure activityd. public ceremonywrite a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 5A. craftsmanshipB. agricultureC. clothingD. cuisineWrite A, B, C or D: {#1} Question 6A. utensilsB. ingredientsC. methodsD. recipes Write A, B, C or D: {#2} Question 7A. household dutyB. school assignmentC. leisure activityD. public ceremonyWrite A, B, C or D: {#3}",
+      "questionId": "question-1919116-12",
+      "questionKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 5a. craftsmanshipb. agriculturec. clothingd. cuisinewrite a, b, c or d: {#1} question 6a. utensilsb. ingredientsc. methodsd. recipes write a, b, c or d: {#2} question 7a. household dutyb. school assignmentc. leisure activityd. public ceremonywrite a, b, c or d: {#3}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1919116-13",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "questionNumber": 8,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 9,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 8a. well-preservedb. badly damagedc. recently takend. heavily markedwrite a, b, c or d: {#1} question 9a. festivalsb. occasionsc. generationsd. ceremonieswrite a, b, c or d: {#2} question 10a. canb. willc. mayd. couldwrite a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Read each complete text. Choose A, B, C, or D for each blank.These texts describe fictional classroom and family situations. Question 8A. well-preservedB. badly damagedC. recently takenD. heavily markedWrite A, B, C or D: {#1} Question 9A. festivalsB. occasionsC. generationsD. ceremoniesWrite A, B, C or D: {#2} Question 10A. canB. willC. mayD. couldWrite A, B, C or D: {#3}",
+      "questionId": "question-1919116-13",
+      "questionKey": "read each complete text. choose a, b, c, or d for each blank.these texts describe fictional classroom and family situations. question 8a. well-preservedb. badly damagedc. recently takend. heavily markedwrite a, b, c or d: {#1} question 9a. festivalsb. occasionsc. generationsd. ceremonieswrite a, b, c or d: {#2} question 10a. canb. willc. mayd. couldwrite a, b, c or d: {#3}",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
