@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-26T13:21:23Z",
-  "total_questions": 82,
+  "updated_at": "2026-10-26T13:25:19Z",
+  "total_questions": 108,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -1302,6 +1302,530 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 2 understanding a family traditiona after hearing this description we asked why the family continued the practice b grandma described how our family gathers each year to remember ancestors on their death anniversaries c we recorded this answer beside the description of the practice in our interview report d we wanted to understand one of our family traditions so we interviewed grandma e she answered that it was a way to show gratitude to earlier generations a d a b e cb d b e a cc d b a c ed d b a e cwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 2: Understanding a Family Traditiona. After hearing this description, we asked why the family continued the practice.b. Grandma described how our family gathers each year to remember ancestors on their death anniversaries.c. We recorded this answer beside the description of the practice in our interview report.d. We wanted to understand one of our family traditions, so we interviewed Grandma.e. She answered that it was a way to show gratitude to earlier generations.A. d – a – b – e – cB. d – b – e – a – cC. d – b – a – c – eD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 2 understanding a family traditiona after hearing this description we asked why the family continued the practice b grandma described how our family gathers each year to remember ancestors on their death anniversaries c we recorded this answer beside the description of the practice in our interview report d we wanted to understand one of our family traditions so we interviewed grandma e she answered that it was a way to show gratitude to earlier generations a d a b e cb d b e a cc d b a c ed d b a e cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 2 understanding a family traditiona after hearing this description we asked why the family continued the practice b grandma described how our family gathers each year to remember ancestors on their death anniversaries c we recorded this answer beside the description of the practice in our interview report d we wanted to understand one of our family traditions so we interviewed grandma e she answered that it was a way to show gratitude to earlier generations a d a b e cb d b e a cc d b a c ed d b a e cwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 2 understanding a family traditiona after hearing this description we asked why the family continued the practice b grandma described how our family gathers each year to remember ancestors on their death anniversaries c we recorded this answer beside the description of the practice in our interview report d we wanted to understand one of our family traditions so we interviewed grandma e she answered that it was a way to show gratitude to earlier generations a d a b e cb d b e a cc d b a c ed d b a e cwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 2: Understanding a Family Traditiona. After hearing this description, we asked why the family continued the practice.b. Grandma described how our family gathers each year to remember ancestors on their death anniversaries.c. We recorded this answer beside the description of the practice in our interview report.d. We wanted to understand one of our family traditions, so we interviewed Grandma.e. She answered that it was a way to show gratitude to earlier generations.A. d – a – b – e – cB. d – b – e – a – cC. d – b – a – c – eD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 2 understanding a family traditiona after hearing this description we asked why the family continued the practice b grandma described how our family gathers each year to remember ancestors on their death anniversaries c we recorded this answer beside the description of the practice in our interview report d we wanted to understand one of our family traditions so we interviewed grandma e she answered that it was a way to show gratitude to earlier generations a d a b e cb d b e a cc d b a c ed d b a e cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 2 understanding a family traditiona after hearing this description we asked why the family continued the practice b grandma described how our family gathers each year to remember ancestors on their death anniversaries c we recorded this answer beside the description of the practice in our interview report d we wanted to understand one of our family traditions so we interviewed grandma e she answered that it was a way to show gratitude to earlier generations a d a b e cb d b e a cc d b a c ed d b a e cwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 4 is not a textbook listening extract question 4 grandma s school morninga when they reached school the three children joined their classmates in the playground b grandma described a school morning from her childhood c after the games ended they went into their classroom for the first lesson d there they played traditional games until it was time for lessons e she set off on foot with two neighbours walking along a path to school a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations.Question 4 is not a textbook listening extract. Question 4: Grandma’s School Morninga. When they reached school, the three children joined their classmates in the playground.b. Grandma described a school morning from her childhood.c. After the games ended, they went into their classroom for the first lesson.d. There, they played traditional games until it was time for lessons.e. She set off on foot with two neighbours, walking along a path to school.A. b – a – e – d – cB. b – e – a – d – cC. b – e – d – a – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 4 is not a textbook listening extract question 4 grandma s school morninga when they reached school the three children joined their classmates in the playground b grandma described a school morning from her childhood c after the games ended they went into their classroom for the first lesson d there they played traditional games until it was time for lessons e she set off on foot with two neighbours walking along a path to school a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 4 is not a textbook listening extract question 4 grandma s school morninga when they reached school the three children joined their classmates in the playground b grandma described a school morning from her childhood c after the games ended they went into their classroom for the first lesson d there they played traditional games until it was time for lessons e she set off on foot with two neighbours walking along a path to school a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 4 is not a textbook listening extract question 4 grandma s school morninga when they reached school the three children joined their classmates in the playground b grandma described a school morning from her childhood c after the games ended they went into their classroom for the first lesson d there they played traditional games until it was time for lessons e she set off on foot with two neighbours walking along a path to school a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations.Question 4 is not a textbook listening extract. Question 4: Grandma’s School Morninga. When they reached school, the three children joined their classmates in the playground.b. Grandma described a school morning from her childhood.c. After the games ended, they went into their classroom for the first lesson.d. There, they played traditional games until it was time for lessons.e. She set off on foot with two neighbours, walking along a path to school.A. b – a – e – d – cB. b – e – a – d – cC. b – e – d – a – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 4 is not a textbook listening extract question 4 grandma s school morninga when they reached school the three children joined their classmates in the playground b grandma described a school morning from her childhood c after the games ended they went into their classroom for the first lesson d there they played traditional games until it was time for lessons e she set off on foot with two neighbours walking along a path to school a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 4 is not a textbook listening extract question 4 grandma s school morninga when they reached school the three children joined their classmates in the playground b grandma described a school morning from her childhood c after the games ended they went into their classroom for the first lesson d there they played traditional games until it was time for lessons e she set off on foot with two neighbours walking along a path to school a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 3 preparing a traditional dish presentationa our group chose a traditional dish for our cuisine presentation b using this list we prepared the dish together and took a photograph of the result c we wrote a list of the basic ingredients needed to make it d beside this photograph we added a caption explaining the occasion when the dish is eaten e with the photograph and its caption ready we ended our presentation notes with our opinions about the dish a a c b d eb a b c d ec a c d b ed a c b e dwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 3: Preparing a Traditional-Dish Presentationa. Our group chose a traditional dish for our cuisine presentation.b. Using this list, we prepared the dish together and took a photograph of the result.c. We wrote a list of the basic ingredients needed to make it.d. Beside this photograph, we added a caption explaining the occasion when the dish is eaten.e. With the photograph and its caption ready, we ended our presentation notes with our opinions about the dish.A. a – c – b – d – eB. a – b – c – d – eC. a – c – d – b – eD. a – c – b – e – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 3 preparing a traditional dish presentationa our group chose a traditional dish for our cuisine presentation b using this list we prepared the dish together and took a photograph of the result c we wrote a list of the basic ingredients needed to make it d beside this photograph we added a caption explaining the occasion when the dish is eaten e with the photograph and its caption ready we ended our presentation notes with our opinions about the dish a a c b d eb a b c d ec a c d b ed a c b e dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 3 preparing a traditional dish presentationa our group chose a traditional dish for our cuisine presentation b using this list we prepared the dish together and took a photograph of the result c we wrote a list of the basic ingredients needed to make it d beside this photograph we added a caption explaining the occasion when the dish is eaten e with the photograph and its caption ready we ended our presentation notes with our opinions about the dish a a c b d eb a b c d ec a c d b ed a c b e dwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 3 preparing a traditional dish presentationa our group chose a traditional dish for our cuisine presentation b using this list we prepared the dish together and took a photograph of the result c we wrote a list of the basic ingredients needed to make it d beside this photograph we added a caption explaining the occasion when the dish is eaten e with the photograph and its caption ready we ended our presentation notes with our opinions about the dish a a c b d eb a b c d ec a c d b ed a c b e dwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 3: Preparing a Traditional-Dish Presentationa. Our group chose a traditional dish for our cuisine presentation.b. Using this list, we prepared the dish together and took a photograph of the result.c. We wrote a list of the basic ingredients needed to make it.d. Beside this photograph, we added a caption explaining the occasion when the dish is eaten.e. With the photograph and its caption ready, we ended our presentation notes with our opinions about the dish.A. a – c – b – d – eB. a – b – c – d – eC. a – c – d – b – eD. a – c – b – e – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 3 preparing a traditional dish presentationa our group chose a traditional dish for our cuisine presentation b using this list we prepared the dish together and took a photograph of the result c we wrote a list of the basic ingredients needed to make it d beside this photograph we added a caption explaining the occasion when the dish is eaten e with the photograph and its caption ready we ended our presentation notes with our opinions about the dish a a c b d eb a b c d ec a c d b ed a c b e dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 3 preparing a traditional dish presentationa our group chose a traditional dish for our cuisine presentation b using this list we prepared the dish together and took a photograph of the result c we wrote a list of the basic ingredients needed to make it d beside this photograph we added a caption explaining the occasion when the dish is eaten e with the photograph and its caption ready we ended our presentation notes with our opinions about the dish a a c b d eb a b c d ec a c d b ed a c b e dwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 5 from information to presentationa we used these categories as section headings and placed the relevant pictures and notes beneath them b we sorted the collected material into three categories transport home life and community services c once these sections were complete we checked the captions and rehearsed our talk d our group gathered interview notes and pictures about life in our neighbourhood forty years ago e after the rehearsal we made a few final changes and gave our poster presentation to the class a d a b c eb d b c a ec d b a c ed d b a e cwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 5: From Information to Presentationa. We used these categories as section headings and placed the relevant pictures and notes beneath them.b. We sorted the collected material into three categories: transport, home life, and community services.c. Once these sections were complete, we checked the captions and rehearsed our talk.d. Our group gathered interview notes and pictures about life in our neighbourhood forty years ago.e. After the rehearsal, we made a few final changes and gave our poster presentation to the class.A. d – a – b – c – eB. d – b – c – a – eC. d – b – a – c – eD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 5 from information to presentationa we used these categories as section headings and placed the relevant pictures and notes beneath them b we sorted the collected material into three categories transport home life and community services c once these sections were complete we checked the captions and rehearsed our talk d our group gathered interview notes and pictures about life in our neighbourhood forty years ago e after the rehearsal we made a few final changes and gave our poster presentation to the class a d a b c eb d b c a ec d b a c ed d b a e cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 5 from information to presentationa we used these categories as section headings and placed the relevant pictures and notes beneath them b we sorted the collected material into three categories transport home life and community services c once these sections were complete we checked the captions and rehearsed our talk d our group gathered interview notes and pictures about life in our neighbourhood forty years ago e after the rehearsal we made a few final changes and gave our poster presentation to the class a d a b c eb d b c a ec d b a c ed d b a e cwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 5 from information to presentationa we used these categories as section headings and placed the relevant pictures and notes beneath them b we sorted the collected material into three categories transport home life and community services c once these sections were complete we checked the captions and rehearsed our talk d our group gathered interview notes and pictures about life in our neighbourhood forty years ago e after the rehearsal we made a few final changes and gave our poster presentation to the class a d a b c eb d b c a ec d b a c ed d b a e cwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 5: From Information to Presentationa. We used these categories as section headings and placed the relevant pictures and notes beneath them.b. We sorted the collected material into three categories: transport, home life, and community services.c. Once these sections were complete, we checked the captions and rehearsed our talk.d. Our group gathered interview notes and pictures about life in our neighbourhood forty years ago.e. After the rehearsal, we made a few final changes and gave our poster presentation to the class.A. d – a – b – c – eB. d – b – c – a – eC. d – b – a – c – eD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 5 from information to presentationa we used these categories as section headings and placed the relevant pictures and notes beneath them b we sorted the collected material into three categories transport home life and community services c once these sections were complete we checked the captions and rehearsed our talk d our group gathered interview notes and pictures about life in our neighbourhood forty years ago e after the rehearsal we made a few final changes and gave our poster presentation to the class a d a b c eb d b c a ec d b a c ed d b a e cwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 5 from information to presentationa we used these categories as section headings and placed the relevant pictures and notes beneath them b we sorted the collected material into three categories transport home life and community services c once these sections were complete we checked the captions and rehearsed our talk d our group gathered interview notes and pictures about life in our neighbourhood forty years ago e after the rehearsal we made a few final changes and gave our poster presentation to the class a d a b c eb d b c a ec d b a c ed d b a e cwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 1 a heritage visita during the visit our guide pointed out its well preserved roof and carved wooden doors b we used this explanation to write our poster s main message preserve heritage for future generations c our group visited an old communal house to learn why it should be preserved d he explained that keeping these features safe would allow people in the future to enjoy them e after writing this main message we added pictures of the features we had seen to complete our poster a c d a b eb c a d b ec c a b d ed c a d e bwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 1: A Heritage Visita. During the visit, our guide pointed out its well-preserved roof and carved wooden doors.b. We used this explanation to write our poster’s main message: preserve heritage for future generations.c. Our group visited an old communal house to learn why it should be preserved.d. He explained that keeping these features safe would allow people in the future to enjoy them.e. After writing this main message, we added pictures of the features we had seen to complete our poster.A. c – d – a – b – eB. c – a – d – b – eC. c – a – b – d – eD. c – a – d – e – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 1 a heritage visita during the visit our guide pointed out its well preserved roof and carved wooden doors b we used this explanation to write our poster s main message preserve heritage for future generations c our group visited an old communal house to learn why it should be preserved d he explained that keeping these features safe would allow people in the future to enjoy them e after writing this main message we added pictures of the features we had seen to complete our poster a c d a b eb c a d b ec c a b d ed c a d e bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 1 a heritage visita during the visit our guide pointed out its well preserved roof and carved wooden doors b we used this explanation to write our poster s main message preserve heritage for future generations c our group visited an old communal house to learn why it should be preserved d he explained that keeping these features safe would allow people in the future to enjoy them e after writing this main message we added pictures of the features we had seen to complete our poster a c d a b eb c a d b ec c a b d ed c a d e bwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 1 a heritage visita during the visit our guide pointed out its well preserved roof and carved wooden doors b we used this explanation to write our poster s main message preserve heritage for future generations c our group visited an old communal house to learn why it should be preserved d he explained that keeping these features safe would allow people in the future to enjoy them e after writing this main message we added pictures of the features we had seen to complete our poster a c d a b eb c a d b ec c a b d ed c a d e bwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the sentences into a coherent paragraph.These are fictional learning situations. Question 1: A Heritage Visita. During the visit, our guide pointed out its well-preserved roof and carved wooden doors.b. We used this explanation to write our poster’s main message: preserve heritage for future generations.c. Our group visited an old communal house to learn why it should be preserved.d. He explained that keeping these features safe would allow people in the future to enjoy them.e. After writing this main message, we added pictures of the features we had seen to complete our poster.A. c – d – a – b – eB. c – a – d – b – eC. c – a – b – d – eD. c – a – d – e – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 1 a heritage visita during the visit our guide pointed out its well preserved roof and carved wooden doors b we used this explanation to write our poster s main message preserve heritage for future generations c our group visited an old communal house to learn why it should be preserved d he explained that keeping these features safe would allow people in the future to enjoy them e after writing this main message we added pictures of the features we had seen to complete our poster a c d a b eb c a d b ec c a b d ed c a d e bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the sentences into a coherent paragraph these are fictional learning situations question 1 a heritage visita during the visit our guide pointed out its well preserved roof and carved wooden doors b we used this explanation to write our poster s main message preserve heritage for future generations c our group visited an old communal house to learn why it should be preserved d he explained that keeping these features safe would allow people in the future to enjoy them e after writing this main message we added pictures of the features we had seen to complete our poster a c d a b eb c a d b ec c a b d ed c a d e bwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 3 borrowing a booka friend no problem please return it next monday b friend here s the book about family traditions that you wanted to borrow c friend that sounds good enjoy reading it this weekend and i ll see you on monday d lan monday suits me i ll read it over the weekend and bring it back then e lan thanks a lot for lending it to me when would you like it back a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 3: Borrowing a Booka. Friend: No problem. Please return it next Monday.b. Friend: Here’s the book about family traditions that you wanted to borrow.c. Friend: That sounds good. Enjoy reading it this weekend, and I’ll see you on Monday.d. Lan: Monday suits me. I’ll read it over the weekend and bring it back then.e. Lan: Thanks a lot for lending it to me. When would you like it back?A. b – a – e – d – cB. b – e – a – d – cC. b – e – d – a – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 3 borrowing a booka friend no problem please return it next monday b friend here s the book about family traditions that you wanted to borrow c friend that sounds good enjoy reading it this weekend and i ll see you on monday d lan monday suits me i ll read it over the weekend and bring it back then e lan thanks a lot for lending it to me when would you like it back a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 3 borrowing a booka friend no problem please return it next monday b friend here s the book about family traditions that you wanted to borrow c friend that sounds good enjoy reading it this weekend and i ll see you on monday d lan monday suits me i ll read it over the weekend and bring it back then e lan thanks a lot for lending it to me when would you like it back a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 3 borrowing a booka friend no problem please return it next monday b friend here s the book about family traditions that you wanted to borrow c friend that sounds good enjoy reading it this weekend and i ll see you on monday d lan monday suits me i ll read it over the weekend and bring it back then e lan thanks a lot for lending it to me when would you like it back a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 3: Borrowing a Booka. Friend: No problem. Please return it next Monday.b. Friend: Here’s the book about family traditions that you wanted to borrow.c. Friend: That sounds good. Enjoy reading it this weekend, and I’ll see you on Monday.d. Lan: Monday suits me. I’ll read it over the weekend and bring it back then.e. Lan: Thanks a lot for lending it to me. When would you like it back?A. b – a – e – d – cB. b – e – a – d – cC. b – e – d – a – cD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 3 borrowing a booka friend no problem please return it next monday b friend here s the book about family traditions that you wanted to borrow c friend that sounds good enjoy reading it this weekend and i ll see you on monday d lan monday suits me i ll read it over the weekend and bring it back then e lan thanks a lot for lending it to me when would you like it back a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 3 borrowing a booka friend no problem please return it next monday b friend here s the book about family traditions that you wanted to borrow c friend that sounds good enjoy reading it this weekend and i ll see you on monday d lan monday suits me i ll read it over the weekend and bring it back then e lan thanks a lot for lending it to me when would you like it back a b a e d cb b e a d cc b e d a cd b e a c dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 1 after a heritage visita student thank you very much for showing us around which feature would you suggest including in our poster b student then we ll choose the roof and explain why it should be preserved c guide that brings our tour of the communal house to an end d guide you re welcome i suggest the well preserved wooden roof e guide good your decision to choose the roof gives your poster a clear focus a c a d b eb c d a b ec c a b d ed c a d e bwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 1: After a Heritage Visita. Student: Thank you very much for showing us around. Which feature would you suggest including in our poster?b. Student: Then we’ll choose the roof and explain why it should be preserved.c. Guide: That brings our tour of the communal house to an end.d. Guide: You’re welcome. I suggest the well-preserved wooden roof.e. Guide: Good. Your decision to choose the roof gives your poster a clear focus.A. c – a – d – b – eB. c – d – a – b – eC. c – a – b – d – eD. c – a – d – e – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 1 after a heritage visita student thank you very much for showing us around which feature would you suggest including in our poster b student then we ll choose the roof and explain why it should be preserved c guide that brings our tour of the communal house to an end d guide you re welcome i suggest the well preserved wooden roof e guide good your decision to choose the roof gives your poster a clear focus a c a d b eb c d a b ec c a b d ed c a d e bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 1 after a heritage visita student thank you very much for showing us around which feature would you suggest including in our poster b student then we ll choose the roof and explain why it should be preserved c guide that brings our tour of the communal house to an end d guide you re welcome i suggest the well preserved wooden roof e guide good your decision to choose the roof gives your poster a clear focus a c a d b eb c d a b ec c a b d ed c a d e bwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 1 after a heritage visita student thank you very much for showing us around which feature would you suggest including in our poster b student then we ll choose the roof and explain why it should be preserved c guide that brings our tour of the communal house to an end d guide you re welcome i suggest the well preserved wooden roof e guide good your decision to choose the roof gives your poster a clear focus a c a d b eb c d a b ec c a b d ed c a d e bwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 1: After a Heritage Visita. Student: Thank you very much for showing us around. Which feature would you suggest including in our poster?b. Student: Then we’ll choose the roof and explain why it should be preserved.c. Guide: That brings our tour of the communal house to an end.d. Guide: You’re welcome. I suggest the well-preserved wooden roof.e. Guide: Good. Your decision to choose the roof gives your poster a clear focus.A. c – a – d – b – eB. c – d – a – b – eC. c – a – b – d – eD. c – a – d – e – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 1 after a heritage visita student thank you very much for showing us around which feature would you suggest including in our poster b student then we ll choose the roof and explain why it should be preserved c guide that brings our tour of the communal house to an end d guide you re welcome i suggest the well preserved wooden roof e guide good your decision to choose the roof gives your poster a clear focus a c a d b eb c d a b ec c a b d ed c a d e bwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 1 after a heritage visita student thank you very much for showing us around which feature would you suggest including in our poster b student then we ll choose the roof and explain why it should be preserved c guide that brings our tour of the communal house to an end d guide you re welcome i suggest the well preserved wooden roof e guide good your decision to choose the roof gives your poster a clear focus a c a d b eb c d a b ec c a b d ed c a d e bwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 4 collecting family memoriesa grandma those are some of my memories of old school days do you have enough information for your poster b student then may we copy two photographs from that box for the poster c student yes thank you very much for sharing them where can we find photographs to go with these memories d grandma of course just return the original photographs to the box afterwards e grandma you re welcome you ll find some school photographs in the box on the shelf a a e c b db a c b e dc a c e d bd a c e b dwrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 4: Collecting Family Memoriesa. Grandma: Those are some of my memories of old school days. Do you have enough information for your poster?b. Student: Then may we copy two photographs from that box for the poster?c. Student: Yes, thank you very much for sharing them. Where can we find photographs to go with these memories?d. Grandma: Of course. Just return the original photographs to the box afterwards.e. Grandma: You’re welcome. You’ll find some school photographs in the box on the shelf.A. a – e – c – b – dB. a – c – b – e – dC. a – c – e – d – bD. a – c – e – b – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 4 collecting family memoriesa grandma those are some of my memories of old school days do you have enough information for your poster b student then may we copy two photographs from that box for the poster c student yes thank you very much for sharing them where can we find photographs to go with these memories d grandma of course just return the original photographs to the box afterwards e grandma you re welcome you ll find some school photographs in the box on the shelf a a e c b db a c b e dc a c e d bd a c e b dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 4 collecting family memoriesa grandma those are some of my memories of old school days do you have enough information for your poster b student then may we copy two photographs from that box for the poster c student yes thank you very much for sharing them where can we find photographs to go with these memories d grandma of course just return the original photographs to the box afterwards e grandma you re welcome you ll find some school photographs in the box on the shelf a a e c b db a c b e dc a c e d bd a c e b dwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 4 collecting family memoriesa grandma those are some of my memories of old school days do you have enough information for your poster b student then may we copy two photographs from that box for the poster c student yes thank you very much for sharing them where can we find photographs to go with these memories d grandma of course just return the original photographs to the box afterwards e grandma you re welcome you ll find some school photographs in the box on the shelf a a e c b db a c b e dc a c e d bd a c e b dwrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 4: Collecting Family Memoriesa. Grandma: Those are some of my memories of old school days. Do you have enough information for your poster?b. Student: Then may we copy two photographs from that box for the poster?c. Student: Yes, thank you very much for sharing them. Where can we find photographs to go with these memories?d. Grandma: Of course. Just return the original photographs to the box afterwards.e. Grandma: You’re welcome. You’ll find some school photographs in the box on the shelf.A. a – e – c – b – dB. a – c – b – e – dC. a – c – e – d – bD. a – c – e – b – dWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 4 collecting family memoriesa grandma those are some of my memories of old school days do you have enough information for your poster b student then may we copy two photographs from that box for the poster c student yes thank you very much for sharing them where can we find photographs to go with these memories d grandma of course just return the original photographs to the box afterwards e grandma you re welcome you ll find some school photographs in the box on the shelf a a e c b db a c b e dc a c e d bd a c e b dwrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 4 collecting family memoriesa grandma those are some of my memories of old school days do you have enough information for your poster b student then may we copy two photographs from that box for the poster c student yes thank you very much for sharing them where can we find photographs to go with these memories d grandma of course just return the original photographs to the box afterwards e grandma you re welcome you ll find some school photographs in the box on the shelf a a e c b db a c b e dc a c e d bd a c e b dwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 2 after a workshop visita village head no problem which part of the workshop interested you most b student thanks a lot for showing us around the craft workshop c village head then you could describe those tools in your project d village head our workshop visit is over now i hope you enjoyed it e student the traditional tools interested me most a d a b e cb d b e a cc d b a e cd d b a c ewrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 2: After a Workshop Visita. Village head: No problem. Which part of the workshop interested you most?b. Student: Thanks a lot for showing us around the craft workshop.c. Village head: Then you could describe those tools in your project.d. Village head: Our workshop visit is over now. I hope you enjoyed it.e. Student: The traditional tools interested me most.A. d – a – b – e – cB. d – b – e – a – cC. d – b – a – e – cD. d – b – a – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 2 after a workshop visita village head no problem which part of the workshop interested you most b student thanks a lot for showing us around the craft workshop c village head then you could describe those tools in your project d village head our workshop visit is over now i hope you enjoyed it e student the traditional tools interested me most a d a b e cb d b e a cc d b a e cd d b a c ewrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 2 after a workshop visita village head no problem which part of the workshop interested you most b student thanks a lot for showing us around the craft workshop c village head then you could describe those tools in your project d village head our workshop visit is over now i hope you enjoyed it e student the traditional tools interested me most a d a b e cb d b e a cc d b a e cd d b a c ewrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 2 after a workshop visita village head no problem which part of the workshop interested you most b student thanks a lot for showing us around the craft workshop c village head then you could describe those tools in your project d village head our workshop visit is over now i hope you enjoyed it e student the traditional tools interested me most a d a b e cb d b e a cc d b a e cd d b a c ewrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 2: After a Workshop Visita. Village head: No problem. Which part of the workshop interested you most?b. Student: Thanks a lot for showing us around the craft workshop.c. Village head: Then you could describe those tools in your project.d. Village head: Our workshop visit is over now. I hope you enjoyed it.e. Student: The traditional tools interested me most.A. d – a – b – e – cB. d – b – e – a – cC. d – b – a – e – cD. d – b – a – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 2 after a workshop visita village head no problem which part of the workshop interested you most b student thanks a lot for showing us around the craft workshop c village head then you could describe those tools in your project d village head our workshop visit is over now i hope you enjoyed it e student the traditional tools interested me most a d a b e cb d b e a cc d b a e cd d b a c ewrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 2 after a workshop visita village head no problem which part of the workshop interested you most b student thanks a lot for showing us around the craft workshop c village head then you could describe those tools in your project d village head our workshop visit is over now i hope you enjoyed it e student the traditional tools interested me most a d a b e cb d b e a cc d b a e cd d b a c ewrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 5 checking a cuisine postera student should we use the corrected name in our presentation notes too b student thanks a lot for checking it which name did you correct c classmate yes that will keep your poster and presentation notes consistent d classmate no problem i changed rice to glutinous rice in the banh chung section e classmate i ve checked your poster and corrected one ingredient name a e b d a cb e d b a cc e b a d cd e b d c awrite a b c or d 1": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 5: Checking a Cuisine Postera. Student: Should we use the corrected name in our presentation notes too?b. Student: Thanks a lot for checking it. Which name did you correct?c. Classmate: Yes. That will keep your poster and presentation notes consistent.d. Classmate: No problem. I changed “rice” to “glutinous rice” in the banh chung section.e. Classmate: I’ve checked your poster and corrected one ingredient name.A. e – b – d – a – cB. e – d – b – a – cC. e – b – a – d – cD. e – b – d – c – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 5 checking a cuisine postera student should we use the corrected name in our presentation notes too b student thanks a lot for checking it which name did you correct c classmate yes that will keep your poster and presentation notes consistent d classmate no problem i changed rice to glutinous rice in the banh chung section e classmate i ve checked your poster and corrected one ingredient name a e b d a cb e d b a cc e b a d cd e b d c awrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 5 checking a cuisine postera student should we use the corrected name in our presentation notes too b student thanks a lot for checking it which name did you correct c classmate yes that will keep your poster and presentation notes consistent d classmate no problem i changed rice to glutinous rice in the banh chung section e classmate i ve checked your poster and corrected one ingredient name a e b d a cb e d b a cc e b a d cd e b d c awrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "choose a b c or d to arrange the utterances into a natural conversation question 5 checking a cuisine postera student should we use the corrected name in our presentation notes too b student thanks a lot for checking it which name did you correct c classmate yes that will keep your poster and presentation notes consistent d classmate no problem i changed rice to glutinous rice in the banh chung section e classmate i ve checked your poster and corrected one ingredient name a e b d a cb e d b a cc e b a d cd e b d c awrite a b c or d": {
+      "question": "Choose A, B, C, or D to arrange the utterances into a natural conversation.Question 5: Checking a Cuisine Postera. Student: Should we use the corrected name in our presentation notes too?b. Student: Thanks a lot for checking it. Which name did you correct?c. Classmate: Yes. That will keep your poster and presentation notes consistent.d. Classmate: No problem. I changed “rice” to “glutinous rice” in the banh chung section.e. Classmate: I’ve checked your poster and corrected one ingredient name.A. e – b – d – a – cB. e – d – b – a – cC. e – b – a – d – cD. e – b – d – c – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose a b c or d to arrange the utterances into a natural conversation question 5 checking a cuisine postera student should we use the corrected name in our presentation notes too b student thanks a lot for checking it which name did you correct c classmate yes that will keep your poster and presentation notes consistent d classmate no problem i changed rice to glutinous rice in the banh chung section e classmate i ve checked your poster and corrected one ingredient name a e b d a cb e d b a cc e b a d cd e b d c awrite a b c or d 1",
+      "stem_key": "choose a b c or d to arrange the utterances into a natural conversation question 5 checking a cuisine postera student should we use the corrected name in our presentation notes too b student thanks a lot for checking it which name did you correct c classmate yes that will keep your poster and presentation notes consistent d classmate no problem i changed rice to glutinous rice in the banh chung section e classmate i ve checked your poster and corrected one ingredient name a e b d a cb e d b a cc e b a d cd e b d c awrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 4a utensilsb methodsc ingredientsd recipeswrite a b c or d 1 question 5a occasionsb traditionsc recipesd customswrite a b c or d 2 question 6a originateb originalc originallyd originwrite a b c or d 3": {
+      "question": "Read the guide. Choose A, B, C, or D for each blank. Use headings, sentence clues, and the purpose of the advice. Question 4A. utensilsB. methodsC. ingredientsD. recipesWrite A, B, C or D: {#1} Question 5A. occasionsB. traditionsC. recipesD. customsWrite A, B, C or D: {#2} Question 6A. originateB. originalC. originallyD. originWrite A, B, C or D: {#3}",
+      "clean_stem": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 4a utensilsb methodsc ingredientsd recipeswrite a b c or d 1 question 5a occasionsb traditionsc recipesd customswrite a b c or d 2 question 6a originateb originalc originallyd originwrite a b c or d 3",
+      "stem_key": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 4a utensilsb methodsc ingredientsd recipeswrite a b c or d 1 question 5a occasionsb traditionsc recipesd customswrite a b c or d 2 question 6a originateb originalc originallyd originwrite a b c or d 3",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 4a utensilsb methodsc ingredientsd recipeswrite a b c or d question 5a occasionsb traditionsc recipesd customswrite a b c or d question 6a originateb originalc originallyd originwrite a b c or d": {
+      "question": "Read the guide. Choose A, B, C, or D for each blank. Use headings, sentence clues, and the purpose of the advice. Question 4A. utensilsB. methodsC. ingredientsD. recipesWrite A, B, C or D: {#1} Question 5A. occasionsB. traditionsC. recipesD. customsWrite A, B, C or D: {#2} Question 6A. originateB. originalC. originallyD. originWrite A, B, C or D: {#3}",
+      "clean_stem": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 4a utensilsb methodsc ingredientsd recipeswrite a b c or d 1 question 5a occasionsb traditionsc recipesd customswrite a b c or d 2 question 6a originateb originalc originallyd originwrite a b c or d 3",
+      "stem_key": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 4a utensilsb methodsc ingredientsd recipeswrite a b c or d 1 question 5a occasionsb traditionsc recipesd customswrite a b c or d 2 question 6a originateb originalc originallyd originwrite a b c or d 3",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 1a downb aroundc backd upwrite a b c or d 1 question 2a recently builtb badly damagedc newly designedd well preservedwrite a b c or d 2 question 3a protectionb protectc protectedd protectivewrite a b c or d 3": {
+      "question": "Read the guide. Choose A, B, C, or D for each blank. Use headings, sentence clues, and the purpose of the advice. Question 1A. downB. aroundC. backD. upWrite A, B, C or D: {#1} Question 2A. recently builtB. badly damagedC. newly designedD. well-preservedWrite A, B, C or D: {#2} Question 3A. protectionB. protectC. protectedD. protectiveWrite A, B, C or D: {#3}",
+      "clean_stem": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 1a downb aroundc backd upwrite a b c or d 1 question 2a recently builtb badly damagedc newly designedd well preservedwrite a b c or d 2 question 3a protectionb protectc protectedd protectivewrite a b c or d 3",
+      "stem_key": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 1a downb aroundc backd upwrite a b c or d 1 question 2a recently builtb badly damagedc newly designedd well preservedwrite a b c or d 2 question 3a protectionb protectc protectedd protectivewrite a b c or d 3",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 1a downb aroundc backd upwrite a b c or d question 2a recently builtb badly damagedc newly designedd well preservedwrite a b c or d question 3a protectionb protectc protectedd protectivewrite a b c or d": {
+      "question": "Read the guide. Choose A, B, C, or D for each blank. Use headings, sentence clues, and the purpose of the advice. Question 1A. downB. aroundC. backD. upWrite A, B, C or D: {#1} Question 2A. recently builtB. badly damagedC. newly designedD. well-preservedWrite A, B, C or D: {#2} Question 3A. protectionB. protectC. protectedD. protectiveWrite A, B, C or D: {#3}",
+      "clean_stem": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 1a downb aroundc backd upwrite a b c or d 1 question 2a recently builtb badly damagedc newly designedd well preservedwrite a b c or d 2 question 3a protectionb protectc protectedd protectivewrite a b c or d 3",
+      "stem_key": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 1a downb aroundc backd upwrite a b c or d 1 question 2a recently builtb badly damagedc newly designedd well preservedwrite a b c or d 2 question 3a protectionb protectc protectedd protectivewrite a b c or d 3",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 7a occupationb gratitudec promotiond cuisinewrite a b c or d 1 question 8a recognitionb preservationc contributiond observationwrite a b c or d 2 question 9a duringb followingc throughoutd beforewrite a b c or d 3 question 10a generationsb occasionsc centuriesd festivalswrite a b c or d 4": {
+      "question": "Read the guide. Choose A, B, C, or D for each blank. Use headings, sentence clues, and the purpose of the advice. Question 7A. occupationB. gratitudeC. promotionD. cuisineWrite A, B, C or D: {#1} Question 8A. recognitionB. preservationC. contributionD. observationWrite A, B, C or D: {#2} Question 9A. duringB. followingC. throughoutD. beforeWrite A, B, C or D: {#3} Question 10A. generationsB. occasionsC. centuriesD. festivalsWrite A, B, C or D: {#4}",
+      "clean_stem": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 7a occupationb gratitudec promotiond cuisinewrite a b c or d 1 question 8a recognitionb preservationc contributiond observationwrite a b c or d 2 question 9a duringb followingc throughoutd beforewrite a b c or d 3 question 10a generationsb occasionsc centuriesd festivalswrite a b c or d 4",
+      "stem_key": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 7a occupationb gratitudec promotiond cuisinewrite a b c or d 1 question 8a recognitionb preservationc contributiond observationwrite a b c or d 2 question 9a duringb followingc throughoutd beforewrite a b c or d 3 question 10a generationsb occasionsc centuriesd festivalswrite a b c or d 4",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 7a occupationb gratitudec promotiond cuisinewrite a b c or d question 8a recognitionb preservationc contributiond observationwrite a b c or d question 9a duringb followingc throughoutd beforewrite a b c or d question 10a generationsb occasionsc centuriesd festivalswrite a b c or d": {
+      "question": "Read the guide. Choose A, B, C, or D for each blank. Use headings, sentence clues, and the purpose of the advice. Question 7A. occupationB. gratitudeC. promotionD. cuisineWrite A, B, C or D: {#1} Question 8A. recognitionB. preservationC. contributionD. observationWrite A, B, C or D: {#2} Question 9A. duringB. followingC. throughoutD. beforeWrite A, B, C or D: {#3} Question 10A. generationsB. occasionsC. centuriesD. festivalsWrite A, B, C or D: {#4}",
+      "clean_stem": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 7a occupationb gratitudec promotiond cuisinewrite a b c or d 1 question 8a recognitionb preservationc contributiond observationwrite a b c or d 2 question 9a duringb followingc throughoutd beforewrite a b c or d 3 question 10a generationsb occasionsc centuriesd festivalswrite a b c or d 4",
+      "stem_key": "read the guide choose a b c or d for each blank use headings sentence clues and the purpose of the advice question 7a occupationb gratitudec promotiond cuisinewrite a b c or d 1 question 8a recognitionb preservationc contributiond observationwrite a b c or d 2 question 9a duringb followingc throughoutd beforewrite a b c or d 3 question 10a generationsb occasionsc centuriesd festivalswrite a b c or d 4",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:25:19Z"
     }
   }
 }
