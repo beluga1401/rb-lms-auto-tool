@@ -1,7 +1,7 @@
 {
   "version": "4.8.2",
-  "updated_at": "2026-10-26T15:29:28Z",
-  "total_questions": 236,
+  "updated_at": "2026-10-26T15:29:42Z",
+  "total_questions": 256,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -4170,6 +4170,306 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-26T15:29:27Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation the organisers will make for the activities including preparing materials and setting up the playing areas": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation the organisers will make for the activities including preparing materials and setting up the playing areas",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation the organisers will make for the activities including preparing materials and setting up the playing areas",
+      "answer": "arrangements",
+      "letter": "C",
+      "options": [
+        "arrangements"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation respect and cooperation are examples of shared that the groups consider important": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Respect and cooperation are examples of shared ________ that the groups consider important.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation respect and cooperation are examples of shared that the groups consider important",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation respect and cooperation are examples of shared that the groups consider important",
+      "answer": "values",
+      "letter": "A",
+      "options": [
+        "values"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation students interested in financial support can apply asean scholarships when suitable opportunities are advertised": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Students interested in financial support can apply ________ ASEAN scholarships when suitable opportunities are advertised.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation students interested in financial support can apply asean scholarships when suitable opportunities are advertised",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation students interested in financial support can apply asean scholarships when suitable opportunities are advertised",
+      "answer": "for",
+      "letter": "A",
+      "options": [
+        "for"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation young volunteers can a useful contribution to community development through practical projects": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Young volunteers can ________ a useful contribution to community development through practical projects.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation young volunteers can a useful contribution to community development through practical projects",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation young volunteers can a useful contribution to community development through practical projects",
+      "answer": "make",
+      "letter": "A",
+      "options": [
+        "make"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation several students want to take part the welcome event and help the visiting students": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Several students want to take part ________ the welcome event and help the visiting students.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation several students want to take part the welcome event and help the visiting students",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation several students want to take part the welcome event and help the visiting students",
+      "answer": "in",
+      "letter": "C",
+      "options": [
+        "in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation during the discussion participants should offer to the issues by explaining how the problems could be addressed": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.During the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation during the discussion participants should offer to the issues by explaining how the problems could be addressed",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation during the discussion participants should offer to the issues by explaining how the problems could be addressed",
+      "answer": "solutions",
+      "letter": "C",
+      "options": [
+        "solutions"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work",
+      "answer": "leadership",
+      "letter": "B",
+      "options": [
+        "leadership"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation the students shared songs and customs during a exchange designed to help them learn about one another s traditions": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The students shared songs and customs during a ________ exchange designed to help them learn about one another’s traditions.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation the students shared songs and customs during a exchange designed to help them learn about one another s traditions",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation the students shared songs and customs during a exchange designed to help them learn about one another s traditions",
+      "answer": "cultural",
+      "letter": "B",
+      "options": [
+        "cultural"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation to submit their completed proposals for consideration the groups must the documents by friday": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.To submit their completed proposals for consideration, the groups must ________ the documents by Friday.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation to submit their completed proposals for consideration the groups must the documents by friday",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation to submit their completed proposals for consideration the groups must the documents by friday",
+      "answer": "send in",
+      "letter": "D",
+      "options": [
+        "send in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that best completes the natural phrase or collocation the discussion focuses on issues affecting young people today rather than problems from earlier historical periods": {
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation the discussion focuses on issues affecting young people today rather than problems from earlier historical periods",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation the discussion focuses on issues affecting young people today rather than problems from earlier historical periods",
+      "answer": "current",
+      "letter": "B",
+      "options": [
+        "current"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form after discussing the schedule the organisers reached an about the starting time": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.After discussing the schedule, the organisers reached an ________ about the starting time.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form after discussing the schedule the organisers reached an about the starting time",
+      "stem_key": "choose the option a b c or d that gives the correct word form after discussing the schedule the organisers reached an about the starting time",
+      "answer": "agreement",
+      "letter": "D",
+      "options": [
+        "agreement"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form each will introduce one cultural activity during the exchange": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Each ________ will introduce one cultural activity during the exchange.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form each will introduce one cultural activity during the exchange",
+      "stem_key": "choose the option a b c or d that gives the correct word form each will introduce one cultural activity during the exchange",
+      "answer": "participant",
+      "letter": "A",
+      "options": [
+        "participant"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form the community project supports the of useful practical skills among young volunteers": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The community project supports the ________ of useful practical skills among young volunteers.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the community project supports the of useful practical skills among young volunteers",
+      "stem_key": "choose the option a b c or d that gives the correct word form the community project supports the of useful practical skills among young volunteers",
+      "answer": "development",
+      "letter": "A",
+      "options": [
+        "development"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form the group selected a to explain its proposal to the teacher": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The group selected a ________ to explain its proposal to the teacher.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the group selected a to explain its proposal to the teacher",
+      "stem_key": "choose the option a b c or d that gives the correct word form the group selected a to explain its proposal to the teacher",
+      "answer": "representative",
+      "letter": "B",
+      "options": [
+        "representative"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form in the country research notes the student recorded her as thai and listed her language separately": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form in the country research notes the student recorded her as thai and listed her language separately",
+      "stem_key": "choose the option a b c or d that gives the correct word form in the country research notes the student recorded her as thai and listed her language separately",
+      "answer": "nationality",
+      "letter": "B",
+      "options": [
+        "nationality"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form the exchange includes activities such as sharing songs and discussing customs": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The exchange includes ________ activities such as sharing songs and discussing customs.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the exchange includes activities such as sharing songs and discussing customs",
+      "stem_key": "choose the option a b c or d that gives the correct word form the exchange includes activities such as sharing songs and discussing customs",
+      "answer": "cultural",
+      "letter": "B",
+      "options": [
+        "cultural"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category",
+      "stem_key": "choose the option a b c or d that gives the correct word form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category",
+      "answer": "religious",
+      "letter": "A",
+      "options": [
+        "religious"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form the school needs a trainer who has suitable preparation and experience": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The school needs a ________ trainer who has suitable preparation and experience.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the school needs a trainer who has suitable preparation and experience",
+      "stem_key": "choose the option a b c or d that gives the correct word form the school needs a trainer who has suitable preparation and experience",
+      "answer": "qualified",
+      "letter": "B",
+      "options": [
+        "qualified"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form preparing the materials was lan s main to the welcome event": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Preparing the materials was Lan’s main ________ to the welcome event.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form preparing the materials was lan s main to the welcome event",
+      "stem_key": "choose the option a b c or d that gives the correct word form preparing the materials was lan s main to the welcome event",
+      "answer": "contribution",
+      "letter": "A",
+      "options": [
+        "contribution"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
+    },
+    "choose the option a b c or d that gives the correct word form the visitors will learn the rules of several games before joining the festival": {
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The visitors will learn the rules of several ________ games before joining the festival.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the visitors will learn the rules of several games before joining the festival",
+      "stem_key": "choose the option a b c or d that gives the correct word form the visitors will learn the rules of several games before joining the festival",
+      "answer": "traditional",
+      "letter": "D",
+      "options": [
+        "traditional"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T15:29:41Z"
     }
   }
 }
