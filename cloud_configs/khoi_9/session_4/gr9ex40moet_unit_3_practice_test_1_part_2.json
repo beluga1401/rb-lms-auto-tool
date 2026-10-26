@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4",
+    "unit_key": "session_4",
+    "quiz_title": "GR9EX40MOET UNIT 3 PRACTICE TEST 1 PART 2",
+    "quiz_key": "gr9ex40moet_unit_3_practice_test_1_part_2",
+    "cmid": "743724",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_4/gr9ex40moet_unit_3_practice_test_1_part_2.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 36,
+    "updated_at": "2026-10-26 20:29:12"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23.what is the main idea of the passage?a. bao learned to study for longer before each test.b. short breaks and support helped bao study more effectively.c. bao replaced most evening homework with family activities.d. a counsellor made bao finish work before 10:30.write a, b, c, or d – question 24.the word “alert” in paragraph 2 is closest in meaning to ______.a. worried and unable to relaxb. sleepy and ready for bedc. awake and able to focusd. finished with all his homeworkwrite a, b, c, or d – question 25.according to paragraph 4, what did bao sometimes do when he got home late?a. he took a shorter quiet break instead of the walk.b. he skipped dinner so he could start homework immediately.c. he stayed awake until every difficult task was solved.d. he asked his father to complete part of the assignment.write a, b, c, or d – question 26.the phrase “this experience” in paragraph 3 refers to ______.a. the counsellor's advice about short breaksb. writing a question for his teacherc. finishing his schoolwork by 10:30d. the walk followed by better concentrationwrite a, b, c, or d – question 27.which of the following is not true according to the passage?a. bao sometimes used ten quiet minutes instead of a walk.b. bao followed the same twenty-minute break every day.c. bao tried to stop schoolwork by 10:30 p.m.d. bao sometimes asked his teacher about confusing work.write a, b, c, or d – question 28.which statement best paraphrases the main point of the final paragraph?a. bao believed balanced living meant spending much less effort on school.b. bao found that support was useful only during difficult test weeks.c. bao decided that every evening needed exactly the same routine.d. bao learned that rest and support could improve study quality.write a, b, c, or d – question 29.what is the main purpose of paragraph 4?a. to describe the homework bao found most difficultb. to compare bao's routine with his father's schedulec. to explain bao's adjustments on difficult daysd. to show why bao stopped asking teachers questionswrite a, b, c, or d – question 30.what can be inferred from the passage?a. bao came to see short breaks as useful for studying.b. bao thought any break longer than ten minutes wasted time.c. bao preferred asking family members to solve difficult school tasks.d. bao believed schoolwork should stop whenever he began feeling tired.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23.What is the main idea of the passage?A. Bao learned to study for longer before each test.B. Short breaks and support helped Bao study more effectively.C. Bao replaced most evening homework with family activities.D. A counsellor made Bao finish work before 10:30.Write A, B, C, or D – {#1}Question 24.The word “alert” in paragraph 2 is closest in meaning to ______.A. worried and unable to relaxB. sleepy and ready for bedC. awake and able to focusD. finished with all his homeworkWrite A, B, C, or D – {#2}Question 25.According to paragraph 4, what did Bao sometimes do when he got home late?A. He took a shorter quiet break instead of the walk.B. He skipped dinner so he could start homework immediately.C. He stayed awake until every difficult task was solved.D. He asked his father to complete part of the assignment.Write A, B, C, or D – {#3}Question 26.The phrase “This experience” in paragraph 3 refers to ______.A. the counsellor's advice about short breaksB. writing a question for his teacherC. finishing his schoolwork by 10:30D. the walk followed by better concentrationWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Bao sometimes used ten quiet minutes instead of a walk.B. Bao followed the same twenty-minute break every day.C. Bao tried to stop schoolwork by 10:30 p.m.D. Bao sometimes asked his teacher about confusing work.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the main point of the final paragraph?A. Bao believed balanced living meant spending much less effort on school.B. Bao found that support was useful only during difficult test weeks.C. Bao decided that every evening needed exactly the same routine.D. Bao learned that rest and support could improve study quality.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 4?A. To describe the homework Bao found most difficultB. To compare Bao's routine with his father's scheduleC. To explain Bao's adjustments on difficult daysD. To show why Bao stopped asking teachers questionsWrite A, B, C, or D – {#7}Question 30.What can be inferred from the passage?A. Bao came to see short breaks as useful for studying.B. Bao thought any break longer than ten minutes wasted time.C. Bao preferred asking family members to solve difficult school tasks.D. Bao believed schoolwork should stop whenever he began feeling tired.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23.What is the main idea of the passage?A. Bao learned to study for longer before each test.B. Short breaks and support helped Bao study more effectively.C. Bao replaced most evening homework with family activities.D. A counsellor made Bao finish work before 10:30.Write A, B, C, or D – {#1}Question 24.The word “alert” in paragraph 2 is closest in meaning to ______.A. worried and unable to relaxB. sleepy and ready for bedC. awake and able to focusD. finished with all his homeworkWrite A, B, C, or D – {#2}Question 25.According to paragraph 4, what did Bao sometimes do when he got home late?A. He took a shorter quiet break instead of the walk.B. He skipped dinner so he could start homework immediately.C. He stayed awake until every difficult task was solved.D. He asked his father to complete part of the assignment.Write A, B, C, or D – {#3}Question 26.The phrase “This experience” in paragraph 3 refers to ______.A. the counsellor's advice about short breaksB. writing a question for his teacherC. finishing his schoolwork by 10:30D. the walk followed by better concentrationWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Bao sometimes used ten quiet minutes instead of a walk.B. Bao followed the same twenty-minute break every day.C. Bao tried to stop schoolwork by 10:30 p.m.D. Bao sometimes asked his teacher about confusing work.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the main point of the final paragraph?A. Bao believed balanced living meant spending much less effort on school.B. Bao found that support was useful only during difficult test weeks.C. Bao decided that every evening needed exactly the same routine.D. Bao learned that rest and support could improve study quality.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 4?A. To describe the homework Bao found most difficultB. To compare Bao's routine with his father's scheduleC. To explain Bao's adjustments on difficult daysD. To show why Bao stopped asking teachers questionsWrite A, B, C, or D – {#7}Question 30.What can be inferred from the passage?A. Bao came to see short breaks as useful for studying.B. Bao thought any break longer than ten minutes wasted time.C. Bao preferred asking family members to solve difficult school tasks.D. Bao believed schoolwork should stop whenever he began feeling tired.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31.the word “productive” in paragraph 1 is closest in meaning to ______.a. requiring a great deal of timeb. producing useful resultsc. making people feel relaxedd. following a fixed set of ruleswrite a, b, c, or d – question 32.why did the students put their phones in a box?a. they wanted to compare the newest phone models.b. they needed to keep their bags away from the table.c. they wanted to make the meeting room look tidier.d. they wanted to reduce interruptions during focused work.write a, b, c, or d – question 33.the phrase “this change” in paragraph 3 refers to ______.a. adding a short social period before the work beganb. placing all the phones in a box during the meetingc. changing the meeting day from tuesday to thursdayd. asking each member to bring a written homework listwrite a, b, c, or d – question 34.which statement best paraphrases the teacher's view in the final paragraph?a. study groups work best when every minute is planned in advance.b. students should spend most group time talking about personal problems.c. a routine should support work without becoming too rigid.d. groups should change their study plan whenever one member feels bored.write a, b, c, or d – question 35.what can be inferred about the teacher's role in the study group?a. the teacher expected to lead every part of each meeting.b. the teacher trusted students to manage the routine themselves.c. the teacher selected each student's priority task.d. the teacher added the social period after huy's complaint.write a, b, c, or d – question 36.in which paragraph does the writer mention a change made after one student thought the routine was too strict?a. paragraph 1b. paragraph 2c. paragraph 3d. paragraph 4write a, b, c, or d – question 37.what is the main purpose of paragraph 2?a. to explain why the students first formed the study groupb. to describe where and when the students usually studiedc. to compare the school subjects studied by group membersd. to describe the new routine and its early effectwrite a, b, c, or d – question 38.which of the following is not supported by the passage?a. members identified a priority before beginning focused work.b. the group kept a short discussion period for questions.c. phones were never allowed to be used during the meeting.d. one member felt that the first routine was too strict.write a, b, c, or d – question 39.which of the following best summarises the passage?a. a student group improved its meetings by organising work while keeping the routine flexible.b. four students stopped studying together after their meetings became too difficult to organise.c. a teacher created a strict study system that students had to follow every evening.d. a group became more successful mainly because members studied for longer hours.write a, b, c, or d – question 40.which of the following is the best title for the passage?a. why students should always study aloneb. making a study group work betterc. the best subjects for group learningd. how to remove phones from schoolwrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31.The word “productive” in paragraph 1 is closest in meaning to ______.A. requiring a great deal of timeB. producing useful resultsC. making people feel relaxedD. following a fixed set of rulesWrite A, B, C, or D – {#1}Question 32.Why did the students put their phones in a box?A. They wanted to compare the newest phone models.B. They needed to keep their bags away from the table.C. They wanted to make the meeting room look tidier.D. They wanted to reduce interruptions during focused work.Write A, B, C, or D – {#2}Question 33.The phrase “This change” in paragraph 3 refers to ______.A. adding a short social period before the work beganB. placing all the phones in a box during the meetingC. changing the meeting day from Tuesday to ThursdayD. asking each member to bring a written homework listWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the teacher's view in the final paragraph?A. Study groups work best when every minute is planned in advance.B. Students should spend most group time talking about personal problems.C. A routine should support work without becoming too rigid.D. Groups should change their study plan whenever one member feels bored.Write A, B, C, or D – {#4}Question 35.What can be inferred about the teacher's role in the study group?A. The teacher expected to lead every part of each meeting.B. The teacher trusted students to manage the routine themselves.C. The teacher selected each student's priority task.D. The teacher added the social period after Huy's complaint.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention a change made after one student thought the routine was too strict?A. Paragraph 1B. Paragraph 2C. Paragraph 3D. Paragraph 4Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 2?A. To explain why the students first formed the study groupB. To describe where and when the students usually studiedC. To compare the school subjects studied by group membersD. To describe the new routine and its early effectWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Members identified a priority before beginning focused work.B. The group kept a short discussion period for questions.C. Phones were never allowed to be used during the meeting.D. One member felt that the first routine was too strict.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A student group improved its meetings by organising work while keeping the routine flexible.B. Four students stopped studying together after their meetings became too difficult to organise.C. A teacher created a strict study system that students had to follow every evening.D. A group became more successful mainly because members studied for longer hours.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Students Should Always Study AloneB. Making a Study Group Work BetterC. The Best Subjects for Group LearningD. How to Remove Phones from SchoolWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "A"
+        },
+        {
+          "index": 9,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31.The word “productive” in paragraph 1 is closest in meaning to ______.A. requiring a great deal of timeB. producing useful resultsC. making people feel relaxedD. following a fixed set of rulesWrite A, B, C, or D – {#1}Question 32.Why did the students put their phones in a box?A. They wanted to compare the newest phone models.B. They needed to keep their bags away from the table.C. They wanted to make the meeting room look tidier.D. They wanted to reduce interruptions during focused work.Write A, B, C, or D – {#2}Question 33.The phrase “This change” in paragraph 3 refers to ______.A. adding a short social period before the work beganB. placing all the phones in a box during the meetingC. changing the meeting day from Tuesday to ThursdayD. asking each member to bring a written homework listWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the teacher's view in the final paragraph?A. Study groups work best when every minute is planned in advance.B. Students should spend most group time talking about personal problems.C. A routine should support work without becoming too rigid.D. Groups should change their study plan whenever one member feels bored.Write A, B, C, or D – {#4}Question 35.What can be inferred about the teacher's role in the study group?A. The teacher expected to lead every part of each meeting.B. The teacher trusted students to manage the routine themselves.C. The teacher selected each student's priority task.D. The teacher added the social period after Huy's complaint.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention a change made after one student thought the routine was too strict?A. Paragraph 1B. Paragraph 2C. Paragraph 3D. Paragraph 4Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 2?A. To explain why the students first formed the study groupB. To describe where and when the students usually studiedC. To compare the school subjects studied by group membersD. To describe the new routine and its early effectWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Members identified a priority before beginning focused work.B. The group kept a short discussion period for questions.C. Phones were never allowed to be used during the meeting.D. One member felt that the first routine was too strict.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A student group improved its meetings by organising work while keeping the routine flexible.B. Four students stopped studying together after their meetings became too difficult to organise.C. A teacher created a strict study system that students had to follow every evening.D. A group became more successful mainly because members studied for longer hours.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Students Should Always Study AloneB. Making a Study Group Work BetterC. The Best Subjects for Group LearningD. How to Remove Phones from SchoolWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B",
+      "id": "question-1921384-1",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23.what is the main idea of the passage?a. bao learned to study for longer before each test.b. short breaks and support helped bao study more effectively.c. bao replaced most evening homework with family activities.d. a counsellor made bao finish work before 10:30.write a, b, c, or d – {#1}question 24.the word \"alert\" in paragraph 2 is closest in meaning to ______.a. worried and unable to relaxb. sleepy and ready for bedc. awake and able to focusd. finished with all his homeworkwrite a, b, c, or d – {#2}question 25.according to paragraph 4, what did bao sometimes do when he got home late?a. he took a shorter quiet break instead of the walk.b. he skipped dinner so he could start homework immediately.c. he stayed awake until every difficult task was solved.d. he asked his father to complete part of the assignment.write a, b, c, or d – {#3}question 26.the phrase \"this experience\" in paragraph 3 refers to ______.a. the counsellor's advice about short breaksb. writing a question for his teacherc. finishing his schoolwork by 10:30d. the walk followed by better concentrationwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. bao sometimes used ten quiet minutes instead of a walk.b. bao followed the same twenty-minute break every day.c. bao tried to stop schoolwork by 10:30 p.m.d. bao sometimes asked his teacher about confusing work.write a, b, c, or d – {#5}question 28.which statement best paraphrases the main point of the final paragraph?a. bao believed balanced living meant spending much less effort on school.b. bao found that support was useful only during difficult test weeks.c. bao decided that every evening needed exactly the same routine.d. bao learned that rest and support could improve study quality.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 4?a. to describe the homework bao found most difficultb. to compare bao's routine with his father's schedulec. to explain bao's adjustments on difficult daysd. to show why bao stopped asking teachers questionswrite a, b, c, or d – {#7}question 30.what can be inferred from the passage?a. bao came to see short breaks as useful for studying.b. bao thought any break longer than ten minutes wasted time.c. bao preferred asking family members to solve difficult school tasks.d. bao believed schoolwork should stop whenever he began feeling tired.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23.What is the main idea of the passage?A. Bao learned to study for longer before each test.B. Short breaks and support helped Bao study more effectively.C. Bao replaced most evening homework with family activities.D. A counsellor made Bao finish work before 10:30.Write A, B, C, or D – {#1}Question 24.The word \"alert\" in paragraph 2 is closest in meaning to ______.A. worried and unable to relaxB. sleepy and ready for bedC. awake and able to focusD. finished with all his homeworkWrite A, B, C, or D – {#2}Question 25.According to paragraph 4, what did Bao sometimes do when he got home late?A. He took a shorter quiet break instead of the walk.B. He skipped dinner so he could start homework immediately.C. He stayed awake until every difficult task was solved.D. He asked his father to complete part of the assignment.Write A, B, C, or D – {#3}Question 26.The phrase \"This experience\" in paragraph 3 refers to ______.A. the counsellor's advice about short breaksB. writing a question for his teacherC. finishing his schoolwork by 10:30D. the walk followed by better concentrationWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Bao sometimes used ten quiet minutes instead of a walk.B. Bao followed the same twenty-minute break every day.C. Bao tried to stop schoolwork by 10:30 p.m.D. Bao sometimes asked his teacher about confusing work.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases the main point of the final paragraph?A. Bao believed balanced living meant spending much less effort on school.B. Bao found that support was useful only during difficult test weeks.C. Bao decided that every evening needed exactly the same routine.D. Bao learned that rest and support could improve study quality.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 4?A. To describe the homework Bao found most difficultB. To compare Bao's routine with his father's scheduleC. To explain Bao's adjustments on difficult daysD. To show why Bao stopped asking teachers questionsWrite A, B, C, or D – {#7}Question 30.What can be inferred from the passage?A. Bao came to see short breaks as useful for studying.B. Bao thought any break longer than ten minutes wasted time.C. Bao preferred asking family members to solve difficult school tasks.D. Bao believed schoolwork should stop whenever he began feeling tired.Write A, B, C, or D – {#8}",
+      "questionId": "question-1921384-1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23.what is the main idea of the passage?a. bao learned to study for longer before each test.b. short breaks and support helped bao study more effectively.c. bao replaced most evening homework with family activities.d. a counsellor made bao finish work before 10:30.write a, b, c, or d – {#1}question 24.the word \"alert\" in paragraph 2 is closest in meaning to ______.a. worried and unable to relaxb. sleepy and ready for bedc. awake and able to focusd. finished with all his homeworkwrite a, b, c, or d – {#2}question 25.according to paragraph 4, what did bao sometimes do when he got home late?a. he took a shorter quiet break instead of the walk.b. he skipped dinner so he could start homework immediately.c. he stayed awake until every difficult task was solved.d. he asked his father to complete part of the assignment.write a, b, c, or d – {#3}question 26.the phrase \"this experience\" in paragraph 3 refers to ______.a. the counsellor's advice about short breaksb. writing a question for his teacherc. finishing his schoolwork by 10:30d. the walk followed by better concentrationwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. bao sometimes used ten quiet minutes instead of a walk.b. bao followed the same twenty-minute break every day.c. bao tried to stop schoolwork by 10:30 p.m.d. bao sometimes asked his teacher about confusing work.write a, b, c, or d – {#5}question 28.which statement best paraphrases the main point of the final paragraph?a. bao believed balanced living meant spending much less effort on school.b. bao found that support was useful only during difficult test weeks.c. bao decided that every evening needed exactly the same routine.d. bao learned that rest and support could improve study quality.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 4?a. to describe the homework bao found most difficultb. to compare bao's routine with his father's schedulec. to explain bao's adjustments on difficult daysd. to show why bao stopped asking teachers questionswrite a, b, c, or d – {#7}question 30.what can be inferred from the passage?a. bao came to see short breaks as useful for studying.b. bao thought any break longer than ten minutes wasted time.c. bao preferred asking family members to solve difficult school tasks.d. bao believed schoolwork should stop whenever he began feeling tired.write a, b, c, or d – {#8}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1921384-2",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "A"
+        },
+        {
+          "index": 9,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31.the word \"productive\" in paragraph 1 is closest in meaning to ______.a. requiring a great deal of timeb. producing useful resultsc. making people feel relaxedd. following a fixed set of ruleswrite a, b, c, or d – {#1}question 32.why did the students put their phones in a box?a. they wanted to compare the newest phone models.b. they needed to keep their bags away from the table.c. they wanted to make the meeting room look tidier.d. they wanted to reduce interruptions during focused work.write a, b, c, or d – {#2}question 33.the phrase \"this change\" in paragraph 3 refers to ______.a. adding a short social period before the work beganb. placing all the phones in a box during the meetingc. changing the meeting day from tuesday to thursdayd. asking each member to bring a written homework listwrite a, b, c, or d – {#3}question 34.which statement best paraphrases the teacher's view in the final paragraph?a. study groups work best when every minute is planned in advance.b. students should spend most group time talking about personal problems.c. a routine should support work without becoming too rigid.d. groups should change their study plan whenever one member feels bored.write a, b, c, or d – {#4}question 35.what can be inferred about the teacher's role in the study group?a. the teacher expected to lead every part of each meeting.b. the teacher trusted students to manage the routine themselves.c. the teacher selected each student's priority task.d. the teacher added the social period after huy's complaint.write a, b, c, or d – {#5}question 36.in which paragraph does the writer mention a change made after one student thought the routine was too strict?a. paragraph 1b. paragraph 2c. paragraph 3d. paragraph 4write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 2?a. to explain why the students first formed the study groupb. to describe where and when the students usually studiedc. to compare the school subjects studied by group membersd. to describe the new routine and its early effectwrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. members identified a priority before beginning focused work.b. the group kept a short discussion period for questions.c. phones were never allowed to be used during the meeting.d. one member felt that the first routine was too strict.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. a student group improved its meetings by organising work while keeping the routine flexible.b. four students stopped studying together after their meetings became too difficult to organise.c. a teacher created a strict study system that students had to follow every evening.d. a group became more successful mainly because members studied for longer hours.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. why students should always study aloneb. making a study group work betterc. the best subjects for group learningd. how to remove phones from schoolwrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31.The word \"productive\" in paragraph 1 is closest in meaning to ______.A. requiring a great deal of timeB. producing useful resultsC. making people feel relaxedD. following a fixed set of rulesWrite A, B, C, or D – {#1}Question 32.Why did the students put their phones in a box?A. They wanted to compare the newest phone models.B. They needed to keep their bags away from the table.C. They wanted to make the meeting room look tidier.D. They wanted to reduce interruptions during focused work.Write A, B, C, or D – {#2}Question 33.The phrase \"This change\" in paragraph 3 refers to ______.A. adding a short social period before the work beganB. placing all the phones in a box during the meetingC. changing the meeting day from Tuesday to ThursdayD. asking each member to bring a written homework listWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the teacher's view in the final paragraph?A. Study groups work best when every minute is planned in advance.B. Students should spend most group time talking about personal problems.C. A routine should support work without becoming too rigid.D. Groups should change their study plan whenever one member feels bored.Write A, B, C, or D – {#4}Question 35.What can be inferred about the teacher's role in the study group?A. The teacher expected to lead every part of each meeting.B. The teacher trusted students to manage the routine themselves.C. The teacher selected each student's priority task.D. The teacher added the social period after Huy's complaint.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer mention a change made after one student thought the routine was too strict?A. Paragraph 1B. Paragraph 2C. Paragraph 3D. Paragraph 4Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 2?A. To explain why the students first formed the study groupB. To describe where and when the students usually studiedC. To compare the school subjects studied by group membersD. To describe the new routine and its early effectWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Members identified a priority before beginning focused work.B. The group kept a short discussion period for questions.C. Phones were never allowed to be used during the meeting.D. One member felt that the first routine was too strict.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. A student group improved its meetings by organising work while keeping the routine flexible.B. Four students stopped studying together after their meetings became too difficult to organise.C. A teacher created a strict study system that students had to follow every evening.D. A group became more successful mainly because members studied for longer hours.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Students Should Always Study AloneB. Making a Study Group Work BetterC. The Best Subjects for Group LearningD. How to Remove Phones from SchoolWrite A, B, C, or D – {#10}",
+      "questionId": "question-1921384-2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31.the word \"productive\" in paragraph 1 is closest in meaning to ______.a. requiring a great deal of timeb. producing useful resultsc. making people feel relaxedd. following a fixed set of ruleswrite a, b, c, or d – {#1}question 32.why did the students put their phones in a box?a. they wanted to compare the newest phone models.b. they needed to keep their bags away from the table.c. they wanted to make the meeting room look tidier.d. they wanted to reduce interruptions during focused work.write a, b, c, or d – {#2}question 33.the phrase \"this change\" in paragraph 3 refers to ______.a. adding a short social period before the work beganb. placing all the phones in a box during the meetingc. changing the meeting day from tuesday to thursdayd. asking each member to bring a written homework listwrite a, b, c, or d – {#3}question 34.which statement best paraphrases the teacher's view in the final paragraph?a. study groups work best when every minute is planned in advance.b. students should spend most group time talking about personal problems.c. a routine should support work without becoming too rigid.d. groups should change their study plan whenever one member feels bored.write a, b, c, or d – {#4}question 35.what can be inferred about the teacher's role in the study group?a. the teacher expected to lead every part of each meeting.b. the teacher trusted students to manage the routine themselves.c. the teacher selected each student's priority task.d. the teacher added the social period after huy's complaint.write a, b, c, or d – {#5}question 36.in which paragraph does the writer mention a change made after one student thought the routine was too strict?a. paragraph 1b. paragraph 2c. paragraph 3d. paragraph 4write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 2?a. to explain why the students first formed the study groupb. to describe where and when the students usually studiedc. to compare the school subjects studied by group membersd. to describe the new routine and its early effectwrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. members identified a priority before beginning focused work.b. the group kept a short discussion period for questions.c. phones were never allowed to be used during the meeting.d. one member felt that the first routine was too strict.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. a student group improved its meetings by organising work while keeping the routine flexible.b. four students stopped studying together after their meetings became too difficult to organise.c. a teacher created a strict study system that students had to follow every evening.d. a group became more successful mainly because members studied for longer hours.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. why students should always study aloneb. making a study group work betterc. the best subjects for group learningd. how to remove phones from schoolwrite a, b, c, or d – {#10}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
