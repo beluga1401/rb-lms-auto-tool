@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 20:18:41",
+  "updated_at": "2026-10-26 20:21:20",
   "total_configs": 35,
   "configs": [
     {
@@ -525,24 +525,6 @@
       "updated_at": "2026-10-25 20:46:03"
     },
     {
-      "account_name": "Phạm Phương Nam",
-      "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
-      "class_key": "khoi_9",
-      "grade_num": "9",
-      "unit_name": "SESSION 4",
-      "unit_key": "session_4",
-      "quiz_title": "GR9EX37MOET",
-      "quiz_key": "gr9ex37moet",
-      "cmid": "743715",
-      "course_id": "4771",
-      "repo_path": "cloud_configs/khoi_9/session_4/gr9ex37moet.json",
-      "score": "100.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 20,
-      "updated_at": "2026-10-25 21:12:50"
-    },
-    {
       "account_name": "Văn Thiên Kim",
       "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
@@ -631,6 +613,24 @@
       "score_pct": 100.0,
       "question_count": 30,
       "updated_at": "2026-10-26 20:18:41"
+    },
+    {
+      "account_name": "Trương Võ Hoàng Lâm",
+      "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+      "class_key": "khoi_9",
+      "grade_num": "9",
+      "unit_name": "SESSION 4",
+      "unit_key": "session_4",
+      "quiz_title": "GR9EX37MOET",
+      "quiz_key": "gr9ex37moet",
+      "cmid": "743721",
+      "course_id": "4772",
+      "repo_path": "cloud_configs/khoi_9/session_4/gr9ex37moet.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 20,
+      "updated_at": "2026-10-26 20:21:20"
     }
   ]
 }
