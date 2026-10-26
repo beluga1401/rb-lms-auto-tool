@@ -1,7 +1,7 @@
 {
-  "version": "4.9.3",
-  "updated_at": "2026-10-26T14:16:06Z",
-  "total_questions": 211,
+  "version": "4.8.2",
+  "updated_at": "2026-10-26T15:29:05Z",
+  "total_questions": 236,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -3795,6 +3795,381 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-26T14:16:05Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the workshop s theme is cooperation so all its discussions and activities explore working together": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The workshop’s theme is cooperation, so all its discussions and activities explore working together.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the workshop s theme is cooperation so all its discussions and activities explore working together",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the workshop s theme is cooperation so all its discussions and activities explore working together",
+      "answer": "its central subject or unifying idea",
+      "letter": "C",
+      "options": [
+        "C. its central subject or unifying idea"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase preparing clear instructions was minh s contribution to the event his work helped the games run smoothly": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.Preparing clear instructions was Minh’s contribution to the event; his work helped the games run smoothly.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase preparing clear instructions was minh s contribution to the event his work helped the games run smoothly",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase preparing clear instructions was minh s contribution to the event his work helped the games run smoothly",
+      "answer": "the useful help he provided for the event",
+      "letter": "A",
+      "options": [
+        "A. the useful help he provided for the event"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase although the students followed different customs they recognised shared values including respect and cooperation": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.Although the students followed different customs, they recognised shared values, including respect and cooperation.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase although the students followed different customs they recognised shared values including respect and cooperation",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase although the students followed different customs they recognised shared values including respect and cooperation",
+      "answer": "principles considered important by different groups",
+      "letter": "B",
+      "options": [
+        "B. principles considered important by different groups"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase each participant in the cultural exchange will join the activities and introduce one tradition from their community": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.Each participant in the cultural exchange will join the activities and introduce one tradition from their community.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase each participant in the cultural exchange will join the activities and introduce one tradition from their community",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase each participant in the cultural exchange will join the activities and introduce one tradition from their community",
+      "answer": "a person who takes part in an activity",
+      "letter": "D",
+      "options": [
+        "D. a person who takes part in an activity"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the passage describes prosperity as a condition in which people have greater financial security and improved living conditions": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The passage describes prosperity as a condition in which people have greater financial security and improved living conditions.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the passage describes prosperity as a condition in which people have greater financial security and improved living conditions",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the passage describes prosperity as a condition in which people have greater financial security and improved living conditions",
+      "answer": "economic success and material well-being",
+      "letter": "B",
+      "options": [
+        "B. economic success and material well-being"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the students submitted a proposal outlining a welcome event for the teacher to consider": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The students submitted a proposal outlining a welcome event for the teacher to consider.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the students submitted a proposal outlining a welcome event for the teacher to consider",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the students submitted a proposal outlining a welcome event for the teacher to consider",
+      "answer": "a suggested plan presented for consideration",
+      "letter": "A",
+      "options": [
+        "A. a suggested plan presented for consideration"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the community project supports local development by helping people improve useful facilities and skills": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The community project supports local development by helping people improve useful facilities and skills.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the community project supports local development by helping people improve useful facilities and skills",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the community project supports local development by helping people improve useful facilities and skills",
+      "answer": "the process of improvement and growth",
+      "letter": "B",
+      "options": [
+        "B. the process of improvement and growth"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase preparing materials and organising a playing area help volunteers develop practical skills": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.Preparing materials and organising a playing area help volunteers develop practical skills.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase preparing materials and organising a playing area help volunteers develop practical skills",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase preparing materials and organising a playing area help volunteers develop practical skills",
+      "answer": "abilities used to carry out real tasks",
+      "letter": "B",
+      "options": [
+        "B. abilities used to carry out real tasks"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase in lan s opinion mixed team activities are the best way to help students make friends": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.In Lan’s opinion, mixed-team activities are the best way to help students make friends.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase in lan s opinion mixed team activities are the best way to help students make friends",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase in lan s opinion mixed team activities are the best way to help students make friends",
+      "answer": "a personal view or judgement",
+      "letter": "D",
+      "options": [
+        "D. a personal view or judgement"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the main goal of the welcome event is to help local and visiting students build friendships": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The main goal of the welcome event is to help local and visiting students build friendships.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the main goal of the welcome event is to help local and visiting students build friendships",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the main goal of the welcome event is to help local and visiting students build friendships",
+      "answer": "the result the event aims to achieve",
+      "letter": "D",
+      "options": [
+        "D. the result the event aims to achieve"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase during the cultural exchange students shared songs and customs and learnt about one another s traditions": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.During the cultural exchange, students shared songs and customs and learnt about one another’s traditions.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase during the cultural exchange students shared songs and customs and learnt about one another s traditions",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase during the cultural exchange students shared songs and customs and learnt about one another s traditions",
+      "answer": "mutual sharing and learning between cultures",
+      "letter": "D",
+      "options": [
+        "D. mutual sharing and learning between cultures"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the discussion was eye opening because it helped the students understand experiences they had never considered": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The discussion was eye-opening because it helped the students understand experiences they had never considered.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the discussion was eye opening because it helped the students understand experiences they had never considered",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the discussion was eye opening because it helped the students understand experiences they had never considered",
+      "answer": "revealing and helpful in developing new understanding",
+      "letter": "C",
+      "options": [
+        "C. revealing and helpful in developing new understanding"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase linh will represent her group at the planning meeting and explain the ideas agreed on by all its members": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.Linh will represent her group at the planning meeting and explain the ideas agreed on by all its members.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase linh will represent her group at the planning meeting and explain the ideas agreed on by all its members",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase linh will represent her group at the planning meeting and explain the ideas agreed on by all its members",
+      "answer": "speak and act on the group’s behalf",
+      "letter": "A",
+      "options": [
+        "A. speak and act on the group’s behalf"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the organisers need a qualified workshop leader who has the required training and relevant experience": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The organisers need a qualified workshop leader who has the required training and relevant experience.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the organisers need a qualified workshop leader who has the required training and relevant experience",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the organisers need a qualified workshop leader who has the required training and relevant experience",
+      "answer": "suitably trained and experienced for the role",
+      "letter": "B",
+      "options": [
+        "B. suitably trained and experienced for the role"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the bold word or phrase the head teacher is the recipient of the proposal so the students address the document to the head teacher": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the bold word or phrase.The head teacher is the recipient of the proposal, so the students address the document to the head teacher.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the bold word or phrase the head teacher is the recipient of the proposal so the students address the document to the head teacher",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the bold word or phrase the head teacher is the recipient of the proposal so the students address the document to the head teacher",
+      "answer": "the person who receives something",
+      "letter": "C",
+      "options": [
+        "C. the person who receives something"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the school tour aims to raise awareness of asean helping students know more about the organisation": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The school tour aims to raise awareness of ASEAN, helping students know more about the organisation.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the school tour aims to raise awareness of asean helping students know more about the organisation",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the school tour aims to raise awareness of asean helping students know more about the organisation",
+      "answer": "reduce students’ knowledge of ASEAN",
+      "letter": "D",
+      "options": [
+        "D. reduce students’ knowledge of ASEAN"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the organisers use mixed teams to bring together local and visiting students": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The organisers use mixed teams to bring together local and visiting students.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the organisers use mixed teams to bring together local and visiting students",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the organisers use mixed teams to bring together local and visiting students",
+      "answer": "keep apart",
+      "letter": "A",
+      "options": [
+        "A. keep apart"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase all group members will take part in preparing the country presentation": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.All group members will take part in preparing the country presentation.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase all group members will take part in preparing the country presentation",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase all group members will take part in preparing the country presentation",
+      "answer": "remain uninvolved in",
+      "letter": "D",
+      "options": [
+        "D. remain uninvolved in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the discussion highlighted shared values showing that both groups considered respect and cooperation important": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The discussion highlighted shared values, showing that both groups considered respect and cooperation important.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the discussion highlighted shared values showing that both groups considered respect and cooperation important",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the discussion highlighted shared values showing that both groups considered respect and cooperation important",
+      "answer": "conflicting principles",
+      "letter": "D",
+      "options": [
+        "D. conflicting principles"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the school needs a qualified trainer with suitable preparation and experience for the workshop": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The school needs a qualified trainer with suitable preparation and experience for the workshop.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the school needs a qualified trainer with suitable preparation and experience for the workshop",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the school needs a qualified trainer with suitable preparation and experience for the workshop",
+      "answer": "lacking the required qualifications",
+      "letter": "A",
+      "options": [
+        "A. lacking the required qualifications"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the cultural programme aims to strengthen asean korea relations by encouraging closer cooperation": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The cultural programme aims to strengthen ASEAN-Korea relations by encouraging closer cooperation.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the cultural programme aims to strengthen asean korea relations by encouraging closer cooperation",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the cultural programme aims to strengthen asean korea relations by encouraging closer cooperation",
+      "answer": "weaken connections between ASEAN and Korea",
+      "letter": "A",
+      "options": [
+        "A. weaken connections between ASEAN and Korea"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the passage contrasts economic hardship with prosperity describing improved financial security": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The passage contrasts economic hardship with prosperity, describing improved financial security.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the passage contrasts economic hardship with prosperity describing improved financial security",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the passage contrasts economic hardship with prosperity describing improved financial security",
+      "answer": "poverty",
+      "letter": "C",
+      "options": [
+        "C. poverty"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the project promotes gender equality giving students of different genders equal opportunities to participate": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The project promotes gender equality, giving students of different genders equal opportunities to participate.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the project promotes gender equality giving students of different genders equal opportunities to participate",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the project promotes gender equality giving students of different genders equal opportunities to participate",
+      "answer": "unequal treatment based on gender",
+      "letter": "B",
+      "options": [
+        "B. unequal treatment based on gender"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase the project aims to support community development including improvements in useful services": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.The project aims to support community development, including improvements in useful services.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the project aims to support community development including improvements in useful services",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase the project aims to support community development including improvements in useful services",
+      "answer": "decline",
+      "letter": "C",
+      "options": [
+        "C. decline"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
+    },
+    "choose the option a b c or d that is opposite in meaning to the bold word or phrase after discussing the proposal the group reached agreement about the event s main goal": {
+      "question": "Choose the option A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase.After discussing the proposal, the group reached agreement about the event’s main goal.",
+      "clean_stem": "choose the option a b c or d that is opposite in meaning to the bold word or phrase after discussing the proposal the group reached agreement about the event s main goal",
+      "stem_key": "choose the option a b c or d that is opposite in meaning to the bold word or phrase after discussing the proposal the group reached agreement about the event s main goal",
+      "answer": "a difference of opinion",
+      "letter": "A",
+      "options": [
+        "A. a difference of opinion"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "silent_review",
+      "updated_at": "2026-10-26T15:29:03Z"
     }
   }
 }
