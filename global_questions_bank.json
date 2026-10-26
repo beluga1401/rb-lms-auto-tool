@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-26T13:18:45Z",
-  "total_questions": 62,
+  "updated_at": "2026-10-26T13:21:23Z",
+  "total_questions": 82,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -1002,6 +1002,306 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-26T13:18:44Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to grandma described the traditional games she played during her school days unlike today s computer games those did not require electronic devices": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.Grandma described the traditional games she played during her school days. Unlike today's computer games, those did not require electronic devices.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to grandma described the traditional games she played during her school days unlike today s computer games those did not require electronic devices",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to grandma described the traditional games she played during her school days unlike today s computer games those did not require electronic devices",
+      "answer": "Grandma's traditional games",
+      "letter": "C",
+      "options": [
+        "Grandma's traditional games"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to older family members teach children how to follow important family customs this helps keep those customs alive for future generations": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.Older family members teach children how to follow important family customs. This helps keep those customs alive for future generations.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to older family members teach children how to follow important family customs this helps keep those customs alive for future generations",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to older family members teach children how to follow important family customs this helps keep those customs alive for future generations",
+      "answer": "teaching children how to follow family customs",
+      "letter": "B",
+      "options": [
+        "teaching children how to follow family customs"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to lan stores her old family photographs away from sunlight and moisture this helps prevent damage and keeps the pictures clear": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.Lan stores her old family photographs away from sunlight and moisture. This helps prevent damage and keeps the pictures clear.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to lan stores her old family photographs away from sunlight and moisture this helps prevent damage and keeps the pictures clear",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to lan stores her old family photographs away from sunlight and moisture this helps prevent damage and keeps the pictures clear",
+      "answer": "storing photographs away from sunlight and moisture",
+      "letter": "D",
+      "options": [
+        "storing photographs away from sunlight and moisture"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to the grandparents shared memories of old school days they recalled walking to school and playing traditional games during their childhood the students recorded these memories for their project": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.The grandparents shared memories of old school days. They recalled walking to school and playing traditional games during their childhood. The students recorded these memories for their project.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to the grandparents shared memories of old school days they recalled walking to school and playing traditional games during their childhood the students recorded these memories for their project",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to the grandparents shared memories of old school days they recalled walking to school and playing traditional games during their childhood the students recorded these memories for their project",
+      "answer": "the grandparents",
+      "letter": "C",
+      "options": [
+        "the grandparents"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to the passage describes worshipping ancestors and celebrating their death anniversaries these are practices through which families remember earlier generations": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.The passage describes worshipping ancestors and celebrating their death anniversaries. These are practices through which families remember earlier generations.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to the passage describes worshipping ancestors and celebrating their death anniversaries these are practices through which families remember earlier generations",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to the passage describes worshipping ancestors and celebrating their death anniversaries these are practices through which families remember earlier generations",
+      "answer": "worshipping ancestors and celebrating death anniversaries",
+      "letter": "A",
+      "options": [
+        "worshipping ancestors and celebrating death anniversaries"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to the group listed rice green beans and pork as the basic ingredients of banh chung they were written together under the heading ingredients on the group s poster": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.The group listed rice, green beans, and pork as the basic ingredients of banh chung. They were written together under the heading \"Ingredients\" on the group's poster.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to the group listed rice green beans and pork as the basic ingredients of banh chung they were written together under the heading ingredients on the group s poster",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to the group listed rice green beans and pork as the basic ingredients of banh chung they were written together under the heading ingredients on the group s poster",
+      "answer": "rice, green beans, and pork",
+      "letter": "A",
+      "options": [
+        "rice, green beans, and pork"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to our group visited an old communal house near the village library the guide explained that it was used for village meetings and traditional ceremonies": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.Our group visited an old communal house near the village library. The guide explained that it was used for village meetings and traditional ceremonies.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to our group visited an old communal house near the village library the guide explained that it was used for village meetings and traditional ceremonies",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to our group visited an old communal house near the village library the guide explained that it was used for village meetings and traditional ceremonies",
+      "answer": "the communal house",
+      "letter": "B",
+      "options": [
+        "the communal house"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to mai described a traditional dish in her presentation she explained that it was prepared for special family occasions": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.Mai described a traditional dish in her presentation. She explained that it was prepared for special family occasions.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to mai described a traditional dish in her presentation she explained that it was prepared for special family occasions",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to mai described a traditional dish in her presentation she explained that it was prepared for special family occasions",
+      "answer": "the traditional dish",
+      "letter": "D",
+      "options": [
+        "the traditional dish"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to the students collected photographs and drawings for their project they selected four photographs showing their grandparents at school these were placed in the centre of the poster": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.The students collected photographs and drawings for their project. They selected four photographs showing their grandparents at school. These were placed in the centre of the poster.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to the students collected photographs and drawings for their project they selected four photographs showing their grandparents at school these were placed in the centre of the poster",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to the students collected photographs and drawings for their project they selected four photographs showing their grandparents at school these were placed in the centre of the poster",
+      "answer": "the four selected photographs",
+      "letter": "A",
+      "options": [
+        "the four selected photographs"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "read each text choose a b c or d to identify what the bold reference word refers to lan borrowed a book which contains photographs of traditional vietnamese dishes she used the photographs to prepare her cuisine presentation": {
+      "question": "Read each text. Choose A, B, C, or D to identify what the bold reference word refers to.Lan borrowed a book, which contains photographs of traditional Vietnamese dishes. She used the photographs to prepare her cuisine presentation.",
+      "clean_stem": "read each text choose a b c or d to identify what the bold reference word refers to lan borrowed a book which contains photographs of traditional vietnamese dishes she used the photographs to prepare her cuisine presentation",
+      "stem_key": "read each text choose a b c or d to identify what the bold reference word refers to lan borrowed a book which contains photographs of traditional vietnamese dishes she used the photographs to prepare her cuisine presentation",
+      "answer": "the borrowed book",
+      "letter": "D",
+      "options": [
+        "the borrowed book"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence although the communal house is old it is well preserved": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.Although the communal house is old, it is well-preserved.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence although the communal house is old it is well preserved",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence although the communal house is old it is well preserved",
+      "answer": "The communal house remains in good condition despite its age.",
+      "letter": "A",
+      "options": [
+        "The communal house remains in good condition despite its age."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence we should preserve the communal house so that future generations can use it": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.We should preserve the communal house so that future generations can use it.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence we should preserve the communal house so that future generations can use it",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence we should preserve the communal house so that future generations can use it",
+      "answer": "We should keep the communal house safe so that people in the future can use it.",
+      "letter": "C",
+      "options": [
+        "We should keep the communal house safe so that people in the future can use it."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence rice and vegetables are the basic ingredients of this dish": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.Rice and vegetables are the basic ingredients of this dish.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence rice and vegetables are the basic ingredients of this dish",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence rice and vegetables are the basic ingredients of this dish",
+      "answer": "Rice and vegetables are the main foods used to make this dish.",
+      "letter": "D",
+      "options": [
+        "Rice and vegetables are the main foods used to make this dish."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence the dish originated in this village": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.The dish originated in this village.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence the dish originated in this village",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence the dish originated in this village",
+      "answer": "The dish first developed in this village.",
+      "letter": "D",
+      "options": [
+        "The dish first developed in this village."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence lan talked face to face with her grandmother about old school days": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.Lan talked face to face with her grandmother about old school days.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence lan talked face to face with her grandmother about old school days",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence lan talked face to face with her grandmother about old school days",
+      "answer": "Lan met her grandmother in person and discussed school life in the past.",
+      "letter": "D",
+      "options": [
+        "Lan met her grandmother in person and discussed school life in the past."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence the students expressed their gratitude to the guide for showing them around the historic site": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.The students expressed their gratitude to the guide for showing them around the historic site.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence the students expressed their gratitude to the guide for showing them around the historic site",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence the students expressed their gratitude to the guide for showing them around the historic site",
+      "answer": "The students thanked the guide for taking them around the historic site.",
+      "letter": "C",
+      "options": [
+        "The students thanked the guide for taking them around the historic site."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence older family members pass customs down to their children": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.Older family members pass customs down to their children.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence older family members pass customs down to their children",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence older family members pass customs down to their children",
+      "answer": "Older family members teach family customs to their children.",
+      "letter": "D",
+      "options": [
+        "Older family members teach family customs to their children."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence mai wishes she had more time to interview her grandparents about family traditions": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.Mai wishes she had more time to interview her grandparents about family traditions.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence mai wishes she had more time to interview her grandparents about family traditions",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence mai wishes she had more time to interview her grandparents about family traditions",
+      "answer": "Mai would like more time for these interviews than she currently has.",
+      "letter": "D",
+      "options": [
+        "Mai would like more time for these interviews than she currently has."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence we bought a takeaway from the restaurant and ate it at home": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.We bought a takeaway from the restaurant and ate it at home.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence we bought a takeaway from the restaurant and ate it at home",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence we bought a takeaway from the restaurant and ate it at home",
+      "answer": "We bought a meal from the restaurant and ate it at home.",
+      "letter": "B",
+      "options": [
+        "We bought a meal from the restaurant and ate it at home."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
+    },
+    "choose a b c or d that has the closest meaning to the original sentence the students were looking at old photographs when the guide arrived": {
+      "question": "Choose A, B, C, or D that has the closest meaning to the original sentence.The students were looking at old photographs when the guide arrived.",
+      "clean_stem": "choose a b c or d that has the closest meaning to the original sentence the students were looking at old photographs when the guide arrived",
+      "stem_key": "choose a b c or d that has the closest meaning to the original sentence the students were looking at old photographs when the guide arrived",
+      "answer": "The students were already examining the old photographs as the guide arrived.",
+      "letter": "A",
+      "options": [
+        "The students were already examining the old photographs as the guide arrived."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:21:23Z"
     }
   }
 }
