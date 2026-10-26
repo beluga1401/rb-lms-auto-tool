@@ -1,6 +1,6 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-26T14:09:46Z",
+  "updated_at": "2026-10-26T14:12:08Z",
   "total_questions": 211,
   "questions": {
     "which animal is a pet": {
@@ -2887,7 +2887,7 @@
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context students want to set a new volunteer club they have chosen its name and are inviting its first members",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context students want to set a new volunteer club they have chosen its name and are inviting its first members",
       "answer": "up",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "up"
       ],
@@ -2895,14 +2895,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the organisation teaches life skills to help people survive emergencies": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The organisation teaches life-________ skills to help people survive emergencies.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the organisation teaches life skills to help people survive emergencies",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the organisation teaches life skills to help people survive emergencies",
       "answer": "saving",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "saving"
       ],
@@ -2910,7 +2910,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context after the event volunteers will the park by removing litter and leaving the paths tidy": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.After the event, volunteers will ________ the park by removing litter and leaving the paths tidy.",
@@ -2925,14 +2925,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the club sold handmade cards to raise for charity the funds collected would buy blankets": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The club sold handmade cards to raise ________ for charity. The funds collected would buy blankets.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the club sold handmade cards to raise for charity the funds collected would buy blankets",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the club sold handmade cards to raise for charity the funds collected would buy blankets",
       "answer": "money",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "money"
       ],
@@ -2940,14 +2940,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context helping regularly at the centre allows students to gain work through practical duties and teamwork": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.Helping regularly at the centre allows students to gain work ________ through practical duties and teamwork.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context helping regularly at the centre allows students to gain work through practical duties and teamwork",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context helping regularly at the centre allows students to gain work through practical duties and teamwork",
       "answer": "experience",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "experience"
       ],
@@ -2955,14 +2955,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context before packing the goods volunteers needed to donations into groups of clothes books and blankets": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.Before packing the goods, volunteers needed to ________ donations into groups of clothes, books, and blankets.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context before packing the goods volunteers needed to donations into groups of clothes books and blankets",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context before packing the goods volunteers needed to donations into groups of clothes books and blankets",
       "answer": "sort",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "sort"
       ],
@@ -2970,14 +2970,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the kitchen staff had cooked and sealed meal packs for families to eat at home volunteers then used bicycles to free meals to each address": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The kitchen staff had cooked and sealed meal packs for families to eat at home. Volunteers then used bicycles to ________ free meals to each address.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the kitchen staff had cooked and sealed meal packs for families to eat at home volunteers then used bicycles to free meals to each address",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the kitchen staff had cooked and sealed meal packs for families to eat at home volunteers then used bicycles to free meals to each address",
       "answer": "deliver",
-      "letter": "A",
+      "letter": "C",
       "options": [
         "deliver"
       ],
@@ -2985,14 +2985,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the club helps teenagers meet others with similar such as enjoying the same crafts or games": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The club helps teenagers meet others with similar ________, such as enjoying the same crafts or games.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the club helps teenagers meet others with similar such as enjoying the same crafts or games",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the club helps teenagers meet others with similar such as enjoying the same crafts or games",
       "answer": "interests",
-      "letter": "C",
+      "letter": "B",
       "options": [
         "interests"
       ],
@@ -3000,14 +3000,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the application form is still blank first the requested details afterwards check and submit it": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The application form is still blank. First, ________ the requested details; afterwards, check and submit it.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the application form is still blank first the requested details afterwards check and submit it",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the application form is still blank first the requested details afterwards check and submit it",
       "answer": "fill in",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "fill in"
       ],
@@ -3015,14 +3015,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the team is ready to carry the planned activities collecting books sorting donations and delivering them": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The team is ready to carry ________ the planned activities: collecting books, sorting donations, and delivering them.",
       "clean_stem": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the team is ready to carry the planned activities collecting books sorting donations and delivering them",
       "stem_key": "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context the team is ready to carry the planned activities collecting books sorting donations and delivering them",
       "answer": "out",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "out"
       ],
@@ -3030,7 +3030,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the residents were very to the team they provided guidance and assisted with unloading": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The residents were very ________ to the team. They provided guidance and assisted with unloading.",
@@ -3045,7 +3045,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the students described their first volunteer activity as it made them eager to return": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The students described their first volunteer activity as ________. It made them eager to return.",
@@ -3060,14 +3060,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the club received several generous from local families including books and warm clothes": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The club received several generous ________ from local families, including books and warm clothes.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the club received several generous from local families including books and warm clothes",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the club received several generous from local families including books and warm clothes",
       "answer": "donations",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "donations"
       ],
@@ -3075,7 +3075,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding before sending her lan checked her contact details and available days": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.Before sending her ________, Lan checked her contact details and available days.",
@@ -3090,14 +3090,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the organiser described the opportunities as because there always seemed to be another way to help": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The organiser described the opportunities as ________ because there always seemed to be another way to help.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the organiser described the opportunities as because there always seemed to be another way to help",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the organiser described the opportunities as because there always seemed to be another way to help",
       "answer": "endless",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "endless"
       ],
@@ -3105,14 +3105,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding minh is in helping at the food bank because he wants to support local families": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.Minh is ________ in helping at the food bank because he wants to support local families.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding minh is in helping at the food bank because he wants to support local families",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding minh is in helping at the food bank because he wants to support local families",
       "answer": "interested",
-      "letter": "C",
+      "letter": "B",
       "options": [
         "interested"
       ],
@@ -3120,14 +3120,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding three stayed at the centre to sort the donated clothes": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.Three ________ stayed at the centre to sort the donated clothes.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding three stayed at the centre to sort the donated clothes",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding three stayed at the centre to sort the donated clothes",
       "answer": "volunteers",
-      "letter": "A",
+      "letter": "C",
       "options": [
         "volunteers"
       ],
@@ -3135,14 +3135,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the collection was the club reached its target and supplied the requested books": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The collection was ________. The club reached its target and supplied the requested books.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the collection was the club reached its target and supplied the requested books",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the collection was the club reached its target and supplied the requested books",
       "answer": "successful",
-      "letter": "C",
+      "letter": "B",
       "options": [
         "successful"
       ],
@@ -3150,14 +3150,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the volunteers were very when recording donations they checked every entry to avoid mistakes": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The volunteers were very ________ when recording donations. They checked every entry to avoid mistakes.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the volunteers were very when recording donations they checked every entry to avoid mistakes",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the volunteers were very when recording donations they checked every entry to avoid mistakes",
       "answer": "careful",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "careful"
       ],
@@ -3165,14 +3165,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the team felt about meeting the deadline they believed there was no chance of finishing on time": {
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The team felt ________ about meeting the deadline. They believed there was no chance of finishing on time.",
       "clean_stem": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the team felt about meeting the deadline they believed there was no chance of finishing on time",
       "stem_key": "choose a b c or d that fits both grammar and meaning identify the required word class or number before deciding the team felt about meeting the deadline they believed there was no chance of finishing on time",
       "answer": "hopeless",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "hopeless"
       ],
@@ -3180,7 +3180,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T13:38:25Z"
+      "updated_at": "2026-10-26T14:12:07Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone hoa had only checked half the book list when a new volunteer reached the centre she the remaining entries when the volunteer": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Hoa had only checked half the book list when a new volunteer reached the centre. She ________ the remaining entries when the volunteer ________.",
