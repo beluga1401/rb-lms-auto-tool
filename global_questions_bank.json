@@ -1,7 +1,7 @@
 {
-  "version": "4.8.0",
-  "updated_at": "2026-10-13T12:10:33Z",
-  "total_questions": 1,
+  "version": "4.9.3",
+  "updated_at": "2026-10-26T13:10:54Z",
+  "total_questions": 26,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -13,6 +13,381 @@
         "Bird",
         "Fish"
       ]
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase in the photograph the children are walking barefoot they have no shoes or socks on": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.In the photograph, the children are walking barefoot. They have no shoes or socks on.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase in the photograph the children are walking barefoot they have no shoes or socks on",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase in the photograph the children are walking barefoot they have no shoes or socks on",
+      "answer": "wearing nothing on the feet",
+      "letter": "D",
+      "options": [
+        "wearing nothing on the feet"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase our group wants to preserve old photographs so that future generations can learn about life in the past": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.Our group wants to preserve old photographs so that future generations can learn about life in the past.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase our group wants to preserve old photographs so that future generations can learn about life in the past",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase our group wants to preserve old photographs so that future generations can learn about life in the past",
+      "answer": "keep safe and in good condition",
+      "letter": "A",
+      "options": [
+        "keep safe and in good condition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase after the old village received official recognition as a historic site its residents felt that its cultural importance had been acknowledged": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.After the old village received official recognition as a historic site, its residents felt that its cultural importance had been acknowledged.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase after the old village received official recognition as a historic site its residents felt that its cultural importance had been acknowledged",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase after the old village received official recognition as a historic site its residents felt that its cultural importance had been acknowledged",
+      "answer": "official acceptance of its importance",
+      "letter": "C",
+      "options": [
+        "official acceptance of its importance"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase some people add vinegar to their food because they enjoy its sour flavour": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.Some people add vinegar to their food because they enjoy its sour flavour.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase some people add vinegar to their food because they enjoy its sour flavour",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase some people add vinegar to their food because they enjoy its sour flavour",
+      "answer": "sour liquid used to flavour food",
+      "letter": "D",
+      "options": [
+        "a sour liquid used to flavour food"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase the guide described the old temple as a religious monument explaining its importance to people who followed that religion": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.The guide described the old temple as a religious monument, explaining its importance to people who followed that religion.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the guide described the old temple as a religious monument explaining its importance to people who followed that religion",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the guide described the old temple as a religious monument explaining its importance to people who followed that religion",
+      "answer": "an important structure connected with religious belief",
+      "letter": "B",
+      "options": [
+        "an important structure connected with religious belief"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase older family members pass down traditions by teaching children the customs they learnt from earlier generations": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.Older family members pass down traditions by teaching children the customs they learnt from earlier generations.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase older family members pass down traditions by teaching children the customs they learnt from earlier generations",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase older family members pass down traditions by teaching children the customs they learnt from earlier generations",
+      "answer": "give or teach to younger generations",
+      "letter": "B",
+      "options": [
+        "give or teach to younger generations"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase although the castle is very old it is still occupied a family lives in several of its rooms": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.Although the castle is very old, it is still occupied. A family lives in several of its rooms.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase although the castle is very old it is still occupied a family lives in several of its rooms",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase although the castle is very old it is still occupied a family lives in several of its rooms",
+      "answer": "being lived in by people",
+      "letter": "B",
+      "options": [
+        "being lived in by people"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase the visitors thought the communal house was magnificent they stopped to admire its beautiful roof and impressive wooden decorations": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.The visitors thought the communal house was magnificent. They stopped to admire its beautiful roof and impressive wooden decorations.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the visitors thought the communal house was magnificent they stopped to admire its beautiful roof and impressive wooden decorations",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the visitors thought the communal house was magnificent they stopped to admire its beautiful roof and impressive wooden decorations",
+      "answer": "extremely beautiful and impressive",
+      "letter": "A",
+      "options": [
+        "extremely beautiful and impressive"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase the custom is deep rooted in the family several generations have followed it and they do not change it easily": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.The custom is deep-rooted in the family. Several generations have followed it, and they do not change it easily.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the custom is deep rooted in the family several generations have followed it and they do not change it easily",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the custom is deep rooted in the family several generations have followed it and they do not change it easily",
+      "answer": "firmly established and difficult to change",
+      "letter": "C",
+      "options": [
+        "firmly established and difficult to change"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase after their grandparents shared memories of old school days the students expressed their gratitude by thanking them warmly": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.After their grandparents shared memories of old school days, the students expressed their gratitude by thanking them warmly.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase after their grandparents shared memories of old school days the students expressed their gratitude by thanking them warmly",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase after their grandparents shared memories of old school days the students expressed their gratitude by thanking them warmly",
+      "answer": "feeling of thankfulness",
+      "letter": "A",
+      "options": [
+        "a feeling of thankfulness"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase the building is more than a century old but it is well preserved its roof doors and wooden walls remain in good condition": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.The building is more than a century old, but it is well-preserved. Its roof, doors, and wooden walls remain in good condition.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the building is more than a century old but it is well preserved its roof doors and wooden walls remain in good condition",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the building is more than a century old but it is well preserved its roof doors and wooden walls remain in good condition",
+      "answer": "carefully kept in good condition",
+      "letter": "A",
+      "options": [
+        "carefully kept in good condition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase mai enjoys watching regional festivals but this year she also wants to take part in one by joining the traditional games": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.Mai enjoys watching regional festivals, but this year she also wants to take part in one by joining the traditional games.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase mai enjoys watching regional festivals but this year she also wants to take part in one by joining the traditional games",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase mai enjoys watching regional festivals but this year she also wants to take part in one by joining the traditional games",
+      "answer": "participate in",
+      "letter": "D",
+      "options": [
+        "participate in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase at tet and on other special occasions the family prepares traditional dishes and invites relatives to eat together": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.At Tet and on other special occasions, the family prepares traditional dishes and invites relatives to eat together.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase at tet and on other special occasions the family prepares traditional dishes and invites relatives to eat together",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase at tet and on other special occasions the family prepares traditional dishes and invites relatives to eat together",
+      "answer": "events or particular special times",
+      "letter": "C",
+      "options": [
+        "events or particular special times"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase our poster explains that a century is a period of one hundred years": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.Our poster explains that a century is a period of one hundred years.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase our poster explains that a century is a period of one hundred years",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase our poster explains that a century is a period of one hundred years",
+      "answer": "period of one hundred years",
+      "letter": "C",
+      "options": [
+        "a period of one hundred years"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "read each context choose a b c or d that is closet in meaning to the bold word or phrase the villagers meet in the communal house to discuss village matters and hold traditional ceremonies": {
+      "question": "Read each context. Choose A, B, C, or D that is CLOSET in meaning to the bold word or phrase.The villagers meet in the communal house to discuss village matters and hold traditional ceremonies.",
+      "clean_stem": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the villagers meet in the communal house to discuss village matters and hold traditional ceremonies",
+      "stem_key": "read each context choose a b c or d that is closet in meaning to the bold word or phrase the villagers meet in the communal house to discuss village matters and hold traditional ceremonies",
+      "answer": "shared village building for meetings and ceremonies",
+      "letter": "A",
+      "options": [
+        "a shared village building for meetings and ceremonies"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the old family photographs are well preserved their surfaces are clean and the pictures remain clear": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.The old family photographs are well-preserved. Their surfaces are clean, and the pictures remain clear.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the old family photographs are well preserved their surfaces are clean and the pictures remain clear",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the old family photographs are well preserved their surfaces are clean and the pictures remain clear",
+      "answer": "badly damaged",
+      "letter": "D",
+      "options": [
+        "badly damaged"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context preparing traditional dishes for important gatherings is typical of this family it is something they usually do": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.Preparing traditional dishes for important gatherings is typical of this family; it is something they usually do.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context preparing traditional dishes for important gatherings is typical of this family it is something they usually do",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context preparing traditional dishes for important gatherings is typical of this family it is something they usually do",
+      "answer": "unusual",
+      "letter": "A",
+      "options": [
+        "unusual"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the visitors described the building as magnificent because its beautiful decorations impressed everyone": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.The visitors described the building as magnificent because its beautiful decorations impressed everyone.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the visitors described the building as magnificent because its beautiful decorations impressed everyone",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the visitors described the building as magnificent because its beautiful decorations impressed everyone",
+      "answer": "unimpressive",
+      "letter": "B",
+      "options": [
+        "unimpressive"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context as the guide opens the wooden doors the decorations inside begin to appear in the light": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.As the guide opens the wooden doors, the decorations inside begin to appear in the light.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context as the guide opens the wooden doors the decorations inside begin to appear in the light",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context as the guide opens the wooden doors the decorations inside begin to appear in the light",
+      "answer": "disappear",
+      "letter": "C",
+      "options": [
+        "disappear"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the old castle is still occupied several families live inside it throughout the year": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.The old castle is still occupied: several families live inside it throughout the year.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the old castle is still occupied several families live inside it throughout the year",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the old castle is still occupied several families live inside it throughout the year",
+      "answer": "unoccupied",
+      "letter": "A",
+      "options": [
+        "unoccupied"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context in the poster the traditional dish is associated with a regional festival because people often prepare it for that celebration": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.In the poster, the traditional dish is associated with a regional festival because people often prepare it for that celebration.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context in the poster the traditional dish is associated with a regional festival because people often prepare it for that celebration",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context in the poster the traditional dish is associated with a regional festival because people often prepare it for that celebration",
+      "answer": "unconnected",
+      "letter": "B",
+      "options": [
+        "unconnected"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context grandparents keep traditions alive by teaching younger family members how to follow important customs": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.Grandparents keep traditions alive by teaching younger family members how to follow important customs.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context grandparents keep traditions alive by teaching younger family members how to follow important customs",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context grandparents keep traditions alive by teaching younger family members how to follow important customs",
+      "answer": "allow traditions to die out",
+      "letter": "A",
+      "options": [
+        "allow traditions to die out"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the project compares an ancient structure built many centuries ago with a building completed last year": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.The project compares an ancient structure built many centuries ago with a building completed last year.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the project compares an ancient structure built many centuries ago with a building completed last year",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the project compares an ancient structure built many centuries ago with a building completed last year",
+      "answer": "modern",
+      "letter": "B",
+      "options": [
+        "modern"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the custom is deep rooted in the family it has continued for generations and family members strongly resist changing it": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.The custom is deep-rooted in the family. It has continued for generations, and family members strongly resist changing it.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the custom is deep rooted in the family it has continued for generations and family members strongly resist changing it",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the custom is deep rooted in the family it has continued for generations and family members strongly resist changing it",
+      "answer": "easily changed",
+      "letter": "C",
+      "options": [
+        "easily changed"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
+    },
+    "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the villagers want to preserve the old communal house so that future generations can continue using it": {
+      "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold word or phrase in its context.The villagers want to preserve the old communal house so that future generations can continue using it.",
+      "clean_stem": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the villagers want to preserve the old communal house so that future generations can continue using it",
+      "stem_key": "choose a b c or d that is opposite in meaning to the bold word or phrase in its context the villagers want to preserve the old communal house so that future generations can continue using it",
+      "answer": "destroy",
+      "letter": "C",
+      "options": [
+        "destroy"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:10:53Z"
     }
   }
 }
