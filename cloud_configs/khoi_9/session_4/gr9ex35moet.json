@@ -1,25 +1,25 @@
 {
   "metadata": {
-    "account_name": "Phạm Phương Nam",
-    "class_name": "Khối 9 (LGK LC-Lớp 9A1 (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 9A1 (2026-2027)",
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
     "class_key": "khoi_9",
     "grade_num": "9",
     "unit_name": "SESSION 4",
     "unit_key": "session_4",
     "quiz_title": "GR9EX35MOET",
     "quiz_key": "gr9ex35moet",
-    "cmid": "743014",
-    "course_id": "4771",
+    "cmid": "743020",
+    "course_id": "4772",
     "repo_path": "cloud_configs/khoi_9/session_4/gr9ex35moet.json",
-    "score": "100.00 trên 100.00",
+    "score": "95.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 20,
-    "updated_at": "2026-10-25 21:06:21"
+    "updated_at": "2026-10-26 20:12:49"
   },
   "answers": [
     {
-      "id": "question-1919098-5",
+      "id": "question-1921260-5",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.grandparents help keep traditions ________ by teaching children the customs they learnt when they were young.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. Grandparents help keep traditions ________ by teaching children the customs they learnt when they were young.",
       "options": [
@@ -27,17 +27,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-5",
-      "questionNumber": 3,
+      "questionId": "question-1921260-5",
+      "questionNumber": 9,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.Grandparents help keep traditions ________ by teaching children the customs they learnt when they were young.",
       "answer": "alive",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.grandparents help keep traditions ________ by teaching children the customs they learnt when they were young.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "alive"
     },
     {
-      "id": "question-1919098-7",
+      "id": "question-1921260-7",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.we should protect these traditions for future ________, including children who have not yet been born.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. We should protect these traditions for future ________, including children who have not yet been born.",
       "options": [
@@ -45,17 +45,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-7",
-      "questionNumber": 7,
+      "questionId": "question-1921260-7",
+      "questionNumber": 10,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.We should protect these traditions for future ________, including children who have not yet been born.",
       "answer": "generations",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.we should protect these traditions for future ________, including children who have not yet been born.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "generations"
     },
     {
-      "id": "question-1919098-8",
+      "id": "question-1921260-8",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the villagers' preservation ________ — the time and hard work they put into protecting the communal house — have kept it in good condition.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. The villagers’ preservation ________ — the time and hard work they put into protecting the communal house — have kept it in good condition.",
       "options": [
@@ -63,8 +63,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-8",
-      "questionNumber": 5,
+      "questionId": "question-1921260-8",
+      "questionNumber": 6,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The villagers' preservation ________ — the time and hard work they put into protecting the communal house — have kept it in good condition.",
       "answer": "efforts",
       "dragdrops": [],
@@ -73,7 +73,7 @@
       "rightAnswer": "efforts"
     },
     {
-      "id": "question-1919098-4",
+      "id": "question-1921260-4",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the regional festival aims to promote ________ by encouraging more visitors to learn about the area's traditions.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. The regional festival aims to promote ________ by encouraging more visitors to learn about the area’s traditions.",
       "options": [
@@ -81,17 +81,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-4",
-      "questionNumber": 8,
+      "questionId": "question-1921260-4",
+      "questionNumber": 1,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The regional festival aims to promote ________ by encouraging more visitors to learn about the area's traditions.",
       "answer": "tourism",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the regional festival aims to promote ________ by encouraging more visitors to learn about the area's traditions.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "tourism"
     },
     {
-      "id": "question-1919098-2",
+      "id": "question-1921260-2",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.although family life has changed, they still ________ their customs and traditions by following the practices taught by older generations.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. Although family life has changed, they still ________ their customs and traditions by following the practices taught by older generations.",
       "options": [
@@ -99,17 +99,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-2",
-      "questionNumber": 1,
+      "questionId": "question-1921260-2",
+      "questionNumber": 7,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.Although family life has changed, they still ________ their customs and traditions by following the practices taught by older generations.",
       "answer": "observe",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.although family life has changed, they still ________ their customs and traditions by following the practices taught by older generations.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "observe"
     },
     {
-      "id": "question-1919098-9",
+      "id": "question-1921260-9",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the village head will ________ us around the communal house and explain how its different rooms are used.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. The village head will ________ us around the communal house and explain how its different rooms are used.",
       "options": [
@@ -117,17 +117,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-9",
-      "questionNumber": 10,
+      "questionId": "question-1921260-9",
+      "questionNumber": 2,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The village head will ________ us around the communal house and explain how its different rooms are used.",
       "answer": "show",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the village head will ________ us around the communal house and explain how its different rooms are used.",
-      "letter": "C",
+      "letter": "B",
       "rightAnswer": "show"
     },
     {
-      "id": "question-1919098-6",
+      "id": "question-1921260-6",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the old buildings and customs inherited from earlier generations form part of the village's cultural ________.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. The old buildings and customs inherited from earlier generations form part of the village’s cultural ________.",
       "options": [
@@ -135,17 +135,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-6",
-      "questionNumber": 2,
+      "questionId": "question-1921260-6",
+      "questionNumber": 8,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The old buildings and customs inherited from earlier generations form part of the village's cultural ________.",
       "answer": "heritage",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the old buildings and customs inherited from earlier generations form part of the village's cultural ________.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "heritage"
     },
     {
-      "id": "question-1919098-1",
+      "id": "question-1921260-1",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.during family ceremonies, they worship their ________ to show respect for family members who lived long ago.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. During family ceremonies, they worship their ________ to show respect for family members who lived long ago.",
       "options": [
@@ -153,8 +153,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-1",
-      "questionNumber": 6,
+      "questionId": "question-1921260-1",
+      "questionNumber": 4,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.During family ceremonies, they worship their ________ to show respect for family members who lived long ago.",
       "answer": "ancestors",
       "dragdrops": [],
@@ -163,25 +163,25 @@
       "rightAnswer": "ancestors"
     },
     {
-      "id": "question-1919098-10",
-      "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.our classmates want to take part ________ the traditional games at the regional festival.",
+      "id": "9",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase. our classmates want to take part ________ the traditional games at the regional festival.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. Our classmates want to take part ________ the traditional games at the regional festival.",
       "options": [
-        "in"
+        "in Correct. Take part in means participate in."
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-10",
+      "questionId": "9",
       "questionNumber": 9,
-      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.Our classmates want to take part ________ the traditional games at the regional festival.",
-      "answer": "in",
+      "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. Our classmates want to take part ________ the traditional games at the regional festival.",
+      "answer": "in Correct. Take part in means participate in.",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.our classmates want to take part ________ the traditional games at the regional festival.",
       "letter": "B",
       "rightAnswer": "in"
     },
     {
-      "id": "question-1919098-3",
+      "id": "question-1921260-3",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the family gathers each year to celebrate the death ________ of relatives who have passed away.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase. The family gathers each year to celebrate the death ________ of relatives who have passed away.",
       "options": [
@@ -189,17 +189,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-3",
-      "questionNumber": 4,
+      "questionId": "question-1921260-3",
+      "questionNumber": 5,
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate word or phrase.The family gathers each year to celebrate the death ________ of relatives who have passed away.",
       "answer": "anniversaries",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate word or phrase.the family gathers each year to celebrate the death ________ of relatives who have passed away.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "anniversaries"
     },
     {
-      "id": "question-1919098-12",
+      "id": "question-1921260-12",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.for the class presentation, mai chose a ________ dish that her family has prepared for generations.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. For the class presentation, Mai chose a ________ dish that her family has prepared for generations.",
       "options": [
@@ -207,17 +207,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-12",
-      "questionNumber": 17,
+      "questionId": "question-1921260-12",
+      "questionNumber": 19,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.For the class presentation, Mai chose a ________ dish that her family has prepared for generations.",
       "answer": "traditional",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.for the class presentation, mai chose a ________ dish that her family has prepared for generations.",
-      "letter": "A",
+      "letter": "B",
       "rightAnswer": "traditional"
     },
     {
-      "id": "question-1919098-19",
+      "id": "question-1921260-19",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.many families continue to ________ customs and traditions learnt from older generations.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. Many families continue to ________ customs and traditions learnt from older generations.",
       "options": [
@@ -225,8 +225,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-19",
-      "questionNumber": 20,
+      "questionId": "question-1921260-19",
+      "questionNumber": 12,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.Many families continue to ________ customs and traditions learnt from older generations.",
       "answer": "observe",
       "dragdrops": [],
@@ -235,7 +235,7 @@
       "rightAnswer": "observe"
     },
     {
-      "id": "question-1919098-15",
+      "id": "question-1921260-15",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the old castle remains ________ because a family still lives in several of its rooms.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The old castle remains ________ because a family still lives in several of its rooms.",
       "options": [
@@ -243,17 +243,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-15",
-      "questionNumber": 13,
+      "questionId": "question-1921260-15",
+      "questionNumber": 18,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The old castle remains ________ because a family still lives in several of its rooms.",
       "answer": "occupied",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the old castle remains ________ because a family still lives in several of its rooms.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "occupied"
     },
     {
-      "id": "question-1919098-18",
+      "id": "question-1921260-18",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the ________ of old family photographs from sunlight and moisture helps keep them in good condition.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The ________ of old family photographs from sunlight and moisture helps keep them in good condition.",
       "options": [
@@ -261,8 +261,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-18",
-      "questionNumber": 19,
+      "questionId": "question-1921260-18",
+      "questionNumber": 13,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The ________ of old family photographs from sunlight and moisture helps keep them in good condition.",
       "answer": "protection",
       "dragdrops": [],
@@ -271,7 +271,7 @@
       "rightAnswer": "protection"
     },
     {
-      "id": "question-1919098-16",
+      "id": "question-1921260-16",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the organisers hope that their regional festival will ________ tourism by attracting visitors interested in local traditions.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The organisers hope that their regional festival will ________ tourism by attracting visitors interested in local traditions.",
       "options": [
@@ -279,17 +279,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-16",
-      "questionNumber": 18,
+      "questionId": "question-1921260-16",
+      "questionNumber": 11,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The organisers hope that their regional festival will ________ tourism by attracting visitors interested in local traditions.",
       "answer": "promote",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the organisers hope that their regional festival will ________ tourism by attracting visitors interested in local traditions.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "promote"
     },
     {
-      "id": "question-1919098-17",
+      "id": "question-1921260-17",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the group researched the ________ of the traditional dish to find out where it first appeared.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The group researched the ________ of the traditional dish to find out where it first appeared.",
       "options": [
@@ -297,17 +297,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-17",
-      "questionNumber": 14,
+      "questionId": "question-1921260-17",
+      "questionNumber": 15,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The group researched the ________ of the traditional dish to find out where it first appeared.",
       "answer": "origin",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the group researched the ________ of the traditional dish to find out where it first appeared.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "origin"
     },
     {
-      "id": "question-1919098-14",
+      "id": "question-1921260-14",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.by sharing their memories and photographs, the grandparents made a valuable ________ to the students' project.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. By sharing their memories and photographs, the grandparents made a valuable ________ to the students’ project.",
       "options": [
@@ -315,17 +315,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-14",
-      "questionNumber": 16,
+      "questionId": "question-1921260-14",
+      "questionNumber": 20,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.By sharing their memories and photographs, the grandparents made a valuable ________ to the students' project.",
       "answer": "contribution",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.by sharing their memories and photographs, the grandparents made a valuable ________ to the students' project.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "contribution"
     },
     {
-      "id": "question-1919098-20",
+      "id": "question-1921260-20",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the communal house is ________ because it played an important role in the area's history.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The communal house is ________ because it played an important role in the area’s history.",
       "options": [
@@ -333,17 +333,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-20",
-      "questionNumber": 11,
+      "questionId": "question-1921260-20",
+      "questionNumber": 17,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The communal house is ________ because it played an important role in the area's history.",
       "answer": "historic",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the communal house is ________ because it played an important role in the area's history.",
-      "letter": "A",
+      "letter": "B",
       "rightAnswer": "historic"
     },
     {
-      "id": "question-1919098-11",
+      "id": "question-1921260-11",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the ________ of the old communal house is one of the project's main aims.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The ________ of the old communal house is one of the project’s main aims.",
       "options": [
@@ -351,8 +351,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-11",
-      "questionNumber": 15,
+      "questionId": "question-1921260-11",
+      "questionNumber": 16,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The ________ of the old communal house is one of the project's main aims.",
       "answer": "preservation",
       "dragdrops": [],
@@ -361,7 +361,7 @@
       "rightAnswer": "preservation"
     },
     {
-      "id": "question-1919098-13",
+      "id": "question-1921260-13",
       "questionKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the students believe that people should ________ the value of cultural heritage and help keep it safe.",
       "questionRaw": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning. The students believe that people should ________ the value of cultural heritage and help keep it safe.",
       "options": [
@@ -369,13 +369,13 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1919098-13",
-      "questionNumber": 12,
+      "questionId": "question-1921260-13",
+      "questionNumber": 14,
       "question": "Choose A, B, C, or D to complete each sentence. Check both the required word form and its meaning.The students believe that people should ________ the value of cultural heritage and help keep it safe.",
       "answer": "recognise",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence. check both the required word form and its meaning.the students believe that people should ________ the value of cultural heritage and help keep it safe.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "recognise"
     }
   ]
