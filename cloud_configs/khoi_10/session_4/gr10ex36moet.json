@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "account_name": "Thành Trần Đắc",
+    "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+    "class_key": "khoi_10",
+    "grade_num": "10",
+    "unit_name": "SESSION 4",
+    "unit_key": "session_4",
+    "quiz_title": "GR10EX36MOET",
+    "quiz_key": "gr10ex36moet",
+    "cmid": "742982",
+    "course_id": "11741",
+    "repo_path": "cloud_configs/khoi_10/session_4/gr10ex36moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 30,
+    "updated_at": "2026-10-26 20:42:17"
+  },
+  "answers": [
+    {
+      "id": "question-1921461-6",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.hoa had only checked half the book list when a new volunteer reached the centre. she ________ the remaining entries when the volunteer ________.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. Hoa had only checked half the book list when a new volunteer reached the centre. She ________ the remaining entries when the volunteer ________.",
+      "options": [
+        "was checking / arrived"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-6",
+      "questionNumber": 10,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Hoa had only checked half the book list when a new volunteer reached the centre. She ________ the remaining entries when the volunteer ________.",
+      "answer": "was checking / arrived",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.hoa had only checked half the book list when a new volunteer reached the centre. she ________ the remaining entries when the volunteer ________.",
+      "letter": "C",
+      "rightAnswer": "was checking / arrived"
+    },
+    {
+      "id": "question-1921461-10",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.the outdoor project was still in progress yesterday afternoon. the volunteers ________ the planned activities when it suddenly ________ to rain.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. The outdoor project was still in progress yesterday afternoon. The volunteers ________ the planned activities when it suddenly ________ to rain.",
+      "options": [
+        "were carrying out / started"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-10",
+      "questionNumber": 8,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.The outdoor project was still in progress yesterday afternoon. The volunteers ________ the planned activities when it suddenly ________ to rain.",
+      "answer": "were carrying out / started",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.the outdoor project was still in progress yesterday afternoon. the volunteers ________ the planned activities when it suddenly ________ to rain.",
+      "letter": "A",
+      "rightAnswer": "were carrying out / started"
+    },
+    {
+      "id": "question-1921461-1",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.when the organiser entered yesterday, the volunteers had not finished grouping the goods. what were they doing at that moment? they ________ the donations.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. When the organiser entered yesterday, the volunteers had not finished grouping the goods. What were they doing at that moment? They ________ the donations.",
+      "options": [
+        "were sorting"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-1",
+      "questionNumber": 7,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.When the organiser entered yesterday, the volunteers had not finished grouping the goods. What were they doing at that moment? They ________ the donations.",
+      "answer": "were sorting",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.when the organiser entered yesterday, the volunteers had not finished grouping the goods. what were they doing at that moment? they ________ the donations.",
+      "letter": "C",
+      "rightAnswer": "were sorting"
+    },
+    {
+      "id": "question-1921461-3",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.nam's delivery round began at eight yesterday. at eight thirty, he still had several families to visit. at that moment, he ________ free meals along his route.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. Nam’s delivery round began at eight yesterday. At eight thirty, he still had several families to visit. At that moment, he ________ free meals along his route.",
+      "options": [
+        "was delivering"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-3",
+      "questionNumber": 9,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Nam's delivery round began at eight yesterday. At eight thirty, he still had several families to visit. At that moment, he ________ free meals along his route.",
+      "answer": "was delivering",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.nam's delivery round began at eight yesterday. at eight thirty, he still had several families to visit. at that moment, he ________ free meals along his route.",
+      "letter": "D",
+      "rightAnswer": "was delivering"
+    },
+    {
+      "id": "question-1921461-2",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.there had been no phone calls earlier that evening. while lan was completing her application, her phone suddenly ________ once. she answered it and then returned to the form.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. There had been no phone calls earlier that evening. While Lan was completing her application, her phone suddenly ________ once. She answered it and then returned to the form.",
+      "options": [
+        "rang"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-2",
+      "questionNumber": 1,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.There had been no phone calls earlier that evening. While Lan was completing her application, her phone suddenly ________ once. She answered it and then returned to the form.",
+      "answer": "rang",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.there had been no phone calls earlier that evening. while lan was completing her application, her phone suddenly ________ once. she answered it and then returned to the form.",
+      "letter": "D",
+      "rightAnswer": "rang"
+    },
+    {
+      "id": "question-1921461-8",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.minh's set of handmade cards was still incomplete at four yesterday afternoon. at that exact time, he ________ the remaining cards.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. Minh’s set of handmade cards was still incomplete at four yesterday afternoon. At that exact time, he ________ the remaining cards.",
+      "options": [
+        "was preparing"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-8",
+      "questionNumber": 4,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Minh's set of handmade cards was still incomplete at four yesterday afternoon. At that exact time, he ________ the remaining cards.",
+      "answer": "was preparing",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.minh's set of handmade cards was still incomplete at four yesterday afternoon. at that exact time, he ________ the remaining cards.",
+      "letter": "C",
+      "rightAnswer": "was preparing"
+    },
+    {
+      "id": "question-1921461-4",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.mai had never seen the centre's volunteer advertisement before that visit. while she was reading the noticeboard yesterday, she ________ it for the first time and decided to apply.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. Mai had never seen the centre’s volunteer advertisement before that visit. While she was reading the noticeboard yesterday, she ________ it for the first time and decided to apply.",
+      "options": [
+        "found"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-4",
+      "questionNumber": 5,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Mai had never seen the centre's volunteer advertisement before that visit. While she was reading the noticeboard yesterday, she ________ it for the first time and decided to apply.",
+      "answer": "found",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.mai had never seen the centre's volunteer advertisement before that visit. while she was reading the noticeboard yesterday, she ________ it for the first time and decided to apply.",
+      "letter": "B",
+      "rightAnswer": "found"
+    },
+    {
+      "id": "question-1921461-5",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.when the visitors arrived yesterday, the students were still removing rubbish from the park. they ________ it up, and the task was not yet complete.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. When the visitors arrived yesterday, the students were still removing rubbish from the park. They ________ it up, and the task was not yet complete.",
+      "options": [
+        "were cleaning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-5",
+      "questionNumber": 2,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.When the visitors arrived yesterday, the students were still removing rubbish from the park. They ________ it up, and the task was not yet complete.",
+      "answer": "were cleaning",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.when the visitors arrived yesterday, the students were still removing rubbish from the park. they ________ it up, and the task was not yet complete.",
+      "letter": "C",
+      "rightAnswer": "were cleaning"
+    },
+    {
+      "id": "question-1921461-7",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.the volunteers had not seen the elderly man before reaching that corner. while they were walking towards the centre, they ________ him drop his bag and stopped to help.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. The volunteers had not seen the elderly man before reaching that corner. While they were walking towards the centre, they ________ him drop his bag and stopped to help.",
+      "options": [
+        "saw"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-7",
+      "questionNumber": 3,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.The volunteers had not seen the elderly man before reaching that corner. While they were walking towards the centre, they ________ him drop his bag and stopped to help.",
+      "answer": "saw",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.the volunteers had not seen the elderly man before reaching that corner. while they were walking towards the centre, they ________ him drop his bag and stopped to help.",
+      "letter": "B",
+      "rightAnswer": "saw"
+    },
+    {
+      "id": "question-1921461-9",
+      "questionKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.at the exact moment the organiser called yesterday, only half of lan's application was complete. she ________ the remaining spaces at that moment.",
+      "questionRaw": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone. At the exact moment the organiser called yesterday, only half of Lan’s application was complete. She ________ the remaining spaces at that moment.",
+      "options": [
+        "was filling in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1921461-9",
+      "questionNumber": 6,
+      "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.At the exact moment the organiser called yesterday, only half of Lan's application was complete. She ________ the remaining spaces at that moment.",
+      "answer": "was filling in",
+      "dragdrops": [],
+      "legacyQKey": "choose the option that best expresses the timeline established by the context. identify the action in progress, the event, and the subject of each verb. do not decide from when/while alone.at the exact moment the organiser called yesterday, only half of lan's application was complete. she ________ the remaining spaces at that moment.",
+      "letter": "B",
+      "rightAnswer": "was filling in"
+    },
+    {
+      "id": "11",
+      "questionKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. donationsb. donationc. donated. donatedwrite a, b, c or d: question 2a. were sortingb. had sortedc. are sortingd. will sortwrite a, b, c or d: question 3a. helpb. helpfulc. helpingd. helpfullywrite a, b, c or d: question 4a. notebooksb. mealsc. blanketsd. formswrite a, b, c or d:",
+      "questionRaw": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. donationsB. donationC. donateD. donatedWrite A, B, C or D: {#1} Question 2A. were sortingB. had sortedC. are sortingD. will sortWrite A, B, C or D: {#2} Question 3A. helpB. helpfulC. helpingD. helpfullyWrite A, B, C or D: {#3} Question 4A. notebooksB. mealsC. blanketsD. formsWrite A, B, C or D: {#4}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. donationsB. donationC. donateD. donatedWrite A, B, C or D: {#1} Question 2A. were sortingB. had sortedC. are sortingD. will sortWrite A, B, C or D: {#2} Question 3A. helpB. helpfulC. helpingD. helpfullyWrite A, B, C or D: {#3} Question 4A. notebooksB. mealsC. blanketsD. formsWrite A, B, C or D: {#4}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "12",
+      "questionKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. experienceb. moneyc. materialsd. confidencewrite a, b, c or d: question 2a. confidentlyb. confidencec. confidentd. confidenceswrite a, b, c or d: question 3a. skillsb. dutiesc. interestsd. positions write a, b, c or d:",
+      "questionRaw": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. experienceB. moneyC. materialsD. confidenceWrite A, B, C or D: {#1} Question 2A. confidentlyB. confidenceC. confidentD. confidencesWrite A, B, C or D: {#2} Question 3A. skillsB. dutiesC. interestsD. positions Write A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "12",
+      "questionNumber": 12,
+      "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. experienceB. moneyC. materialsD. confidenceWrite A, B, C or D: {#1} Question 2A. confidentlyB. confidenceC. confidentD. confidencesWrite A, B, C or D: {#2} Question 3A. skillsB. dutiesC. interestsD. positions Write A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "13",
+      "questionKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. advertisementb. applicationc. donationd. interviewwrite a, b, c or d: question 2a. carry outb. set upc. fill ind. clean upwrite a, b, c or d: question 3a. remoteb. homelessc. confusedd. reliablewrite a, b, c or d:",
+      "questionRaw": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. advertisementB. applicationC. donationD. interviewWrite A, B, C or D: {#1} Question 2A. carry outB. set upC. fill inD. clean upWrite A, B, C or D: {#2} Question 3A. remoteB. homelessC. confusedD. reliableWrite A, B, C or D: {#3}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        },
+        {
+          "index": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "13",
+      "questionNumber": 13,
+      "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. advertisementB. applicationC. donationD. interviewWrite A, B, C or D: {#1} Question 2A. carry outB. set upC. fill inD. clean upWrite A, B, C or D: {#2} Question 3A. remoteB. homelessC. confusedD. reliableWrite A, B, C or D: {#3}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "b",
+      "id": "question-1921461-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. donationsb. donationc. donated. donatedwrite a, b, c or d: {#1} question 2a. were sortingb. had sortedc. are sortingd. will sortwrite a, b, c or d: {#2} question 3a. helpb. helpfulc. helpingd. helpfullywrite a, b, c or d: {#3} question 4a. notebooksb. mealsc. blanketsd. formswrite a, b, c or d: {#4}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. donationsB. donationC. donateD. donatedWrite A, B, C or D: {#1} Question 2A. were sortingB. had sortedC. are sortingD. will sortWrite A, B, C or D: {#2} Question 3A. helpB. helpfulC. helpingD. helpfullyWrite A, B, C or D: {#3} Question 4A. notebooksB. mealsC. blanketsD. formsWrite A, B, C or D: {#4}",
+      "questionId": "question-1921461-12",
+      "questionKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. donationsb. donationc. donated. donatedwrite a, b, c or d: {#1} question 2a. were sortingb. had sortedc. are sortingd. will sortwrite a, b, c or d: {#2} question 3a. helpb. helpfulc. helpingd. helpfullywrite a, b, c or d: {#3} question 4a. notebooksb. mealsc. blanketsd. formswrite a, b, c or d: {#4}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1921461-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "a"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. advertisementb. applicationc. donationd. interviewwrite a, b, c or d: {#1} question 2a. carry outb. set upc. fill ind. clean upwrite a, b, c or d: {#2} question 3a. remoteb. homelessc. confusedd. reliablewrite a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. advertisementB. applicationC. donationD. interviewWrite A, B, C or D: {#1} Question 2A. carry outB. set upC. fill inD. clean upWrite A, B, C or D: {#2} Question 3A. remoteB. homelessC. confusedD. reliableWrite A, B, C or D: {#3}",
+      "questionId": "question-1921461-11",
+      "questionKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. advertisementb. applicationc. donationd. interviewwrite a, b, c or d: {#1} question 2a. carry outb. set upc. fill ind. clean upwrite a, b, c or d: {#2} question 3a. remoteb. homelessc. confusedd. reliablewrite a, b, c or d: {#3}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1921461-13",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. experienceb. moneyc. materialsd. confidencewrite a, b, c or d: {#1} question 2a. confidentlyb. confidencec. confidentd. confidenceswrite a, b, c or d: {#2} question 3a. skillsb. dutiesc. interestsd. positions write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. experienceB. moneyC. materialsD. confidenceWrite A, B, C or D: {#1} Question 2A. confidentlyB. confidenceC. confidentD. confidencesWrite A, B, C or D: {#2} Question 3A. skillsB. dutiesC. interestsD. positions Write A, B, C or D: {#3}",
+      "questionId": "question-1921461-13",
+      "questionKey": "choose a–d for each blank. use nearby sentences as well as grammar. then reread with your answers inserted. question 1a. experienceb. moneyc. materialsd. confidencewrite a, b, c or d: {#1} question 2a. confidentlyb. confidencec. confidentd. confidenceswrite a, b, c or d: {#2} question 3a. skillsb. dutiesc. interestsd. positions write a, b, c or d: {#3}",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
