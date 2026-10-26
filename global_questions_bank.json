@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-26T13:25:19Z",
-  "total_questions": 108,
+  "updated_at": "2026-10-26T13:27:31Z",
+  "total_questions": 126,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -1826,6 +1826,486 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-26T13:25:19Z"
+    },
+    "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 1 in one place keep your desk clear because too many 2 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 3 decide which one is most urgent and give it 4 4 try to start early 5 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 6 and focus on what you can improve": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. EXAM WEEK: STAY CALM AND ORGANISED Exam week is easier if you know what needs to be done. Begin by writing all your test dates and assignment (1) {#1} in one place. Keep your desk clear because too many (2) {#2} can make it hard to concentrate. Our school counsellor's advice is clear: if you have several tasks to finish, you (3) {#3} decide which one is most urgent and give it (4) {#4}. Try to start early, (5) {#5} you do not have to complete everything on the final evening. Even when a test seems difficult, stay (6) {#6} and focus on what you can improve.",
+      "clean_stem": "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 1 in one place keep your desk clear because too many 2 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 3 decide which one is most urgent and give it 4 4 try to start early 5 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 6 and focus on what you can improve",
+      "stem_key": "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 1 in one place keep your desk clear because too many 2 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 3 decide which one is most urgent and give it 4 4 try to start early 5 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 6 and focus on what you can improve",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "due dates"
+        },
+        {
+          "index": 1,
+          "value": "distractions"
+        },
+        {
+          "index": 2,
+          "value": "should"
+        },
+        {
+          "index": 3,
+          "value": "priority"
+        },
+        {
+          "index": 4,
+          "value": "so"
+        },
+        {
+          "index": 5,
+          "value": "optimistic"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 in one place keep your desk clear because too many 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 decide which one is most urgent and give it 4 try to start early 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 and focus on what you can improve": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. EXAM WEEK: STAY CALM AND ORGANISED Exam week is easier if you know what needs to be done. Begin by writing all your test dates and assignment (1) {#1} in one place. Keep your desk clear because too many (2) {#2} can make it hard to concentrate. Our school counsellor's advice is clear: if you have several tasks to finish, you (3) {#3} decide which one is most urgent and give it (4) {#4}. Try to start early, (5) {#5} you do not have to complete everything on the final evening. Even when a test seems difficult, stay (6) {#6} and focus on what you can improve.",
+      "clean_stem": "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 1 in one place keep your desk clear because too many 2 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 3 decide which one is most urgent and give it 4 4 try to start early 5 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 6 and focus on what you can improve",
+      "stem_key": "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 1 in one place keep your desk clear because too many 2 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 3 decide which one is most urgent and give it 4 4 try to start early 5 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 6 and focus on what you can improve",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "due dates"
+        },
+        {
+          "index": 1,
+          "value": "distractions"
+        },
+        {
+          "index": 2,
+          "value": "should"
+        },
+        {
+          "index": 3,
+          "value": "priority"
+        },
+        {
+          "index": 4,
+          "value": "so"
+        },
+        {
+          "index": 5,
+          "value": "optimistic"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 1 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 2 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 3 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 4 feel tired in class the next day if you use the school s quiet study room you 11 5 turn your phone to silent mode because this is a room rule small habits matter 12 6 they help you protect both study time and rest time": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. HEALTHY SCHOOL-DAY CHALLENGE A (7) {#1} school day includes both focused study and time to care for your body. Try to get enough sleep and include some (8) {#2} activity in your routine. Your parents have agreed that if you finish your homework before 9 p.m., you (9) {#3} join the evening walk with your family. If you stay up much later than usual, there is a possibility that you (10) {#4} feel tired in class the next day. If you use the school's quiet study room, you (11) {#5} turn your phone to silent mode because this is a room rule. Small habits matter (12) {#6} they help you protect both study time and rest time.",
+      "clean_stem": "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 1 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 2 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 3 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 4 feel tired in class the next day if you use the school s quiet study room you 11 5 turn your phone to silent mode because this is a room rule small habits matter 12 6 they help you protect both study time and rest time",
+      "stem_key": "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 1 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 2 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 3 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 4 feel tired in class the next day if you use the school s quiet study room you 11 5 turn your phone to silent mode because this is a room rule small habits matter 12 6 they help you protect both study time and rest time",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "well-balanced"
+        },
+        {
+          "index": 1,
+          "value": "physical"
+        },
+        {
+          "index": 2,
+          "value": "can"
+        },
+        {
+          "index": 3,
+          "value": "might"
+        },
+        {
+          "index": 4,
+          "value": "must"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 feel tired in class the next day if you use the school s quiet study room you 11 turn your phone to silent mode because this is a room rule small habits matter 12 they help you protect both study time and rest time": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. HEALTHY SCHOOL-DAY CHALLENGE A (7) {#1} school day includes both focused study and time to care for your body. Try to get enough sleep and include some (8) {#2} activity in your routine. Your parents have agreed that if you finish your homework before 9 p.m., you (9) {#3} join the evening walk with your family. If you stay up much later than usual, there is a possibility that you (10) {#4} feel tired in class the next day. If you use the school's quiet study room, you (11) {#5} turn your phone to silent mode because this is a room rule. Small habits matter (12) {#6} they help you protect both study time and rest time.",
+      "clean_stem": "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 1 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 2 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 3 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 4 feel tired in class the next day if you use the school s quiet study room you 11 5 turn your phone to silent mode because this is a room rule small habits matter 12 6 they help you protect both study time and rest time",
+      "stem_key": "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 1 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 2 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 3 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 4 feel tired in class the next day if you use the school s quiet study room you 11 5 turn your phone to silent mode because this is a room rule small habits matter 12 6 they help you protect both study time and rest time",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "well-balanced"
+        },
+        {
+          "index": 1,
+          "value": "physical"
+        },
+        {
+          "index": 2,
+          "value": "can"
+        },
+        {
+          "index": 3,
+          "value": "might"
+        },
+        {
+          "index": 4,
+          "value": "must"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 one week to get back on track on monday linh realised that she had three assignments due in the same week and basketball practice on two evenings she usually kept deadlines in her head but this time she was worried that she would forget something 13 after making the list she marked the science report as her first priority because it was due on wednesday 14 this meant that she could still go to practice without leaving everything until late at night her phone was another problem messages often interrupted her while she was working 15 she checked it only during her planned break by thursday linh had submitted the science report and finished most of another assignment she was still busy but she no longer felt that all the work had to be done at once 16 at the end of the week she decided to keep using the one page list during future busy weeks she did not follow every plan perfectly but the list helped her decide what needed attention first 17 question 13 a she cancelled basketball practice for the rest of the term b she wrote every task and due date on one page before deciding what to do first c her teacher completed a schedule for her and sent it to her parents d she decided to begin with the assignment that had the latest due date write a b c or d 1 question 14 a she saved the science report until after her two basketball practices b she planned to finish the whole report on wednesday after school c she worked on other assignments first because they looked shorter d she divided the report into two shorter tasks and completed one each evening write a b c or d 2 question 15 a so she left her phone in another room for thirty minutes at a time b she kept the phone beside her and replied whenever a message seemed important c she turned on message alerts so she would not miss any reply d she asked a friend to send her extra reminders while she was studying write a b c or d 3 question 16 a she therefore added several new activities to her schedule b she decided that planning was making the week more difficult c seeing her progress made the rest of the week feel more manageable d she stopped checking her assignment due dates after wednesday write a b c or d 4 question 17 a she decided that sports practice should always wait until all schoolwork was finished b she learned that a simple plan could help her manage several responsibilities more calmly c she concluded that the same timetable should be used during every busy week d she found that keeping deadlines in her head was enough once she had more work write a b c or d 5": {
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. ONE WEEK TO GET BACK ON TRACK On Monday, Linh realised that she had three assignments due in the same week and basketball practice on two evenings. She usually kept deadlines in her head, but this time she was worried that she would forget something. (13) ______. After making the list, she marked the science report as her first priority because it was due on Wednesday. (14) ______. This meant that she could still go to practice without leaving everything until late at night. Her phone was another problem. Messages often interrupted her while she was working. (15) ______. She checked it only during her planned break. By Thursday, Linh had submitted the science report and finished most of another assignment. She was still busy, but she no longer felt that all the work had to be done at once. (16) ______. At the end of the week, she decided to keep using the one-page list during future busy weeks. She did not follow every plan perfectly, but the list helped her decide what needed attention first. (17) ______.Question 13.A. She cancelled basketball practice for the rest of the term.B. She wrote every task and due date on one page before deciding what to do first.C. Her teacher completed a schedule for her and sent it to her parents.D. She decided to begin with the assignment that had the latest due date.Write A, B, C, or D: {#1}Question 14.A. She saved the science report until after her two basketball practices.B. She planned to finish the whole report on Wednesday after school.C. She worked on other assignments first because they looked shorter.D. She divided the report into two shorter tasks and completed one each evening.Write A, B, C, or D: {#2}Question 15.A. So she left her phone in another room for thirty minutes at a time.B. She kept the phone beside her and replied whenever a message seemed important.C. She turned on message alerts so she would not miss any reply.D. She asked a friend to send her extra reminders while she was studying.Write A, B, C, or D: {#3}Question 16.A. She therefore added several new activities to her schedule.B. She decided that planning was making the week more difficult.C. Seeing her progress made the rest of the week feel more manageable.D. She stopped checking her assignment due dates after Wednesday.Write A, B, C, or D: {#4}Question 17.A. She decided that sports practice should always wait until all schoolwork was finished.B. She learned that a simple plan could help her manage several responsibilities more calmly.C. She concluded that the same timetable should be used during every busy week.D. She found that keeping deadlines in her head was enough once she had more work.Write A, B, C, or D: {#5}",
+      "clean_stem": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 one week to get back on track on monday linh realised that she had three assignments due in the same week and basketball practice on two evenings she usually kept deadlines in her head but this time she was worried that she would forget something 13 after making the list she marked the science report as her first priority because it was due on wednesday 14 this meant that she could still go to practice without leaving everything until late at night her phone was another problem messages often interrupted her while she was working 15 she checked it only during her planned break by thursday linh had submitted the science report and finished most of another assignment she was still busy but she no longer felt that all the work had to be done at once 16 at the end of the week she decided to keep using the one page list during future busy weeks she did not follow every plan perfectly but the list helped her decide what needed attention first 17 question 13 a she cancelled basketball practice for the rest of the term b she wrote every task and due date on one page before deciding what to do first c her teacher completed a schedule for her and sent it to her parents d she decided to begin with the assignment that had the latest due date write a b c or d 1 question 14 a she saved the science report until after her two basketball practices b she planned to finish the whole report on wednesday after school c she worked on other assignments first because they looked shorter d she divided the report into two shorter tasks and completed one each evening write a b c or d 2 question 15 a so she left her phone in another room for thirty minutes at a time b she kept the phone beside her and replied whenever a message seemed important c she turned on message alerts so she would not miss any reply d she asked a friend to send her extra reminders while she was studying write a b c or d 3 question 16 a she therefore added several new activities to her schedule b she decided that planning was making the week more difficult c seeing her progress made the rest of the week feel more manageable d she stopped checking her assignment due dates after wednesday write a b c or d 4 question 17 a she decided that sports practice should always wait until all schoolwork was finished b she learned that a simple plan could help her manage several responsibilities more calmly c she concluded that the same timetable should be used during every busy week d she found that keeping deadlines in her head was enough once she had more work write a b c or d 5",
+      "stem_key": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 one week to get back on track on monday linh realised that she had three assignments due in the same week and basketball practice on two evenings she usually kept deadlines in her head but this time she was worried that she would forget something 13 after making the list she marked the science report as her first priority because it was due on wednesday 14 this meant that she could still go to practice without leaving everything until late at night her phone was another problem messages often interrupted her while she was working 15 she checked it only during her planned break by thursday linh had submitted the science report and finished most of another assignment she was still busy but she no longer felt that all the work had to be done at once 16 at the end of the week she decided to keep using the one page list during future busy weeks she did not follow every plan perfectly but the list helped her decide what needed attention first 17 question 13 a she cancelled basketball practice for the rest of the term b she wrote every task and due date on one page before deciding what to do first c her teacher completed a schedule for her and sent it to her parents d she decided to begin with the assignment that had the latest due date write a b c or d 1 question 14 a she saved the science report until after her two basketball practices b she planned to finish the whole report on wednesday after school c she worked on other assignments first because they looked shorter d she divided the report into two shorter tasks and completed one each evening write a b c or d 2 question 15 a so she left her phone in another room for thirty minutes at a time b she kept the phone beside her and replied whenever a message seemed important c she turned on message alerts so she would not miss any reply d she asked a friend to send her extra reminders while she was studying write a b c or d 3 question 16 a she therefore added several new activities to her schedule b she decided that planning was making the week more difficult c seeing her progress made the rest of the week feel more manageable d she stopped checking her assignment due dates after wednesday write a b c or d 4 question 17 a she decided that sports practice should always wait until all schoolwork was finished b she learned that a simple plan could help her manage several responsibilities more calmly c she concluded that the same timetable should be used during every busy week d she found that keeping deadlines in her head was enough once she had more work write a b c or d 5",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 one week to get back on track on monday linh realised that she had three assignments due in the same week and basketball practice on two evenings she usually kept deadlines in her head but this time she was worried that she would forget something 13 after making the list she marked the science report as her first priority because it was due on wednesday 14 this meant that she could still go to practice without leaving everything until late at night her phone was another problem messages often interrupted her while she was working 15 she checked it only during her planned break by thursday linh had submitted the science report and finished most of another assignment she was still busy but she no longer felt that all the work had to be done at once 16 at the end of the week she decided to keep using the one page list during future busy weeks she did not follow every plan perfectly but the list helped her decide what needed attention first 17 question 13 a she cancelled basketball practice for the rest of the term b she wrote every task and due date on one page before deciding what to do first c her teacher completed a schedule for her and sent it to her parents d she decided to begin with the assignment that had the latest due date write a b c or d question 14 a she saved the science report until after her two basketball practices b she planned to finish the whole report on wednesday after school c she worked on other assignments first because they looked shorter d she divided the report into two shorter tasks and completed one each evening write a b c or d question 15 a so she left her phone in another room for thirty minutes at a time b she kept the phone beside her and replied whenever a message seemed important c she turned on message alerts so she would not miss any reply d she asked a friend to send her extra reminders while she was studying write a b c or d question 16 a she therefore added several new activities to her schedule b she decided that planning was making the week more difficult c seeing her progress made the rest of the week feel more manageable d she stopped checking her assignment due dates after wednesday write a b c or d question 17 a she decided that sports practice should always wait until all schoolwork was finished b she learned that a simple plan could help her manage several responsibilities more calmly c she concluded that the same timetable should be used during every busy week d she found that keeping deadlines in her head was enough once she had more work write a b c or d": {
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. ONE WEEK TO GET BACK ON TRACK On Monday, Linh realised that she had three assignments due in the same week and basketball practice on two evenings. She usually kept deadlines in her head, but this time she was worried that she would forget something. (13) ______. After making the list, she marked the science report as her first priority because it was due on Wednesday. (14) ______. This meant that she could still go to practice without leaving everything until late at night. Her phone was another problem. Messages often interrupted her while she was working. (15) ______. She checked it only during her planned break. By Thursday, Linh had submitted the science report and finished most of another assignment. She was still busy, but she no longer felt that all the work had to be done at once. (16) ______. At the end of the week, she decided to keep using the one-page list during future busy weeks. She did not follow every plan perfectly, but the list helped her decide what needed attention first. (17) ______.Question 13.A. She cancelled basketball practice for the rest of the term.B. She wrote every task and due date on one page before deciding what to do first.C. Her teacher completed a schedule for her and sent it to her parents.D. She decided to begin with the assignment that had the latest due date.Write A, B, C, or D: {#1}Question 14.A. She saved the science report until after her two basketball practices.B. She planned to finish the whole report on Wednesday after school.C. She worked on other assignments first because they looked shorter.D. She divided the report into two shorter tasks and completed one each evening.Write A, B, C, or D: {#2}Question 15.A. So she left her phone in another room for thirty minutes at a time.B. She kept the phone beside her and replied whenever a message seemed important.C. She turned on message alerts so she would not miss any reply.D. She asked a friend to send her extra reminders while she was studying.Write A, B, C, or D: {#3}Question 16.A. She therefore added several new activities to her schedule.B. She decided that planning was making the week more difficult.C. Seeing her progress made the rest of the week feel more manageable.D. She stopped checking her assignment due dates after Wednesday.Write A, B, C, or D: {#4}Question 17.A. She decided that sports practice should always wait until all schoolwork was finished.B. She learned that a simple plan could help her manage several responsibilities more calmly.C. She concluded that the same timetable should be used during every busy week.D. She found that keeping deadlines in her head was enough once she had more work.Write A, B, C, or D: {#5}",
+      "clean_stem": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 one week to get back on track on monday linh realised that she had three assignments due in the same week and basketball practice on two evenings she usually kept deadlines in her head but this time she was worried that she would forget something 13 after making the list she marked the science report as her first priority because it was due on wednesday 14 this meant that she could still go to practice without leaving everything until late at night her phone was another problem messages often interrupted her while she was working 15 she checked it only during her planned break by thursday linh had submitted the science report and finished most of another assignment she was still busy but she no longer felt that all the work had to be done at once 16 at the end of the week she decided to keep using the one page list during future busy weeks she did not follow every plan perfectly but the list helped her decide what needed attention first 17 question 13 a she cancelled basketball practice for the rest of the term b she wrote every task and due date on one page before deciding what to do first c her teacher completed a schedule for her and sent it to her parents d she decided to begin with the assignment that had the latest due date write a b c or d 1 question 14 a she saved the science report until after her two basketball practices b she planned to finish the whole report on wednesday after school c she worked on other assignments first because they looked shorter d she divided the report into two shorter tasks and completed one each evening write a b c or d 2 question 15 a so she left her phone in another room for thirty minutes at a time b she kept the phone beside her and replied whenever a message seemed important c she turned on message alerts so she would not miss any reply d she asked a friend to send her extra reminders while she was studying write a b c or d 3 question 16 a she therefore added several new activities to her schedule b she decided that planning was making the week more difficult c seeing her progress made the rest of the week feel more manageable d she stopped checking her assignment due dates after wednesday write a b c or d 4 question 17 a she decided that sports practice should always wait until all schoolwork was finished b she learned that a simple plan could help her manage several responsibilities more calmly c she concluded that the same timetable should be used during every busy week d she found that keeping deadlines in her head was enough once she had more work write a b c or d 5",
+      "stem_key": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 one week to get back on track on monday linh realised that she had three assignments due in the same week and basketball practice on two evenings she usually kept deadlines in her head but this time she was worried that she would forget something 13 after making the list she marked the science report as her first priority because it was due on wednesday 14 this meant that she could still go to practice without leaving everything until late at night her phone was another problem messages often interrupted her while she was working 15 she checked it only during her planned break by thursday linh had submitted the science report and finished most of another assignment she was still busy but she no longer felt that all the work had to be done at once 16 at the end of the week she decided to keep using the one page list during future busy weeks she did not follow every plan perfectly but the list helped her decide what needed attention first 17 question 13 a she cancelled basketball practice for the rest of the term b she wrote every task and due date on one page before deciding what to do first c her teacher completed a schedule for her and sent it to her parents d she decided to begin with the assignment that had the latest due date write a b c or d 1 question 14 a she saved the science report until after her two basketball practices b she planned to finish the whole report on wednesday after school c she worked on other assignments first because they looked shorter d she divided the report into two shorter tasks and completed one each evening write a b c or d 2 question 15 a so she left her phone in another room for thirty minutes at a time b she kept the phone beside her and replied whenever a message seemed important c she turned on message alerts so she would not miss any reply d she asked a friend to send her extra reminders while she was studying write a b c or d 3 question 16 a she therefore added several new activities to her schedule b she decided that planning was making the week more difficult c seeing her progress made the rest of the week feel more manageable d she stopped checking her assignment due dates after wednesday write a b c or d 4 question 17 a she decided that sports practice should always wait until all schoolwork was finished b she learned that a simple plan could help her manage several responsibilities more calmly c she concluded that the same timetable should be used during every busy week d she found that keeping deadlines in her head was enough once she had more work write a b c or d 5",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18 a next he checks how much time that starred task will need b before starting his homework khoa writes all his tasks on one page c he then marks the most urgent task with a star d only after this check does he begin working on it a b a c db c b a dc b c a dd b c d awrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18.a. Next, he checks how much time that starred task will need.b. Before starting his homework, Khoa writes all his tasks on one page.c. He then marks the most urgent task with a star.d. Only after this check does he begin working on it.A. b – a – c – dB. c – b – a – dC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18 a next he checks how much time that starred task will need b before starting his homework khoa writes all his tasks on one page c he then marks the most urgent task with a star d only after this check does he begin working on it a b a c db c b a dc b c a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18 a next he checks how much time that starred task will need b before starting his homework khoa writes all his tasks on one page c he then marks the most urgent task with a star d only after this check does he begin working on it a b a c db c b a dc b c a dd b c d awrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18 a next he checks how much time that starred task will need b before starting his homework khoa writes all his tasks on one page c he then marks the most urgent task with a star d only after this check does he begin working on it a b a c db c b a dc b c a dd b c d awrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18.a. Next, he checks how much time that starred task will need.b. Before starting his homework, Khoa writes all his tasks on one page.c. He then marks the most urgent task with a star.d. Only after this check does he begin working on it.A. b – a – c – dB. c – b – a – dC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18 a next he checks how much time that starred task will need b before starting his homework khoa writes all his tasks on one page c he then marks the most urgent task with a star d only after this check does he begin working on it a b a c db c b a dc b c a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18 a next he checks how much time that starred task will need b before starting his homework khoa writes all his tasks on one page c he then marks the most urgent task with a star d only after this check does he begin working on it a b a c db c b a dc b c a dd b c d awrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19 a as a result she now finishes most assignments before the due date b mai used to leave long projects until the final evening c her teacher suggested breaking each project into smaller weekly tasks d she followed this advice and added the smaller tasks to her calendar a c b d ab b d c ac b c a dd b c d awrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19.a. As a result, she now finishes most assignments before the due date.b. Mai used to leave long projects until the final evening.c. Her teacher suggested breaking each project into smaller weekly tasks.d. She followed this advice and added the smaller tasks to her calendar.A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19 a as a result she now finishes most assignments before the due date b mai used to leave long projects until the final evening c her teacher suggested breaking each project into smaller weekly tasks d she followed this advice and added the smaller tasks to her calendar a c b d ab b d c ac b c a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19 a as a result she now finishes most assignments before the due date b mai used to leave long projects until the final evening c her teacher suggested breaking each project into smaller weekly tasks d she followed this advice and added the smaller tasks to her calendar a c b d ab b d c ac b c a dd b c d awrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19 a as a result she now finishes most assignments before the due date b mai used to leave long projects until the final evening c her teacher suggested breaking each project into smaller weekly tasks d she followed this advice and added the smaller tasks to her calendar a c b d ab b d c ac b c a dd b c d awrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19.a. As a result, she now finishes most assignments before the due date.b. Mai used to leave long projects until the final evening.c. Her teacher suggested breaking each project into smaller weekly tasks.d. She followed this advice and added the smaller tasks to her calendar.A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19 a as a result she now finishes most assignments before the due date b mai used to leave long projects until the final evening c her teacher suggested breaking each project into smaller weekly tasks d she followed this advice and added the smaller tasks to her calendar a c b d ab b d c ac b c a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19 a as a result she now finishes most assignments before the due date b mai used to leave long projects until the final evening c her teacher suggested breaking each project into smaller weekly tasks d she followed this advice and added the smaller tasks to her calendar a c b d ab b d c ac b c a dd b c d awrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20 a during that break he stretches or walks around the house b nam tries to keep a good balance between schoolwork and rest c when he notices his concentration falling he stops studying for ten minutes d this simple routine helps him return to his work with more energy a b c a db b a c dc c b a dd b c d awrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20.a. During that break, he stretches or walks around the house.b. Nam tries to keep a good balance between schoolwork and rest.c. When he notices his concentration falling, he stops studying for ten minutes.d. This simple routine helps him return to his work with more energy.A. b – c – a – dB. b – a – c – dC. c – b – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20 a during that break he stretches or walks around the house b nam tries to keep a good balance between schoolwork and rest c when he notices his concentration falling he stops studying for ten minutes d this simple routine helps him return to his work with more energy a b c a db b a c dc c b a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20 a during that break he stretches or walks around the house b nam tries to keep a good balance between schoolwork and rest c when he notices his concentration falling he stops studying for ten minutes d this simple routine helps him return to his work with more energy a b c a db b a c dc c b a dd b c d awrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20 a during that break he stretches or walks around the house b nam tries to keep a good balance between schoolwork and rest c when he notices his concentration falling he stops studying for ten minutes d this simple routine helps him return to his work with more energy a b c a db b a c dc c b a dd b c d awrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20.a. During that break, he stretches or walks around the house.b. Nam tries to keep a good balance between schoolwork and rest.c. When he notices his concentration falling, he stops studying for ten minutes.d. This simple routine helps him return to his work with more energy.A. b – c – a – dB. b – a – c – dC. c – b – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20 a during that break he stretches or walks around the house b nam tries to keep a good balance between schoolwork and rest c when he notices his concentration falling he stops studying for ten minutes d this simple routine helps him return to his work with more energy a b c a db b a c dc c b a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20 a during that break he stretches or walks around the house b nam tries to keep a good balance between schoolwork and rest c when he notices his concentration falling he stops studying for ten minutes d this simple routine helps him return to his work with more energy a b c a db b a c dc c b a dd b c d awrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21 a hoa sorry i didn t hear the last part b minh could you remind me when the science project is due c minh i asked when the science project is due d hoa it s due next thursday a a b c db b a c dc b c a dd c b a dwrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21.a. Hoa: Sorry? I didn't hear the last part.b. Minh: Could you remind me when the science project is due?c. Minh: I asked when the science project is due.d. Hoa: It's due next Thursday.A. a – b – c – dB. b – a – c – dC. b – c – a – dD. c – b – a – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21 a hoa sorry i didn t hear the last part b minh could you remind me when the science project is due c minh i asked when the science project is due d hoa it s due next thursday a a b c db b a c dc b c a dd c b a dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21 a hoa sorry i didn t hear the last part b minh could you remind me when the science project is due c minh i asked when the science project is due d hoa it s due next thursday a a b c db b a c dc b c a dd c b a dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21 a hoa sorry i didn t hear the last part b minh could you remind me when the science project is due c minh i asked when the science project is due d hoa it s due next thursday a a b c db b a c dc b c a dd c b a dwrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21.a. Hoa: Sorry? I didn't hear the last part.b. Minh: Could you remind me when the science project is due?c. Minh: I asked when the science project is due.d. Hoa: It's due next Thursday.A. a – b – c – dB. b – a – c – dC. b – c – a – dD. c – b – a – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21 a hoa sorry i didn t hear the last part b minh could you remind me when the science project is due c minh i asked when the science project is due d hoa it s due next thursday a a b c db b a c dc b c a dd c b a dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21 a hoa sorry i didn t hear the last part b minh could you remind me when the science project is due c minh i asked when the science project is due d hoa it s due next thursday a a b c db b a c dc b c a dd c b a dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22 a after this demonstration students will practise making a simple weekly plan b our school counsellor will run a time management workshop on friday afternoon c during the first part she will show students how to identify their most urgent tasks d the session will finish with questions about managing homework rest and free time a c b a db b a c dc b c a dd b c d awrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22.a. After this demonstration, students will practise making a simple weekly plan.b. Our school counsellor will run a Time Management Workshop on Friday afternoon.c. During the first part, she will show students how to identify their most urgent tasks.d. The session will finish with questions about managing homework, rest, and free time.A. c – b – a – dB. b – a – c – dC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22 a after this demonstration students will practise making a simple weekly plan b our school counsellor will run a time management workshop on friday afternoon c during the first part she will show students how to identify their most urgent tasks d the session will finish with questions about managing homework rest and free time a c b a db b a c dc b c a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22 a after this demonstration students will practise making a simple weekly plan b our school counsellor will run a time management workshop on friday afternoon c during the first part she will show students how to identify their most urgent tasks d the session will finish with questions about managing homework rest and free time a c b a db b a c dc b c a dd b c d awrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22 a after this demonstration students will practise making a simple weekly plan b our school counsellor will run a time management workshop on friday afternoon c during the first part she will show students how to identify their most urgent tasks d the session will finish with questions about managing homework rest and free time a c b a db b a c dc b c a dd b c d awrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22.a. After this demonstration, students will practise making a simple weekly plan.b. Our school counsellor will run a Time Management Workshop on Friday afternoon.c. During the first part, she will show students how to identify their most urgent tasks.d. The session will finish with questions about managing homework, rest, and free time.A. c – b – a – dB. b – a – c – dC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22 a after this demonstration students will practise making a simple weekly plan b our school counsellor will run a time management workshop on friday afternoon c during the first part she will show students how to identify their most urgent tasks d the session will finish with questions about managing homework rest and free time a c b a db b a c dc b c a dd b c d awrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22 a after this demonstration students will practise making a simple weekly plan b our school counsellor will run a time management workshop on friday afternoon c during the first part she will show students how to identify their most urgent tasks d the session will finish with questions about managing homework rest and free time a c b a db b a c dc b c a dd b c d awrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 blank 1 in one place keep your desk clear because too many 2 blank 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 blank 3 decide which one is most urgent and give it 4 blank 4 try to start early 5 blank 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 blank 6 and focus on what you can improve 📋bảng lựa chọn các ô trống cloze options ô 1 a due datesb prioritiesc moodsd routinesô 2 a assignmentsb schedulesc distractionsd calendarsô 3 a willb mightc cand shouldô 4 a priorityb anxietyc balanced delayô 5 a sob unlessc althoughd becauseô 6 a physicalb optimisticc stressed outd additional": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. EXAM WEEK: STAY CALM AND ORGANISED Exam week is easier if you know what needs to be done. Begin by writing all your test dates and assignment (1) [Blank 1] in one place. Keep your desk clear because too many (2) [Blank 2] can make it hard to concentrate. Our school counsellor's advice is clear: if you have several tasks to finish, you (3) [Blank 3] decide which one is most urgent and give it (4) [Blank 4] . Try to start early, (5) [Blank 5] you do not have to complete everything on the final evening. Even when a test seems difficult, stay (6) [Blank 6] and focus on what you can improve.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.due datesB.prioritiesC.moodsD.routinesÔ (2):A.assignmentsB.schedulesC.distractionsD.calendarsÔ (3):A.willB.mightC.canD.shouldÔ (4):A.priorityB.anxietyC.balanceD.delayÔ (5):A.soB.unlessC.althoughD.becauseÔ (6):A.physicalB.optimisticC.stressed outD.additional",
+      "clean_stem": "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 blank 1 in one place keep your desk clear because too many 2 blank 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 blank 3 decide which one is most urgent and give it 4 blank 4 try to start early 5 blank 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 blank 6 and focus on what you can improve 📋bảng lựa chọn các ô trống cloze options ô 1 a due datesb prioritiesc moodsd routinesô 2 a assignmentsb schedulesc distractionsd calendarsô 3 a willb mightc cand shouldô 4 a priorityb anxietyc balanced delayô 5 a sob unlessc althoughd becauseô 6 a physicalb optimisticc stressed outd additional",
+      "stem_key": "language in functional textsquestions 1 6read the following school advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6 exam week stay calm and organised exam week is easier if you know what needs to be done begin by writing all your test dates and assignment 1 blank 1 in one place keep your desk clear because too many 2 blank 2 can make it hard to concentrate our school counsellor s advice is clear if you have several tasks to finish you 3 blank 3 decide which one is most urgent and give it 4 blank 4 try to start early 5 blank 5 you do not have to complete everything on the final evening even when a test seems difficult stay 6 blank 6 and focus on what you can improve 📋bảng lựa chọn các ô trống cloze options ô 1 a due datesb prioritiesc moodsd routinesô 2 a assignmentsb schedulesc distractionsd calendarsô 3 a willb mightc cand shouldô 4 a priorityb anxietyc balanced delayô 5 a sob unlessc althoughd becauseô 6 a physicalb optimisticc stressed outd additional",
+      "answer": "due dates",
+      "letter": "A",
+      "options": [
+        "due dates"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. due dates"
+        },
+        {
+          "index": 1,
+          "value": "C. distractions"
+        },
+        {
+          "index": 2,
+          "value": "D. should"
+        },
+        {
+          "index": 3,
+          "value": "A. priority"
+        },
+        {
+          "index": 4,
+          "value": "A. so"
+        },
+        {
+          "index": 5,
+          "value": "B. optimistic"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
+    },
+    "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 blank 7 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 blank 8 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 blank 9 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 blank 10 feel tired in class the next day if you use the school s quiet study room you 11 blank 11 turn your phone to silent mode because this is a room rule small habits matter 12 blank 12 they help you protect both study time and rest time 📋bảng lựa chọn các ô trống cloze options ô 7 a well balancedb stressed outc additionald delayedô 8 a difficultb optimisticc physicald mentalô 9 a mightb canc mustd shouldô 10 a shouldb mightc cand mustô 11 a mustb shouldc mightd canô 12 a unlessb becausec althoughd so": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. HEALTHY SCHOOL-DAY CHALLENGE A (7) [Blank 7] school day includes both focused study and time to care for your body. Try to get enough sleep and include some (8) [Blank 8] activity in your routine. Your parents have agreed that if you finish your homework before 9 p.m., you (9) [Blank 9] join the evening walk with your family. If you stay up much later than usual, there is a possibility that you (10) [Blank 10] feel tired in class the next day. If you use the school's quiet study room, you (11) [Blank 11] turn your phone to silent mode because this is a room rule. Small habits matter (12) [Blank 12] they help you protect both study time and rest time.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.well-balancedB.stressed-outC.additionalD.delayedÔ (8):A.difficultB.optimisticC.physicalD.mentalÔ (9):A.mightB.canC.mustD.shouldÔ (10):A.shouldB.mightC.canD.mustÔ (11):A.mustB.shouldC.mightD.canÔ (12):A.unlessB.becauseC.althoughD.so",
+      "clean_stem": "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 blank 7 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 blank 8 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 blank 9 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 blank 10 feel tired in class the next day if you use the school s quiet study room you 11 blank 11 turn your phone to silent mode because this is a room rule small habits matter 12 blank 12 they help you protect both study time and rest time 📋bảng lựa chọn các ô trống cloze options ô 7 a well balancedb stressed outc additionald delayedô 8 a difficultb optimisticc physicald mentalô 9 a mightb canc mustd shouldô 10 a shouldb mightc cand mustô 11 a mustb shouldc mightd canô 12 a unlessb becausec althoughd so",
+      "stem_key": "language in functional textsquestions 7 12read the following school challenge and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12 healthy school day challenge a 7 blank 7 school day includes both focused study and time to care for your body try to get enough sleep and include some 8 blank 8 activity in your routine your parents have agreed that if you finish your homework before 9 p m you 9 blank 9 join the evening walk with your family if you stay up much later than usual there is a possibility that you 10 blank 10 feel tired in class the next day if you use the school s quiet study room you 11 blank 11 turn your phone to silent mode because this is a room rule small habits matter 12 blank 12 they help you protect both study time and rest time 📋bảng lựa chọn các ô trống cloze options ô 7 a well balancedb stressed outc additionald delayedô 8 a difficultb optimisticc physicald mentalô 9 a mightb canc mustd shouldô 10 a shouldb mightc cand mustô 11 a mustb shouldc mightd canô 12 a unlessb becausec althoughd so",
+      "answer": "well-balanced",
+      "letter": "A",
+      "options": [
+        "well-balanced"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. well-balanced"
+        },
+        {
+          "index": 1,
+          "value": "C. physical"
+        },
+        {
+          "index": 2,
+          "value": "B. can"
+        },
+        {
+          "index": 3,
+          "value": "B. might"
+        },
+        {
+          "index": 4,
+          "value": "A. must"
+        },
+        {
+          "index": 5,
+          "value": "B. because"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-26T13:27:30Z"
     }
   }
 }
