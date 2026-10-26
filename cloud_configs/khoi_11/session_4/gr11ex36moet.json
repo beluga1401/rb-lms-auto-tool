@@ -12,10 +12,10 @@
     "cmid": "742996",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_4/gr11ex36moet.json",
-    "score": "95.00 trên 100.00",
-    "score_pct": 95.0,
+    "score": "100.0%",
+    "score_pct": 100.0,
     "question_count": 39,
-    "updated_at": "2026-10-26 22:29:58"
+    "updated_at": "2026-10-26 22:30:05"
   },
   "answers": [
     {
@@ -372,7 +372,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.the visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
       "questionNumber": 1,
       "selects": [],
-      "rightAnswer": "helping"
+      "rightAnswer": "helping",
+      "verified_100": true
     },
     {
       "answer": "preparing",
@@ -388,7 +389,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
       "questionNumber": 2,
       "selects": [],
-      "rightAnswer": "preparing"
+      "rightAnswer": "preparing",
+      "verified_100": true
     },
     {
       "answer": "bringing",
@@ -404,7 +406,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
       "questionNumber": 3,
       "selects": [],
-      "rightAnswer": "bringing"
+      "rightAnswer": "bringing",
+      "verified_100": true
     },
     {
       "answer": "organising",
@@ -420,7 +423,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.the student organisers suggested ________ a traditional games festival to help the visitors make friends.",
       "questionNumber": 4,
       "selects": [],
-      "rightAnswer": "organising"
+      "rightAnswer": "organising",
+      "verified_100": true
     },
     {
       "answer": "explaining",
@@ -436,7 +440,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
       "questionNumber": 5,
       "selects": [],
-      "rightAnswer": "explaining"
+      "rightAnswer": "explaining",
+      "verified_100": true
     },
     {
       "answer": "sharing",
@@ -452,7 +457,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.during cultural exchanges, students enjoy ________ their traditions and learning about other people’s customs.",
       "questionNumber": 6,
       "selects": [],
-      "rightAnswer": "sharing"
+      "rightAnswer": "sharing",
+      "verified_100": true
     },
     {
       "answer": "Taking part",
@@ -468,7 +474,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.________ in community projects gives young volunteers opportunities to develop practical skills.",
       "questionNumber": 7,
       "selects": [],
-      "rightAnswer": "Taking part"
+      "rightAnswer": "Taking part",
+      "verified_100": true
     },
     {
       "answer": "participating",
@@ -484,7 +491,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
       "questionNumber": 8,
       "selects": [],
-      "rightAnswer": "participating"
+      "rightAnswer": "participating",
+      "verified_100": true
     },
     {
       "answer": "Learning",
@@ -500,7 +508,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.________ about asean countries helps students understand different cultures and recognise shared values.",
       "questionNumber": 9,
       "selects": [],
-      "rightAnswer": "Learning"
+      "rightAnswer": "Learning",
+      "verified_100": true
     },
     {
       "answer": "making",
@@ -516,7 +525,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.one proposed activity for the welcome event is ________ asean posters in mixed groups of local and visiting students.",
       "questionNumber": 10,
       "selects": [],
-      "rightAnswer": "making"
+      "rightAnswer": "making",
+      "verified_100": true
     },
     {
       "answer": "C",
@@ -546,7 +556,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: {#1} question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: {#2} question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d: {#3}",
       "questionNumber": 11,
       "selects": [],
-      "rightAnswer": ""
+      "rightAnswer": "",
+      "verified_100": true
     },
     {
       "answer": "B",
@@ -606,7 +617,8 @@
       "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: {#1} question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: {#2} question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d: {#3}",
       "questionNumber": 13,
       "selects": [],
-      "rightAnswer": ""
+      "rightAnswer": "",
+      "verified_100": true
     }
   ]
 }
