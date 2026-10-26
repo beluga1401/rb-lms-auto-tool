@@ -1,16 +1,16 @@
 {
-  "version": "4.9.4",
+  "version": "5.0.0",
   "app_name": "RB LMS Auto Tool",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-25",
+  "release_date": "2026-10-26",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Tích hợp nhúng trực tiếp Google Chrome thật (Win32 HWND container): Cho phép đăng nhập tài khoản Google (Google OAuth, Beluga profile, SSO trường học) 100% không bị chặn 'Trình duyệt không an toàn'.",
-    "Điều khiển tự động qua Chrome DevTools Protocol (CDP): Tự động trích xuất đề thi từ Chrome, gửi AI Gemini / DeepSeek giải đề và tự động chép đáp án trực tiếp vào DOM của Chrome không cần cài Extension.",
-    "Nút chuyển đổi linh hoạt 1-click giữa QWebEngine mặc định và Google Chrome thật ngay trên thanh điều hướng.",
-    "Dọn dẹp code rác & tối ưu bộ nhớ: Loại bỏ mã trùng lặp, tối ưu cờ RAM cho Chrome (--js-flags=--max-old-space-size=256) giúp app hoạt động mượt mà và nhẹ nhàng hơn."
+    "Đập đi xây lại toàn bộ kiến trúc (Full Modular Remake): Tách nhỏ monolith 16.600 dòng thành các module độc lập, chuyên sâu (lms_js_engine, chrome_bridge, cloud_sync, ui_dialogs, ui_stealth_overlay), giảm hơn 600 KB dung lượng mã nguồn và tăng tốc độ khởi động x2 lần.",
+    "Tích hợp Màn Hình Đen Talon (Stealth Blackout Mode): Hiển thị phông nền đen bảo mật phủ kín trình duyệt với banner trung tâm 'https://discord.gg/rboptimize tối ưu giá rẻ uts1' chống quay lén màn hình, phím tắt F9 / Ctrl+B tiện lợi.",
+    "Quản lý vòng đời tiến trình Chrome triệt để: Tự động quét và diệt toàn bộ cây tiến trình con của Chrome khi thoát ứng dụng (Process Tree Cleanup), không để lại bất kỳ tiến trình Chrome chạy ngầm nào làm nặng máy.",
+    "Thanh công cụ hiện đại: Ghim trực tiếp nút '🌐 Real Chrome' và '🕶️ Talon Màn Đen' lên thanh điều hướng chính, phản hồi mượt mà và trực quan 1-click."
   ]
 }
