@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Trương Quốc Minh Quân",
-    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "account_name": "Trịnh Quốc Tiến",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 4",
     "unit_key": "session_4",
     "quiz_title": "GR11EX36MOET",
     "quiz_key": "gr11ex36moet",
-    "cmid": "742996",
+    "cmid": "742993",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_4/gr11ex36moet.json",
     "score": "95.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 39,
-    "updated_at": "2026-10-26 22:30:21"
+    "question_count": 48,
+    "updated_at": "2026-10-26 22:42:49"
   },
   "answers": [
     {
@@ -33,7 +33,8 @@
       "questionNumber": 1,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "arrangements"
+      "rightAnswer": "arrangements",
+      "dragdrops": []
     },
     {
       "answer": "values",
@@ -50,7 +51,8 @@
       "questionNumber": 2,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "values"
+      "rightAnswer": "values",
+      "dragdrops": []
     },
     {
       "answer": "for",
@@ -67,7 +69,8 @@
       "questionNumber": 3,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "for"
+      "rightAnswer": "for",
+      "dragdrops": []
     },
     {
       "answer": "make",
@@ -84,7 +87,8 @@
       "questionNumber": 4,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "make"
+      "rightAnswer": "make",
+      "dragdrops": []
     },
     {
       "answer": "in",
@@ -101,7 +105,8 @@
       "questionNumber": 5,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "in"
+      "rightAnswer": "in",
+      "dragdrops": []
     },
     {
       "answer": "solutions",
@@ -118,7 +123,8 @@
       "questionNumber": 6,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "solutions"
+      "rightAnswer": "solutions",
+      "dragdrops": []
     },
     {
       "answer": "leadership",
@@ -135,7 +141,8 @@
       "questionNumber": 7,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "leadership"
+      "rightAnswer": "leadership",
+      "dragdrops": []
     },
     {
       "answer": "cultural",
@@ -152,7 +159,8 @@
       "questionNumber": 8,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "cultural"
+      "rightAnswer": "cultural",
+      "dragdrops": []
     },
     {
       "answer": "send in",
@@ -169,7 +177,8 @@
       "questionNumber": 9,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "send in"
+      "rightAnswer": "send in",
+      "dragdrops": []
     },
     {
       "answer": "current",
@@ -186,7 +195,8 @@
       "questionNumber": 10,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "current"
+      "rightAnswer": "current",
+      "dragdrops": []
     },
     {
       "answer": "agreement",
@@ -203,7 +213,8 @@
       "questionNumber": 11,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "agreement"
+      "rightAnswer": "agreement",
+      "dragdrops": []
     },
     {
       "answer": "participant",
@@ -220,7 +231,8 @@
       "questionNumber": 12,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "participant"
+      "rightAnswer": "participant",
+      "dragdrops": []
     },
     {
       "answer": "development",
@@ -237,7 +249,8 @@
       "questionNumber": 13,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "development"
+      "rightAnswer": "development",
+      "dragdrops": []
     },
     {
       "answer": "representative",
@@ -254,7 +267,8 @@
       "questionNumber": 14,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "representative"
+      "rightAnswer": "representative",
+      "dragdrops": []
     },
     {
       "answer": "nationality",
@@ -271,7 +285,8 @@
       "questionNumber": 15,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "nationality"
+      "rightAnswer": "nationality",
+      "dragdrops": []
     },
     {
       "answer": "cultural",
@@ -288,7 +303,8 @@
       "questionNumber": 16,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "cultural"
+      "rightAnswer": "cultural",
+      "dragdrops": []
     },
     {
       "answer": "religious",
@@ -305,7 +321,8 @@
       "questionNumber": 17,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "religious"
+      "rightAnswer": "religious",
+      "dragdrops": []
     },
     {
       "answer": "qualified",
@@ -322,7 +339,8 @@
       "questionNumber": 18,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "qualified"
+      "rightAnswer": "qualified",
+      "dragdrops": []
     },
     {
       "answer": "contribution",
@@ -339,7 +357,8 @@
       "questionNumber": 19,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "contribution"
+      "rightAnswer": "contribution",
+      "dragdrops": []
     },
     {
       "answer": "traditional",
@@ -356,11 +375,12 @@
       "questionNumber": 20,
       "selects": [],
       "verified_100": true,
-      "rightAnswer": "traditional"
+      "rightAnswer": "traditional",
+      "dragdrops": []
     },
     {
       "answer": "helping",
-      "id": "question-1917394-9",
+      "id": "question-1921894-9",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.the visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
       "letter": "B",
@@ -368,67 +388,71 @@
         "helping"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.The visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
-      "questionId": "question-1917394-9",
+      "questionId": "question-1921894-9",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.the visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
-      "questionNumber": 1,
+      "questionNumber": 9,
       "selects": [],
       "rightAnswer": "helping",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "preparing",
-      "id": "question-1917394-7",
+      "id": "question-1921894-7",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "preparing"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.Making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
-      "questionId": "question-1917394-7",
+      "questionId": "question-1921894-7",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
-      "questionNumber": 2,
+      "questionNumber": 3,
       "selects": [],
       "rightAnswer": "preparing",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "bringing",
-      "id": "question-1917394-8",
+      "id": "question-1921894-8",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "bringing"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.Through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
-      "questionId": "question-1917394-8",
+      "questionId": "question-1921894-8",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
-      "questionNumber": 3,
+      "questionNumber": 2,
       "selects": [],
       "rightAnswer": "bringing",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "organising",
-      "id": "question-1917394-5",
+      "id": "question-1921894-5",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.the student organisers suggested ________ a traditional games festival to help the visitors make friends.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "organising"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.The student organisers suggested ________ a traditional games festival to help the visitors make friends.",
-      "questionId": "question-1917394-5",
+      "questionId": "question-1921894-5",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.the student organisers suggested ________ a traditional games festival to help the visitors make friends.",
-      "questionNumber": 4,
+      "questionNumber": 1,
       "selects": [],
       "rightAnswer": "organising",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "explaining",
-      "id": "question-1917394-6",
+      "id": "question-1921894-6",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
       "letter": "D",
@@ -436,96 +460,194 @@
         "explaining"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.Would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
-      "questionId": "question-1917394-6",
+      "questionId": "question-1921894-6",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
-      "questionNumber": 5,
+      "questionNumber": 7,
       "selects": [],
       "rightAnswer": "explaining",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "sharing",
-      "id": "question-1917394-4",
+      "id": "question-1921894-4",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.during cultural exchanges, students enjoy ________ their traditions and learning about other people’s customs.",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "sharing"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.During cultural exchanges, students enjoy ________ their traditions and learning about other people’s customs.",
-      "questionId": "question-1917394-4",
+      "questionId": "question-1921894-4",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.during cultural exchanges, students enjoy ________ their traditions and learning about other people’s customs.",
-      "questionNumber": 6,
+      "questionNumber": 10,
       "selects": [],
       "rightAnswer": "sharing",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "Taking part",
-      "id": "question-1917394-2",
+      "id": "question-1921894-2",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.________ in community projects gives young volunteers opportunities to develop practical skills.",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "Taking part"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.________ in community projects gives young volunteers opportunities to develop practical skills.",
-      "questionId": "question-1917394-2",
+      "questionId": "question-1921894-2",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.________ in community projects gives young volunteers opportunities to develop practical skills.",
-      "questionNumber": 7,
+      "questionNumber": 6,
       "selects": [],
       "rightAnswer": "Taking part",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "participating",
-      "id": "question-1917394-10",
+      "id": "question-1921894-10",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "participating"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.Several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
-      "questionId": "question-1917394-10",
+      "questionId": "question-1921894-10",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
       "questionNumber": 8,
       "selects": [],
       "rightAnswer": "participating",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "Learning",
-      "id": "question-1917394-1",
+      "id": "question-1921894-1",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.________ about asean countries helps students understand different cultures and recognise shared values.",
-      "letter": "C",
+      "letter": "A",
       "options": [
         "Learning"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.________ about ASEAN countries helps students understand different cultures and recognise shared values.",
-      "questionId": "question-1917394-1",
+      "questionId": "question-1921894-1",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.________ about asean countries helps students understand different cultures and recognise shared values.",
-      "questionNumber": 9,
+      "questionNumber": 4,
       "selects": [],
       "rightAnswer": "Learning",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "making",
-      "id": "question-1917394-3",
+      "id": "question-1921894-3",
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.one proposed activity for the welcome event is ________ asean posters in mixed groups of local and visiting students.",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "making"
       ],
       "question": "Choose the option A, B, C, or D that best completes each sentence.One proposed activity for the welcome event is ________ ASEAN posters in mixed groups of local and visiting students.",
-      "questionId": "question-1917394-3",
+      "questionId": "question-1921894-3",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.one proposed activity for the welcome event is ________ asean posters in mixed groups of local and visiting students.",
-      "questionNumber": 10,
+      "questionNumber": 5,
       "selects": [],
       "rightAnswer": "making",
+      "verified_100": true,
+      "dragdrops": []
+    },
+    {
+      "answer": "C",
+      "id": "question-1921894-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: {#1} question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: {#2} question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. participateB. participantC. participationD. participated Write A, B, C or D: {#1} Question 2A. leadershipB. researchC. languageD. presentation Write A, B, C or D: {#2} Question 3A. For exampleB. By contrastC. In the meantimeD. As a result Write A, B, C or D: {#3}",
+      "questionId": "question-1921894-11",
+      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: {#1} question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: {#2} question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d: {#3}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": "",
+      "verified_100": true
+    },
+    {
+      "answer": "B",
+      "id": "question-1921894-13",
+      "inputs": [
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "choose the option a, b, c, or d that best completes each blank. question 1a. findb. to findc. foundd. finding write a, b, c or d: {#1} question 2a. representationb. representativec. representd. represented write a, b, c or d: {#2} question 3a. beforeb. afterc. whiled. until write a, b, c or d: {#3} question 4a. resourcesb. schedulesc. valuesd. customs write a, b, c or d: {#4}",
+      "letter": "",
+      "options": [],
+      "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. findB. to findC. foundD. finding Write A, B, C or D: {#1} Question 2A. representationB. representativeC. representD. represented Write A, B, C or D: {#2} Question 3A. beforeB. afterC. whileD. until Write A, B, C or D: {#3} Question 4A. resourcesB. schedulesC. valuesD. customs Write A, B, C or D: {#4}",
+      "questionId": "question-1921894-13",
+      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. findb. to findc. foundd. finding write a, b, c or d: {#1} question 2a. representationb. representativec. representd. represented write a, b, c or d: {#2} question 3a. beforeb. afterc. whiled. until write a, b, c or d: {#3} question 4a. resourcesb. schedulesc. valuesd. customs write a, b, c or d: {#4}",
+      "questionNumber": 13,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1921894-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: {#1} question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: {#2} question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d: {#3}",
+      "letter": "",
+      "options": [],
+      "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. organiseB. organisingC. to organiseD. organised Write A, B, C or D: {#1} Question 2A. contributionsB. presentationsC. arrangementsD. opinions Write A, B, C or D: {#2} Question 3A. ThereforeB. NeverthelessC. InsteadD. Otherwise Write A, B, C or D: {#3}",
+      "questionId": "question-1921894-12",
+      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: {#1} question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: {#2} question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d: {#3}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": "",
       "verified_100": true
     },
     {
@@ -549,15 +671,18 @@
         }
       ],
       "legacyQKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: {#1} question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: {#2} question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d: {#3}",
-      "letter": "",
-      "options": [],
+      "letter": "C",
+      "options": [
+        "C"
+      ],
       "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. participateB. participantC. participationD. participated Write A, B, C or D: {#1} Question 2A. leadershipB. researchC. languageD. presentation Write A, B, C or D: {#2} Question 3A. For exampleB. By contrastC. In the meantimeD. As a result Write A, B, C or D: {#3}",
       "questionId": "question-1917394-11",
-      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: {#1} question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: {#2} question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d: {#3}",
+      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d:",
       "questionNumber": 11,
       "selects": [],
       "rightAnswer": "",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -580,14 +705,17 @@
         }
       ],
       "legacyQKey": "choose the option a, b, c, or d that best completes each blank. question 1a. findb. to findc. foundd. finding write a, b, c or d: {#1} question 2a. representationb. representativec. representd. represented write a, b, c or d: {#2} question 3a. beforeb. afterc. whiled. until write a, b, c or d: {#3} question 4a. resourcesb. schedulesc. valuesd. customs write a, b, c or d: {#4}",
-      "letter": "",
-      "options": [],
+      "letter": "B",
+      "options": [
+        "B"
+      ],
       "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. findB. to findC. foundD. finding Write A, B, C or D: {#1} Question 2A. representationB. representativeC. representD. represented Write A, B, C or D: {#2} Question 3A. beforeB. afterC. whileD. until Write A, B, C or D: {#3} Question 4A. resourcesB. schedulesC. valuesD. customs Write A, B, C or D: {#4}",
       "questionId": "question-1917394-13",
-      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. findb. to findc. foundd. finding write a, b, c or d: {#1} question 2a. representationb. representativec. representd. represented write a, b, c or d: {#2} question 3a. beforeb. afterc. whiled. until write a, b, c or d: {#3} question 4a. resourcesb. schedulesc. valuesd. customs write a, b, c or d: {#4}",
+      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. findb. to findc. foundd. finding write a, b, c or d: question 2a. representationb. representativec. representd. represented write a, b, c or d: question 3a. beforeb. afterc. whiled. until write a, b, c or d: question 4a. resourcesb. schedulesc. valuesd. customs write a, b, c or d:",
       "questionNumber": 12,
       "selects": [],
-      "rightAnswer": ""
+      "rightAnswer": "",
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -610,15 +738,18 @@
         }
       ],
       "legacyQKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: {#1} question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: {#2} question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d: {#3}",
-      "letter": "",
-      "options": [],
+      "letter": "B",
+      "options": [
+        "B"
+      ],
       "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. organiseB. organisingC. to organiseD. organised Write A, B, C or D: {#1} Question 2A. contributionsB. presentationsC. arrangementsD. opinions Write A, B, C or D: {#2} Question 3A. ThereforeB. NeverthelessC. InsteadD. Otherwise Write A, B, C or D: {#3}",
       "questionId": "question-1917394-12",
-      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: {#1} question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: {#2} question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d: {#3}",
+      "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d:",
       "questionNumber": 13,
       "selects": [],
       "rightAnswer": "",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     }
   ]
 }
