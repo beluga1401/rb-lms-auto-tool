@@ -1,6 +1,6 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-27T14:19:31Z",
+  "updated_at": "2026-10-27T14:21:17Z",
   "total_questions": 272,
   "questions": {
     "which animal is a pet": {
@@ -3187,7 +3187,7 @@
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone hoa had only checked half the book list when a new volunteer reached the centre she the remaining entries when the volunteer",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone hoa had only checked half the book list when a new volunteer reached the centre she the remaining entries when the volunteer",
       "answer": "was checking / arrived",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "was checking / arrived"
       ],
@@ -3195,14 +3195,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone the outdoor project was still in progress yesterday afternoon the volunteers the planned activities when it suddenly to rain": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.The outdoor project was still in progress yesterday afternoon. The volunteers ________ the planned activities when it suddenly ________ to rain.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone the outdoor project was still in progress yesterday afternoon the volunteers the planned activities when it suddenly to rain",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone the outdoor project was still in progress yesterday afternoon the volunteers the planned activities when it suddenly to rain",
       "answer": "were carrying out / started",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "were carrying out / started"
       ],
@@ -3210,7 +3210,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone when the organiser entered yesterday the volunteers had not finished grouping the goods what were they doing at that moment they the donations": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.When the organiser entered yesterday, the volunteers had not finished grouping the goods. What were they doing at that moment? They ________ the donations.",
@@ -3225,14 +3225,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone nam s delivery round began at eight yesterday at eight thirty he still had several families to visit at that moment he free meals along his route": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Nam's delivery round began at eight yesterday. At eight thirty, he still had several families to visit. At that moment, he ________ free meals along his route.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone nam s delivery round began at eight yesterday at eight thirty he still had several families to visit at that moment he free meals along his route",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone nam s delivery round began at eight yesterday at eight thirty he still had several families to visit at that moment he free meals along his route",
       "answer": "was delivering",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "was delivering"
       ],
@@ -3240,14 +3240,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone there had been no phone calls earlier that evening while lan was completing her application her phone suddenly once she answered it and then returned to the form": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.There had been no phone calls earlier that evening. While Lan was completing her application, her phone suddenly ________ once. She answered it and then returned to the form.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone there had been no phone calls earlier that evening while lan was completing her application her phone suddenly once she answered it and then returned to the form",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone there had been no phone calls earlier that evening while lan was completing her application her phone suddenly once she answered it and then returned to the form",
       "answer": "rang",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "rang"
       ],
@@ -3255,14 +3255,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone minh s set of handmade cards was still incomplete at four yesterday afternoon at that exact time he the remaining cards": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Minh's set of handmade cards was still incomplete at four yesterday afternoon. At that exact time, he ________ the remaining cards.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone minh s set of handmade cards was still incomplete at four yesterday afternoon at that exact time he the remaining cards",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone minh s set of handmade cards was still incomplete at four yesterday afternoon at that exact time he the remaining cards",
       "answer": "was preparing",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "was preparing"
       ],
@@ -3270,7 +3270,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone mai had never seen the centre s volunteer advertisement before that visit while she was reading the noticeboard yesterday she it for the first time and decided to apply": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.Mai had never seen the centre's volunteer advertisement before that visit. While she was reading the noticeboard yesterday, she ________ it for the first time and decided to apply.",
@@ -3285,14 +3285,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone when the visitors arrived yesterday the students were still removing rubbish from the park they it up and the task was not yet complete": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.When the visitors arrived yesterday, the students were still removing rubbish from the park. They ________ it up, and the task was not yet complete.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone when the visitors arrived yesterday the students were still removing rubbish from the park they it up and the task was not yet complete",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone when the visitors arrived yesterday the students were still removing rubbish from the park they it up and the task was not yet complete",
       "answer": "were cleaning",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "were cleaning"
       ],
@@ -3300,14 +3300,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone the volunteers had not seen the elderly man before reaching that corner while they were walking towards the centre they him drop his bag and stopped to help": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.The volunteers had not seen the elderly man before reaching that corner. While they were walking towards the centre, they ________ him drop his bag and stopped to help.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone the volunteers had not seen the elderly man before reaching that corner while they were walking towards the centre they him drop his bag and stopped to help",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone the volunteers had not seen the elderly man before reaching that corner while they were walking towards the centre they him drop his bag and stopped to help",
       "answer": "saw",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "saw"
       ],
@@ -3315,14 +3315,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone at the exact moment the organiser called yesterday only half of lan s application was complete she the remaining spaces at that moment": {
       "question": "Choose the option that best expresses the timeline established by the context. Identify the action in progress, the event, and the subject of each verb. Do not decide from when/while alone.At the exact moment the organiser called yesterday, only half of Lan's application was complete. She ________ the remaining spaces at that moment.",
       "clean_stem": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone at the exact moment the organiser called yesterday only half of lan s application was complete she the remaining spaces at that moment",
       "stem_key": "choose the option that best expresses the timeline established by the context identify the action in progress the event and the subject of each verb do not decide from when while alone at the exact moment the organiser called yesterday only half of lan s application was complete she the remaining spaces at that moment",
       "answer": "was filling in",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "was filling in"
       ],
@@ -3330,7 +3330,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose a d for each blank use nearby sentences as well as grammar then reread with your answers inserted question 1a donationsb donationc donated donatedwrite a b c or d 1 question 2a were sortingb had sortedc are sortingd will sortwrite a b c or d 2 question 3a helpb helpfulc helpingd helpfullywrite a b c or d 3 question 4a notebooksb mealsc blanketsd formswrite a b c or d 4": {
       "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. donationsB. donationC. donateD. donatedWrite A, B, C or D: {#1} Question 2A. were sortingB. had sortedC. are sortingD. will sortWrite A, B, C or D: {#2} Question 3A. helpB. helpfulC. helpingD. helpfullyWrite A, B, C or D: {#3} Question 4A. notebooksB. mealsC. blanketsD. formsWrite A, B, C or D: {#4}",
@@ -3360,7 +3360,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose a d for each blank use nearby sentences as well as grammar then reread with your answers inserted question 1a donationsb donationc donated donatedwrite a b c or d question 2a were sortingb had sortedc are sortingd will sortwrite a b c or d question 3a helpb helpfulc helpingd helpfullywrite a b c or d question 4a notebooksb mealsc blanketsd formswrite a b c or d": {
       "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. donationsB. donationC. donateD. donatedWrite A, B, C or D: {#1} Question 2A. were sortingB. had sortedC. are sortingD. will sortWrite A, B, C or D: {#2} Question 3A. helpB. helpfulC. helpingD. helpfullyWrite A, B, C or D: {#3} Question 4A. notebooksB. mealsC. blanketsD. formsWrite A, B, C or D: {#4}",
@@ -3390,7 +3390,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose a d for each blank use nearby sentences as well as grammar then reread with your answers inserted question 1a experienceb moneyc materialsd confidencewrite a b c or d 1 question 2a confidentlyb confidencec confidentd confidenceswrite a b c or d 2 question 3a skillsb dutiesc interestsd positions write a b c or d 3": {
       "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. experienceB. moneyC. materialsD. confidenceWrite A, B, C or D: {#1} Question 2A. confidentlyB. confidenceC. confidentD. confidencesWrite A, B, C or D: {#2} Question 3A. skillsB. dutiesC. interestsD. positions Write A, B, C or D: {#3}",
@@ -3416,7 +3416,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose a d for each blank use nearby sentences as well as grammar then reread with your answers inserted question 1a experienceb moneyc materialsd confidencewrite a b c or d question 2a confidentlyb confidencec confidentd confidenceswrite a b c or d question 3a skillsb dutiesc interestsd positions write a b c or d": {
       "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. experienceB. moneyC. materialsD. confidenceWrite A, B, C or D: {#1} Question 2A. confidentlyB. confidenceC. confidentD. confidencesWrite A, B, C or D: {#2} Question 3A. skillsB. dutiesC. interestsD. positions Write A, B, C or D: {#3}",
@@ -3442,7 +3442,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose a d for each blank use nearby sentences as well as grammar then reread with your answers inserted question 1a advertisementb applicationc donationd interviewwrite a b c or d 1 question 2a carry outb set upc fill ind clean upwrite a b c or d 2 question 3a remoteb homelessc confusedd reliablewrite a b c or d 3": {
       "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. advertisementB. applicationC. donationD. interviewWrite A, B, C or D: {#1} Question 2A. carry outB. set upC. fill inD. clean upWrite A, B, C or D: {#2} Question 3A. remoteB. homelessC. confusedD. reliableWrite A, B, C or D: {#3}",
@@ -3468,7 +3468,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose a d for each blank use nearby sentences as well as grammar then reread with your answers inserted question 1a advertisementb applicationc donationd interviewwrite a b c or d question 2a carry outb set upc fill ind clean upwrite a b c or d question 3a remoteb homelessc confusedd reliablewrite a b c or d": {
       "question": "Choose A–D for each blank. Use nearby sentences as well as grammar. Then reread with your answers inserted. Question 1A. advertisementB. applicationC. donationD. interviewWrite A, B, C or D: {#1} Question 2A. carry outB. set upC. fill inD. clean upWrite A, B, C or D: {#2} Question 3A. remoteB. homelessC. confusedD. reliableWrite A, B, C or D: {#3}",
@@ -3494,7 +3494,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:13:52Z"
+      "updated_at": "2026-10-27T14:21:16Z"
     },
     "choose what the bold reference word refers to check number meaning and the surrounding sentences do not automatically choose the nearest noun families donated picture books and unused notebooks these were taken to the school for children to use in class": {
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Families donated picture books and unused notebooks. These were taken to the school for children to use in class.",
