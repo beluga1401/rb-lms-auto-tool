@@ -1,6 +1,6 @@
 {
-  "version": "4.8.2",
-  "updated_at": "2026-10-26T15:42:54Z",
+  "version": "4.9.3",
+  "updated_at": "2026-10-27T14:14:45Z",
   "total_questions": 272,
   "questions": {
     "which animal is a pet": {
@@ -2512,7 +2512,7 @@
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer at the food bank volunteers collect donated food and provide it to people who do not have enough to eat",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer at the food bank volunteers collect donated food and provide it to people who do not have enough to eat",
       "answer": "place that collects and provides food for people in need",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "a place that collects and provides food for people in need"
       ],
@@ -2520,14 +2520,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer every sunday phong works as a volunteer at the community centre he helps children choose books and does not receive any payment": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Every Sunday, Phong works as a volunteer at the community centre. He helps children choose books and does not receive any payment.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer every sunday phong works as a volunteer at the community centre he helps children choose books and does not receive any payment",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer every sunday phong works as a volunteer at the community centre he helps children choose books and does not receive any payment",
       "answer": "person who works to help others without being paid",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "a person who works to help others without being paid"
       ],
@@ -2535,14 +2535,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer organizing his time became an essential life skill for huy it helped him manage schoolwork volunteer duties and daily responsibilities": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Organizing his time became an essential life skill for Huy. It helped him manage schoolwork, volunteer duties, and daily responsibilities.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer organizing his time became an essential life skill for huy it helped him manage schoolwork volunteer duties and daily responsibilities",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer organizing his time became an essential life skill for huy it helped him manage schoolwork volunteer duties and daily responsibilities",
       "answer": "an important ability needed to manage everyday situations",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "an important ability needed to manage everyday situations"
       ],
@@ -2550,14 +2550,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer delivering meals gave nam a sense of purpose he felt that his actions mattered because they helped other people": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Delivering meals gave Nam a sense of purpose. He felt that his actions mattered because they helped other people.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer delivering meals gave nam a sense of purpose he felt that his actions mattered because they helped other people",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer delivering meals gave nam a sense of purpose he felt that his actions mattered because they helped other people",
       "answer": "feeling that one's life and actions have meaning",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "a feeling that one's life and actions have meaning"
       ],
@@ -2565,7 +2565,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer minh sent his application to the volunteer club he asked to join the team and explained when he could help": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Minh sent his application to the volunteer club. He asked to join the team and explained when he could help.",
@@ -2580,14 +2580,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer lan found an advertisement on the noticeboard it listed volunteer duties and invited interested students to contact the centre": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Lan found an advertisement on the noticeboard. It listed volunteer duties and invited interested students to contact the centre.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer lan found an advertisement on the noticeboard it listed volunteer duties and invited interested students to contact the centre",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer lan found an advertisement on the noticeboard it listed volunteer duties and invited interested students to contact the centre",
       "answer": "public notice giving information about an opportunity",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "a public notice giving information about an opportunity"
       ],
@@ -2595,14 +2595,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the centre supports community development its projects improve shared facilities provide useful training and create opportunities for local people": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The centre supports community development. Its projects improve shared facilities, provide useful training, and create opportunities for local people.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the centre supports community development its projects improve shared facilities provide useful training and create opportunities for local people",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the centre supports community development its projects improve shared facilities provide useful training and create opportunities for local people",
       "answer": "the process of improving life for people in a local area",
-      "letter": "B",
+      "letter": "C",
       "options": [
         "the process of improving life for people in a local area"
       ],
@@ -2610,14 +2610,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer after the flood several families faced serious hardship their homes were damaged and they lacked clean water": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.After the flood, several families faced serious hardship. Their homes were damaged, and they lacked clean water.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer after the flood several families faced serious hardship their homes were damaged and they lacked clean water",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer after the flood several families faced serious hardship their homes were damaged and they lacked clean water",
       "answer": "difficult condition that causes suffering",
-      "letter": "C",
+      "letter": "A",
       "options": [
         "a difficult condition that causes suffering"
       ],
@@ -2625,7 +2625,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the centre needs reliable volunteers it must be able to trust them to arrive when agreed and complete their duties": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The centre needs reliable volunteers. It must be able to trust them to arrive when agreed and complete their duties.",
@@ -2640,14 +2640,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer before submitting the form fill in the spaces for your name contact details and available days": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Before submitting the form, fill in the spaces for your name, contact details, and available days.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer before submitting the form fill in the spaces for your name contact details and available days",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer before submitting the form fill in the spaces for your name contact details and available days",
       "answer": "write the required information in the spaces provided",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "write the required information in the spaces provided"
       ],
@@ -2655,14 +2655,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the free meal project will benefit families who cannot afford enough food it will help them meet an important daily need": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The free meal project will benefit families who cannot afford enough food. It will help them meet an important daily need.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the free meal project will benefit families who cannot afford enough food it will help them meet an important daily need",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the free meal project will benefit families who cannot afford enough food it will help them meet an important daily need",
       "answer": "help someone or have a positive effect on them",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "help someone or have a positive effect on them"
       ],
@@ -2670,7 +2670,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer hoa used to avoid speaking to visitors after practising at the centre she gained confidence and believed she could communicate successfully": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Hoa used to avoid speaking to visitors. After practising at the centre, she gained confidence and believed she could communicate successfully.",
@@ -2685,7 +2685,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the school is in a remote village volunteers travel along a long mountain road because the village is far from the nearest town": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The school is in a remote village. Volunteers travel along a long mountain road because the village is far from the nearest town.",
@@ -2700,7 +2700,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the shop owner was generous she supplied materials for the charity project without asking for payment and spent several afternoons helping students": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The shop owner was generous. She supplied materials for the charity project without asking for payment and spent several afternoons helping students.",
@@ -2715,14 +2715,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the family s donation included blankets and picture books the club would pass them to people who needed them": {
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The family's donation included blankets and picture books. The club would pass them to people who needed them.",
       "clean_stem": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the family s donation included blankets and picture books the club would pass them to people who needed them",
       "stem_key": "choose a b c or d that is closest in meaning to the bold word or phrase use the complete context each question has one correct answer the family s donation included blankets and picture books the club would pass them to people who needed them",
       "answer": "money or goods given to help other people",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "money or goods given to help other people"
       ],
@@ -2730,14 +2730,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the members remained hopeful that more people would donate before the collection ended": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The members remained hopeful that more people would donate before the collection ended.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the members remained hopeful that more people would donate before the collection ended",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the members remained hopeful that more people would donate before the collection ended",
       "answer": "expecting that no good result is possible",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "expecting that no good result is possible"
       ],
@@ -2745,14 +2745,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the collection was successful it reached its target and supplied all the books requested": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The collection was successful: it reached its target and supplied all the books requested.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the collection was successful it reached its target and supplied all the books requested",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the collection was successful it reached its target and supplied all the books requested",
       "answer": "failing to achieve its intended result",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "failing to achieve its intended result"
       ],
@@ -2760,14 +2760,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality lan was careful when recording donations she checked every entry to avoid mistakes": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Lan was careful when recording donations. She checked every entry to avoid mistakes.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality lan was careful when recording donations she checked every entry to avoid mistakes",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality lan was careful when recording donations she checked every entry to avoid mistakes",
       "answer": "careless",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "careless"
       ],
@@ -2775,14 +2775,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality welcoming visitors can boost confidence helping volunteers believe more strongly in their abilities": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Welcoming visitors can boost confidence, helping volunteers believe more strongly in their abilities.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality welcoming visitors can boost confidence helping volunteers believe more strongly in their abilities",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality welcoming visitors can boost confidence helping volunteers believe more strongly in their abilities",
       "answer": "reduce belief in one's abilities",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "reduce belief in one's abilities"
       ],
@@ -2790,14 +2790,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the shop owner was generous with her resources she freely gave materials and money to the charity project": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The shop owner was generous with her resources. She freely gave materials and money to the charity project.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the shop owner was generous with her resources she freely gave materials and money to the charity project",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the shop owner was generous with her resources she freely gave materials and money to the charity project",
       "answer": "unwilling to give resources to others",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "unwilling to give resources to others"
       ],
@@ -2805,14 +2805,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality local residents were helpful they guided the volunteers and assisted with unloading": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Local residents were helpful. They guided the volunteers and assisted with unloading.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality local residents were helpful they guided the volunteers and assisted with unloading",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality local residents were helpful they guided the volunteers and assisted with unloading",
       "answer": "unhelpful",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "unhelpful"
       ],
@@ -2820,14 +2820,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the organiser described the opportunities as endless with many different ways to help": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The organiser described the opportunities as endless, with many different ways to help.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the organiser described the opportunities as endless with many different ways to help",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the organiser described the opportunities as endless with many different ways to help",
       "answer": "limited",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "limited"
       ],
@@ -2835,7 +2835,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality mai was hard working she put considerable effort into preparing the donated books": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Mai was hard-working. She put considerable effort into preparing the donated books.",
@@ -2850,14 +2850,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the centre needs reliable volunteers who can be trusted to complete agreed duties": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The centre needs reliable volunteers who can be trusted to complete agreed duties.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the centre needs reliable volunteers who can be trusted to complete agreed duties",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the centre needs reliable volunteers who can be trusted to complete agreed duties",
       "answer": "unreliable",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "unreliable"
       ],
@@ -2865,14 +2865,14 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the volunteers travelled for several hours to a remote village far from the nearest town": {
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The volunteers travelled for several hours to a remote village, far from the nearest town.",
       "clean_stem": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the volunteers travelled for several hours to a remote village far from the nearest town",
       "stem_key": "choose a b c or d that is opposite in meaning to the bold target do not choose a synonym or merely a different quality the volunteers travelled for several hours to a remote village far from the nearest town",
       "answer": "nearby",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "nearby"
       ],
@@ -2880,7 +2880,7 @@
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-26T14:09:45Z"
+      "updated_at": "2026-10-27T14:14:44Z"
     },
     "choose a b c or d that completes the most appropriate phrase check its meaning in the complete context students want to set a new volunteer club they have chosen its name and are inviting its first members": {
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.Students want to set ________ a new volunteer club. They have chosen its name and are inviting its first members.",
