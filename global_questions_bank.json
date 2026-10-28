@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-27T14:23:09Z",
-  "total_questions": 272,
+  "updated_at": "2026-10-28T13:45:53Z",
+  "total_questions": 297,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -4806,6 +4806,381 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-26T15:42:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning as a judge ms lan listened to every contestant awarded scores and helped decide who would reach the final the word judge is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.As a judge, Ms Lan listened to every contestant, awarded scores, and helped decide who would reach the final.The word judge is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning as a judge ms lan listened to every contestant awarded scores and helped decide who would reach the final the word judge is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning as a judge ms lan listened to every contestant awarded scores and helped decide who would reach the final the word judge is closest in meaning to",
+      "answer": "person who assesses performances in a competition",
+      "letter": "C",
+      "options": [
+        "a person who assesses performances in a competition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning hoa finished second in the singing competition immediately behind the winner so she was named the runner up the word runner up is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Hoa finished second in the singing competition, immediately behind the winner, so she was named the runner-up.The word runner-up is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning hoa finished second in the singing competition immediately behind the winner so she was named the runner up the word runner up is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning hoa finished second in the singing competition immediately behind the winner so she was named the runner up the word runner up is closest in meaning to",
+      "answer": "the contestant finishing immediately behind the winner",
+      "letter": "D",
+      "options": [
+        "the contestant finishing immediately behind the winner"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning in this reality competition ordinary people appear on television as themselves and compete to become the winning singer they are not actors playing fictional characters the phrase reality competition is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.In this reality competition, ordinary people appear on television as themselves and compete to become the winning singer. They are not actors playing fictional characters.The phrase reality competition is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning in this reality competition ordinary people appear on television as themselves and compete to become the winning singer they are not actors playing fictional characters the phrase reality competition is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning in this reality competition ordinary people appear on television as themselves and compete to become the winning singer they are not actors playing fictional characters the phrase reality competition is closest in meaning to",
+      "answer": "television contest involving ordinary people as themselves",
+      "letter": "C",
+      "options": [
+        "a television contest involving ordinary people as themselves"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the festival had a friendly atmosphere visitors smiled chatted with one another and enjoyed the music together the word atmosphere is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The festival had a friendly atmosphere. Visitors smiled, chatted with one another, and enjoyed the music together.The word atmosphere is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the festival had a friendly atmosphere visitors smiled chatted with one another and enjoyed the music together the word atmosphere is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the festival had a friendly atmosphere visitors smiled chatted with one another and enjoyed the music together the word atmosphere is closest in meaning to",
+      "answer": "the general feeling or mood of an event",
+      "letter": "D",
+      "options": [
+        "the general feeling or mood of an event"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning at the school concert mai sang a cover song another artist had performed it years earlier but mai sang it in her own style the phrase cover song is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.At the school concert, Mai sang a cover song. Another artist had performed it years earlier, but Mai sang it in her own style.The phrase cover song is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning at the school concert mai sang a cover song another artist had performed it years earlier but mai sang it in her own style the phrase cover song is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning at the school concert mai sang a cover song another artist had performed it years earlier but mai sang it in her own style the phrase cover song is closest in meaning to",
+      "answer": "new performance of a previously performed song",
+      "letter": "D",
+      "options": [
+        "a new performance of a previously performed song"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning thousands of teenagers follow the young singer display his pictures and discuss his latest songs he has become a teen idol the phrase teen idol is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Thousands of teenagers follow the young singer, display his pictures, and discuss his latest songs. He has become a teen idol.The phrase teen idol is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning thousands of teenagers follow the young singer display his pictures and discuss his latest songs he has become a teen idol the phrase teen idol is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning thousands of teenagers follow the young singer display his pictures and discuss his latest songs he has become a teen idol the phrase teen idol is closest in meaning to",
+      "answer": "young celebrity greatly admired by teenagers",
+      "letter": "C",
+      "options": [
+        "a young celebrity greatly admired by teenagers"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the website counts a view each time someone watches the band s video one person may watch it more than once the word view is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The website counts a view each time someone watches the band's video. One person may watch it more than once.The word view is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the website counts a view each time someone watches the band s video one person may watch it more than once the word view is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the website counts a view each time someone watches the band s video one person may watch it more than once the word view is closest in meaning to",
+      "answer": "one occasion when an online video is watched",
+      "letter": "B",
+      "options": [
+        "one occasion when an online video is watched"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument the phrase cash prize is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument.The phrase cash prize is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument the phrase cash prize is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the organisers announced that the winner would receive a cash prize of two million dong rather than a musical instrument the phrase cash prize is closest in meaning to",
+      "answer": "money awarded to a contestant for winning",
+      "letter": "D",
+      "options": [
+        "money awarded to a contestant for winning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning our group wanted a fresh music show idea after discussing several possibilities we came up with a plan combining singing and short artist interviews the phrase came up with is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Our group wanted a fresh music-show idea. After discussing several possibilities, we came up with a plan combining singing and short artist interviews.The phrase came up with is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning our group wanted a fresh music show idea after discussing several possibilities we came up with a plan combining singing and short artist interviews the phrase came up with is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning our group wanted a fresh music show idea after discussing several possibilities we came up with a plan combining singing and short artist interviews the phrase came up with is closest in meaning to",
+      "answer": "thought of and suggested a plan",
+      "letter": "C",
+      "options": [
+        "thought of and suggested a plan"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the band has released a new single containing one main song fans are sharing the recording and discussing its lyrics the word single is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The band has released a new single containing one main song. Fans are sharing the recording and discussing its lyrics.The word single is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the band has released a new single containing one main song fans are sharing the recording and discussing its lyrics the word single is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the band has released a new single containing one main song fans are sharing the recording and discussing its lyrics the word single is closest in meaning to",
+      "answer": "music recording containing one main song",
+      "letter": "A",
+      "options": [
+        "a music recording containing one main song"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the school organised a charity concert and donated the ticket money to help children in need the phrase charity concert is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The school organised a charity concert and donated the ticket money to help children in need.The phrase charity concert is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the school organised a charity concert and donated the ticket money to help children in need the phrase charity concert is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the school organised a charity concert and donated the ticket money to help children in need the phrase charity concert is closest in meaning to",
+      "answer": "musical event raising money for a good cause",
+      "letter": "A",
+      "options": [
+        "a musical event raising money for a good cause"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning linh can recognise a tune after hearing it once and quickly learns to play it on the piano her teacher describes her as talented the word talented is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.Linh can recognise a tune after hearing it once and quickly learns to play it on the piano. Her teacher describes her as talented. The word talented is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning linh can recognise a tune after hearing it once and quickly learns to play it on the piano her teacher describes her as talented the word talented is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning linh can recognise a tune after hearing it once and quickly learns to play it on the piano her teacher describes her as talented the word talented is closest in meaning to",
+      "answer": "naturally able to do something well",
+      "letter": "B",
+      "options": [
+        "naturally able to do something well"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the audience listened quietly while the singer performed when the song ended the people in the seats stood up and clapped the word audience is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The audience listened quietly while the singer performed. When the song ended, the people in the seats stood up and clapped.The word audience is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the audience listened quietly while the singer performed when the song ended the people in the seats stood up and clapped the word audience is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the audience listened quietly while the singer performed when the song ended the people in the seats stood up and clapped the word audience is closest in meaning to",
+      "answer": "the people watching or listening to the performance",
+      "letter": "D",
+      "options": [
+        "the people watching or listening to the performance"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the competition has three rounds in the first stage all contestants perform selected singers then continue to the semi final the word stage is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The competition has three rounds. In the first stage, all contestants perform; selected singers then continue to the semi-final.The word stage is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the competition has three rounds in the first stage all contestants perform selected singers then continue to the semi final the word stage is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the competition has three rounds in the first stage all contestants perform selected singers then continue to the semi final the word stage is closest in meaning to",
+      "answer": "particular phase within a competition",
+      "letter": "B",
+      "options": [
+        "a particular phase within a competition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the band uses social media to share performance videos post pictures and exchange messages with fans the phrase social media is closest in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is CLOSEST in meaning to the bold word or phrase.Use the complete context. An option may relate to music without expressing the target's meaning.The band uses social media to share performance videos, post pictures, and exchange messages with fans.The phrase social media is closest in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the band uses social media to share performance videos post pictures and exchange messages with fans the phrase social media is closest in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is closest in meaning to the bold word or phrase use the complete context an option may relate to music without expressing the target s meaning the band uses social media to share performance videos post pictures and exchange messages with fans the phrase social media is closest in meaning to",
+      "answer": "online platforms used to share content and communicate",
+      "letter": "D",
+      "options": [
+        "online platforms used to share content and communicate"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the singer became famous after her songs reached listeners across the country people recognised her wherever she performed the word famous is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.The singer became famous after her songs reached listeners across the country. People recognised her wherever she performed.The word famous is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the singer became famous after her songs reached listeners across the country people recognised her wherever she performed the word famous is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the singer became famous after her songs reached listeners across the country people recognised her wherever she performed the word famous is opposite in meaning to",
+      "answer": "largely unknown",
+      "letter": "C",
+      "options": [
+        "largely unknown"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after spending a month performing elsewhere the band will come back to its home town for a concert the phrase come back is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.After spending a month performing elsewhere, the band will come back to its home town for a concert.The phrase come back is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after spending a month performing elsewhere the band will come back to its home town for a concert the phrase come back is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after spending a month performing elsewhere the band will come back to its home town for a concert the phrase come back is opposite in meaning to",
+      "answer": "go away from the place",
+      "letter": "B",
+      "options": [
+        "go away from the place"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the students found the music show exciting its varied performances held their attention from beginning to end the word exciting is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.The students found the music show exciting. Its varied performances held their attention from beginning to end.The word exciting is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the students found the music show exciting its varied performances held their attention from beginning to end the word exciting is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the students found the music show exciting its varied performances held their attention from beginning to end the word exciting is opposite in meaning to",
+      "answer": "boring",
+      "letter": "D",
+      "options": [
+        "boring"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context mai is talented at playing the piano she has a natural ability to recognise tunes and learn new pieces quickly the word talented is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Mai is talented at playing the piano. She has a natural ability to recognise tunes and learn new pieces quickly.The word talented is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context mai is talented at playing the piano she has a natural ability to recognise tunes and learn new pieces quickly the word talented is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context mai is talented at playing the piano she has a natural ability to recognise tunes and learn new pieces quickly the word talented is opposite in meaning to",
+      "answer": "lacking natural musical ability",
+      "letter": "B",
+      "options": [
+        "lacking natural musical ability"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context many students enjoy listening to traditional music they look forward to hearing it during the school s cultural programme the word enjoy is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Many students enjoy listening to traditional music. They look forward to hearing it during the school's cultural programme.The word enjoy is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context many students enjoy listening to traditional music they look forward to hearing it during the school s cultural programme the word enjoy is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context many students enjoy listening to traditional music they look forward to hearing it during the school s cultural programme the word enjoy is opposite in meaning to",
+      "answer": "dislike",
+      "letter": "B",
+      "options": [
+        "dislike"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the students will upload a video from their laptop to the school s website so that others can watch their performance online the phrase upload a video is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.The students will upload a video from their laptop to the school's website so that others can watch their performance online.The phrase upload a video is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the students will upload a video from their laptop to the school s website so that others can watch their performance online the phrase upload a video is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context the students will upload a video from their laptop to the school s website so that others can watch their performance online the phrase upload a video is opposite in meaning to",
+      "answer": "download a recording onto a device",
+      "letter": "D",
+      "options": [
+        "download a recording onto a device"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after passing the first round the selected singers will go on with the competition and prepare for the semi final the phrase go on is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.After passing the first round, the selected singers will go on with the competition and prepare for the semi-final.The phrase go on is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after passing the first round the selected singers will go on with the competition and prepare for the semi final the phrase go on is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after passing the first round the selected singers will go on with the competition and prepare for the semi final the phrase go on is opposite in meaning to",
+      "answer": "stop taking part",
+      "letter": "D",
+      "options": [
+        "stop taking part"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after discussing the invitation the musicians agreed to perform at the school concert and accepted the organisers proposal the word agreed is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.After discussing the invitation, the musicians agreed to perform at the school concert and accepted the organisers' proposal.The word agreed is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after discussing the invitation the musicians agreed to perform at the school concert and accepted the organisers proposal the word agreed is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context after discussing the invitation the musicians agreed to perform at the school concert and accepted the organisers proposal the word agreed is opposite in meaning to",
+      "answer": "refused",
+      "letter": "C",
+      "options": [
+        "refused"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context tonight s programme is a live show viewers will watch the singers at the same time as they perform the phrase live show is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Tonight's programme is a live show: viewers will watch the singers at the same time as they perform.The phrase live show is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context tonight s programme is a live show viewers will watch the singers at the same time as they perform the phrase live show is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context tonight s programme is a live show viewers will watch the singers at the same time as they perform the phrase live show is opposite in meaning to",
+      "answer": "show played from an earlier recording",
+      "letter": "D",
+      "options": [
+        "a show played from an earlier recording"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context before going on stage nam felt relaxed his shoulders were loose and he was not worried about performing the word relaxed is opposite in meaning to": {
+      "question": "Read each sentence or short context carefully. Choose the option that is OPPOSITE in meaning to the bold word or phrase.*First identify the target's meaning. Then select the option that reverses that meaning in the stated context.Before going on stage, Nam felt relaxed. His shoulders were loose, and he was not worried about performing.The word relaxed is OPPOSITE in meaning to ________.",
+      "clean_stem": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context before going on stage nam felt relaxed his shoulders were loose and he was not worried about performing the word relaxed is opposite in meaning to",
+      "stem_key": "read each sentence or short context carefully choose the option that is opposite in meaning to the bold word or phrase first identify the target s meaning then select the option that reverses that meaning in the stated context before going on stage nam felt relaxed his shoulders were loose and he was not worried about performing the word relaxed is opposite in meaning to",
+      "answer": "tense",
+      "letter": "C",
+      "options": [
+        "tense"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:45:52Z"
     }
   }
 }
