@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 21:26:21",
+  "updated_at": "2026-10-28 21:30:06",
   "total_configs": 47,
   "configs": [
     {
@@ -622,24 +622,6 @@
       "grade_num": "10",
       "unit_name": "SESSION 4",
       "unit_key": "session_4",
-      "quiz_title": "GR10EX35MOET",
-      "quiz_key": "gr10ex35moet",
-      "cmid": "742981",
-      "course_id": "11741",
-      "repo_path": "cloud_configs/khoi_10/session_4/gr10ex35moet.json",
-      "score": "100.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 20,
-      "updated_at": "2026-10-27 21:19:26"
-    },
-    {
-      "account_name": "Lãm Đinh",
-      "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
-      "class_key": "khoi_10",
-      "grade_num": "10",
-      "unit_name": "SESSION 4",
-      "unit_key": "session_4",
       "quiz_title": "GR10EX36MOET",
       "quiz_key": "gr10ex36moet",
       "cmid": "742982",
@@ -847,6 +829,24 @@
       "score_pct": 100.0,
       "question_count": 25,
       "updated_at": "2026-10-28 21:26:21"
+    },
+    {
+      "account_name": "Nguyễn Quang Huy",
+      "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+      "class_key": "khoi_10",
+      "grade_num": "10",
+      "unit_name": "SESSION 4",
+      "unit_key": "session_4",
+      "quiz_title": "GR10EX35MOET",
+      "quiz_key": "gr10ex35moet",
+      "cmid": "742981",
+      "course_id": "11741",
+      "repo_path": "cloud_configs/khoi_10/session_4/gr10ex35moet.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 20,
+      "updated_at": "2026-10-28 21:30:06"
     }
   ]
 }
