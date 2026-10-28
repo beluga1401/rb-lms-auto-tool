@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-28T14:04:16Z",
-  "total_questions": 397,
+  "updated_at": "2026-10-28T14:07:49Z",
+  "total_questions": 419,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -7243,6 +7243,686 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 1 the family shopping list another asks how family members 8 2 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 3 with the school volleyball team she still helps at weekends because she believes everyone should 10 4 to family life her brother dislikes folding clothes 11 5 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 6": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. THE HOUSEHOLD RESPONSIBILITY CHALLENGE Class 10B is taking part in a challenge about how household work is organised. One question asks who usually (7) {#1} the family shopping list. Another asks how family members (8) {#2} household duties when somebody is especially busy. Thu normally cooks with her father on Friday evenings, but this month she (9) {#3} with the school volleyball team. She still helps at weekends because she believes everyone should (10) {#4} to family life. Her brother dislikes folding clothes; (11) {#5}, he does the job when their parents are working late. At the end of the challenge, students compare their routines and discuss which changes could make family responsibilities more (12) {#6}.",
+      "clean_stem": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 1 the family shopping list another asks how family members 8 2 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 3 with the school volleyball team she still helps at weekends because she believes everyone should 10 4 to family life her brother dislikes folding clothes 11 5 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 6",
+      "stem_key": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 1 the family shopping list another asks how family members 8 2 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 3 with the school volleyball team she still helps at weekends because she believes everyone should 10 4 to family life her brother dislikes folding clothes 11 5 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 6",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "prepares"
+        },
+        {
+          "index": 1,
+          "value": "divide"
+        },
+        {
+          "index": 2,
+          "value": "is practising"
+        },
+        {
+          "index": 3,
+          "value": "contribute"
+        },
+        {
+          "index": 4,
+          "value": "however"
+        },
+        {
+          "index": 5,
+          "value": "balanced"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 the family shopping list another asks how family members 8 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 with the school volleyball team she still helps at weekends because she believes everyone should 10 to family life her brother dislikes folding clothes 11 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. THE HOUSEHOLD RESPONSIBILITY CHALLENGE Class 10B is taking part in a challenge about how household work is organised. One question asks who usually (7) {#1} the family shopping list. Another asks how family members (8) {#2} household duties when somebody is especially busy. Thu normally cooks with her father on Friday evenings, but this month she (9) {#3} with the school volleyball team. She still helps at weekends because she believes everyone should (10) {#4} to family life. Her brother dislikes folding clothes; (11) {#5}, he does the job when their parents are working late. At the end of the challenge, students compare their routines and discuss which changes could make family responsibilities more (12) {#6}.",
+      "clean_stem": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 1 the family shopping list another asks how family members 8 2 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 3 with the school volleyball team she still helps at weekends because she believes everyone should 10 4 to family life her brother dislikes folding clothes 11 5 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 6",
+      "stem_key": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 1 the family shopping list another asks how family members 8 2 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 3 with the school volleyball team she still helps at weekends because she believes everyone should 10 4 to family life her brother dislikes folding clothes 11 5 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 6",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "prepares"
+        },
+        {
+          "index": 1,
+          "value": "divide"
+        },
+        {
+          "index": 2,
+          "value": "is practising"
+        },
+        {
+          "index": 3,
+          "value": "contribute"
+        },
+        {
+          "index": 4,
+          "value": "however"
+        },
+        {
+          "index": 5,
+          "value": "balanced"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 2 responsibility for the job and record what they learn from the experience minh usually 3 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 6": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. SMALL ROUTINES, STRONGER FAMILIES Our school's Family Wellbeing Campaign invites families to try a seven-day household routine. Each teenager chooses one regular household (1) {#1} and agrees to complete it without waiting to be reminded. Students are encouraged to (2) {#2} responsibility for the job and record what they learn from the experience. Minh usually (3) {#3} his mother prepare dinner and puts out the rubbish afterwards. This week, however, he is spending more time helping his younger brother with homework, so his mother (4) {#4} dinner on her own these days. At the end of each week, families discuss what worked well and what should change, (5) {#5} they can improve the routine together. The campaign aims to show that small changes can help family life run more (6) {#6}.",
+      "clean_stem": "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 2 responsibility for the job and record what they learn from the experience minh usually 3 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 6",
+      "stem_key": "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 2 responsibility for the job and record what they learn from the experience minh usually 3 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 6",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "task"
+        },
+        {
+          "index": 1,
+          "value": "take"
+        },
+        {
+          "index": 2,
+          "value": "helps"
+        },
+        {
+          "index": 3,
+          "value": "is preparing"
+        },
+        {
+          "index": 4,
+          "value": "so"
+        },
+        {
+          "index": 5,
+          "value": "smoothly"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 responsibility for the job and record what they learn from the experience minh usually 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. SMALL ROUTINES, STRONGER FAMILIES Our school's Family Wellbeing Campaign invites families to try a seven-day household routine. Each teenager chooses one regular household (1) {#1} and agrees to complete it without waiting to be reminded. Students are encouraged to (2) {#2} responsibility for the job and record what they learn from the experience. Minh usually (3) {#3} his mother prepare dinner and puts out the rubbish afterwards. This week, however, he is spending more time helping his younger brother with homework, so his mother (4) {#4} dinner on her own these days. At the end of each week, families discuss what worked well and what should change, (5) {#5} they can improve the routine together. The campaign aims to show that small changes can help family life run more (6) {#6}.",
+      "clean_stem": "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 2 responsibility for the job and record what they learn from the experience minh usually 3 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 6",
+      "stem_key": "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 2 responsibility for the job and record what they learn from the experience minh usually 3 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 6",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "task"
+        },
+        {
+          "index": 1,
+          "value": "take"
+        },
+        {
+          "index": 2,
+          "value": "helps"
+        },
+        {
+          "index": 3,
+          "value": "is preparing"
+        },
+        {
+          "index": 4,
+          "value": "so"
+        },
+        {
+          "index": 5,
+          "value": "smoothly"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 a busier month at home the tran family has always shared household jobs but september is unusually busy mrs tran has started working an earlier shift while mr tran is attending an evening course twice a week 13 instead of giving each person exactly the same jobs every week the family now meets on sunday evening and looks at everyone s schedule 14 for example when linh has basketball practice her younger brother sets the table when he has extra homework linh feeds the dog instead 15 at first the children complained that the plan changed too often their parents explained that sharing responsibilities does not mean everybody must always do the same job 16 after several weeks the number of small arguments decreased and everyone knew what needed to be done 17 question 13 a the family therefore decided to stop planning their weekb the children now do every household job by themselvesc their old routine continues without any changesd as a result they have had to rethink their usual routine write a b c or d 1 question 14 a they decide who is available before dividing the workb they give all difficult jobs to the same personc they avoid discussing household responsibilitiesd they choose jobs without considering anyone s schedule write a b c or d 2 question 15 a the children therefore have no regular responsibilitiesb the family has decided to stop using a weekly planc this flexible arrangement prevents one person from carrying too much workd the parents now complete all household tasks themselves write a b c or d 3 question 16 a it means that children should never change their household dutiesb it means each person helps according to what the family needsc it means parents should always do the most difficult jobsd it means every family member must spend the same amount of time on chores write a b c or d 4 question 17 a the family discovered that planning together made their routine easier to manageb the parents concluded that shared housework was causing more problemsc the children decided that household jobs should be optionald the family returned immediately to its old routine write a b c or d 5": {
+      "question": "PART 2. PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A BUSIER MONTH AT HOME The Tran family has always shared household jobs, but September is unusually busy. Mrs Tran has started working an earlier shift, while Mr Tran is attending an evening course twice a week. (13) ______. Instead of giving each person exactly the same jobs every week, the family now meets on Sunday evening and looks at everyone's schedule. (14) ______. For example, when Linh has basketball practice, her younger brother sets the table. When he has extra homework, Linh feeds the dog instead. (15) ______. At first, the children complained that the plan changed too often. Their parents explained that sharing responsibilities does not mean everybody must always do the same job. (16) ______. After several weeks, the number of small arguments decreased, and everyone knew what needed to be done. (17) ______. Question 13 A. The family therefore decided to stop planning their weekB. The children now do every household job by themselvesC. Their old routine continues without any changesD. As a result, they have had to rethink their usual routine Write A, B, C, or D - {#1} Question 14 A. They decide who is available before dividing the workB. They give all difficult jobs to the same personC. They avoid discussing household responsibilitiesD. They choose jobs without considering anyone's schedule Write A, B, C, or D - {#2} Question 15 A. The children therefore have no regular responsibilitiesB. The family has decided to stop using a weekly planC. This flexible arrangement prevents one person from carrying too much workD. The parents now complete all household tasks themselves Write A, B, C, or D - {#3} Question 16 A. It means that children should never change their household dutiesB. It means each person helps according to what the family needsC. It means parents should always do the most difficult jobsD. It means every family member must spend the same amount of time on chores Write A, B, C, or D - {#4} Question 17 A. The family discovered that planning together made their routine easier to manageB. The parents concluded that shared housework was causing more problemsC. The children decided that household jobs should be optionalD. The family returned immediately to its old routine Write A, B, C, or D - {#5}",
+      "clean_stem": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 a busier month at home the tran family has always shared household jobs but september is unusually busy mrs tran has started working an earlier shift while mr tran is attending an evening course twice a week 13 instead of giving each person exactly the same jobs every week the family now meets on sunday evening and looks at everyone s schedule 14 for example when linh has basketball practice her younger brother sets the table when he has extra homework linh feeds the dog instead 15 at first the children complained that the plan changed too often their parents explained that sharing responsibilities does not mean everybody must always do the same job 16 after several weeks the number of small arguments decreased and everyone knew what needed to be done 17 question 13 a the family therefore decided to stop planning their weekb the children now do every household job by themselvesc their old routine continues without any changesd as a result they have had to rethink their usual routine write a b c or d 1 question 14 a they decide who is available before dividing the workb they give all difficult jobs to the same personc they avoid discussing household responsibilitiesd they choose jobs without considering anyone s schedule write a b c or d 2 question 15 a the children therefore have no regular responsibilitiesb the family has decided to stop using a weekly planc this flexible arrangement prevents one person from carrying too much workd the parents now complete all household tasks themselves write a b c or d 3 question 16 a it means that children should never change their household dutiesb it means each person helps according to what the family needsc it means parents should always do the most difficult jobsd it means every family member must spend the same amount of time on chores write a b c or d 4 question 17 a the family discovered that planning together made their routine easier to manageb the parents concluded that shared housework was causing more problemsc the children decided that household jobs should be optionald the family returned immediately to its old routine write a b c or d 5",
+      "stem_key": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 a busier month at home the tran family has always shared household jobs but september is unusually busy mrs tran has started working an earlier shift while mr tran is attending an evening course twice a week 13 instead of giving each person exactly the same jobs every week the family now meets on sunday evening and looks at everyone s schedule 14 for example when linh has basketball practice her younger brother sets the table when he has extra homework linh feeds the dog instead 15 at first the children complained that the plan changed too often their parents explained that sharing responsibilities does not mean everybody must always do the same job 16 after several weeks the number of small arguments decreased and everyone knew what needed to be done 17 question 13 a the family therefore decided to stop planning their weekb the children now do every household job by themselvesc their old routine continues without any changesd as a result they have had to rethink their usual routine write a b c or d 1 question 14 a they decide who is available before dividing the workb they give all difficult jobs to the same personc they avoid discussing household responsibilitiesd they choose jobs without considering anyone s schedule write a b c or d 2 question 15 a the children therefore have no regular responsibilitiesb the family has decided to stop using a weekly planc this flexible arrangement prevents one person from carrying too much workd the parents now complete all household tasks themselves write a b c or d 3 question 16 a it means that children should never change their household dutiesb it means each person helps according to what the family needsc it means parents should always do the most difficult jobsd it means every family member must spend the same amount of time on chores write a b c or d 4 question 17 a the family discovered that planning together made their routine easier to manageb the parents concluded that shared housework was causing more problemsc the children decided that household jobs should be optionald the family returned immediately to its old routine write a b c or d 5",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 a busier month at home the tran family has always shared household jobs but september is unusually busy mrs tran has started working an earlier shift while mr tran is attending an evening course twice a week 13 instead of giving each person exactly the same jobs every week the family now meets on sunday evening and looks at everyone s schedule 14 for example when linh has basketball practice her younger brother sets the table when he has extra homework linh feeds the dog instead 15 at first the children complained that the plan changed too often their parents explained that sharing responsibilities does not mean everybody must always do the same job 16 after several weeks the number of small arguments decreased and everyone knew what needed to be done 17 question 13 a the family therefore decided to stop planning their weekb the children now do every household job by themselvesc their old routine continues without any changesd as a result they have had to rethink their usual routine write a b c or d question 14 a they decide who is available before dividing the workb they give all difficult jobs to the same personc they avoid discussing household responsibilitiesd they choose jobs without considering anyone s schedule write a b c or d question 15 a the children therefore have no regular responsibilitiesb the family has decided to stop using a weekly planc this flexible arrangement prevents one person from carrying too much workd the parents now complete all household tasks themselves write a b c or d question 16 a it means that children should never change their household dutiesb it means each person helps according to what the family needsc it means parents should always do the most difficult jobsd it means every family member must spend the same amount of time on chores write a b c or d question 17 a the family discovered that planning together made their routine easier to manageb the parents concluded that shared housework was causing more problemsc the children decided that household jobs should be optionald the family returned immediately to its old routine write a b c or d": {
+      "question": "PART 2. PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A BUSIER MONTH AT HOME The Tran family has always shared household jobs, but September is unusually busy. Mrs Tran has started working an earlier shift, while Mr Tran is attending an evening course twice a week. (13) ______. Instead of giving each person exactly the same jobs every week, the family now meets on Sunday evening and looks at everyone's schedule. (14) ______. For example, when Linh has basketball practice, her younger brother sets the table. When he has extra homework, Linh feeds the dog instead. (15) ______. At first, the children complained that the plan changed too often. Their parents explained that sharing responsibilities does not mean everybody must always do the same job. (16) ______. After several weeks, the number of small arguments decreased, and everyone knew what needed to be done. (17) ______. Question 13 A. The family therefore decided to stop planning their weekB. The children now do every household job by themselvesC. Their old routine continues without any changesD. As a result, they have had to rethink their usual routine Write A, B, C, or D - {#1} Question 14 A. They decide who is available before dividing the workB. They give all difficult jobs to the same personC. They avoid discussing household responsibilitiesD. They choose jobs without considering anyone's schedule Write A, B, C, or D - {#2} Question 15 A. The children therefore have no regular responsibilitiesB. The family has decided to stop using a weekly planC. This flexible arrangement prevents one person from carrying too much workD. The parents now complete all household tasks themselves Write A, B, C, or D - {#3} Question 16 A. It means that children should never change their household dutiesB. It means each person helps according to what the family needsC. It means parents should always do the most difficult jobsD. It means every family member must spend the same amount of time on chores Write A, B, C, or D - {#4} Question 17 A. The family discovered that planning together made their routine easier to manageB. The parents concluded that shared housework was causing more problemsC. The children decided that household jobs should be optionalD. The family returned immediately to its old routine Write A, B, C, or D - {#5}",
+      "clean_stem": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 a busier month at home the tran family has always shared household jobs but september is unusually busy mrs tran has started working an earlier shift while mr tran is attending an evening course twice a week 13 instead of giving each person exactly the same jobs every week the family now meets on sunday evening and looks at everyone s schedule 14 for example when linh has basketball practice her younger brother sets the table when he has extra homework linh feeds the dog instead 15 at first the children complained that the plan changed too often their parents explained that sharing responsibilities does not mean everybody must always do the same job 16 after several weeks the number of small arguments decreased and everyone knew what needed to be done 17 question 13 a the family therefore decided to stop planning their weekb the children now do every household job by themselvesc their old routine continues without any changesd as a result they have had to rethink their usual routine write a b c or d 1 question 14 a they decide who is available before dividing the workb they give all difficult jobs to the same personc they avoid discussing household responsibilitiesd they choose jobs without considering anyone s schedule write a b c or d 2 question 15 a the children therefore have no regular responsibilitiesb the family has decided to stop using a weekly planc this flexible arrangement prevents one person from carrying too much workd the parents now complete all household tasks themselves write a b c or d 3 question 16 a it means that children should never change their household dutiesb it means each person helps according to what the family needsc it means parents should always do the most difficult jobsd it means every family member must spend the same amount of time on chores write a b c or d 4 question 17 a the family discovered that planning together made their routine easier to manageb the parents concluded that shared housework was causing more problemsc the children decided that household jobs should be optionald the family returned immediately to its old routine write a b c or d 5",
+      "stem_key": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 a busier month at home the tran family has always shared household jobs but september is unusually busy mrs tran has started working an earlier shift while mr tran is attending an evening course twice a week 13 instead of giving each person exactly the same jobs every week the family now meets on sunday evening and looks at everyone s schedule 14 for example when linh has basketball practice her younger brother sets the table when he has extra homework linh feeds the dog instead 15 at first the children complained that the plan changed too often their parents explained that sharing responsibilities does not mean everybody must always do the same job 16 after several weeks the number of small arguments decreased and everyone knew what needed to be done 17 question 13 a the family therefore decided to stop planning their weekb the children now do every household job by themselvesc their old routine continues without any changesd as a result they have had to rethink their usual routine write a b c or d 1 question 14 a they decide who is available before dividing the workb they give all difficult jobs to the same personc they avoid discussing household responsibilitiesd they choose jobs without considering anyone s schedule write a b c or d 2 question 15 a the children therefore have no regular responsibilitiesb the family has decided to stop using a weekly planc this flexible arrangement prevents one person from carrying too much workd the parents now complete all household tasks themselves write a b c or d 3 question 16 a it means that children should never change their household dutiesb it means each person helps according to what the family needsc it means parents should always do the most difficult jobsd it means every family member must spend the same amount of time on chores write a b c or d 4 question 17 a the family discovered that planning together made their routine easier to manageb the parents concluded that shared housework was causing more problemsc the children decided that household jobs should be optionald the family returned immediately to its old routine write a b c or d 5",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a minh i suppose that can work but younger children may need help b lan in my opinion children should start doing simple chores when they re young c minh that s true the tasks should match their age d lan exactly i m not saying they should do difficult jobs a b a d cb a b c dc b d a cd d c b a write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 21. a. Minh: I suppose that can work, but younger children may need help.b. Lan: In my opinion, children should start doing simple chores when they're young.c. Minh: That's true. The tasks should match their age.d. Lan: Exactly. I'm not saying they should do difficult jobs.A. b – a – d – cB. a – b – c – dC. b – d – a – cD. d – c – b – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a minh i suppose that can work but younger children may need help b lan in my opinion children should start doing simple chores when they re young c minh that s true the tasks should match their age d lan exactly i m not saying they should do difficult jobs a b a d cb a b c dc b d a cd d c b a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a minh i suppose that can work but younger children may need help b lan in my opinion children should start doing simple chores when they re young c minh that s true the tasks should match their age d lan exactly i m not saying they should do difficult jobs a b a d cb a b c dc b d a cd d c b a write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a minh i suppose that can work but younger children may need help b lan in my opinion children should start doing simple chores when they re young c minh that s true the tasks should match their age d lan exactly i m not saying they should do difficult jobs a b a d cb a b c dc b d a cd d c b a write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 21. a. Minh: I suppose that can work, but younger children may need help.b. Lan: In my opinion, children should start doing simple chores when they're young.c. Minh: That's true. The tasks should match their age.d. Lan: Exactly. I'm not saying they should do difficult jobs.A. b – a – d – cB. a – b – c – dC. b – d – a – cD. d – c – b – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a minh i suppose that can work but younger children may need help b lan in my opinion children should start doing simple chores when they re young c minh that s true the tasks should match their age d lan exactly i m not saying they should do difficult jobs a b a d cb a b c dc b d a cd d c b a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a minh i suppose that can work but younger children may need help b lan in my opinion children should start doing simple chores when they re young c minh that s true the tasks should match their age d lan exactly i m not saying they should do difficult jobs a b a d cb a b c dc b d a cd d c b a write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a we changed it because my brother now has football practice on wednesday evenings b hi tom you asked whether my family s routines ever change c best minhd they do for example we now clean the house on saturday morning instead of wednesday a d a b cb b a d cc a d b cd b d a c write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 22. a. We changed it because my brother now has football practice on Wednesday evenings.b. Hi Tom,You asked whether my family's routines ever change.c. Best,Minhd. They do. For example, we now clean the house on Saturday morning instead of Wednesday.A. d – a – b – cB. b – a – d – cC. a – d – b – cD. b – d – a – c Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a we changed it because my brother now has football practice on wednesday evenings b hi tom you asked whether my family s routines ever change c best minhd they do for example we now clean the house on saturday morning instead of wednesday a d a b cb b a d cc a d b cd b d a c write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a we changed it because my brother now has football practice on wednesday evenings b hi tom you asked whether my family s routines ever change c best minhd they do for example we now clean the house on saturday morning instead of wednesday a d a b cb b a d cc a d b cd b d a c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a we changed it because my brother now has football practice on wednesday evenings b hi tom you asked whether my family s routines ever change c best minhd they do for example we now clean the house on saturday morning instead of wednesday a d a b cb b a d cc a d b cd b d a c write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 22. a. We changed it because my brother now has football practice on Wednesday evenings.b. Hi Tom,You asked whether my family's routines ever change.c. Best,Minhd. They do. For example, we now clean the house on Saturday morning instead of Wednesday.A. d – a – b – cB. b – a – d – cC. a – d – b – cD. b – d – a – c Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a we changed it because my brother now has football practice on wednesday evenings b hi tom you asked whether my family s routines ever change c best minhd they do for example we now clean the house on saturday morning instead of wednesday a d a b cb b a d cc a d b cd b d a c write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a we changed it because my brother now has football practice on wednesday evenings b hi tom you asked whether my family s routines ever change c best minhd they do for example we now clean the house on saturday morning instead of wednesday a d a b cb b a d cc a d b cd b d a c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a the list is short but it helps everyone see what needs attention b on sunday evenings my family checks the week ahead together c we then write the most important household jobs on a board in the kitchen d because our schedules change we decide who can do each job that week a b c a db d b c ac b d c ad c a b d write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 18. a. The list is short, but it helps everyone see what needs attention.b. On Sunday evenings, my family checks the week ahead together.c. We then write the most important household jobs on a board in the kitchen.d. Because our schedules change, we decide who can do each job that week.A. b – c – a – dB. d – b – c – aC. b – d – c – aD. c – a – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a the list is short but it helps everyone see what needs attention b on sunday evenings my family checks the week ahead together c we then write the most important household jobs on a board in the kitchen d because our schedules change we decide who can do each job that week a b c a db d b c ac b d c ad c a b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a the list is short but it helps everyone see what needs attention b on sunday evenings my family checks the week ahead together c we then write the most important household jobs on a board in the kitchen d because our schedules change we decide who can do each job that week a b c a db d b c ac b d c ad c a b d write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a the list is short but it helps everyone see what needs attention b on sunday evenings my family checks the week ahead together c we then write the most important household jobs on a board in the kitchen d because our schedules change we decide who can do each job that week a b c a db d b c ac b d c ad c a b d write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 18. a. The list is short, but it helps everyone see what needs attention.b. On Sunday evenings, my family checks the week ahead together.c. We then write the most important household jobs on a board in the kitchen.d. Because our schedules change, we decide who can do each job that week.A. b – c – a – dB. d – b – c – aC. b – d – c – aD. c – a – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a the list is short but it helps everyone see what needs attention b on sunday evenings my family checks the week ahead together c we then write the most important household jobs on a board in the kitchen d because our schedules change we decide who can do each job that week a b c a db d b c ac b d c ad c a b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a the list is short but it helps everyone see what needs attention b on sunday evenings my family checks the week ahead together c we then write the most important household jobs on a board in the kitchen d because our schedules change we decide who can do each job that week a b c a db d b c ac b d c ad c a b d write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a as a result she became more confident about preparing simple food b at first nhi only watched her father cook c after a few weeks he began asking her to prepare vegetables and measure ingredients d this small responsibility also showed her that cooking required planning and patience a c b a db b a d cc d b c ad b c a d write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 19. a. As a result, she became more confident about preparing simple food.b. At first, Nhi only watched her father cook.c. After a few weeks, he began asking her to prepare vegetables and measure ingredients.d. This small responsibility also showed her that cooking required planning and patience.A. c – b – a – dB. b – a – d – cC. d – b – c – aD. b – c – a – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a as a result she became more confident about preparing simple food b at first nhi only watched her father cook c after a few weeks he began asking her to prepare vegetables and measure ingredients d this small responsibility also showed her that cooking required planning and patience a c b a db b a d cc d b c ad b c a d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a as a result she became more confident about preparing simple food b at first nhi only watched her father cook c after a few weeks he began asking her to prepare vegetables and measure ingredients d this small responsibility also showed her that cooking required planning and patience a c b a db b a d cc d b c ad b c a d write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a as a result she became more confident about preparing simple food b at first nhi only watched her father cook c after a few weeks he began asking her to prepare vegetables and measure ingredients d this small responsibility also showed her that cooking required planning and patience a c b a db b a d cc d b c ad b c a d write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 19. a. As a result, she became more confident about preparing simple food.b. At first, Nhi only watched her father cook.c. After a few weeks, he began asking her to prepare vegetables and measure ingredients.d. This small responsibility also showed her that cooking required planning and patience.A. c – b – a – dB. b – a – d – cC. d – b – c – aD. b – c – a – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a as a result she became more confident about preparing simple food b at first nhi only watched her father cook c after a few weeks he began asking her to prepare vegetables and measure ingredients d this small responsibility also showed her that cooking required planning and patience a c b a db b a d cc d b c ad b c a d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a as a result she became more confident about preparing simple food b at first nhi only watched her father cook c after a few weeks he began asking her to prepare vegetables and measure ingredients d this small responsibility also showed her that cooking required planning and patience a c b a db b a d cc d b c ad b c a d write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a hoa that sounds fair how do you decide who does what b nam we look at everyone s schedule before we divide the chores c hoa does everyone in your family have a fixed job d nam not exactly our jobs sometimes change from week to week a c a d bb c d a bc d b c ad a c b d write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 20. a. Hoa: That sounds fair. How do you decide who does what?b. Nam: We look at everyone's schedule before we divide the chores.c. Hoa: Does everyone in your family have a fixed job?d. Nam: Not exactly. Our jobs sometimes change from week to week.A. c – a – d – bB. c – d – a – bC. d – b – c – aD. a – c – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a hoa that sounds fair how do you decide who does what b nam we look at everyone s schedule before we divide the chores c hoa does everyone in your family have a fixed job d nam not exactly our jobs sometimes change from week to week a c a d bb c d a bc d b c ad a c b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a hoa that sounds fair how do you decide who does what b nam we look at everyone s schedule before we divide the chores c hoa does everyone in your family have a fixed job d nam not exactly our jobs sometimes change from week to week a c a d bb c d a bc d b c ad a c b d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a hoa that sounds fair how do you decide who does what b nam we look at everyone s schedule before we divide the chores c hoa does everyone in your family have a fixed job d nam not exactly our jobs sometimes change from week to week a c a d bb c d a bc d b c ad a c b d write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 20. a. Hoa: That sounds fair. How do you decide who does what?b. Nam: We look at everyone's schedule before we divide the chores.c. Hoa: Does everyone in your family have a fixed job?d. Nam: Not exactly. Our jobs sometimes change from week to week.A. c – a – d – bB. c – d – a – bC. d – b – c – aD. a – c – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a hoa that sounds fair how do you decide who does what b nam we look at everyone s schedule before we divide the chores c hoa does everyone in your family have a fixed job d nam not exactly our jobs sometimes change from week to week a c a d bb c d a bc d b c ad a c b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a hoa that sounds fair how do you decide who does what b nam we look at everyone s schedule before we divide the chores c hoa does everyone in your family have a fixed job d nam not exactly our jobs sometimes change from week to week a c a d bb c d a bc d b c ad a c b d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word allocate in paragraph 2 is closest in meaning to a removeb assignc hided delay write a b c or d 1 question 32 according to paragraph 2 what did ms dao ask families to do a use one fixed chore system without changing it during the six week projectb give teenagers more household work as the project continuedc record when their chosen system worked well or caused problemsd replace regular household responsibilities with students school activities write a b c or d 2 question 33 the phrase this approach in paragraph 3 refers to a treating the chart as a flexible starting point and discussing changesb keeping exactly the same duties even when family schedules became unexpectedly busyc giving each family member a fixed responsibility that never changedd removing the chore chart whenever a disagreement happened at home write a b c or d 3 question 34 which statement best paraphrases the information about an in paragraph 4 a she stopped cooking because the family s changing plans became too complicated for her to manage b she started doing more household work than the other family members c she became better at choosing times when her help fitted the family s schedule d she needed more reminders even after she began checking the family calendar write a b c or d 4 question 35 what can be inferred from the project a fixed chore charts always create more arguments than flexible plans b involving teenagers in planning may increase their sense of responsibility c teenagers dislike household work mainly because tasks are too difficult d families should avoid changing household responsibilities after a plan is made write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit what mattered more was how families responded when the original plan no longer fit a ii b iv c i d iii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why teenagers often preferred having fixed household responsibilitiesb to compare the overall advantages of fixed and flexible household systemsc to show why some families decided to stop using chore chartsd to explain why flexible discussion mattered when family schedules changed write a b c or d 7 question 38 which of the following is not supported by the passage a specific household requests were easier for teenagers to understand than more general requests b families used different systems for organising and sharing their household responsibilities c every family eventually replaced its flexible system with a fixed chore chart d unexpected schedule changes sometimes caused difficulties for families using fixed plans write a b c or d 8 question 39 which of the following best summarises the passage a chore charts are ineffective unless families remove them whenever household problems appear b clear household plans work better when families can discuss necessary changes c teenagers should choose all household responsibilities without guidance from parents d families should use the same household system to prevent disagreements write a b c or d 9 question 40 which title best fits the passage a why teenagers should do more chores than adultsb the only household plan that works for every familyc how to make a perfect chore chartd why household plans need communication as well as organisation write a b c or d 10": {
+      "question": "PART 4. READING COMPREHENSION Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The word allocate in paragraph 2 is closest in meaning to ______. A. removeB. assignC. hideD. delay Write A, B, C, or D - {#1} Question 32 According to paragraph 2, what did Ms Dao ask families to do? A. Use one fixed chore system without changing it during the six-week projectB. Give teenagers more household work as the project continuedC. Record when their chosen system worked well or caused problemsD. Replace regular household responsibilities with students' school activities Write A, B, C, or D - {#2} Question 33 The phrase This approach in paragraph 3 refers to ______. A. treating the chart as a flexible starting point and discussing changesB. keeping exactly the same duties even when family schedules became unexpectedly busyC. giving each family member a fixed responsibility that never changedD. removing the chore chart whenever a disagreement happened at home Write A, B, C, or D - {#3} Question 34 Which statement best paraphrases the information about An in paragraph 4? A. She stopped cooking because the family's changing plans became too complicated for her to manage.B. She started doing more household work than the other family members.C. She became better at choosing times when her help fitted the family's schedule.D. She needed more reminders even after she began checking the family calendar. Write A, B, C, or D - {#4} Question 35 What can be inferred from the project? A. Fixed chore charts always create more arguments than flexible plans.B. Involving teenagers in planning may increase their sense of responsibility.C. Teenagers dislike household work mainly because tasks are too difficult.D. Families should avoid changing household responsibilities after a plan is made. Write A, B, C, or D - {#5} Question 36 Where in paragraph 5 does the following sentence best fit? What mattered more was how families responded when the original plan no longer fit. A. [II]B. [IV]C. [I]D. [III] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 3? A. To explain why teenagers often preferred having fixed household responsibilitiesB. To compare the overall advantages of fixed and flexible household systemsC. To show why some families decided to stop using chore chartsD. To explain why flexible discussion mattered when family schedules changed Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Specific household requests were easier for teenagers to understand than more general requests.B. Families used different systems for organising and sharing their household responsibilities.C. Every family eventually replaced its flexible system with a fixed chore chart.D. Unexpected schedule changes sometimes caused difficulties for families using fixed plans. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. Chore charts are ineffective unless families remove them whenever household problems appear.B. Clear household plans work better when families can discuss necessary changes.C. Teenagers should choose all household responsibilities without guidance from parents.D. Families should use the same household system to prevent disagreements. Write A, B, C, or D - {#9} Question 40 Which title best fits the passage? A. Why Teenagers Should Do More Chores Than AdultsB. The Only Household Plan That Works for Every FamilyC. How to Make a Perfect Chore ChartD. Why Household Plans Need Communication as Well as Organisation Write A, B, C, or D - {#10}",
+      "clean_stem": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word allocate in paragraph 2 is closest in meaning to a removeb assignc hided delay write a b c or d 1 question 32 according to paragraph 2 what did ms dao ask families to do a use one fixed chore system without changing it during the six week projectb give teenagers more household work as the project continuedc record when their chosen system worked well or caused problemsd replace regular household responsibilities with students school activities write a b c or d 2 question 33 the phrase this approach in paragraph 3 refers to a treating the chart as a flexible starting point and discussing changesb keeping exactly the same duties even when family schedules became unexpectedly busyc giving each family member a fixed responsibility that never changedd removing the chore chart whenever a disagreement happened at home write a b c or d 3 question 34 which statement best paraphrases the information about an in paragraph 4 a she stopped cooking because the family s changing plans became too complicated for her to manage b she started doing more household work than the other family members c she became better at choosing times when her help fitted the family s schedule d she needed more reminders even after she began checking the family calendar write a b c or d 4 question 35 what can be inferred from the project a fixed chore charts always create more arguments than flexible plans b involving teenagers in planning may increase their sense of responsibility c teenagers dislike household work mainly because tasks are too difficult d families should avoid changing household responsibilities after a plan is made write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit what mattered more was how families responded when the original plan no longer fit a ii b iv c i d iii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why teenagers often preferred having fixed household responsibilitiesb to compare the overall advantages of fixed and flexible household systemsc to show why some families decided to stop using chore chartsd to explain why flexible discussion mattered when family schedules changed write a b c or d 7 question 38 which of the following is not supported by the passage a specific household requests were easier for teenagers to understand than more general requests b families used different systems for organising and sharing their household responsibilities c every family eventually replaced its flexible system with a fixed chore chart d unexpected schedule changes sometimes caused difficulties for families using fixed plans write a b c or d 8 question 39 which of the following best summarises the passage a chore charts are ineffective unless families remove them whenever household problems appear b clear household plans work better when families can discuss necessary changes c teenagers should choose all household responsibilities without guidance from parents d families should use the same household system to prevent disagreements write a b c or d 9 question 40 which title best fits the passage a why teenagers should do more chores than adultsb the only household plan that works for every familyc how to make a perfect chore chartd why household plans need communication as well as organisation write a b c or d 10",
+      "stem_key": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word allocate in paragraph 2 is closest in meaning to a removeb assignc hided delay write a b c or d 1 question 32 according to paragraph 2 what did ms dao ask families to do a use one fixed chore system without changing it during the six week projectb give teenagers more household work as the project continuedc record when their chosen system worked well or caused problemsd replace regular household responsibilities with students school activities write a b c or d 2 question 33 the phrase this approach in paragraph 3 refers to a treating the chart as a flexible starting point and discussing changesb keeping exactly the same duties even when family schedules became unexpectedly busyc giving each family member a fixed responsibility that never changedd removing the chore chart whenever a disagreement happened at home write a b c or d 3 question 34 which statement best paraphrases the information about an in paragraph 4 a she stopped cooking because the family s changing plans became too complicated for her to manage b she started doing more household work than the other family members c she became better at choosing times when her help fitted the family s schedule d she needed more reminders even after she began checking the family calendar write a b c or d 4 question 35 what can be inferred from the project a fixed chore charts always create more arguments than flexible plans b involving teenagers in planning may increase their sense of responsibility c teenagers dislike household work mainly because tasks are too difficult d families should avoid changing household responsibilities after a plan is made write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit what mattered more was how families responded when the original plan no longer fit a ii b iv c i d iii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why teenagers often preferred having fixed household responsibilitiesb to compare the overall advantages of fixed and flexible household systemsc to show why some families decided to stop using chore chartsd to explain why flexible discussion mattered when family schedules changed write a b c or d 7 question 38 which of the following is not supported by the passage a specific household requests were easier for teenagers to understand than more general requests b families used different systems for organising and sharing their household responsibilities c every family eventually replaced its flexible system with a fixed chore chart d unexpected schedule changes sometimes caused difficulties for families using fixed plans write a b c or d 8 question 39 which of the following best summarises the passage a chore charts are ineffective unless families remove them whenever household problems appear b clear household plans work better when families can discuss necessary changes c teenagers should choose all household responsibilities without guidance from parents d families should use the same household system to prevent disagreements write a b c or d 9 question 40 which title best fits the passage a why teenagers should do more chores than adultsb the only household plan that works for every familyc how to make a perfect chore chartd why household plans need communication as well as organisation write a b c or d 10",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word allocate in paragraph 2 is closest in meaning to a removeb assignc hided delay write a b c or d question 32 according to paragraph 2 what did ms dao ask families to do a use one fixed chore system without changing it during the six week projectb give teenagers more household work as the project continuedc record when their chosen system worked well or caused problemsd replace regular household responsibilities with students school activities write a b c or d question 33 the phrase this approach in paragraph 3 refers to a treating the chart as a flexible starting point and discussing changesb keeping exactly the same duties even when family schedules became unexpectedly busyc giving each family member a fixed responsibility that never changedd removing the chore chart whenever a disagreement happened at home write a b c or d question 34 which statement best paraphrases the information about an in paragraph 4 a she stopped cooking because the family s changing plans became too complicated for her to manage b she started doing more household work than the other family members c she became better at choosing times when her help fitted the family s schedule d she needed more reminders even after she began checking the family calendar write a b c or d question 35 what can be inferred from the project a fixed chore charts always create more arguments than flexible plans b involving teenagers in planning may increase their sense of responsibility c teenagers dislike household work mainly because tasks are too difficult d families should avoid changing household responsibilities after a plan is made write a b c or d question 36 where in paragraph 5 does the following sentence best fit what mattered more was how families responded when the original plan no longer fit a ii b iv c i d iii write a b c or d question 37 what is the main purpose of paragraph 3 a to explain why teenagers often preferred having fixed household responsibilitiesb to compare the overall advantages of fixed and flexible household systemsc to show why some families decided to stop using chore chartsd to explain why flexible discussion mattered when family schedules changed write a b c or d question 38 which of the following is not supported by the passage a specific household requests were easier for teenagers to understand than more general requests b families used different systems for organising and sharing their household responsibilities c every family eventually replaced its flexible system with a fixed chore chart d unexpected schedule changes sometimes caused difficulties for families using fixed plans write a b c or d question 39 which of the following best summarises the passage a chore charts are ineffective unless families remove them whenever household problems appear b clear household plans work better when families can discuss necessary changes c teenagers should choose all household responsibilities without guidance from parents d families should use the same household system to prevent disagreements write a b c or d question 40 which title best fits the passage a why teenagers should do more chores than adultsb the only household plan that works for every familyc how to make a perfect chore chartd why household plans need communication as well as organisation write a b c or d": {
+      "question": "PART 4. READING COMPREHENSION Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The word allocate in paragraph 2 is closest in meaning to ______. A. removeB. assignC. hideD. delay Write A, B, C, or D - {#1} Question 32 According to paragraph 2, what did Ms Dao ask families to do? A. Use one fixed chore system without changing it during the six-week projectB. Give teenagers more household work as the project continuedC. Record when their chosen system worked well or caused problemsD. Replace regular household responsibilities with students' school activities Write A, B, C, or D - {#2} Question 33 The phrase This approach in paragraph 3 refers to ______. A. treating the chart as a flexible starting point and discussing changesB. keeping exactly the same duties even when family schedules became unexpectedly busyC. giving each family member a fixed responsibility that never changedD. removing the chore chart whenever a disagreement happened at home Write A, B, C, or D - {#3} Question 34 Which statement best paraphrases the information about An in paragraph 4? A. She stopped cooking because the family's changing plans became too complicated for her to manage.B. She started doing more household work than the other family members.C. She became better at choosing times when her help fitted the family's schedule.D. She needed more reminders even after she began checking the family calendar. Write A, B, C, or D - {#4} Question 35 What can be inferred from the project? A. Fixed chore charts always create more arguments than flexible plans.B. Involving teenagers in planning may increase their sense of responsibility.C. Teenagers dislike household work mainly because tasks are too difficult.D. Families should avoid changing household responsibilities after a plan is made. Write A, B, C, or D - {#5} Question 36 Where in paragraph 5 does the following sentence best fit? What mattered more was how families responded when the original plan no longer fit. A. [II]B. [IV]C. [I]D. [III] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 3? A. To explain why teenagers often preferred having fixed household responsibilitiesB. To compare the overall advantages of fixed and flexible household systemsC. To show why some families decided to stop using chore chartsD. To explain why flexible discussion mattered when family schedules changed Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Specific household requests were easier for teenagers to understand than more general requests.B. Families used different systems for organising and sharing their household responsibilities.C. Every family eventually replaced its flexible system with a fixed chore chart.D. Unexpected schedule changes sometimes caused difficulties for families using fixed plans. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. Chore charts are ineffective unless families remove them whenever household problems appear.B. Clear household plans work better when families can discuss necessary changes.C. Teenagers should choose all household responsibilities without guidance from parents.D. Families should use the same household system to prevent disagreements. Write A, B, C, or D - {#9} Question 40 Which title best fits the passage? A. Why Teenagers Should Do More Chores Than AdultsB. The Only Household Plan That Works for Every FamilyC. How to Make a Perfect Chore ChartD. Why Household Plans Need Communication as Well as Organisation Write A, B, C, or D - {#10}",
+      "clean_stem": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word allocate in paragraph 2 is closest in meaning to a removeb assignc hided delay write a b c or d 1 question 32 according to paragraph 2 what did ms dao ask families to do a use one fixed chore system without changing it during the six week projectb give teenagers more household work as the project continuedc record when their chosen system worked well or caused problemsd replace regular household responsibilities with students school activities write a b c or d 2 question 33 the phrase this approach in paragraph 3 refers to a treating the chart as a flexible starting point and discussing changesb keeping exactly the same duties even when family schedules became unexpectedly busyc giving each family member a fixed responsibility that never changedd removing the chore chart whenever a disagreement happened at home write a b c or d 3 question 34 which statement best paraphrases the information about an in paragraph 4 a she stopped cooking because the family s changing plans became too complicated for her to manage b she started doing more household work than the other family members c she became better at choosing times when her help fitted the family s schedule d she needed more reminders even after she began checking the family calendar write a b c or d 4 question 35 what can be inferred from the project a fixed chore charts always create more arguments than flexible plans b involving teenagers in planning may increase their sense of responsibility c teenagers dislike household work mainly because tasks are too difficult d families should avoid changing household responsibilities after a plan is made write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit what mattered more was how families responded when the original plan no longer fit a ii b iv c i d iii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why teenagers often preferred having fixed household responsibilitiesb to compare the overall advantages of fixed and flexible household systemsc to show why some families decided to stop using chore chartsd to explain why flexible discussion mattered when family schedules changed write a b c or d 7 question 38 which of the following is not supported by the passage a specific household requests were easier for teenagers to understand than more general requests b families used different systems for organising and sharing their household responsibilities c every family eventually replaced its flexible system with a fixed chore chart d unexpected schedule changes sometimes caused difficulties for families using fixed plans write a b c or d 8 question 39 which of the following best summarises the passage a chore charts are ineffective unless families remove them whenever household problems appear b clear household plans work better when families can discuss necessary changes c teenagers should choose all household responsibilities without guidance from parents d families should use the same household system to prevent disagreements write a b c or d 9 question 40 which title best fits the passage a why teenagers should do more chores than adultsb the only household plan that works for every familyc how to make a perfect chore chartd why household plans need communication as well as organisation write a b c or d 10",
+      "stem_key": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word allocate in paragraph 2 is closest in meaning to a removeb assignc hided delay write a b c or d 1 question 32 according to paragraph 2 what did ms dao ask families to do a use one fixed chore system without changing it during the six week projectb give teenagers more household work as the project continuedc record when their chosen system worked well or caused problemsd replace regular household responsibilities with students school activities write a b c or d 2 question 33 the phrase this approach in paragraph 3 refers to a treating the chart as a flexible starting point and discussing changesb keeping exactly the same duties even when family schedules became unexpectedly busyc giving each family member a fixed responsibility that never changedd removing the chore chart whenever a disagreement happened at home write a b c or d 3 question 34 which statement best paraphrases the information about an in paragraph 4 a she stopped cooking because the family s changing plans became too complicated for her to manage b she started doing more household work than the other family members c she became better at choosing times when her help fitted the family s schedule d she needed more reminders even after she began checking the family calendar write a b c or d 4 question 35 what can be inferred from the project a fixed chore charts always create more arguments than flexible plans b involving teenagers in planning may increase their sense of responsibility c teenagers dislike household work mainly because tasks are too difficult d families should avoid changing household responsibilities after a plan is made write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit what mattered more was how families responded when the original plan no longer fit a ii b iv c i d iii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why teenagers often preferred having fixed household responsibilitiesb to compare the overall advantages of fixed and flexible household systemsc to show why some families decided to stop using chore chartsd to explain why flexible discussion mattered when family schedules changed write a b c or d 7 question 38 which of the following is not supported by the passage a specific household requests were easier for teenagers to understand than more general requests b families used different systems for organising and sharing their household responsibilities c every family eventually replaced its flexible system with a fixed chore chart d unexpected schedule changes sometimes caused difficulties for families using fixed plans write a b c or d 8 question 39 which of the following best summarises the passage a chore charts are ineffective unless families remove them whenever household problems appear b clear household plans work better when families can discuss necessary changes c teenagers should choose all household responsibilities without guidance from parents d families should use the same household system to prevent disagreements write a b c or d 9 question 40 which title best fits the passage a why teenagers should do more chores than adultsb the only household plan that works for every familyc how to make a perfect chore chartd why household plans need communication as well as organisation write a b c or d 10",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how hoa s mother expected the children to take over all morning preparationb how hoa s family changed its morning routine to share responsibilities more effectivelyc how hoa s younger brother struggled to manage his morning routine independentlyd how hoa s father changed his work schedule to make family mornings less stressful write a b c or d 1 question 24 the word adjusted in paragraph 2 is closest in meaning to a rememberedb explainedc changedd repeated write a b c or d 2 question 25 the phrase this arrangement in paragraph 2 refers to a sharing morning preparation among several family membersb asking hoa s mother to continue organising everythingc making the children leave home earlier than befored preparing breakfast only at weekends write a b c or d 3 question 26 according to the passage what does hoa s father now do three mornings a week a checks their school bagsb drives them to schoolc prepares their clothesd makes breakfast for them write a b c or d 4 question 27 which of the following is not true according to the passage a hoa s mother now leaves home forty minutes earlier each morning for work b hoa s younger brother now uses a checklist without reminders c each family member must always complete exactly the same task d some morning preparation is completed the night before school write a b c or d 5 question 28 which sentence best paraphrases hoa s view in the final paragraph a a successful family routine should stay unchanged even when circumstances change b a good routine can still work when families adapt it to new needs c children should take on more household duties than their parents do d morning routines work best when one person remains fully responsible for every task write a b c or d 6 question 29 in which paragraph does the writer describe how the new morning jobs are divided a paragraph 4b paragraph 1c paragraph 3d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a sharing responsibility helped some family members become more independent b hoa preferred the old routine because it required less planning c the new routine increased the number of morning arguments d hoa s mother stopped helping the family completely after starting her new job write a b c or d 8": {
+      "question": "PART 4. READING COMPREHENSION Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. How Hoa's mother expected the children to take over all morning preparationB. How Hoa's family changed its morning routine to share responsibilities more effectivelyC. How Hoa's younger brother struggled to manage his morning routine independentlyD. How Hoa's father changed his work schedule to make family mornings less stressful Write A, B, C, or D - {#1} Question 24 The word adjusted in paragraph 2 is closest in meaning to ______. A. rememberedB. explainedC. changedD. repeated Write A, B, C, or D - {#2} Question 25 The phrase This arrangement in paragraph 2 refers to ______. A. sharing morning preparation among several family membersB. asking Hoa's mother to continue organising everythingC. making the children leave home earlier than beforeD. preparing breakfast only at weekends Write A, B, C, or D - {#3} Question 26 According to the passage, what does Hoa's father now do three mornings a week? A. Checks their school bagsB. Drives them to schoolC. Prepares their clothesD. Makes breakfast for them Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Hoa's mother now leaves home forty minutes earlier each morning for work.B. Hoa's younger brother now uses a checklist without reminders.C. Each family member must always complete exactly the same task.D. Some morning preparation is completed the night before school. Write A, B, C, or D - {#5} Question 28 Which sentence best paraphrases Hoa's view in the final paragraph? A. A successful family routine should stay unchanged even when circumstances change.B. A good routine can still work when families adapt it to new needs.C. Children should take on more household duties than their parents do.D. Morning routines work best when one person remains fully responsible for every task. Write A, B, C, or D - {#6} Question 29 In which paragraph does the writer describe how the new morning jobs are divided? A. Paragraph 4B. Paragraph 1C. Paragraph 3D. Paragraph 2 Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage? A. Sharing responsibility helped some family members become more independent.B. Hoa preferred the old routine because it required less planning.C. The new routine increased the number of morning arguments.D. Hoa's mother stopped helping the family completely after starting her new job. Write A, B, C, or D - {#8}",
+      "clean_stem": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how hoa s mother expected the children to take over all morning preparationb how hoa s family changed its morning routine to share responsibilities more effectivelyc how hoa s younger brother struggled to manage his morning routine independentlyd how hoa s father changed his work schedule to make family mornings less stressful write a b c or d 1 question 24 the word adjusted in paragraph 2 is closest in meaning to a rememberedb explainedc changedd repeated write a b c or d 2 question 25 the phrase this arrangement in paragraph 2 refers to a sharing morning preparation among several family membersb asking hoa s mother to continue organising everythingc making the children leave home earlier than befored preparing breakfast only at weekends write a b c or d 3 question 26 according to the passage what does hoa s father now do three mornings a week a checks their school bagsb drives them to schoolc prepares their clothesd makes breakfast for them write a b c or d 4 question 27 which of the following is not true according to the passage a hoa s mother now leaves home forty minutes earlier each morning for work b hoa s younger brother now uses a checklist without reminders c each family member must always complete exactly the same task d some morning preparation is completed the night before school write a b c or d 5 question 28 which sentence best paraphrases hoa s view in the final paragraph a a successful family routine should stay unchanged even when circumstances change b a good routine can still work when families adapt it to new needs c children should take on more household duties than their parents do d morning routines work best when one person remains fully responsible for every task write a b c or d 6 question 29 in which paragraph does the writer describe how the new morning jobs are divided a paragraph 4b paragraph 1c paragraph 3d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a sharing responsibility helped some family members become more independent b hoa preferred the old routine because it required less planning c the new routine increased the number of morning arguments d hoa s mother stopped helping the family completely after starting her new job write a b c or d 8",
+      "stem_key": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how hoa s mother expected the children to take over all morning preparationb how hoa s family changed its morning routine to share responsibilities more effectivelyc how hoa s younger brother struggled to manage his morning routine independentlyd how hoa s father changed his work schedule to make family mornings less stressful write a b c or d 1 question 24 the word adjusted in paragraph 2 is closest in meaning to a rememberedb explainedc changedd repeated write a b c or d 2 question 25 the phrase this arrangement in paragraph 2 refers to a sharing morning preparation among several family membersb asking hoa s mother to continue organising everythingc making the children leave home earlier than befored preparing breakfast only at weekends write a b c or d 3 question 26 according to the passage what does hoa s father now do three mornings a week a checks their school bagsb drives them to schoolc prepares their clothesd makes breakfast for them write a b c or d 4 question 27 which of the following is not true according to the passage a hoa s mother now leaves home forty minutes earlier each morning for work b hoa s younger brother now uses a checklist without reminders c each family member must always complete exactly the same task d some morning preparation is completed the night before school write a b c or d 5 question 28 which sentence best paraphrases hoa s view in the final paragraph a a successful family routine should stay unchanged even when circumstances change b a good routine can still work when families adapt it to new needs c children should take on more household duties than their parents do d morning routines work best when one person remains fully responsible for every task write a b c or d 6 question 29 in which paragraph does the writer describe how the new morning jobs are divided a paragraph 4b paragraph 1c paragraph 3d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a sharing responsibility helped some family members become more independent b hoa preferred the old routine because it required less planning c the new routine increased the number of morning arguments d hoa s mother stopped helping the family completely after starting her new job write a b c or d 8",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how hoa s mother expected the children to take over all morning preparationb how hoa s family changed its morning routine to share responsibilities more effectivelyc how hoa s younger brother struggled to manage his morning routine independentlyd how hoa s father changed his work schedule to make family mornings less stressful write a b c or d question 24 the word adjusted in paragraph 2 is closest in meaning to a rememberedb explainedc changedd repeated write a b c or d question 25 the phrase this arrangement in paragraph 2 refers to a sharing morning preparation among several family membersb asking hoa s mother to continue organising everythingc making the children leave home earlier than befored preparing breakfast only at weekends write a b c or d question 26 according to the passage what does hoa s father now do three mornings a week a checks their school bagsb drives them to schoolc prepares their clothesd makes breakfast for them write a b c or d question 27 which of the following is not true according to the passage a hoa s mother now leaves home forty minutes earlier each morning for work b hoa s younger brother now uses a checklist without reminders c each family member must always complete exactly the same task d some morning preparation is completed the night before school write a b c or d question 28 which sentence best paraphrases hoa s view in the final paragraph a a successful family routine should stay unchanged even when circumstances change b a good routine can still work when families adapt it to new needs c children should take on more household duties than their parents do d morning routines work best when one person remains fully responsible for every task write a b c or d question 29 in which paragraph does the writer describe how the new morning jobs are divided a paragraph 4b paragraph 1c paragraph 3d paragraph 2 write a b c or d question 30 what can be inferred from the passage a sharing responsibility helped some family members become more independent b hoa preferred the old routine because it required less planning c the new routine increased the number of morning arguments d hoa s mother stopped helping the family completely after starting her new job write a b c or d": {
+      "question": "PART 4. READING COMPREHENSION Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. How Hoa's mother expected the children to take over all morning preparationB. How Hoa's family changed its morning routine to share responsibilities more effectivelyC. How Hoa's younger brother struggled to manage his morning routine independentlyD. How Hoa's father changed his work schedule to make family mornings less stressful Write A, B, C, or D - {#1} Question 24 The word adjusted in paragraph 2 is closest in meaning to ______. A. rememberedB. explainedC. changedD. repeated Write A, B, C, or D - {#2} Question 25 The phrase This arrangement in paragraph 2 refers to ______. A. sharing morning preparation among several family membersB. asking Hoa's mother to continue organising everythingC. making the children leave home earlier than beforeD. preparing breakfast only at weekends Write A, B, C, or D - {#3} Question 26 According to the passage, what does Hoa's father now do three mornings a week? A. Checks their school bagsB. Drives them to schoolC. Prepares their clothesD. Makes breakfast for them Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Hoa's mother now leaves home forty minutes earlier each morning for work.B. Hoa's younger brother now uses a checklist without reminders.C. Each family member must always complete exactly the same task.D. Some morning preparation is completed the night before school. Write A, B, C, or D - {#5} Question 28 Which sentence best paraphrases Hoa's view in the final paragraph? A. A successful family routine should stay unchanged even when circumstances change.B. A good routine can still work when families adapt it to new needs.C. Children should take on more household duties than their parents do.D. Morning routines work best when one person remains fully responsible for every task. Write A, B, C, or D - {#6} Question 29 In which paragraph does the writer describe how the new morning jobs are divided? A. Paragraph 4B. Paragraph 1C. Paragraph 3D. Paragraph 2 Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage? A. Sharing responsibility helped some family members become more independent.B. Hoa preferred the old routine because it required less planning.C. The new routine increased the number of morning arguments.D. Hoa's mother stopped helping the family completely after starting her new job. Write A, B, C, or D - {#8}",
+      "clean_stem": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how hoa s mother expected the children to take over all morning preparationb how hoa s family changed its morning routine to share responsibilities more effectivelyc how hoa s younger brother struggled to manage his morning routine independentlyd how hoa s father changed his work schedule to make family mornings less stressful write a b c or d 1 question 24 the word adjusted in paragraph 2 is closest in meaning to a rememberedb explainedc changedd repeated write a b c or d 2 question 25 the phrase this arrangement in paragraph 2 refers to a sharing morning preparation among several family membersb asking hoa s mother to continue organising everythingc making the children leave home earlier than befored preparing breakfast only at weekends write a b c or d 3 question 26 according to the passage what does hoa s father now do three mornings a week a checks their school bagsb drives them to schoolc prepares their clothesd makes breakfast for them write a b c or d 4 question 27 which of the following is not true according to the passage a hoa s mother now leaves home forty minutes earlier each morning for work b hoa s younger brother now uses a checklist without reminders c each family member must always complete exactly the same task d some morning preparation is completed the night before school write a b c or d 5 question 28 which sentence best paraphrases hoa s view in the final paragraph a a successful family routine should stay unchanged even when circumstances change b a good routine can still work when families adapt it to new needs c children should take on more household duties than their parents do d morning routines work best when one person remains fully responsible for every task write a b c or d 6 question 29 in which paragraph does the writer describe how the new morning jobs are divided a paragraph 4b paragraph 1c paragraph 3d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a sharing responsibility helped some family members become more independent b hoa preferred the old routine because it required less planning c the new routine increased the number of morning arguments d hoa s mother stopped helping the family completely after starting her new job write a b c or d 8",
+      "stem_key": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how hoa s mother expected the children to take over all morning preparationb how hoa s family changed its morning routine to share responsibilities more effectivelyc how hoa s younger brother struggled to manage his morning routine independentlyd how hoa s father changed his work schedule to make family mornings less stressful write a b c or d 1 question 24 the word adjusted in paragraph 2 is closest in meaning to a rememberedb explainedc changedd repeated write a b c or d 2 question 25 the phrase this arrangement in paragraph 2 refers to a sharing morning preparation among several family membersb asking hoa s mother to continue organising everythingc making the children leave home earlier than befored preparing breakfast only at weekends write a b c or d 3 question 26 according to the passage what does hoa s father now do three mornings a week a checks their school bagsb drives them to schoolc prepares their clothesd makes breakfast for them write a b c or d 4 question 27 which of the following is not true according to the passage a hoa s mother now leaves home forty minutes earlier each morning for work b hoa s younger brother now uses a checklist without reminders c each family member must always complete exactly the same task d some morning preparation is completed the night before school write a b c or d 5 question 28 which sentence best paraphrases hoa s view in the final paragraph a a successful family routine should stay unchanged even when circumstances change b a good routine can still work when families adapt it to new needs c children should take on more household duties than their parents do d morning routines work best when one person remains fully responsible for every task write a b c or d 6 question 29 in which paragraph does the writer describe how the new morning jobs are divided a paragraph 4b paragraph 1c paragraph 3d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a sharing responsibility helped some family members become more independent b hoa preferred the old routine because it required less planning c the new routine increased the number of morning arguments d hoa s mother stopped helping the family completely after starting her new job write a b c or d 8",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 blank 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 blank 2 responsibility for the job and record what they learn from the experience minh usually 3 blank 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 blank 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 blank 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 blank 6 📋bảng lựa chọn các ô trống cloze options ô 1 a valueb taskc benefitd bondô 2 a dob carryc taked makeô 3 a helpedb is helpingc helpd helpsô 4 a prepareb is preparingc preparedd preparesô 5 a becauseb soc althoughd butô 6 a separatelyb smoothlyc loudlyd rarely": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. SMALL ROUTINES, STRONGER FAMILIES Our school's Family Wellbeing Campaign invites families to try a seven-day household routine. Each teenager chooses one regular household (1) [Blank 1] and agrees to complete it without waiting to be reminded. Students are encouraged to (2) [Blank 2] responsibility for the job and record what they learn from the experience. Minh usually (3) [Blank 3] his mother prepare dinner and puts out the rubbish afterwards. This week, however, he is spending more time helping his younger brother with homework, so his mother (4) [Blank 4] dinner on her own these days. At the end of each week, families discuss what worked well and what should change, (5) [Blank 5] they can improve the routine together. The campaign aims to show that small changes can help family life run more (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.valueB.taskC.benefitD.bondÔ (2):A.doB.carryC.takeD.makeÔ (3):A.helpedB.is helpingC.helpD.helpsÔ (4):A.prepareB.is preparingC.preparedD.preparesÔ (5):A.becauseB.soC.althoughD.butÔ (6):A.separatelyB.smoothlyC.loudlyD.rarely",
+      "clean_stem": "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 blank 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 blank 2 responsibility for the job and record what they learn from the experience minh usually 3 blank 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 blank 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 blank 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 blank 6 📋bảng lựa chọn các ô trống cloze options ô 1 a valueb taskc benefitd bondô 2 a dob carryc taked makeô 3 a helpedb is helpingc helpd helpsô 4 a prepareb is preparingc preparedd preparesô 5 a becauseb soc althoughd butô 6 a separatelyb smoothlyc loudlyd rarely",
+      "stem_key": "language in functional texts questions 1 6 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 small routines stronger families our school s family wellbeing campaign invites families to try a seven day household routine each teenager chooses one regular household 1 blank 1 and agrees to complete it without waiting to be reminded students are encouraged to 2 blank 2 responsibility for the job and record what they learn from the experience minh usually 3 blank 3 his mother prepare dinner and puts out the rubbish afterwards this week however he is spending more time helping his younger brother with homework so his mother 4 blank 4 dinner on her own these days at the end of each week families discuss what worked well and what should change 5 blank 5 they can improve the routine together the campaign aims to show that small changes can help family life run more 6 blank 6 📋bảng lựa chọn các ô trống cloze options ô 1 a valueb taskc benefitd bondô 2 a dob carryc taked makeô 3 a helpedb is helpingc helpd helpsô 4 a prepareb is preparingc preparedd preparesô 5 a becauseb soc althoughd butô 6 a separatelyb smoothlyc loudlyd rarely",
+      "answer": "task",
+      "letter": "B",
+      "options": [
+        "task"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "B. task"
+        },
+        {
+          "index": 1,
+          "value": "C. take"
+        },
+        {
+          "index": 2,
+          "value": "D. helps"
+        },
+        {
+          "index": 3,
+          "value": "B. is preparing"
+        },
+        {
+          "index": 4,
+          "value": "B. so"
+        },
+        {
+          "index": 5,
+          "value": "B. smoothly"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
+    },
+    "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 blank 7 the family shopping list another asks how family members 8 blank 8 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 blank 9 with the school volleyball team she still helps at weekends because she believes everyone should 10 blank 10 to family life her brother dislikes folding clothes 11 blank 11 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 blank 12 📋bảng lựa chọn các ô trống cloze options ô 7 a preparesb changesc carriesd cleansô 8 a divideb forgetc canceld avoidô 9 a practisesb practisedc practised is practisingô 10 a relaxb competec dependd contributeô 11 a howeverb becausec besidesd thereforeô 12 a expensiveb privatec balancedd noisy": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. THE HOUSEHOLD RESPONSIBILITY CHALLENGE Class 10B is taking part in a challenge about how household work is organised. One question asks who usually (7) [Blank 7] the family shopping list. Another asks how family members (8) [Blank 8] household duties when somebody is especially busy. Thu normally cooks with her father on Friday evenings, but this month she (9) [Blank 9] with the school volleyball team. She still helps at weekends because she believes everyone should (10) [Blank 10] to family life. Her brother dislikes folding clothes; (11) [Blank 11] , he does the job when their parents are working late. At the end of the challenge, students compare their routines and discuss which changes could make family responsibilities more (12) [Blank 12] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.preparesB.changesC.carriesD.cleansÔ (8):A.divideB.forgetC.cancelD.avoidÔ (9):A.practisesB.practisedC.practiseD.is practisingÔ (10):A.relaxB.competeC.dependD.contributeÔ (11):A.howeverB.becauseC.besidesD.thereforeÔ (12):A.expensiveB.privateC.balancedD.noisy",
+      "clean_stem": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 blank 7 the family shopping list another asks how family members 8 blank 8 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 blank 9 with the school volleyball team she still helps at weekends because she believes everyone should 10 blank 10 to family life her brother dislikes folding clothes 11 blank 11 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 blank 12 📋bảng lựa chọn các ô trống cloze options ô 7 a preparesb changesc carriesd cleansô 8 a divideb forgetc canceld avoidô 9 a practisesb practisedc practised is practisingô 10 a relaxb competec dependd contributeô 11 a howeverb becausec besidesd thereforeô 12 a expensiveb privatec balancedd noisy",
+      "stem_key": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 the household responsibility challenge class 10b is taking part in a challenge about how household work is organised one question asks who usually 7 blank 7 the family shopping list another asks how family members 8 blank 8 household duties when somebody is especially busy thu normally cooks with her father on friday evenings but this month she 9 blank 9 with the school volleyball team she still helps at weekends because she believes everyone should 10 blank 10 to family life her brother dislikes folding clothes 11 blank 11 he does the job when their parents are working late at the end of the challenge students compare their routines and discuss which changes could make family responsibilities more 12 blank 12 📋bảng lựa chọn các ô trống cloze options ô 7 a preparesb changesc carriesd cleansô 8 a divideb forgetc canceld avoidô 9 a practisesb practisedc practised is practisingô 10 a relaxb competec dependd contributeô 11 a howeverb becausec besidesd thereforeô 12 a expensiveb privatec balancedd noisy",
+      "answer": "prepares",
+      "letter": "A",
+      "options": [
+        "prepares"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. prepares"
+        },
+        {
+          "index": 1,
+          "value": "A. divide"
+        },
+        {
+          "index": 2,
+          "value": "D. is practising"
+        },
+        {
+          "index": 3,
+          "value": "D. contribute"
+        },
+        {
+          "index": 4,
+          "value": "A. however"
+        },
+        {
+          "index": 5,
+          "value": "C. balanced"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:07:47Z"
     }
   }
 }
