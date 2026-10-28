@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-28T13:45:53Z",
-  "total_questions": 297,
+  "updated_at": "2026-10-28T13:52:22Z",
+  "total_questions": 317,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -5181,6 +5181,306 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-28T13:45:52Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the young singer has become a teen thousands of teenagers admire him and follow his music": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The young singer has become a teen ________: thousands of teenagers admire him and follow his music.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the young singer has become a teen thousands of teenagers admire him and follow his music",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the young singer has become a teen thousands of teenagers admire him and follow his music",
+      "answer": "idol",
+      "letter": "C",
+      "options": [
+        "idol"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence in our classroom singing competition students can vote the singer they want to win": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.In our classroom singing competition, students can vote ________ the singer they want to win.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence in our classroom singing competition students can vote the singer they want to win",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence in our classroom singing competition students can vote the singer they want to win",
+      "answer": "for",
+      "letter": "C",
+      "options": [
+        "for"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after discussing several possibilities our group came up an idea for a new music show": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.After discussing several possibilities, our group came up ________ an idea for a new music show.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after discussing several possibilities our group came up an idea for a new music show",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after discussing several possibilities our group came up an idea for a new music show",
+      "answer": "with",
+      "letter": "C",
+      "options": [
+        "with"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the band cannot begin its rehearsal because its musical including the guitars and drums are still locked in the equipment cupboard": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The band cannot begin its rehearsal because its musical ________, including the guitars and drums, are still locked in the equipment cupboard.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the band cannot begin its rehearsal because its musical including the guitars and drums are still locked in the equipment cupboard",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the band cannot begin its rehearsal because its musical including the guitars and drums are still locked in the equipment cupboard",
+      "answer": "instruments",
+      "letter": "A",
+      "options": [
+        "instruments"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence although mai has never taken music lessons she learns new tunes quickly her natural musical helps her recognise and reproduce melodies": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.Although Mai has never taken music lessons, she learns new tunes quickly. Her natural musical ________ helps her recognise and reproduce melodies.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence although mai has never taken music lessons she learns new tunes quickly her natural musical helps her recognise and reproduce melodies",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence although mai has never taken music lessons she learns new tunes quickly her natural musical helps her recognise and reproduce melodies",
+      "answer": "talent",
+      "letter": "D",
+      "options": [
+        "talent"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence for the classroom show the participants will dress as famous artists and perform one of their songs": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.For the classroom show, the participants will dress ________ as famous artists and perform one of their songs.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence for the classroom show the participants will dress as famous artists and perform one of their songs",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence for the classroom show the participants will dress as famous artists and perform one of their songs",
+      "answer": "up",
+      "letter": "D",
+      "options": [
+        "up"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the school music festival will take in the main hall on friday evening": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The school music festival will take ________ in the main hall on Friday evening.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the school music festival will take in the main hall on friday evening",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the school music festival will take in the main hall on friday evening",
+      "answer": "place",
+      "letter": "D",
+      "options": [
+        "place"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after a month on tour the band will come to its home town its members have promised local fans that they will return": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.After a month on tour, the band will come ________ to its home town. Its members have promised local fans that they will return.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after a month on tour the band will come to its home town its members have promised local fans that they will return",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after a month on tour the band will come to its home town its members have promised local fans that they will return",
+      "answer": "back",
+      "letter": "C",
+      "options": [
+        "back"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the programme advertises a show because viewers will see the singers perform as it happens rather than watch an earlier recording": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.The programme advertises a ________ show because viewers will see the singers perform as it happens, rather than watch an earlier recording.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the programme advertises a show because viewers will see the singers perform as it happens rather than watch an earlier recording",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence the programme advertises a show because viewers will see the singers perform as it happens rather than watch an earlier recording",
+      "answer": "live",
+      "letter": "D",
+      "options": [
+        "live"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after the first round the selected contestants will go to the next stage of the competition the others will leave the contest": {
+      "question": "Read each sentence carefully. Choose the option that best completes the natural phrase.*Check the complete expression and its meaning in the sentence.After the first round, the selected contestants will go ________ to the next stage of the competition; the others will leave the contest.",
+      "clean_stem": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after the first round the selected contestants will go to the next stage of the competition the others will leave the contest",
+      "stem_key": "read each sentence carefully choose the option that best completes the natural phrase check the complete expression and its meaning in the sentence after the first round the selected contestants will go to the next stage of the competition the others will leave the contest",
+      "answer": "on",
+      "letter": "A",
+      "options": [
+        "on"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense every in the singing competition must prepare one song for the first round": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Every ________ in the singing competition must prepare one song for the first round.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense every in the singing competition must prepare one song for the first round",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense every in the singing competition must prepare one song for the first round",
+      "answer": "participant",
+      "letter": "A",
+      "options": [
+        "participant"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense for their traditional music presentation the students brought several instruments including a drum and bamboo clappers": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.For their traditional music presentation, the students brought several ________ instruments, including a drum and bamboo clappers.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense for their traditional music presentation the students brought several instruments including a drum and bamboo clappers",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense for their traditional music presentation the students brought several instruments including a drum and bamboo clappers",
+      "answer": "musical",
+      "letter": "A",
+      "options": [
+        "musical"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense after each performance the judges are added together to calculate the contestant s total": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.After each performance, the judges' ________ are added together to calculate the contestant's total.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense after each performance the judges are added together to calculate the contestant s total",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense after each performance the judges are added together to calculate the contestant s total",
+      "answer": "scores",
+      "letter": "D",
+      "options": [
+        "scores"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense several young singers entered the school s singing hoping to reach the final": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Several young singers entered the school's singing ________, hoping to reach the final.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense several young singers entered the school s singing hoping to reach the final",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense several young singers entered the school s singing hoping to reach the final",
+      "answer": "competition",
+      "letter": "B",
+      "options": [
+        "competition"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense the audience praised the band s final and asked the musicians to play another song": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.The audience praised the band's final ________ and asked the musicians to play another song.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense the audience praised the band s final and asked the musicians to play another song",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense the audience praised the band s final and asked the musicians to play another song",
+      "answer": "performance",
+      "letter": "D",
+      "options": [
+        "performance"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense both performed live at the school concert and each sang an original song": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Both ________ performed live at the school concert, and each sang an original song.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense both performed live at the school concert and each sang an original song",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense both performed live at the school concert and each sang an original song",
+      "answer": "singers",
+      "letter": "D",
+      "options": [
+        "singers"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense one professional visited the class to demonstrate how to play the guitar": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.One professional ________ visited the class to demonstrate how to play the guitar.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense one professional visited the class to demonstrate how to play the guitar",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense one professional visited the class to demonstrate how to play the guitar",
+      "answer": "musician",
+      "letter": "C",
+      "options": [
+        "musician"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense in the classroom competition each audience member could cast two for their preferred singers": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.In the classroom competition, each audience member could cast two ________ for their preferred singers.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense in the classroom competition each audience member could cast two for their preferred singers",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense in the classroom competition each audience member could cast two for their preferred singers",
+      "answer": "votes",
+      "letter": "A",
+      "options": [
+        "votes"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense only one contestant will receive the main cash prize the will be announced after the final round": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Only one contestant will receive the main cash prize. The ________ will be announced after the final round.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense only one contestant will receive the main cash prize the will be announced after the final round",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense only one contestant will receive the main cash prize the will be announced after the final round",
+      "answer": "winner",
+      "letter": "B",
+      "options": [
+        "winner"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
+    },
+    "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense our group decided to research music and explain its instruments and costumes to the class": {
+      "question": "Read each sentence carefully. Choose the option that completes the sentence correctly.*Check:which word class the blank requires;whether a noun should be singular or plural;whether the completed sentence makes sense.Our group decided to research ________ music and explain its instruments and costumes to the class.",
+      "clean_stem": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense our group decided to research music and explain its instruments and costumes to the class",
+      "stem_key": "read each sentence carefully choose the option that completes the sentence correctly check which word class the blank requires whether a noun should be singular or plural whether the completed sentence makes sense our group decided to research music and explain its instruments and costumes to the class",
+      "answer": "traditional",
+      "letter": "D",
+      "options": [
+        "traditional"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:52:21Z"
     }
   }
 }
