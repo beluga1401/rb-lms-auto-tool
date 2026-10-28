@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Lãm Đinh",
+    "account_name": "Nguyễn Quang Huy",
     "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
     "class_key": "khoi_10",
@@ -15,11 +15,11 @@
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 25,
-    "updated_at": "2026-10-27 21:14:40"
+    "updated_at": "2026-10-28 21:26:21"
   },
   "answers": [
     {
-      "id": "question-1906666-9",
+      "id": "question-1926002-9",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.at the food bank, volunteers collect donated food and provide it to people who do not have enough to eat.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. At the food bank, volunteers collect donated food and provide it to people who do not have enough to eat.",
       "options": [
@@ -27,8 +27,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-9",
-      "questionNumber": 12,
+      "questionId": "question-1926002-9",
+      "questionNumber": 6,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.At the food bank, volunteers collect donated food and provide it to people who do not have enough to eat.",
       "answer": "a place that collects and provides food for people in need",
       "dragdrops": [],
@@ -37,7 +37,7 @@
       "rightAnswer": "a place that collects and provides food for people in need"
     },
     {
-      "id": "question-1906666-1",
+      "id": "question-1926002-1",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.every sunday, phong works as a volunteer at the community centre. he helps children choose books and does not receive any payment.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Every Sunday, Phong works as a volunteer at the community centre. He helps children choose books and does not receive any payment.",
       "options": [
@@ -45,17 +45,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-1",
-      "questionNumber": 2,
+      "questionId": "question-1926002-1",
+      "questionNumber": 15,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Every Sunday, Phong works as a volunteer at the community centre. He helps children choose books and does not receive any payment.",
       "answer": "a person who works to help others without being paid",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.every sunday, phong works as a volunteer at the community centre. he helps children choose books and does not receive any payment.",
-      "letter": "D",
+      "letter": "C",
       "rightAnswer": "a person who works to help others without being paid"
     },
     {
-      "id": "question-1906666-13",
+      "id": "question-1926002-13",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.organizing his time became an essential life skill for huy. it helped him manage schoolwork, volunteer duties, and daily responsibilities.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Organizing his time became an essential life skill for Huy. It helped him manage schoolwork, volunteer duties, and daily responsibilities.",
       "options": [
@@ -63,17 +63,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-13",
-      "questionNumber": 8,
+      "questionId": "question-1926002-13",
+      "questionNumber": 1,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Organizing his time became an essential life skill for Huy. It helped him manage schoolwork, volunteer duties, and daily responsibilities.",
       "answer": "an important ability needed to manage everyday situations",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.organizing his time became an essential life skill for huy. it helped him manage schoolwork, volunteer duties, and daily responsibilities.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "an important ability needed to manage everyday situations"
     },
     {
-      "id": "question-1906666-12",
+      "id": "question-1926002-12",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.delivering meals gave nam a sense of purpose. he felt that his actions mattered because they helped other people.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Delivering meals gave Nam a sense of purpose. He felt that his actions mattered because they helped other people.",
       "options": [
@@ -81,17 +81,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-12",
-      "questionNumber": 14,
+      "questionId": "question-1926002-12",
+      "questionNumber": 12,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Delivering meals gave Nam a sense of purpose. He felt that his actions mattered because they helped other people.",
       "answer": "a feeling that one's life and actions have meaning",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.delivering meals gave nam a sense of purpose. he felt that his actions mattered because they helped other people.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "a feeling that one's life and actions have meaning"
     },
     {
-      "id": "question-1906666-4",
+      "id": "question-1926002-4",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.minh sent his application to the volunteer club. he asked to join the team and explained when he could help.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Minh sent his application to the volunteer club. He asked to join the team and explained when he could help.",
       "options": [
@@ -99,17 +99,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-4",
+      "questionId": "question-1926002-4",
       "questionNumber": 4,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Minh sent his application to the volunteer club. He asked to join the team and explained when he could help.",
       "answer": "a formal request for a position or opportunity",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.minh sent his application to the volunteer club. he asked to join the team and explained when he could help.",
-      "letter": "D",
+      "letter": "C",
       "rightAnswer": "a formal request for a position or opportunity"
     },
     {
-      "id": "question-1906666-3",
+      "id": "question-1926002-3",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.lan found an advertisement on the noticeboard. it listed volunteer duties and invited interested students to contact the centre.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Lan found an advertisement on the noticeboard. It listed volunteer duties and invited interested students to contact the centre.",
       "options": [
@@ -117,8 +117,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-3",
-      "questionNumber": 7,
+      "questionId": "question-1926002-3",
+      "questionNumber": 14,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Lan found an advertisement on the noticeboard. It listed volunteer duties and invited interested students to contact the centre.",
       "answer": "a public notice giving information about an opportunity",
       "dragdrops": [],
@@ -127,7 +127,7 @@
       "rightAnswer": "a public notice giving information about an opportunity"
     },
     {
-      "id": "question-1906666-2",
+      "id": "question-1926002-2",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the centre supports community development. its projects improve shared facilities, provide useful training, and create opportunities for local people.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. The centre supports community development. Its projects improve shared facilities, provide useful training, and create opportunities for local people.",
       "options": [
@@ -135,17 +135,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-2",
-      "questionNumber": 3,
+      "questionId": "question-1926002-2",
+      "questionNumber": 5,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The centre supports community development. Its projects improve shared facilities, provide useful training, and create opportunities for local people.",
       "answer": "the process of improving life for people in a local area",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the centre supports community development. its projects improve shared facilities, provide useful training, and create opportunities for local people.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "the process of improving life for people in a local area"
     },
     {
-      "id": "question-1906666-11",
+      "id": "question-1926002-11",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.after the flood, several families faced serious hardship. their homes were damaged, and they lacked clean water.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. After the flood, several families faced serious hardship. Their homes were damaged, and they lacked clean water.",
       "options": [
@@ -153,8 +153,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-11",
-      "questionNumber": 5,
+      "questionId": "question-1926002-11",
+      "questionNumber": 7,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.After the flood, several families faced serious hardship. Their homes were damaged, and they lacked clean water.",
       "answer": "a difficult condition that causes suffering",
       "dragdrops": [],
@@ -163,7 +163,7 @@
       "rightAnswer": "a difficult condition that causes suffering"
     },
     {
-      "id": "question-1906666-14",
+      "id": "question-1926002-14",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the centre needs reliable volunteers. it must be able to trust them to arrive when agreed and complete their duties.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. The centre needs reliable volunteers. It must be able to trust them to arrive when agreed and complete their duties.",
       "options": [
@@ -171,8 +171,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-14",
-      "questionNumber": 10,
+      "questionId": "question-1926002-14",
+      "questionNumber": 9,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The centre needs reliable volunteers. It must be able to trust them to arrive when agreed and complete their duties.",
       "answer": "able to be trusted to act responsibly",
       "dragdrops": [],
@@ -181,7 +181,7 @@
       "rightAnswer": "able to be trusted to act responsibly"
     },
     {
-      "id": "question-1906666-15",
+      "id": "question-1926002-15",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.before submitting the form, fill in the spaces for your name, contact details, and available days.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Before submitting the form, fill in the spaces for your name, contact details, and available days.",
       "options": [
@@ -189,17 +189,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-15",
-      "questionNumber": 15,
+      "questionId": "question-1926002-15",
+      "questionNumber": 13,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Before submitting the form, fill in the spaces for your name, contact details, and available days.",
       "answer": "write the required information in the spaces provided",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.before submitting the form, fill in the spaces for your name, contact details, and available days.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "write the required information in the spaces provided"
     },
     {
-      "id": "question-1906666-8",
+      "id": "question-1926002-8",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the free meal project will benefit families who cannot afford enough food. it will help them meet an important daily need.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. The free meal project will benefit families who cannot afford enough food. It will help them meet an important daily need.",
       "options": [
@@ -207,17 +207,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-8",
-      "questionNumber": 11,
+      "questionId": "question-1926002-8",
+      "questionNumber": 2,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The free meal project will benefit families who cannot afford enough food. It will help them meet an important daily need.",
       "answer": "help someone or have a positive effect on them",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the free meal project will benefit families who cannot afford enough food. it will help them meet an important daily need.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "help someone or have a positive effect on them"
     },
     {
-      "id": "question-1906666-10",
+      "id": "question-1926002-10",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.hoa used to avoid speaking to visitors. after practising at the centre, she gained confidence and believed she could communicate successfully.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. Hoa used to avoid speaking to visitors. After practising at the centre, she gained confidence and believed she could communicate successfully.",
       "options": [
@@ -225,17 +225,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-10",
-      "questionNumber": 1,
+      "questionId": "question-1926002-10",
+      "questionNumber": 10,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.Hoa used to avoid speaking to visitors. After practising at the centre, she gained confidence and believed she could communicate successfully.",
       "answer": "belief in one's own abilities to do something",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.hoa used to avoid speaking to visitors. after practising at the centre, she gained confidence and believed she could communicate successfully.",
-      "letter": "D",
+      "letter": "B",
       "rightAnswer": "belief in one's own abilities to do something"
     },
     {
-      "id": "question-1906666-7",
+      "id": "question-1926002-7",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the school is in a remote village. volunteers travel along a long mountain road because the village is far from the nearest town.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. The school is in a remote village. Volunteers travel along a long mountain road because the village is far from the nearest town.",
       "options": [
@@ -243,17 +243,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-7",
-      "questionNumber": 6,
+      "questionId": "question-1926002-7",
+      "questionNumber": 3,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The school is in a remote village. Volunteers travel along a long mountain road because the village is far from the nearest town.",
       "answer": "far away from towns and places where many people live",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the school is in a remote village. volunteers travel along a long mountain road because the village is far from the nearest town.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "far away from towns and places where many people live"
     },
     {
-      "id": "question-1906666-6",
+      "id": "question-1926002-6",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the shop owner was generous. she supplied materials for the charity project without asking for payment and spent several afternoons helping students.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. The shop owner was generous. She supplied materials for the charity project without asking for payment and spent several afternoons helping students.",
       "options": [
@@ -261,17 +261,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-6",
-      "questionNumber": 9,
+      "questionId": "question-1926002-6",
+      "questionNumber": 11,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The shop owner was generous. She supplied materials for the charity project without asking for payment and spent several afternoons helping students.",
       "answer": "willing to give time, resources, or help freely",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the shop owner was generous. she supplied materials for the charity project without asking for payment and spent several afternoons helping students.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "willing to give time, resources, or help freely"
     },
     {
-      "id": "question-1906666-5",
+      "id": "question-1926002-5",
       "questionKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the family's donation included blankets and picture books. the club would pass them to people who needed them.",
       "questionRaw": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer. The family’s donation included blankets and picture books. The club would pass them to people who needed them.",
       "options": [
@@ -279,17 +279,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-5",
-      "questionNumber": 13,
+      "questionId": "question-1926002-5",
+      "questionNumber": 8,
       "question": "Choose A, B, C, or D that is CLOSEST in meaning to the bold word or phrase. Use the complete context. Each question has one correct answer.The family's donation included blankets and picture books. The club would pass them to people who needed them.",
       "answer": "money or goods given to help other people",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is closest in meaning to the bold word or phrase. use the complete context. each question has one correct answer.the family's donation included blankets and picture books. the club would pass them to people who needed them.",
-      "letter": "D",
+      "letter": "C",
       "rightAnswer": "money or goods given to help other people"
     },
     {
-      "id": "question-1906666-22",
+      "id": "question-1926002-22",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the members remained hopeful that more people would donate before the collection ended.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. The members remained hopeful that more people would donate before the collection ended.",
       "options": [
@@ -297,8 +297,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-22",
-      "questionNumber": 22,
+      "questionId": "question-1926002-22",
+      "questionNumber": 16,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The members remained hopeful that more people would donate before the collection ended.",
       "answer": "expecting that no good result is possible",
       "dragdrops": [],
@@ -307,7 +307,7 @@
       "rightAnswer": "expecting that no good result is possible"
     },
     {
-      "id": "question-1906666-24",
+      "id": "question-1926002-24",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the collection was successful: it reached its target and supplied all the books requested.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. The collection was successful: it reached its target and supplied all the books requested.",
       "options": [
@@ -315,17 +315,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-24",
-      "questionNumber": 24,
+      "questionId": "question-1926002-24",
+      "questionNumber": 23,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The collection was successful: it reached its target and supplied all the books requested.",
       "answer": "failing to achieve its intended result",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the collection was successful: it reached its target and supplied all the books requested.",
-      "letter": "D",
+      "letter": "B",
       "rightAnswer": "failing to achieve its intended result"
     },
     {
-      "id": "question-1906666-21",
+      "id": "question-1926002-21",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.lan was careful when recording donations. she checked every entry to avoid mistakes.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. Lan was careful when recording donations. She checked every entry to avoid mistakes.",
       "options": [
@@ -333,17 +333,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-21",
-      "questionNumber": 20,
+      "questionId": "question-1926002-21",
+      "questionNumber": 25,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Lan was careful when recording donations. She checked every entry to avoid mistakes.",
       "answer": "careless",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.lan was careful when recording donations. she checked every entry to avoid mistakes.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "careless"
     },
     {
-      "id": "question-1906666-20",
+      "id": "question-1926002-20",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.welcoming visitors can boost confidence, helping volunteers believe more strongly in their abilities.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. Welcoming visitors can boost confidence, helping volunteers believe more strongly in their abilities.",
       "options": [
@@ -351,17 +351,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-20",
-      "questionNumber": 17,
+      "questionId": "question-1926002-20",
+      "questionNumber": 21,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Welcoming visitors can boost confidence, helping volunteers believe more strongly in their abilities.",
       "answer": "reduce belief in one's abilities",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.welcoming visitors can boost confidence, helping volunteers believe more strongly in their abilities.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "reduce belief in one's abilities"
     },
     {
-      "id": "question-1906666-16",
+      "id": "question-1926002-16",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the shop owner was generous with her resources. she freely gave materials and money to the charity project.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. The shop owner was generous with her resources. She freely gave materials and money to the charity project.",
       "options": [
@@ -369,17 +369,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-16",
-      "questionNumber": 25,
+      "questionId": "question-1926002-16",
+      "questionNumber": 19,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The shop owner was generous with her resources. She freely gave materials and money to the charity project.",
       "answer": "unwilling to give resources to others",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the shop owner was generous with her resources. she freely gave materials and money to the charity project.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "unwilling to give resources to others"
     },
     {
-      "id": "question-1906666-23",
+      "id": "question-1926002-23",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.local residents were helpful. they guided the volunteers and assisted with unloading.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. Local residents were helpful. They guided the volunteers and assisted with unloading.",
       "options": [
@@ -387,17 +387,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-23",
-      "questionNumber": 19,
+      "questionId": "question-1926002-23",
+      "questionNumber": 24,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Local residents were helpful. They guided the volunteers and assisted with unloading.",
       "answer": "unhelpful",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.local residents were helpful. they guided the volunteers and assisted with unloading.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "unhelpful"
     },
     {
-      "id": "question-1906666-25",
+      "id": "question-1926002-25",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the organiser described the opportunities as endless, with many different ways to help.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. The organiser described the opportunities as endless, with many different ways to help.",
       "options": [
@@ -405,17 +405,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-25",
-      "questionNumber": 23,
+      "questionId": "question-1926002-25",
+      "questionNumber": 22,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The organiser described the opportunities as endless, with many different ways to help.",
       "answer": "limited",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the organiser described the opportunities as endless, with many different ways to help.",
-      "letter": "C",
+      "letter": "D",
       "rightAnswer": "limited"
     },
     {
-      "id": "question-1906666-19",
+      "id": "question-1926002-19",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.mai was hard-working. she put considerable effort into preparing the donated books.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. Mai was hard-working. She put considerable effort into preparing the donated books.",
       "options": [
@@ -423,17 +423,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-19",
-      "questionNumber": 18,
+      "questionId": "question-1926002-19",
+      "questionNumber": 20,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.Mai was hard-working. She put considerable effort into preparing the donated books.",
       "answer": "unwilling to make an effort",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.mai was hard-working. she put considerable effort into preparing the donated books.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "unwilling to make an effort"
     },
     {
-      "id": "question-1906666-18",
+      "id": "question-1926002-18",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the centre needs reliable volunteers who can be trusted to complete agreed duties.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. The centre needs reliable volunteers who can be trusted to complete agreed duties.",
       "options": [
@@ -441,17 +441,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-18",
-      "questionNumber": 16,
+      "questionId": "question-1926002-18",
+      "questionNumber": 18,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The centre needs reliable volunteers who can be trusted to complete agreed duties.",
       "answer": "unreliable",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the centre needs reliable volunteers who can be trusted to complete agreed duties.",
-      "letter": "A",
+      "letter": "B",
       "rightAnswer": "unreliable"
     },
     {
-      "id": "question-1906666-17",
+      "id": "question-1926002-17",
       "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the volunteers travelled for several hours to a remote village, far from the nearest town.",
       "questionRaw": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality. The volunteers travelled for several hours to a remote village, far from the nearest town.",
       "options": [
@@ -459,13 +459,13 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1906666-17",
-      "questionNumber": 21,
+      "questionId": "question-1926002-17",
+      "questionNumber": 17,
       "question": "Choose A, B, C, or D that is OPPOSITE in meaning to the bold target. Do not choose a synonym or merely a different quality.The volunteers travelled for several hours to a remote village, far from the nearest town.",
       "answer": "nearby",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold target. do not choose a synonym or merely a different quality.the volunteers travelled for several hours to a remote village, far from the nearest town.",
-      "letter": "D",
+      "letter": "C",
       "rightAnswer": "nearby"
     }
   ]
