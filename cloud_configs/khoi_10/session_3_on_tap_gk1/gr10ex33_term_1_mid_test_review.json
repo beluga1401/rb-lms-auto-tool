@@ -1,0 +1,632 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Quang Huy",
+    "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+    "class_key": "khoi_10",
+    "grade_num": "10",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR10EX33-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr10ex33_term_1_mid_test_review",
+    "cmid": "739912",
+    "course_id": "11741",
+    "repo_path": "cloud_configs/khoi_10/session_3_on_tap_gk1/gr10ex33_term_1_mid_test_review.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 80,
+    "updated_at": "2026-10-28 21:21:51"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. travel smart week class 10b is preparing a travel smart week to encourage students to think about how their journeys to school affect the environment. one aim is to reduce the school's transport-related (7) .a student team will also (8) of greener ways to travel by sharing short messages and practical suggestions.hundreds of students have already registered for walking groups, so many of them (9) travel to school on foot during the campaign.a map of safe walking and cycling routes (10) on the school website before the week begins.walking or cycling may be convenient for some students; (11) , these choices may not be practical for everyone.students are therefore encouraged to choose the most (12) travel option available to them.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. TRAVEL SMART WEEK Class 10B is preparing a Travel Smart Week to encourage students to think about how their journeys to school affect the environment. One aim is to reduce the school's transport-related (7) {#1}.A student team will also (8) {#2} of greener ways to travel by sharing short messages and practical suggestions.Hundreds of students have already registered for walking groups, so many of them (9) {#3} travel to school on foot during the campaign.A map of safe walking and cycling routes (10) {#4} on the school website before the week begins.Walking or cycling may be convenient for some students; (11) {#5}, these choices may not be practical for everyone.Students are therefore encouraged to choose the most (12) {#6} travel option available to them.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "carbon footprint"
+        },
+        {
+          "index": 1,
+          "value": "raise awareness"
+        },
+        {
+          "index": 2,
+          "value": "are going to"
+        },
+        {
+          "index": 3,
+          "value": "will be displayed"
+        },
+        {
+          "index": 4,
+          "value": "however"
+        },
+        {
+          "index": 5,
+          "value": "eco-friendly"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. TRAVEL SMART WEEK Class 10B is preparing a Travel Smart Week to encourage students to think about how their journeys to school affect the environment. One aim is to reduce the school's transport-related (7) {#1}.A student team will also (8) {#2} of greener ways to travel by sharing short messages and practical suggestions.Hundreds of students have already registered for walking groups, so many of them (9) {#3} travel to school on foot during the campaign.A map of safe walking and cycling routes (10) {#4} on the school website before the week begins.Walking or cycling may be convenient for some students; (11) {#5}, these choices may not be practical for everyone.Students are therefore encouraged to choose the most (12) {#6} travel option available to them.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. a low-waste sports day this year's school sports day will include several changes designed to make the event more (1) .food stalls have agreed to (2) single-use plastic packaging, and students are being encouraged to bring refillable water bottles.the organising committee has already decided where the water stations should go. it (3) two of them beside the gym and one near the football field.“the collection box is almost full,” says lan. minh looks at it and replies, “i hadn't noticed that. i (4) empty it right now.”at the end of the event, bottles and cans (5) before being sent for recycling.the organisers want to reduce unnecessary waste, (6) they are asking everyone to think carefully about what they bring and throw away.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. A LOW-WASTE SPORTS DAY This year's school Sports Day will include several changes designed to make the event more (1) {#1}.Food stalls have agreed to (2) {#2} single-use plastic packaging, and students are being encouraged to bring refillable water bottles.The organising committee has already decided where the water stations should go. It (3) {#3} two of them beside the gym and one near the football field.“The collection box is almost full,” says Lan. Minh looks at it and replies, “I hadn't noticed that. I (4) {#4} empty it right now.”At the end of the event, bottles and cans (5) {#5} before being sent for recycling.The organisers want to reduce unnecessary waste, (6) {#6} they are asking everyone to think carefully about what they bring and throw away.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "sustainable"
+        },
+        {
+          "index": 1,
+          "value": "cut down on"
+        },
+        {
+          "index": 2,
+          "value": "is going to place"
+        },
+        {
+          "index": 3,
+          "value": "will"
+        },
+        {
+          "index": 4,
+          "value": "will be sorted"
+        },
+        {
+          "index": 5,
+          "value": "so"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. A LOW-WASTE SPORTS DAY This year's school Sports Day will include several changes designed to make the event more (1) {#1}.Food stalls have agreed to (2) {#2} single-use plastic packaging, and students are being encouraged to bring refillable water bottles.The organising committee has already decided where the water stations should go. It (3) {#3} two of them beside the gym and one near the football field.“The collection box is almost full,” says Lan. Minh looks at it and replies, “I hadn't noticed that. I (4) {#4} empty it right now.”At the end of the event, bottles and cans (5) {#5} before being sent for recycling.The organisers want to reduce unnecessary waste, (6) {#6} they are asking everyone to think carefully about what they bring and throw away.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a smarter way to water the school garden at the beginning of the dry season, the eco team noticed that the school garden was being watered at different times by different groups. on some days, the same flower bed was watered twice, and a hose was sometimes left running after students had moved to another area. (13) ______.at a meeting, the team agreed on a two-week trial and prepared a watering schedule in advance. (14) ______.before the trial begins, the equipment will also be checked carefully. (15) ______.some students were concerned that a fixed schedule might not work well on unusually hot days. (16) ______.at the end of the trial, the team will compare water use with the condition of the plants. (17) ______.question 13a. they concluded that every class should water the garden more often.b. they suggested replacing the plants with ones that needed more water.c. they decided each class should continue watering whenever it was convenient.d. they decided to test a more organised way of using water.write a, b, c, or d – question 14a. students will probably decide who is responsible after the trial ends.b. two student teams are going to water the garden on alternate mornings.c. the garden is watered by every class whenever students have free time.d. volunteers were watering the garden before the schedule was discussed.write a, b, c, or d – question 15a. a leaking hose will be repaired before the trial begins.b. damaged hoses will remain in use until the project has finished.c. students will use extra water so every flower bed receives the same amount.d. the equipment is going to be removed from the garden during the dry season.write a, b, c, or d – question 16a. therefore, the team cancelled the schedule and returned to the old routine.b. instead, all the plants would be watered twice every day.c. so the team agreed to allow extra watering when the soil became unusually dry.d. as a result, students stopped checking whether the plants needed water.write a, b, c, or d – question 17a. if the plants stay healthy while less water is used, the school will continue the system.b. the team expects all water use to stop once the trial has finished.c. the project will be successful only if the plants grow twice as fast.d. the school will replace the garden even if the system reduces water use.write a, b, c, or d –",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SMARTER WAY TO WATER THE SCHOOL GARDEN At the beginning of the dry season, the Eco Team noticed that the school garden was being watered at different times by different groups. On some days, the same flower bed was watered twice, and a hose was sometimes left running after students had moved to another area. (13) ______.At a meeting, the team agreed on a two-week trial and prepared a watering schedule in advance. (14) ______.Before the trial begins, the equipment will also be checked carefully. (15) ______.Some students were concerned that a fixed schedule might not work well on unusually hot days. (16) ______.At the end of the trial, the team will compare water use with the condition of the plants. (17) ______.Question 13A. They concluded that every class should water the garden more often.B. They suggested replacing the plants with ones that needed more water.C. They decided each class should continue watering whenever it was convenient.D. They decided to test a more organised way of using water.Write A, B, C, or D – {#1}Question 14A. Students will probably decide who is responsible after the trial ends.B. Two student teams are going to water the garden on alternate mornings.C. The garden is watered by every class whenever students have free time.D. Volunteers were watering the garden before the schedule was discussed.Write A, B, C, or D – {#2}Question 15A. A leaking hose will be repaired before the trial begins.B. Damaged hoses will remain in use until the project has finished.C. Students will use extra water so every flower bed receives the same amount.D. The equipment is going to be removed from the garden during the dry season.Write A, B, C, or D – {#3}Question 16A. Therefore, the team cancelled the schedule and returned to the old routine.B. Instead, all the plants would be watered twice every day.C. So the team agreed to allow extra watering when the soil became unusually dry.D. As a result, students stopped checking whether the plants needed water.Write A, B, C, or D – {#4}Question 17A. If the plants stay healthy while less water is used, the school will continue the system.B. The team expects all water use to stop once the trial has finished.C. The project will be successful only if the plants grow twice as fast.D. The school will replace the garden even if the system reduces water use.Write A, B, C, or D – {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        },
+        {
+          "index": 1,
+          "value": "b"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SMARTER WAY TO WATER THE SCHOOL GARDEN At the beginning of the dry season, the Eco Team noticed that the school garden was being watered at different times by different groups. On some days, the same flower bed was watered twice, and a hose was sometimes left running after students had moved to another area. (13) ______.At a meeting, the team agreed on a two-week trial and prepared a watering schedule in advance. (14) ______.Before the trial begins, the equipment will also be checked carefully. (15) ______.Some students were concerned that a fixed schedule might not work well on unusually hot days. (16) ______.At the end of the trial, the team will compare water use with the condition of the plants. (17) ______.Question 13A. They concluded that every class should water the garden more often.B. They suggested replacing the plants with ones that needed more water.C. They decided each class should continue watering whenever it was convenient.D. They decided to test a more organised way of using water.Write A, B, C, or D – {#1}Question 14A. Students will probably decide who is responsible after the trial ends.B. Two student teams are going to water the garden on alternate mornings.C. The garden is watered by every class whenever students have free time.D. Volunteers were watering the garden before the schedule was discussed.Write A, B, C, or D – {#2}Question 15A. A leaking hose will be repaired before the trial begins.B. Damaged hoses will remain in use until the project has finished.C. Students will use extra water so every flower bed receives the same amount.D. The equipment is going to be removed from the garden during the dry season.Write A, B, C, or D – {#3}Question 16A. Therefore, the team cancelled the schedule and returned to the old routine.B. Instead, all the plants would be watered twice every day.C. So the team agreed to allow extra watering when the soil became unusually dry.D. As a result, students stopped checking whether the plants needed water.Write A, B, C, or D – {#4}Question 17A. If the plants stay healthy while less water is used, the school will continue the system.B. The team expects all water use to stop once the trial has finished.C. The project will be successful only if the plants grow twice as fast.D. The school will replace the garden even if the system reduces water use.Write A, B, C, or D – {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. these signs can be stored and used again at future school events.b. reusing them in this way would reduce the need to print new signs each time.c. one way to make school events greener is to use reusable signs.d. this repeated use could also save some of the money normally spent on materials.a. a – b – c – db. c – b – d – ac. c – a – b – dd. b – c – a – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. These signs can be stored and used again at future school events.b. Reusing them in this way would reduce the need to print new signs each time.c. One way to make school events greener is to use reusable signs.d. This repeated use could also save some of the money normally spent on materials.A. a – b – c – dB. c – b – d – aC. c – a – b – dD. b – c – a – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. These signs can be stored and used again at future school events.b. Reusing them in this way would reduce the need to print new signs each time.c. One way to make school events greener is to use reusable signs.d. This repeated use could also save some of the money normally spent on materials.A. a – b – c – dB. c – b – d – aC. c – a – b – dD. b – c – a – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. minh: good idea. then we should ask everyone to label the books clearly by subject.b. minh: we need a simple way to organise the book swap next friday.c. lan: yes. that will make it much easier for students to find what they need.d. lan: how about using separate tables for different subjects?a. d – a – b – cb. b – d – a – cc. b – a – c – dd. a – c – b – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Minh: Good idea. Then we should ask everyone to label the books clearly by subject.b. Minh: We need a simple way to organise the book swap next Friday.c. Lan: Yes. That will make it much easier for students to find what they need.d. Lan: How about using separate tables for different subjects?A. d – a – b – cB. b – d – a – cC. b – a – c – dD. a – c – b – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Minh: Good idea. Then we should ask everyone to label the books clearly by subject.b. Minh: We need a simple way to organise the book swap next Friday.c. Lan: Yes. That will make it much easier for students to find what they need.d. Lan: How about using separate tables for different subjects?A. d – a – b – cB. b – d – a – cC. b – a – c – dD. a – c – b – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. a tray was then placed beside the printer for sheets that still had one blank side.b. our class noticed that a lot of paper was being thrown away after small printing mistakes.c. students began using those sheets for notes, drafts, and short classroom activities.d. as a result, less usable paper was discarded each week.a. a – c – b – db. b – c – a – dc. c – b – d – ad. b – a – c – d write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. A tray was then placed beside the printer for sheets that still had one blank side.b. Our class noticed that a lot of paper was being thrown away after small printing mistakes.c. Students began using those sheets for notes, drafts, and short classroom activities.d. As a result, less usable paper was discarded each week.A. a – c – b – dB. b – c – a – dC. c – b – d – aD. b – a – c – d Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. A tray was then placed beside the printer for sheets that still had one blank side.b. Our class noticed that a lot of paper was being thrown away after small printing mistakes.c. Students began using those sheets for notes, drafts, and short classroom activities.d. As a result, less usable paper was discarded each week.A. a – c – b – dB. b – c – a – dC. c – b – d – aD. b – a – c – d Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. gloves and small gardening tools will be provided at the meeting point.b. hi everyone,c. our green club is organising a tree-planting morning in the school garden this saturday.d. please meet at the main gate at 7:30 so we can start together.a. b – c – d – ab. c – b – a – dc. b – d – c – ad. d – a – b – c write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Gloves and small gardening tools will be provided at the meeting point.b. Hi everyone,c. Our Green Club is organising a tree-planting morning in the school garden this Saturday.d. Please meet at the main gate at 7:30 so we can start together.A. b – c – d – aB. c – b – a – dC. b – d – c – aD. d – a – b – c Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Gloves and small gardening tools will be provided at the meeting point.b. Hi everyone,c. Our Green Club is organising a tree-planting morning in the school garden this Saturday.d. Please meet at the main gate at 7:30 so we can start together.A. b – c – d – aB. c – b – a – dC. b – d – c – aD. d – a – b – c Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. hoa: i often buy bottled drinks because i forget my reusable bottle.b. nam: why don't you keep one in your school bag?c. hoa: that could work. then i wouldn't need to remember it every morning.d. nam: exactly. you could wash and refill it when you get home.a. b – a – d – cb. a – c – b – dc. a – b – c – dd. c – d – a – b write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Hoa: I often buy bottled drinks because I forget my reusable bottle.b. Nam: Why don't you keep one in your school bag?c. Hoa: That could work. Then I wouldn't need to remember it every morning.d. Nam: Exactly. You could wash and refill it when you get home.A. b – a – d – cB. a – c – b – dC. a – b – c – dD. c – d – a – b Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Hoa: I often buy bottled drinks because I forget my reusable bottle.b. Nam: Why don't you keep one in your school bag?c. Hoa: That could work. Then I wouldn't need to remember it every morning.d. Nam: Exactly. You could wash and refill it when you get home.A. b – a – d – cB. a – c – b – dC. a – b – c – dD. c – d – a – b Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23what is the main idea of the passage?a. students were asked to buy fewer school supplies during each term.b. a reuse project kept useful school supplies in use longer.c. a library replaced damaged materials with new supplies for students.d. older students were more interested in recycling than younger students.write a, b, c, or d – question 24the word discarded in paragraph 1 is closest in meaning to ______.a. stored awayb. fixed upc. traded awayd. thrown awaywrite a, b, c, or d – question 25the phrase this surprised the organisers in paragraph 2 refers to the fact that ______.a. older students also made use of the shared shelfb. volunteers checked each item before putting it on the shelfc. students could take the supplies without paying any moneyd. younger students needed extra materials for their class projectswrite a, b, c, or d – question 26according to paragraph 2, what happened before an item was placed on the shelf?a. its original owner completed a short form.b. a teacher decided which student should receive it.c. a volunteer checked its condition and cleanliness.d. the librarian compared it with newly purchased supplies.write a, b, c, or d – question 27which of the following is not true according to the passage?a. some students were initially concerned about the quality of donated items.b. the organisers originally expected younger students to use the shelf most.c. students could take useful supplies from the shelf without paying for them.d. the council expected reuse to completely replace buying new supplies.write a, b, c, or d – question 28which statement best paraphrases the librarian's view in paragraph 3?a. the shelf succeeded because students were given detailed instructions before using it.b. simple access helped make the project useful to students.c. the project worked mainly because the library provided new materials regularly.d. students used the shelf because donated supplies were better than new ones.write a, b, c, or d – question 29in which paragraph does the writer mention students' concern about the condition of donated materials?a. paragraph 1b. paragraph 4c. paragraph 3d. paragraph 2write a, b, c, or d – question 30what can be inferred about the shared shelf project?a. making a green action convenient may encourage more people to take part.b. students are likely to stop buying all new school supplies next term.c. the project works mainly because older students donate more than others.d. reuse projects are successful only when students receive rewards for joining.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23What is the main idea of the passage?A. Students were asked to buy fewer school supplies during each term.B. A reuse project kept useful school supplies in use longer.C. A library replaced damaged materials with new supplies for students.D. Older students were more interested in recycling than younger students.Write A, B, C, or D – {#1}Question 24The word discarded in paragraph 1 is closest in meaning to ______.A. stored awayB. fixed upC. traded awayD. thrown awayWrite A, B, C, or D – {#2}Question 25The phrase This surprised the organisers in paragraph 2 refers to the fact that ______.A. older students also made use of the Shared ShelfB. volunteers checked each item before putting it on the shelfC. students could take the supplies without paying any moneyD. younger students needed extra materials for their class projectsWrite A, B, C, or D – {#3}Question 26According to paragraph 2, what happened before an item was placed on the shelf?A. Its original owner completed a short form.B. A teacher decided which student should receive it.C. A volunteer checked its condition and cleanliness.D. The librarian compared it with newly purchased supplies.Write A, B, C, or D – {#4}Question 27Which of the following is NOT TRUE according to the passage?A. Some students were initially concerned about the quality of donated items.B. The organisers originally expected younger students to use the shelf most.C. Students could take useful supplies from the shelf without paying for them.D. The council expected reuse to completely replace buying new supplies.Write A, B, C, or D – {#5}Question 28Which statement best paraphrases the librarian's view in paragraph 3?A. The shelf succeeded because students were given detailed instructions before using it.B. Simple access helped make the project useful to students.C. The project worked mainly because the library provided new materials regularly.D. Students used the shelf because donated supplies were better than new ones.Write A, B, C, or D – {#6}Question 29In which paragraph does the writer mention students' concern about the condition of donated materials?A. Paragraph 1B. Paragraph 4C. Paragraph 3D. Paragraph 2Write A, B, C, or D – {#7}Question 30What can be inferred about the Shared Shelf project?A. Making a green action convenient may encourage more people to take part.B. Students are likely to stop buying all new school supplies next term.C. The project works mainly because older students donate more than others.D. Reuse projects are successful only when students receive rewards for joining.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "c"
+        },
+        {
+          "index": 7,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23What is the main idea of the passage?A. Students were asked to buy fewer school supplies during each term.B. A reuse project kept useful school supplies in use longer.C. A library replaced damaged materials with new supplies for students.D. Older students were more interested in recycling than younger students.Write A, B, C, or D – {#1}Question 24The word discarded in paragraph 1 is closest in meaning to ______.A. stored awayB. fixed upC. traded awayD. thrown awayWrite A, B, C, or D – {#2}Question 25The phrase This surprised the organisers in paragraph 2 refers to the fact that ______.A. older students also made use of the Shared ShelfB. volunteers checked each item before putting it on the shelfC. students could take the supplies without paying any moneyD. younger students needed extra materials for their class projectsWrite A, B, C, or D – {#3}Question 26According to paragraph 2, what happened before an item was placed on the shelf?A. Its original owner completed a short form.B. A teacher decided which student should receive it.C. A volunteer checked its condition and cleanliness.D. The librarian compared it with newly purchased supplies.Write A, B, C, or D – {#4}Question 27Which of the following is NOT TRUE according to the passage?A. Some students were initially concerned about the quality of donated items.B. The organisers originally expected younger students to use the shelf most.C. Students could take useful supplies from the shelf without paying for them.D. The council expected reuse to completely replace buying new supplies.Write A, B, C, or D – {#5}Question 28Which statement best paraphrases the librarian's view in paragraph 3?A. The shelf succeeded because students were given detailed instructions before using it.B. Simple access helped make the project useful to students.C. The project worked mainly because the library provided new materials regularly.D. Students used the shelf because donated supplies were better than new ones.Write A, B, C, or D – {#6}Question 29In which paragraph does the writer mention students' concern about the condition of donated materials?A. Paragraph 1B. Paragraph 4C. Paragraph 3D. Paragraph 2Write A, B, C, or D – {#7}Question 30What can be inferred about the Shared Shelf project?A. Making a green action convenient may encourage more people to take part.B. Students are likely to stop buying all new school supplies next term.C. The project works mainly because older students donate more than others.D. Reuse projects are successful only when students receive rewards for joining.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31the word monitor in paragraph 1 is closest in meaning to ______.a. remove fullyb. watch regularlyc. explain publiclyd. change quicklywrite a, b, c, or d – question 32according to paragraph 2, what change did the students suggest?a. giving everyone the same smaller meal each dayb. replacing the school menu with completely different foodc. asking students to bring their own lunches from homed. offering smaller portions first, with more available if neededwrite a, b, c, or d – question 33the phrase this result in paragraph 3 refers to ______.a. students asking the canteen to provide completely different mealsb. the canteen staff deciding to end the trial after two weeksc. less waste while students could still get extra foodd. some students saying that they had too little time for lunchwrite a, b, c, or d – question 34which statement best paraphrases the main point of paragraph 4?a. changing the situation around a habit may work better than advice alone.b. environmental posters are always more effective than practical changes.c. students should be told exactly how much food they are allowed to eat.d. the team believed food waste resulted only from students' poor choices.write a, b, c, or d – question 35which principle would the team most likely apply to another environmental project?a. make environmental rules stricter whenever people do not change quickly.b. remove practical choices so everyone follows exactly the same green behaviour.c. focus on advice before changing the conditions around people's behaviour.d. make greener choices easier without unnecessarily limiting people's options.write a, b, c, or d – question 36where in paragraph 5 does the following sentence best fit?without a common method, two groups could describe similar waste levels in very different ways.a. [iii]b. [i]c. [iv]d. [ii]write a, b, c, or d – question 37what is the main purpose of paragraph 5?a. to identify a measurement problem and explain how it may be improvedb. to show that the students collected enough data to end the projectc. to explain why counting food containers is better than weighing wasted. to compare the lunch habits of students in several different schoolswrite a, b, c, or d – question 38which of the following is not supported by the passage?a. some students said they did not always have enough time to finish lunch.b. students could request more food after choosing a smaller first portion.c. the trial required all students to eat smaller meals throughout the day.d. the team plans to use a more consistent measuring method in future.write a, b, c, or d – question 39which of the following best summarises the passage?a. students reduced food waste mainly by warning classmates to finish the meals they received.b. students used evidence and flexible portions to reduce food waste and improve future projects.c. the school reduced lunch waste by changing the menu and shortening the lunch period.d. students concluded that measuring food waste mattered more than changing how meals were served.write a, b, c, or d – question 40which title best fits the passage?a. why students should always finish everything on their platesb. measuring school waste: the only way to protect the environmentc. why school canteens should serve the same portion to everyoned. less waste, more choice: rethinking school lunch portionswrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31The word monitor in paragraph 1 is closest in meaning to ______.A. remove fullyB. watch regularlyC. explain publiclyD. change quicklyWrite A, B, C, or D – {#1}Question 32According to paragraph 2, what change did the students suggest?A. Giving everyone the same smaller meal each dayB. Replacing the school menu with completely different foodC. Asking students to bring their own lunches from homeD. Offering smaller portions first, with more available if neededWrite A, B, C, or D – {#2}Question 33The phrase This result in paragraph 3 refers to ______.A. students asking the canteen to provide completely different mealsB. the canteen staff deciding to end the trial after two weeksC. less waste while students could still get extra foodD. some students saying that they had too little time for lunchWrite A, B, C, or D – {#3}Question 34Which statement best paraphrases the main point of paragraph 4?A. Changing the situation around a habit may work better than advice alone.B. Environmental posters are always more effective than practical changes.C. Students should be told exactly how much food they are allowed to eat.D. The team believed food waste resulted only from students' poor choices.Write A, B, C, or D – {#4}Question 35Which principle would the team most likely apply to another environmental project?A. Make environmental rules stricter whenever people do not change quickly.B. Remove practical choices so everyone follows exactly the same green behaviour.C. Focus on advice before changing the conditions around people's behaviour.D. Make greener choices easier without unnecessarily limiting people's options.Write A, B, C, or D – {#5}Question 36Where in paragraph 5 does the following sentence best fit?Without a common method, two groups could describe similar waste levels in very different ways.A. [III]B. [I]C. [IV]D. [II]Write A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 5?A. To identify a measurement problem and explain how it may be improvedB. To show that the students collected enough data to end the projectC. To explain why counting food containers is better than weighing wasteD. To compare the lunch habits of students in several different schoolsWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Some students said they did not always have enough time to finish lunch.B. Students could request more food after choosing a smaller first portion.C. The trial required all students to eat smaller meals throughout the day.D. The team plans to use a more consistent measuring method in future.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. Students reduced food waste mainly by warning classmates to finish the meals they received.B. Students used evidence and flexible portions to reduce food waste and improve future projects.C. The school reduced lunch waste by changing the menu and shortening the lunch period.D. Students concluded that measuring food waste mattered more than changing how meals were served.Write A, B, C, or D – {#9}Question 40Which title best fits the passage?A. Why Students Should Always Finish Everything on Their PlatesB. Measuring School Waste: The Only Way to Protect the EnvironmentC. Why School Canteens Should Serve the Same Portion to EveryoneD. Less Waste, More Choice: Rethinking School Lunch PortionsWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "b"
+        },
+        {
+          "index": 9,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31The word monitor in paragraph 1 is closest in meaning to ______.A. remove fullyB. watch regularlyC. explain publiclyD. change quicklyWrite A, B, C, or D – {#1}Question 32According to paragraph 2, what change did the students suggest?A. Giving everyone the same smaller meal each dayB. Replacing the school menu with completely different foodC. Asking students to bring their own lunches from homeD. Offering smaller portions first, with more available if neededWrite A, B, C, or D – {#2}Question 33The phrase This result in paragraph 3 refers to ______.A. students asking the canteen to provide completely different mealsB. the canteen staff deciding to end the trial after two weeksC. less waste while students could still get extra foodD. some students saying that they had too little time for lunchWrite A, B, C, or D – {#3}Question 34Which statement best paraphrases the main point of paragraph 4?A. Changing the situation around a habit may work better than advice alone.B. Environmental posters are always more effective than practical changes.C. Students should be told exactly how much food they are allowed to eat.D. The team believed food waste resulted only from students' poor choices.Write A, B, C, or D – {#4}Question 35Which principle would the team most likely apply to another environmental project?A. Make environmental rules stricter whenever people do not change quickly.B. Remove practical choices so everyone follows exactly the same green behaviour.C. Focus on advice before changing the conditions around people's behaviour.D. Make greener choices easier without unnecessarily limiting people's options.Write A, B, C, or D – {#5}Question 36Where in paragraph 5 does the following sentence best fit?Without a common method, two groups could describe similar waste levels in very different ways.A. [III]B. [I]C. [IV]D. [II]Write A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 5?A. To identify a measurement problem and explain how it may be improvedB. To show that the students collected enough data to end the projectC. To explain why counting food containers is better than weighing wasteD. To compare the lunch habits of students in several different schoolsWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Some students said they did not always have enough time to finish lunch.B. Students could request more food after choosing a smaller first portion.C. The trial required all students to eat smaller meals throughout the day.D. The team plans to use a more consistent measuring method in future.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. Students reduced food waste mainly by warning classmates to finish the meals they received.B. Students used evidence and flexible portions to reduce food waste and improve future projects.C. The school reduced lunch waste by changing the menu and shortening the lunch period.D. Students concluded that measuring food waste mattered more than changing how meals were served.Write A, B, C, or D – {#9}Question 40Which title best fits the passage?A. Why Students Should Always Finish Everything on Their PlatesB. Measuring School Waste: The Only Way to Protect the EnvironmentC. Why School Canteens Should Serve the Same Portion to EveryoneD. Less Waste, More Choice: Rethinking School Lunch PortionsWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "D. carbon footprint",
+      "id": "question-1908718-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. travel smart week class 10b is preparing a travel smart week to encourage students to think about how their journeys to school affect the environment. one aim is to reduce the school's transport-related (7) {#1}.a student team will also (8) {#2} of greener ways to travel by sharing short messages and practical suggestions.hundreds of students have already registered for walking groups, so many of them (9) {#3} travel to school on foot during the campaign.a map of safe walking and cycling routes (10) {#4} on the school website before the week begins.walking or cycling may be convenient for some students; (11) {#5}, these choices may not be practical for everyone.students are therefore encouraged to choose the most (12) {#6} travel option available to them.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. TRAVEL SMART WEEK Class 10B is preparing a Travel Smart Week to encourage students to think about how their journeys to school affect the environment. One aim is to reduce the school's transport-related (7) [Blank 7] .A student team will also (8) [Blank 8] of greener ways to travel by sharing short messages and practical suggestions.Hundreds of students have already registered for walking groups, so many of them (9) [Blank 9] travel to school on foot during the campaign.A map of safe walking and cycling routes (10) [Blank 10] on the school website before the week begins.Walking or cycling may be convenient for some students; (11) [Blank 11] , these choices may not be practical for everyone.Students are therefore encouraged to choose the most (12) [Blank 12] travel option available to them.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.household applianceB.natural resourceC.litterD.carbon footprintÔ (8):A.clean upB.raise awarenessC.protect resourcesD.reduce wasteÔ (9):A.wouldB.will beC.are going toD.used toÔ (10):A.is displayingB.displaysC.will be displayedD.will displayÔ (11):A.howeverB.thereforeC.becauseD.soÔ (12):A.expensiveB.privateC.eco-friendlyD.harmful",
+      "questionId": "question-1908718-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. travel smart week class 10b is preparing a travel smart week to encourage students to think about how their journeys to school affect the environment. one aim is to reduce the school's transport-related (7) [blank 7] .a student team will also (8) [blank 8] of greener ways to travel by sharing short messages and practical suggestions.hundreds of students have already registered for walking groups, so many of them (9) [blank 9] travel to school on foot during the campaign.a map of safe walking and cycling routes (10) [blank 10] on the school website before the week begins.walking or cycling may be convenient for some students; (11) [blank 11] , these choices may not be practical for everyone.students are therefore encouraged to choose the most (12) [blank 12] travel option available to them.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.household applianceb.natural resourcec.litterd.carbon footprintô (8):a.clean upb.raise awarenessc.protect resourcesd.reduce wasteô (9):a.wouldb.will bec.are going tod.used toô (10):a.is displayingb.displaysc.will be displayedd.will displayô (11):a.howeverb.thereforec.becaused.soô (12):a.expensiveb.privatec.eco-friendlyd.harmful",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. carbon footprint"
+        },
+        {
+          "index": 1,
+          "value": "B. raise awareness"
+        },
+        {
+          "index": 2,
+          "value": "C. are going to"
+        },
+        {
+          "index": 3,
+          "value": "C. will be displayed"
+        },
+        {
+          "index": 4,
+          "value": "A. however"
+        },
+        {
+          "index": 5,
+          "value": "C. eco-friendly"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A. sustainable",
+      "id": "question-1908718-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. a low-waste sports day this year's school sports day will include several changes designed to make the event more (1) {#1}.food stalls have agreed to (2) {#2} single-use plastic packaging, and students are being encouraged to bring refillable water bottles.the organising committee has already decided where the water stations should go. it (3) {#3} two of them beside the gym and one near the football field.\"the collection box is almost full,\" says lan. minh looks at it and replies, \"i hadn't noticed that. i (4) {#4} empty it right now.\"at the end of the event, bottles and cans (5) {#5} before being sent for recycling.the organisers want to reduce unnecessary waste, (6) {#6} they are asking everyone to think carefully about what they bring and throw away.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. A LOW-WASTE SPORTS DAY This year's school Sports Day will include several changes designed to make the event more (1) [Blank 1] .Food stalls have agreed to (2) [Blank 2] single-use plastic packaging, and students are being encouraged to bring refillable water bottles.The organising committee has already decided where the water stations should go. It (3) [Blank 3] two of them beside the gym and one near the football field.\"The collection box is almost full,\" says Lan. Minh looks at it and replies, \"I hadn't noticed that. I (4) [Blank 4] empty it right now.\"At the end of the event, bottles and cans (5) [Blank 5] before being sent for recycling.The organisers want to reduce unnecessary waste, (6) [Blank 6] they are asking everyone to think carefully about what they bring and throw away.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.sustainableB.traditionalC.crowdedD.temporaryÔ (2):A.set upB.cut down onC.take part inD.raise awareness ofÔ (3):A.is going to placeB.placedC.placesD.will be placedÔ (4):A.is going toB.wasC.willD.amÔ (5):A.will be sortedB.have sortedC.are sortingD.sortÔ (6):A.howeverB.unlessC.soD.although",
+      "questionId": "question-1908718-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. a low-waste sports day this year's school sports day will include several changes designed to make the event more (1) [blank 1] .food stalls have agreed to (2) [blank 2] single-use plastic packaging, and students are being encouraged to bring refillable water bottles.the organising committee has already decided where the water stations should go. it (3) [blank 3] two of them beside the gym and one near the football field.\"the collection box is almost full,\" says lan. minh looks at it and replies, \"i hadn't noticed that. i (4) [blank 4] empty it right now.\"at the end of the event, bottles and cans (5) [blank 5] before being sent for recycling.the organisers want to reduce unnecessary waste, (6) [blank 6] they are asking everyone to think carefully about what they bring and throw away.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.sustainableb.traditionalc.crowdedd.temporaryô (2):a.set upb.cut down onc.take part ind.raise awareness ofô (3):a.is going to placeb.placedc.placesd.will be placedô (4):a.is going tob.wasc.willd.amô (5):a.will be sortedb.have sortedc.are sortingd.sortô (6):a.howeverb.unlessc.sod.although",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. sustainable"
+        },
+        {
+          "index": 1,
+          "value": "B. cut down on"
+        },
+        {
+          "index": 2,
+          "value": "A. is going to place"
+        },
+        {
+          "index": 3,
+          "value": "C. will"
+        },
+        {
+          "index": 4,
+          "value": "A. will be sorted"
+        },
+        {
+          "index": 5,
+          "value": "C. so"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1908718-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        },
+        {
+          "index": 1,
+          "value": "b"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a smarter way to water the school garden at the beginning of the dry season, the eco team noticed that the school garden was being watered at different times by different groups. on some days, the same flower bed was watered twice, and a hose was sometimes left running after students had moved to another area. (13) ______.at a meeting, the team agreed on a two-week trial and prepared a watering schedule in advance. (14) ______.before the trial begins, the equipment will also be checked carefully. (15) ______.some students were concerned that a fixed schedule might not work well on unusually hot days. (16) ______.at the end of the trial, the team will compare water use with the condition of the plants. (17) ______.question 13a. they concluded that every class should water the garden more often.b. they suggested replacing the plants with ones that needed more water.c. they decided each class should continue watering whenever it was convenient.d. they decided to test a more organised way of using water.write a, b, c, or d – {#1}question 14a. students will probably decide who is responsible after the trial ends.b. two student teams are going to water the garden on alternate mornings.c. the garden is watered by every class whenever students have free time.d. volunteers were watering the garden before the schedule was discussed.write a, b, c, or d – {#2}question 15a. a leaking hose will be repaired before the trial begins.b. damaged hoses will remain in use until the project has finished.c. students will use extra water so every flower bed receives the same amount.d. the equipment is going to be removed from the garden during the dry season.write a, b, c, or d – {#3}question 16a. therefore, the team cancelled the schedule and returned to the old routine.b. instead, all the plants would be watered twice every day.c. so the team agreed to allow extra watering when the soil became unusually dry.d. as a result, students stopped checking whether the plants needed water.write a, b, c, or d – {#4}question 17a. if the plants stay healthy while less water is used, the school will continue the system.b. the team expects all water use to stop once the trial has finished.c. the project will be successful only if the plants grow twice as fast.d. the school will replace the garden even if the system reduces water use.write a, b, c, or d – {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SMARTER WAY TO WATER THE SCHOOL GARDEN At the beginning of the dry season, the Eco Team noticed that the school garden was being watered at different times by different groups. On some days, the same flower bed was watered twice, and a hose was sometimes left running after students had moved to another area. (13) ______.At a meeting, the team agreed on a two-week trial and prepared a watering schedule in advance. (14) ______.Before the trial begins, the equipment will also be checked carefully. (15) ______.Some students were concerned that a fixed schedule might not work well on unusually hot days. (16) ______.At the end of the trial, the team will compare water use with the condition of the plants. (17) ______.Question 13A. They concluded that every class should water the garden more often.B. They suggested replacing the plants with ones that needed more water.C. They decided each class should continue watering whenever it was convenient.D. They decided to test a more organised way of using water.Write A, B, C, or D – {#1}Question 14A. Students will probably decide who is responsible after the trial ends.B. Two student teams are going to water the garden on alternate mornings.C. The garden is watered by every class whenever students have free time.D. Volunteers were watering the garden before the schedule was discussed.Write A, B, C, or D – {#2}Question 15A. A leaking hose will be repaired before the trial begins.B. Damaged hoses will remain in use until the project has finished.C. Students will use extra water so every flower bed receives the same amount.D. The equipment is going to be removed from the garden during the dry season.Write A, B, C, or D – {#3}Question 16A. Therefore, the team cancelled the schedule and returned to the old routine.B. Instead, all the plants would be watered twice every day.C. So the team agreed to allow extra watering when the soil became unusually dry.D. As a result, students stopped checking whether the plants needed water.Write A, B, C, or D – {#4}Question 17A. If the plants stay healthy while less water is used, the school will continue the system.B. The team expects all water use to stop once the trial has finished.C. The project will be successful only if the plants grow twice as fast.D. The school will replace the garden even if the system reduces water use.Write A, B, C, or D – {#5}",
+      "questionId": "question-1908718-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a smarter way to water the school garden at the beginning of the dry season, the eco team noticed that the school garden was being watered at different times by different groups. on some days, the same flower bed was watered twice, and a hose was sometimes left running after students had moved to another area. (13) ______.at a meeting, the team agreed on a two-week trial and prepared a watering schedule in advance. (14) ______.before the trial begins, the equipment will also be checked carefully. (15) ______.some students were concerned that a fixed schedule might not work well on unusually hot days. (16) ______.at the end of the trial, the team will compare water use with the condition of the plants. (17) ______.question 13a. they concluded that every class should water the garden more often.b. they suggested replacing the plants with ones that needed more water.c. they decided each class should continue watering whenever it was convenient.d. they decided to test a more organised way of using water.write a, b, c, or d – {#1}question 14a. students will probably decide who is responsible after the trial ends.b. two student teams are going to water the garden on alternate mornings.c. the garden is watered by every class whenever students have free time.d. volunteers were watering the garden before the schedule was discussed.write a, b, c, or d – {#2}question 15a. a leaking hose will be repaired before the trial begins.b. damaged hoses will remain in use until the project has finished.c. students will use extra water so every flower bed receives the same amount.d. the equipment is going to be removed from the garden during the dry season.write a, b, c, or d – {#3}question 16a. therefore, the team cancelled the schedule and returned to the old routine.b. instead, all the plants would be watered twice every day.c. so the team agreed to allow extra watering when the soil became unusually dry.d. as a result, students stopped checking whether the plants needed water.write a, b, c, or d – {#4}question 17a. if the plants stay healthy while less water is used, the school will continue the system.b. the team expects all water use to stop once the trial has finished.c. the project will be successful only if the plants grow twice as fast.d. the school will replace the garden even if the system reduces water use.write a, b, c, or d – {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1908718-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. hoa: i often buy bottled drinks because i forget my reusable bottle.b. nam: why don't you keep one in your school bag?c. hoa: that could work. then i wouldn't need to remember it every morning.d. nam: exactly. you could wash and refill it when you get home.a. b – a – d – cb. a – c – b – dc. a – b – c – dd. c – d – a – b write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Hoa: I often buy bottled drinks because I forget my reusable bottle.b. Nam: Why don't you keep one in your school bag?c. Hoa: That could work. Then I wouldn't need to remember it every morning.d. Nam: Exactly. You could wash and refill it when you get home.A. b – a – d – cB. a – c – b – dC. a – b – c – dD. c – d – a – b Write A, B, C, or D – {#1}",
+      "questionId": "question-1908718-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. hoa: i often buy bottled drinks because i forget my reusable bottle.b. nam: why don't you keep one in your school bag?c. hoa: that could work. then i wouldn't need to remember it every morning.d. nam: exactly. you could wash and refill it when you get home.a. b – a – d – cb. a – c – b – dc. a – b – c – dd. c – d – a – b write a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1908718-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. gloves and small gardening tools will be provided at the meeting point.b. hi everyone,c. our green club is organising a tree-planting morning in the school garden this saturday.d. please meet at the main gate at 7:30 so we can start together.a. b – c – d – ab. c – b – a – dc. b – d – c – ad. d – a – b – c write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Gloves and small gardening tools will be provided at the meeting point.b. Hi everyone,c. Our Green Club is organising a tree-planting morning in the school garden this Saturday.d. Please meet at the main gate at 7:30 so we can start together.A. b – c – d – aB. c – b – a – dC. b – d – c – aD. d – a – b – c Write A, B, C, or D – {#1}",
+      "questionId": "question-1908718-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. gloves and small gardening tools will be provided at the meeting point.b. hi everyone,c. our green club is organising a tree-planting morning in the school garden this saturday.d. please meet at the main gate at 7:30 so we can start together.a. b – c – d – ab. c – b – a – dc. b – d – c – ad. d – a – b – c write a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1908718-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. minh: good idea. then we should ask everyone to label the books clearly by subject.b. minh: we need a simple way to organise the book swap next friday.c. lan: yes. that will make it much easier for students to find what they need.d. lan: how about using separate tables for different subjects?a. d – a – b – cb. b – d – a – cc. b – a – c – dd. a – c – b – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Minh: Good idea. Then we should ask everyone to label the books clearly by subject.b. Minh: We need a simple way to organise the book swap next Friday.c. Lan: Yes. That will make it much easier for students to find what they need.d. Lan: How about using separate tables for different subjects?A. d – a – b – cB. b – d – a – cC. b – a – c – dD. a – c – b – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1908718-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. minh: good idea. then we should ask everyone to label the books clearly by subject.b. minh: we need a simple way to organise the book swap next friday.c. lan: yes. that will make it much easier for students to find what they need.d. lan: how about using separate tables for different subjects?a. d – a – b – cb. b – d – a – cc. b – a – c – dd. a – c – b – d write a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1908718-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. these signs can be stored and used again at future school events.b. reusing them in this way would reduce the need to print new signs each time.c. one way to make school events greener is to use reusable signs.d. this repeated use could also save some of the money normally spent on materials.a. a – b – c – db. c – b – d – ac. c – a – b – dd. b – c – a – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. These signs can be stored and used again at future school events.b. Reusing them in this way would reduce the need to print new signs each time.c. One way to make school events greener is to use reusable signs.d. This repeated use could also save some of the money normally spent on materials.A. a – b – c – dB. c – b – d – aC. c – a – b – dD. b – c – a – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1908718-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. these signs can be stored and used again at future school events.b. reusing them in this way would reduce the need to print new signs each time.c. one way to make school events greener is to use reusable signs.d. this repeated use could also save some of the money normally spent on materials.a. a – b – c – db. c – b – d – ac. c – a – b – dd. b – c – a – d write a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1908718-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. a tray was then placed beside the printer for sheets that still had one blank side.b. our class noticed that a lot of paper was being thrown away after small printing mistakes.c. students began using those sheets for notes, drafts, and short classroom activities.d. as a result, less usable paper was discarded each week.a. a – c – b – db. b – c – a – dc. c – b – d – ad. b – a – c – d write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. A tray was then placed beside the printer for sheets that still had one blank side.b. Our class noticed that a lot of paper was being thrown away after small printing mistakes.c. Students began using those sheets for notes, drafts, and short classroom activities.d. As a result, less usable paper was discarded each week.A. a – c – b – dB. b – c – a – dC. c – b – d – aD. b – a – c – d Write A, B, C, or D – {#1}",
+      "questionId": "question-1908718-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. a tray was then placed beside the printer for sheets that still had one blank side.b. our class noticed that a lot of paper was being thrown away after small printing mistakes.c. students began using those sheets for notes, drafts, and short classroom activities.d. as a result, less usable paper was discarded each week.a. a – c – b – db. b – c – a – dc. c – b – d – ad. b – a – c – d write a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1908718-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "b"
+        },
+        {
+          "index": 9,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31the word monitor in paragraph 1 is closest in meaning to ______.a. remove fullyb. watch regularlyc. explain publiclyd. change quicklywrite a, b, c, or d – {#1}question 32according to paragraph 2, what change did the students suggest?a. giving everyone the same smaller meal each dayb. replacing the school menu with completely different foodc. asking students to bring their own lunches from homed. offering smaller portions first, with more available if neededwrite a, b, c, or d – {#2}question 33the phrase this result in paragraph 3 refers to ______.a. students asking the canteen to provide completely different mealsb. the canteen staff deciding to end the trial after two weeksc. less waste while students could still get extra foodd. some students saying that they had too little time for lunchwrite a, b, c, or d – {#3}question 34which statement best paraphrases the main point of paragraph 4?a. changing the situation around a habit may work better than advice alone.b. environmental posters are always more effective than practical changes.c. students should be told exactly how much food they are allowed to eat.d. the team believed food waste resulted only from students' poor choices.write a, b, c, or d – {#4}question 35which principle would the team most likely apply to another environmental project?a. make environmental rules stricter whenever people do not change quickly.b. remove practical choices so everyone follows exactly the same green behaviour.c. focus on advice before changing the conditions around people's behaviour.d. make greener choices easier without unnecessarily limiting people's options.write a, b, c, or d – {#5}question 36where in paragraph 5 does the following sentence best fit?without a common method, two groups could describe similar waste levels in very different ways.a. [iii]b. [i]c. [iv]d. [ii]write a, b, c, or d – {#6}question 37what is the main purpose of paragraph 5?a. to identify a measurement problem and explain how it may be improvedb. to show that the students collected enough data to end the projectc. to explain why counting food containers is better than weighing wasted. to compare the lunch habits of students in several different schoolswrite a, b, c, or d – {#7}question 38which of the following is not supported by the passage?a. some students said they did not always have enough time to finish lunch.b. students could request more food after choosing a smaller first portion.c. the trial required all students to eat smaller meals throughout the day.d. the team plans to use a more consistent measuring method in future.write a, b, c, or d – {#8}question 39which of the following best summarises the passage?a. students reduced food waste mainly by warning classmates to finish the meals they received.b. students used evidence and flexible portions to reduce food waste and improve future projects.c. the school reduced lunch waste by changing the menu and shortening the lunch period.d. students concluded that measuring food waste mattered more than changing how meals were served.write a, b, c, or d – {#9}question 40which title best fits the passage?a. why students should always finish everything on their platesb. measuring school waste: the only way to protect the environmentc. why school canteens should serve the same portion to everyoned. less waste, more choice: rethinking school lunch portionswrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31The word monitor in paragraph 1 is closest in meaning to ______.A. remove fullyB. watch regularlyC. explain publiclyD. change quicklyWrite A, B, C, or D – {#1}Question 32According to paragraph 2, what change did the students suggest?A. Giving everyone the same smaller meal each dayB. Replacing the school menu with completely different foodC. Asking students to bring their own lunches from homeD. Offering smaller portions first, with more available if neededWrite A, B, C, or D – {#2}Question 33The phrase This result in paragraph 3 refers to ______.A. students asking the canteen to provide completely different mealsB. the canteen staff deciding to end the trial after two weeksC. less waste while students could still get extra foodD. some students saying that they had too little time for lunchWrite A, B, C, or D – {#3}Question 34Which statement best paraphrases the main point of paragraph 4?A. Changing the situation around a habit may work better than advice alone.B. Environmental posters are always more effective than practical changes.C. Students should be told exactly how much food they are allowed to eat.D. The team believed food waste resulted only from students' poor choices.Write A, B, C, or D – {#4}Question 35Which principle would the team most likely apply to another environmental project?A. Make environmental rules stricter whenever people do not change quickly.B. Remove practical choices so everyone follows exactly the same green behaviour.C. Focus on advice before changing the conditions around people's behaviour.D. Make greener choices easier without unnecessarily limiting people's options.Write A, B, C, or D – {#5}Question 36Where in paragraph 5 does the following sentence best fit?Without a common method, two groups could describe similar waste levels in very different ways.A. [III]B. [I]C. [IV]D. [II]Write A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 5?A. To identify a measurement problem and explain how it may be improvedB. To show that the students collected enough data to end the projectC. To explain why counting food containers is better than weighing wasteD. To compare the lunch habits of students in several different schoolsWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Some students said they did not always have enough time to finish lunch.B. Students could request more food after choosing a smaller first portion.C. The trial required all students to eat smaller meals throughout the day.D. The team plans to use a more consistent measuring method in future.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. Students reduced food waste mainly by warning classmates to finish the meals they received.B. Students used evidence and flexible portions to reduce food waste and improve future projects.C. The school reduced lunch waste by changing the menu and shortening the lunch period.D. Students concluded that measuring food waste mattered more than changing how meals were served.Write A, B, C, or D – {#9}Question 40Which title best fits the passage?A. Why Students Should Always Finish Everything on Their PlatesB. Measuring School Waste: The Only Way to Protect the EnvironmentC. Why School Canteens Should Serve the Same Portion to EveryoneD. Less Waste, More Choice: Rethinking School Lunch PortionsWrite A, B, C, or D – {#10}",
+      "questionId": "question-1908718-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31the word monitor in paragraph 1 is closest in meaning to ______.a. remove fullyb. watch regularlyc. explain publiclyd. change quicklywrite a, b, c, or d – {#1}question 32according to paragraph 2, what change did the students suggest?a. giving everyone the same smaller meal each dayb. replacing the school menu with completely different foodc. asking students to bring their own lunches from homed. offering smaller portions first, with more available if neededwrite a, b, c, or d – {#2}question 33the phrase this result in paragraph 3 refers to ______.a. students asking the canteen to provide completely different mealsb. the canteen staff deciding to end the trial after two weeksc. less waste while students could still get extra foodd. some students saying that they had too little time for lunchwrite a, b, c, or d – {#3}question 34which statement best paraphrases the main point of paragraph 4?a. changing the situation around a habit may work better than advice alone.b. environmental posters are always more effective than practical changes.c. students should be told exactly how much food they are allowed to eat.d. the team believed food waste resulted only from students' poor choices.write a, b, c, or d – {#4}question 35which principle would the team most likely apply to another environmental project?a. make environmental rules stricter whenever people do not change quickly.b. remove practical choices so everyone follows exactly the same green behaviour.c. focus on advice before changing the conditions around people's behaviour.d. make greener choices easier without unnecessarily limiting people's options.write a, b, c, or d – {#5}question 36where in paragraph 5 does the following sentence best fit?without a common method, two groups could describe similar waste levels in very different ways.a. [iii]b. [i]c. [iv]d. [ii]write a, b, c, or d – {#6}question 37what is the main purpose of paragraph 5?a. to identify a measurement problem and explain how it may be improvedb. to show that the students collected enough data to end the projectc. to explain why counting food containers is better than weighing wasted. to compare the lunch habits of students in several different schoolswrite a, b, c, or d – {#7}question 38which of the following is not supported by the passage?a. some students said they did not always have enough time to finish lunch.b. students could request more food after choosing a smaller first portion.c. the trial required all students to eat smaller meals throughout the day.d. the team plans to use a more consistent measuring method in future.write a, b, c, or d – {#8}question 39which of the following best summarises the passage?a. students reduced food waste mainly by warning classmates to finish the meals they received.b. students used evidence and flexible portions to reduce food waste and improve future projects.c. the school reduced lunch waste by changing the menu and shortening the lunch period.d. students concluded that measuring food waste mattered more than changing how meals were served.write a, b, c, or d – {#9}question 40which title best fits the passage?a. why students should always finish everything on their platesb. measuring school waste: the only way to protect the environmentc. why school canteens should serve the same portion to everyoned. less waste, more choice: rethinking school lunch portionswrite a, b, c, or d – {#10}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1908718-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "c"
+        },
+        {
+          "index": 7,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23what is the main idea of the passage?a. students were asked to buy fewer school supplies during each term.b. a reuse project kept useful school supplies in use longer.c. a library replaced damaged materials with new supplies for students.d. older students were more interested in recycling than younger students.write a, b, c, or d – {#1}question 24the word discarded in paragraph 1 is closest in meaning to ______.a. stored awayb. fixed upc. traded awayd. thrown awaywrite a, b, c, or d – {#2}question 25the phrase this surprised the organisers in paragraph 2 refers to the fact that ______.a. older students also made use of the shared shelfb. volunteers checked each item before putting it on the shelfc. students could take the supplies without paying any moneyd. younger students needed extra materials for their class projectswrite a, b, c, or d – {#3}question 26according to paragraph 2, what happened before an item was placed on the shelf?a. its original owner completed a short form.b. a teacher decided which student should receive it.c. a volunteer checked its condition and cleanliness.d. the librarian compared it with newly purchased supplies.write a, b, c, or d – {#4}question 27which of the following is not true according to the passage?a. some students were initially concerned about the quality of donated items.b. the organisers originally expected younger students to use the shelf most.c. students could take useful supplies from the shelf without paying for them.d. the council expected reuse to completely replace buying new supplies.write a, b, c, or d – {#5}question 28which statement best paraphrases the librarian's view in paragraph 3?a. the shelf succeeded because students were given detailed instructions before using it.b. simple access helped make the project useful to students.c. the project worked mainly because the library provided new materials regularly.d. students used the shelf because donated supplies were better than new ones.write a, b, c, or d – {#6}question 29in which paragraph does the writer mention students' concern about the condition of donated materials?a. paragraph 1b. paragraph 4c. paragraph 3d. paragraph 2write a, b, c, or d – {#7}question 30what can be inferred about the shared shelf project?a. making a green action convenient may encourage more people to take part.b. students are likely to stop buying all new school supplies next term.c. the project works mainly because older students donate more than others.d. reuse projects are successful only when students receive rewards for joining.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23What is the main idea of the passage?A. Students were asked to buy fewer school supplies during each term.B. A reuse project kept useful school supplies in use longer.C. A library replaced damaged materials with new supplies for students.D. Older students were more interested in recycling than younger students.Write A, B, C, or D – {#1}Question 24The word discarded in paragraph 1 is closest in meaning to ______.A. stored awayB. fixed upC. traded awayD. thrown awayWrite A, B, C, or D – {#2}Question 25The phrase This surprised the organisers in paragraph 2 refers to the fact that ______.A. older students also made use of the Shared ShelfB. volunteers checked each item before putting it on the shelfC. students could take the supplies without paying any moneyD. younger students needed extra materials for their class projectsWrite A, B, C, or D – {#3}Question 26According to paragraph 2, what happened before an item was placed on the shelf?A. Its original owner completed a short form.B. A teacher decided which student should receive it.C. A volunteer checked its condition and cleanliness.D. The librarian compared it with newly purchased supplies.Write A, B, C, or D – {#4}Question 27Which of the following is NOT TRUE according to the passage?A. Some students were initially concerned about the quality of donated items.B. The organisers originally expected younger students to use the shelf most.C. Students could take useful supplies from the shelf without paying for them.D. The council expected reuse to completely replace buying new supplies.Write A, B, C, or D – {#5}Question 28Which statement best paraphrases the librarian's view in paragraph 3?A. The shelf succeeded because students were given detailed instructions before using it.B. Simple access helped make the project useful to students.C. The project worked mainly because the library provided new materials regularly.D. Students used the shelf because donated supplies were better than new ones.Write A, B, C, or D – {#6}Question 29In which paragraph does the writer mention students' concern about the condition of donated materials?A. Paragraph 1B. Paragraph 4C. Paragraph 3D. Paragraph 2Write A, B, C, or D – {#7}Question 30What can be inferred about the Shared Shelf project?A. Making a green action convenient may encourage more people to take part.B. Students are likely to stop buying all new school supplies next term.C. The project works mainly because older students donate more than others.D. Reuse projects are successful only when students receive rewards for joining.Write A, B, C, or D – {#8}",
+      "questionId": "question-1908718-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23what is the main idea of the passage?a. students were asked to buy fewer school supplies during each term.b. a reuse project kept useful school supplies in use longer.c. a library replaced damaged materials with new supplies for students.d. older students were more interested in recycling than younger students.write a, b, c, or d – {#1}question 24the word discarded in paragraph 1 is closest in meaning to ______.a. stored awayb. fixed upc. traded awayd. thrown awaywrite a, b, c, or d – {#2}question 25the phrase this surprised the organisers in paragraph 2 refers to the fact that ______.a. older students also made use of the shared shelfb. volunteers checked each item before putting it on the shelfc. students could take the supplies without paying any moneyd. younger students needed extra materials for their class projectswrite a, b, c, or d – {#3}question 26according to paragraph 2, what happened before an item was placed on the shelf?a. its original owner completed a short form.b. a teacher decided which student should receive it.c. a volunteer checked its condition and cleanliness.d. the librarian compared it with newly purchased supplies.write a, b, c, or d – {#4}question 27which of the following is not true according to the passage?a. some students were initially concerned about the quality of donated items.b. the organisers originally expected younger students to use the shelf most.c. students could take useful supplies from the shelf without paying for them.d. the council expected reuse to completely replace buying new supplies.write a, b, c, or d – {#5}question 28which statement best paraphrases the librarian's view in paragraph 3?a. the shelf succeeded because students were given detailed instructions before using it.b. simple access helped make the project useful to students.c. the project worked mainly because the library provided new materials regularly.d. students used the shelf because donated supplies were better than new ones.write a, b, c, or d – {#6}question 29in which paragraph does the writer mention students' concern about the condition of donated materials?a. paragraph 1b. paragraph 4c. paragraph 3d. paragraph 2write a, b, c, or d – {#7}question 30what can be inferred about the shared shelf project?a. making a green action convenient may encourage more people to take part.b. students are likely to stop buying all new school supplies next term.c. the project works mainly because older students donate more than others.d. reuse projects are successful only when students receive rewards for joining.write a, b, c, or d – {#8}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
