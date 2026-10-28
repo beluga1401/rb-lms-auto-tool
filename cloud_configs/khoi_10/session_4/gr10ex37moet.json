@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Lãm Đinh",
+    "account_name": "Nguyễn Quang Huy",
     "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
     "class_key": "khoi_10",
@@ -15,11 +15,11 @@
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 20,
-    "updated_at": "2026-10-27 21:23:05"
+    "updated_at": "2026-10-28 21:36:23"
   },
   "answers": [
     {
-      "id": "question-1923896-3",
+      "id": "question-1926036-3",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.families donated picture books and unused notebooks. these were taken to the school for children to use in class.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. Families donated picture books and unused notebooks. These were taken to the school for children to use in class.",
       "options": [
@@ -27,17 +27,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-3",
-      "questionNumber": 2,
+      "questionId": "question-1926036-3",
+      "questionNumber": 4,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Families donated picture books and unused notebooks. These were taken to the school for children to use in class.",
       "answer": "the picture books and unused notebooks",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.families donated picture books and unused notebooks. these were taken to the school for children to use in class.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "the picture books and unused notebooks"
     },
     {
-      "id": "question-1923896-4",
+      "id": "question-1926036-4",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.volunteers deliver free meals to families who cannot afford enough food. this helps the families meet an important daily need.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. Volunteers deliver free meals to families who cannot afford enough food. This helps the families meet an important daily need.",
       "options": [
@@ -45,17 +45,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-4",
-      "questionNumber": 9,
+      "questionId": "question-1926036-4",
+      "questionNumber": 7,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Volunteers deliver free meals to families who cannot afford enough food. This helps the families meet an important daily need.",
       "answer": "the volunteers delivering free meals to the families",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.volunteers deliver free meals to families who cannot afford enough food. this helps the families meet an important daily need.",
-      "letter": "C",
+      "letter": "D",
       "rightAnswer": "the volunteers delivering free meals to the families"
     },
     {
-      "id": "question-1923896-10",
+      "id": "question-1926036-10",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.volunteers used picture cards to practise life-saving skills, which can help prevent deaths in emergencies. the trainer stressed that the practical abilities, rather than the cards, mattered in a real emergency.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. Volunteers used picture cards to practise life-saving skills, which can help prevent deaths in emergencies. The trainer stressed that the practical abilities, rather than the cards, mattered in a real emergency.",
       "options": [
@@ -63,17 +63,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-10",
-      "questionNumber": 6,
+      "questionId": "question-1926036-10",
+      "questionNumber": 2,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Volunteers used picture cards to practise life-saving skills, which can help prevent deaths in emergencies. The trainer stressed that the practical abilities, rather than the cards, mattered in a real emergency.",
       "answer": "the life-saving skills",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.volunteers used picture cards to practise life-saving skills, which can help prevent deaths in emergencies. the trainer stressed that the practical abilities, rather than the cards, mattered in a real emergency.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "the life-saving skills"
     },
     {
-      "id": "question-1923896-2",
+      "id": "question-1926036-2",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the team leaders were responsible for training new volunteers. the organiser gave both groups duty sheets. they then explained each duty to the newcomers before work began.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. The team leaders were responsible for training new volunteers. The organiser gave both groups duty sheets. They then explained each duty to the newcomers before work began.",
       "options": [
@@ -81,8 +81,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-2",
-      "questionNumber": 4,
+      "questionId": "question-1926036-2",
+      "questionNumber": 6,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.The team leaders were responsible for training new volunteers. The organiser gave both groups duty sheets. They then explained each duty to the newcomers before work began.",
       "answer": "the team leaders",
       "dragdrops": [],
@@ -91,7 +91,7 @@
       "rightAnswer": "the team leaders"
     },
     {
-      "id": "question-1923896-7",
+      "id": "question-1926036-7",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.mai completed her application. after checking it for missing information, she emailed the document to the organiser.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. Mai completed her application. After checking it for missing information, she emailed the document to the organiser.",
       "options": [
@@ -99,17 +99,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-7",
-      "questionNumber": 3,
+      "questionId": "question-1926036-7",
+      "questionNumber": 10,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Mai completed her application. After checking it for missing information, she emailed the document to the organiser.",
       "answer": "Mai's application",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.mai completed her application. after checking it for missing information, she emailed the document to the organiser.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "Mai's application"
     },
     {
-      "id": "question-1923896-5",
+      "id": "question-1926036-5",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.lan joined a volunteer club, which organises activities for children at the orphanage. she helps with games every friday.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. Lan joined a volunteer club, which organises activities for children at the orphanage. She helps with games every Friday.",
       "options": [
@@ -117,17 +117,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-5",
-      "questionNumber": 5,
+      "questionId": "question-1926036-5",
+      "questionNumber": 9,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Lan joined a volunteer club, which organises activities for children at the orphanage. She helps with games every Friday.",
       "answer": "the volunteer club",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.lan joined a volunteer club, which organises activities for children at the orphanage. she helps with games every friday.",
-      "letter": "D",
+      "letter": "B",
       "rightAnswer": "the volunteer club"
     },
     {
-      "id": "question-1923896-1",
+      "id": "question-1926036-1",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the community centre receives donations throughout the week. at weekends, it opens its doors to volunteers who sort the goods.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. The community centre receives donations throughout the week. At weekends, it opens its doors to volunteers who sort the goods.",
       "options": [
@@ -135,17 +135,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-1",
-      "questionNumber": 1,
+      "questionId": "question-1926036-1",
+      "questionNumber": 3,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.The community centre receives donations throughout the week. At weekends, it opens its doors to volunteers who sort the goods.",
       "answer": "the community centre",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the community centre receives donations throughout the week. at weekends, it opens its doors to volunteers who sort the goods.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "the community centre"
     },
     {
-      "id": "question-1923896-8",
+      "id": "question-1926036-8",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the kitchen team prepared fifty free meals and printed delivery lists. students checked the lists and left them at the centre. other volunteers took them to families so that each household received ready-to-eat food.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. The kitchen team prepared fifty free meals and printed delivery lists. Students checked the lists and left them at the centre. Other volunteers took them to families so that each household received ready-to-eat food.",
       "options": [
@@ -153,17 +153,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-8",
-      "questionNumber": 7,
+      "questionId": "question-1926036-8",
+      "questionNumber": 5,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.The kitchen team prepared fifty free meals and printed delivery lists. Students checked the lists and left them at the centre. Other volunteers took them to families so that each household received ready-to-eat food.",
       "answer": "the fifty free meals",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the kitchen team prepared fifty free meals and printed delivery lists. students checked the lists and left them at the centre. other volunteers took them to families so that each household received ready-to-eat food.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "the fifty free meals"
     },
     {
-      "id": "question-1923896-6",
+      "id": "question-1926036-6",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the centre received blankets and notebooks. volunteers placed the notebooks on a shelf and packed the blankets into boxes. those would help keep people warm.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. The centre received blankets and notebooks. Volunteers placed the notebooks on a shelf and packed the blankets into boxes. Those would help keep people warm.",
       "options": [
@@ -171,17 +171,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-6",
-      "questionNumber": 10,
+      "questionId": "question-1926036-6",
+      "questionNumber": 1,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.The centre received blankets and notebooks. Volunteers placed the notebooks on a shelf and packed the blankets into boxes. Those would help keep people warm.",
       "answer": "the blankets",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.the centre received blankets and notebooks. volunteers placed the notebooks on a shelf and packed the blankets into boxes. those would help keep people warm.",
-      "letter": "D",
+      "letter": "B",
       "rightAnswer": "the blankets"
     },
     {
-      "id": "question-1923896-9",
+      "id": "question-1926036-9",
       "questionKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.students sold handmade items and gave the money collected to a charity. this provided funds for its community work.",
       "questionRaw": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun. Students sold handmade items and gave the money collected to a charity. This provided funds for its community work.",
       "options": [
@@ -189,17 +189,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-9",
+      "questionId": "question-1926036-9",
       "questionNumber": 8,
       "question": "Choose what the bold reference word refers to. Check number, meaning, and the surrounding sentences. Do not automatically choose the nearest noun.Students sold handmade items and gave the money collected to a charity. This provided funds for its community work.",
       "answer": "the students selling items and donating the money collected",
       "dragdrops": [],
       "legacyQKey": "choose what the bold reference word refers to. check number, meaning, and the surrounding sentences. do not automatically choose the nearest noun.students sold handmade items and gave the money collected to a charity. this provided funds for its community work.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "the students selling items and donating the money collected"
     },
     {
-      "id": "question-1923896-20",
+      "id": "question-1926036-20",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.the charity provides school materials so children in remote areas can access learning.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. The charity provides school materials so children in remote areas can access learning.",
       "options": [
@@ -207,8 +207,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-20",
-      "questionNumber": 11,
+      "questionId": "question-1926036-20",
+      "questionNumber": 17,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.The charity provides school materials so children in remote areas can access learning.",
       "answer": "The charity supplies educational items to help children in distant areas learn.",
       "dragdrops": [],
@@ -217,7 +217,7 @@
       "rightAnswer": "The charity supplies educational items to help children in distant areas learn."
     },
     {
-      "id": "question-1923896-15",
+      "id": "question-1926036-15",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.lan filled in her application form before sending it to the organiser.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. Lan filled in her application form before sending it to the organiser.",
       "options": [
@@ -225,8 +225,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-15",
-      "questionNumber": 14,
+      "questionId": "question-1926036-15",
+      "questionNumber": 13,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.Lan filled in her application form before sending it to the organiser.",
       "answer": "Lan completed the spaces on her form and then submitted it to the organiser.",
       "dragdrops": [],
@@ -235,7 +235,7 @@
       "rightAnswer": "Lan completed the spaces on her form and then submitted it to the organiser."
     },
     {
-      "id": "question-1923896-16",
+      "id": "question-1926036-16",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.the centre needs reliable volunteers who keep their commitments.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. The centre needs reliable volunteers who keep their commitments.",
       "options": [
@@ -243,17 +243,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-16",
-      "questionNumber": 20,
+      "questionId": "question-1926036-16",
+      "questionNumber": 16,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.The centre needs reliable volunteers who keep their commitments.",
       "answer": "The centre needs volunteers it can trust to do what they have promised.",
       "dragdrops": [],
       "legacyQKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.the centre needs reliable volunteers who keep their commitments.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "The centre needs volunteers it can trust to do what they have promised."
     },
     {
-      "id": "question-1923896-12",
+      "id": "question-1926036-12",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.taking part in volunteer activities can boost teenagers' confidence.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. Taking part in volunteer activities can boost teenagers’ confidence.",
       "options": [
@@ -261,17 +261,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-12",
-      "questionNumber": 18,
+      "questionId": "question-1926036-12",
+      "questionNumber": 20,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.Taking part in volunteer activities can boost teenagers' confidence.",
       "answer": "Volunteering may increase teenagers' belief in their own abilities.",
       "dragdrops": [],
       "legacyQKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.taking part in volunteer activities can boost teenagers' confidence.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "Volunteering may increase teenagers' belief in their own abilities."
     },
     {
-      "id": "question-1923896-18",
+      "id": "question-1926036-18",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.helping people in the community gives nam a sense of purpose.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. Helping people in the community gives Nam a sense of purpose.",
       "options": [
@@ -279,8 +279,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-18",
-      "questionNumber": 15,
+      "questionId": "question-1926036-18",
+      "questionNumber": 11,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.Helping people in the community gives Nam a sense of purpose.",
       "answer": "Helping local people makes Nam feel that his actions are meaningful.",
       "dragdrops": [],
@@ -289,7 +289,7 @@
       "rightAnswer": "Helping local people makes Nam feel that his actions are meaningful."
     },
     {
-      "id": "question-1923896-19",
+      "id": "question-1926036-19",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.when the organiser arrived, the students were sorting the donations.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. When the organiser arrived, the students were sorting the donations.",
       "options": [
@@ -297,17 +297,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-19",
-      "questionNumber": 16,
+      "questionId": "question-1926036-19",
+      "questionNumber": 14,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.When the organiser arrived, the students were sorting the donations.",
       "answer": "The students were already sorting donations when the organiser arrived.",
       "dragdrops": [],
       "legacyQKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.when the organiser arrived, the students were sorting the donations.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "The students were already sorting donations when the organiser arrived."
     },
     {
-      "id": "question-1923896-17",
+      "id": "question-1926036-17",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.joining the club gives mai an opportunity to meet teenagers with similar interests.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. Joining the club gives Mai an opportunity to meet teenagers with similar interests.",
       "options": [
@@ -315,17 +315,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-17",
-      "questionNumber": 19,
+      "questionId": "question-1926036-17",
+      "questionNumber": 18,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.Joining the club gives Mai an opportunity to meet teenagers with similar interests.",
       "answer": "Joining the club allows Mai to meet teenagers who share some of her interests.",
       "dragdrops": [],
       "legacyQKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.joining the club gives mai an opportunity to meet teenagers with similar interests.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "Joining the club allows Mai to meet teenagers who share some of her interests."
     },
     {
-      "id": "question-1923896-11",
+      "id": "question-1926036-11",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.the club sold handmade items to raise money for the local orphanage.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. The club sold handmade items to raise money for the local orphanage.",
       "options": [
@@ -333,7 +333,7 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-11",
+      "questionId": "question-1926036-11",
       "questionNumber": 12,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.The club sold handmade items to raise money for the local orphanage.",
       "answer": "The club collected funds for the orphanage by selling handmade items.",
@@ -343,7 +343,7 @@
       "rightAnswer": "The club collected funds for the orphanage by selling handmade items."
     },
     {
-      "id": "question-1923896-13",
+      "id": "question-1926036-13",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.volunteers deliver free meals to local families every sunday.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. Volunteers deliver free meals to local families every Sunday.",
       "options": [
@@ -351,17 +351,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-13",
-      "questionNumber": 13,
+      "questionId": "question-1926036-13",
+      "questionNumber": 15,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.Volunteers deliver free meals to local families every Sunday.",
       "answer": "Each Sunday, volunteers take meals to local families without charging them.",
       "dragdrops": [],
       "legacyQKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.volunteers deliver free meals to local families every sunday.",
-      "letter": "C",
+      "letter": "B",
       "rightAnswer": "Each Sunday, volunteers take meals to local families without charging them."
     },
     {
-      "id": "question-1923896-14",
+      "id": "question-1926036-14",
       "questionKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.before delivery, volunteers sort donations into groups according to item type.",
       "questionRaw": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words. Before delivery, volunteers sort donations into groups according to item type.",
       "options": [
@@ -369,13 +369,13 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923896-14",
-      "questionNumber": 17,
+      "questionId": "question-1926036-14",
+      "questionNumber": 19,
       "question": "Choose the sentence CLOSEST in meaning to the original. Preserve all essential details, not merely similar words.Before delivery, volunteers sort donations into groups according to item type.",
       "answer": "Before delivery, volunteers organize contributed goods by the kinds of items.",
       "dragdrops": [],
       "legacyQKey": "choose the sentence closest in meaning to the original. preserve all essential details, not merely similar words.before delivery, volunteers sort donations into groups according to item type.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "Before delivery, volunteers organize contributed goods by the kinds of items."
     }
   ]
