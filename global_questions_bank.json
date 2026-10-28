@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-28T14:01:35Z",
-  "total_questions": 375,
+  "updated_at": "2026-10-28T14:04:16Z",
+  "total_questions": 397,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -6563,6 +6563,686 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 1 is in each family while another asks who usually manages the home students also report how often family members 8 2 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 3 home later because of basketball practice she still believes household work is everyone s 10 4 her brother does not enjoy cleaning 11 5 he helps when the family is busy according to lan sharing tasks can strengthen family 12 6 and give everyone more time to relax together": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. OUR FAMILY ROUTINE SURVEY Class 10A is carrying out a survey about family routines. One question asks who the main (7) {#1} is in each family, while another asks who usually manages the home. Students also report how often family members (8) {#2} for groceries and how household work is divided. Lan usually helps her grandmother after school, but this week she (9) {#3} home later because of basketball practice. She still believes household work is everyone's (10) {#4}. Her brother does not enjoy cleaning, (11) {#5} he helps when the family is busy. According to Lan, sharing tasks can strengthen family (12) {#6} and give everyone more time to relax together.",
+      "clean_stem": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 1 is in each family while another asks who usually manages the home students also report how often family members 8 2 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 3 home later because of basketball practice she still believes household work is everyone s 10 4 her brother does not enjoy cleaning 11 5 he helps when the family is busy according to lan sharing tasks can strengthen family 12 6 and give everyone more time to relax together",
+      "stem_key": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 1 is in each family while another asks who usually manages the home students also report how often family members 8 2 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 3 home later because of basketball practice she still believes household work is everyone s 10 4 her brother does not enjoy cleaning 11 5 he helps when the family is busy according to lan sharing tasks can strengthen family 12 6 and give everyone more time to relax together",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "breadwinner"
+        },
+        {
+          "index": 1,
+          "value": "shop"
+        },
+        {
+          "index": 2,
+          "value": "is getting"
+        },
+        {
+          "index": 3,
+          "value": "responsibility"
+        },
+        {
+          "index": 4,
+          "value": "but"
+        },
+        {
+          "index": 5,
+          "value": "bonds"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 is in each family while another asks who usually manages the home students also report how often family members 8 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 home later because of basketball practice she still believes household work is everyone s 10 her brother does not enjoy cleaning 11 he helps when the family is busy according to lan sharing tasks can strengthen family 12 and give everyone more time to relax together": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. OUR FAMILY ROUTINE SURVEY Class 10A is carrying out a survey about family routines. One question asks who the main (7) {#1} is in each family, while another asks who usually manages the home. Students also report how often family members (8) {#2} for groceries and how household work is divided. Lan usually helps her grandmother after school, but this week she (9) {#3} home later because of basketball practice. She still believes household work is everyone's (10) {#4}. Her brother does not enjoy cleaning, (11) {#5} he helps when the family is busy. According to Lan, sharing tasks can strengthen family (12) {#6} and give everyone more time to relax together.",
+      "clean_stem": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 1 is in each family while another asks who usually manages the home students also report how often family members 8 2 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 3 home later because of basketball practice she still believes household work is everyone s 10 4 her brother does not enjoy cleaning 11 5 he helps when the family is busy according to lan sharing tasks can strengthen family 12 6 and give everyone more time to relax together",
+      "stem_key": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 1 is in each family while another asks who usually manages the home students also report how often family members 8 2 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 3 home later because of basketball practice she still believes household work is everyone s 10 4 her brother does not enjoy cleaning 11 5 he helps when the family is busy according to lan sharing tasks can strengthen family 12 6 and give everyone more time to relax together",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "breadwinner"
+        },
+        {
+          "index": 1,
+          "value": "shop"
+        },
+        {
+          "index": 2,
+          "value": "is getting"
+        },
+        {
+          "index": 3,
+          "value": "responsibility"
+        },
+        {
+          "index": 4,
+          "value": "but"
+        },
+        {
+          "index": 5,
+          "value": "bonds"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 4 the activity list at the moment mai s family also has a short meeting 5 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 6 and appreciate each other s efforts": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FAMILY DAY: SHARE THE WORK! At Greenfield High School, Family Day will take place this Saturday. Students and parents will join a Share the Work activity to show that household (1) {#1} can be easier when everyone helps. Each family will choose one task. Some teams will clear the plates and (2) {#2} after lunch, while others will prepare food or put out the rubbish. At home, Mai's father usually (3) {#3} dinner on Sundays, so he has volunteered to lead one of the cooking teams. Her mother (4) {#4} the activity list at the moment. Mai's family also has a short meeting (5) {#5} to decide who will be responsible for different jobs during the coming week. Organisers hope the event will encourage family members to work (6) {#6} and appreciate each other's efforts.",
+      "clean_stem": "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 4 the activity list at the moment mai s family also has a short meeting 5 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 6 and appreciate each other s efforts",
+      "stem_key": "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 4 the activity list at the moment mai s family also has a short meeting 5 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 6 and appreciate each other s efforts",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "chores"
+        },
+        {
+          "index": 1,
+          "value": "do the washing-up"
+        },
+        {
+          "index": 2,
+          "value": "prepares"
+        },
+        {
+          "index": 3,
+          "value": "is organising"
+        },
+        {
+          "index": 4,
+          "value": "every Saturday"
+        },
+        {
+          "index": 5,
+          "value": "together"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 the activity list at the moment mai s family also has a short meeting 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 and appreciate each other s efforts": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FAMILY DAY: SHARE THE WORK! At Greenfield High School, Family Day will take place this Saturday. Students and parents will join a Share the Work activity to show that household (1) {#1} can be easier when everyone helps. Each family will choose one task. Some teams will clear the plates and (2) {#2} after lunch, while others will prepare food or put out the rubbish. At home, Mai's father usually (3) {#3} dinner on Sundays, so he has volunteered to lead one of the cooking teams. Her mother (4) {#4} the activity list at the moment. Mai's family also has a short meeting (5) {#5} to decide who will be responsible for different jobs during the coming week. Organisers hope the event will encourage family members to work (6) {#6} and appreciate each other's efforts.",
+      "clean_stem": "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 4 the activity list at the moment mai s family also has a short meeting 5 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 6 and appreciate each other s efforts",
+      "stem_key": "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 4 the activity list at the moment mai s family also has a short meeting 5 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 6 and appreciate each other s efforts",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "chores"
+        },
+        {
+          "index": 1,
+          "value": "do the washing-up"
+        },
+        {
+          "index": 2,
+          "value": "prepares"
+        },
+        {
+          "index": 3,
+          "value": "is organising"
+        },
+        {
+          "index": 4,
+          "value": "every Saturday"
+        },
+        {
+          "index": 5,
+          "value": "together"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 sharing responsibilities at home at the nguyen family s home everyone has a regular role 13 mr nguyen prepares breakfast mrs nguyen shops for food and the two children clean their rooms and help with the dishes most of these jobs follow the same routine every week this month however the family is preparing for a move so 14 mai the older daughter has written a checklist and put it on the fridge 15 helps everyone remember what still needs to be done the parents do not expect the children to do everything they only ask them to help with age appropriate jobs because 16 after several weeks the family notices that daily work feels less stressful 17 question 13 a nobody in the family has a regular household jobb the parents do all the household work themselvesc each member is responsible for at least one household taskd the children choose chores only when guests visit write a b c or d 1 question 14 a the children stop helping until the move is finishedb everyone is taking on a few extra household tasksc the family follows exactly the same routine as usuald one person is responsible for all the extra work write a b c or d 2 question 15 a theseb theyc shed it write a b c or d 3 question 16 a the parents want to avoid all houseworkb these jobs can build useful life skillsc children need less time for schoolworkd every task must be completed perfectly write a b c or d 4 question 17 a they have learned that cooperation makes family routines easierb they decide to stop sharing household choresc they believe that only adults should help at homed nobody follows the checklist anymore write a b c or d 5": {
+      "question": "PART 2. PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SHARING RESPONSIBILITIES AT HOME At the Nguyen family's home, everyone has a regular role. (13) ______. Mr Nguyen prepares breakfast, Mrs Nguyen shops for food, and the two children clean their rooms and help with the dishes. Most of these jobs follow the same routine every week. This month, however, the family is preparing for a move, so (14) ______. Mai, the older daughter, has written a checklist and put it on the fridge. (15) ______ helps everyone remember what still needs to be done. The parents do not expect the children to do everything. They only ask them to help with age-appropriate jobs because (16) ______. After several weeks, the family notices that daily work feels less stressful. (17) ______. Question 13. A. Nobody in the family has a regular household jobB. The parents do all the household work themselvesC. Each member is responsible for at least one household taskD. The children choose chores only when guests visit Write A, B, C, or D - {#1} Question 14. A. the children stop helping until the move is finishedB. everyone is taking on a few extra household tasksC. the family follows exactly the same routine as usualD. one person is responsible for all the extra work Write A, B, C, or D - {#2} Question 15. A. TheseB. TheyC. SheD. It Write A, B, C, or D - {#3} Question 16. A. the parents want to avoid all houseworkB. these jobs can build useful life skillsC. children need less time for schoolworkD. every task must be completed perfectly Write A, B, C, or D - {#4} Question 17. A. They have learned that cooperation makes family routines easierB. They decide to stop sharing household choresC. They believe that only adults should help at homeD. Nobody follows the checklist anymore Write A, B, C, or D - {#5}",
+      "clean_stem": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 sharing responsibilities at home at the nguyen family s home everyone has a regular role 13 mr nguyen prepares breakfast mrs nguyen shops for food and the two children clean their rooms and help with the dishes most of these jobs follow the same routine every week this month however the family is preparing for a move so 14 mai the older daughter has written a checklist and put it on the fridge 15 helps everyone remember what still needs to be done the parents do not expect the children to do everything they only ask them to help with age appropriate jobs because 16 after several weeks the family notices that daily work feels less stressful 17 question 13 a nobody in the family has a regular household jobb the parents do all the household work themselvesc each member is responsible for at least one household taskd the children choose chores only when guests visit write a b c or d 1 question 14 a the children stop helping until the move is finishedb everyone is taking on a few extra household tasksc the family follows exactly the same routine as usuald one person is responsible for all the extra work write a b c or d 2 question 15 a theseb theyc shed it write a b c or d 3 question 16 a the parents want to avoid all houseworkb these jobs can build useful life skillsc children need less time for schoolworkd every task must be completed perfectly write a b c or d 4 question 17 a they have learned that cooperation makes family routines easierb they decide to stop sharing household choresc they believe that only adults should help at homed nobody follows the checklist anymore write a b c or d 5",
+      "stem_key": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 sharing responsibilities at home at the nguyen family s home everyone has a regular role 13 mr nguyen prepares breakfast mrs nguyen shops for food and the two children clean their rooms and help with the dishes most of these jobs follow the same routine every week this month however the family is preparing for a move so 14 mai the older daughter has written a checklist and put it on the fridge 15 helps everyone remember what still needs to be done the parents do not expect the children to do everything they only ask them to help with age appropriate jobs because 16 after several weeks the family notices that daily work feels less stressful 17 question 13 a nobody in the family has a regular household jobb the parents do all the household work themselvesc each member is responsible for at least one household taskd the children choose chores only when guests visit write a b c or d 1 question 14 a the children stop helping until the move is finishedb everyone is taking on a few extra household tasksc the family follows exactly the same routine as usuald one person is responsible for all the extra work write a b c or d 2 question 15 a theseb theyc shed it write a b c or d 3 question 16 a the parents want to avoid all houseworkb these jobs can build useful life skillsc children need less time for schoolworkd every task must be completed perfectly write a b c or d 4 question 17 a they have learned that cooperation makes family routines easierb they decide to stop sharing household choresc they believe that only adults should help at homed nobody follows the checklist anymore write a b c or d 5",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 sharing responsibilities at home at the nguyen family s home everyone has a regular role 13 mr nguyen prepares breakfast mrs nguyen shops for food and the two children clean their rooms and help with the dishes most of these jobs follow the same routine every week this month however the family is preparing for a move so 14 mai the older daughter has written a checklist and put it on the fridge 15 helps everyone remember what still needs to be done the parents do not expect the children to do everything they only ask them to help with age appropriate jobs because 16 after several weeks the family notices that daily work feels less stressful 17 question 13 a nobody in the family has a regular household jobb the parents do all the household work themselvesc each member is responsible for at least one household taskd the children choose chores only when guests visit write a b c or d question 14 a the children stop helping until the move is finishedb everyone is taking on a few extra household tasksc the family follows exactly the same routine as usuald one person is responsible for all the extra work write a b c or d question 15 a theseb theyc shed it write a b c or d question 16 a the parents want to avoid all houseworkb these jobs can build useful life skillsc children need less time for schoolworkd every task must be completed perfectly write a b c or d question 17 a they have learned that cooperation makes family routines easierb they decide to stop sharing household choresc they believe that only adults should help at homed nobody follows the checklist anymore write a b c or d": {
+      "question": "PART 2. PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. SHARING RESPONSIBILITIES AT HOME At the Nguyen family's home, everyone has a regular role. (13) ______. Mr Nguyen prepares breakfast, Mrs Nguyen shops for food, and the two children clean their rooms and help with the dishes. Most of these jobs follow the same routine every week. This month, however, the family is preparing for a move, so (14) ______. Mai, the older daughter, has written a checklist and put it on the fridge. (15) ______ helps everyone remember what still needs to be done. The parents do not expect the children to do everything. They only ask them to help with age-appropriate jobs because (16) ______. After several weeks, the family notices that daily work feels less stressful. (17) ______. Question 13. A. Nobody in the family has a regular household jobB. The parents do all the household work themselvesC. Each member is responsible for at least one household taskD. The children choose chores only when guests visit Write A, B, C, or D - {#1} Question 14. A. the children stop helping until the move is finishedB. everyone is taking on a few extra household tasksC. the family follows exactly the same routine as usualD. one person is responsible for all the extra work Write A, B, C, or D - {#2} Question 15. A. TheseB. TheyC. SheD. It Write A, B, C, or D - {#3} Question 16. A. the parents want to avoid all houseworkB. these jobs can build useful life skillsC. children need less time for schoolworkD. every task must be completed perfectly Write A, B, C, or D - {#4} Question 17. A. They have learned that cooperation makes family routines easierB. They decide to stop sharing household choresC. They believe that only adults should help at homeD. Nobody follows the checklist anymore Write A, B, C, or D - {#5}",
+      "clean_stem": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 sharing responsibilities at home at the nguyen family s home everyone has a regular role 13 mr nguyen prepares breakfast mrs nguyen shops for food and the two children clean their rooms and help with the dishes most of these jobs follow the same routine every week this month however the family is preparing for a move so 14 mai the older daughter has written a checklist and put it on the fridge 15 helps everyone remember what still needs to be done the parents do not expect the children to do everything they only ask them to help with age appropriate jobs because 16 after several weeks the family notices that daily work feels less stressful 17 question 13 a nobody in the family has a regular household jobb the parents do all the household work themselvesc each member is responsible for at least one household taskd the children choose chores only when guests visit write a b c or d 1 question 14 a the children stop helping until the move is finishedb everyone is taking on a few extra household tasksc the family follows exactly the same routine as usuald one person is responsible for all the extra work write a b c or d 2 question 15 a theseb theyc shed it write a b c or d 3 question 16 a the parents want to avoid all houseworkb these jobs can build useful life skillsc children need less time for schoolworkd every task must be completed perfectly write a b c or d 4 question 17 a they have learned that cooperation makes family routines easierb they decide to stop sharing household choresc they believe that only adults should help at homed nobody follows the checklist anymore write a b c or d 5",
+      "stem_key": "passage completion questions 13 17 read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 sharing responsibilities at home at the nguyen family s home everyone has a regular role 13 mr nguyen prepares breakfast mrs nguyen shops for food and the two children clean their rooms and help with the dishes most of these jobs follow the same routine every week this month however the family is preparing for a move so 14 mai the older daughter has written a checklist and put it on the fridge 15 helps everyone remember what still needs to be done the parents do not expect the children to do everything they only ask them to help with age appropriate jobs because 16 after several weeks the family notices that daily work feels less stressful 17 question 13 a nobody in the family has a regular household jobb the parents do all the household work themselvesc each member is responsible for at least one household taskd the children choose chores only when guests visit write a b c or d 1 question 14 a the children stop helping until the move is finishedb everyone is taking on a few extra household tasksc the family follows exactly the same routine as usuald one person is responsible for all the extra work write a b c or d 2 question 15 a theseb theyc shed it write a b c or d 3 question 16 a the parents want to avoid all houseworkb these jobs can build useful life skillsc children need less time for schoolworkd every task must be completed perfectly write a b c or d 4 question 17 a they have learned that cooperation makes family routines easierb they decide to stop sharing household choresc they believe that only adults should help at homed nobody follows the checklist anymore write a b c or d 5",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a this gives them useful skills they can use later in life b teenagers can learn a lot by helping with household tasks c they also understand how much effort is needed to keep a home running d for example doing laundry or preparing a simple meal teaches them to care for themselves a b d a cb d b c ac c a d bd a c b d write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 19. a. This gives them useful skills they can use later in life.b. Teenagers can learn a lot by helping with household tasks.c. They also understand how much effort is needed to keep a home running.d. For example, doing laundry or preparing a simple meal teaches them to care for themselves.A. b – d – a – cB. d – b – c – aC. c – a – d – bD. a – c – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a this gives them useful skills they can use later in life b teenagers can learn a lot by helping with household tasks c they also understand how much effort is needed to keep a home running d for example doing laundry or preparing a simple meal teaches them to care for themselves a b d a cb d b c ac c a d bd a c b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a this gives them useful skills they can use later in life b teenagers can learn a lot by helping with household tasks c they also understand how much effort is needed to keep a home running d for example doing laundry or preparing a simple meal teaches them to care for themselves a b d a cb d b c ac c a d bd a c b d write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a this gives them useful skills they can use later in life b teenagers can learn a lot by helping with household tasks c they also understand how much effort is needed to keep a home running d for example doing laundry or preparing a simple meal teaches them to care for themselves a b d a cb d b c ac c a d bd a c b d write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 19. a. This gives them useful skills they can use later in life.b. Teenagers can learn a lot by helping with household tasks.c. They also understand how much effort is needed to keep a home running.d. For example, doing laundry or preparing a simple meal teaches them to care for themselves.A. b – d – a – cB. d – b – c – aC. c – a – d – bD. a – c – b – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a this gives them useful skills they can use later in life b teenagers can learn a lot by helping with household tasks c they also understand how much effort is needed to keep a home running d for example doing laundry or preparing a simple meal teaches them to care for themselves a b d a cb d b c ac c a d bd a c b d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 19 a this gives them useful skills they can use later in life b teenagers can learn a lot by helping with household tasks c they also understand how much effort is needed to keep a home running d for example doing laundry or preparing a simple meal teaches them to care for themselves a b d a cb d b c ac c a d bd a c b d write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a mai exactly it also gives parents more time to rest b lan i agree it can teach them responsibility c mai i strongly believe teenagers should help with housework d lan that s true but students still need enough time for their homework a b a d cb a c b dc c b a dd d a c b write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 21. a. Mai: Exactly. It also gives parents more time to rest.b. Lan: I agree. It can teach them responsibility.c. Mai: I strongly believe teenagers should help with housework.d. Lan: That's true, but students still need enough time for their homework.A. b – a – d – cB. a – c – b – dC. c – b – a – dD. d – a – c – b Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a mai exactly it also gives parents more time to rest b lan i agree it can teach them responsibility c mai i strongly believe teenagers should help with housework d lan that s true but students still need enough time for their homework a b a d cb a c b dc c b a dd d a c b write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a mai exactly it also gives parents more time to rest b lan i agree it can teach them responsibility c mai i strongly believe teenagers should help with housework d lan that s true but students still need enough time for their homework a b a d cb a c b dc c b a dd d a c b write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a mai exactly it also gives parents more time to rest b lan i agree it can teach them responsibility c mai i strongly believe teenagers should help with housework d lan that s true but students still need enough time for their homework a b a d cb a c b dc c b a dd d a c b write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 21. a. Mai: Exactly. It also gives parents more time to rest.b. Lan: I agree. It can teach them responsibility.c. Mai: I strongly believe teenagers should help with housework.d. Lan: That's true, but students still need enough time for their homework.A. b – a – d – cB. a – c – b – dC. c – b – a – dD. d – a – c – b Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a mai exactly it also gives parents more time to rest b lan i agree it can teach them responsibility c mai i strongly believe teenagers should help with housework d lan that s true but students still need enough time for their homework a b a d cb a c b dc c b a dd d a c b write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 21 a mai exactly it also gives parents more time to rest b lan i agree it can teach them responsibility c mai i strongly believe teenagers should help with housework d lan that s true but students still need enough time for their homework a b a d cb a c b dc c b a dd d a c b write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a after dinner each person puts away the things he or she used b in our family we have a simple routine for keeping the kitchen clean c my father wipes the table while my sister and i do the washing up d because everyone has a job the kitchen is tidy in only fifteen minutes a a b c db b a c dc b c d ad c b a d write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 18. a. After dinner, each person puts away the things he or she used.b. In our family, we have a simple routine for keeping the kitchen clean.c. My father wipes the table, while my sister and I do the washing-up.d. Because everyone has a job, the kitchen is tidy in only fifteen minutes.A. a – b – c – dB. b – a – c – dC. b – c – d – aD. c – b – a – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a after dinner each person puts away the things he or she used b in our family we have a simple routine for keeping the kitchen clean c my father wipes the table while my sister and i do the washing up d because everyone has a job the kitchen is tidy in only fifteen minutes a a b c db b a c dc b c d ad c b a d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a after dinner each person puts away the things he or she used b in our family we have a simple routine for keeping the kitchen clean c my father wipes the table while my sister and i do the washing up d because everyone has a job the kitchen is tidy in only fifteen minutes a a b c db b a c dc b c d ad c b a d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a after dinner each person puts away the things he or she used b in our family we have a simple routine for keeping the kitchen clean c my father wipes the table while my sister and i do the washing up d because everyone has a job the kitchen is tidy in only fifteen minutes a a b c db b a c dc b c d ad c b a d write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 18. a. After dinner, each person puts away the things he or she used.b. In our family, we have a simple routine for keeping the kitchen clean.c. My father wipes the table, while my sister and I do the washing-up.d. Because everyone has a job, the kitchen is tidy in only fifteen minutes.A. a – b – c – dB. b – a – c – dC. b – c – d – aD. c – b – a – d Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a after dinner each person puts away the things he or she used b in our family we have a simple routine for keeping the kitchen clean c my father wipes the table while my sister and i do the washing up d because everyone has a job the kitchen is tidy in only fifteen minutes a a b c db b a c dc b c d ad c b a d write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 18 a after dinner each person puts away the things he or she used b in our family we have a simple routine for keeping the kitchen clean c my father wipes the table while my sister and i do the washing up d because everyone has a job the kitchen is tidy in only fifteen minutes a a b c db b a c dc b c d ad c b a d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a nam usually my mother does but i help her at weekends b minh who does the cooking in your family c nam i often wash the vegetables and set the table d minh what do you usually do to help her a a b d cb b d a cc d c b ad b a d c write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 20. a. Nam: Usually my mother does, but I help her at weekends.b. Minh: Who does the cooking in your family?c. Nam: I often wash the vegetables and set the table.d. Minh: What do you usually do to help her?A. a – b – d – cB. b – d – a – cC. d – c – b – aD. b – a – d – c Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a nam usually my mother does but i help her at weekends b minh who does the cooking in your family c nam i often wash the vegetables and set the table d minh what do you usually do to help her a a b d cb b d a cc d c b ad b a d c write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a nam usually my mother does but i help her at weekends b minh who does the cooking in your family c nam i often wash the vegetables and set the table d minh what do you usually do to help her a a b d cb b d a cc d c b ad b a d c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a nam usually my mother does but i help her at weekends b minh who does the cooking in your family c nam i often wash the vegetables and set the table d minh what do you usually do to help her a a b d cb b d a cc d c b ad b a d c write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 20. a. Nam: Usually my mother does, but I help her at weekends.b. Minh: Who does the cooking in your family?c. Nam: I often wash the vegetables and set the table.d. Minh: What do you usually do to help her?A. a – b – d – cB. b – d – a – cC. d – c – b – aD. b – a – d – c Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a nam usually my mother does but i help her at weekends b minh who does the cooking in your family c nam i often wash the vegetables and set the table d minh what do you usually do to help her a a b d cb b d a cc d c b ad b a d c write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 20 a nam usually my mother does but i help her at weekends b minh who does the cooking in your family c nam i often wash the vegetables and set the table d minh what do you usually do to help her a a b d cb b d a cc d c b ad b a d c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a best hoab every sunday morning my family cleans the house together c hi anna you asked me about one of my family routines d we each choose a task and after that we usually have lunch together a b c d ab c b d ac c d b ad d b c a write a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 22. a. Best,Hoab. Every Sunday morning, my family cleans the house together.c. Hi Anna,You asked me about one of my family routines.d. We each choose a task, and after that we usually have lunch together.A. b – c – d – aB. c – b – d – aC. c – d – b – aD. d – b – c – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a best hoab every sunday morning my family cleans the house together c hi anna you asked me about one of my family routines d we each choose a task and after that we usually have lunch together a b c d ab c b d ac c d b ad d b c a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a best hoab every sunday morning my family cleans the house together c hi anna you asked me about one of my family routines d we each choose a task and after that we usually have lunch together a b c d ab c b d ac c d b ad d b c a write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a best hoab every sunday morning my family cleans the house together c hi anna you asked me about one of my family routines d we each choose a task and after that we usually have lunch together a b c d ab c b d ac c d b ad d b c a write a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph, dialogue, email, or message. Question 22. a. Best,Hoab. Every Sunday morning, my family cleans the house together.c. Hi Anna,You asked me about one of my family routines.d. We each choose a task, and after that we usually have lunch together.A. b – c – d – aB. c – b – d – aC. c – d – b – aD. d – b – c – a Write A, B, C, or D - {#1}",
+      "clean_stem": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a best hoab every sunday morning my family cleans the house together c hi anna you asked me about one of my family routines d we each choose a task and after that we usually have lunch together a b c d ab c b d ac c d b ad d b c a write a b c or d 1",
+      "stem_key": "text and dialogue organisation mark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful paragraph dialogue email or message question 22 a best hoab every sunday morning my family cleans the house together c hi anna you asked me about one of my family routines d we each choose a task and after that we usually have lunch together a b c d ab c b d ac c d b ad d b c a write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how minh is improving his cooking skills through family meals b how a shared sunday dinner routine helps minh s family stay connected c why minh s family prefers sunday dinner to meals during the week d how minh s family divides the work of preparing sunday dinner write a b c or d 1 question 24 the word rotate in paragraph 2 is closest in meaning to a stay with the same personb become harder to completec change from one person to anotherd stop being part of the routine write a b c or d 2 question 25 the phrase this habit in paragraph 3 refers to a keeping the same household role every sundayb helping his sister practise for a school performancec starting dinner at exactly 6 30 p m d sharing good and difficult things from the week write a b c or d 3 question 26 according to the passage who usually buys the groceries a minhb minh s younger sisterc minh s motherd minh s father write a b c or d 4 question 27 which of the following is not true according to the passage a family members may exchange their household jobs when necessary b family members keep their phones away while they are eating c family members are punished if they miss their sunday task d the routine began after minh s parents noticed the family was talking less write a b c or d 5 question 28 which sentence best paraphrases minh s opinion at the end of the passage a the family should spend more money on sunday meals b family members should never miss a sunday dinner c being together matters more to minh than the meal itself d sunday dinner is important because minh enjoys the food most write a b c or d 6 question 29 in which paragraph does the writer explain how preparation work is divided a paragraph 1b paragraph 3c paragraph 4d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a minh s family believes a routine must always happen exactly as planned b the family s routine is flexible enough to continue when plans change c minh s younger sister dislikes spending time with the family d sunday dinner has caused more arguments in minh s family write a b c or d 8": {
+      "question": "PART 4. READING COMPREHENSION Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. How Minh is improving his cooking skills through family meals.B. How a shared Sunday dinner routine helps Minh's family stay connected.C. Why Minh's family prefers Sunday dinner to meals during the week.D. How Minh's family divides the work of preparing Sunday dinner. Write A, B, C, or D - {#1} Question 24 The word rotate in paragraph 2 is closest in meaning to ______. A. stay with the same personB. become harder to completeC. change from one person to anotherD. stop being part of the routine Write A, B, C, or D - {#2} Question 25 The phrase This habit in paragraph 3 refers to ______. A. keeping the same household role every SundayB. helping his sister practise for a school performanceC. starting dinner at exactly 6:30 p.m.D. sharing good and difficult things from the week Write A, B, C, or D - {#3} Question 26 According to the passage, who usually buys the groceries? A. MinhB. Minh's younger sisterC. Minh's motherD. Minh's father Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Family members may exchange their household jobs when necessary.B. Family members keep their phones away while they are eating.C. Family members are punished if they miss their Sunday task.D. The routine began after Minh's parents noticed the family was talking less. Write A, B, C, or D - {#5} Question 28 Which sentence best paraphrases Minh's opinion at the end of the passage? A. The family should spend more money on Sunday meals.B. Family members should never miss a Sunday dinner.C. Being together matters more to Minh than the meal itself.D. Sunday dinner is important because Minh enjoys the food most. Write A, B, C, or D - {#6} Question 29 In which paragraph does the writer explain how preparation work is divided? A. Paragraph 1B. Paragraph 3C. Paragraph 4D. Paragraph 2 Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage? A. Minh's family believes a routine must always happen exactly as planned.B. The family's routine is flexible enough to continue when plans change.C. Minh's younger sister dislikes spending time with the family.D. Sunday dinner has caused more arguments in Minh's family. Write A, B, C, or D - {#8}",
+      "clean_stem": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how minh is improving his cooking skills through family meals b how a shared sunday dinner routine helps minh s family stay connected c why minh s family prefers sunday dinner to meals during the week d how minh s family divides the work of preparing sunday dinner write a b c or d 1 question 24 the word rotate in paragraph 2 is closest in meaning to a stay with the same personb become harder to completec change from one person to anotherd stop being part of the routine write a b c or d 2 question 25 the phrase this habit in paragraph 3 refers to a keeping the same household role every sundayb helping his sister practise for a school performancec starting dinner at exactly 6 30 p m d sharing good and difficult things from the week write a b c or d 3 question 26 according to the passage who usually buys the groceries a minhb minh s younger sisterc minh s motherd minh s father write a b c or d 4 question 27 which of the following is not true according to the passage a family members may exchange their household jobs when necessary b family members keep their phones away while they are eating c family members are punished if they miss their sunday task d the routine began after minh s parents noticed the family was talking less write a b c or d 5 question 28 which sentence best paraphrases minh s opinion at the end of the passage a the family should spend more money on sunday meals b family members should never miss a sunday dinner c being together matters more to minh than the meal itself d sunday dinner is important because minh enjoys the food most write a b c or d 6 question 29 in which paragraph does the writer explain how preparation work is divided a paragraph 1b paragraph 3c paragraph 4d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a minh s family believes a routine must always happen exactly as planned b the family s routine is flexible enough to continue when plans change c minh s younger sister dislikes spending time with the family d sunday dinner has caused more arguments in minh s family write a b c or d 8",
+      "stem_key": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how minh is improving his cooking skills through family meals b how a shared sunday dinner routine helps minh s family stay connected c why minh s family prefers sunday dinner to meals during the week d how minh s family divides the work of preparing sunday dinner write a b c or d 1 question 24 the word rotate in paragraph 2 is closest in meaning to a stay with the same personb become harder to completec change from one person to anotherd stop being part of the routine write a b c or d 2 question 25 the phrase this habit in paragraph 3 refers to a keeping the same household role every sundayb helping his sister practise for a school performancec starting dinner at exactly 6 30 p m d sharing good and difficult things from the week write a b c or d 3 question 26 according to the passage who usually buys the groceries a minhb minh s younger sisterc minh s motherd minh s father write a b c or d 4 question 27 which of the following is not true according to the passage a family members may exchange their household jobs when necessary b family members keep their phones away while they are eating c family members are punished if they miss their sunday task d the routine began after minh s parents noticed the family was talking less write a b c or d 5 question 28 which sentence best paraphrases minh s opinion at the end of the passage a the family should spend more money on sunday meals b family members should never miss a sunday dinner c being together matters more to minh than the meal itself d sunday dinner is important because minh enjoys the food most write a b c or d 6 question 29 in which paragraph does the writer explain how preparation work is divided a paragraph 1b paragraph 3c paragraph 4d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a minh s family believes a routine must always happen exactly as planned b the family s routine is flexible enough to continue when plans change c minh s younger sister dislikes spending time with the family d sunday dinner has caused more arguments in minh s family write a b c or d 8",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how minh is improving his cooking skills through family meals b how a shared sunday dinner routine helps minh s family stay connected c why minh s family prefers sunday dinner to meals during the week d how minh s family divides the work of preparing sunday dinner write a b c or d question 24 the word rotate in paragraph 2 is closest in meaning to a stay with the same personb become harder to completec change from one person to anotherd stop being part of the routine write a b c or d question 25 the phrase this habit in paragraph 3 refers to a keeping the same household role every sundayb helping his sister practise for a school performancec starting dinner at exactly 6 30 p m d sharing good and difficult things from the week write a b c or d question 26 according to the passage who usually buys the groceries a minhb minh s younger sisterc minh s motherd minh s father write a b c or d question 27 which of the following is not true according to the passage a family members may exchange their household jobs when necessary b family members keep their phones away while they are eating c family members are punished if they miss their sunday task d the routine began after minh s parents noticed the family was talking less write a b c or d question 28 which sentence best paraphrases minh s opinion at the end of the passage a the family should spend more money on sunday meals b family members should never miss a sunday dinner c being together matters more to minh than the meal itself d sunday dinner is important because minh enjoys the food most write a b c or d question 29 in which paragraph does the writer explain how preparation work is divided a paragraph 1b paragraph 3c paragraph 4d paragraph 2 write a b c or d question 30 what can be inferred from the passage a minh s family believes a routine must always happen exactly as planned b the family s routine is flexible enough to continue when plans change c minh s younger sister dislikes spending time with the family d sunday dinner has caused more arguments in minh s family write a b c or d": {
+      "question": "PART 4. READING COMPREHENSION Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 23 What is the main idea of the passage? A. How Minh is improving his cooking skills through family meals.B. How a shared Sunday dinner routine helps Minh's family stay connected.C. Why Minh's family prefers Sunday dinner to meals during the week.D. How Minh's family divides the work of preparing Sunday dinner. Write A, B, C, or D - {#1} Question 24 The word rotate in paragraph 2 is closest in meaning to ______. A. stay with the same personB. become harder to completeC. change from one person to anotherD. stop being part of the routine Write A, B, C, or D - {#2} Question 25 The phrase This habit in paragraph 3 refers to ______. A. keeping the same household role every SundayB. helping his sister practise for a school performanceC. starting dinner at exactly 6:30 p.m.D. sharing good and difficult things from the week Write A, B, C, or D - {#3} Question 26 According to the passage, who usually buys the groceries? A. MinhB. Minh's younger sisterC. Minh's motherD. Minh's father Write A, B, C, or D - {#4} Question 27 Which of the following is NOT TRUE according to the passage? A. Family members may exchange their household jobs when necessary.B. Family members keep their phones away while they are eating.C. Family members are punished if they miss their Sunday task.D. The routine began after Minh's parents noticed the family was talking less. Write A, B, C, or D - {#5} Question 28 Which sentence best paraphrases Minh's opinion at the end of the passage? A. The family should spend more money on Sunday meals.B. Family members should never miss a Sunday dinner.C. Being together matters more to Minh than the meal itself.D. Sunday dinner is important because Minh enjoys the food most. Write A, B, C, or D - {#6} Question 29 In which paragraph does the writer explain how preparation work is divided? A. Paragraph 1B. Paragraph 3C. Paragraph 4D. Paragraph 2 Write A, B, C, or D - {#7} Question 30 What can be inferred from the passage? A. Minh's family believes a routine must always happen exactly as planned.B. The family's routine is flexible enough to continue when plans change.C. Minh's younger sister dislikes spending time with the family.D. Sunday dinner has caused more arguments in Minh's family. Write A, B, C, or D - {#8}",
+      "clean_stem": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how minh is improving his cooking skills through family meals b how a shared sunday dinner routine helps minh s family stay connected c why minh s family prefers sunday dinner to meals during the week d how minh s family divides the work of preparing sunday dinner write a b c or d 1 question 24 the word rotate in paragraph 2 is closest in meaning to a stay with the same personb become harder to completec change from one person to anotherd stop being part of the routine write a b c or d 2 question 25 the phrase this habit in paragraph 3 refers to a keeping the same household role every sundayb helping his sister practise for a school performancec starting dinner at exactly 6 30 p m d sharing good and difficult things from the week write a b c or d 3 question 26 according to the passage who usually buys the groceries a minhb minh s younger sisterc minh s motherd minh s father write a b c or d 4 question 27 which of the following is not true according to the passage a family members may exchange their household jobs when necessary b family members keep their phones away while they are eating c family members are punished if they miss their sunday task d the routine began after minh s parents noticed the family was talking less write a b c or d 5 question 28 which sentence best paraphrases minh s opinion at the end of the passage a the family should spend more money on sunday meals b family members should never miss a sunday dinner c being together matters more to minh than the meal itself d sunday dinner is important because minh enjoys the food most write a b c or d 6 question 29 in which paragraph does the writer explain how preparation work is divided a paragraph 1b paragraph 3c paragraph 4d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a minh s family believes a routine must always happen exactly as planned b the family s routine is flexible enough to continue when plans change c minh s younger sister dislikes spending time with the family d sunday dinner has caused more arguments in minh s family write a b c or d 8",
+      "stem_key": "reading comprehension questions 23 30 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 23 what is the main idea of the passage a how minh is improving his cooking skills through family meals b how a shared sunday dinner routine helps minh s family stay connected c why minh s family prefers sunday dinner to meals during the week d how minh s family divides the work of preparing sunday dinner write a b c or d 1 question 24 the word rotate in paragraph 2 is closest in meaning to a stay with the same personb become harder to completec change from one person to anotherd stop being part of the routine write a b c or d 2 question 25 the phrase this habit in paragraph 3 refers to a keeping the same household role every sundayb helping his sister practise for a school performancec starting dinner at exactly 6 30 p m d sharing good and difficult things from the week write a b c or d 3 question 26 according to the passage who usually buys the groceries a minhb minh s younger sisterc minh s motherd minh s father write a b c or d 4 question 27 which of the following is not true according to the passage a family members may exchange their household jobs when necessary b family members keep their phones away while they are eating c family members are punished if they miss their sunday task d the routine began after minh s parents noticed the family was talking less write a b c or d 5 question 28 which sentence best paraphrases minh s opinion at the end of the passage a the family should spend more money on sunday meals b family members should never miss a sunday dinner c being together matters more to minh than the meal itself d sunday dinner is important because minh enjoys the food most write a b c or d 6 question 29 in which paragraph does the writer explain how preparation work is divided a paragraph 1b paragraph 3c paragraph 4d paragraph 2 write a b c or d 7 question 30 what can be inferred from the passage a minh s family believes a routine must always happen exactly as planned b the family s routine is flexible enough to continue when plans change c minh s younger sister dislikes spending time with the family d sunday dinner has caused more arguments in minh s family write a b c or d 8",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word hesitate in paragraph 1 is closest in meaning to a feel unsure about doing somethingb rush to do something immediatelyc refuse to do something foreverd forget that something needs attention write a b c or d 1 question 32 according to paragraph 2 what did each family do a asked the teenager to complete every task in the houseb gave the teenager a different task every dayc chose two suitable household tasks for the teenagerd allowed the school to choose all household responsibilities write a b c or d 2 question 33 the phrase this rule in paragraph 2 refers to the idea that parents should a record every mistake in the student s diaryb complete difficult household jobs for the teenagerc let teenagers try an imperfect task againd give teenagers a different task each day write a b c or d 3 question 34 which statement best paraphrases ms huong s view in paragraph 4 a the main benefit was students seeing housework as a shared responsibility b teenagers should take over most household responsibilities from their parents c families should focus on completing chores rather than discussing responsibilities d the project s main success was making family homes cleaner and tidier write a b c or d 4 question 35 what can be inferred from khoa s experience a he learnt to organise his time more efficiently b he stopped doing chores because they took too long c he decided that schoolwork was less important than housework d his parents began packing his schoolbag for him write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit clear expectations seemed to matter as much as the tasks themselves a iii b i c iv d ii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why the school first created the projectb to describe all the rules students had to followc to argue that parents should stop checking household tasksd to show both improvements and differences in families experiences write a b c or d 7 question 38 which of the following is not supported by the passage a every family kept the same responsibilities during the examination week b parents were encouraged to explain problems instead of immediately redoing tasks c some students found their chores easier after developing regular routines d the school plans a family discussion before the next challenge begins write a b c or d 8 question 39 which of the following best summarises the passage a the project showed that cleaner homes are the main result of giving teenagers chores b the project showed that regular chores and clear routines can build responsibility and cooperation c the project showed that teenagers should reduce study time so they can do more housework d the project showed that schools should decide which household jobs every family member must do write a b c or d 9 question 40 which title best fits the passage a building teenage responsibility through everyday household choresb avoiding household chores during the teenage yearsc keeping family homes cleaner through regular choresd why schools should control household responsibilities at home write a b c or d 10": {
+      "question": "PART 4. READING COMPREHENSION Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The word hesitate in paragraph 1 is closest in meaning to ______. A. feel unsure about doing somethingB. rush to do something immediatelyC. refuse to do something foreverD. forget that something needs attention Write A, B, C, or D - {#1} Question 32 According to paragraph 2, what did each family do? A. Asked the teenager to complete every task in the houseB. Gave the teenager a different task every dayC. Chose two suitable household tasks for the teenagerD. Allowed the school to choose all household responsibilities Write A, B, C, or D - {#2} Question 33 The phrase This rule in paragraph 2 refers to the idea that parents should ______. A. record every mistake in the student's diaryB. complete difficult household jobs for the teenagerC. let teenagers try an imperfect task againD. give teenagers a different task each day Write A, B, C, or D - {#3} Question 34 Which statement best paraphrases Ms Huong's view in paragraph 4? A. The main benefit was students seeing housework as a shared responsibility.B. Teenagers should take over most household responsibilities from their parents.C. Families should focus on completing chores rather than discussing responsibilities.D. The project's main success was making family homes cleaner and tidier. Write A, B, C, or D - {#4} Question 35 What can be inferred from Khoa's experience? A. He learnt to organise his time more efficiently.B. He stopped doing chores because they took too long.C. He decided that schoolwork was less important than housework.D. His parents began packing his schoolbag for him. Write A, B, C, or D - {#5} Question 36 Where in paragraph 5 does the following sentence best fit? Clear expectations seemed to matter as much as the tasks themselves. A. [III]B. [I]C. [IV]D. [II] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 3? A. To explain why the school first created the projectB. To describe all the rules students had to followC. To argue that parents should stop checking household tasksD. To show both improvements and differences in families' experiences Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Every family kept the same responsibilities during the examination week.B. Parents were encouraged to explain problems instead of immediately redoing tasks.C. Some students found their chores easier after developing regular routines.D. The school plans a family discussion before the next challenge begins. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. The project showed that cleaner homes are the main result of giving teenagers chores.B. The project showed that regular chores and clear routines can build responsibility and cooperation.C. The project showed that teenagers should reduce study time so they can do more housework.D. The project showed that schools should decide which household jobs every family member must do. Write A, B, C, or D - {#9} Question 40 Which title best fits the passage? A. Building Teenage Responsibility Through Everyday Household ChoresB. Avoiding Household Chores During the Teenage YearsC. Keeping Family Homes Cleaner Through Regular ChoresD. Why Schools Should Control Household Responsibilities at Home Write A, B, C, or D - {#10}",
+      "clean_stem": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word hesitate in paragraph 1 is closest in meaning to a feel unsure about doing somethingb rush to do something immediatelyc refuse to do something foreverd forget that something needs attention write a b c or d 1 question 32 according to paragraph 2 what did each family do a asked the teenager to complete every task in the houseb gave the teenager a different task every dayc chose two suitable household tasks for the teenagerd allowed the school to choose all household responsibilities write a b c or d 2 question 33 the phrase this rule in paragraph 2 refers to the idea that parents should a record every mistake in the student s diaryb complete difficult household jobs for the teenagerc let teenagers try an imperfect task againd give teenagers a different task each day write a b c or d 3 question 34 which statement best paraphrases ms huong s view in paragraph 4 a the main benefit was students seeing housework as a shared responsibility b teenagers should take over most household responsibilities from their parents c families should focus on completing chores rather than discussing responsibilities d the project s main success was making family homes cleaner and tidier write a b c or d 4 question 35 what can be inferred from khoa s experience a he learnt to organise his time more efficiently b he stopped doing chores because they took too long c he decided that schoolwork was less important than housework d his parents began packing his schoolbag for him write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit clear expectations seemed to matter as much as the tasks themselves a iii b i c iv d ii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why the school first created the projectb to describe all the rules students had to followc to argue that parents should stop checking household tasksd to show both improvements and differences in families experiences write a b c or d 7 question 38 which of the following is not supported by the passage a every family kept the same responsibilities during the examination week b parents were encouraged to explain problems instead of immediately redoing tasks c some students found their chores easier after developing regular routines d the school plans a family discussion before the next challenge begins write a b c or d 8 question 39 which of the following best summarises the passage a the project showed that cleaner homes are the main result of giving teenagers chores b the project showed that regular chores and clear routines can build responsibility and cooperation c the project showed that teenagers should reduce study time so they can do more housework d the project showed that schools should decide which household jobs every family member must do write a b c or d 9 question 40 which title best fits the passage a building teenage responsibility through everyday household choresb avoiding household chores during the teenage yearsc keeping family homes cleaner through regular choresd why schools should control household responsibilities at home write a b c or d 10",
+      "stem_key": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word hesitate in paragraph 1 is closest in meaning to a feel unsure about doing somethingb rush to do something immediatelyc refuse to do something foreverd forget that something needs attention write a b c or d 1 question 32 according to paragraph 2 what did each family do a asked the teenager to complete every task in the houseb gave the teenager a different task every dayc chose two suitable household tasks for the teenagerd allowed the school to choose all household responsibilities write a b c or d 2 question 33 the phrase this rule in paragraph 2 refers to the idea that parents should a record every mistake in the student s diaryb complete difficult household jobs for the teenagerc let teenagers try an imperfect task againd give teenagers a different task each day write a b c or d 3 question 34 which statement best paraphrases ms huong s view in paragraph 4 a the main benefit was students seeing housework as a shared responsibility b teenagers should take over most household responsibilities from their parents c families should focus on completing chores rather than discussing responsibilities d the project s main success was making family homes cleaner and tidier write a b c or d 4 question 35 what can be inferred from khoa s experience a he learnt to organise his time more efficiently b he stopped doing chores because they took too long c he decided that schoolwork was less important than housework d his parents began packing his schoolbag for him write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit clear expectations seemed to matter as much as the tasks themselves a iii b i c iv d ii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why the school first created the projectb to describe all the rules students had to followc to argue that parents should stop checking household tasksd to show both improvements and differences in families experiences write a b c or d 7 question 38 which of the following is not supported by the passage a every family kept the same responsibilities during the examination week b parents were encouraged to explain problems instead of immediately redoing tasks c some students found their chores easier after developing regular routines d the school plans a family discussion before the next challenge begins write a b c or d 8 question 39 which of the following best summarises the passage a the project showed that cleaner homes are the main result of giving teenagers chores b the project showed that regular chores and clear routines can build responsibility and cooperation c the project showed that teenagers should reduce study time so they can do more housework d the project showed that schools should decide which household jobs every family member must do write a b c or d 9 question 40 which title best fits the passage a building teenage responsibility through everyday household choresb avoiding household chores during the teenage yearsc keeping family homes cleaner through regular choresd why schools should control household responsibilities at home write a b c or d 10",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word hesitate in paragraph 1 is closest in meaning to a feel unsure about doing somethingb rush to do something immediatelyc refuse to do something foreverd forget that something needs attention write a b c or d question 32 according to paragraph 2 what did each family do a asked the teenager to complete every task in the houseb gave the teenager a different task every dayc chose two suitable household tasks for the teenagerd allowed the school to choose all household responsibilities write a b c or d question 33 the phrase this rule in paragraph 2 refers to the idea that parents should a record every mistake in the student s diaryb complete difficult household jobs for the teenagerc let teenagers try an imperfect task againd give teenagers a different task each day write a b c or d question 34 which statement best paraphrases ms huong s view in paragraph 4 a the main benefit was students seeing housework as a shared responsibility b teenagers should take over most household responsibilities from their parents c families should focus on completing chores rather than discussing responsibilities d the project s main success was making family homes cleaner and tidier write a b c or d question 35 what can be inferred from khoa s experience a he learnt to organise his time more efficiently b he stopped doing chores because they took too long c he decided that schoolwork was less important than housework d his parents began packing his schoolbag for him write a b c or d question 36 where in paragraph 5 does the following sentence best fit clear expectations seemed to matter as much as the tasks themselves a iii b i c iv d ii write a b c or d question 37 what is the main purpose of paragraph 3 a to explain why the school first created the projectb to describe all the rules students had to followc to argue that parents should stop checking household tasksd to show both improvements and differences in families experiences write a b c or d question 38 which of the following is not supported by the passage a every family kept the same responsibilities during the examination week b parents were encouraged to explain problems instead of immediately redoing tasks c some students found their chores easier after developing regular routines d the school plans a family discussion before the next challenge begins write a b c or d question 39 which of the following best summarises the passage a the project showed that cleaner homes are the main result of giving teenagers chores b the project showed that regular chores and clear routines can build responsibility and cooperation c the project showed that teenagers should reduce study time so they can do more housework d the project showed that schools should decide which household jobs every family member must do write a b c or d question 40 which title best fits the passage a building teenage responsibility through everyday household choresb avoiding household chores during the teenage yearsc keeping family homes cleaner through regular choresd why schools should control household responsibilities at home write a b c or d": {
+      "question": "PART 4. READING COMPREHENSION Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question. Question 31 The word hesitate in paragraph 1 is closest in meaning to ______. A. feel unsure about doing somethingB. rush to do something immediatelyC. refuse to do something foreverD. forget that something needs attention Write A, B, C, or D - {#1} Question 32 According to paragraph 2, what did each family do? A. Asked the teenager to complete every task in the houseB. Gave the teenager a different task every dayC. Chose two suitable household tasks for the teenagerD. Allowed the school to choose all household responsibilities Write A, B, C, or D - {#2} Question 33 The phrase This rule in paragraph 2 refers to the idea that parents should ______. A. record every mistake in the student's diaryB. complete difficult household jobs for the teenagerC. let teenagers try an imperfect task againD. give teenagers a different task each day Write A, B, C, or D - {#3} Question 34 Which statement best paraphrases Ms Huong's view in paragraph 4? A. The main benefit was students seeing housework as a shared responsibility.B. Teenagers should take over most household responsibilities from their parents.C. Families should focus on completing chores rather than discussing responsibilities.D. The project's main success was making family homes cleaner and tidier. Write A, B, C, or D - {#4} Question 35 What can be inferred from Khoa's experience? A. He learnt to organise his time more efficiently.B. He stopped doing chores because they took too long.C. He decided that schoolwork was less important than housework.D. His parents began packing his schoolbag for him. Write A, B, C, or D - {#5} Question 36 Where in paragraph 5 does the following sentence best fit? Clear expectations seemed to matter as much as the tasks themselves. A. [III]B. [I]C. [IV]D. [II] Write A, B, C, or D - {#6} Question 37 What is the main purpose of paragraph 3? A. To explain why the school first created the projectB. To describe all the rules students had to followC. To argue that parents should stop checking household tasksD. To show both improvements and differences in families' experiences Write A, B, C, or D - {#7} Question 38 Which of the following is NOT supported by the passage? A. Every family kept the same responsibilities during the examination week.B. Parents were encouraged to explain problems instead of immediately redoing tasks.C. Some students found their chores easier after developing regular routines.D. The school plans a family discussion before the next challenge begins. Write A, B, C, or D - {#8} Question 39 Which of the following best summarises the passage? A. The project showed that cleaner homes are the main result of giving teenagers chores.B. The project showed that regular chores and clear routines can build responsibility and cooperation.C. The project showed that teenagers should reduce study time so they can do more housework.D. The project showed that schools should decide which household jobs every family member must do. Write A, B, C, or D - {#9} Question 40 Which title best fits the passage? A. Building Teenage Responsibility Through Everyday Household ChoresB. Avoiding Household Chores During the Teenage YearsC. Keeping Family Homes Cleaner Through Regular ChoresD. Why Schools Should Control Household Responsibilities at Home Write A, B, C, or D - {#10}",
+      "clean_stem": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word hesitate in paragraph 1 is closest in meaning to a feel unsure about doing somethingb rush to do something immediatelyc refuse to do something foreverd forget that something needs attention write a b c or d 1 question 32 according to paragraph 2 what did each family do a asked the teenager to complete every task in the houseb gave the teenager a different task every dayc chose two suitable household tasks for the teenagerd allowed the school to choose all household responsibilities write a b c or d 2 question 33 the phrase this rule in paragraph 2 refers to the idea that parents should a record every mistake in the student s diaryb complete difficult household jobs for the teenagerc let teenagers try an imperfect task againd give teenagers a different task each day write a b c or d 3 question 34 which statement best paraphrases ms huong s view in paragraph 4 a the main benefit was students seeing housework as a shared responsibility b teenagers should take over most household responsibilities from their parents c families should focus on completing chores rather than discussing responsibilities d the project s main success was making family homes cleaner and tidier write a b c or d 4 question 35 what can be inferred from khoa s experience a he learnt to organise his time more efficiently b he stopped doing chores because they took too long c he decided that schoolwork was less important than housework d his parents began packing his schoolbag for him write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit clear expectations seemed to matter as much as the tasks themselves a iii b i c iv d ii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why the school first created the projectb to describe all the rules students had to followc to argue that parents should stop checking household tasksd to show both improvements and differences in families experiences write a b c or d 7 question 38 which of the following is not supported by the passage a every family kept the same responsibilities during the examination week b parents were encouraged to explain problems instead of immediately redoing tasks c some students found their chores easier after developing regular routines d the school plans a family discussion before the next challenge begins write a b c or d 8 question 39 which of the following best summarises the passage a the project showed that cleaner homes are the main result of giving teenagers chores b the project showed that regular chores and clear routines can build responsibility and cooperation c the project showed that teenagers should reduce study time so they can do more housework d the project showed that schools should decide which household jobs every family member must do write a b c or d 9 question 40 which title best fits the passage a building teenage responsibility through everyday household choresb avoiding household chores during the teenage yearsc keeping family homes cleaner through regular choresd why schools should control household responsibilities at home write a b c or d 10",
+      "stem_key": "reading comprehension questions 31 40 read the following passage and mark the letter a b c or d to indicate the correct answer to each question question 31 the word hesitate in paragraph 1 is closest in meaning to a feel unsure about doing somethingb rush to do something immediatelyc refuse to do something foreverd forget that something needs attention write a b c or d 1 question 32 according to paragraph 2 what did each family do a asked the teenager to complete every task in the houseb gave the teenager a different task every dayc chose two suitable household tasks for the teenagerd allowed the school to choose all household responsibilities write a b c or d 2 question 33 the phrase this rule in paragraph 2 refers to the idea that parents should a record every mistake in the student s diaryb complete difficult household jobs for the teenagerc let teenagers try an imperfect task againd give teenagers a different task each day write a b c or d 3 question 34 which statement best paraphrases ms huong s view in paragraph 4 a the main benefit was students seeing housework as a shared responsibility b teenagers should take over most household responsibilities from their parents c families should focus on completing chores rather than discussing responsibilities d the project s main success was making family homes cleaner and tidier write a b c or d 4 question 35 what can be inferred from khoa s experience a he learnt to organise his time more efficiently b he stopped doing chores because they took too long c he decided that schoolwork was less important than housework d his parents began packing his schoolbag for him write a b c or d 5 question 36 where in paragraph 5 does the following sentence best fit clear expectations seemed to matter as much as the tasks themselves a iii b i c iv d ii write a b c or d 6 question 37 what is the main purpose of paragraph 3 a to explain why the school first created the projectb to describe all the rules students had to followc to argue that parents should stop checking household tasksd to show both improvements and differences in families experiences write a b c or d 7 question 38 which of the following is not supported by the passage a every family kept the same responsibilities during the examination week b parents were encouraged to explain problems instead of immediately redoing tasks c some students found their chores easier after developing regular routines d the school plans a family discussion before the next challenge begins write a b c or d 8 question 39 which of the following best summarises the passage a the project showed that cleaner homes are the main result of giving teenagers chores b the project showed that regular chores and clear routines can build responsibility and cooperation c the project showed that teenagers should reduce study time so they can do more housework d the project showed that schools should decide which household jobs every family member must do write a b c or d 9 question 40 which title best fits the passage a building teenage responsibility through everyday household choresb avoiding household chores during the teenage yearsc keeping family homes cleaner through regular choresd why schools should control household responsibilities at home write a b c or d 10",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 blank 7 is in each family while another asks who usually manages the home students also report how often family members 8 blank 8 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 blank 9 home later because of basketball practice she still believes household work is everyone s 10 blank 10 her brother does not enjoy cleaning 11 blank 11 he helps when the family is busy according to lan sharing tasks can strengthen family 12 blank 12 and give everyone more time to relax together 📋bảng lựa chọn các ô trống cloze options ô 7 a routineb houseworkc laundryd breadwinnerô 8 a cleanb makec putd shopô 9 a gettingb gotc getd is gettingô 10 a gratitudeb responsibilityc benefitd characterô 11 a orb butc becaused soô 12 a bondsb skillsc groceriesd chores": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. OUR FAMILY ROUTINE SURVEY Class 10A is carrying out a survey about family routines. One question asks who the main (7) [Blank 7] is in each family, while another asks who usually manages the home. Students also report how often family members (8) [Blank 8] for groceries and how household work is divided. Lan usually helps her grandmother after school, but this week she (9) [Blank 9] home later because of basketball practice. She still believes household work is everyone's (10) [Blank 10] . Her brother does not enjoy cleaning, (11) [Blank 11] he helps when the family is busy. According to Lan, sharing tasks can strengthen family (12) [Blank 12] and give everyone more time to relax together.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.routineB.houseworkC.laundryD.breadwinnerÔ (8):A.cleanB.makeC.putD.shopÔ (9):A.gettingB.gotC.getD.is gettingÔ (10):A.gratitudeB.responsibilityC.benefitD.characterÔ (11):A.orB.butC.becauseD.soÔ (12):A.bondsB.skillsC.groceriesD.chores",
+      "clean_stem": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 blank 7 is in each family while another asks who usually manages the home students also report how often family members 8 blank 8 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 blank 9 home later because of basketball practice she still believes household work is everyone s 10 blank 10 her brother does not enjoy cleaning 11 blank 11 he helps when the family is busy according to lan sharing tasks can strengthen family 12 blank 12 and give everyone more time to relax together 📋bảng lựa chọn các ô trống cloze options ô 7 a routineb houseworkc laundryd breadwinnerô 8 a cleanb makec putd shopô 9 a gettingb gotc getd is gettingô 10 a gratitudeb responsibilityc benefitd characterô 11 a orb butc becaused soô 12 a bondsb skillsc groceriesd chores",
+      "stem_key": "language in functional texts questions 7 12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 our family routine survey class 10a is carrying out a survey about family routines one question asks who the main 7 blank 7 is in each family while another asks who usually manages the home students also report how often family members 8 blank 8 for groceries and how household work is divided lan usually helps her grandmother after school but this week she 9 blank 9 home later because of basketball practice she still believes household work is everyone s 10 blank 10 her brother does not enjoy cleaning 11 blank 11 he helps when the family is busy according to lan sharing tasks can strengthen family 12 blank 12 and give everyone more time to relax together 📋bảng lựa chọn các ô trống cloze options ô 7 a routineb houseworkc laundryd breadwinnerô 8 a cleanb makec putd shopô 9 a gettingb gotc getd is gettingô 10 a gratitudeb responsibilityc benefitd characterô 11 a orb butc becaused soô 12 a bondsb skillsc groceriesd chores",
+      "answer": "breadwinner",
+      "letter": "D",
+      "options": [
+        "breadwinner"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. breadwinner"
+        },
+        {
+          "index": 1,
+          "value": "D. shop"
+        },
+        {
+          "index": 2,
+          "value": "D. is getting"
+        },
+        {
+          "index": 3,
+          "value": "B. responsibility"
+        },
+        {
+          "index": 4,
+          "value": "B. but"
+        },
+        {
+          "index": 5,
+          "value": "A. bonds"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
+    },
+    "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 blank 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 blank 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 blank 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 blank 4 the activity list at the moment mai s family also has a short meeting 5 blank 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 blank 6 and appreciate each other s efforts 📋bảng lựa chọn các ô trống cloze options ô 1 a routinesb bondsc rolesd choresô 2 a do the washing upb do the heavy liftingc shop for groceriesd make the bedsô 3 a is preparingb preparedc prepared preparesô 4 a organisesb is organisingc organisedd organiseô 5 a right nowb every saturdayc at the momentd yesterdayô 6 a privatelyb togetherc separatelyd suddenly": {
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FAMILY DAY: SHARE THE WORK! At Greenfield High School, Family Day will take place this Saturday. Students and parents will join a Share the Work activity to show that household (1) [Blank 1] can be easier when everyone helps. Each family will choose one task. Some teams will clear the plates and (2) [Blank 2] after lunch, while others will prepare food or put out the rubbish. At home, Mai's father usually (3) [Blank 3] dinner on Sundays, so he has volunteered to lead one of the cooking teams. Her mother (4) [Blank 4] the activity list at the moment. Mai's family also has a short meeting (5) [Blank 5] to decide who will be responsible for different jobs during the coming week. Organisers hope the event will encourage family members to work (6) [Blank 6] and appreciate each other's efforts.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.routinesB.bondsC.rolesD.choresÔ (2):A.do the washing-upB.do the heavy liftingC.shop for groceriesD.make the bedsÔ (3):A.is preparingB.preparedC.prepareD.preparesÔ (4):A.organisesB.is organisingC.organisedD.organiseÔ (5):A.right nowB.every SaturdayC.at the momentD.yesterdayÔ (6):A.privatelyB.togetherC.separatelyD.suddenly",
+      "clean_stem": "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 blank 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 blank 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 blank 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 blank 4 the activity list at the moment mai s family also has a short meeting 5 blank 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 blank 6 and appreciate each other s efforts 📋bảng lựa chọn các ô trống cloze options ô 1 a routinesb bondsc rolesd choresô 2 a do the washing upb do the heavy liftingc shop for groceriesd make the bedsô 3 a is preparingb preparedc prepared preparesô 4 a organisesb is organisingc organisedd organiseô 5 a right nowb every saturdayc at the momentd yesterdayô 6 a privatelyb togetherc separatelyd suddenly",
+      "stem_key": "language in functional texts questions 1 6 read the following announcement and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 family day share the work at greenfield high school family day will take place this saturday students and parents will join a share the work activity to show that household 1 blank 1 can be easier when everyone helps each family will choose one task some teams will clear the plates and 2 blank 2 after lunch while others will prepare food or put out the rubbish at home mai s father usually 3 blank 3 dinner on sundays so he has volunteered to lead one of the cooking teams her mother 4 blank 4 the activity list at the moment mai s family also has a short meeting 5 blank 5 to decide who will be responsible for different jobs during the coming week organisers hope the event will encourage family members to work 6 blank 6 and appreciate each other s efforts 📋bảng lựa chọn các ô trống cloze options ô 1 a routinesb bondsc rolesd choresô 2 a do the washing upb do the heavy liftingc shop for groceriesd make the bedsô 3 a is preparingb preparedc prepared preparesô 4 a organisesb is organisingc organisedd organiseô 5 a right nowb every saturdayc at the momentd yesterdayô 6 a privatelyb togetherc separatelyd suddenly",
+      "answer": "chores",
+      "letter": "D",
+      "options": [
+        "chores"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. chores"
+        },
+        {
+          "index": 1,
+          "value": "A. do the washing-up"
+        },
+        {
+          "index": 2,
+          "value": "D. prepares"
+        },
+        {
+          "index": 3,
+          "value": "B. is organising"
+        },
+        {
+          "index": 4,
+          "value": "B. every Saturday"
+        },
+        {
+          "index": 5,
+          "value": "B. together"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:04:15Z"
     }
   }
 }
