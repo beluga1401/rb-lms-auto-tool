@@ -1,0 +1,632 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Quang Huy",
+    "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
+    "class_key": "khoi_10",
+    "grade_num": "10",
+    "unit_name": "SESSION 3 - ÔN TẬP GK1",
+    "unit_key": "session_3_on_tap_gk1",
+    "quiz_title": "GR10EX32-TERM 1 MID-TEST REVIEW",
+    "quiz_key": "gr10ex32_term_1_mid_test_review",
+    "cmid": "739911",
+    "course_id": "11741",
+    "repo_path": "cloud_configs/khoi_10/session_3_on_tap_gk1/gr10ex32_term_1_mid_test_review.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 80,
+    "updated_at": "2026-10-28 21:13:30"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. a greener school canteen students at greenfield high are looking for ways to reduce waste in the school canteen. one problem is the amount of (7) left on tables and floors after lunch.the green club has asked students to (8) the use of single-use plastic bags and bottles.look at how full the food-waste bin is already. we (9) need a larger one tomorrow if the same amount of waste is produced.new sorting signs (10) beside each bin before monday.some students still put items in the wrong bins; (11) , the number of mistakes is falling each day.the aim is to make everyday lunchtime habits more (12) and environmentally responsible.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. A GREENER SCHOOL CANTEEN Students at Greenfield High are looking for ways to reduce waste in the school canteen. One problem is the amount of (7) {#1} left on tables and floors after lunch.The Green Club has asked students to (8) {#2} the use of single-use plastic bags and bottles.Look at how full the food-waste bin is already. We (9) {#3} need a larger one tomorrow if the same amount of waste is produced.New sorting signs (10) {#4} beside each bin before Monday.Some students still put items in the wrong bins; (11) {#5}, the number of mistakes is falling each day.The aim is to make everyday lunchtime habits more (12) {#6} and environmentally responsible.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "litter"
+        },
+        {
+          "index": 1,
+          "value": "cut down on"
+        },
+        {
+          "index": 2,
+          "value": "are going to"
+        },
+        {
+          "index": 3,
+          "value": "will be put"
+        },
+        {
+          "index": 4,
+          "value": "however"
+        },
+        {
+          "index": 5,
+          "value": "sustainable"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. A GREENER SCHOOL CANTEEN Students at Greenfield High are looking for ways to reduce waste in the school canteen. One problem is the amount of (7) {#1} left on tables and floors after lunch.The Green Club has asked students to (8) {#2} the use of single-use plastic bags and bottles.Look at how full the food-waste bin is already. We (9) {#3} need a larger one tomorrow if the same amount of waste is produced.New sorting signs (10) {#4} beside each bin before Monday.Some students still put items in the wrong bins; (11) {#5}, the number of mistakes is falling each day.The aim is to make everyday lunchtime habits more (12) {#6} and environmentally responsible.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. green week at lakeside high school next week, lakeside high school will hold green week to encourage students to develop a more (1) lifestyle.students can join different activities, including collecting used paper, planting trees, and learning how to (2) their carbon footprint.the green club has already made its plan. it (3) a “no plastic day” next friday.“oh, we still need one more volunteer at the school gate,” mai says. “i (4) do it.”each recycling box (5) with a clear label so students know where to put paper, plastic, and other materials.the organisers hope everyone will take part, (6) small actions can make a real difference.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. GREEN WEEK AT LAKESIDE HIGH SCHOOL Next week, Lakeside High School will hold Green Week to encourage students to develop a more (1) {#1} lifestyle.Students can join different activities, including collecting used paper, planting trees, and learning how to (2) {#2} their carbon footprint.The Green Club has already made its plan. It (3) {#3} a “No Plastic Day” next Friday.“Oh, we still need one more volunteer at the school gate,” Mai says. “I (4) {#4} do it.”Each recycling box (5) {#5} with a clear label so students know where to put paper, plastic, and other materials.The organisers hope everyone will take part, (6) {#6} small actions can make a real difference.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "eco-friendly"
+        },
+        {
+          "index": 1,
+          "value": "reduce"
+        },
+        {
+          "index": 2,
+          "value": "is going to organise"
+        },
+        {
+          "index": 3,
+          "value": "will"
+        },
+        {
+          "index": 4,
+          "value": "is marked"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. GREEN WEEK AT LAKESIDE HIGH SCHOOL Next week, Lakeside High School will hold Green Week to encourage students to develop a more (1) {#1} lifestyle.Students can join different activities, including collecting used paper, planting trees, and learning how to (2) {#2} their carbon footprint.The Green Club has already made its plan. It (3) {#3} a “No Plastic Day” next Friday.“Oh, we still need one more volunteer at the school gate,” Mai says. “I (4) {#4} do it.”Each recycling box (5) {#5} with a clear label so students know where to put paper, plastic, and other materials.The organisers hope everyone will take part, (6) {#6} small actions can make a real difference.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a classroom without single-use cups during a one-week waste check, class 10c found that students threw away more than one hundred paper cups after break time. most of the cups had been used only once. (13) ______.at a class meeting, the students discussed several possible solutions. they finally agreed on a two-week trial. (14) ______.to help everyone remember, the class monitors will put a small reminder near the classroom door. (15) ______.not every student owns a reusable cup, so the class has also prepared an alternative. (16) ______.at the end of the trial, students will compare the number of cups thrown away with the number from the first week. (17) ______. question 13a. the class asked the canteen to stop selling all drinks immediately.b. most students believed that paper cups created no environmental problem.c. the class decided to reduce this waste by changing one everyday habit.d. the students agreed that every type of cup should be thrown away after use.write a, b, c, or d – question 14a. each student is going to bring a reusable cup to school whenever possible.b. the canteen is going to sell drinks only in larger paper cups during the trial.c. students will keep using paper cups but place them in a separate bin.d. the class will ask teachers to bring drinks for students who forget their cups.write a, b, c, or d – question 15a. the monitors will remove the sign as soon as the trial begins.b. the reminder is mainly intended for students in another class.c. students will only see the message after they return from break.d. this simple reminder will help students remember their cups before leaving the room.write a, b, c, or d – question 16a. students who do not own a cup can continue taking new paper cups from the canteen.b. a small set of reusable cups will be available for students to borrow.c. the class will ask those students to bring plastic bottles instead.d. students without cups will join the trial only after buying one.write a, b, c, or d – question 17a. the class hopes the new routine will reduce waste without making break time difficult.b. the students expect the trial to increase the amount of waste in the classroom.c. the class has decided that reducing waste is less important than convenience.d. the students will stop the project before checking whether it has worked.write a, b, c, or d –",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A CLASSROOM WITHOUT SINGLE-USE CUPS During a one-week waste check, Class 10C found that students threw away more than one hundred paper cups after break time. Most of the cups had been used only once. (13) ______.At a class meeting, the students discussed several possible solutions. They finally agreed on a two-week trial. (14) ______.To help everyone remember, the class monitors will put a small reminder near the classroom door. (15) ______.Not every student owns a reusable cup, so the class has also prepared an alternative. (16) ______.At the end of the trial, students will compare the number of cups thrown away with the number from the first week. (17) ______. Question 13A. The class asked the canteen to stop selling all drinks immediately.B. Most students believed that paper cups created no environmental problem.C. The class decided to reduce this waste by changing one everyday habit.D. The students agreed that every type of cup should be thrown away after use.Write A, B, C, or D – {#1}Question 14A. Each student is going to bring a reusable cup to school whenever possible.B. The canteen is going to sell drinks only in larger paper cups during the trial.C. Students will keep using paper cups but place them in a separate bin.D. The class will ask teachers to bring drinks for students who forget their cups.Write A, B, C, or D – {#2}Question 15A. The monitors will remove the sign as soon as the trial begins.B. The reminder is mainly intended for students in another class.C. Students will only see the message after they return from break.D. This simple reminder will help students remember their cups before leaving the room.Write A, B, C, or D – {#3}Question 16A. Students who do not own a cup can continue taking new paper cups from the canteen.B. A small set of reusable cups will be available for students to borrow.C. The class will ask those students to bring plastic bottles instead.D. Students without cups will join the trial only after buying one.Write A, B, C, or D – {#4}Question 17A. The class hopes the new routine will reduce waste without making break time difficult.B. The students expect the trial to increase the amount of waste in the classroom.C. The class has decided that reducing waste is less important than convenience.D. The students will stop the project before checking whether it has worked.Write A, B, C, or D – {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "b"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A CLASSROOM WITHOUT SINGLE-USE CUPS During a one-week waste check, Class 10C found that students threw away more than one hundred paper cups after break time. Most of the cups had been used only once. (13) ______.At a class meeting, the students discussed several possible solutions. They finally agreed on a two-week trial. (14) ______.To help everyone remember, the class monitors will put a small reminder near the classroom door. (15) ______.Not every student owns a reusable cup, so the class has also prepared an alternative. (16) ______.At the end of the trial, students will compare the number of cups thrown away with the number from the first week. (17) ______. Question 13A. The class asked the canteen to stop selling all drinks immediately.B. Most students believed that paper cups created no environmental problem.C. The class decided to reduce this waste by changing one everyday habit.D. The students agreed that every type of cup should be thrown away after use.Write A, B, C, or D – {#1}Question 14A. Each student is going to bring a reusable cup to school whenever possible.B. The canteen is going to sell drinks only in larger paper cups during the trial.C. Students will keep using paper cups but place them in a separate bin.D. The class will ask teachers to bring drinks for students who forget their cups.Write A, B, C, or D – {#2}Question 15A. The monitors will remove the sign as soon as the trial begins.B. The reminder is mainly intended for students in another class.C. Students will only see the message after they return from break.D. This simple reminder will help students remember their cups before leaving the room.Write A, B, C, or D – {#3}Question 16A. Students who do not own a cup can continue taking new paper cups from the canteen.B. A small set of reusable cups will be available for students to borrow.C. The class will ask those students to bring plastic bottles instead.D. Students without cups will join the trial only after buying one.Write A, B, C, or D – {#4}Question 17A. The class hopes the new routine will reduce waste without making break time difficult.B. The students expect the trial to increase the amount of waste in the classroom.C. The class has decided that reducing waste is less important than convenience.D. The students will stop the project before checking whether it has worked.Write A, B, C, or D – {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. with these stations available, students could refill their bottles instead of buying bottled water every day.b. this change in students' daily behaviour could reduce the number of plastic bottles thrown away at school.c. one useful suggestion is to install more water refill stations.d. in addition, easy access to refill points would make reusable bottles more convenient to use.a. a – c – d – bb. c – a – b – dc. c – b – a – dd. b – d – c – a write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. With these stations available, students could refill their bottles instead of buying bottled water every day.b. This change in students' daily behaviour could reduce the number of plastic bottles thrown away at school.c. One useful suggestion is to install more water refill stations.d. In addition, easy access to refill points would make reusable bottles more convenient to use.A. a – c – d – bB. c – a – b – dC. c – b – a – dD. b – d – c – a Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. With these stations available, students could refill their bottles instead of buying bottled water every day.b. This change in students' daily behaviour could reduce the number of plastic bottles thrown away at school.c. One useful suggestion is to install more water refill stations.d. In addition, easy access to refill points would make reusable bottles more convenient to use.A. a – c – d – bB. c – a – b – dC. c – b – a – dD. b – d – c – a Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. as a result, our classroom now uses less electricity during the lunch break.b. our class noticed that the lights were often left on when nobody was in the room.c. we agreed that the last student to leave would switch them off.d. the new rule was simple, but everyone could follow it.a. c – b – a – db. b – d – c – ac. d – b – c – ad. b – c – d – a write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. As a result, our classroom now uses less electricity during the lunch break.b. Our class noticed that the lights were often left on when nobody was in the room.c. We agreed that the last student to leave would switch them off.d. The new rule was simple, but everyone could follow it.A. c – b – a – dB. b – d – c – aC. d – b – c – aD. b – c – d – a Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. As a result, our classroom now uses less electricity during the lunch break.b. Our class noticed that the lights were often left on when nobody was in the room.c. We agreed that the last student to leave would switch them off.d. The new rule was simple, but everyone could follow it.A. c – b – a – dB. b – d – c – aC. d – b – c – aD. b – c – d – a Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. please bring any clean paper, books, or bottles that can be recycled.b. dear students,c. the collected items will be sorted after school on friday.d. our green club is holding a recycling collection this week.a. d – b – c – ab. b – d – a – cc. a – d – b – cd. b – a – d – c write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Please bring any clean paper, books, or bottles that can be recycled.b. Dear students,c. The collected items will be sorted after school on Friday.d. Our Green Club is holding a recycling collection this week.A. d – b – c – aB. b – d – a – cC. a – d – b – cD. b – a – d – c Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Please bring any clean paper, books, or bottles that can be recycled.b. Dear students,c. The collected items will be sorted after school on Friday.d. Our Green Club is holding a recycling collection this week.A. d – b – c – aB. b – d – a – cC. a – d – b – cD. b – a – d – c Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. lan: great. i'll post the information in our class group tonight.b. minh: we're going to organise a clean-up in the park on saturday.c. lan: good idea. what should volunteers bring?d. minh: gloves and reusable water bottles would be useful.a. c – d – b – ab. b – d – a – cc. b – c – d – ad. d – a – b – c write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Lan: Great. I'll post the information in our class group tonight.b. Minh: We're going to organise a clean-up in the park on Saturday.c. Lan: Good idea. What should volunteers bring?d. Minh: Gloves and reusable water bottles would be useful.A. c – d – b – aB. b – d – a – cC. b – c – d – aD. d – a – b – c Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Lan: Great. I'll post the information in our class group tonight.b. Minh: We're going to organise a clean-up in the park on Saturday.c. Lan: Good idea. What should volunteers bring?d. Minh: Gloves and reusable water bottles would be useful.A. c – d – b – aB. b – d – a – cC. b – c – d – aD. d – a – b – c Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. mai: i keep forgetting to turn off my computer after i finish using it.b. nam: why don't you put a small reminder beside the screen?c. mai: that's a good idea. i'll try that today.d. nam: it may help you build the habit more quickly.a. a – b – c – db. b – a – d – cc. a – c – b – dd. c – d – a – b write a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Mai: I keep forgetting to turn off my computer after I finish using it.b. Nam: Why don't you put a small reminder beside the screen?c. Mai: That's a good idea. I'll try that today.d. Nam: It may help you build the habit more quickly.A. a – b – c – dB. b – a – d – cC. a – c – b – dD. c – d – a – b Write A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Mai: I keep forgetting to turn off my computer after I finish using it.b. Nam: Why don't you put a small reminder beside the screen?c. Mai: That's a good idea. I'll try that today.d. Nam: It may help you build the habit more quickly.A. a – b – c – dB. b – a – d – cC. a – c – b – dD. c – d – a – b Write A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23what is the main idea of the passage?a. students should stop using electrical equipment at school.b. a teacher replaced all the equipment in a classroom.c. a class reduced unnecessary energy use through simple shared habits.d. students found that home appliances use more electricity than school equipment.write a, b, c, or d – question 24the word tracked in paragraph 2 is closest in meaning to ______.a. ignored completelyb. recorded over timec. changed suddenlyd. discussed publiclywrite a, b, c, or d – question 25the phrase this change in paragraph 2 refers to ______.a. switching off equipment after it was no longer neededb. asking students to avoid computers throughout the school dayc. replacing the projector with a more energy-efficient modeld. moving classroom equipment to a different part of the roomwrite a, b, c, or d – question 26according to paragraph 3, what was placed near the classroom door?a. a new projectorb. a recycling boxc. a list of student namesd. a short checklistwrite a, b, c, or d – question 27which of the following is not true according to the passage?a. students checked how classroom equipment was being used.b. the class created a routine for turning equipment off.c. students had to stop using classroom computers completely.d. some students later used similar energy-saving habits at home.write a, b, c, or d – question 28which statement best paraphrases the teacher's view in the final paragraph?a. environmental projects are useful only when they require major spending.b. small daily habits can help the environment without a major project.c. students should focus on saving energy at school rather than at home.d. green living usually requires replacing old electrical equipment.write a, b, c, or d – question 29in which paragraph does the writer describe the checklist added by the class?a. paragraph 3b. paragraph 1c. paragraph 4d. paragraph 2write a, b, c, or d – question 30what can be inferred about what some students learned from the challenge?a. saving energy at home usually requires buying new electrical appliances.b. classroom routines work best when teachers check every student's actions.c. green habits learned at school could also be useful at home.d. using less electricity means schools should avoid most classroom technology.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23What is the main idea of the passage?A. Students should stop using electrical equipment at school.B. A teacher replaced all the equipment in a classroom.C. A class reduced unnecessary energy use through simple shared habits.D. Students found that home appliances use more electricity than school equipment.Write A, B, C, or D – {#1}Question 24The word tracked in paragraph 2 is closest in meaning to ______.A. ignored completelyB. recorded over timeC. changed suddenlyD. discussed publiclyWrite A, B, C, or D – {#2}Question 25The phrase This change in paragraph 2 refers to ______.A. switching off equipment after it was no longer neededB. asking students to avoid computers throughout the school dayC. replacing the projector with a more energy-efficient modelD. moving classroom equipment to a different part of the roomWrite A, B, C, or D – {#3}Question 26According to paragraph 3, what was placed near the classroom door?A. A new projectorB. A recycling boxC. A list of student namesD. A short checklistWrite A, B, C, or D – {#4}Question 27Which of the following is NOT TRUE according to the passage?A. Students checked how classroom equipment was being used.B. The class created a routine for turning equipment off.C. Students had to stop using classroom computers completely.D. Some students later used similar energy-saving habits at home.Write A, B, C, or D – {#5}Question 28Which statement best paraphrases the teacher's view in the final paragraph?A. Environmental projects are useful only when they require major spending.B. Small daily habits can help the environment without a major project.C. Students should focus on saving energy at school rather than at home.D. Green living usually requires replacing old electrical equipment.Write A, B, C, or D – {#6}Question 29In which paragraph does the writer describe the checklist added by the class?A. Paragraph 3B. Paragraph 1C. Paragraph 4D. Paragraph 2Write A, B, C, or D – {#7}Question 30What can be inferred about what some students learned from the challenge?A. Saving energy at home usually requires buying new electrical appliances.B. Classroom routines work best when teachers check every student's actions.C. Green habits learned at school could also be useful at home.D. Using less electricity means schools should avoid most classroom technology.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "b"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "d"
+        },
+        {
+          "index": 4,
+          "value": "c"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23What is the main idea of the passage?A. Students should stop using electrical equipment at school.B. A teacher replaced all the equipment in a classroom.C. A class reduced unnecessary energy use through simple shared habits.D. Students found that home appliances use more electricity than school equipment.Write A, B, C, or D – {#1}Question 24The word tracked in paragraph 2 is closest in meaning to ______.A. ignored completelyB. recorded over timeC. changed suddenlyD. discussed publiclyWrite A, B, C, or D – {#2}Question 25The phrase This change in paragraph 2 refers to ______.A. switching off equipment after it was no longer neededB. asking students to avoid computers throughout the school dayC. replacing the projector with a more energy-efficient modelD. moving classroom equipment to a different part of the roomWrite A, B, C, or D – {#3}Question 26According to paragraph 3, what was placed near the classroom door?A. A new projectorB. A recycling boxC. A list of student namesD. A short checklistWrite A, B, C, or D – {#4}Question 27Which of the following is NOT TRUE according to the passage?A. Students checked how classroom equipment was being used.B. The class created a routine for turning equipment off.C. Students had to stop using classroom computers completely.D. Some students later used similar energy-saving habits at home.Write A, B, C, or D – {#5}Question 28Which statement best paraphrases the teacher's view in the final paragraph?A. Environmental projects are useful only when they require major spending.B. Small daily habits can help the environment without a major project.C. Students should focus on saving energy at school rather than at home.D. Green living usually requires replacing old electrical equipment.Write A, B, C, or D – {#6}Question 29In which paragraph does the writer describe the checklist added by the class?A. Paragraph 3B. Paragraph 1C. Paragraph 4D. Paragraph 2Write A, B, C, or D – {#7}Question 30What can be inferred about what some students learned from the challenge?A. Saving energy at home usually requires buying new electrical appliances.B. Classroom routines work best when teachers check every student's actions.C. Green habits learned at school could also be useful at home.D. Using less electricity means schools should avoid most classroom technology.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31the word gradually in paragraph 3 is closest in meaning to ______.a. without careful planningb. all at oncec. for a limited timed. little by littlewrite a, b, c, or d – question 32according to paragraph 2, what did the green club put beside the canteen?a. a box for collecting used bottlesb. a list showing student volunteers' namesc. a map showing the water refill pointsd. a notice telling students to avoid bottled waterwrite a, b, c, or d – question 33the phrase this pattern in paragraph 3 refers to ______.a. students buying bottled water when they forgot their ownb. teachers mentioning the campaign briefly during lessonsc. students forgetting to bring reusable bottles from homed. the growing use of reusable bottles and refill points over timewrite a, b, c, or d – question 34which statement best paraphrases paragraph 4?a. the campaign led students to discuss other forms of plastic waste.b. the club stopped discussing plastic once the bottle campaign ended.c. students decided shopping bags were the school's main waste problem.d. the project failed because it tried to address too many plastic items.write a, b, c, or d – question 35why did the students most likely count bottles and ask classmates questions before choosing their campaign actions?a. they wanted teachers to choose the campaign without student input.b. they needed to prove recycling bins should be removed from school.c. they planned to compare bottle prices at different school shops.d. they wanted evidence about the problem before choosing a response.write a, b, c, or d – question 36where in paragraph 5 does the following sentence best fit?this difference made the first results harder to compare.a. [i]b. [iv]c. [ii]d. [iii]write a, b, c, or d – question 37what is the main purpose of paragraph 5?a. to explain why reusable bottles should be banned at schoolb. to identify a limitation and suggest improvements for the next projectc. to describe how teachers organised the campaign during lunch breaksd. to compare types of bottles used by students at schoolwrite a, b, c, or d – question 38which of the following is not supported by the passage?a. every student stopped buying bottled water by the end of the campaign.b. some students forgot to bring reusable bottles from home.c. students began discussing other forms of single-use plastic.d. the green club plans to collect better information in a future campaign.write a, b, c, or d – question 39which of the following best summarises the passage?a. a school ban quickly ended bottled-water use among almost all students.b. teachers solved plastic waste mainly by adding more recycling bins.c. students found reusable bottles too inconvenient for regular school use.d. a bottle campaign encouraged reusable bottles and wider discussion of plastic waste.write a, b, c, or d – question 40which title best fits the passage?a. why recycling bins matter most in reducing school wasteb. small changes, less plastic: a school bottle campaignc. how one school eliminated plastic waste in a single weekd. why students prefer bottled water to refillable bottleswrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31The word gradually in paragraph 3 is closest in meaning to ______.A. without careful planningB. all at onceC. for a limited timeD. little by littleWrite A, B, C, or D – {#1}Question 32According to paragraph 2, what did the Green Club put beside the canteen?A. A box for collecting used bottlesB. A list showing student volunteers' namesC. A map showing the water refill pointsD. A notice telling students to avoid bottled waterWrite A, B, C, or D – {#2}Question 33The phrase This pattern in paragraph 3 refers to ______.A. students buying bottled water when they forgot their ownB. teachers mentioning the campaign briefly during lessonsC. students forgetting to bring reusable bottles from homeD. the growing use of reusable bottles and refill points over timeWrite A, B, C, or D – {#3}Question 34Which statement best paraphrases paragraph 4?A. The campaign led students to discuss other forms of plastic waste.B. The club stopped discussing plastic once the bottle campaign ended.C. Students decided shopping bags were the school's main waste problem.D. The project failed because it tried to address too many plastic items.Write A, B, C, or D – {#4}Question 35Why did the students most likely count bottles and ask classmates questions before choosing their campaign actions?A. They wanted teachers to choose the campaign without student input.B. They needed to prove recycling bins should be removed from school.C. They planned to compare bottle prices at different school shops.D. They wanted evidence about the problem before choosing a response.Write A, B, C, or D – {#5}Question 36Where in paragraph 5 does the following sentence best fit?This difference made the first results harder to compare.A. [I]B. [IV]C. [II]D. [III]Write A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 5?A. To explain why reusable bottles should be banned at schoolB. To identify a limitation and suggest improvements for the next projectC. To describe how teachers organised the campaign during lunch breaksD. To compare types of bottles used by students at schoolWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Every student stopped buying bottled water by the end of the campaign.B. Some students forgot to bring reusable bottles from home.C. Students began discussing other forms of single-use plastic.D. The Green Club plans to collect better information in a future campaign.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. A school ban quickly ended bottled-water use among almost all students.B. Teachers solved plastic waste mainly by adding more recycling bins.C. Students found reusable bottles too inconvenient for regular school use.D. A bottle campaign encouraged reusable bottles and wider discussion of plastic waste.Write A, B, C, or D – {#9}Question 40Which title best fits the passage?A. Why Recycling Bins Matter Most in Reducing School WasteB. Small Changes, Less Plastic: A School Bottle CampaignC. How One School Eliminated Plastic Waste in a Single WeekD. Why Students Prefer Bottled Water to Refillable BottlesWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        },
+        {
+          "index": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "c"
+        },
+        {
+          "index": 6,
+          "value": "b"
+        },
+        {
+          "index": 7,
+          "value": "a"
+        },
+        {
+          "index": 8,
+          "value": "d"
+        },
+        {
+          "index": 9,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31The word gradually in paragraph 3 is closest in meaning to ______.A. without careful planningB. all at onceC. for a limited timeD. little by littleWrite A, B, C, or D – {#1}Question 32According to paragraph 2, what did the Green Club put beside the canteen?A. A box for collecting used bottlesB. A list showing student volunteers' namesC. A map showing the water refill pointsD. A notice telling students to avoid bottled waterWrite A, B, C, or D – {#2}Question 33The phrase This pattern in paragraph 3 refers to ______.A. students buying bottled water when they forgot their ownB. teachers mentioning the campaign briefly during lessonsC. students forgetting to bring reusable bottles from homeD. the growing use of reusable bottles and refill points over timeWrite A, B, C, or D – {#3}Question 34Which statement best paraphrases paragraph 4?A. The campaign led students to discuss other forms of plastic waste.B. The club stopped discussing plastic once the bottle campaign ended.C. Students decided shopping bags were the school's main waste problem.D. The project failed because it tried to address too many plastic items.Write A, B, C, or D – {#4}Question 35Why did the students most likely count bottles and ask classmates questions before choosing their campaign actions?A. They wanted teachers to choose the campaign without student input.B. They needed to prove recycling bins should be removed from school.C. They planned to compare bottle prices at different school shops.D. They wanted evidence about the problem before choosing a response.Write A, B, C, or D – {#5}Question 36Where in paragraph 5 does the following sentence best fit?This difference made the first results harder to compare.A. [I]B. [IV]C. [II]D. [III]Write A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 5?A. To explain why reusable bottles should be banned at schoolB. To identify a limitation and suggest improvements for the next projectC. To describe how teachers organised the campaign during lunch breaksD. To compare types of bottles used by students at schoolWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Every student stopped buying bottled water by the end of the campaign.B. Some students forgot to bring reusable bottles from home.C. Students began discussing other forms of single-use plastic.D. The Green Club plans to collect better information in a future campaign.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. A school ban quickly ended bottled-water use among almost all students.B. Teachers solved plastic waste mainly by adding more recycling bins.C. Students found reusable bottles too inconvenient for regular school use.D. A bottle campaign encouraged reusable bottles and wider discussion of plastic waste.Write A, B, C, or D – {#9}Question 40Which title best fits the passage?A. Why Recycling Bins Matter Most in Reducing School WasteB. Small Changes, Less Plastic: A School Bottle CampaignC. How One School Eliminated Plastic Waste in a Single WeekD. Why Students Prefer Bottled Water to Refillable BottlesWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. litter",
+      "id": "question-1908693-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. a greener school canteen students at greenfield high are looking for ways to reduce waste in the school canteen. one problem is the amount of (7) {#1} left on tables and floors after lunch.the green club has asked students to (8) {#2} the use of single-use plastic bags and bottles.look at how full the food-waste bin is already. we (9) {#3} need a larger one tomorrow if the same amount of waste is produced.new sorting signs (10) {#4} beside each bin before monday.some students still put items in the wrong bins; (11) {#5}, the number of mistakes is falling each day.the aim is to make everyday lunchtime habits more (12) {#6} and environmentally responsible.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. A GREENER SCHOOL CANTEEN Students at Greenfield High are looking for ways to reduce waste in the school canteen. One problem is the amount of (7) [Blank 7] left on tables and floors after lunch.The Green Club has asked students to (8) [Blank 8] the use of single-use plastic bags and bottles.Look at how full the food-waste bin is already. We (9) [Blank 9] need a larger one tomorrow if the same amount of waste is produced.New sorting signs (10) [Blank 10] beside each bin before Monday.Some students still put items in the wrong bins; (11) [Blank 11] , the number of mistakes is falling each day.The aim is to make everyday lunchtime habits more (12) [Blank 12] and environmentally responsible.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.energyB.resourcesC.litterD.equipmentÔ (8):A.cut down onB.raise awareness ofC.set upD.clean upÔ (9):A.areB.will goC.were going toD.are going toÔ (10):A.are puttingB.will putC.putD.will be putÔ (11):A.thereforeB.becauseC.soD.howeverÔ (12):A.expensiveB.harmfulC.sustainableD.temporary",
+      "questionId": "question-1908693-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. a greener school canteen students at greenfield high are looking for ways to reduce waste in the school canteen. one problem is the amount of (7) [blank 7] left on tables and floors after lunch.the green club has asked students to (8) [blank 8] the use of single-use plastic bags and bottles.look at how full the food-waste bin is already. we (9) [blank 9] need a larger one tomorrow if the same amount of waste is produced.new sorting signs (10) [blank 10] beside each bin before monday.some students still put items in the wrong bins; (11) [blank 11] , the number of mistakes is falling each day.the aim is to make everyday lunchtime habits more (12) [blank 12] and environmentally responsible.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.energyb.resourcesc.litterd.equipmentô (8):a.cut down onb.raise awareness ofc.set upd.clean upô (9):a.areb.will goc.were going tod.are going toô (10):a.are puttingb.will putc.putd.will be putô (11):a.thereforeb.becausec.sod.howeverô (12):a.expensiveb.harmfulc.sustainabled.temporary",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. litter"
+        },
+        {
+          "index": 1,
+          "value": "A. cut down on"
+        },
+        {
+          "index": 2,
+          "value": "D. are going to"
+        },
+        {
+          "index": 3,
+          "value": "D. will be put"
+        },
+        {
+          "index": 4,
+          "value": "D. however"
+        },
+        {
+          "index": 5,
+          "value": "C. sustainable"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. eco-friendly",
+      "id": "question-1908693-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. green week at lakeside high school next week, lakeside high school will hold green week to encourage students to develop a more (1) {#1} lifestyle.students can join different activities, including collecting used paper, planting trees, and learning how to (2) {#2} their carbon footprint.the green club has already made its plan. it (3) {#3} a \"no plastic day\" next friday.\"oh, we still need one more volunteer at the school gate,\" mai says. \"i (4) {#4} do it.\"each recycling box (5) {#5} with a clear label so students know where to put paper, plastic, and other materials.the organisers hope everyone will take part, (6) {#6} small actions can make a real difference.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. GREEN WEEK AT LAKESIDE HIGH SCHOOL Next week, Lakeside High School will hold Green Week to encourage students to develop a more (1) [Blank 1] lifestyle.Students can join different activities, including collecting used paper, planting trees, and learning how to (2) [Blank 2] their carbon footprint.The Green Club has already made its plan. It (3) [Blank 3] a \"No Plastic Day\" next Friday.\"Oh, we still need one more volunteer at the school gate,\" Mai says. \"I (4) [Blank 4] do it.\"Each recycling box (5) [Blank 5] with a clear label so students know where to put paper, plastic, and other materials.The organisers hope everyone will take part, (6) [Blank 6] small actions can make a real difference.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.crowdedB.privateC.eco-friendlyD.expensiveÔ (2):A.collectB.protectC.raiseD.reduceÔ (3):A.organisedB.is going to organiseC.organisesD.will have organisedÔ (4):A.amB.am going toC.willD.was going toÔ (5):A.is markedB.is markingC.markedD.marksÔ (6):A.althoughB.howeverC.becauseD.unless",
+      "questionId": "question-1908693-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following announcement and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. green week at lakeside high school next week, lakeside high school will hold green week to encourage students to develop a more (1) [blank 1] lifestyle.students can join different activities, including collecting used paper, planting trees, and learning how to (2) [blank 2] their carbon footprint.the green club has already made its plan. it (3) [blank 3] a \"no plastic day\" next friday.\"oh, we still need one more volunteer at the school gate,\" mai says. \"i (4) [blank 4] do it.\"each recycling box (5) [blank 5] with a clear label so students know where to put paper, plastic, and other materials.the organisers hope everyone will take part, (6) [blank 6] small actions can make a real difference.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.crowdedb.privatec.eco-friendlyd.expensiveô (2):a.collectb.protectc.raised.reduceô (3):a.organisedb.is going to organisec.organisesd.will have organisedô (4):a.amb.am going toc.willd.was going toô (5):a.is markedb.is markingc.markedd.marksô (6):a.althoughb.howeverc.becaused.unless",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. eco-friendly"
+        },
+        {
+          "index": 1,
+          "value": "D. reduce"
+        },
+        {
+          "index": 2,
+          "value": "B. is going to organise"
+        },
+        {
+          "index": 3,
+          "value": "C. will"
+        },
+        {
+          "index": 4,
+          "value": "A. is marked"
+        },
+        {
+          "index": 5,
+          "value": "C. because"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1908693-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "b"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a classroom without single-use cups during a one-week waste check, class 10c found that students threw away more than one hundred paper cups after break time. most of the cups had been used only once. (13) ______.at a class meeting, the students discussed several possible solutions. they finally agreed on a two-week trial. (14) ______.to help everyone remember, the class monitors will put a small reminder near the classroom door. (15) ______.not every student owns a reusable cup, so the class has also prepared an alternative. (16) ______.at the end of the trial, students will compare the number of cups thrown away with the number from the first week. (17) ______. question 13a. the class asked the canteen to stop selling all drinks immediately.b. most students believed that paper cups created no environmental problem.c. the class decided to reduce this waste by changing one everyday habit.d. the students agreed that every type of cup should be thrown away after use.write a, b, c, or d – {#1}question 14a. each student is going to bring a reusable cup to school whenever possible.b. the canteen is going to sell drinks only in larger paper cups during the trial.c. students will keep using paper cups but place them in a separate bin.d. the class will ask teachers to bring drinks for students who forget their cups.write a, b, c, or d – {#2}question 15a. the monitors will remove the sign as soon as the trial begins.b. the reminder is mainly intended for students in another class.c. students will only see the message after they return from break.d. this simple reminder will help students remember their cups before leaving the room.write a, b, c, or d – {#3}question 16a. students who do not own a cup can continue taking new paper cups from the canteen.b. a small set of reusable cups will be available for students to borrow.c. the class will ask those students to bring plastic bottles instead.d. students without cups will join the trial only after buying one.write a, b, c, or d – {#4}question 17a. the class hopes the new routine will reduce waste without making break time difficult.b. the students expect the trial to increase the amount of waste in the classroom.c. the class has decided that reducing waste is less important than convenience.d. the students will stop the project before checking whether it has worked.write a, b, c, or d – {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A CLASSROOM WITHOUT SINGLE-USE CUPS During a one-week waste check, Class 10C found that students threw away more than one hundred paper cups after break time. Most of the cups had been used only once. (13) ______.At a class meeting, the students discussed several possible solutions. They finally agreed on a two-week trial. (14) ______.To help everyone remember, the class monitors will put a small reminder near the classroom door. (15) ______.Not every student owns a reusable cup, so the class has also prepared an alternative. (16) ______.At the end of the trial, students will compare the number of cups thrown away with the number from the first week. (17) ______. Question 13A. The class asked the canteen to stop selling all drinks immediately.B. Most students believed that paper cups created no environmental problem.C. The class decided to reduce this waste by changing one everyday habit.D. The students agreed that every type of cup should be thrown away after use.Write A, B, C, or D – {#1}Question 14A. Each student is going to bring a reusable cup to school whenever possible.B. The canteen is going to sell drinks only in larger paper cups during the trial.C. Students will keep using paper cups but place them in a separate bin.D. The class will ask teachers to bring drinks for students who forget their cups.Write A, B, C, or D – {#2}Question 15A. The monitors will remove the sign as soon as the trial begins.B. The reminder is mainly intended for students in another class.C. Students will only see the message after they return from break.D. This simple reminder will help students remember their cups before leaving the room.Write A, B, C, or D – {#3}Question 16A. Students who do not own a cup can continue taking new paper cups from the canteen.B. A small set of reusable cups will be available for students to borrow.C. The class will ask those students to bring plastic bottles instead.D. Students without cups will join the trial only after buying one.Write A, B, C, or D – {#4}Question 17A. The class hopes the new routine will reduce waste without making break time difficult.B. The students expect the trial to increase the amount of waste in the classroom.C. The class has decided that reducing waste is less important than convenience.D. The students will stop the project before checking whether it has worked.Write A, B, C, or D – {#5}",
+      "questionId": "question-1908693-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a classroom without single-use cups during a one-week waste check, class 10c found that students threw away more than one hundred paper cups after break time. most of the cups had been used only once. (13) ______.at a class meeting, the students discussed several possible solutions. they finally agreed on a two-week trial. (14) ______.to help everyone remember, the class monitors will put a small reminder near the classroom door. (15) ______.not every student owns a reusable cup, so the class has also prepared an alternative. (16) ______.at the end of the trial, students will compare the number of cups thrown away with the number from the first week. (17) ______. question 13a. the class asked the canteen to stop selling all drinks immediately.b. most students believed that paper cups created no environmental problem.c. the class decided to reduce this waste by changing one everyday habit.d. the students agreed that every type of cup should be thrown away after use.write a, b, c, or d – {#1}question 14a. each student is going to bring a reusable cup to school whenever possible.b. the canteen is going to sell drinks only in larger paper cups during the trial.c. students will keep using paper cups but place them in a separate bin.d. the class will ask teachers to bring drinks for students who forget their cups.write a, b, c, or d – {#2}question 15a. the monitors will remove the sign as soon as the trial begins.b. the reminder is mainly intended for students in another class.c. students will only see the message after they return from break.d. this simple reminder will help students remember their cups before leaving the room.write a, b, c, or d – {#3}question 16a. students who do not own a cup can continue taking new paper cups from the canteen.b. a small set of reusable cups will be available for students to borrow.c. the class will ask those students to bring plastic bottles instead.d. students without cups will join the trial only after buying one.write a, b, c, or d – {#4}question 17a. the class hopes the new routine will reduce waste without making break time difficult.b. the students expect the trial to increase the amount of waste in the classroom.c. the class has decided that reducing waste is less important than convenience.d. the students will stop the project before checking whether it has worked.write a, b, c, or d – {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1908693-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. as a result, our classroom now uses less electricity during the lunch break.b. our class noticed that the lights were often left on when nobody was in the room.c. we agreed that the last student to leave would switch them off.d. the new rule was simple, but everyone could follow it.a. c – b – a – db. b – d – c – ac. d – b – c – ad. b – c – d – a write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. As a result, our classroom now uses less electricity during the lunch break.b. Our class noticed that the lights were often left on when nobody was in the room.c. We agreed that the last student to leave would switch them off.d. The new rule was simple, but everyone could follow it.A. c – b – a – dB. b – d – c – aC. d – b – c – aD. b – c – d – a Write A, B, C, or D – {#1}",
+      "questionId": "question-1908693-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. as a result, our classroom now uses less electricity during the lunch break.b. our class noticed that the lights were often left on when nobody was in the room.c. we agreed that the last student to leave would switch them off.d. the new rule was simple, but everyone could follow it.a. c – b – a – db. b – d – c – ac. d – b – c – ad. b – c – d – a write a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1908693-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. lan: great. i'll post the information in our class group tonight.b. minh: we're going to organise a clean-up in the park on saturday.c. lan: good idea. what should volunteers bring?d. minh: gloves and reusable water bottles would be useful.a. c – d – b – ab. b – d – a – cc. b – c – d – ad. d – a – b – c write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Lan: Great. I'll post the information in our class group tonight.b. Minh: We're going to organise a clean-up in the park on Saturday.c. Lan: Good idea. What should volunteers bring?d. Minh: Gloves and reusable water bottles would be useful.A. c – d – b – aB. b – d – a – cC. b – c – d – aD. d – a – b – c Write A, B, C, or D – {#1}",
+      "questionId": "question-1908693-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. lan: great. i'll post the information in our class group tonight.b. minh: we're going to organise a clean-up in the park on saturday.c. lan: good idea. what should volunteers bring?d. minh: gloves and reusable water bottles would be useful.a. c – d – b – ab. b – d – a – cc. b – c – d – ad. d – a – b – c write a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1908693-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. please bring any clean paper, books, or bottles that can be recycled.b. dear students,c. the collected items will be sorted after school on friday.d. our green club is holding a recycling collection this week.a. d – b – c – ab. b – d – a – cc. a – d – b – cd. b – a – d – c write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Please bring any clean paper, books, or bottles that can be recycled.b. Dear students,c. The collected items will be sorted after school on Friday.d. Our Green Club is holding a recycling collection this week.A. d – b – c – aB. b – d – a – cC. a – d – b – cD. b – a – d – c Write A, B, C, or D – {#1}",
+      "questionId": "question-1908693-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. please bring any clean paper, books, or bottles that can be recycled.b. dear students,c. the collected items will be sorted after school on friday.d. our green club is holding a recycling collection this week.a. d – b – c – ab. b – d – a – cc. a – d – b – cd. b – a – d – c write a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1908693-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. mai: i keep forgetting to turn off my computer after i finish using it.b. nam: why don't you put a small reminder beside the screen?c. mai: that's a good idea. i'll try that today.d. nam: it may help you build the habit more quickly.a. a – b – c – db. b – a – d – cc. a – c – b – dd. c – d – a – b write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Mai: I keep forgetting to turn off my computer after I finish using it.b. Nam: Why don't you put a small reminder beside the screen?c. Mai: That's a good idea. I'll try that today.d. Nam: It may help you build the habit more quickly.A. a – b – c – dB. b – a – d – cC. a – c – b – dD. c – d – a – b Write A, B, C, or D – {#1}",
+      "questionId": "question-1908693-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. mai: i keep forgetting to turn off my computer after i finish using it.b. nam: why don't you put a small reminder beside the screen?c. mai: that's a good idea. i'll try that today.d. nam: it may help you build the habit more quickly.a. a – b – c – db. b – a – d – cc. a – c – b – dd. c – d – a – b write a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1908693-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. with these stations available, students could refill their bottles instead of buying bottled water every day.b. this change in students' daily behaviour could reduce the number of plastic bottles thrown away at school.c. one useful suggestion is to install more water refill stations.d. in addition, easy access to refill points would make reusable bottles more convenient to use.a. a – c – d – bb. c – a – b – dc. c – b – a – dd. b – d – c – a write a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. With these stations available, students could refill their bottles instead of buying bottled water every day.b. This change in students' daily behaviour could reduce the number of plastic bottles thrown away at school.c. One useful suggestion is to install more water refill stations.d. In addition, easy access to refill points would make reusable bottles more convenient to use.A. a – c – d – bB. c – a – b – dC. c – b – a – dD. b – d – c – a Write A, B, C, or D – {#1}",
+      "questionId": "question-1908693-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. with these stations available, students could refill their bottles instead of buying bottled water every day.b. this change in students' daily behaviour could reduce the number of plastic bottles thrown away at school.c. one useful suggestion is to install more water refill stations.d. in addition, easy access to refill points would make reusable bottles more convenient to use.a. a – c – d – bb. c – a – b – dc. c – b – a – dd. b – d – c – a write a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1908693-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "b"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "d"
+        },
+        {
+          "index": 4,
+          "value": "c"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23what is the main idea of the passage?a. students should stop using electrical equipment at school.b. a teacher replaced all the equipment in a classroom.c. a class reduced unnecessary energy use through simple shared habits.d. students found that home appliances use more electricity than school equipment.write a, b, c, or d – {#1}question 24the word tracked in paragraph 2 is closest in meaning to ______.a. ignored completelyb. recorded over timec. changed suddenlyd. discussed publiclywrite a, b, c, or d – {#2}question 25the phrase this change in paragraph 2 refers to ______.a. switching off equipment after it was no longer neededb. asking students to avoid computers throughout the school dayc. replacing the projector with a more energy-efficient modeld. moving classroom equipment to a different part of the roomwrite a, b, c, or d – {#3}question 26according to paragraph 3, what was placed near the classroom door?a. a new projectorb. a recycling boxc. a list of student namesd. a short checklistwrite a, b, c, or d – {#4}question 27which of the following is not true according to the passage?a. students checked how classroom equipment was being used.b. the class created a routine for turning equipment off.c. students had to stop using classroom computers completely.d. some students later used similar energy-saving habits at home.write a, b, c, or d – {#5}question 28which statement best paraphrases the teacher's view in the final paragraph?a. environmental projects are useful only when they require major spending.b. small daily habits can help the environment without a major project.c. students should focus on saving energy at school rather than at home.d. green living usually requires replacing old electrical equipment.write a, b, c, or d – {#6}question 29in which paragraph does the writer describe the checklist added by the class?a. paragraph 3b. paragraph 1c. paragraph 4d. paragraph 2write a, b, c, or d – {#7}question 30what can be inferred about what some students learned from the challenge?a. saving energy at home usually requires buying new electrical appliances.b. classroom routines work best when teachers check every student's actions.c. green habits learned at school could also be useful at home.d. using less electricity means schools should avoid most classroom technology.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 23What is the main idea of the passage?A. Students should stop using electrical equipment at school.B. A teacher replaced all the equipment in a classroom.C. A class reduced unnecessary energy use through simple shared habits.D. Students found that home appliances use more electricity than school equipment.Write A, B, C, or D – {#1}Question 24The word tracked in paragraph 2 is closest in meaning to ______.A. ignored completelyB. recorded over timeC. changed suddenlyD. discussed publiclyWrite A, B, C, or D – {#2}Question 25The phrase This change in paragraph 2 refers to ______.A. switching off equipment after it was no longer neededB. asking students to avoid computers throughout the school dayC. replacing the projector with a more energy-efficient modelD. moving classroom equipment to a different part of the roomWrite A, B, C, or D – {#3}Question 26According to paragraph 3, what was placed near the classroom door?A. A new projectorB. A recycling boxC. A list of student namesD. A short checklistWrite A, B, C, or D – {#4}Question 27Which of the following is NOT TRUE according to the passage?A. Students checked how classroom equipment was being used.B. The class created a routine for turning equipment off.C. Students had to stop using classroom computers completely.D. Some students later used similar energy-saving habits at home.Write A, B, C, or D – {#5}Question 28Which statement best paraphrases the teacher's view in the final paragraph?A. Environmental projects are useful only when they require major spending.B. Small daily habits can help the environment without a major project.C. Students should focus on saving energy at school rather than at home.D. Green living usually requires replacing old electrical equipment.Write A, B, C, or D – {#6}Question 29In which paragraph does the writer describe the checklist added by the class?A. Paragraph 3B. Paragraph 1C. Paragraph 4D. Paragraph 2Write A, B, C, or D – {#7}Question 30What can be inferred about what some students learned from the challenge?A. Saving energy at home usually requires buying new electrical appliances.B. Classroom routines work best when teachers check every student's actions.C. Green habits learned at school could also be useful at home.D. Using less electricity means schools should avoid most classroom technology.Write A, B, C, or D – {#8}",
+      "questionId": "question-1908693-9",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 23what is the main idea of the passage?a. students should stop using electrical equipment at school.b. a teacher replaced all the equipment in a classroom.c. a class reduced unnecessary energy use through simple shared habits.d. students found that home appliances use more electricity than school equipment.write a, b, c, or d – {#1}question 24the word tracked in paragraph 2 is closest in meaning to ______.a. ignored completelyb. recorded over timec. changed suddenlyd. discussed publiclywrite a, b, c, or d – {#2}question 25the phrase this change in paragraph 2 refers to ______.a. switching off equipment after it was no longer neededb. asking students to avoid computers throughout the school dayc. replacing the projector with a more energy-efficient modeld. moving classroom equipment to a different part of the roomwrite a, b, c, or d – {#3}question 26according to paragraph 3, what was placed near the classroom door?a. a new projectorb. a recycling boxc. a list of student namesd. a short checklistwrite a, b, c, or d – {#4}question 27which of the following is not true according to the passage?a. students checked how classroom equipment was being used.b. the class created a routine for turning equipment off.c. students had to stop using classroom computers completely.d. some students later used similar energy-saving habits at home.write a, b, c, or d – {#5}question 28which statement best paraphrases the teacher's view in the final paragraph?a. environmental projects are useful only when they require major spending.b. small daily habits can help the environment without a major project.c. students should focus on saving energy at school rather than at home.d. green living usually requires replacing old electrical equipment.write a, b, c, or d – {#6}question 29in which paragraph does the writer describe the checklist added by the class?a. paragraph 3b. paragraph 1c. paragraph 4d. paragraph 2write a, b, c, or d – {#7}question 30what can be inferred about what some students learned from the challenge?a. saving energy at home usually requires buying new electrical appliances.b. classroom routines work best when teachers check every student's actions.c. green habits learned at school could also be useful at home.d. using less electricity means schools should avoid most classroom technology.write a, b, c, or d – {#8}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1908693-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        },
+        {
+          "index": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "c"
+        },
+        {
+          "index": 6,
+          "value": "b"
+        },
+        {
+          "index": 7,
+          "value": "a"
+        },
+        {
+          "index": 8,
+          "value": "d"
+        },
+        {
+          "index": 9,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31the word gradually in paragraph 3 is closest in meaning to ______.a. without careful planningb. all at oncec. for a limited timed. little by littlewrite a, b, c, or d – {#1}question 32according to paragraph 2, what did the green club put beside the canteen?a. a box for collecting used bottlesb. a list showing student volunteers' namesc. a map showing the water refill pointsd. a notice telling students to avoid bottled waterwrite a, b, c, or d – {#2}question 33the phrase this pattern in paragraph 3 refers to ______.a. students buying bottled water when they forgot their ownb. teachers mentioning the campaign briefly during lessonsc. students forgetting to bring reusable bottles from homed. the growing use of reusable bottles and refill points over timewrite a, b, c, or d – {#3}question 34which statement best paraphrases paragraph 4?a. the campaign led students to discuss other forms of plastic waste.b. the club stopped discussing plastic once the bottle campaign ended.c. students decided shopping bags were the school's main waste problem.d. the project failed because it tried to address too many plastic items.write a, b, c, or d – {#4}question 35why did the students most likely count bottles and ask classmates questions before choosing their campaign actions?a. they wanted teachers to choose the campaign without student input.b. they needed to prove recycling bins should be removed from school.c. they planned to compare bottle prices at different school shops.d. they wanted evidence about the problem before choosing a response.write a, b, c, or d – {#5}question 36where in paragraph 5 does the following sentence best fit?this difference made the first results harder to compare.a. [i]b. [iv]c. [ii]d. [iii]write a, b, c, or d – {#6}question 37what is the main purpose of paragraph 5?a. to explain why reusable bottles should be banned at schoolb. to identify a limitation and suggest improvements for the next projectc. to describe how teachers organised the campaign during lunch breaksd. to compare types of bottles used by students at schoolwrite a, b, c, or d – {#7}question 38which of the following is not supported by the passage?a. every student stopped buying bottled water by the end of the campaign.b. some students forgot to bring reusable bottles from home.c. students began discussing other forms of single-use plastic.d. the green club plans to collect better information in a future campaign.write a, b, c, or d – {#8}question 39which of the following best summarises the passage?a. a school ban quickly ended bottled-water use among almost all students.b. teachers solved plastic waste mainly by adding more recycling bins.c. students found reusable bottles too inconvenient for regular school use.d. a bottle campaign encouraged reusable bottles and wider discussion of plastic waste.write a, b, c, or d – {#9}question 40which title best fits the passage?a. why recycling bins matter most in reducing school wasteb. small changes, less plastic: a school bottle campaignc. how one school eliminated plastic waste in a single weekd. why students prefer bottled water to refillable bottleswrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Read the following passage and mark the letter A, B, C, or D to indicate the correct answer to each question.Question 31The word gradually in paragraph 3 is closest in meaning to ______.A. without careful planningB. all at onceC. for a limited timeD. little by littleWrite A, B, C, or D – {#1}Question 32According to paragraph 2, what did the Green Club put beside the canteen?A. A box for collecting used bottlesB. A list showing student volunteers' namesC. A map showing the water refill pointsD. A notice telling students to avoid bottled waterWrite A, B, C, or D – {#2}Question 33The phrase This pattern in paragraph 3 refers to ______.A. students buying bottled water when they forgot their ownB. teachers mentioning the campaign briefly during lessonsC. students forgetting to bring reusable bottles from homeD. the growing use of reusable bottles and refill points over timeWrite A, B, C, or D – {#3}Question 34Which statement best paraphrases paragraph 4?A. The campaign led students to discuss other forms of plastic waste.B. The club stopped discussing plastic once the bottle campaign ended.C. Students decided shopping bags were the school's main waste problem.D. The project failed because it tried to address too many plastic items.Write A, B, C, or D – {#4}Question 35Why did the students most likely count bottles and ask classmates questions before choosing their campaign actions?A. They wanted teachers to choose the campaign without student input.B. They needed to prove recycling bins should be removed from school.C. They planned to compare bottle prices at different school shops.D. They wanted evidence about the problem before choosing a response.Write A, B, C, or D – {#5}Question 36Where in paragraph 5 does the following sentence best fit?This difference made the first results harder to compare.A. [I]B. [IV]C. [II]D. [III]Write A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 5?A. To explain why reusable bottles should be banned at schoolB. To identify a limitation and suggest improvements for the next projectC. To describe how teachers organised the campaign during lunch breaksD. To compare types of bottles used by students at schoolWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Every student stopped buying bottled water by the end of the campaign.B. Some students forgot to bring reusable bottles from home.C. Students began discussing other forms of single-use plastic.D. The Green Club plans to collect better information in a future campaign.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. A school ban quickly ended bottled-water use among almost all students.B. Teachers solved plastic waste mainly by adding more recycling bins.C. Students found reusable bottles too inconvenient for regular school use.D. A bottle campaign encouraged reusable bottles and wider discussion of plastic waste.Write A, B, C, or D – {#9}Question 40Which title best fits the passage?A. Why Recycling Bins Matter Most in Reducing School WasteB. Small Changes, Less Plastic: A School Bottle CampaignC. How One School Eliminated Plastic Waste in a Single WeekD. Why Students Prefer Bottled Water to Refillable BottlesWrite A, B, C, or D – {#10}",
+      "questionId": "question-1908693-10",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 read the following passage and mark the letter a, b, c, or d to indicate the correct answer to each question.question 31the word gradually in paragraph 3 is closest in meaning to ______.a. without careful planningb. all at oncec. for a limited timed. little by littlewrite a, b, c, or d – {#1}question 32according to paragraph 2, what did the green club put beside the canteen?a. a box for collecting used bottlesb. a list showing student volunteers' namesc. a map showing the water refill pointsd. a notice telling students to avoid bottled waterwrite a, b, c, or d – {#2}question 33the phrase this pattern in paragraph 3 refers to ______.a. students buying bottled water when they forgot their ownb. teachers mentioning the campaign briefly during lessonsc. students forgetting to bring reusable bottles from homed. the growing use of reusable bottles and refill points over timewrite a, b, c, or d – {#3}question 34which statement best paraphrases paragraph 4?a. the campaign led students to discuss other forms of plastic waste.b. the club stopped discussing plastic once the bottle campaign ended.c. students decided shopping bags were the school's main waste problem.d. the project failed because it tried to address too many plastic items.write a, b, c, or d – {#4}question 35why did the students most likely count bottles and ask classmates questions before choosing their campaign actions?a. they wanted teachers to choose the campaign without student input.b. they needed to prove recycling bins should be removed from school.c. they planned to compare bottle prices at different school shops.d. they wanted evidence about the problem before choosing a response.write a, b, c, or d – {#5}question 36where in paragraph 5 does the following sentence best fit?this difference made the first results harder to compare.a. [i]b. [iv]c. [ii]d. [iii]write a, b, c, or d – {#6}question 37what is the main purpose of paragraph 5?a. to explain why reusable bottles should be banned at schoolb. to identify a limitation and suggest improvements for the next projectc. to describe how teachers organised the campaign during lunch breaksd. to compare types of bottles used by students at schoolwrite a, b, c, or d – {#7}question 38which of the following is not supported by the passage?a. every student stopped buying bottled water by the end of the campaign.b. some students forgot to bring reusable bottles from home.c. students began discussing other forms of single-use plastic.d. the green club plans to collect better information in a future campaign.write a, b, c, or d – {#8}question 39which of the following best summarises the passage?a. a school ban quickly ended bottled-water use among almost all students.b. teachers solved plastic waste mainly by adding more recycling bins.c. students found reusable bottles too inconvenient for regular school use.d. a bottle campaign encouraged reusable bottles and wider discussion of plastic waste.write a, b, c, or d – {#9}question 40which title best fits the passage?a. why recycling bins matter most in reducing school wasteb. small changes, less plastic: a school bottle campaignc. how one school eliminated plastic waste in a single weekd. why students prefer bottled water to refillable bottleswrite a, b, c, or d – {#10}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
