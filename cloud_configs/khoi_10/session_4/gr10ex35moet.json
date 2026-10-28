@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Lãm Đinh",
+    "account_name": "Nguyễn Quang Huy",
     "class_name": "Khối 10 (LGK LC-Lớp 10XH (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 10XH (2026-2027)",
     "class_key": "khoi_10",
@@ -15,11 +15,11 @@
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 20,
-    "updated_at": "2026-10-27 21:19:26"
+    "updated_at": "2026-10-28 21:30:06"
   },
   "answers": [
     {
-      "id": "question-1923885-9",
+      "id": "question-1926018-9",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.students want to set ________ a new volunteer club. they have chosen its name and are inviting its first members.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. Students want to set ________ a new volunteer club. They have chosen its name and are inviting its first members.",
       "options": [
@@ -27,17 +27,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-9",
-      "questionNumber": 5,
+      "questionId": "question-1926018-9",
+      "questionNumber": 7,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.Students want to set ________ a new volunteer club. They have chosen its name and are inviting its first members.",
       "answer": "up",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.students want to set ________ a new volunteer club. they have chosen its name and are inviting its first members.",
-      "letter": "A",
+      "letter": "B",
       "rightAnswer": "up"
     },
     {
-      "id": "question-1923885-6",
+      "id": "question-1926018-6",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the organisation teaches life-________ skills to help people survive emergencies.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. The organisation teaches life-________ skills to help people survive emergencies.",
       "options": [
@@ -45,8 +45,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-6",
-      "questionNumber": 4,
+      "questionId": "question-1926018-6",
+      "questionNumber": 3,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The organisation teaches life-________ skills to help people survive emergencies.",
       "answer": "saving",
       "dragdrops": [],
@@ -55,7 +55,7 @@
       "rightAnswer": "saving"
     },
     {
-      "id": "question-1923885-8",
+      "id": "question-1926018-8",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.after the event, volunteers will ________ the park by removing litter and leaving the paths tidy.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. After the event, volunteers will ________ the park by removing litter and leaving the paths tidy.",
       "options": [
@@ -63,17 +63,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-8",
-      "questionNumber": 9,
+      "questionId": "question-1926018-8",
+      "questionNumber": 1,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.After the event, volunteers will ________ the park by removing litter and leaving the paths tidy.",
       "answer": "clean up",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.after the event, volunteers will ________ the park by removing litter and leaving the paths tidy.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "clean up"
     },
     {
-      "id": "question-1923885-1",
+      "id": "question-1926018-1",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the club sold handmade cards to raise ________ for charity. the funds collected would buy blankets.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. The club sold handmade cards to raise ________ for charity. The funds collected would buy blankets.",
       "options": [
@@ -81,17 +81,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-1",
-      "questionNumber": 6,
+      "questionId": "question-1926018-1",
+      "questionNumber": 5,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The club sold handmade cards to raise ________ for charity. The funds collected would buy blankets.",
       "answer": "money",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the club sold handmade cards to raise ________ for charity. the funds collected would buy blankets.",
-      "letter": "D",
+      "letter": "B",
       "rightAnswer": "money"
     },
     {
-      "id": "question-1923885-4",
+      "id": "question-1926018-4",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.helping regularly at the centre allows students to gain work ________ through practical duties and teamwork.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. Helping regularly at the centre allows students to gain work ________ through practical duties and teamwork.",
       "options": [
@@ -99,8 +99,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-4",
-      "questionNumber": 1,
+      "questionId": "question-1926018-4",
+      "questionNumber": 8,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.Helping regularly at the centre allows students to gain work ________ through practical duties and teamwork.",
       "answer": "experience",
       "dragdrops": [],
@@ -109,7 +109,7 @@
       "rightAnswer": "experience"
     },
     {
-      "id": "question-1923885-2",
+      "id": "question-1926018-2",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.before packing the goods, volunteers needed to ________ donations into groups of clothes, books, and blankets.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. Before packing the goods, volunteers needed to ________ donations into groups of clothes, books, and blankets.",
       "options": [
@@ -117,8 +117,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-2",
-      "questionNumber": 2,
+      "questionId": "question-1926018-2",
+      "questionNumber": 9,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.Before packing the goods, volunteers needed to ________ donations into groups of clothes, books, and blankets.",
       "answer": "sort",
       "dragdrops": [],
@@ -127,7 +127,7 @@
       "rightAnswer": "sort"
     },
     {
-      "id": "question-1923885-3",
+      "id": "question-1926018-3",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the kitchen staff had cooked and sealed meal packs for families to eat at home. volunteers then used bicycles to ________ free meals to each address.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. The kitchen staff had cooked and sealed meal packs for families to eat at home. Volunteers then used bicycles to ________ free meals to each address.",
       "options": [
@@ -135,17 +135,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-3",
-      "questionNumber": 7,
+      "questionId": "question-1926018-3",
+      "questionNumber": 6,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The kitchen staff had cooked and sealed meal packs for families to eat at home. Volunteers then used bicycles to ________ free meals to each address.",
       "answer": "deliver",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the kitchen staff had cooked and sealed meal packs for families to eat at home. volunteers then used bicycles to ________ free meals to each address.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "deliver"
     },
     {
-      "id": "question-1923885-5",
+      "id": "question-1926018-5",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the club helps teenagers meet others with similar ________, such as enjoying the same crafts or games.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. The club helps teenagers meet others with similar ________, such as enjoying the same crafts or games.",
       "options": [
@@ -153,17 +153,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-5",
-      "questionNumber": 3,
+      "questionId": "question-1926018-5",
+      "questionNumber": 2,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The club helps teenagers meet others with similar ________, such as enjoying the same crafts or games.",
       "answer": "interests",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the club helps teenagers meet others with similar ________, such as enjoying the same crafts or games.",
-      "letter": "D",
+      "letter": "C",
       "rightAnswer": "interests"
     },
     {
-      "id": "question-1923885-7",
+      "id": "question-1926018-7",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the application form is still blank. first, ________ the requested details; afterwards, check and submit it.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. The application form is still blank. First, ________ the requested details; afterwards, check and submit it.",
       "options": [
@@ -171,17 +171,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-7",
-      "questionNumber": 8,
+      "questionId": "question-1926018-7",
+      "questionNumber": 4,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The application form is still blank. First, ________ the requested details; afterwards, check and submit it.",
       "answer": "fill in",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the application form is still blank. first, ________ the requested details; afterwards, check and submit it.",
-      "letter": "B",
+      "letter": "A",
       "rightAnswer": "fill in"
     },
     {
-      "id": "question-1923885-10",
+      "id": "question-1926018-10",
       "questionKey": "choose a, b, c, or d that completes the most appropriate phrase. check its meaning in the complete context.the team is ready to carry ________ the planned activities: collecting books, sorting donations, and delivering them.",
       "questionRaw": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context. The team is ready to carry ________ the planned activities: collecting books, sorting donations, and delivering them.",
       "options": [
@@ -189,7 +189,7 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-10",
+      "questionId": "question-1926018-10",
       "questionNumber": 10,
       "question": "Choose A, B, C, or D that completes the most appropriate phrase. Check its meaning in the complete context.The team is ready to carry ________ the planned activities: collecting books, sorting donations, and delivering them.",
       "answer": "out",
@@ -199,7 +199,7 @@
       "rightAnswer": "out"
     },
     {
-      "id": "question-1923885-17",
+      "id": "question-1926018-17",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the residents were very ________ to the team. they provided guidance and assisted with unloading.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The residents were very ________ to the team. They provided guidance and assisted with unloading.",
       "options": [
@@ -207,17 +207,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-17",
-      "questionNumber": 14,
+      "questionId": "question-1926018-17",
+      "questionNumber": 13,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The residents were very ________ to the team. They provided guidance and assisted with unloading.",
       "answer": "helpful",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the residents were very ________ to the team. they provided guidance and assisted with unloading.",
-      "letter": "B",
+      "letter": "A",
       "rightAnswer": "helpful"
     },
     {
-      "id": "question-1923885-14",
+      "id": "question-1926018-14",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the students described their first volunteer activity as ________. it made them eager to return.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The students described their first volunteer activity as ________. It made them eager to return.",
       "options": [
@@ -225,17 +225,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-14",
-      "questionNumber": 11,
+      "questionId": "question-1926018-14",
+      "questionNumber": 18,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The students described their first volunteer activity as ________. It made them eager to return.",
       "answer": "exciting",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the students described their first volunteer activity as ________. it made them eager to return.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "exciting"
     },
     {
-      "id": "question-1923885-11",
+      "id": "question-1926018-11",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the club received several generous ________ from local families, including books and warm clothes.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The club received several generous ________ from local families, including books and warm clothes.",
       "options": [
@@ -243,8 +243,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-11",
-      "questionNumber": 15,
+      "questionId": "question-1926018-11",
+      "questionNumber": 11,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The club received several generous ________ from local families, including books and warm clothes.",
       "answer": "donations",
       "dragdrops": [],
@@ -253,7 +253,7 @@
       "rightAnswer": "donations"
     },
     {
-      "id": "question-1923885-12",
+      "id": "question-1926018-12",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.before sending her ________, lan checked her contact details and available days.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. Before sending her ________, Lan checked her contact details and available days.",
       "options": [
@@ -261,8 +261,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-12",
-      "questionNumber": 18,
+      "questionId": "question-1926018-12",
+      "questionNumber": 16,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.Before sending her ________, Lan checked her contact details and available days.",
       "answer": "application",
       "dragdrops": [],
@@ -271,7 +271,7 @@
       "rightAnswer": "application"
     },
     {
-      "id": "question-1923885-18",
+      "id": "question-1926018-18",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the organiser described the opportunities as ________ because there always seemed to be another way to help.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The organiser described the opportunities as ________ because there always seemed to be another way to help.",
       "options": [
@@ -279,17 +279,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-18",
-      "questionNumber": 12,
+      "questionId": "question-1926018-18",
+      "questionNumber": 17,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The organiser described the opportunities as ________ because there always seemed to be another way to help.",
       "answer": "endless",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the organiser described the opportunities as ________ because there always seemed to be another way to help.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "endless"
     },
     {
-      "id": "question-1923885-13",
+      "id": "question-1926018-13",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.minh is ________ in helping at the food bank because he wants to support local families.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. Minh is ________ in helping at the food bank because he wants to support local families.",
       "options": [
@@ -297,17 +297,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-13",
+      "questionId": "question-1926018-13",
       "questionNumber": 20,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.Minh is ________ in helping at the food bank because he wants to support local families.",
       "answer": "interested",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.minh is ________ in helping at the food bank because he wants to support local families.",
-      "letter": "B",
+      "letter": "A",
       "rightAnswer": "interested"
     },
     {
-      "id": "question-1923885-20",
+      "id": "question-1926018-20",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.three ________ stayed at the centre to sort the donated clothes.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. Three ________ stayed at the centre to sort the donated clothes.",
       "options": [
@@ -315,17 +315,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-20",
-      "questionNumber": 13,
+      "questionId": "question-1926018-20",
+      "questionNumber": 15,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.Three ________ stayed at the centre to sort the donated clothes.",
       "answer": "volunteers",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.three ________ stayed at the centre to sort the donated clothes.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "volunteers"
     },
     {
-      "id": "question-1923885-19",
+      "id": "question-1926018-19",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the collection was ________. the club reached its target and supplied the requested books.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The collection was ________. The club reached its target and supplied the requested books.",
       "options": [
@@ -333,17 +333,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-19",
+      "questionId": "question-1926018-19",
       "questionNumber": 19,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The collection was ________. The club reached its target and supplied the requested books.",
       "answer": "successful",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the collection was ________. the club reached its target and supplied the requested books.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "successful"
     },
     {
-      "id": "question-1923885-15",
+      "id": "question-1926018-15",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the volunteers were very ________ when recording donations. they checked every entry to avoid mistakes.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The volunteers were very ________ when recording donations. They checked every entry to avoid mistakes.",
       "options": [
@@ -351,17 +351,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-15",
-      "questionNumber": 16,
+      "questionId": "question-1926018-15",
+      "questionNumber": 14,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The volunteers were very ________ when recording donations. They checked every entry to avoid mistakes.",
       "answer": "careful",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the volunteers were very ________ when recording donations. they checked every entry to avoid mistakes.",
-      "letter": "B",
+      "letter": "A",
       "rightAnswer": "careful"
     },
     {
-      "id": "question-1923885-16",
+      "id": "question-1926018-16",
       "questionKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the team felt ________ about meeting the deadline. they believed there was no chance of finishing on time.",
       "questionRaw": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding. The team felt ________ about meeting the deadline. They believed there was no chance of finishing on time.",
       "options": [
@@ -369,13 +369,13 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1923885-16",
-      "questionNumber": 17,
+      "questionId": "question-1926018-16",
+      "questionNumber": 12,
       "question": "Choose A, B, C, or D that fits both grammar and meaning. Identify the required word class or number before deciding.The team felt ________ about meeting the deadline. They believed there was no chance of finishing on time.",
       "answer": "hopeless",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c, or d that fits both grammar and meaning. identify the required word class or number before deciding.the team felt ________ about meeting the deadline. they believed there was no chance of finishing on time.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "hopeless"
     }
   ]
