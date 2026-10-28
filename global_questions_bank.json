@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-28T13:55:00Z",
-  "total_questions": 333,
+  "updated_at": "2026-10-28T13:59:34Z",
+  "total_questions": 353,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -5795,6 +5795,306 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-28T13:54:58Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the school website published a leaflet about a music festival it will take place in the main hall on friday evening the word it refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.The school website published a leaflet about a music festival. It will take place in the main hall on Friday evening.The word It refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the school website published a leaflet about a music festival it will take place in the main hall on friday evening the word it refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the school website published a leaflet about a music festival it will take place in the main hall on friday evening the word it refers to",
+      "answer": "the music festival",
+      "letter": "D",
+      "options": [
+        "the music festival"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the participants met the judges and organisers before the singing competition they then rehearsed their competition songs meanwhile the judges checked scoring sheets and the organisers checked tickets the word they refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.The participants met the judges and organisers before the singing competition. They then rehearsed their competition songs. Meanwhile, the judges checked scoring sheets, and the organisers checked tickets.The word They refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the participants met the judges and organisers before the singing competition they then rehearsed their competition songs meanwhile the judges checked scoring sheets and the organisers checked tickets the word they refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the participants met the judges and organisers before the singing competition they then rehearsed their competition songs meanwhile the judges checked scoring sheets and the organisers checked tickets the word they refers to",
+      "answer": "the participants",
+      "letter": "C",
+      "options": [
+        "the participants"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context mai recorded a cover song and saved the video on her laptop she then uploaded it to the school website this made the recording available to classmates without their having to borrow her laptop the word this refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.Mai recorded a cover song and saved the video on her laptop. She then uploaded it to the school website. This made the recording available to classmates without their having to borrow her laptop.The word This refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context mai recorded a cover song and saved the video on her laptop she then uploaded it to the school website this made the recording available to classmates without their having to borrow her laptop the word this refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context mai recorded a cover song and saved the video on her laptop she then uploaded it to the school website this made the recording available to classmates without their having to borrow her laptop the word this refers to",
+      "answer": "uploading the video to the website",
+      "letter": "D",
+      "options": [
+        "uploading the video to the website"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our notes contained information about instruments and costumes we listed the moon shaped lute bamboo clappers drum and gong in the instruments section these are played during chau van performances the word these refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.Our notes contained information about instruments and costumes. We listed the moon-shaped lute, bamboo clappers, drum, and gong in the instruments section. These are played during chau van performances.The word These refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our notes contained information about instruments and costumes we listed the moon shaped lute bamboo clappers drum and gong in the instruments section these are played during chau van performances the word these refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our notes contained information about instruments and costumes we listed the moon shaped lute bamboo clappers drum and gong in the instruments section these are played during chau van performances the word these refers to",
+      "answer": "the four musical instruments",
+      "letter": "C",
+      "options": [
+        "the four musical instruments"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context six contestants entered the classroom competition four were eliminated leaving two to reach the final those who reached the final performed again for the judges the word those refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.Six contestants entered the classroom competition. Four were eliminated, leaving two to reach the final. Those who reached the final performed again for the judges.The word Those refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context six contestants entered the classroom competition four were eliminated leaving two to reach the final those who reached the final performed again for the judges the word those refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context six contestants entered the classroom competition four were eliminated leaving two to reach the final those who reached the final performed again for the judges the word those refers to",
+      "answer": "the two remaining contestants",
+      "letter": "C",
+      "options": [
+        "the two remaining contestants"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the winner received a cash prize which helped her pay for more music lessons she thanked the organisers after the competition the word which refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.The winner received a cash prize, which helped her pay for more music lessons. She thanked the organisers after the competition.The word which refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the winner received a cash prize which helped her pay for more music lessons she thanked the organisers after the competition the word which refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the winner received a cash prize which helped her pay for more music lessons she thanked the organisers after the competition the word which refers to",
+      "answer": "the cash prize",
+      "letter": "D",
+      "options": [
+        "the cash prize"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the band offered the organisers a newly written single and a well known cover song the organisers chose the latter for the concert because it was already familiar to most students the word it refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.The band offered the organisers a newly written single and a well-known cover song. The organisers chose the latter for the concert because it was already familiar to most students.The word it refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the band offered the organisers a newly written single and a well known cover song the organisers chose the latter for the concert because it was already familiar to most students the word it refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the band offered the organisers a newly written single and a well known cover song the organisers chose the latter for the concert because it was already familiar to most students the word it refers to",
+      "answer": "the cover song",
+      "letter": "A",
+      "options": [
+        "the cover song"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the judges listened to the participants while the organisers managed the stage and the audience watched they then compared their scores and awarded the final points to the contestants the word they refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.The judges listened to the participants while the organisers managed the stage and the audience watched. They then compared their scores and awarded the final points to the contestants.The word They refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the judges listened to the participants while the organisers managed the stage and the audience watched they then compared their scores and awarded the final points to the contestants the word they refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context the judges listened to the participants while the organisers managed the stage and the audience watched they then compared their scores and awarded the final points to the contestants the word they refers to",
+      "answer": "the judges",
+      "letter": "A",
+      "options": [
+        "the judges"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our group researched traditional music and prepared notes we then divided the presentation into sections and assigned one section to each member this ensured that everyone had a speaking role the word this refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.Our group researched traditional music and prepared notes. We then divided the presentation into sections and assigned one section to each member. This ensured that everyone had a speaking role.The word This refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our group researched traditional music and prepared notes we then divided the presentation into sections and assigned one section to each member this ensured that everyone had a speaking role the word this refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our group researched traditional music and prepared notes we then divided the presentation into sections and assigned one section to each member this ensured that everyone had a speaking role the word this refers to",
+      "answer": "dividing the presentation and assigning sections",
+      "letter": "D",
+      "options": [
+        "dividing the presentation and assigning sections"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our group researched the types instruments and costumes used in chau van performances the costumes which the performers wear during the show were described in the final section the word which refers to": {
+      "question": "Read each short context carefully. Choose the option that correctly identifies what the bold BOLD reference word refers to.Check grammar and meaning. Several options may match the reference word grammatically, but only one fits the complete context.Our group researched the types, instruments, and costumes used in chau van performances. The costumes, which the performers wear during the show, were described in the final section.The word which refers to ________.",
+      "clean_stem": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our group researched the types instruments and costumes used in chau van performances the costumes which the performers wear during the show were described in the final section the word which refers to",
+      "stem_key": "read each short context carefully choose the option that correctly identifies what the bold bold reference word refers to check grammar and meaning several options may match the reference word grammatically but only one fits the complete context our group researched the types instruments and costumes used in chau van performances the costumes which the performers wear during the show were described in the final section the word which refers to",
+      "answer": "the costumes",
+      "letter": "B",
+      "options": [
+        "the costumes"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the music festival took place in the park last saturday": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.The music festival took place in the park last Saturday.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the music festival took place in the park last saturday",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the music festival took place in the park last saturday",
+      "answer": "The music festival was held in the park last Saturday.",
+      "letter": "A",
+      "options": [
+        "The music festival was held in the park last Saturday."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the teacher let the musicians rehearse in the classroom": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.The teacher let the musicians rehearse in the classroom.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the teacher let the musicians rehearse in the classroom",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the teacher let the musicians rehearse in the classroom",
+      "answer": "The teacher allowed the musicians to rehearse in the classroom.",
+      "letter": "D",
+      "options": [
+        "The teacher allowed the musicians to rehearse in the classroom."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty our group decided to research traditional music for the presentation": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.Our group decided to research traditional music for the presentation.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty our group decided to research traditional music for the presentation",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty our group decided to research traditional music for the presentation",
+      "answer": "Our group chose to investigate traditional music for the presentation.",
+      "letter": "D",
+      "options": [
+        "Our group chose to investigate traditional music for the presentation."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty in our classroom competition audience members can vote for the singer they want to win": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.In our classroom competition, audience members can vote for the singer they want to win.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty in our classroom competition audience members can vote for the singer they want to win",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty in our classroom competition audience members can vote for the singer they want to win",
+      "answer": "Audience members can support their preferred singer by casting a vote.",
+      "letter": "C",
+      "options": [
+        "Audience members can support their preferred singer by casting a vote."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty lan is a talented musician although she has had little formal training": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.Lan is a talented musician, although she has had little formal training.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty lan is a talented musician although she has had little formal training",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty lan is a talented musician although she has had little formal training",
+      "answer": "Lan has natural musical ability despite receiving little formal training.",
+      "letter": "C",
+      "options": [
+        "Lan has natural musical ability despite receiving little formal training."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty only three participants were selected to go on to the final": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.Only three participants were selected to go on to the final.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty only three participants were selected to go on to the final",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty only three participants were selected to go on to the final",
+      "answer": "Exactly three participants were chosen to advance to the last round.",
+      "letter": "B",
+      "options": [
+        "Exactly three participants were chosen to advance to the last round."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the winner received a cash prize of two million dong after the final": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.The winner received a cash prize of two million dong after the final.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the winner received a cash prize of two million dong after the final",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the winner received a cash prize of two million dong after the final",
+      "answer": "The winner was awarded two million dong following the final round.",
+      "letter": "C",
+      "options": [
+        "The winner was awarded two million dong following the final round."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty mai uploaded her performance video so that her classmates could watch it online": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.Mai uploaded her performance video so that her classmates could watch it online.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty mai uploaded her performance video so that her classmates could watch it online",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty mai uploaded her performance video so that her classmates could watch it online",
+      "answer": "Mai put her performance video on the internet to let classmates watch it.",
+      "letter": "D",
+      "options": [
+        "Mai put her performance video on the internet to let classmates watch it."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty our group came up with a new idea for a music show during the discussion": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.Our group came up with a new idea for a music show during the discussion.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty our group came up with a new idea for a music show during the discussion",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty our group came up with a new idea for a music show during the discussion",
+      "answer": "Our group thought of and suggested a new music-show idea during the discussion.",
+      "letter": "B",
+      "options": [
+        "Our group thought of and suggested a new music-show idea during the discussion."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the band performed live for the audience at the school concert": {
+      "question": "Read the bold sentence carefully. Choose the option that is CLOSEST in meaning to it.Check all important details. Eliminate options that change the person, action, time, place, amount, purpose, or certainty.The band performed live for the audience at the school concert.",
+      "clean_stem": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the band performed live for the audience at the school concert",
+      "stem_key": "read the bold sentence carefully choose the option that is closest in meaning to it check all important details eliminate options that change the person action time place amount purpose or certainty the band performed live for the audience at the school concert",
+      "answer": "The band played directly for the audience during the school concert.",
+      "letter": "C",
+      "options": [
+        "The band played directly for the audience during the school concert."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T13:59:32Z"
     }
   }
 }
