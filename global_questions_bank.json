@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-28T13:59:34Z",
-  "total_questions": 353,
+  "updated_at": "2026-10-28T14:01:35Z",
+  "total_questions": 375,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -6095,6 +6095,474 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-10-28T13:59:32Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a young musicianarrange the sentences to make a coherent description of a young musician s development a those videos attracted viewers from other classes and her online audience gradually grew b she can play several musical instruments including the guitar and piano and she also sings well c using these skills she recorded cover song videos and uploaded them to the school website d linh is a talented young musician at our school e with that growing online audience she decided to record another performance for her listeners a d a b c eb d b c e ac d b c a ed d b a c ewrite a b c or d 1": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Young MusicianArrange the sentences to make a coherent description of a young musician’s development.a. Those videos attracted viewers from other classes, and her online audience gradually grew.b. She can play several musical instruments, including the guitar and piano, and she also sings well.c. Using these skills, she recorded cover-song videos and uploaded them to the school website.d. Linh is a talented young musician at our school.e. With that growing online audience, she decided to record another performance for her listeners.A. d – a – b – c – eB. d – b – c – e – aC. d – b – c – a – eD. d – b – a – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a young musicianarrange the sentences to make a coherent description of a young musician s development a those videos attracted viewers from other classes and her online audience gradually grew b she can play several musical instruments including the guitar and piano and she also sings well c using these skills she recorded cover song videos and uploaded them to the school website d linh is a talented young musician at our school e with that growing online audience she decided to record another performance for her listeners a d a b c eb d b c e ac d b c a ed d b a c ewrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a young musicianarrange the sentences to make a coherent description of a young musician s development a those videos attracted viewers from other classes and her online audience gradually grew b she can play several musical instruments including the guitar and piano and she also sings well c using these skills she recorded cover song videos and uploaded them to the school website d linh is a talented young musician at our school e with that growing online audience she decided to record another performance for her listeners a d a b c eb d b c e ac d b c a ed d b a c ewrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a young musicianarrange the sentences to make a coherent description of a young musician s development a those videos attracted viewers from other classes and her online audience gradually grew b she can play several musical instruments including the guitar and piano and she also sings well c using these skills she recorded cover song videos and uploaded them to the school website d linh is a talented young musician at our school e with that growing online audience she decided to record another performance for her listeners a d a b c eb d b c e ac d b c a ed d b a c ewrite a b c or d": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Young MusicianArrange the sentences to make a coherent description of a young musician’s development.a. Those videos attracted viewers from other classes, and her online audience gradually grew.b. She can play several musical instruments, including the guitar and piano, and she also sings well.c. Using these skills, she recorded cover-song videos and uploaded them to the school website.d. Linh is a talented young musician at our school.e. With that growing online audience, she decided to record another performance for her listeners.A. d – a – b – c – eB. d – b – c – e – aC. d – b – c – a – eD. d – b – a – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a young musicianarrange the sentences to make a coherent description of a young musician s development a those videos attracted viewers from other classes and her online audience gradually grew b she can play several musical instruments including the guitar and piano and she also sings well c using these skills she recorded cover song videos and uploaded them to the school website d linh is a talented young musician at our school e with that growing online audience she decided to record another performance for her listeners a d a b c eb d b c e ac d b c a ed d b a c ewrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a young musicianarrange the sentences to make a coherent description of a young musician s development a those videos attracted viewers from other classes and her online audience gradually grew b she can play several musical instruments including the guitar and piano and she also sings well c using these skills she recorded cover song videos and uploaded them to the school website d linh is a talented young musician at our school e with that growing online audience she decided to record another performance for her listeners a d a b c eb d b c e ac d b c a ed d b a c ewrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a classroom singing competitionarrange the sentences to explain how a classroom singing competition worked a after this selection each finalist prepared a song and rehearsed it with the music teacher b our classroom singing competition began with short performances from which the judges selected six finalists c when the rehearsals were finished all six gave their final round performances in front of the class d the judges scored these final round performances and added up each singer s points e the finalist with the highest total was then declared the winner a b a d c eb b c a d ec b a c e dd b a c d ewrite a b c or d 1": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Classroom Singing CompetitionArrange the sentences to explain how a classroom singing competition worked.a. After this selection, each finalist prepared a song and rehearsed it with the music teacher.b. Our classroom singing competition began with short performances from which the judges selected six finalists.c. When the rehearsals were finished, all six gave their final-round performances in front of the class.d. The judges scored these final-round performances and added up each singer’s points.e. The finalist with the highest total was then declared the winner.A. b – a – d – c – eB. b – c – a – d – eC. b – a – c – e – dD. b – a – c – d – eWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a classroom singing competitionarrange the sentences to explain how a classroom singing competition worked a after this selection each finalist prepared a song and rehearsed it with the music teacher b our classroom singing competition began with short performances from which the judges selected six finalists c when the rehearsals were finished all six gave their final round performances in front of the class d the judges scored these final round performances and added up each singer s points e the finalist with the highest total was then declared the winner a b a d c eb b c a d ec b a c e dd b a c d ewrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a classroom singing competitionarrange the sentences to explain how a classroom singing competition worked a after this selection each finalist prepared a song and rehearsed it with the music teacher b our classroom singing competition began with short performances from which the judges selected six finalists c when the rehearsals were finished all six gave their final round performances in front of the class d the judges scored these final round performances and added up each singer s points e the finalist with the highest total was then declared the winner a b a d c eb b c a d ec b a c e dd b a c d ewrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a classroom singing competitionarrange the sentences to explain how a classroom singing competition worked a after this selection each finalist prepared a song and rehearsed it with the music teacher b our classroom singing competition began with short performances from which the judges selected six finalists c when the rehearsals were finished all six gave their final round performances in front of the class d the judges scored these final round performances and added up each singer s points e the finalist with the highest total was then declared the winner a b a d c eb b c a d ec b a c e dd b a c d ewrite a b c or d": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Classroom Singing CompetitionArrange the sentences to explain how a classroom singing competition worked.a. After this selection, each finalist prepared a song and rehearsed it with the music teacher.b. Our classroom singing competition began with short performances from which the judges selected six finalists.c. When the rehearsals were finished, all six gave their final-round performances in front of the class.d. The judges scored these final-round performances and added up each singer’s points.e. The finalist with the highest total was then declared the winner.A. b – a – d – c – eB. b – c – a – d – eC. b – a – c – e – dD. b – a – c – d – eWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a classroom singing competitionarrange the sentences to explain how a classroom singing competition worked a after this selection each finalist prepared a song and rehearsed it with the music teacher b our classroom singing competition began with short performances from which the judges selected six finalists c when the rehearsals were finished all six gave their final round performances in front of the class d the judges scored these final round performances and added up each singer s points e the finalist with the highest total was then declared the winner a b a d c eb b c a d ec b a c e dd b a c d ewrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a classroom singing competitionarrange the sentences to explain how a classroom singing competition worked a after this selection each finalist prepared a song and rehearsed it with the music teacher b our classroom singing competition began with short performances from which the judges selected six finalists c when the rehearsals were finished all six gave their final round performances in front of the class d the judges scored these final round performances and added up each singer s points e the finalist with the highest total was then declared the winner a b a d c eb b c a d ec b a c e dd b a c d ewrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a music event blogarrange the sentences to make a coherent account of a music event experience a following those directions we found places near the main stage and enjoyed the bands performing in the friendly atmosphere b back at home i thought about the evening and realised that sharing the music with my friends had been its best part c last saturday i went to a music festival in the park with two friends d after the final song we left the stage area and caught a bus home e at the festival entrance we showed our tickets and a volunteer directed us towards the main stage a c a e d bb c e a d bc c e d a bd c e a b dwrite a b c or d 1": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Music-Event BlogArrange the sentences to make a coherent account of a music-event experience.a. Following those directions, we found places near the main stage and enjoyed the bands performing in the friendly atmosphere.b. Back at home, I thought about the evening and realised that sharing the music with my friends had been its best part.c. Last Saturday, I went to a music festival in the park with two friends.d. After the final song, we left the stage area and caught a bus home.e. At the festival entrance, we showed our tickets, and a volunteer directed us towards the main stage.A. c – a – e – d – bB. c – e – a – d – bC. c – e – d – a – bD. c – e – a – b – dWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a music event blogarrange the sentences to make a coherent account of a music event experience a following those directions we found places near the main stage and enjoyed the bands performing in the friendly atmosphere b back at home i thought about the evening and realised that sharing the music with my friends had been its best part c last saturday i went to a music festival in the park with two friends d after the final song we left the stage area and caught a bus home e at the festival entrance we showed our tickets and a volunteer directed us towards the main stage a c a e d bb c e a d bc c e d a bd c e a b dwrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a music event blogarrange the sentences to make a coherent account of a music event experience a following those directions we found places near the main stage and enjoyed the bands performing in the friendly atmosphere b back at home i thought about the evening and realised that sharing the music with my friends had been its best part c last saturday i went to a music festival in the park with two friends d after the final song we left the stage area and caught a bus home e at the festival entrance we showed our tickets and a volunteer directed us towards the main stage a c a e d bb c e a d bc c e d a bd c e a b dwrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a music event blogarrange the sentences to make a coherent account of a music event experience a following those directions we found places near the main stage and enjoyed the bands performing in the friendly atmosphere b back at home i thought about the evening and realised that sharing the music with my friends had been its best part c last saturday i went to a music festival in the park with two friends d after the final song we left the stage area and caught a bus home e at the festival entrance we showed our tickets and a volunteer directed us towards the main stage a c a e d bb c e a d bc c e d a bd c e a b dwrite a b c or d": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Music-Event BlogArrange the sentences to make a coherent account of a music-event experience.a. Following those directions, we found places near the main stage and enjoyed the bands performing in the friendly atmosphere.b. Back at home, I thought about the evening and realised that sharing the music with my friends had been its best part.c. Last Saturday, I went to a music festival in the park with two friends.d. After the final song, we left the stage area and caught a bus home.e. At the festival entrance, we showed our tickets, and a volunteer directed us towards the main stage.A. c – a – e – d – bB. c – e – a – d – bC. c – e – d – a – bD. c – e – a – b – dWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a music event blogarrange the sentences to make a coherent account of a music event experience a following those directions we found places near the main stage and enjoyed the bands performing in the friendly atmosphere b back at home i thought about the evening and realised that sharing the music with my friends had been its best part c last saturday i went to a music festival in the park with two friends d after the final song we left the stage area and caught a bus home e at the festival entrance we showed our tickets and a volunteer directed us towards the main stage a c a e d bb c e a d bc c e d a bd c e a b dwrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a music event blogarrange the sentences to make a coherent account of a music event experience a following those directions we found places near the main stage and enjoyed the bands performing in the friendly atmosphere b back at home i thought about the evening and realised that sharing the music with my friends had been its best part c last saturday i went to a music festival in the park with two friends d after the final song we left the stage area and caught a bus home e at the festival entrance we showed our tickets and a volunteer directed us towards the main stage a c a e d bb c e a d bc c e d a bd c e a b dwrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question preparing a group presentationarrange the sentences to explain how a group prepared its traditional music presentation a in response to this feedback we revised the unclear sections and rehearsed the improved version b we recorded our findings under headings for origins instruments types performers and costumes c our group chose a traditional music topic and researched the information required for the project d using these notes we prepared a presentation outline and assigned a section to each member e we rehearsed using that outline and classmates gave us feedback on sections that were difficult to follow a c d b e ab c b e d ac c b d a ed c b d e awrite a b c or d 1": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: Preparing a Group PresentationArrange the sentences to explain how a group prepared its traditional music presentation.a. In response to this feedback, we revised the unclear sections and rehearsed the improved version.b. We recorded our findings under headings for origins, instruments, types, performers, and costumes.c. Our group chose a traditional music topic and researched the information required for the project.d. Using these notes, we prepared a presentation outline and assigned a section to each member.e. We rehearsed using that outline, and classmates gave us feedback on sections that were difficult to follow.A. c – d – b – e – aB. c – b – e – d – aC. c – b – d – a – eD. c – b – d – e – aWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question preparing a group presentationarrange the sentences to explain how a group prepared its traditional music presentation a in response to this feedback we revised the unclear sections and rehearsed the improved version b we recorded our findings under headings for origins instruments types performers and costumes c our group chose a traditional music topic and researched the information required for the project d using these notes we prepared a presentation outline and assigned a section to each member e we rehearsed using that outline and classmates gave us feedback on sections that were difficult to follow a c d b e ab c b e d ac c b d a ed c b d e awrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question preparing a group presentationarrange the sentences to explain how a group prepared its traditional music presentation a in response to this feedback we revised the unclear sections and rehearsed the improved version b we recorded our findings under headings for origins instruments types performers and costumes c our group chose a traditional music topic and researched the information required for the project d using these notes we prepared a presentation outline and assigned a section to each member e we rehearsed using that outline and classmates gave us feedback on sections that were difficult to follow a c d b e ab c b e d ac c b d a ed c b d e awrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question preparing a group presentationarrange the sentences to explain how a group prepared its traditional music presentation a in response to this feedback we revised the unclear sections and rehearsed the improved version b we recorded our findings under headings for origins instruments types performers and costumes c our group chose a traditional music topic and researched the information required for the project d using these notes we prepared a presentation outline and assigned a section to each member e we rehearsed using that outline and classmates gave us feedback on sections that were difficult to follow a c d b e ab c b e d ac c b d a ed c b d e awrite a b c or d": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: Preparing a Group PresentationArrange the sentences to explain how a group prepared its traditional music presentation.a. In response to this feedback, we revised the unclear sections and rehearsed the improved version.b. We recorded our findings under headings for origins, instruments, types, performers, and costumes.c. Our group chose a traditional music topic and researched the information required for the project.d. Using these notes, we prepared a presentation outline and assigned a section to each member.e. We rehearsed using that outline, and classmates gave us feedback on sections that were difficult to follow.A. c – d – b – e – aB. c – b – e – d – aC. c – b – d – a – eD. c – b – d – e – aWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question preparing a group presentationarrange the sentences to explain how a group prepared its traditional music presentation a in response to this feedback we revised the unclear sections and rehearsed the improved version b we recorded our findings under headings for origins instruments types performers and costumes c our group chose a traditional music topic and researched the information required for the project d using these notes we prepared a presentation outline and assigned a section to each member e we rehearsed using that outline and classmates gave us feedback on sections that were difficult to follow a c d b e ab c b e d ac c b d a ed c b d e awrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question preparing a group presentationarrange the sentences to explain how a group prepared its traditional music presentation a in response to this feedback we revised the unclear sections and rehearsed the improved version b we recorded our findings under headings for origins instruments types performers and costumes c our group chose a traditional music topic and researched the information required for the project d using these notes we prepared a presentation outline and assigned a section to each member e we rehearsed using that outline and classmates gave us feedback on sections that were difficult to follow a c d b e ab c b e d ac c b d a ed c b d e awrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a traditional music presentationarrange the sentences to make a coherent presentation extract a from its origins we now turn to its instruments the moon shaped lute bamboo clappers drum and gong b chau van singing started in the northern delta region of viet nam around the 16th century c our presentation is about chau van singing and we will introduce its origins before describing its instruments and costumes d that completes our introduction to its origins instruments and costumes thank you for listening e having described the instruments let us look at the special costumes worn by the performers a c b a e db c a b e dc c b e a dd c b a d ewrite a b c or d 1": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Traditional Music PresentationArrange the sentences to make a coherent presentation extract.a. From its origins, we now turn to its instruments: the moon-shaped lute, bamboo clappers, drum, and gong.b. Chau van singing started in the Northern Delta region of Viet Nam around the 16th century.c. Our presentation is about chau van singing, and we will introduce its origins before describing its instruments and costumes.d. That completes our introduction to its origins, instruments, and costumes; thank you for listening.e. Having described the instruments, let us look at the special costumes worn by the performers.A. c – b – a – e – dB. c – a – b – e – dC. c – b – e – a – dD. c – b – a – d – eWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a traditional music presentationarrange the sentences to make a coherent presentation extract a from its origins we now turn to its instruments the moon shaped lute bamboo clappers drum and gong b chau van singing started in the northern delta region of viet nam around the 16th century c our presentation is about chau van singing and we will introduce its origins before describing its instruments and costumes d that completes our introduction to its origins instruments and costumes thank you for listening e having described the instruments let us look at the special costumes worn by the performers a c b a e db c a b e dc c b e a dd c b a d ewrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a traditional music presentationarrange the sentences to make a coherent presentation extract a from its origins we now turn to its instruments the moon shaped lute bamboo clappers drum and gong b chau van singing started in the northern delta region of viet nam around the 16th century c our presentation is about chau van singing and we will introduce its origins before describing its instruments and costumes d that completes our introduction to its origins instruments and costumes thank you for listening e having described the instruments let us look at the special costumes worn by the performers a c b a e db c a b e dc c b e a dd c b a d ewrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a traditional music presentationarrange the sentences to make a coherent presentation extract a from its origins we now turn to its instruments the moon shaped lute bamboo clappers drum and gong b chau van singing started in the northern delta region of viet nam around the 16th century c our presentation is about chau van singing and we will introduce its origins before describing its instruments and costumes d that completes our introduction to its origins instruments and costumes thank you for listening e having described the instruments let us look at the special costumes worn by the performers a c b a e db c a b e dc c b e a dd c b a d ewrite a b c or d": {
+      "question": "Arrange the sentences in each question to form a coherent text. Choose the correct order from A, B, C, or D. Look for: a sentence introducing the topic; references to earlier information; actions that must precede other actions; changes in time or topic; a suitable ending. Each option uses every sentence label once. Question: A Traditional Music PresentationArrange the sentences to make a coherent presentation extract.a. From its origins, we now turn to its instruments: the moon-shaped lute, bamboo clappers, drum, and gong.b. Chau van singing started in the Northern Delta region of Viet Nam around the 16th century.c. Our presentation is about chau van singing, and we will introduce its origins before describing its instruments and costumes.d. That completes our introduction to its origins, instruments, and costumes; thank you for listening.e. Having described the instruments, let us look at the special costumes worn by the performers.A. c – b – a – e – dB. c – a – b – e – dC. c – b – e – a – dD. c – b – a – d – eWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a traditional music presentationarrange the sentences to make a coherent presentation extract a from its origins we now turn to its instruments the moon shaped lute bamboo clappers drum and gong b chau van singing started in the northern delta region of viet nam around the 16th century c our presentation is about chau van singing and we will introduce its origins before describing its instruments and costumes d that completes our introduction to its origins instruments and costumes thank you for listening e having described the instruments let us look at the special costumes worn by the performers a c b a e db c a b e dc c b e a dd c b a d ewrite a b c or d 1",
+      "stem_key": "arrange the sentences in each question to form a coherent text choose the correct order from a b c or d look for a sentence introducing the topic references to earlier information actions that must precede other actions changes in time or topic a suitable ending each option uses every sentence label once question a traditional music presentationarrange the sentences to make a coherent presentation extract a from its origins we now turn to its instruments the moon shaped lute bamboo clappers drum and gong b chau van singing started in the northern delta region of viet nam around the 16th century c our presentation is about chau van singing and we will introduce its origins before describing its instruments and costumes d that completes our introduction to its origins instruments and costumes thank you for listening e having described the instruments let us look at the special costumes worn by the performers a c b a e db c a b e dc c b e a dd c b a d ewrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing a show timea lan then shall we go to the saturday show instead b lan how about going to the music show on friday evening c lan now that we ve agreed on saturday let s check the tickets for that show d nam i really want to go but i have a piano lesson on friday evening e nam saturday is free for me yes i d love to go then a b e a d cb b d a c ec b d c e ad b d a e cwrite a b c or d 1": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Choosing a Show Timea. Lan: Then shall we go to the Saturday show instead?b. Lan: How about going to the music show on Friday evening?c. Lan: Now that we’ve agreed on Saturday, let’s check the tickets for that show.d. Nam: I really want to go, but I have a piano lesson on Friday evening.e. Nam: Saturday is free for me. Yes, I’d love to go then.A. b – e – a – d – cB. b – d – a – c – eC. b – d – c – e – aD. b – d – a – e – cWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing a show timea lan then shall we go to the saturday show instead b lan how about going to the music show on friday evening c lan now that we ve agreed on saturday let s check the tickets for that show d nam i really want to go but i have a piano lesson on friday evening e nam saturday is free for me yes i d love to go then a b e a d cb b d a c ec b d c e ad b d a e cwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing a show timea lan then shall we go to the saturday show instead b lan how about going to the music show on friday evening c lan now that we ve agreed on saturday let s check the tickets for that show d nam i really want to go but i have a piano lesson on friday evening e nam saturday is free for me yes i d love to go then a b e a d cb b d a c ec b d c e ad b d a e cwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing a show timea lan then shall we go to the saturday show instead b lan how about going to the music show on friday evening c lan now that we ve agreed on saturday let s check the tickets for that show d nam i really want to go but i have a piano lesson on friday evening e nam saturday is free for me yes i d love to go then a b e a d cb b d a c ec b d c e ad b d a e cwrite a b c or d": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Choosing a Show Timea. Lan: Then shall we go to the Saturday show instead?b. Lan: How about going to the music show on Friday evening?c. Lan: Now that we’ve agreed on Saturday, let’s check the tickets for that show.d. Nam: I really want to go, but I have a piano lesson on Friday evening.e. Nam: Saturday is free for me. Yes, I’d love to go then.A. b – e – a – d – cB. b – d – a – c – eC. b – d – c – e – aD. b – d – a – e – cWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing a show timea lan then shall we go to the saturday show instead b lan how about going to the music show on friday evening c lan now that we ve agreed on saturday let s check the tickets for that show d nam i really want to go but i have a piano lesson on friday evening e nam saturday is free for me yes i d love to go then a b e a d cb b d a c ec b d c e ad b d a e cwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing a show timea lan then shall we go to the saturday show instead b lan how about going to the music show on friday evening c lan now that we ve agreed on saturday let s check the tickets for that show d nam i really want to go but i have a piano lesson on friday evening e nam saturday is free for me yes i d love to go then a b e a d cb b d a c ec b d c e ad b d a e cwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question arranging rehearsala minh shall we rehearse our traditional music presentation at lunchtime tomorrow b minh since you ve confirmed that you re free after school i ll ask the other group members to meet us in the classroom then c minh then how about rehearsing in the classroom after school instead d hoa yes that time works for me i m free after school tomorrow e hoa i can t rehearse at lunchtime because i have a club meeting then a a d c e bb a e c d bc a e c b dd a e b d cwrite a b c or d 1": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Arranging Rehearsala. Minh: Shall we rehearse our traditional music presentation at lunchtime tomorrow?b. Minh: Since you’ve confirmed that you’re free after school, I’ll ask the other group members to meet us in the classroom then.c. Minh: Then how about rehearsing in the classroom after school instead?d. Hoa: Yes, that time works for me. I’m free after school tomorrow.e. Hoa: I can’t rehearse at lunchtime because I have a club meeting then.A. a – d – c – e – bB. a – e – c – d – bC. a – e – c – b – dD. a – e – b – d – cWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question arranging rehearsala minh shall we rehearse our traditional music presentation at lunchtime tomorrow b minh since you ve confirmed that you re free after school i ll ask the other group members to meet us in the classroom then c minh then how about rehearsing in the classroom after school instead d hoa yes that time works for me i m free after school tomorrow e hoa i can t rehearse at lunchtime because i have a club meeting then a a d c e bb a e c d bc a e c b dd a e b d cwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question arranging rehearsala minh shall we rehearse our traditional music presentation at lunchtime tomorrow b minh since you ve confirmed that you re free after school i ll ask the other group members to meet us in the classroom then c minh then how about rehearsing in the classroom after school instead d hoa yes that time works for me i m free after school tomorrow e hoa i can t rehearse at lunchtime because i have a club meeting then a a d c e bb a e c d bc a e c b dd a e b d cwrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question arranging rehearsala minh shall we rehearse our traditional music presentation at lunchtime tomorrow b minh since you ve confirmed that you re free after school i ll ask the other group members to meet us in the classroom then c minh then how about rehearsing in the classroom after school instead d hoa yes that time works for me i m free after school tomorrow e hoa i can t rehearse at lunchtime because i have a club meeting then a a d c e bb a e c d bc a e c b dd a e b d cwrite a b c or d": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Arranging Rehearsala. Minh: Shall we rehearse our traditional music presentation at lunchtime tomorrow?b. Minh: Since you’ve confirmed that you’re free after school, I’ll ask the other group members to meet us in the classroom then.c. Minh: Then how about rehearsing in the classroom after school instead?d. Hoa: Yes, that time works for me. I’m free after school tomorrow.e. Hoa: I can’t rehearse at lunchtime because I have a club meeting then.A. a – d – c – e – bB. a – e – c – d – bC. a – e – c – b – dD. a – e – b – d – cWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question arranging rehearsala minh shall we rehearse our traditional music presentation at lunchtime tomorrow b minh since you ve confirmed that you re free after school i ll ask the other group members to meet us in the classroom then c minh then how about rehearsing in the classroom after school instead d hoa yes that time works for me i m free after school tomorrow e hoa i can t rehearse at lunchtime because i have a club meeting then a a d c e bb a e c d bc a e c b dd a e b d cwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question arranging rehearsala minh shall we rehearse our traditional music presentation at lunchtime tomorrow b minh since you ve confirmed that you re free after school i ll ask the other group members to meet us in the classroom then c minh then how about rehearsing in the classroom after school instead d hoa yes that time works for me i m free after school tomorrow e hoa i can t rehearse at lunchtime because i have a club meeting then a a d c e bb a e c d bc a e c b dd a e b d cwrite a b c or d 1",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question organising research notesa an yes headings will make the information easier to follow than one long paragraph b huy now that we have chosen chau van singing how about organising our research notes under clear headings c an that s a good idea we can use the textbook information about that music form d huy let s research chau van singing for our traditional music project e huy since we both agree that headings will be clearer let s use headings for origins instruments types performers and costumes a d c b e ab d a b c ec d c b a ed d c e a bwrite a b c or d 1": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Organising Research Notesa. An: Yes, headings will make the information easier to follow than one long paragraph.b. Huy: Now that we have chosen chau van singing, how about organising our research notes under clear headings?c. An: That’s a good idea. We can use the textbook information about that music form.d. Huy: Let’s research chau van singing for our traditional music project.e. Huy: Since we both agree that headings will be clearer, let’s use headings for origins, instruments, types, performers, and costumes.A. d – c – b – e – aB. d – a – b – c – eC. d – c – b – a – eD. d – c – e – a – bWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question organising research notesa an yes headings will make the information easier to follow than one long paragraph b huy now that we have chosen chau van singing how about organising our research notes under clear headings c an that s a good idea we can use the textbook information about that music form d huy let s research chau van singing for our traditional music project e huy since we both agree that headings will be clearer let s use headings for origins instruments types performers and costumes a d c b e ab d a b c ec d c b a ed d c e a bwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question organising research notesa an yes headings will make the information easier to follow than one long paragraph b huy now that we have chosen chau van singing how about organising our research notes under clear headings c an that s a good idea we can use the textbook information about that music form d huy let s research chau van singing for our traditional music project e huy since we both agree that headings will be clearer let s use headings for origins instruments types performers and costumes a d c b e ab d a b c ec d c b a ed d c e a bwrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question organising research notesa an yes headings will make the information easier to follow than one long paragraph b huy now that we have chosen chau van singing how about organising our research notes under clear headings c an that s a good idea we can use the textbook information about that music form d huy let s research chau van singing for our traditional music project e huy since we both agree that headings will be clearer let s use headings for origins instruments types performers and costumes a d c b e ab d a b c ec d c b a ed d c e a bwrite a b c or d": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Organising Research Notesa. An: Yes, headings will make the information easier to follow than one long paragraph.b. Huy: Now that we have chosen chau van singing, how about organising our research notes under clear headings?c. An: That’s a good idea. We can use the textbook information about that music form.d. Huy: Let’s research chau van singing for our traditional music project.e. Huy: Since we both agree that headings will be clearer, let’s use headings for origins, instruments, types, performers, and costumes.A. d – c – b – e – aB. d – a – b – c – eC. d – c – b – a – eD. d – c – e – a – bWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question organising research notesa an yes headings will make the information easier to follow than one long paragraph b huy now that we have chosen chau van singing how about organising our research notes under clear headings c an that s a good idea we can use the textbook information about that music form d huy let s research chau van singing for our traditional music project e huy since we both agree that headings will be clearer let s use headings for origins instruments types performers and costumes a d c b e ab d a b c ec d c b a ed d c e a bwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question organising research notesa an yes headings will make the information easier to follow than one long paragraph b huy now that we have chosen chau van singing how about organising our research notes under clear headings c an that s a good idea we can use the textbook information about that music form d huy let s research chau van singing for our traditional music project e huy since we both agree that headings will be clearer let s use headings for origins instruments types performers and costumes a d c b e ab d a b c ec d c b a ed d c e a bwrite a b c or d 1",
+      "answer": "c",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing how to present informationa vy good point let s use short notes on the slides and explain the details aloud instead b vy how about putting our whole traditional music script on the slides c vy now that we ve agreed to use short notes i ll shorten the slide text and you can help check the speaking notes d bao that s a better idea we can practise explaining the notes during rehearsal e bao i don t think that would work well the slides would contain too much text for classmates to read a b d a e cb b a e d cc b e a c dd b e a d cwrite a b c or d 1": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Choosing How to Present Informationa. Vy: Good point. Let’s use short notes on the slides and explain the details aloud instead.b. Vy: How about putting our whole traditional music script on the slides?c. Vy: Now that we’ve agreed to use short notes, I’ll shorten the slide text, and you can help check the speaking notes.d. Bao: That’s a better idea. We can practise explaining the notes during rehearsal.e. Bao: I don’t think that would work well. The slides would contain too much text for classmates to read.A. b – d – a – e – cB. b – a – e – d – cC. b – e – a – c – dD. b – e – a – d – cWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing how to present informationa vy good point let s use short notes on the slides and explain the details aloud instead b vy how about putting our whole traditional music script on the slides c vy now that we ve agreed to use short notes i ll shorten the slide text and you can help check the speaking notes d bao that s a better idea we can practise explaining the notes during rehearsal e bao i don t think that would work well the slides would contain too much text for classmates to read a b d a e cb b a e d cc b e a c dd b e a d cwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing how to present informationa vy good point let s use short notes on the slides and explain the details aloud instead b vy how about putting our whole traditional music script on the slides c vy now that we ve agreed to use short notes i ll shorten the slide text and you can help check the speaking notes d bao that s a better idea we can practise explaining the notes during rehearsal e bao i don t think that would work well the slides would contain too much text for classmates to read a b d a e cb b a e d cc b e a c dd b e a d cwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing how to present informationa vy good point let s use short notes on the slides and explain the details aloud instead b vy how about putting our whole traditional music script on the slides c vy now that we ve agreed to use short notes i ll shorten the slide text and you can help check the speaking notes d bao that s a better idea we can practise explaining the notes during rehearsal e bao i don t think that would work well the slides would contain too much text for classmates to read a b d a e cb b a e d cc b e a c dd b e a d cwrite a b c or d": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Choosing How to Present Informationa. Vy: Good point. Let’s use short notes on the slides and explain the details aloud instead.b. Vy: How about putting our whole traditional music script on the slides?c. Vy: Now that we’ve agreed to use short notes, I’ll shorten the slide text, and you can help check the speaking notes.d. Bao: That’s a better idea. We can practise explaining the notes during rehearsal.e. Bao: I don’t think that would work well. The slides would contain too much text for classmates to read.A. b – d – a – e – cB. b – a – e – d – cC. b – e – a – c – dD. b – e – a – d – cWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing how to present informationa vy good point let s use short notes on the slides and explain the details aloud instead b vy how about putting our whole traditional music script on the slides c vy now that we ve agreed to use short notes i ll shorten the slide text and you can help check the speaking notes d bao that s a better idea we can practise explaining the notes during rehearsal e bao i don t think that would work well the slides would contain too much text for classmates to read a b d a e cb b a e d cc b e a c dd b e a d cwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question choosing how to present informationa vy good point let s use short notes on the slides and explain the details aloud instead b vy how about putting our whole traditional music script on the slides c vy now that we ve agreed to use short notes i ll shorten the slide text and you can help check the speaking notes d bao that s a better idea we can practise explaining the notes during rehearsal e bao i don t think that would work well the slides would contain too much text for classmates to read a b d a e cb b a e d cc b e a c dd b e a d cwrite a b c or d 1",
+      "answer": "d",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question suggesting a smaller eventa lan i don t feel like it outdoor festivals are often too crowded for me i d prefer a smaller event b lan that sounds better i d love to go to the school show c mai shall we go to the music festival in the park on sunday d mai now that you ve chosen the school show let s meet at the school hall at six thirty e mai in that case why don t we go to the music show in the school hall instead a c a e b db c b e a dc c a d b ed c e a b dwrite a b c or d 1": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Suggesting a Smaller Eventa. Lan: I don’t feel like it. Outdoor festivals are often too crowded for me; I’d prefer a smaller event.b. Lan: That sounds better. I’d love to go to the school show.c. Mai: Shall we go to the music festival in the park on Sunday?d. Mai: Now that you’ve chosen the school show, let’s meet at the school hall at six thirty.e. Mai: In that case, why don’t we go to the music show in the school hall instead?A. c – a – e – b – dB. c – b – e – a – dC. c – a – d – b – eD. c – e – a – b – dWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question suggesting a smaller eventa lan i don t feel like it outdoor festivals are often too crowded for me i d prefer a smaller event b lan that sounds better i d love to go to the school show c mai shall we go to the music festival in the park on sunday d mai now that you ve chosen the school show let s meet at the school hall at six thirty e mai in that case why don t we go to the music show in the school hall instead a c a e b db c b e a dc c a d b ed c e a b dwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question suggesting a smaller eventa lan i don t feel like it outdoor festivals are often too crowded for me i d prefer a smaller event b lan that sounds better i d love to go to the school show c mai shall we go to the music festival in the park on sunday d mai now that you ve chosen the school show let s meet at the school hall at six thirty e mai in that case why don t we go to the music show in the school hall instead a c a e b db c b e a dc c a d b ed c e a b dwrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question suggesting a smaller eventa lan i don t feel like it outdoor festivals are often too crowded for me i d prefer a smaller event b lan that sounds better i d love to go to the school show c mai shall we go to the music festival in the park on sunday d mai now that you ve chosen the school show let s meet at the school hall at six thirty e mai in that case why don t we go to the music show in the school hall instead a c a e b db c b e a dc c a d b ed c e a b dwrite a b c or d": {
+      "question": "Arrange the utterances in each question to make a coherent conversation. Choose the correct order from A, B, C, or D. Check: what each speaker proposes; which proposal each response addresses; what causes an alternative to be suggested; which agreement the final action depends on. Each option uses every utterance label once. Question — Suggesting a Smaller Eventa. Lan: I don’t feel like it. Outdoor festivals are often too crowded for me; I’d prefer a smaller event.b. Lan: That sounds better. I’d love to go to the school show.c. Mai: Shall we go to the music festival in the park on Sunday?d. Mai: Now that you’ve chosen the school show, let’s meet at the school hall at six thirty.e. Mai: In that case, why don’t we go to the music show in the school hall instead?A. c – a – e – b – dB. c – b – e – a – dC. c – a – d – b – eD. c – e – a – b – dWrite A, B, C or D: {#1}",
+      "clean_stem": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question suggesting a smaller eventa lan i don t feel like it outdoor festivals are often too crowded for me i d prefer a smaller event b lan that sounds better i d love to go to the school show c mai shall we go to the music festival in the park on sunday d mai now that you ve chosen the school show let s meet at the school hall at six thirty e mai in that case why don t we go to the music show in the school hall instead a c a e b db c b e a dc c a d b ed c e a b dwrite a b c or d 1",
+      "stem_key": "arrange the utterances in each question to make a coherent conversation choose the correct order from a b c or d check what each speaker proposes which proposal each response addresses what causes an alternative to be suggested which agreement the final action depends on each option uses every utterance label once question suggesting a smaller eventa lan i don t feel like it outdoor festivals are often too crowded for me i d prefer a smaller event b lan that sounds better i d love to go to the school show c mai shall we go to the music festival in the park on sunday d mai now that you ve chosen the school show let s meet at the school hall at six thirty e mai in that case why don t we go to the music show in the school hall instead a c a e b db c b e a dc c a d b ed c e a b dwrite a b c or d 1",
+      "answer": "a",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "choose the option a b c or d that best fits each numbered blank check the guide s meaning natural expressions grammatical patterns and reference words question 1a researchb to researchc researchedd researching write a b c or d 1 question 2a performancesb awardsc votesd instruments write a b c or d 2 question 3a costumesb prizesc scoresd singles write a b c or d 3 question 4a judgingb votingc worshipd recording write a b c or d 4 question 5a orb butc yetd so write a b c or d 5 question 6a itb themc theird its write a b c or d 6 question 7a butb becausec ord so write a b c or d 7 question 8a explainedb explainingc to explaind explain write a b c or d 8 question 9a to rehearseb rehearsec rehearsedd rehearsing write a b c or d 9 question 10a atmosphereb seasonc scored stage write a b c or d 10": {
+      "question": "Choose the option A, B, C, or D that best fits each numbered blank. Check the guide’s meaning, natural expressions, grammatical patterns, and reference words. Question 1A. researchB. to researchC. researchedD. researching Write A, B, C or D: {#1} Question 2A. performancesB. awardsC. votesD. instruments Write A, B, C or D: {#2} Question 3A. costumesB. prizesC. scoresD. singles Write A, B, C or D: {#3} Question 4A. judgingB. votingC. worshipD. recording Write A, B, C or D: {#4} Question 5A. orB. butC. yetD. so Write A, B, C or D: {#5} Question 6A. itB. themC. theirD. its Write A, B, C or D: {#6} Question 7A. butB. becauseC. orD. so Write A, B, C or D: {#7} Question 8A. explainedB. explainingC. to explainD. explain Write A, B, C or D: {#8} Question 9A. to rehearseB. rehearseC. rehearsedD. rehearsing Write A, B, C or D: {#9} Question 10A. atmosphereB. seasonC. scoreD. stage Write A, B, C or D: {#10}",
+      "clean_stem": "choose the option a b c or d that best fits each numbered blank check the guide s meaning natural expressions grammatical patterns and reference words question 1a researchb to researchc researchedd researching write a b c or d 1 question 2a performancesb awardsc votesd instruments write a b c or d 2 question 3a costumesb prizesc scoresd singles write a b c or d 3 question 4a judgingb votingc worshipd recording write a b c or d 4 question 5a orb butc yetd so write a b c or d 5 question 6a itb themc theird its write a b c or d 6 question 7a butb becausec ord so write a b c or d 7 question 8a explainedb explainingc to explaind explain write a b c or d 8 question 9a to rehearseb rehearsec rehearsedd rehearsing write a b c or d 9 question 10a atmosphereb seasonc scored stage write a b c or d 10",
+      "stem_key": "choose the option a b c or d that best fits each numbered blank check the guide s meaning natural expressions grammatical patterns and reference words question 1a researchb to researchc researchedd researching write a b c or d 1 question 2a performancesb awardsc votesd instruments write a b c or d 2 question 3a costumesb prizesc scoresd singles write a b c or d 3 question 4a judgingb votingc worshipd recording write a b c or d 4 question 5a orb butc yetd so write a b c or d 5 question 6a itb themc theird its write a b c or d 6 question 7a butb becausec ord so write a b c or d 7 question 8a explainedb explainingc to explaind explain write a b c or d 8 question 9a to rehearseb rehearsec rehearsedd rehearsing write a b c or d 9 question 10a atmosphereb seasonc scored stage write a b c or d 10",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "b"
+        },
+        {
+          "index": 9,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
+    },
+    "choose the option a b c or d that best fits each numbered blank check the guide s meaning natural expressions grammatical patterns and reference words question 1a researchb to researchc researchedd researching write a b c or d question 2a performancesb awardsc votesd instruments write a b c or d question 3a costumesb prizesc scoresd singles write a b c or d question 4a judgingb votingc worshipd recording write a b c or d question 5a orb butc yetd so write a b c or d question 6a itb themc theird its write a b c or d question 7a butb becausec ord so write a b c or d question 8a explainedb explainingc to explaind explain write a b c or d question 9a to rehearseb rehearsec rehearsedd rehearsing write a b c or d question 10a atmosphereb seasonc scored stage write a b c or d": {
+      "question": "Choose the option A, B, C, or D that best fits each numbered blank. Check the guide’s meaning, natural expressions, grammatical patterns, and reference words. Question 1A. researchB. to researchC. researchedD. researching Write A, B, C or D: {#1} Question 2A. performancesB. awardsC. votesD. instruments Write A, B, C or D: {#2} Question 3A. costumesB. prizesC. scoresD. singles Write A, B, C or D: {#3} Question 4A. judgingB. votingC. worshipD. recording Write A, B, C or D: {#4} Question 5A. orB. butC. yetD. so Write A, B, C or D: {#5} Question 6A. itB. themC. theirD. its Write A, B, C or D: {#6} Question 7A. butB. becauseC. orD. so Write A, B, C or D: {#7} Question 8A. explainedB. explainingC. to explainD. explain Write A, B, C or D: {#8} Question 9A. to rehearseB. rehearseC. rehearsedD. rehearsing Write A, B, C or D: {#9} Question 10A. atmosphereB. seasonC. scoreD. stage Write A, B, C or D: {#10}",
+      "clean_stem": "choose the option a b c or d that best fits each numbered blank check the guide s meaning natural expressions grammatical patterns and reference words question 1a researchb to researchc researchedd researching write a b c or d 1 question 2a performancesb awardsc votesd instruments write a b c or d 2 question 3a costumesb prizesc scoresd singles write a b c or d 3 question 4a judgingb votingc worshipd recording write a b c or d 4 question 5a orb butc yetd so write a b c or d 5 question 6a itb themc theird its write a b c or d 6 question 7a butb becausec ord so write a b c or d 7 question 8a explainedb explainingc to explaind explain write a b c or d 8 question 9a to rehearseb rehearsec rehearsedd rehearsing write a b c or d 9 question 10a atmosphereb seasonc scored stage write a b c or d 10",
+      "stem_key": "choose the option a b c or d that best fits each numbered blank check the guide s meaning natural expressions grammatical patterns and reference words question 1a researchb to researchc researchedd researching write a b c or d 1 question 2a performancesb awardsc votesd instruments write a b c or d 2 question 3a costumesb prizesc scoresd singles write a b c or d 3 question 4a judgingb votingc worshipd recording write a b c or d 4 question 5a orb butc yetd so write a b c or d 5 question 6a itb themc theird its write a b c or d 6 question 7a butb becausec ord so write a b c or d 7 question 8a explainedb explainingc to explaind explain write a b c or d 8 question 9a to rehearseb rehearsec rehearsedd rehearsing write a b c or d 9 question 10a atmosphereb seasonc scored stage write a b c or d 10",
+      "answer": "b",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "a"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "d"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "value": "c"
+        },
+        {
+          "index": 8,
+          "value": "b"
+        },
+        {
+          "index": 9,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-10-28T14:01:34Z"
     }
   }
 }
