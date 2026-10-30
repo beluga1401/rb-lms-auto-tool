@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Trương Quốc Minh Quân",
-    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "account_name": "Nguyễn Lê Đức Trung",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 4",
     "unit_key": "session_4",
     "quiz_title": "GR11EX35MOET",
     "quiz_key": "gr11ex35moet",
-    "cmid": "742995",
+    "cmid": "742992",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_4/gr11ex35moet.json",
-    "score": "100.0%",
+    "score": "60.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 40,
-    "updated_at": "2026-10-26 22:30:31"
+    "updated_at": "2026-10-30 20:06:01"
   },
   "answers": [
     {
@@ -42,7 +42,8 @@
       "questionNumber": 1,
       "realNumber": 1,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: D] Context: The sentence describes students sharing 'songs and customs' to learn about 'one another's traditions'. This context requires an adjective related to traditions and customs. | Elimination: Commercial, financial, and medical are completely unrelated to sharing songs, customs, and learning traditions. | Reasoning: Cultural exchange is the standard collocation used for programs where students share traditions, songs, and customs.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "A",
@@ -68,7 +69,8 @@
       "questionNumber": 2,
       "realNumber": 2,
       "reasoning": "Context: The sentence contrasts problems 'affecting young people today' with 'problems from earlier historical periods'. | Elimination: Former, future, and historical contradict the contrast with earlier historical periods and do not fit the present context. | Reasoning: The adjective 'current' means happening now or currently existing, perfectly contrasting with earlier historical periods.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "A",
@@ -94,7 +96,8 @@
       "questionNumber": 3,
       "realNumber": 3,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: A] Context: The sentence requires the correct preposition that collocates with 'apply' when seeking financial support or a scholarship. | Elimination: 'to' is used when applying to an institution or person, 'at' indicates location, and 'in' is incorrect for scholarship applications. | Reasoning: The fixed collocation is 'apply for' something (such as a scholarship or financial support).",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -120,7 +123,8 @@
       "questionNumber": 4,
       "realNumber": 4,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: B] Context: The sentence specifies tasks that 'require students to guide a team and coordinate its work', which directly defines leadership skills. | Elimination: Presentation, research, and language skills do not match the requirement of guiding a team and coordinating its work. | Reasoning: Guiding a team and coordinating its work are the core practical responsibilities of leadership skills.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -146,7 +150,8 @@
       "questionNumber": 5,
       "realNumber": 5,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: D] Context: The sentence requires a verb that collocates directly with the noun phrase 'a useful contribution' to mean to help or contribute. | Elimination: Options A ('do'), B ('take'), and C ('hold') do not form standard collocations with 'contribution'. Only 'make' collocates with 'contribution'. | Reasoning: The fixed collocation in English is 'to make a contribution', making 'make' the only grammatically and semantically correct choice.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -172,7 +177,8 @@
       "questionNumber": 6,
       "realNumber": 6,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: D] Context: The sentence requires the correct preposition following the collocation 'take part ___'. | Elimination: Options 'to', 'on', and 'at' are grammatically incorrect with the fixed expression 'take part', which strictly requires 'in'. | Reasoning: The fixed collocation for participating in an event is 'take part in', making 'in' the only correct choice.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -198,7 +204,8 @@
       "questionNumber": 7,
       "realNumber": 7,
       "reasoning": "Context: The verb 'make' collocates with 'arrangements' to mean planning and preparing for an event or activity. | Elimination: Options A ('qualifications'), B ('compliments'), and C ('opinions') do not form standard collocations with 'make' in the context of preparing activities. | Reasoning: The fixed collocation 'make arrangements' means to prepare or organize something, which perfectly fits the context of preparing materials.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "A",
@@ -224,7 +231,8 @@
       "questionNumber": 8,
       "realNumber": 8,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: A] Context: The sentence requires a noun that pairs with the preposition 'to' and matches the context of 'explaining how the problems could be addressed'. | Elimination: 'Reactions', 'descriptions', and 'objections' do not collocate with 'to the issues in a way that explains how problems are addressed' as appropriately as 'solutions'. | Reasoning: The fixed collocation 'solutions to the issues' perfectly fits the meaning of addressing and resolving problems.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -250,7 +258,8 @@
       "questionNumber": 9,
       "realNumber": 9,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: B] Context: The sentence links 'respect and cooperation' to 'shared ________ that the groups consider important', referring to core principles or standards. | Elimination: Schedules, customs, and resources do not appropriately collocate with 'shared' in the context of respect and cooperation being considered important moral or ethical principles. | Reasoning: The collocation 'shared values' is widely used in sociology and ethics to describe principles like respect and cooperation.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -276,7 +285,8 @@
       "questionNumber": 10,
       "realNumber": 10,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: D] Context: The sentence requires a phrasal verb meaning to submit or mail documents officially. | Elimination: 'Wash away' means erode, 'bring together' means gather people, 'find out' means discover, none fit proposal submission. | Reasoning: 'Send in' means to submit or mail documents for consideration, matching the exact context of proposal submission.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -302,7 +312,8 @@
       "questionNumber": 11,
       "realNumber": 11,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: D] Context: The blank precedes the auxiliary verb 'will introduce', requiring a singular countable noun as the subject of the sentence. | Elimination: Options A (verb), B (uncountable noun meaning the act, not the person), and C (participle) fail syntactic requirements for a subject noun. | Reasoning: 'Participant' is the correct singular countable noun referring to a person who takes part, fitting the subject position before 'will introduce'.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -328,7 +339,8 @@
       "questionNumber": 12,
       "realNumber": 12,
       "reasoning": "Context: The sentence requires a singular noun as the direct object of the verb 'selected' to act on behalf of the group ('selected a [noun]'). | Elimination: Option A is a verb; Option B is a past participle/verb; Option C is an abstract noun ('representation') meaning the act of representing, which doesn't fit a person. Only 'representative' denotes a person chosen to speak for others. | Reasoning: The indefinite article 'a' must precede a singular countable noun referring to a person who explains the proposal. 'Representative' is the correct noun form.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "C",
@@ -354,7 +366,8 @@
       "questionNumber": 13,
       "realNumber": 13,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: C] Context: The blank precedes the noun 'activities', requiring an adjective to modify it properly ('cultural activities'). | Elimination: Option A ('cultures') is a noun plural, Option B ('culturally') is an adverb, and Option D ('culture') is a noun adjunct, all of which violate syntactic modification rules. | Reasoning: The adjective 'cultural' is needed to modify the noun 'activities' correctly.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -380,7 +393,8 @@
       "questionNumber": 14,
       "realNumber": 14,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: B] Context: The blank precedes the noun 'trainer', requiring an adjective to modify it attributively ('a [adjective] trainer'). | Elimination: Option A ('qualifies') is a verb form. Option C ('qualify') is a bare infinitive/verb. Option D ('qualification') is a noun. None fit the pre-noun modifying adjectival slot. | Reasoning: The past participle 'qualified' functions as a participial adjective modifying 'trainer', meaning possessing the necessary credentials.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -406,7 +420,8 @@
       "questionNumber": 15,
       "realNumber": 15,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: B] Context: The sentence requires a noun after the definite article 'the' and the preposition 'of' ('supports the [noun] of...'). | Elimination: Option A is a verb. Option C is a participle/gerund. Option D is an adjective/past participle. Only option B ('development') is a valid noun. | Reasoning: Following the structure 'supports the + NOUN + of', 'development' is the correct nominal form required by English syntax.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -432,7 +447,8 @@
       "questionNumber": 16,
       "realNumber": 16,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: B] Context: The blank precedes the noun 'games', requiring an adjective to modify it properly. | Elimination: Option A ('traditions') is a noun; option C ('traditionally') is an adverb; option D ('tradition') is a noun. None can directly modify the noun 'games'. | Reasoning: The adjective 'traditional' is required to modify the noun 'games' (traditional games).",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -458,7 +474,8 @@
       "questionNumber": 17,
       "realNumber": 17,
       "reasoning": "Context: The blank follows an article 'an' and requires a singular countable noun acting as the direct object of the verb 'reached'. | Elimination: 'agreed' is a verb/participle, 'agreeing' is a participle/gerund, and 'agree' is a verb. None fit the noun position after 'an'. | Reasoning: The noun 'agreement' correctly follows the indefinite article 'an' to form the standard collocation 'reach an agreement'.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -484,7 +501,8 @@
       "questionNumber": 18,
       "realNumber": 18,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: D] Context: The sentence requires a noun to act as the direct object of the verb 'recorded' ('recorded her ________ as Thai'). | Elimination: 'nation' is a noun meaning country, not a legal status. 'national' is an adjective or noun for a citizen, but 'nationality' specifically denotes one's status of belonging to a particular nation. 'nationally' is an adverb. | Reasoning: 'Nationality' is the correct noun referring to ethnic or national identity ('Thai').",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "C",
@@ -510,7 +528,8 @@
       "questionNumber": 19,
       "realNumber": 19,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: C] Context: The blank modifies the noun 'festival', requiring an adjective form. 'Religious' is the correct adjective. | Elimination: 'Religiously' is an adverb; 'religions' is a plural noun; 'religion' is a noun. None can directly modify a noun as an attribute. | Reasoning: We need the adjective 'religious' to modify the noun 'festival'.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "answer": "B",
@@ -536,7 +555,8 @@
       "questionNumber": 20,
       "realNumber": 20,
       "reasoning": "🎯 [Dual-Key 100% Đồng Thuận: B] Context: The sentence requires a noun after the possessive adjective 'Lan's' and the adjective 'main' to function as the direct object of the verb 'was'. | Elimination: Options A (contributing - gerund/participle), C (contribute - verb), and D (contributor - person noun) do not fit the nominal requirement for the abstract act or thing provided as much as 'contribution' does. | Reasoning: 'Contribution' is the correct noun form meaning the part played by someone in making something successful.",
-      "selects": []
+      "selects": [],
+      "dragdrops": []
     },
     {
       "id": "question-1917379-1",
@@ -553,7 +573,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the students shared songs and customs during a ________ exchange designed to help them learn about one another’s traditions.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-2",
@@ -570,7 +591,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-6",
@@ -587,15 +609,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.students interested in financial support can apply ________ asean scholarships when suitable opportunities are advertised.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-3",
-      "questionId": "question-1917379-3",
-      "questionNumber": 7,
+      "id": "question-1929914-3",
+      "questionId": "question-1929914-3",
+      "questionNumber": 9,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
-      "letter": "B",
+      "letter": "D",
       "answer": "leadership",
       "rightAnswer": "leadership",
       "options": [
@@ -604,7 +627,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-5",
@@ -621,15 +645,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.young volunteers can ________ a useful contribution to community development through practical projects.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-9",
-      "questionId": "question-1917379-9",
-      "questionNumber": 5,
+      "id": "question-1929914-9",
+      "questionId": "question-1929914-9",
+      "questionNumber": 6,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Several students want to take part ________ the welcome event and help the visiting students.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.several students want to take part ________ the welcome event and help the visiting students.",
-      "letter": "C",
+      "letter": "B",
       "answer": "in",
       "rightAnswer": "in",
       "options": [
@@ -638,15 +663,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.several students want to take part ________ the welcome event and help the visiting students.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-8",
-      "questionId": "question-1917379-8",
-      "questionNumber": 1,
+      "id": "question-1929914-8",
+      "questionId": "question-1929914-8",
+      "questionNumber": 5,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
-      "letter": "C",
+      "letter": "D",
       "answer": "arrangements",
       "rightAnswer": "arrangements",
       "options": [
@@ -655,7 +681,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-7",
@@ -672,15 +699,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.during the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-4",
-      "questionId": "question-1917379-4",
-      "questionNumber": 2,
+      "id": "question-1929914-4",
+      "questionId": "question-1929914-4",
+      "questionNumber": 3,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Respect and cooperation are examples of shared ________ that the groups consider important.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.respect and cooperation are examples of shared ________ that the groups consider important.",
-      "letter": "A",
+      "letter": "C",
       "answer": "values",
       "rightAnswer": "values",
       "options": [
@@ -689,7 +717,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.respect and cooperation are examples of shared ________ that the groups consider important.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-10",
@@ -706,12 +735,13 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.to submit their completed proposals for consideration, the groups must ________ the documents by friday.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-13",
-      "questionId": "question-1917379-13",
-      "questionNumber": 12,
+      "id": "question-1929914-13",
+      "questionId": "question-1929914-13",
+      "questionNumber": 15,
       "question": "Choose the option A, B, C, or D that gives the correct word form.Each ________ will introduce one cultural activity during the exchange.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.each ________ will introduce one cultural activity during the exchange.",
       "letter": "A",
@@ -723,7 +753,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.each ________ will introduce one cultural activity during the exchange.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-18",
@@ -740,7 +771,8 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the group selected a ________ to explain its proposal to the teacher.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "id": "question-1917379-15",
@@ -757,12 +789,13 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the exchange includes ________ activities such as sharing songs and discussing customs.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-14",
-      "questionId": "question-1917379-14",
-      "questionNumber": 18,
+      "id": "question-1929914-14",
+      "questionId": "question-1929914-14",
+      "questionNumber": 14,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The school needs a ________ trainer who has suitable preparation and experience.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the school needs a ________ trainer who has suitable preparation and experience.",
       "letter": "B",
@@ -774,15 +807,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the school needs a ________ trainer who has suitable preparation and experience.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-12",
-      "questionId": "question-1917379-12",
-      "questionNumber": 13,
+      "id": "question-1929914-12",
+      "questionId": "question-1929914-12",
+      "questionNumber": 11,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The community project supports the ________ of useful practical skills among young volunteers.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the community project supports the ________ of useful practical skills among young volunteers.",
-      "letter": "A",
+      "letter": "D",
       "answer": "development",
       "rightAnswer": "development",
       "options": [
@@ -791,12 +825,13 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the community project supports the ________ of useful practical skills among young volunteers.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-16",
-      "questionId": "question-1917379-16",
-      "questionNumber": 20,
+      "id": "question-1929914-16",
+      "questionId": "question-1929914-16",
+      "questionNumber": 13,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The visitors will learn the rules of several ________ games before joining the festival.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the visitors will learn the rules of several ________ games before joining the festival.",
       "letter": "D",
@@ -808,12 +843,13 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the visitors will learn the rules of several ________ games before joining the festival.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-17",
-      "questionId": "question-1917379-17",
-      "questionNumber": 11,
+      "id": "question-1929914-17",
+      "questionId": "question-1929914-17",
+      "questionNumber": 20,
       "question": "Choose the option A, B, C, or D that gives the correct word form.After discussing the schedule, the organisers reached an ________ about the starting time.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.after discussing the schedule, the organisers reached an ________ about the starting time.",
       "letter": "D",
@@ -825,15 +861,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.after discussing the schedule, the organisers reached an ________ about the starting time.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-20",
-      "questionId": "question-1917379-20",
-      "questionNumber": 15,
+      "id": "question-1929914-20",
+      "questionId": "question-1929914-20",
+      "questionNumber": 17,
       "question": "Choose the option A, B, C, or D that gives the correct word form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.in the country-research notes, the student recorded her ________ as thai and listed her language separately.",
-      "letter": "B",
+      "letter": "D",
       "answer": "nationality",
       "rightAnswer": "nationality",
       "options": [
@@ -842,12 +879,13 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.in the country-research notes, the student recorded her ________ as thai and listed her language separately.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-19",
-      "questionId": "question-1917379-19",
-      "questionNumber": 17,
+      "id": "question-1929914-19",
+      "questionId": "question-1929914-19",
+      "questionNumber": 18,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
       "letter": "A",
@@ -859,15 +897,16 @@
       "selects": [],
       "inputs": [],
       "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
-      "id": "question-1917379-11",
-      "questionId": "question-1917379-11",
+      "id": "question-1929914-11",
+      "questionId": "question-1929914-11",
       "questionNumber": 19,
-      "question": "Choose the option A, B, C, or D that gives the correct word form.Preparing the materials was Lan’s main ________ to the welcome event.",
-      "questionKey": "choose the option a, b, c, or d that gives the correct word form.preparing the materials was lan’s main ________ to the welcome event.",
-      "letter": "A",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Preparing the materials was Lan's main ________ to the welcome event.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.preparing the materials was lan's main ________ to the welcome event.",
+      "letter": "B",
       "answer": "contribution",
       "rightAnswer": "contribution",
       "options": [
@@ -875,8 +914,9 @@
       ],
       "selects": [],
       "inputs": [],
-      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.preparing the materials was lan’s main ________ to the welcome event.",
-      "verified_100": true
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.preparing the materials was lan's main ________ to the welcome event.",
+      "verified_100": true,
+      "dragdrops": []
     }
   ]
 }
