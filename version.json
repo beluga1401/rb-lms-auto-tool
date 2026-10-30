@@ -1,16 +1,17 @@
 {
-  "version": "5.0.0",
-  "app_name": "RB LMS Auto Tool",
+  "version": "5.1.0",
+  "app_name": "RB LMS Auto Tool Lite",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-26",
+  "release_date": "2026-10-30",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Đập đi xây lại toàn bộ kiến trúc (Full Modular Remake): Tách nhỏ monolith 16.600 dòng thành các module độc lập, chuyên sâu (lms_js_engine, chrome_bridge, cloud_sync, ui_dialogs, ui_stealth_overlay), giảm hơn 600 KB dung lượng mã nguồn và tăng tốc độ khởi động x2 lần.",
-    "Tích hợp Màn Hình Đen Talon (Stealth Blackout Mode): Hiển thị phông nền đen bảo mật phủ kín trình duyệt với banner trung tâm 'https://discord.gg/rboptimize tối ưu giá rẻ uts1' chống quay lén màn hình, phím tắt F9 / Ctrl+B tiện lợi.",
-    "Quản lý vòng đời tiến trình Chrome triệt để: Tự động quét và diệt toàn bộ cây tiến trình con của Chrome khi thoát ứng dụng (Process Tree Cleanup), không để lại bất kỳ tiến trình Chrome chạy ngầm nào làm nặng máy.",
-    "Thanh công cụ hiện đại: Ghim trực tiếp nút '🌐 Real Chrome' và '🕶️ Talon Màn Đen' lên thanh điều hướng chính, phản hồi mượt mà và trực quan 1-click."
+    "Bản phát hành siêu nhẹ v5.1 Lite: Tinh giản tối đa kiến trúc, chỉ giữ lại 2 tính năng cốt lõi là Auto Cloud (nhận diện bài thi & nộp bài tự động) và Cào & Lưu Cloud (đồng bộ đáp án chuẩn từ Review).",
+    "Cửa sổ co dãn tự do (Free Resizing): Loại bỏ sidebar cố định và thanh công cụ cồng kềnh, thiết kế lại Single-View Layout cho phép thu nhỏ / phóng to cửa sổ tùy thích (hỗ trợ chia đôi màn hình hoặc thu nhỏ gọn gàng).",
+    "Độ chuẩn xác 100% lưu đáp án: Nâng cấp thuật toán làm sạch đáp án clean_right_answer_text, loại bỏ triệt để tiền tố ('The correct answer is:', 'Đáp án đúng là:') và dấu chấm câu cuối câu, bảo toàn đầy đủ sub-blanks và choices.",
+    "Tối ưu hóa tài nguyên phần cứng: Giới hạn bộ nhớ đệm HTTP và Chrome process limit, giảm tiêu thụ RAM và CPU xuống mức tối thiểu.",
+    "Giữ trọn cơ chế nhúng Google Chrome thật (Win32 HWND + CDP) và Màn hình đen Talon F9 bảo mật chống lộ (banner https://discord.gg/rboptimize tối ưu giá rẻ uts1)."
   ]
 }
