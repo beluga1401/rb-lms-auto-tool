@@ -1,6 +1,6 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-10-30T13:06:05Z",
+  "updated_at": "2026-10-30T13:06:13Z",
   "total_questions": 41,
   "questions": {
     "which animal is a pet": {
@@ -155,24 +155,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that best completes the natural phrase or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work": {
-      "question": "or collocation.The workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
-      "clean_stem": "or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work",
-      "stem_key": "or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work",
-      "answer": "B",
-      "letter": "B",
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation the workshop develops skills through tasks that require students to guide a team and coordinate its work",
+      "answer": "leadership",
+      "letter": "D",
       "options": [
-        "B"
+        "leadership"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "or collocation young volunteers can a useful contribution to community development through practical projects": {
       "question": "or collocation.Young volunteers can ________ a useful contribution to community development through practical projects.",
@@ -235,24 +230,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that best completes the natural phrase or collocation several students want to take part the welcome event and help the visiting students": {
-      "question": "or collocation.Several students want to take part ________ the welcome event and help the visiting students.",
-      "clean_stem": "or collocation several students want to take part the welcome event and help the visiting students",
-      "stem_key": "or collocation several students want to take part the welcome event and help the visiting students",
-      "answer": "D",
-      "letter": "D",
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Several students want to take part ________ the welcome event and help the visiting students.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation several students want to take part the welcome event and help the visiting students",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation several students want to take part the welcome event and help the visiting students",
+      "answer": "in",
+      "letter": "B",
       "options": [
-        "D"
+        "in"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "D"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "or collocation the organisers will make for the activities including preparing materials and setting up the playing areas": {
       "question": "or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
@@ -275,24 +265,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that best completes the natural phrase or collocation the organisers will make for the activities including preparing materials and setting up the playing areas": {
-      "question": "or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
-      "clean_stem": "or collocation the organisers will make for the activities including preparing materials and setting up the playing areas",
-      "stem_key": "or collocation the organisers will make for the activities including preparing materials and setting up the playing areas",
-      "answer": "D",
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation the organisers will make for the activities including preparing materials and setting up the playing areas",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation the organisers will make for the activities including preparing materials and setting up the playing areas",
+      "answer": "arrangements",
       "letter": "D",
       "options": [
-        "D"
+        "arrangements"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "D"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "or collocation during the discussion participants should offer to the issues by explaining how the problems could be addressed": {
       "question": "or collocation.During the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
@@ -355,24 +340,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that best completes the natural phrase or collocation respect and cooperation are examples of shared that the groups consider important": {
-      "question": "or collocation.Respect and cooperation are examples of shared ________ that the groups consider important.",
-      "clean_stem": "or collocation respect and cooperation are examples of shared that the groups consider important",
-      "stem_key": "or collocation respect and cooperation are examples of shared that the groups consider important",
-      "answer": "B",
-      "letter": "B",
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Respect and cooperation are examples of shared ________ that the groups consider important.",
+      "clean_stem": "choose the option a b c or d that best completes the natural phrase or collocation respect and cooperation are examples of shared that the groups consider important",
+      "stem_key": "choose the option a b c or d that best completes the natural phrase or collocation respect and cooperation are examples of shared that the groups consider important",
+      "answer": "values",
+      "letter": "C",
       "options": [
-        "B"
+        "values"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "or collocation to submit their completed proposals for consideration the groups must the documents by friday": {
       "question": "or collocation.To submit their completed proposals for consideration, the groups must ________ the documents by Friday.",
@@ -435,24 +415,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form each will introduce one cultural activity during the exchange": {
-      "question": "form.Each ________ will introduce one cultural activity during the exchange.",
-      "clean_stem": "form each will introduce one cultural activity during the exchange",
-      "stem_key": "form each will introduce one cultural activity during the exchange",
-      "answer": "D",
-      "letter": "D",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Each ________ will introduce one cultural activity during the exchange.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form each will introduce one cultural activity during the exchange",
+      "stem_key": "choose the option a b c or d that gives the correct word form each will introduce one cultural activity during the exchange",
+      "answer": "participant",
+      "letter": "A",
       "options": [
-        "D"
+        "participant"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "D"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form the group selected a to explain its proposal to the teacher": {
       "question": "form.The group selected a ________ to explain its proposal to the teacher.",
@@ -555,24 +530,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form the school needs a trainer who has suitable preparation and experience": {
-      "question": "form.The school needs a ________ trainer who has suitable preparation and experience.",
-      "clean_stem": "form the school needs a trainer who has suitable preparation and experience",
-      "stem_key": "form the school needs a trainer who has suitable preparation and experience",
-      "answer": "B",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The school needs a ________ trainer who has suitable preparation and experience.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the school needs a trainer who has suitable preparation and experience",
+      "stem_key": "choose the option a b c or d that gives the correct word form the school needs a trainer who has suitable preparation and experience",
+      "answer": "qualified",
       "letter": "B",
       "options": [
-        "B"
+        "qualified"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form the community project supports the of useful practical skills among young volunteers": {
       "question": "form.The community project supports the ________ of useful practical skills among young volunteers.",
@@ -595,24 +565,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form the community project supports the of useful practical skills among young volunteers": {
-      "question": "form.The community project supports the ________ of useful practical skills among young volunteers.",
-      "clean_stem": "form the community project supports the of useful practical skills among young volunteers",
-      "stem_key": "form the community project supports the of useful practical skills among young volunteers",
-      "answer": "B",
-      "letter": "B",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The community project supports the ________ of useful practical skills among young volunteers.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the community project supports the of useful practical skills among young volunteers",
+      "stem_key": "choose the option a b c or d that gives the correct word form the community project supports the of useful practical skills among young volunteers",
+      "answer": "development",
+      "letter": "D",
       "options": [
-        "B"
+        "development"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form the visitors will learn the rules of several games before joining the festival": {
       "question": "form.The visitors will learn the rules of several ________ games before joining the festival.",
@@ -635,24 +600,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form the visitors will learn the rules of several games before joining the festival": {
-      "question": "form.The visitors will learn the rules of several ________ games before joining the festival.",
-      "clean_stem": "form the visitors will learn the rules of several games before joining the festival",
-      "stem_key": "form the visitors will learn the rules of several games before joining the festival",
-      "answer": "B",
-      "letter": "B",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The visitors will learn the rules of several ________ games before joining the festival.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the visitors will learn the rules of several games before joining the festival",
+      "stem_key": "choose the option a b c or d that gives the correct word form the visitors will learn the rules of several games before joining the festival",
+      "answer": "traditional",
+      "letter": "D",
       "options": [
-        "B"
+        "traditional"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form after discussing the schedule the organisers reached an about the starting time": {
       "question": "form.After discussing the schedule, the organisers reached an ________ about the starting time.",
@@ -675,24 +635,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form after discussing the schedule the organisers reached an about the starting time": {
-      "question": "form.After discussing the schedule, the organisers reached an ________ about the starting time.",
-      "clean_stem": "form after discussing the schedule the organisers reached an about the starting time",
-      "stem_key": "form after discussing the schedule the organisers reached an about the starting time",
-      "answer": "B",
-      "letter": "B",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.After discussing the schedule, the organisers reached an ________ about the starting time.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form after discussing the schedule the organisers reached an about the starting time",
+      "stem_key": "choose the option a b c or d that gives the correct word form after discussing the schedule the organisers reached an about the starting time",
+      "answer": "agreement",
+      "letter": "D",
       "options": [
-        "B"
+        "agreement"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form in the country research notes the student recorded her as thai and listed her language separately": {
       "question": "form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
@@ -715,24 +670,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form in the country research notes the student recorded her as thai and listed her language separately": {
-      "question": "form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
-      "clean_stem": "form in the country research notes the student recorded her as thai and listed her language separately",
-      "stem_key": "form in the country research notes the student recorded her as thai and listed her language separately",
-      "answer": "D",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form in the country research notes the student recorded her as thai and listed her language separately",
+      "stem_key": "choose the option a b c or d that gives the correct word form in the country research notes the student recorded her as thai and listed her language separately",
+      "answer": "nationality",
       "letter": "D",
       "options": [
-        "D"
+        "nationality"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "D"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category": {
       "question": "form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
@@ -755,24 +705,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category": {
-      "question": "form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
-      "clean_stem": "form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category",
-      "stem_key": "form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category",
-      "answer": "C",
-      "letter": "C",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category",
+      "stem_key": "choose the option a b c or d that gives the correct word form the presentation distinguishes a festival from a national public holiday rather than assuming they are the same category",
+      "answer": "religious",
+      "letter": "A",
       "options": [
-        "C"
+        "religious"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "C"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     },
     "form preparing the materials was lan s main to the welcome event": {
       "question": "form.Preparing the materials was Lan's main ________ to the welcome event.",
@@ -795,24 +740,19 @@
       "updated_at": "2026-10-30T13:06:05Z"
     },
     "choose the option a b c or d that gives the correct word form preparing the materials was lan s main to the welcome event": {
-      "question": "form.Preparing the materials was Lan's main ________ to the welcome event.",
-      "clean_stem": "form preparing the materials was lan s main to the welcome event",
-      "stem_key": "form preparing the materials was lan s main to the welcome event",
-      "answer": "B",
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Preparing the materials was Lan's main ________ to the welcome event.",
+      "clean_stem": "choose the option a b c or d that gives the correct word form preparing the materials was lan s main to the welcome event",
+      "stem_key": "choose the option a b c or d that gives the correct word form preparing the materials was lan s main to the welcome event",
+      "answer": "contribution",
       "letter": "B",
       "options": [
-        "B"
+        "contribution"
       ],
-      "inputs": [
-        {
-          "index": 0,
-          "value": "B"
-        }
-      ],
+      "inputs": [],
       "selects": [],
       "verified_100": true,
       "source": "review_scrape",
-      "updated_at": "2026-10-30T13:06:05Z"
+      "updated_at": "2026-10-30T13:06:12Z"
     }
   }
 }
