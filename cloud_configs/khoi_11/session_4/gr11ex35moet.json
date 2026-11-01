@@ -15,7 +15,7 @@
     "score": "100.0%",
     "score_pct": 100.0,
     "question_count": 40,
-    "updated_at": "2026-10-30 20:06:09"
+    "updated_at": "2026-11-01 19:46:29"
   },
   "answers": [
     {
@@ -577,12 +577,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1917379-2",
-      "questionId": "question-1917379-2",
-      "questionNumber": 10,
+      "id": "question-1935494-2",
+      "questionId": "question-1935494-2",
+      "questionNumber": 3,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
-      "letter": "B",
+      "letter": "A",
       "answer": "current",
       "rightAnswer": "current",
       "options": [
@@ -613,12 +613,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-3",
-      "questionId": "question-1929914-3",
-      "questionNumber": 9,
+      "id": "question-1935494-3",
+      "questionId": "question-1935494-3",
+      "questionNumber": 8,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
-      "letter": "D",
+      "letter": "A",
       "answer": "leadership",
       "rightAnswer": "leadership",
       "options": [
@@ -649,12 +649,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-9",
-      "questionId": "question-1929914-9",
-      "questionNumber": 6,
+      "id": "question-1935494-9",
+      "questionId": "question-1935494-9",
+      "questionNumber": 9,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Several students want to take part ________ the welcome event and help the visiting students.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.several students want to take part ________ the welcome event and help the visiting students.",
-      "letter": "B",
+      "letter": "A",
       "answer": "in",
       "rightAnswer": "in",
       "options": [
@@ -667,12 +667,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-8",
-      "questionId": "question-1929914-8",
-      "questionNumber": 5,
+      "id": "question-1935494-8",
+      "questionId": "question-1935494-8",
+      "questionNumber": 2,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
-      "letter": "D",
+      "letter": "A",
       "answer": "arrangements",
       "rightAnswer": "arrangements",
       "options": [
@@ -685,12 +685,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1917379-7",
-      "questionId": "question-1917379-7",
-      "questionNumber": 6,
+      "id": "question-1935494-7",
+      "questionId": "question-1935494-7",
+      "questionNumber": 1,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.During the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.during the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
-      "letter": "C",
+      "letter": "A",
       "answer": "solutions",
       "rightAnswer": "solutions",
       "options": [
@@ -703,12 +703,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-4",
-      "questionId": "question-1929914-4",
-      "questionNumber": 3,
+      "id": "question-1935494-4",
+      "questionId": "question-1935494-4",
+      "questionNumber": 4,
       "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Respect and cooperation are examples of shared ________ that the groups consider important.",
       "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.respect and cooperation are examples of shared ________ that the groups consider important.",
-      "letter": "C",
+      "letter": "B",
       "answer": "values",
       "rightAnswer": "values",
       "options": [
@@ -739,9 +739,9 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-13",
-      "questionId": "question-1929914-13",
-      "questionNumber": 15,
+      "id": "question-1935494-13",
+      "questionId": "question-1935494-13",
+      "questionNumber": 16,
       "question": "Choose the option A, B, C, or D that gives the correct word form.Each ________ will introduce one cultural activity during the exchange.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.each ________ will introduce one cultural activity during the exchange.",
       "letter": "A",
@@ -793,9 +793,9 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-14",
-      "questionId": "question-1929914-14",
-      "questionNumber": 14,
+      "id": "question-1935494-14",
+      "questionId": "question-1935494-14",
+      "questionNumber": 20,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The school needs a ________ trainer who has suitable preparation and experience.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the school needs a ________ trainer who has suitable preparation and experience.",
       "letter": "B",
@@ -811,12 +811,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-12",
-      "questionId": "question-1929914-12",
-      "questionNumber": 11,
+      "id": "question-1935494-12",
+      "questionId": "question-1935494-12",
+      "questionNumber": 18,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The community project supports the ________ of useful practical skills among young volunteers.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the community project supports the ________ of useful practical skills among young volunteers.",
-      "letter": "D",
+      "letter": "C",
       "answer": "development",
       "rightAnswer": "development",
       "options": [
@@ -829,12 +829,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-16",
-      "questionId": "question-1929914-16",
-      "questionNumber": 13,
+      "id": "question-1935494-16",
+      "questionId": "question-1935494-16",
+      "questionNumber": 17,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The visitors will learn the rules of several ________ games before joining the festival.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the visitors will learn the rules of several ________ games before joining the festival.",
-      "letter": "D",
+      "letter": "B",
       "answer": "traditional",
       "rightAnswer": "traditional",
       "options": [
@@ -847,12 +847,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-17",
-      "questionId": "question-1929914-17",
-      "questionNumber": 20,
+      "id": "question-1935494-17",
+      "questionId": "question-1935494-17",
+      "questionNumber": 15,
       "question": "Choose the option A, B, C, or D that gives the correct word form.After discussing the schedule, the organisers reached an ________ about the starting time.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.after discussing the schedule, the organisers reached an ________ about the starting time.",
-      "letter": "D",
+      "letter": "B",
       "answer": "agreement",
       "rightAnswer": "agreement",
       "options": [
@@ -865,12 +865,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-20",
-      "questionId": "question-1929914-20",
-      "questionNumber": 17,
+      "id": "question-1935494-20",
+      "questionId": "question-1935494-20",
+      "questionNumber": 11,
       "question": "Choose the option A, B, C, or D that gives the correct word form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.in the country-research notes, the student recorded her ________ as thai and listed her language separately.",
-      "letter": "D",
+      "letter": "A",
       "answer": "nationality",
       "rightAnswer": "nationality",
       "options": [
@@ -883,12 +883,12 @@
       "dragdrops": []
     },
     {
-      "id": "question-1929914-19",
-      "questionId": "question-1929914-19",
-      "questionNumber": 18,
+      "id": "question-1935494-19",
+      "questionId": "question-1935494-19",
+      "questionNumber": 13,
       "question": "Choose the option A, B, C, or D that gives the correct word form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
       "questionKey": "choose the option a, b, c, or d that gives the correct word form.the presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
-      "letter": "A",
+      "letter": "D",
       "answer": "religious",
       "rightAnswer": "religious",
       "options": [
