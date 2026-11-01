@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-11-01T12:46:33Z",
-  "total_questions": 82,
+  "updated_at": "2026-11-01T13:36:15Z",
+  "total_questions": 102,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -1712,6 +1712,306 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-11-01T12:46:32Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the student group submitted a welcome event proposal to the head teacher it explains the proposed activities their benefits and the arrangements needed it refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The student group submitted a welcome-event proposal to the head teacher. It explains the proposed activities, their benefits and the arrangements needed.It refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the student group submitted a welcome event proposal to the head teacher it explains the proposed activities their benefits and the arrangements needed it refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the student group submitted a welcome event proposal to the head teacher it explains the proposed activities their benefits and the arrangements needed it refers to",
+      "answer": "the welcome-event proposal",
+      "letter": "D",
+      "options": [
+        "the welcome-event proposal"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the welcome event aims to help local and visiting students build friendships this goal explains why the organisers chose games that require students to cooperate this goal refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The welcome event aims to help local and visiting students build friendships. This goal explains why the organisers chose games that require students to cooperate.This goal refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the welcome event aims to help local and visiting students build friendships this goal explains why the organisers chose games that require students to cooperate this goal refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the welcome event aims to help local and visiting students build friendships this goal explains why the organisers chose games that require students to cooperate this goal refers to",
+      "answer": "helping local and visiting students build friendships",
+      "letter": "A",
+      "options": [
+        "helping local and visiting students build friendships"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to during cultural exchanges students shared songs discussed customs and learnt from peers with different backgrounds such exchanges helped them understand perspectives beyond their own such exchanges refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.During cultural exchanges, students shared songs, discussed customs and learnt from peers with different backgrounds. Such exchanges helped them understand perspectives beyond their own.Such exchanges refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to during cultural exchanges students shared songs discussed customs and learnt from peers with different backgrounds such exchanges helped them understand perspectives beyond their own such exchanges refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to during cultural exchanges students shared songs discussed customs and learnt from peers with different backgrounds such exchanges helped them understand perspectives beyond their own such exchanges refers to",
+      "answer": "cultural experiences involving mutual sharing and learning",
+      "letter": "C",
+      "options": [
+        "cultural experiences involving mutual sharing and learning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information this decision reduced the risk of presenting an inaccurate fact this decision refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information. This decision reduced the risk of presenting an inaccurate fact.This decision refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information this decision reduced the risk of presenting an inaccurate fact this decision refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information this decision reduced the risk of presenting an inaccurate fact this decision refers to",
+      "answer": "excluding the figure until its accuracy was confirmed",
+      "letter": "B",
+      "options": [
+        "excluding the figure until its accuracy was confirmed"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the organisers placed local and visiting students in mixed teams rather than separate groups this approach encouraged contact between students who had not met before this approach refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The organisers placed local and visiting students in mixed teams rather than separate groups. This approach encouraged contact between students who had not met before.This approach refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the organisers placed local and visiting students in mixed teams rather than separate groups this approach encouraged contact between students who had not met before this approach refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the organisers placed local and visiting students in mixed teams rather than separate groups this approach encouraged contact between students who had not met before this approach refers to",
+      "answer": "placing local and visiting students in mixed teams",
+      "letter": "A",
+      "options": [
+        "placing local and visiting students in mixed teams"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the event plan includes a poster design workshop which teaches participants how to organise images and information clearly afterwards participants will use what they have learnt to create asean posters which refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The event plan includes a poster-design workshop, which teaches participants how to organise images and information clearly. Afterwards, participants will use what they have learnt to create ASEAN posters.Which refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the event plan includes a poster design workshop which teaches participants how to organise images and information clearly afterwards participants will use what they have learnt to create asean posters which refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the event plan includes a poster design workshop which teaches participants how to organise images and information clearly afterwards participants will use what they have learnt to create asean posters which refers to",
+      "answer": "the poster-design workshop",
+      "letter": "A",
+      "options": [
+        "the poster-design workshop"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the volunteers began demonstrating traditional games to the visiting students they continued the demonstration by explaining the rules before inviting the visitors to play they refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The volunteers began demonstrating traditional games to the visiting students. They continued the demonstration by explaining the rules before inviting the visitors to play.They refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the volunteers began demonstrating traditional games to the visiting students they continued the demonstration by explaining the rules before inviting the visitors to play they refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the volunteers began demonstrating traditional games to the visiting students they continued the demonstration by explaining the rules before inviting the visitors to play they refers to",
+      "answer": "the volunteers leading the demonstration",
+      "letter": "B",
+      "options": [
+        "the volunteers leading the demonstration"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to local and visiting students worked in mixed groups to make asean posters this activity gave them opportunities to share ideas while creating something together this activity refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.Local and visiting students worked in mixed groups to make ASEAN posters. This activity gave them opportunities to share ideas while creating something together.This activity refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to local and visiting students worked in mixed groups to make asean posters this activity gave them opportunities to share ideas while creating something together this activity refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to local and visiting students worked in mixed groups to make asean posters this activity gave them opportunities to share ideas while creating something together this activity refers to",
+      "answer": "making ASEAN posters together in mixed groups",
+      "letter": "C",
+      "options": [
+        "making ASEAN posters together in mixed groups"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to the preparation workshop focused on leadership skills and problem solving skills these skills would help participants guide a team and deal with difficulties during community projects these skills refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The preparation workshop focused on leadership skills and problem-solving skills. These skills would help participants guide a team and deal with difficulties during community projects.These skills refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to the preparation workshop focused on leadership skills and problem solving skills these skills would help participants guide a team and deal with difficulties during community projects these skills refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to the preparation workshop focused on leadership skills and problem solving skills these skills would help participants guide a team and deal with difficulties during community projects these skills refers to",
+      "answer": "leadership skills and problem-solving skills",
+      "letter": "C",
+      "options": [
+        "leadership skills and problem-solving skills"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that identifies what the bold reference expression refers to a group of visiting students arrived for the cultural exchange the teacher introduced them to their local student hosts before the activities began them refers to": {
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.A group of visiting students arrived for the cultural exchange. The teacher introduced them to their local student hosts before the activities began.Them refers to:",
+      "clean_stem": "choose the option a b c or d that identifies what the bold reference expression refers to a group of visiting students arrived for the cultural exchange the teacher introduced them to their local student hosts before the activities began them refers to",
+      "stem_key": "choose the option a b c or d that identifies what the bold reference expression refers to a group of visiting students arrived for the cultural exchange the teacher introduced them to their local student hosts before the activities began them refers to",
+      "answer": "the visiting students",
+      "letter": "D",
+      "options": [
+        "the visiting students"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence working in mixed groups may help local and visiting students build friendships": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Working in mixed groups may help local and visiting students build friendships.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence working in mixed groups may help local and visiting students build friendships",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence working in mixed groups may help local and visiting students build friendships",
+      "answer": "Working in mixed groups could make it easier for local and visiting students to become friends.",
+      "letter": "D",
+      "options": [
+        "Working in mixed groups could make it easier for local and visiting students to become friends."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence the students suggested organising a traditional games festival to welcome the visitors": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The students suggested organising a traditional games festival to welcome the visitors.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence the students suggested organising a traditional games festival to welcome the visitors",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence the students suggested organising a traditional games festival to welcome the visitors",
+      "answer": "The students proposed holding a traditional games festival as a welcome activity for the visitors.",
+      "letter": "B",
+      "options": [
+        "The students proposed holding a traditional games festival as a welcome activity for the visitors."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence the poster activity aims to encourage cooperation by asking local and visiting students to work together": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The poster activity aims to encourage cooperation by asking local and visiting students to work together.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence the poster activity aims to encourage cooperation by asking local and visiting students to work together",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence the poster activity aims to encourage cooperation by asking local and visiting students to work together",
+      "answer": "The poster activity aims to promote cooperation through joint work by local and visiting students.",
+      "letter": "C",
+      "options": [
+        "The poster activity aims to promote cooperation through joint work by local and visiting students."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence the group chose linh as its representative to explain the proposal to the teacher": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The group chose Linh as its representative to explain the proposal to the teacher.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence the group chose linh as its representative to explain the proposal to the teacher",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence the group chose linh as its representative to explain the proposal to the teacher",
+      "answer": "The group chose Linh to explain its proposal to the teacher on its behalf.",
+      "letter": "B",
+      "options": [
+        "The group chose Linh to explain its proposal to the teacher on its behalf."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence the students are keen on learning about the customs of other asean countries": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The students are keen on learning about the customs of other ASEAN countries.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence the students are keen on learning about the customs of other asean countries",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence the students are keen on learning about the customs of other asean countries",
+      "answer": "The students have a strong interest in finding out about other ASEAN countries' customs.",
+      "letter": "D",
+      "options": [
+        "The students have a strong interest in finding out about other ASEAN countries' customs."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence the students must check the country information before using it in their presentation slides": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The students must check the country information before using it in their presentation slides.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence the students must check the country information before using it in their presentation slides",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence the students must check the country information before using it in their presentation slides",
+      "answer": "The students must verify the country information before including it in their slides.",
+      "letter": "C",
+      "options": [
+        "The students must verify the country information before including it in their slides."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence taking part in community projects gives young volunteers opportunities to develop leadership skills": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Taking part in community projects gives young volunteers opportunities to develop leadership skills.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence taking part in community projects gives young volunteers opportunities to develop leadership skills",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence taking part in community projects gives young volunteers opportunities to develop leadership skills",
+      "answer": "Young volunteers have chances to develop leadership skills through participation in community projects.",
+      "letter": "B",
+      "options": [
+        "Young volunteers have chances to develop leadership skills through participation in community projects."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence the visitors thanked the volunteers for helping them understand the game instructions": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The visitors thanked the volunteers for helping them understand the game instructions.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence the visitors thanked the volunteers for helping them understand the game instructions",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence the visitors thanked the volunteers for helping them understand the game instructions",
+      "answer": "The volunteers received thanks from the visitors for helping them understand the game instructions.",
+      "letter": "A",
+      "options": [
+        "The volunteers received thanks from the visitors for helping them understand the game instructions."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence making arrangements for the welcome event involves preparing materials and checking the schedule": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Making arrangements for the welcome event involves preparing materials and checking the schedule.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence making arrangements for the welcome event involves preparing materials and checking the schedule",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence making arrangements for the welcome event involves preparing materials and checking the schedule",
+      "answer": "Organising the welcome event includes both preparing materials and checking the schedule.",
+      "letter": "B",
+      "options": [
+        "Organising the welcome event includes both preparing materials and checking the schedule."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
+    },
+    "choose the option a b c or d that is closest in meaning to the original sentence students can recognise shared values while appreciating differences in cultural customs": {
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Students can recognise shared values while appreciating differences in cultural customs.",
+      "clean_stem": "choose the option a b c or d that is closest in meaning to the original sentence students can recognise shared values while appreciating differences in cultural customs",
+      "stem_key": "choose the option a b c or d that is closest in meaning to the original sentence students can recognise shared values while appreciating differences in cultural customs",
+      "answer": "Students can identify common principles and also value differences in cultural practices.",
+      "letter": "B",
+      "options": [
+        "Students can identify common principles and also value differences in cultural practices."
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T13:36:15Z"
     }
   }
 }
