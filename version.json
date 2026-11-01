@@ -4,14 +4,15 @@
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-10-30",
+  "release_date": "2026-11-01",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
+    "Khắc phục triệt để lỗi rớt 10 điểm khi chép đáp án từ Cloud: Nâng cấp thuật toán chống xáo trộn đáp án (Anti-Shuffle) bảo toàn 100% nội dung lựa chọn thay vì chỉ giữ ký tự chữ cái A/B/C/D.",
+    "Bảo toàn bảng ghép nối (Matching questions): Ghép đúng theo row stem thay vì phụ thuộc thứ tự dòng bị Moodle xáo trộn ngẫu nhiên.",
+    "Tự động uncheck checkbox sai: Trong câu hỏi nhiều đáp án đúng, tự động bỏ chọn toàn bộ checkbox thừa không thuộc danh sách đáp án chuẩn.",
+    "Đồng bộ hóa câu hỏi điền từ (Cloze Text & Dropdown): Chuẩn hóa các ô trống thành [Blank N] đồng nhất giữa trang Review và trang Attempt, loại bỏ hiện tượng lệch key.",
     "Bản phát hành siêu nhẹ v5.1 Lite: Tinh giản tối đa kiến trúc, chỉ giữ lại 2 tính năng cốt lõi là Auto Cloud (nhận diện bài thi & nộp bài tự động) và Cào & Lưu Cloud (đồng bộ đáp án chuẩn từ Review).",
-    "Cửa sổ co dãn tự do (Free Resizing): Loại bỏ sidebar cố định và thanh công cụ cồng kềnh, thiết kế lại Single-View Layout cho phép thu nhỏ / phóng to cửa sổ tùy thích (hỗ trợ chia đôi màn hình hoặc thu nhỏ gọn gàng).",
-    "Độ chuẩn xác 100% lưu đáp án: Nâng cấp thuật toán làm sạch đáp án clean_right_answer_text, loại bỏ triệt để tiền tố ('The correct answer is:', 'Đáp án đúng là:') và dấu chấm câu cuối câu, bảo toàn đầy đủ sub-blanks và choices.",
-    "Tối ưu hóa tài nguyên phần cứng: Giới hạn bộ nhớ đệm HTTP và Chrome process limit, giảm tiêu thụ RAM và CPU xuống mức tối thiểu.",
-    "Giữ trọn cơ chế nhúng Google Chrome thật (Win32 HWND + CDP) và Màn hình đen Talon F9 bảo mật chống lộ (banner https://discord.gg/rboptimize tối ưu giá rẻ uts1)."
+    "Cửa sổ co dãn tự do (Free Resizing): Loại bỏ sidebar cố định và thanh công cụ cồng kềnh, thiết kế lại Single-View Layout cho phép thu nhỏ / phóng to cửa sổ tùy thích (hỗ trợ chia đôi màn hình hoặc thu nhỏ gọn gàng)."
   ]
 }
