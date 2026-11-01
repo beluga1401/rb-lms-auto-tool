@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-11-01T13:53:54Z",
-  "total_questions": 149,
+  "updated_at": "2026-11-01T14:04:49Z",
+  "total_questions": 171,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -3067,6 +3067,474 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-11-01T13:53:52Z"
+    },
+    "choose the option a b c or d that gives the most logical order question preparing volunteersa after these practice tasks the trainer gave the students feedback on how clearly they had guided their teammates b the school organised a workshop to help young volunteers develop leadership skills c by the end of the workshop the practice and feedback had helped these students feel more confident about guiding a group d before the workshop began several students felt nervous because they had never led a team e during the workshop these students practised giving instructions and organising a small team task a b e d a cb d b a e cc b d e c ad b d e a c write a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Preparing Volunteersa. After these practice tasks, the trainer gave the students feedback on how clearly they had guided their teammates.b. The school organised a workshop to help young volunteers develop leadership skills.c. By the end of the workshop, the practice and feedback had helped these students feel more confident about guiding a group.d. Before the workshop began, several students felt nervous because they had never led a team.e. During the workshop, these students practised giving instructions and organising a small team task.A. b – e – d – a – cB. d – b – a – e – cC. b – d – e – c – aD. b – d – e – a – c Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question preparing volunteersa after these practice tasks the trainer gave the students feedback on how clearly they had guided their teammates b the school organised a workshop to help young volunteers develop leadership skills c by the end of the workshop the practice and feedback had helped these students feel more confident about guiding a group d before the workshop began several students felt nervous because they had never led a team e during the workshop these students practised giving instructions and organising a small team task a b e d a cb d b a e cc b d e c ad b d e a c write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question preparing volunteersa after these practice tasks the trainer gave the students feedback on how clearly they had guided their teammates b the school organised a workshop to help young volunteers develop leadership skills c by the end of the workshop the practice and feedback had helped these students feel more confident about guiding a group d before the workshop began several students felt nervous because they had never led a team e during the workshop these students practised giving instructions and organising a small team task a b e d a cb d b a e cc b d e c ad b d e a c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question preparing volunteersa after these practice tasks the trainer gave the students feedback on how clearly they had guided their teammates b the school organised a workshop to help young volunteers develop leadership skills c by the end of the workshop the practice and feedback had helped these students feel more confident about guiding a group d before the workshop began several students felt nervous because they had never led a team e during the workshop these students practised giving instructions and organising a small team task a b e d a cb d b a e cc b d e c ad b d e a c write a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Preparing Volunteersa. After these practice tasks, the trainer gave the students feedback on how clearly they had guided their teammates.b. The school organised a workshop to help young volunteers develop leadership skills.c. By the end of the workshop, the practice and feedback had helped these students feel more confident about guiding a group.d. Before the workshop began, several students felt nervous because they had never led a team.e. During the workshop, these students practised giving instructions and organising a small team task.A. b – e – d – a – cB. d – b – a – e – cC. b – d – e – c – aD. b – d – e – a – c Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question preparing volunteersa after these practice tasks the trainer gave the students feedback on how clearly they had guided their teammates b the school organised a workshop to help young volunteers develop leadership skills c by the end of the workshop the practice and feedback had helped these students feel more confident about guiding a group d before the workshop began several students felt nervous because they had never led a team e during the workshop these students practised giving instructions and organising a small team task a b e d a cb d b a e cc b d e c ad b d e a c write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question preparing volunteersa after these practice tasks the trainer gave the students feedback on how clearly they had guided their teammates b the school organised a workshop to help young volunteers develop leadership skills c by the end of the workshop the practice and feedback had helped these students feel more confident about guiding a group d before the workshop began several students felt nervous because they had never led a team e during the workshop these students practised giving instructions and organising a small team task a b e d a cb d b a e cc b d e c ad b d e a c write a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question developing a proposala after reading it the teacher asked the group to explain who would prepare the materials and organise the playing areas b the group then submitted the revised proposal which now included both the activities and the practical arrangements c a student group decided to propose a traditional games festival to welcome visiting students d to address this request the group added a list of responsibilities for the student volunteers e the group wrote a proposal explaining the festival s activities and benefits and sent it to the teacher a c e d a bb c e a d bc e c a b dd c a e d bwrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Developing a Proposala. After reading it, the teacher asked the group to explain who would prepare the materials and organise the playing areas.b. The group then submitted the revised proposal, which now included both the activities and the practical arrangements.c. A student group decided to propose a traditional games festival to welcome visiting students.d. To address this request, the group added a list of responsibilities for the student volunteers.e. The group wrote a proposal explaining the festival’s activities and benefits, and sent it to the teacher.A. c – e – d – a – bB. c – e – a – d – bC. e – c – a – b – dD. c – a – e – d – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question developing a proposala after reading it the teacher asked the group to explain who would prepare the materials and organise the playing areas b the group then submitted the revised proposal which now included both the activities and the practical arrangements c a student group decided to propose a traditional games festival to welcome visiting students d to address this request the group added a list of responsibilities for the student volunteers e the group wrote a proposal explaining the festival s activities and benefits and sent it to the teacher a c e d a bb c e a d bc e c a b dd c a e d bwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question developing a proposala after reading it the teacher asked the group to explain who would prepare the materials and organise the playing areas b the group then submitted the revised proposal which now included both the activities and the practical arrangements c a student group decided to propose a traditional games festival to welcome visiting students d to address this request the group added a list of responsibilities for the student volunteers e the group wrote a proposal explaining the festival s activities and benefits and sent it to the teacher a c e d a bb c e a d bc e c a b dd c a e d bwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question developing a proposala after reading it the teacher asked the group to explain who would prepare the materials and organise the playing areas b the group then submitted the revised proposal which now included both the activities and the practical arrangements c a student group decided to propose a traditional games festival to welcome visiting students d to address this request the group added a list of responsibilities for the student volunteers e the group wrote a proposal explaining the festival s activities and benefits and sent it to the teacher a c e d a bb c e a d bc e c a b dd c a e d bwrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Developing a Proposala. After reading it, the teacher asked the group to explain who would prepare the materials and organise the playing areas.b. The group then submitted the revised proposal, which now included both the activities and the practical arrangements.c. A student group decided to propose a traditional games festival to welcome visiting students.d. To address this request, the group added a list of responsibilities for the student volunteers.e. The group wrote a proposal explaining the festival’s activities and benefits, and sent it to the teacher.A. c – e – d – a – bB. c – e – a – d – bC. e – c – a – b – dD. c – a – e – d – bWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question developing a proposala after reading it the teacher asked the group to explain who would prepare the materials and organise the playing areas b the group then submitted the revised proposal which now included both the activities and the practical arrangements c a student group decided to propose a traditional games festival to welcome visiting students d to address this request the group added a list of responsibilities for the student volunteers e the group wrote a proposal explaining the festival s activities and benefits and sent it to the teacher a c e d a bb c e a d bc e c a b dd c a e d bwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question developing a proposala after reading it the teacher asked the group to explain who would prepare the materials and organise the playing areas b the group then submitted the revised proposal which now included both the activities and the practical arrangements c a student group decided to propose a traditional games festival to welcome visiting students d to address this request the group added a list of responsibilities for the student volunteers e the group wrote a proposal explaining the festival s activities and benefits and sent it to the teacher a c e d a bb c e a d bc e c a b dd c a e d bwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question learning through postersa at a welcome event local and visiting students formed mixed teams for an asean poster activity b during this display session team members explained the cultural images they had chosen c each team worked together to create a poster showing cultural features from its members countries d these explanations helped the audience appreciate different customs and recognise shared values e after completing their posters the teams displayed them for the other students to view a a c b e db c a e d bc a c e b dd a e c b d write a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Learning Through Postersa. At a welcome event, local and visiting students formed mixed teams for an ASEAN poster activity.b. During this display session, team members explained the cultural images they had chosen.c. Each team worked together to create a poster showing cultural features from its members’ countries.d. These explanations helped the audience appreciate different customs and recognise shared values.e. After completing their posters, the teams displayed them for the other students to view.A. a – c – b – e – dB. c – a – e – d – bC. a – c – e – b – dD. a – e – c – b – d Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question learning through postersa at a welcome event local and visiting students formed mixed teams for an asean poster activity b during this display session team members explained the cultural images they had chosen c each team worked together to create a poster showing cultural features from its members countries d these explanations helped the audience appreciate different customs and recognise shared values e after completing their posters the teams displayed them for the other students to view a a c b e db c a e d bc a c e b dd a e c b d write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question learning through postersa at a welcome event local and visiting students formed mixed teams for an asean poster activity b during this display session team members explained the cultural images they had chosen c each team worked together to create a poster showing cultural features from its members countries d these explanations helped the audience appreciate different customs and recognise shared values e after completing their posters the teams displayed them for the other students to view a a c b e db c a e d bc a c e b dd a e c b d write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question learning through postersa at a welcome event local and visiting students formed mixed teams for an asean poster activity b during this display session team members explained the cultural images they had chosen c each team worked together to create a poster showing cultural features from its members countries d these explanations helped the audience appreciate different customs and recognise shared values e after completing their posters the teams displayed them for the other students to view a a c b e db c a e d bc a c e b dd a e c b d write a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Learning Through Postersa. At a welcome event, local and visiting students formed mixed teams for an ASEAN poster activity.b. During this display session, team members explained the cultural images they had chosen.c. Each team worked together to create a poster showing cultural features from its members’ countries.d. These explanations helped the audience appreciate different customs and recognise shared values.e. After completing their posters, the teams displayed them for the other students to view.A. a – c – b – e – dB. c – a – e – d – bC. a – c – e – b – dD. a – e – c – b – d Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question learning through postersa at a welcome event local and visiting students formed mixed teams for an asean poster activity b during this display session team members explained the cultural images they had chosen c each team worked together to create a poster showing cultural features from its members countries d these explanations helped the audience appreciate different customs and recognise shared values e after completing their posters the teams displayed them for the other students to view a a c b e db c a e d bc a c e b dd a e c b d write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question learning through postersa at a welcome event local and visiting students formed mixed teams for an asean poster activity b during this display session team members explained the cultural images they had chosen c each team worked together to create a poster showing cultural features from its members countries d these explanations helped the audience appreciate different customs and recognise shared values e after completing their posters the teams displayed them for the other students to view a a c b e db c a e d bc a c e b dd a e c b d write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question preparing visitors for gamesa once the students felt confident about the rules the organisers started the first festival round b while planning the festival the organisers realised that some visitors might not know how to play the games c after the demonstration local and visiting students practised the games together in small groups d for this reason they planned a short demonstration which the volunteers delivered before the festival rounds began e a school was preparing a traditional games festival for a group of visiting students a e d b c ab e b d c ac b e c d ad e b d a cwrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Preparing Visitors for Gamesa. Once the students felt confident about the rules, the organisers started the first festival round.b. While planning the festival, the organisers realised that some visitors might not know how to play the games.c. After the demonstration, local and visiting students practised the games together in small groups.d. For this reason, they planned a short demonstration, which the volunteers delivered before the festival rounds began.e. A school was preparing a traditional games festival for a group of visiting students.A. e – d – b – c – aB. e – b – d – c – aC. b – e – c – d – aD. e – b – d – a – cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question preparing visitors for gamesa once the students felt confident about the rules the organisers started the first festival round b while planning the festival the organisers realised that some visitors might not know how to play the games c after the demonstration local and visiting students practised the games together in small groups d for this reason they planned a short demonstration which the volunteers delivered before the festival rounds began e a school was preparing a traditional games festival for a group of visiting students a e d b c ab e b d c ac b e c d ad e b d a cwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question preparing visitors for gamesa once the students felt confident about the rules the organisers started the first festival round b while planning the festival the organisers realised that some visitors might not know how to play the games c after the demonstration local and visiting students practised the games together in small groups d for this reason they planned a short demonstration which the volunteers delivered before the festival rounds began e a school was preparing a traditional games festival for a group of visiting students a e d b c ab e b d c ac b e c d ad e b d a cwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question preparing visitors for gamesa once the students felt confident about the rules the organisers started the first festival round b while planning the festival the organisers realised that some visitors might not know how to play the games c after the demonstration local and visiting students practised the games together in small groups d for this reason they planned a short demonstration which the volunteers delivered before the festival rounds began e a school was preparing a traditional games festival for a group of visiting students a e d b c ab e b d c ac b e c d ad e b d a cwrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Preparing Visitors for Gamesa. Once the students felt confident about the rules, the organisers started the first festival round.b. While planning the festival, the organisers realised that some visitors might not know how to play the games.c. After the demonstration, local and visiting students practised the games together in small groups.d. For this reason, they planned a short demonstration, which the volunteers delivered before the festival rounds began.e. A school was preparing a traditional games festival for a group of visiting students.A. e – d – b – c – aB. e – b – d – c – aC. b – e – c – d – aD. e – b – d – a – cWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question preparing visitors for gamesa once the students felt confident about the rules the organisers started the first festival round b while planning the festival the organisers realised that some visitors might not know how to play the games c after the demonstration local and visiting students practised the games together in small groups d for this reason they planned a short demonstration which the volunteers delivered before the festival rounds began e a school was preparing a traditional games festival for a group of visiting students a e d b c ab e b d c ac b e c d ad e b d a cwrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question preparing visitors for gamesa once the students felt confident about the rules the organisers started the first festival round b while planning the festival the organisers realised that some visitors might not know how to play the games c after the demonstration local and visiting students practised the games together in small groups d for this reason they planned a short demonstration which the volunteers delivered before the festival rounds began e a school was preparing a traditional games festival for a group of visiting students a e d b c ab e b d c ac b e c d ad e b d a cwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question checking informationa they began their research by collecting information about the country s geography holidays and people b to resolve the difference between these conflicting figures they compared the sources and selected the figure supported by the more reliable evidence c while checking their research notes they noticed that two sources gave different population figures for the same year d a group of students was assigned to prepare a presentation about an asean member country e they then put the verified information into their slides and rehearsed the presentation a d a c b eb d c a b ec a d c e bd d a b c ewrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Checking Informationa. They began their research by collecting information about the country’s geography, holidays and people.b. To resolve the difference between these conflicting figures, they compared the sources and selected the figure supported by the more reliable evidence.c. While checking their research notes, they noticed that two sources gave different population figures for the same year.d. A group of students was assigned to prepare a presentation about an ASEAN member country.e. They then put the verified information into their slides and rehearsed the presentation.A. d – a – c – b – eB. d – c – a – b – eC. a – d – c – e – bD. d – a – b – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question checking informationa they began their research by collecting information about the country s geography holidays and people b to resolve the difference between these conflicting figures they compared the sources and selected the figure supported by the more reliable evidence c while checking their research notes they noticed that two sources gave different population figures for the same year d a group of students was assigned to prepare a presentation about an asean member country e they then put the verified information into their slides and rehearsed the presentation a d a c b eb d c a b ec a d c e bd d a b c ewrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question checking informationa they began their research by collecting information about the country s geography holidays and people b to resolve the difference between these conflicting figures they compared the sources and selected the figure supported by the more reliable evidence c while checking their research notes they noticed that two sources gave different population figures for the same year d a group of students was assigned to prepare a presentation about an asean member country e they then put the verified information into their slides and rehearsed the presentation a d a c b eb d c a b ec a d c e bd d a b c ewrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most logical order question checking informationa they began their research by collecting information about the country s geography holidays and people b to resolve the difference between these conflicting figures they compared the sources and selected the figure supported by the more reliable evidence c while checking their research notes they noticed that two sources gave different population figures for the same year d a group of students was assigned to prepare a presentation about an asean member country e they then put the verified information into their slides and rehearsed the presentation a d a c b eb d c a b ec a d c e bd d a b c ewrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most logical order. Question — Checking Informationa. They began their research by collecting information about the country’s geography, holidays and people.b. To resolve the difference between these conflicting figures, they compared the sources and selected the figure supported by the more reliable evidence.c. While checking their research notes, they noticed that two sources gave different population figures for the same year.d. A group of students was assigned to prepare a presentation about an ASEAN member country.e. They then put the verified information into their slides and rehearsed the presentation.A. d – a – c – b – eB. d – c – a – b – eC. a – d – c – e – bD. d – a – b – c – eWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most logical order question checking informationa they began their research by collecting information about the country s geography holidays and people b to resolve the difference between these conflicting figures they compared the sources and selected the figure supported by the more reliable evidence c while checking their research notes they noticed that two sources gave different population figures for the same year d a group of students was assigned to prepare a presentation about an asean member country e they then put the verified information into their slides and rehearsed the presentation a d a c b eb d c a b ec a d c e bd d a b c ewrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most logical order question checking informationa they began their research by collecting information about the country s geography holidays and people b to resolve the difference between these conflicting figures they compared the sources and selected the figure supported by the more reliable evidence c while checking their research notes they noticed that two sources gave different population figures for the same year d a group of students was assigned to prepare a presentation about an asean member country e they then put the verified information into their slides and rehearsed the presentation a d a c b eb d c a b ec a d c e bd d a b c ewrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question complimenting a presentationa hoa thanks for saying that which part was clearest b hoa i m glad those headings helped our group planned them carefully c phuc you did a really good job on the asean country presentation the slides were easy to follow d phuc the headings for geography and holidays made the information particularly clear e phuc that careful planning worked well congratulations to the whole group a c b d a eb c a d b ec d a c b ed c a e b d write a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Complimenting a Presentationa. Hoa: Thanks for saying that. Which part was clearest?b. Hoa: I’m glad those headings helped. Our group planned them carefully.c. Phuc: You did a really good job on the ASEAN country presentation. The slides were easy to follow.d. Phuc: The headings for geography and holidays made the information particularly clear.e. Phuc: That careful planning worked well. Congratulations to the whole group!A. c – b – d – a – eB. c – a – d – b – eC. d – a – c – b – eD. c – a – e – b – d Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question complimenting a presentationa hoa thanks for saying that which part was clearest b hoa i m glad those headings helped our group planned them carefully c phuc you did a really good job on the asean country presentation the slides were easy to follow d phuc the headings for geography and holidays made the information particularly clear e phuc that careful planning worked well congratulations to the whole group a c b d a eb c a d b ec d a c b ed c a e b d write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question complimenting a presentationa hoa thanks for saying that which part was clearest b hoa i m glad those headings helped our group planned them carefully c phuc you did a really good job on the asean country presentation the slides were easy to follow d phuc the headings for geography and holidays made the information particularly clear e phuc that careful planning worked well congratulations to the whole group a c b d a eb c a d b ec d a c b ed c a e b d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question complimenting a presentationa hoa thanks for saying that which part was clearest b hoa i m glad those headings helped our group planned them carefully c phuc you did a really good job on the asean country presentation the slides were easy to follow d phuc the headings for geography and holidays made the information particularly clear e phuc that careful planning worked well congratulations to the whole group a c b d a eb c a d b ec d a c b ed c a e b d write a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Complimenting a Presentationa. Hoa: Thanks for saying that. Which part was clearest?b. Hoa: I’m glad those headings helped. Our group planned them carefully.c. Phuc: You did a really good job on the ASEAN country presentation. The slides were easy to follow.d. Phuc: The headings for geography and holidays made the information particularly clear.e. Phuc: That careful planning worked well. Congratulations to the whole group!A. c – b – d – a – eB. c – a – d – b – eC. d – a – c – b – eD. c – a – e – b – d Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question complimenting a presentationa hoa thanks for saying that which part was clearest b hoa i m glad those headings helped our group planned them carefully c phuc you did a really good job on the asean country presentation the slides were easy to follow d phuc the headings for geography and holidays made the information particularly clear e phuc that careful planning worked well congratulations to the whole group a c b d a eb c a d b ec d a c b ed c a e b d write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question complimenting a presentationa hoa thanks for saying that which part was clearest b hoa i m glad those headings helped our group planned them carefully c phuc you did a really good job on the asean country presentation the slides were easy to follow d phuc the headings for geography and holidays made the information particularly clear e phuc that careful planning worked well congratulations to the whole group a c b d a eb c a d b ec d a c b ed c a e b d write a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question explaining a proposal s benefita trang i agree let s explain that friendship benefit clearly in our proposal b trang why do you think that benefit is especially important c minh i think we should emphasise helping local and visiting students build friendships d minh because those friendships could encourage them to stay in contact and continue learning from one another e trang which benefit should we emphasise in our welcome event proposal a e d b c ab b c e d ac e c a d bd e c b d awrite a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Explaining a Proposal’s Benefita. Trang: I agree. Let’s explain that friendship benefit clearly in our proposal.b. Trang: Why do you think that benefit is especially important?c. Minh: I think we should emphasise helping local and visiting students build friendships.d. Minh: Because those friendships could encourage them to stay in contact and continue learning from one another.e. Trang: Which benefit should we emphasise in our welcome-event proposal?A. e – d – b – c – aB. b – c – e – d – aC. e – c – a – d – bD. e – c – b – d – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question explaining a proposal s benefita trang i agree let s explain that friendship benefit clearly in our proposal b trang why do you think that benefit is especially important c minh i think we should emphasise helping local and visiting students build friendships d minh because those friendships could encourage them to stay in contact and continue learning from one another e trang which benefit should we emphasise in our welcome event proposal a e d b c ab b c e d ac e c a d bd e c b d awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question explaining a proposal s benefita trang i agree let s explain that friendship benefit clearly in our proposal b trang why do you think that benefit is especially important c minh i think we should emphasise helping local and visiting students build friendships d minh because those friendships could encourage them to stay in contact and continue learning from one another e trang which benefit should we emphasise in our welcome event proposal a e d b c ab b c e d ac e c a d bd e c b d awrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question explaining a proposal s benefita trang i agree let s explain that friendship benefit clearly in our proposal b trang why do you think that benefit is especially important c minh i think we should emphasise helping local and visiting students build friendships d minh because those friendships could encourage them to stay in contact and continue learning from one another e trang which benefit should we emphasise in our welcome event proposal a e d b c ab b c e d ac e c a d bd e c b d awrite a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Explaining a Proposal’s Benefita. Trang: I agree. Let’s explain that friendship benefit clearly in our proposal.b. Trang: Why do you think that benefit is especially important?c. Minh: I think we should emphasise helping local and visiting students build friendships.d. Minh: Because those friendships could encourage them to stay in contact and continue learning from one another.e. Trang: Which benefit should we emphasise in our welcome-event proposal?A. e – d – b – c – aB. b – c – e – d – aC. e – c – a – d – bD. e – c – b – d – aWrite A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question explaining a proposal s benefita trang i agree let s explain that friendship benefit clearly in our proposal b trang why do you think that benefit is especially important c minh i think we should emphasise helping local and visiting students build friendships d minh because those friendships could encourage them to stay in contact and continue learning from one another e trang which benefit should we emphasise in our welcome event proposal a e d b c ab b c e d ac e c a d bd e c b d awrite a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question explaining a proposal s benefita trang i agree let s explain that friendship benefit clearly in our proposal b trang why do you think that benefit is especially important c minh i think we should emphasise helping local and visiting students build friendships d minh because those friendships could encourage them to stay in contact and continue learning from one another e trang which benefit should we emphasise in our welcome event proposal a e d b c ab b c e d ac e c a d bd e c b d awrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question praising a workshop leadera tuan well done on leading today s workshop you helped everyone join the games b tuan that approach gave them support without leaving them out nice work c tuan what did you do to achieve that level of participation d linh thank you that means a lot to me e linh i invited quieter students to practise with a partner before joining the full group a a e c d bb c d a e bc a d c e bd a d b e c write a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Praising a Workshop Leadera. Tuan: Well done on leading today’s workshop! You helped everyone join the games.b. Tuan: That approach gave them support without leaving them out. Nice work!c. Tuan: What did you do to achieve that level of participation?d. Linh: Thank you. That means a lot to me.e. Linh: I invited quieter students to practise with a partner before joining the full group.A. a – e – c – d – bB. c – d – a – e – bC. a – d – c – e – bD. a – d – b – e – c Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question praising a workshop leadera tuan well done on leading today s workshop you helped everyone join the games b tuan that approach gave them support without leaving them out nice work c tuan what did you do to achieve that level of participation d linh thank you that means a lot to me e linh i invited quieter students to practise with a partner before joining the full group a a e c d bb c d a e bc a d c e bd a d b e c write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question praising a workshop leadera tuan well done on leading today s workshop you helped everyone join the games b tuan that approach gave them support without leaving them out nice work c tuan what did you do to achieve that level of participation d linh thank you that means a lot to me e linh i invited quieter students to practise with a partner before joining the full group a a e c d bb c d a e bc a d c e bd a d b e c write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question praising a workshop leadera tuan well done on leading today s workshop you helped everyone join the games b tuan that approach gave them support without leaving them out nice work c tuan what did you do to achieve that level of participation d linh thank you that means a lot to me e linh i invited quieter students to practise with a partner before joining the full group a a e c d bb c d a e bc a d c e bd a d b e c write a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Praising a Workshop Leadera. Tuan: Well done on leading today’s workshop! You helped everyone join the games.b. Tuan: That approach gave them support without leaving them out. Nice work!c. Tuan: What did you do to achieve that level of participation?d. Linh: Thank you. That means a lot to me.e. Linh: I invited quieter students to practise with a partner before joining the full group.A. a – e – c – d – bB. c – d – a – e – bC. a – d – c – e – bD. a – d – b – e – c Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question praising a workshop leadera tuan well done on leading today s workshop you helped everyone join the games b tuan that approach gave them support without leaving them out nice work c tuan what did you do to achieve that level of participation d linh thank you that means a lot to me e linh i invited quieter students to practise with a partner before joining the full group a a e c d bb c d a e bc a d c e bd a d b e c write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question praising a workshop leadera tuan well done on leading today s workshop you helped everyone join the games b tuan that approach gave them support without leaving them out nice work c tuan what did you do to achieve that level of participation d linh thank you that means a lot to me e linh i invited quieter students to practise with a partner before joining the full group a a e c d bb c d a e bc a d c e bd a d b e c write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question the most important skilla nam because a leader needs to guide the team and coordinate everyone s work b nam i think leadership skills are the most important c mai i agree with you good coordination helps the whole team work towards its goal d mai what do you think is the most important skill for leading a youth project e mai why do you think leadership skills matter most a d a e b cb e b d a cc d b e a cd d b c a e write a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — The Most Important Skilla. Nam: Because a leader needs to guide the team and coordinate everyone’s work.b. Nam: I think leadership skills are the most important.c. Mai: I agree with you. Good coordination helps the whole team work towards its goal.d. Mai: What do you think is the most important skill for leading a youth project?e. Mai: Why do you think leadership skills matter most?A. d – a – e – b – cB. e – b – d – a – cC. d – b – e – a – cD. d – b – c – a – e Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question the most important skilla nam because a leader needs to guide the team and coordinate everyone s work b nam i think leadership skills are the most important c mai i agree with you good coordination helps the whole team work towards its goal d mai what do you think is the most important skill for leading a youth project e mai why do you think leadership skills matter most a d a e b cb e b d a cc d b e a cd d b c a e write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question the most important skilla nam because a leader needs to guide the team and coordinate everyone s work b nam i think leadership skills are the most important c mai i agree with you good coordination helps the whole team work towards its goal d mai what do you think is the most important skill for leading a youth project e mai why do you think leadership skills matter most a d a e b cb e b d a cc d b e a cd d b c a e write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question the most important skilla nam because a leader needs to guide the team and coordinate everyone s work b nam i think leadership skills are the most important c mai i agree with you good coordination helps the whole team work towards its goal d mai what do you think is the most important skill for leading a youth project e mai why do you think leadership skills matter most a d a e b cb e b d a cc d b e a cd d b c a e write a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — The Most Important Skilla. Nam: Because a leader needs to guide the team and coordinate everyone’s work.b. Nam: I think leadership skills are the most important.c. Mai: I agree with you. Good coordination helps the whole team work towards its goal.d. Mai: What do you think is the most important skill for leading a youth project?e. Mai: Why do you think leadership skills matter most?A. d – a – e – b – cB. e – b – d – a – cC. d – b – e – a – cD. d – b – c – a – e Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question the most important skilla nam because a leader needs to guide the team and coordinate everyone s work b nam i think leadership skills are the most important c mai i agree with you good coordination helps the whole team work towards its goal d mai what do you think is the most important skill for leading a youth project e mai why do you think leadership skills matter most a d a e b cb e b d a cc d b e a cd d b c a e write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question the most important skilla nam because a leader needs to guide the team and coordinate everyone s work b nam i think leadership skills are the most important c mai i agree with you good coordination helps the whole team work towards its goal d mai what do you think is the most important skill for leading a youth project e mai why do you think leadership skills matter most a d a e b cb e b d a cc d b e a cd d b c a e write a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question choosing a welcome activitya lan because playing in mixed teams could help students meet and interact actively b lan i think traditional games would help students make friends more effectively than making posters c huy i m afraid i have to disagree poster making could give students more time to talk and share ideas d lan i see your point about having time to talk perhaps we could include both activities e huy why do you think the games would be more effective a b e a c db b c a e dc a e b c dd b e d c a write a b c or d 1": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Choosing a Welcome Activitya. Lan: Because playing in mixed teams could help students meet and interact actively.b. Lan: I think traditional games would help students make friends more effectively than making posters.c. Huy: I’m afraid I have to disagree. Poster-making could give students more time to talk and share ideas.d. Lan: I see your point about having time to talk. Perhaps we could include both activities.e. Huy: Why do you think the games would be more effective?A. b – e – a – c – dB. b – c – a – e – dC. a – e – b – c – dD. b – e – d – c – a Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question choosing a welcome activitya lan because playing in mixed teams could help students meet and interact actively b lan i think traditional games would help students make friends more effectively than making posters c huy i m afraid i have to disagree poster making could give students more time to talk and share ideas d lan i see your point about having time to talk perhaps we could include both activities e huy why do you think the games would be more effective a b e a c db b c a e dc a e b c dd b e d c a write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question choosing a welcome activitya lan because playing in mixed teams could help students meet and interact actively b lan i think traditional games would help students make friends more effectively than making posters c huy i m afraid i have to disagree poster making could give students more time to talk and share ideas d lan i see your point about having time to talk perhaps we could include both activities e huy why do you think the games would be more effective a b e a c db b c a e dc a e b c dd b e d c a write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that gives the most natural order of the utterances question choosing a welcome activitya lan because playing in mixed teams could help students meet and interact actively b lan i think traditional games would help students make friends more effectively than making posters c huy i m afraid i have to disagree poster making could give students more time to talk and share ideas d lan i see your point about having time to talk perhaps we could include both activities e huy why do you think the games would be more effective a b e a c db b c a e dc a e b c dd b e d c a write a b c or d": {
+      "question": "Choose the option A, B, C, or D that gives the most natural order of the utterances. Question — Choosing a Welcome Activitya. Lan: Because playing in mixed teams could help students meet and interact actively.b. Lan: I think traditional games would help students make friends more effectively than making posters.c. Huy: I’m afraid I have to disagree. Poster-making could give students more time to talk and share ideas.d. Lan: I see your point about having time to talk. Perhaps we could include both activities.e. Huy: Why do you think the games would be more effective?A. b – e – a – c – dB. b – c – a – e – dC. a – e – b – c – dD. b – e – d – c – a Write A, B, C or D: {#1}",
+      "clean_stem": "choose the option a b c or d that gives the most natural order of the utterances question choosing a welcome activitya lan because playing in mixed teams could help students meet and interact actively b lan i think traditional games would help students make friends more effectively than making posters c huy i m afraid i have to disagree poster making could give students more time to talk and share ideas d lan i see your point about having time to talk perhaps we could include both activities e huy why do you think the games would be more effective a b e a c db b c a e dc a e b c dd b e d c a write a b c or d 1",
+      "stem_key": "choose the option a b c or d that gives the most natural order of the utterances question choosing a welcome activitya lan because playing in mixed teams could help students meet and interact actively b lan i think traditional games would help students make friends more effectively than making posters c huy i m afraid i have to disagree poster making could give students more time to talk and share ideas d lan i see your point about having time to talk perhaps we could include both activities e huy why do you think the games would be more effective a b e a c db b c a e dc a e b c dd b e d c a write a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that best completes each numbered blank question 1a recipientb qualificationc goald resource write a b c or d 1 question 2a makingb makec to maked made write a b c or d 2 question 3a takeb holdc maked bring write a b c or d 3 question 4a opinionsb arrangementsc complimentsd themes write a b c or d 4 question 5a neverthelessb insteadc therefored otherwise write a b c or d 5 question 6a givingb givec to gived given write a b c or d 6 question 7a representationb representc representedd representative write a b c or d 7 question 8a proposalb opinionc disabilityd themewrite a b c or d 8 question 9a afterb beforec whiled until write a b c or d 9 question 10a forb byc fromd with write a b c or d 10": {
+      "question": "Choose the option A, B, C, or D that best completes each numbered blank. Question 1A. recipientB. qualificationC. goalD. resource Write A, B, C or D: {#1} Question 2A. makingB. makeC. to makeD. made Write A, B, C or D: {#2} Question 3A. takeB. holdC. makeD. bring Write A, B, C or D: {#3} Question 4A. opinionsB. arrangementsC. complimentsD. themes Write A, B, C or D: {#4} Question 5A. NeverthelessB. InsteadC. ThereforeD. Otherwise Write A, B, C or D: {#5} Question 6A. givingB. giveC. to giveD. given Write A, B, C or D: {#6} Question 7A. representationB. representC. representedD. representative Write A, B, C or D: {#7} Question 8A. proposalB. opinionC. disabilityD. themeWrite A, B, C or D: {#8} Question 9A. afterB. beforeC. whileD. until Write A, B, C or D: {#9} Question 10A. forB. byC. fromD. with Write A, B, C or D: {#10}",
+      "clean_stem": "choose the option a b c or d that best completes each numbered blank question 1a recipientb qualificationc goald resource write a b c or d 1 question 2a makingb makec to maked made write a b c or d 2 question 3a takeb holdc maked bring write a b c or d 3 question 4a opinionsb arrangementsc complimentsd themes write a b c or d 4 question 5a neverthelessb insteadc therefored otherwise write a b c or d 5 question 6a givingb givec to gived given write a b c or d 6 question 7a representationb representc representedd representative write a b c or d 7 question 8a proposalb opinionc disabilityd themewrite a b c or d 8 question 9a afterb beforec whiled until write a b c or d 9 question 10a forb byc fromd with write a b c or d 10",
+      "stem_key": "choose the option a b c or d that best completes each numbered blank question 1a recipientb qualificationc goald resource write a b c or d 1 question 2a makingb makec to maked made write a b c or d 2 question 3a takeb holdc maked bring write a b c or d 3 question 4a opinionsb arrangementsc complimentsd themes write a b c or d 4 question 5a neverthelessb insteadc therefored otherwise write a b c or d 5 question 6a givingb givec to gived given write a b c or d 6 question 7a representationb representc representedd representative write a b c or d 7 question 8a proposalb opinionc disabilityd themewrite a b c or d 8 question 9a afterb beforec whiled until write a b c or d 9 question 10a forb byc fromd with write a b c or d 10",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
+    },
+    "choose the option a b c or d that best completes each numbered blank question 1a recipientb qualificationc goald resource write a b c or d question 2a makingb makec to maked made write a b c or d question 3a takeb holdc maked bring write a b c or d question 4a opinionsb arrangementsc complimentsd themes write a b c or d question 5a neverthelessb insteadc therefored otherwise write a b c or d question 6a givingb givec to gived given write a b c or d question 7a representationb representc representedd representative write a b c or d question 8a proposalb opinionc disabilityd themewrite a b c or d question 9a afterb beforec whiled until write a b c or d question 10a forb byc fromd with write a b c or d": {
+      "question": "Choose the option A, B, C, or D that best completes each numbered blank. Question 1A. recipientB. qualificationC. goalD. resource Write A, B, C or D: {#1} Question 2A. makingB. makeC. to makeD. made Write A, B, C or D: {#2} Question 3A. takeB. holdC. makeD. bring Write A, B, C or D: {#3} Question 4A. opinionsB. arrangementsC. complimentsD. themes Write A, B, C or D: {#4} Question 5A. NeverthelessB. InsteadC. ThereforeD. Otherwise Write A, B, C or D: {#5} Question 6A. givingB. giveC. to giveD. given Write A, B, C or D: {#6} Question 7A. representationB. representC. representedD. representative Write A, B, C or D: {#7} Question 8A. proposalB. opinionC. disabilityD. themeWrite A, B, C or D: {#8} Question 9A. afterB. beforeC. whileD. until Write A, B, C or D: {#9} Question 10A. forB. byC. fromD. with Write A, B, C or D: {#10}",
+      "clean_stem": "choose the option a b c or d that best completes each numbered blank question 1a recipientb qualificationc goald resource write a b c or d 1 question 2a makingb makec to maked made write a b c or d 2 question 3a takeb holdc maked bring write a b c or d 3 question 4a opinionsb arrangementsc complimentsd themes write a b c or d 4 question 5a neverthelessb insteadc therefored otherwise write a b c or d 5 question 6a givingb givec to gived given write a b c or d 6 question 7a representationb representc representedd representative write a b c or d 7 question 8a proposalb opinionc disabilityd themewrite a b c or d 8 question 9a afterb beforec whiled until write a b c or d 9 question 10a forb byc fromd with write a b c or d 10",
+      "stem_key": "choose the option a b c or d that best completes each numbered blank question 1a recipientb qualificationc goald resource write a b c or d 1 question 2a makingb makec to maked made write a b c or d 2 question 3a takeb holdc maked bring write a b c or d 3 question 4a opinionsb arrangementsc complimentsd themes write a b c or d 4 question 5a neverthelessb insteadc therefored otherwise write a b c or d 5 question 6a givingb givec to gived given write a b c or d 6 question 7a representationb representc representedd representative write a b c or d 7 question 8a proposalb opinionc disabilityd themewrite a b c or d 8 question 9a afterb beforec whiled until write a b c or d 9 question 10a forb byc fromd with write a b c or d 10",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-01T14:04:47Z"
     }
   }
 }
