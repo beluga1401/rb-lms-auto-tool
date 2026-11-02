@@ -1,18 +1,16 @@
 {
-  "version": "5.1.0",
+  "version": "5.2.0",
   "app_name": "RB LMS Auto Tool Lite",
   "exe_name": "RB_LMS_Auto_Tool_NoKey.exe",
   "setup_name": "RB_LMS_Setup.exe",
   "github_repo": "beluga1401/rb-lms-auto-tool",
-  "release_date": "2026-11-01",
+  "release_date": "2026-11-02",
   "download_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Auto_Tool_NoKey.exe",
   "setup_url": "https://github.com/beluga1401/rb-lms-auto-tool/releases/latest/download/RB_LMS_Setup.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi rớt 10 điểm khi chép đáp án từ Cloud: Nâng cấp thuật toán chống xáo trộn đáp án (Anti-Shuffle) bảo toàn 100% nội dung lựa chọn thay vì chỉ giữ ký tự chữ cái A/B/C/D.",
-    "Bảo toàn bảng ghép nối (Matching questions): Ghép đúng theo row stem thay vì phụ thuộc thứ tự dòng bị Moodle xáo trộn ngẫu nhiên.",
-    "Tự động uncheck checkbox sai: Trong câu hỏi nhiều đáp án đúng, tự động bỏ chọn toàn bộ checkbox thừa không thuộc danh sách đáp án chuẩn.",
-    "Đồng bộ hóa câu hỏi điền từ (Cloze Text & Dropdown): Chuẩn hóa các ô trống thành [Blank N] đồng nhất giữa trang Review và trang Attempt, loại bỏ hiện tượng lệch key.",
-    "Bản phát hành siêu nhẹ v5.1 Lite: Tinh giản tối đa kiến trúc, chỉ giữ lại 2 tính năng cốt lõi là Auto Cloud (nhận diện bài thi & nộp bài tự động) và Cào & Lưu Cloud (đồng bộ đáp án chuẩn từ Review).",
-    "Cửa sổ co dãn tự do (Free Resizing): Loại bỏ sidebar cố định và thanh công cụ cồng kềnh, thiết kế lại Single-View Layout cho phép thu nhỏ / phóng to cửa sổ tùy thích (hỗ trợ chia đôi màn hình hoặc thu nhỏ gọn gàng)."
+    "Khắc phục triệt để lỗi rớt điểm khi chép đáp án từ Cloud: Nâng cấp thuật toán Anti-Shuffle bóc tách text phương án sạch, ưu tiên tuyệt đối nội dung đáp án thay vì chữ cái A/B/C/D.",
+    "Bảo toàn 100% điểm số trên Cloud: Ngăn chặn hoàn toàn việc lượt thi điểm thấp hơn (92-95%) ghi đè mất đáp án chuẩn của lượt thi 100% trước đó.",
+    "Tự động điền đa dạng câu hỏi điền từ & ghép nối (Cloze & Matching): Hỗ trợ Multi-input và Multi-select fallback tự động điền đầy đủ tất cả ô trống trong bài thi.",
+    "Bản phát hành v5.2 Lite: Tối ưu hóa hiệu năng, giảm độ trễ phản hồi, tự động nhận diện và hoàn tất bài thi chính xác tuyệt đối."
   ]
 }
