@@ -98,7 +98,7 @@ def _fetch_json_url(url, headers=None, timeout=10):
 APP_NAME = "RB LMS Auto Tool"
 EXE_NAME = "RB_LMS_Auto_Tool_NoKey.exe"
 SETUP_EXE_NAME = "RB_LMS_Setup.exe"
-DEFAULT_VERSION = "5.1.0"
+DEFAULT_VERSION = "5.2.0"
 DEFAULT_GITHUB_REPO = "beluga1401/rb-lms-auto-tool"
 
 INSTALL_DIR = os.path.join(os.environ.get("LOCALAPPDATA", os.path.expanduser("~")), "RB_LMS_Auto_Tool")
@@ -212,7 +212,7 @@ class UpdateCheckWorker(QThread):
             "online": False,
             "version": DEFAULT_VERSION,
             "download_url": "",
-            "notes": "Bản chuẩn Gemini 3.7/3.8 Flash + Tự động Xem lại & Thực hiện lại đề thi 100 điểm.",
+            "notes": "Bản chuẩn v5.2.0 Lite: Khắc phục triệt để lỗi Anti-Shuffle & bảo toàn 100% điểm số trên Cloud.",
             "source": "local",
             "error": ""
         }
@@ -684,8 +684,8 @@ class GitHubPublishWorker(QThread):
                         "name": f"RB LMS Auto Tool {tag_name}",
                         "body": (
                             f"### Cập nhật {APP_NAME} {tag_name}\n"
-                            f"- Nâng cấp AI Engine Gemini 3.7/3.8 Flash (Dual-AI Consensus & Deep CoT)\n"
-                            f"- Tự động phân tích câu Đúng/Sai ở trang Xem lại và tự động Thực hiện lại đề thi\n"
+                            f"- Khắc phục triệt để lỗi Anti-Shuffle & bảo toàn 100% điểm số trên Cloud\n"
+                            f"- Tự động điền đa dạng câu hỏi Cloze & Matching (Multi-Input & Multi-Select)\n"
                             f"- Đồng bộ cập nhật tự động qua 1 file `{SETUP_EXE_NAME}` duy nhất"
                         ),
                         "draft": False,
