@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "account_name": "Huỳnh Lê Phong Linh",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4",
+    "unit_key": "session_4",
+    "quiz_title": "GR12EX39MOET UNIT 3 PRACTICE TEST 1 PART 1",
+    "quiz_key": "gr12ex39moet_unit_3_practice_test_1_part_1",
+    "cmid": "744256",
+    "course_id": "9692",
+    "repo_path": "cloud_configs/khoi_12/session_4/gr12ex39moet_unit_3_practice_test_1_part_1.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-02 20:42:27"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following shopping guide and choose the best answer to indicate the option that best fits each numbered blank. small changes when you shop you do not need to change everything at once to shop more responsibly. start by choosing products with less (1) , such as fruit sold without an extra plastic wrapper. our shop cares (2) reducing unnecessary waste. clean cardboard boxes are available near the checkout, so customers can carry their purchases without taking a new plastic bag. if you already have a suitable bag or box, bring it with you. these habits help (3) natural resources, including the water and trees used to produce paper products. use available materials (4) rather than collecting more than you need. some customers keep a folded shopping bag beside their front door, (5) makes it easier to remember the bag before leaving home. some products still need protective packaging. (6) , we cannot remove every wrapper immediately. however, checking what you need and reusing what you already have are useful first steps.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following shopping guide and choose the best answer to indicate the option that best fits each numbered blank. SMALL CHANGES WHEN YOU SHOP You do not need to change everything at once to shop more responsibly. Start by choosing products with less (1) {#1}, such as fruit sold without an extra plastic wrapper. Our shop cares (2) {#2} reducing unnecessary waste. Clean cardboard boxes are available near the checkout, so customers can carry their purchases without taking a new plastic bag. If you already have a suitable bag or box, bring it with you. These habits help (3) {#3} natural resources, including the water and trees used to produce paper products. Use available materials (4) {#4} rather than collecting more than you need. Some customers keep a folded shopping bag beside their front door, (5) {#5} makes it easier to remember the bag before leaving home. Some products still need protective packaging. (6) {#6}, we cannot remove every wrapper immediately. However, checking what you need and reusing what you already have are useful first steps.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "packaging"
+        },
+        {
+          "index": 1,
+          "value": "about"
+        },
+        {
+          "index": 2,
+          "value": "save"
+        },
+        {
+          "index": 3,
+          "value": "efficiently"
+        },
+        {
+          "index": 4,
+          "value": "which"
+        },
+        {
+          "index": 5,
+          "value": "Therefore"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following shopping guide and choose the best answer to indicate the option that best fits each numbered blank. SMALL CHANGES WHEN YOU SHOP You do not need to change everything at once to shop more responsibly. Start by choosing products with less (1) {#1}, such as fruit sold without an extra plastic wrapper. Our shop cares (2) {#2} reducing unnecessary waste. Clean cardboard boxes are available near the checkout, so customers can carry their purchases without taking a new plastic bag. If you already have a suitable bag or box, bring it with you. These habits help (3) {#3} natural resources, including the water and trees used to produce paper products. Use available materials (4) {#4} rather than collecting more than you need. Some customers keep a folded shopping bag beside their front door, (5) {#5} makes it easier to remember the bag before leaving home. Some products still need protective packaging. (6) {#6}, we cannot remove every wrapper immediately. However, checking what you need and reusing what you already have are useful first steps.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank. greener visits to the sports centre please help us use water and electricity responsibly. after using an exercise room, remember to (7) the lights if nobody remains inside. visitors who want a bottle designed for repeated use should bring a (8) water bottle. drinking water is available free of charge beside reception, so there is no need to buy bottled water during every visit. we refill a large drinking-water jug each morning, (9) . please take only the water you need and leave the area clean for the next person. our volunteers are preparing signs to raise (10) awareness. the signs will explain simple actions, including switching off unnecessary lights and reporting water leaks. to prepare (11) next month’s green day, the centre will also display leaflets about resource-saving habits. report leaking taps to reception (12) they can be repaired. a small problem should not become a daily waste of clean water.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank. GREENER VISITS TO THE SPORTS CENTRE Please help us use water and electricity responsibly. After using an exercise room, remember to (7) {#1} the lights if nobody remains inside. Visitors who want a bottle designed for repeated use should bring a (8) {#2} water bottle. Drinking water is available free of charge beside reception, so there is no need to buy bottled water during every visit. We refill a large drinking-water jug each morning, (9) {#3}. Please take only the water you need and leave the area clean for the next person. Our volunteers are preparing signs to raise (10) {#4} awareness. The signs will explain simple actions, including switching off unnecessary lights and reporting water leaks. To prepare (11) {#5} next month’s Green Day, the centre will also display leaflets about resource-saving habits. Report leaking taps to reception (12) {#6} they can be repaired. A small problem should not become a daily waste of clean water.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "turn off"
+        },
+        {
+          "index": 1,
+          "value": "reusable"
+        },
+        {
+          "index": 2,
+          "value": "which reduces the need for single-use bottles"
+        },
+        {
+          "index": 3,
+          "value": "environmental"
+        },
+        {
+          "index": 4,
+          "value": "for"
+        },
+        {
+          "index": 5,
+          "value": "so that"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank. GREENER VISITS TO THE SPORTS CENTRE Please help us use water and electricity responsibly. After using an exercise room, remember to (7) {#1} the lights if nobody remains inside. Visitors who want a bottle designed for repeated use should bring a (8) {#2} water bottle. Drinking water is available free of charge beside reception, so there is no need to buy bottled water during every visit. We refill a large drinking-water jug each morning, (9) {#3}. Please take only the water you need and leave the area clean for the next person. Our volunteers are preparing signs to raise (10) {#4} awareness. The signs will explain simple actions, including switching off unnecessary lights and reporting water leaks. To prepare (11) {#5} next month’s Green Day, the centre will also display leaflets about resource-saving habits. Report leaking taps to reception (12) {#6} they can be repaired. A small problem should not become a daily waste of clean water.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank. this report examines unnecessary electricity and water use at a community language centre. it proposes practical improvements to the way its rooms and restrooms are managed. (13) ______. two problems need attention. lights sometimes remain on after the last class has finished, while several taps continue dripping after use. these habits and faults waste resources without helping anyone. the centre should consider how its rooms are used before choosing new equipment. the choice between simple reminders and automatic lighting depends (14) ______. some actions can begin immediately. the leaking taps should be repaired, and teachers should check the lights before leaving an empty classroom. (15) ______. these measures could reduce waste without changing the building’s layout. no automatic devices have been purchased yet. automatic lights may offer another solution if reminders are not enough. suitable devices could switch lights off when a room is empty. (16) ______. the centre would therefore still need a separate plan for checking and repairing its taps. the proposals should be introduced in a sensible order. simple repairs and clear responsibilities can address current problems, while more expensive equipment can be considered later. the centre should also check whether its chosen measures are working. (17) ______. question 13.a. its main purpose is to compare language courses offered in different towns.b. it focuses on changes that staff and visitors can make without rebuilding the centre.c. it presents the results of automatic devices already installed throughout the building.d. its main purpose is to explain why the centre needs more classrooms.write a, b, c, or d - question 14.a. for how often each room is usedb. at how often each room is usedc. to how often each room is usedd. on how often each room is usedwrite a, b, c, or d - question 15.a. staff can use a checklist to record electricity already saved by the automatic devices.b. teachers should wait for the new lighting before checking whether classrooms are empty.c. the centre should focus only on classrooms and postpone repairs to the leaking taps.d. staff can also place a short resource-saving checklist beside the exit.write a, b, c, or d - question 16.a. they would prevent water from running after taps are used, but would not affect classroom lights.b. they would warn staff about lights left on, but would require someone to switch them off.c. they would address lights left on in empty rooms, but they would not repair leaking taps.d. they would reduce lighting waste and stop tap leaks, so separate water checks would be unnecessary.write a, b, c, or d - question 17.a. we therefore recommend starting with repairs and clear reminders, then considering automatic lighting if necessary.b. we therefore recommend delaying all action until every visitor agrees to the purchase of automatic lighting.c. we therefore conclude that the proposed changes have already eliminated electricity and water waste completely.d. we therefore recommend rebuilding the restrooms before taking any steps to repair the existing taps.write a, b, c, or d -",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank. This report examines unnecessary electricity and water use at a community language centre. It proposes practical improvements to the way its rooms and restrooms are managed. (13) ______. Two problems need attention. Lights sometimes remain on after the last class has finished, while several taps continue dripping after use. These habits and faults waste resources without helping anyone. The centre should consider how its rooms are used before choosing new equipment. The choice between simple reminders and automatic lighting depends (14) ______. Some actions can begin immediately. The leaking taps should be repaired, and teachers should check the lights before leaving an empty classroom. (15) ______. These measures could reduce waste without changing the building’s layout. No automatic devices have been purchased yet. Automatic lights may offer another solution if reminders are not enough. Suitable devices could switch lights off when a room is empty. (16) ______. The centre would therefore still need a separate plan for checking and repairing its taps. The proposals should be introduced in a sensible order. Simple repairs and clear responsibilities can address current problems, while more expensive equipment can be considered later. The centre should also check whether its chosen measures are working. (17) ______. Question 13.A. Its main purpose is to compare language courses offered in different towns.B. It focuses on changes that staff and visitors can make without rebuilding the centre.C. It presents the results of automatic devices already installed throughout the building.D. Its main purpose is to explain why the centre needs more classrooms.Write A, B, C, or D - {#1} Question 14.A. for how often each room is usedB. at how often each room is usedC. to how often each room is usedD. on how often each room is usedWrite A, B, C, or D - {#2} Question 15.A. Staff can use a checklist to record electricity already saved by the automatic devices.B. Teachers should wait for the new lighting before checking whether classrooms are empty.C. The centre should focus only on classrooms and postpone repairs to the leaking taps.D. Staff can also place a short resource-saving checklist beside the exit.Write A, B, C, or D - {#3} Question 16.A. They would prevent water from running after taps are used, but would not affect classroom lights.B. They would warn staff about lights left on, but would require someone to switch them off.C. They would address lights left on in empty rooms, but they would not repair leaking taps.D. They would reduce lighting waste and stop tap leaks, so separate water checks would be unnecessary.Write A, B, C, or D - {#4} Question 17.A. We therefore recommend starting with repairs and clear reminders, then considering automatic lighting if necessary.B. We therefore recommend delaying all action until every visitor agrees to the purchase of automatic lighting.C. We therefore conclude that the proposed changes have already eliminated electricity and water waste completely.D. We therefore recommend rebuilding the restrooms before taking any steps to repair the existing taps.Write A, B, C, or D - {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank. This report examines unnecessary electricity and water use at a community language centre. It proposes practical improvements to the way its rooms and restrooms are managed. (13) ______. Two problems need attention. Lights sometimes remain on after the last class has finished, while several taps continue dripping after use. These habits and faults waste resources without helping anyone. The centre should consider how its rooms are used before choosing new equipment. The choice between simple reminders and automatic lighting depends (14) ______. Some actions can begin immediately. The leaking taps should be repaired, and teachers should check the lights before leaving an empty classroom. (15) ______. These measures could reduce waste without changing the building’s layout. No automatic devices have been purchased yet. Automatic lights may offer another solution if reminders are not enough. Suitable devices could switch lights off when a room is empty. (16) ______. The centre would therefore still need a separate plan for checking and repairing its taps. The proposals should be introduced in a sensible order. Simple repairs and clear responsibilities can address current problems, while more expensive equipment can be considered later. The centre should also check whether its chosen measures are working. (17) ______. Question 13.A. Its main purpose is to compare language courses offered in different towns.B. It focuses on changes that staff and visitors can make without rebuilding the centre.C. It presents the results of automatic devices already installed throughout the building.D. Its main purpose is to explain why the centre needs more classrooms.Write A, B, C, or D - {#1} Question 14.A. for how often each room is usedB. at how often each room is usedC. to how often each room is usedD. on how often each room is usedWrite A, B, C, or D - {#2} Question 15.A. Staff can use a checklist to record electricity already saved by the automatic devices.B. Teachers should wait for the new lighting before checking whether classrooms are empty.C. The centre should focus only on classrooms and postpone repairs to the leaking taps.D. Staff can also place a short resource-saving checklist beside the exit.Write A, B, C, or D - {#3} Question 16.A. They would prevent water from running after taps are used, but would not affect classroom lights.B. They would warn staff about lights left on, but would require someone to switch them off.C. They would address lights left on in empty rooms, but they would not repair leaking taps.D. They would reduce lighting waste and stop tap leaks, so separate water checks would be unnecessary.Write A, B, C, or D - {#4} Question 17.A. We therefore recommend starting with repairs and clear reminders, then considering automatic lighting if necessary.B. We therefore recommend delaying all action until every visitor agrees to the purchase of automatic lighting.C. We therefore conclude that the proposed changes have already eliminated electricity and water waste completely.D. We therefore recommend rebuilding the restrooms before taking any steps to repair the existing taps.Write A, B, C, or D - {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. having outlined these effects, we recommend keeping each menu until it needs to be updated.b. this report examines the café’s daily menu printing.c. this daily replacement wastes paper and the resources used to make it.d. the problem identified is that fresh menus are printed even when the dishes have not changed. a. b – c – d – ab. d – b – a – cc. b – d – c – ad. b – a – d – cwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Having outlined these effects, we recommend keeping each menu until it needs to be updated.b. This report examines the café’s daily menu printing.c. This daily replacement wastes paper and the resources used to make it.d. The problem identified is that fresh menus are printed even when the dishes have not changed. A. b – c – d – aB. d – b – a – cC. b – d – c – aD. b – a – d – cWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Having outlined these effects, we recommend keeping each menu until it needs to be updated.b. This report examines the café’s daily menu printing.c. This daily replacement wastes paper and the resources used to make it.d. The problem identified is that fresh menus are printed even when the dishes have not changed. A. b – c – d – aB. d – b – a – cC. b – d – c – aD. b – a – d – cWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. nam: do you think the sports centre will accept our refill-station proposal?b. mai: i think it will. the manager has asked us for details about the running costs.c. nam: then let’s add those figures to the proposal before we submit it.d. mai: good idea. that should help the manager make a decision. a. a – b – c – db. a – c – b – dc. b – a – d – cd. c – d – a – bwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. Nam: Do you think the sports centre will accept our refill-station proposal?b. Mai: I think it will. The manager has asked us for details about the running costs.c. Nam: Then let’s add those figures to the proposal before we submit it.d. Mai: Good idea. That should help the manager make a decision. A. a – b – c – dB. a – c – b – dC. b – a – d – cD. c – d – a – bWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. Nam: Do you think the sports centre will accept our refill-station proposal?b. Mai: I think it will. The manager has asked us for details about the running costs.c. Nam: Then let’s add those figures to the proposal before we submit it.d. Mai: Good idea. That should help the manager make a decision. A. a – b – c – dB. a – c – b – dC. b – a – d – cD. c – d – a – bWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. lan: we need a way for everyone to read this long file before friday’s meeting.b. minh: let’s print a copy for each person.c. lan: that would use a lot of paper. can everyone open it on their phone?d. minh: yes. i’ll send the link to the group instead.e. lan: great. i’ll add a reminder to your link asking them to read it before the meeting. a. a – c – b – d – eb. b – a – d – c – ec. a – b – d – e – cd. a – b – c – d – ewrite a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Lan: We need a way for everyone to read this long file before Friday’s meeting.b. Minh: Let’s print a copy for each person.c. Lan: That would use a lot of paper. Can everyone open it on their phone?d. Minh: Yes. I’ll send the link to the group instead.e. Lan: Great. I’ll add a reminder to your link asking them to read it before the meeting. A. a – c – b – d – eB. b – a – d – c – eC. a – b – d – e – cD. a – b – c – d – eWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Lan: We need a way for everyone to read this long file before Friday’s meeting.b. Minh: Let’s print a copy for each person.c. Lan: That would use a lot of paper. Can everyone open it on their phone?d. Minh: Yes. I’ll send the link to the group instead.e. Lan: Great. I’ll add a reminder to your link asking them to read it before the meeting. A. a – c – b – d – eB. b – a – d – c – eC. a – b – d – e – cD. a – b – c – d – eWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. once the fruit peels have been covered with the second layer of dry leaves, water the pile lightly so that the materials are damp.b. cover the bottom of the bin with a layer of dry leaves.c. cover these fruit peels with another layer of dry leaves.d. choose a suitable bin for your compost pile.e. place fruit peels on top of the dry leaves at the bottom. a. d – b – e – c – ab. b – d – c – e – ac. d – e – b – a – cd. d – b – c – a – ewrite a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Once the fruit peels have been covered with the second layer of dry leaves, water the pile lightly so that the materials are damp.b. Cover the bottom of the bin with a layer of dry leaves.c. Cover these fruit peels with another layer of dry leaves.d. Choose a suitable bin for your compost pile.e. Place fruit peels on top of the dry leaves at the bottom. A. d – b – e – c – aB. b – d – c – e – aC. d – e – b – a – cD. d – b – c – a – eWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Once the fruit peels have been covered with the second layer of dry leaves, water the pile lightly so that the materials are damp.b. Cover the bottom of the bin with a layer of dry leaves.c. Cover these fruit peels with another layer of dry leaves.d. Choose a suitable bin for your compost pile.e. Place fruit peels on top of the dry leaves at the bottom. A. d – b – e – c – aB. b – d – c – e – aC. d – e – b – a – cD. d – b – c – a – eWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. dear neighbours, please read about our new paper-saving arrangement beside the shared printer.b. we often find sheets printed on only one side beside it.c. to make those unused sides available for notes, we have put a labelled tray there.d. please place suitable sheets in that tray and take one when you need to write a note. best wishes, kim. a. a – c – b – db. a – b – c – dc. b – a – d – cd. a – b – d – cwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Dear neighbours, please read about our new paper-saving arrangement beside the shared printer.b. We often find sheets printed on only one side beside it.c. To make those unused sides available for notes, we have put a labelled tray there.d. Please place suitable sheets in that tray and take one when you need to write a note. Best wishes, Kim. A. a – c – b – dB. a – b – c – dC. b – a – d – cD. a – b – d – cWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Dear neighbours, please read about our new paper-saving arrangement beside the shared printer.b. We often find sheets printed on only one side beside it.c. To make those unused sides available for notes, we have put a labelled tray there.d. Please place suitable sheets in that tray and take one when you need to write a note. Best wishes, Kim. A. a – c – b – dB. a – b – c – dC. b – a – d – cD. a – b – d – cWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. packaging",
+      "id": "question-1938397-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following shopping guide and choose the best answer to indicate the option that best fits each numbered blank. small changes when you shop you do not need to change everything at once to shop more responsibly. start by choosing products with less (1) {#1}, such as fruit sold without an extra plastic wrapper. our shop cares (2) {#2} reducing unnecessary waste. clean cardboard boxes are available near the checkout, so customers can carry their purchases without taking a new plastic bag. if you already have a suitable bag or box, bring it with you. these habits help (3) {#3} natural resources, including the water and trees used to produce paper products. use available materials (4) {#4} rather than collecting more than you need. some customers keep a folded shopping bag beside their front door, (5) {#5} makes it easier to remember the bag before leaving home. some products still need protective packaging. (6) {#6}, we cannot remove every wrapper immediately. however, checking what you need and reusing what you already have are useful first steps.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following shopping guide and choose the best answer to indicate the option that best fits each numbered blank. SMALL CHANGES WHEN YOU SHOP You do not need to change everything at once to shop more responsibly. Start by choosing products with less (1) [Blank 1] , such as fruit sold without an extra plastic wrapper. Our shop cares (2) [Blank 2] reducing unnecessary waste. Clean cardboard boxes are available near the checkout, so customers can carry their purchases without taking a new plastic bag. If you already have a suitable bag or box, bring it with you. These habits help (3) [Blank 3] natural resources, including the water and trees used to produce paper products. Use available materials (4) [Blank 4] rather than collecting more than you need. Some customers keep a folded shopping bag beside their front door, (5) [Blank 5] makes it easier to remember the bag before leaving home. Some products still need protective packaging. (6) [Blank 6] , we cannot remove every wrapper immediately. However, checking what you need and reusing what you already have are useful first steps.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.compostB.leftoversC.packagingD.equipmentÔ (2):A.toB.atC.aboutD.withÔ (3):A.measureB.deliverC.displayD.saveÔ (4):A.inefficientB.efficiencyC.efficientlyD.efficientÔ (5):A.whichB.whatC.whoD.thatÔ (6):A.HoweverB.ThereforeC.For exampleD.Similarly",
+      "questionId": "question-1938397-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following shopping guide and choose the best answer to indicate the option that best fits each numbered blank. small changes when you shop you do not need to change everything at once to shop more responsibly. start by choosing products with less (1) [blank 1] , such as fruit sold without an extra plastic wrapper. our shop cares (2) [blank 2] reducing unnecessary waste. clean cardboard boxes are available near the checkout, so customers can carry their purchases without taking a new plastic bag. if you already have a suitable bag or box, bring it with you. these habits help (3) [blank 3] natural resources, including the water and trees used to produce paper products. use available materials (4) [blank 4] rather than collecting more than you need. some customers keep a folded shopping bag beside their front door, (5) [blank 5] makes it easier to remember the bag before leaving home. some products still need protective packaging. (6) [blank 6] , we cannot remove every wrapper immediately. however, checking what you need and reusing what you already have are useful first steps.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.compostb.leftoversc.packagingd.equipmentô (2):a.tob.atc.aboutd.withô (3):a.measureb.deliverc.displayd.saveô (4):a.inefficientb.efficiencyc.efficientlyd.efficientô (5):a.whichb.whatc.whod.thatô (6):a.howeverb.thereforec.for exampled.similarly",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. packaging"
+        },
+        {
+          "index": 1,
+          "value": "C. about"
+        },
+        {
+          "index": 2,
+          "value": "D. save"
+        },
+        {
+          "index": 3,
+          "value": "C. efficiently"
+        },
+        {
+          "index": 4,
+          "value": "A. which"
+        },
+        {
+          "index": 5,
+          "value": "B. Therefore"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A. turn off",
+      "id": "question-1938397-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank. greener visits to the sports centre please help us use water and electricity responsibly. after using an exercise room, remember to (7) {#1} the lights if nobody remains inside. visitors who want a bottle designed for repeated use should bring a (8) {#2} water bottle. drinking water is available free of charge beside reception, so there is no need to buy bottled water during every visit. we refill a large drinking-water jug each morning, (9) {#3}. please take only the water you need and leave the area clean for the next person. our volunteers are preparing signs to raise (10) {#4} awareness. the signs will explain simple actions, including switching off unnecessary lights and reporting water leaks. to prepare (11) {#5} next month's green day, the centre will also display leaflets about resource-saving habits. report leaking taps to reception (12) {#6} they can be repaired. a small problem should not become a daily waste of clean water.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank. GREENER VISITS TO THE SPORTS CENTRE Please help us use water and electricity responsibly. After using an exercise room, remember to (7) [Blank 7] the lights if nobody remains inside. Visitors who want a bottle designed for repeated use should bring a (8) [Blank 8] water bottle. Drinking water is available free of charge beside reception, so there is no need to buy bottled water during every visit. We refill a large drinking-water jug each morning, (9) [Blank 9] . Please take only the water you need and leave the area clean for the next person. Our volunteers are preparing signs to raise (10) [Blank 10] awareness. The signs will explain simple actions, including switching off unnecessary lights and reporting water leaks. To prepare (11) [Blank 11] next month's Green Day, the centre will also display leaflets about resource-saving habits. Report leaking taps to reception (12) [Blank 12] they can be repaired. A small problem should not become a daily waste of clean water.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.turn offB.carry outC.look upD.turn onÔ (8):A.contaminatedB.recyclableC.single-useD.reusableÔ (9):A.which provides water only for the centre's volunteersB.which means visitors must leave their bottles at receptionC.which shows how much water each visitor drinksD.which reduces the need for single-use bottlesÔ (10):A.personalB.seasonalC.physicalD.environmentalÔ (11):A.atB.aboutC.forD.onÔ (12):A.as ifB.so thatC.unlessD.even though",
+      "questionId": "question-1938397-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following notice and choose the best answer to indicate the option that best fits each numbered blank. greener visits to the sports centre please help us use water and electricity responsibly. after using an exercise room, remember to (7) [blank 7] the lights if nobody remains inside. visitors who want a bottle designed for repeated use should bring a (8) [blank 8] water bottle. drinking water is available free of charge beside reception, so there is no need to buy bottled water during every visit. we refill a large drinking-water jug each morning, (9) [blank 9] . please take only the water you need and leave the area clean for the next person. our volunteers are preparing signs to raise (10) [blank 10] awareness. the signs will explain simple actions, including switching off unnecessary lights and reporting water leaks. to prepare (11) [blank 11] next month's green day, the centre will also display leaflets about resource-saving habits. report leaking taps to reception (12) [blank 12] they can be repaired. a small problem should not become a daily waste of clean water.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.turn offb.carry outc.look upd.turn onô (8):a.contaminatedb.recyclablec.single-used.reusableô (9):a.which provides water only for the centre's volunteersb.which means visitors must leave their bottles at receptionc.which shows how much water each visitor drinksd.which reduces the need for single-use bottlesô (10):a.personalb.seasonalc.physicald.environmentalô (11):a.atb.aboutc.ford.onô (12):a.as ifb.so thatc.unlessd.even though",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. turn off"
+        },
+        {
+          "index": 1,
+          "value": "D. reusable"
+        },
+        {
+          "index": 2,
+          "value": "D. which reduces the need for single-use bottles"
+        },
+        {
+          "index": 3,
+          "value": "D. environmental"
+        },
+        {
+          "index": 4,
+          "value": "C. for"
+        },
+        {
+          "index": 5,
+          "value": "B. so that"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1938397-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "d"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank. this report examines unnecessary electricity and water use at a community language centre. it proposes practical improvements to the way its rooms and restrooms are managed. (13) ______. two problems need attention. lights sometimes remain on after the last class has finished, while several taps continue dripping after use. these habits and faults waste resources without helping anyone. the centre should consider how its rooms are used before choosing new equipment. the choice between simple reminders and automatic lighting depends (14) ______. some actions can begin immediately. the leaking taps should be repaired, and teachers should check the lights before leaving an empty classroom. (15) ______. these measures could reduce waste without changing the building's layout. no automatic devices have been purchased yet. automatic lights may offer another solution if reminders are not enough. suitable devices could switch lights off when a room is empty. (16) ______. the centre would therefore still need a separate plan for checking and repairing its taps. the proposals should be introduced in a sensible order. simple repairs and clear responsibilities can address current problems, while more expensive equipment can be considered later. the centre should also check whether its chosen measures are working. (17) ______. question 13.a. its main purpose is to compare language courses offered in different towns.b. it focuses on changes that staff and visitors can make without rebuilding the centre.c. it presents the results of automatic devices already installed throughout the building.d. its main purpose is to explain why the centre needs more classrooms.write a, b, c, or d - {#1} question 14.a. for how often each room is usedb. at how often each room is usedc. to how often each room is usedd. on how often each room is usedwrite a, b, c, or d - {#2} question 15.a. staff can use a checklist to record electricity already saved by the automatic devices.b. teachers should wait for the new lighting before checking whether classrooms are empty.c. the centre should focus only on classrooms and postpone repairs to the leaking taps.d. staff can also place a short resource-saving checklist beside the exit.write a, b, c, or d - {#3} question 16.a. they would prevent water from running after taps are used, but would not affect classroom lights.b. they would warn staff about lights left on, but would require someone to switch them off.c. they would address lights left on in empty rooms, but they would not repair leaking taps.d. they would reduce lighting waste and stop tap leaks, so separate water checks would be unnecessary.write a, b, c, or d - {#4} question 17.a. we therefore recommend starting with repairs and clear reminders, then considering automatic lighting if necessary.b. we therefore recommend delaying all action until every visitor agrees to the purchase of automatic lighting.c. we therefore conclude that the proposed changes have already eliminated electricity and water waste completely.d. we therefore recommend rebuilding the restrooms before taking any steps to repair the existing taps.write a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank. This report examines unnecessary electricity and water use at a community language centre. It proposes practical improvements to the way its rooms and restrooms are managed. (13) ______. Two problems need attention. Lights sometimes remain on after the last class has finished, while several taps continue dripping after use. These habits and faults waste resources without helping anyone. The centre should consider how its rooms are used before choosing new equipment. The choice between simple reminders and automatic lighting depends (14) ______. Some actions can begin immediately. The leaking taps should be repaired, and teachers should check the lights before leaving an empty classroom. (15) ______. These measures could reduce waste without changing the building's layout. No automatic devices have been purchased yet. Automatic lights may offer another solution if reminders are not enough. Suitable devices could switch lights off when a room is empty. (16) ______. The centre would therefore still need a separate plan for checking and repairing its taps. The proposals should be introduced in a sensible order. Simple repairs and clear responsibilities can address current problems, while more expensive equipment can be considered later. The centre should also check whether its chosen measures are working. (17) ______. Question 13.A. Its main purpose is to compare language courses offered in different towns.B. It focuses on changes that staff and visitors can make without rebuilding the centre.C. It presents the results of automatic devices already installed throughout the building.D. Its main purpose is to explain why the centre needs more classrooms.Write A, B, C, or D - {#1} Question 14.A. for how often each room is usedB. at how often each room is usedC. to how often each room is usedD. on how often each room is usedWrite A, B, C, or D - {#2} Question 15.A. Staff can use a checklist to record electricity already saved by the automatic devices.B. Teachers should wait for the new lighting before checking whether classrooms are empty.C. The centre should focus only on classrooms and postpone repairs to the leaking taps.D. Staff can also place a short resource-saving checklist beside the exit.Write A, B, C, or D - {#3} Question 16.A. They would prevent water from running after taps are used, but would not affect classroom lights.B. They would warn staff about lights left on, but would require someone to switch them off.C. They would address lights left on in empty rooms, but they would not repair leaking taps.D. They would reduce lighting waste and stop tap leaks, so separate water checks would be unnecessary.Write A, B, C, or D - {#4} Question 17.A. We therefore recommend starting with repairs and clear reminders, then considering automatic lighting if necessary.B. We therefore recommend delaying all action until every visitor agrees to the purchase of automatic lighting.C. We therefore conclude that the proposed changes have already eliminated electricity and water waste completely.D. We therefore recommend rebuilding the restrooms before taking any steps to repair the existing taps.Write A, B, C, or D - {#5}",
+      "questionId": "question-1938397-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank. this report examines unnecessary electricity and water use at a community language centre. it proposes practical improvements to the way its rooms and restrooms are managed. (13) ______. two problems need attention. lights sometimes remain on after the last class has finished, while several taps continue dripping after use. these habits and faults waste resources without helping anyone. the centre should consider how its rooms are used before choosing new equipment. the choice between simple reminders and automatic lighting depends (14) ______. some actions can begin immediately. the leaking taps should be repaired, and teachers should check the lights before leaving an empty classroom. (15) ______. these measures could reduce waste without changing the building's layout. no automatic devices have been purchased yet. automatic lights may offer another solution if reminders are not enough. suitable devices could switch lights off when a room is empty. (16) ______. the centre would therefore still need a separate plan for checking and repairing its taps. the proposals should be introduced in a sensible order. simple repairs and clear responsibilities can address current problems, while more expensive equipment can be considered later. the centre should also check whether its chosen measures are working. (17) ______. question 13.a. its main purpose is to compare language courses offered in different towns.b. it focuses on changes that staff and visitors can make without rebuilding the centre.c. it presents the results of automatic devices already installed throughout the building.d. its main purpose is to explain why the centre needs more classrooms.write a, b, c, or d - {#1} question 14.a. for how often each room is usedb. at how often each room is usedc. to how often each room is usedd. on how often each room is usedwrite a, b, c, or d - {#2} question 15.a. staff can use a checklist to record electricity already saved by the automatic devices.b. teachers should wait for the new lighting before checking whether classrooms are empty.c. the centre should focus only on classrooms and postpone repairs to the leaking taps.d. staff can also place a short resource-saving checklist beside the exit.write a, b, c, or d - {#3} question 16.a. they would prevent water from running after taps are used, but would not affect classroom lights.b. they would warn staff about lights left on, but would require someone to switch them off.c. they would address lights left on in empty rooms, but they would not repair leaking taps.d. they would reduce lighting waste and stop tap leaks, so separate water checks would be unnecessary.write a, b, c, or d - {#4} question 17.a. we therefore recommend starting with repairs and clear reminders, then considering automatic lighting if necessary.b. we therefore recommend delaying all action until every visitor agrees to the purchase of automatic lighting.c. we therefore conclude that the proposed changes have already eliminated electricity and water waste completely.d. we therefore recommend rebuilding the restrooms before taking any steps to repair the existing taps.write a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1938397-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. having outlined these effects, we recommend keeping each menu until it needs to be updated.b. this report examines the café's daily menu printing.c. this daily replacement wastes paper and the resources used to make it.d. the problem identified is that fresh menus are printed even when the dishes have not changed. a. b – c – d – ab. d – b – a – cc. b – d – c – ad. b – a – d – cwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. Having outlined these effects, we recommend keeping each menu until it needs to be updated.b. This report examines the café's daily menu printing.c. This daily replacement wastes paper and the resources used to make it.d. The problem identified is that fresh menus are printed even when the dishes have not changed. A. b – c – d – aB. d – b – a – cC. b – d – c – aD. b – a – d – cWrite A, B, C, or D - {#1}",
+      "questionId": "question-1938397-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. having outlined these effects, we recommend keeping each menu until it needs to be updated.b. this report examines the café's daily menu printing.c. this daily replacement wastes paper and the resources used to make it.d. the problem identified is that fresh menus are printed even when the dishes have not changed. a. b – c – d – ab. d – b – a – cc. b – d – c – ad. b – a – d – cwrite a, b, c, or d - {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1938397-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. nam: do you think the sports centre will accept our refill-station proposal?b. mai: i think it will. the manager has asked us for details about the running costs.c. nam: then let's add those figures to the proposal before we submit it.d. mai: good idea. that should help the manager make a decision. a. a – b – c – db. a – c – b – dc. b – a – d – cd. c – d – a – bwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. Nam: Do you think the sports centre will accept our refill-station proposal?b. Mai: I think it will. The manager has asked us for details about the running costs.c. Nam: Then let's add those figures to the proposal before we submit it.d. Mai: Good idea. That should help the manager make a decision. A. a – b – c – dB. a – c – b – dC. b – a – d – cD. c – d – a – bWrite A, B, C, or D - {#1}",
+      "questionId": "question-1938397-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. nam: do you think the sports centre will accept our refill-station proposal?b. mai: i think it will. the manager has asked us for details about the running costs.c. nam: then let's add those figures to the proposal before we submit it.d. mai: good idea. that should help the manager make a decision. a. a – b – c – db. a – c – b – dc. b – a – d – cd. c – d – a – bwrite a, b, c, or d - {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1938397-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. lan: we need a way for everyone to read this long file before friday's meeting.b. minh: let's print a copy for each person.c. lan: that would use a lot of paper. can everyone open it on their phone?d. minh: yes. i'll send the link to the group instead.e. lan: great. i'll add a reminder to your link asking them to read it before the meeting. a. a – c – b – d – eb. b – a – d – c – ec. a – b – d – e – cd. a – b – c – d – ewrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Lan: We need a way for everyone to read this long file before Friday's meeting.b. Minh: Let's print a copy for each person.c. Lan: That would use a lot of paper. Can everyone open it on their phone?d. Minh: Yes. I'll send the link to the group instead.e. Lan: Great. I'll add a reminder to your link asking them to read it before the meeting. A. a – c – b – d – eB. b – a – d – c – eC. a – b – d – e – cD. a – b – c – d – eWrite A, B, C, or D - {#1}",
+      "questionId": "question-1938397-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. lan: we need a way for everyone to read this long file before friday's meeting.b. minh: let's print a copy for each person.c. lan: that would use a lot of paper. can everyone open it on their phone?d. minh: yes. i'll send the link to the group instead.e. lan: great. i'll add a reminder to your link asking them to read it before the meeting. a. a – c – b – d – eb. b – a – d – c – ec. a – b – d – e – cd. a – b – c – d – ewrite a, b, c, or d - {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1938397-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. once the fruit peels have been covered with the second layer of dry leaves, water the pile lightly so that the materials are damp.b. cover the bottom of the bin with a layer of dry leaves.c. cover these fruit peels with another layer of dry leaves.d. choose a suitable bin for your compost pile.e. place fruit peels on top of the dry leaves at the bottom. a. d – b – e – c – ab. b – d – c – e – ac. d – e – b – a – cd. d – b – c – a – ewrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Once the fruit peels have been covered with the second layer of dry leaves, water the pile lightly so that the materials are damp.b. Cover the bottom of the bin with a layer of dry leaves.c. Cover these fruit peels with another layer of dry leaves.d. Choose a suitable bin for your compost pile.e. Place fruit peels on top of the dry leaves at the bottom. A. d – b – e – c – aB. b – d – c – e – aC. d – e – b – a – cD. d – b – c – a – eWrite A, B, C, or D - {#1}",
+      "questionId": "question-1938397-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. once the fruit peels have been covered with the second layer of dry leaves, water the pile lightly so that the materials are damp.b. cover the bottom of the bin with a layer of dry leaves.c. cover these fruit peels with another layer of dry leaves.d. choose a suitable bin for your compost pile.e. place fruit peels on top of the dry leaves at the bottom. a. d – b – e – c – ab. b – d – c – e – ac. d – e – b – a – cd. d – b – c – a – ewrite a, b, c, or d - {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1938397-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. dear neighbours, please read about our new paper-saving arrangement beside the shared printer.b. we often find sheets printed on only one side beside it.c. to make those unused sides available for notes, we have put a labelled tray there.d. please place suitable sheets in that tray and take one when you need to write a note. best wishes, kim. a. a – c – b – db. a – b – c – dc. b – a – d – cd. a – b – d – cwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 a. Dear neighbours, please read about our new paper-saving arrangement beside the shared printer.b. We often find sheets printed on only one side beside it.c. To make those unused sides available for notes, we have put a labelled tray there.d. Please place suitable sheets in that tray and take one when you need to write a note. Best wishes, Kim. A. a – c – b – dB. a – b – c – dC. b – a – d – cD. a – b – d – cWrite A, B, C, or D - {#1}",
+      "questionId": "question-1938397-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 a. dear neighbours, please read about our new paper-saving arrangement beside the shared printer.b. we often find sheets printed on only one side beside it.c. to make those unused sides available for notes, we have put a labelled tray there.d. please place suitable sheets in that tray and take one when you need to write a note. best wishes, kim. a. a – c – b – db. a – b – c – dc. b – a – d – cd. a – b – d – cwrite a, b, c, or d - {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
