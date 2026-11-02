@@ -1,7 +1,7 @@
 {
-  "version": "4.8.0",
-  "updated_at": "2026-10-13T12:10:33Z",
-  "total_questions": 1,
+  "version": "4.9.3",
+  "updated_at": "2026-11-02T13:14:18Z",
+  "total_questions": 26,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -13,6 +13,381 @@
         "Bird",
         "Fish"
       ]
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence since the new bus route opened residents without private vehicles have found it easier to get around the city": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Since the new bus route opened, residents without private vehicles have found it easier to get around the city.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence since the new bus route opened residents without private vehicles have found it easier to get around the city",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence since the new bus route opened residents without private vehicles have found it easier to get around the city",
+      "answer": "travel from one place to another",
+      "letter": "C",
+      "options": [
+        "travel from one place to another"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence to compare the proportion of urban residents in two years the students looked at the share of the total population living in urban areas": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.To compare the proportion of urban residents in two years, the students looked at the share of the total population living in urban areas.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence to compare the proportion of urban residents in two years the students looked at the share of the total population living in urban areas",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence to compare the proportion of urban residents in two years the students looked at the share of the total population living in urban areas",
+      "answer": "the part of the whole population in a particular group",
+      "letter": "C",
+      "options": [
+        "the part of the whole population in a particular group"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence although the flat is close to her workplace mai cannot afford the rent after paying for food and other basic needs": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Although the flat is close to her workplace, Mai cannot afford the rent after paying for food and other basic needs.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence although the flat is close to her workplace mai cannot afford the rent after paying for food and other basic needs",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence although the flat is close to her workplace mai cannot afford the rent after paying for food and other basic needs",
+      "answer": "have enough money to pay for",
+      "letter": "B",
+      "options": [
+        "have enough money to pay for"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence residents describe the bus service as reliable because buses usually arrive when expected and rarely fail to complete their routes": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Residents describe the bus service as reliable because buses usually arrive when expected and rarely fail to complete their routes.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence residents describe the bus service as reliable because buses usually arrive when expected and rarely fail to complete their routes",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence residents describe the bus service as reliable because buses usually arrive when expected and rarely fail to complete their routes",
+      "answer": "dependable in operating as expected",
+      "letter": "D",
+      "options": [
+        "dependable in operating as expected"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the project examines urbanisation by showing how a small town has grown as more people have moved there from rural areas": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.The project examines urbanisation by showing how a small town has grown as more people have moved there from rural areas.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the project examines urbanisation by showing how a small town has grown as more people have moved there from rural areas",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the project examines urbanisation by showing how a small town has grown as more people have moved there from rural areas",
+      "answer": "the growth of towns and cities as people move into them",
+      "letter": "C",
+      "options": [
+        "the growth of towns and cities as people move into them"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence residents have asked the local authority to repair the road because the organisation is responsible for public services in their area": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Residents have asked the local authority to repair the road because the organisation is responsible for public services in their area.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence residents have asked the local authority to repair the road because the organisation is responsible for public services in their area",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence residents have asked the local authority to repair the road because the organisation is responsible for public services in their area",
+      "answer": "the organisation responsible for governing and providing services locally",
+      "letter": "B",
+      "options": [
+        "the organisation responsible for governing and providing services locally"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence before describing changes in their neighbourhood the students interviewed people living on nearby streets and photographed the shops around their homes": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Before describing changes in their neighbourhood, the students interviewed people living on nearby streets and photographed the shops around their homes.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence before describing changes in their neighbourhood the students interviewed people living on nearby streets and photographed the shops around their homes",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence before describing changes in their neighbourhood the students interviewed people living on nearby streets and photographed the shops around their homes",
+      "answer": "the local area where people live",
+      "letter": "D",
+      "options": [
+        "the local area where people live"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the reading describes some old buildings as colonial linking them to a period when another country controlled the area": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.The reading describes some old buildings as colonial, linking them to a period when another country controlled the area.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the reading describes some old buildings as colonial linking them to a period when another country controlled the area",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the reading describes some old buildings as colonial linking them to a period when another country controlled the area",
+      "answer": "connected with rule by another country",
+      "letter": "A",
+      "options": [
+        "connected with rule by another country"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence looking at photographs of the old wet market can bring back memories of the neighbourhood before the high rise buildings appeared": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Looking at photographs of the old wet market can bring back memories of the neighbourhood before the high-rise buildings appeared.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence looking at photographs of the old wet market can bring back memories of the neighbourhood before the high rise buildings appeared",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence looking at photographs of the old wet market can bring back memories of the neighbourhood before the high rise buildings appeared",
+      "answer": "make people remember past experiences",
+      "letter": "A",
+      "options": [
+        "make people remember past experiences"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the city plans to modernise its public transport system by introducing electric buses and newer equipment": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.The city plans to modernise its public transport system by introducing electric buses and newer equipment.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the city plans to modernise its public transport system by introducing electric buses and newer equipment",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the city plans to modernise its public transport system by introducing electric buses and newer equipment",
+      "answer": "update it using newer technology and equipment",
+      "letter": "A",
+      "options": [
+        "update it using newer technology and equipment"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence air pollution is a growing concern among local residents who worry about the effects of poorer air quality on their health": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.Air pollution is a growing concern among local residents, who worry about the effects of poorer air quality on their health.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence air pollution is a growing concern among local residents who worry about the effects of poorer air quality on their health",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence air pollution is a growing concern among local residents who worry about the effects of poorer air quality on their health",
+      "answer": "matter that causes worry",
+      "letter": "B",
+      "options": [
+        "a matter that causes worry"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the residents report identifies unemployment as a problem some adults are able to work and are looking for jobs but they have not found any": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.The residents' report identifies unemployment as a problem: some adults are able to work and are looking for jobs, but they have not found any.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the residents report identifies unemployment as a problem some adults are able to work and are looking for jobs but they have not found any",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the residents report identifies unemployment as a problem some adults are able to work and are looking for jobs but they have not found any",
+      "answer": "the condition of having no job despite being available for work",
+      "letter": "A",
+      "options": [
+        "the condition of having no job despite being available for work"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence in their presentation the students compared the architecture of old low rise houses with that of modern high rise buildings focusing on their shapes and design features": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.In their presentation, the students compared the architecture of old low-rise houses with that of modern high-rise buildings, focusing on their shapes and design features.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence in their presentation the students compared the architecture of old low rise houses with that of modern high rise buildings focusing on their shapes and design features",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence in their presentation the students compared the architecture of old low rise houses with that of modern high rise buildings focusing on their shapes and design features",
+      "answer": "the style and design of buildings",
+      "letter": "B",
+      "options": [
+        "the style and design of buildings"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the project group recommends more affordable housing so that families with limited incomes can rent or buy homes without paying more than they can manage": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.The project group recommends more affordable housing so that families with limited incomes can rent or buy homes without paying more than they can manage.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the project group recommends more affordable housing so that families with limited incomes can rent or buy homes without paying more than they can manage",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the project group recommends more affordable housing so that families with limited incomes can rent or buy homes without paying more than they can manage",
+      "answer": "homes priced within people's financial means",
+      "letter": "A",
+      "options": [
+        "homes priced within people's financial means"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the town is expected to expand beyond its present boundaries with new residential streets occupying some surrounding farmland": {
+      "question": "Choose A, B, C, or D to indicate the meaning closest to the bold word or phrase as used in the sentence.The town is expected to expand beyond its present boundaries, with new residential streets occupying some surrounding farmland.",
+      "clean_stem": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the town is expected to expand beyond its present boundaries with new residential streets occupying some surrounding farmland",
+      "stem_key": "choose a b c or d to indicate the meaning closest to the bold word or phrase as used in the sentence the town is expected to expand beyond its present boundaries with new residential streets occupying some surrounding farmland",
+      "answer": "become larger in area",
+      "letter": "A",
+      "options": [
+        "become larger in area"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the project group wants to improve transport infrastructure by making roads and public transport systems better": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The project group wants to improve transport infrastructure by making roads and public transport systems better.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the project group wants to improve transport infrastructure by making roads and public transport systems better",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the project group wants to improve transport infrastructure by making roads and public transport systems better",
+      "answer": "worsen",
+      "letter": "D",
+      "options": [
+        "worsen"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the family moved to an urban area where they now live near busy streets shops and high rise buildings": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The family moved to an urban area, where they now live near busy streets, shops, and high-rise buildings.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the family moved to an urban area where they now live near busy streets shops and high rise buildings",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the family moved to an urban area where they now live near busy streets shops and high rise buildings",
+      "answer": "rural area",
+      "letter": "A",
+      "options": [
+        "a rural area"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the town may expand beyond its current boundaries as more land is used for housing": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The town may expand beyond its current boundaries as more land is used for housing.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the town may expand beyond its current boundaries as more land is used for housing",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the town may expand beyond its current boundaries as more land is used for housing",
+      "answer": "become smaller in area",
+      "letter": "D",
+      "options": [
+        "become smaller in area"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence residents want a more reliable bus service so that they can depend on buses arriving when expected": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.Residents want a more reliable bus service so that they can depend on buses arriving when expected.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence residents want a more reliable bus service so that they can depend on buses arriving when expected",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence residents want a more reliable bus service so that they can depend on buses arriving when expected",
+      "answer": "unreliable",
+      "letter": "B",
+      "options": [
+        "unreliable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence if housing and food prices go up residents will need more money to cover their basic needs": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.If housing and food prices go up, residents will need more money to cover their basic needs.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence if housing and food prices go up residents will need more money to cover their basic needs",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence if housing and food prices go up residents will need more money to cover their basic needs",
+      "answer": "decrease",
+      "letter": "A",
+      "options": [
+        "decrease"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the report discusses unemployment focusing on adults who are looking for work but have no jobs": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The report discusses unemployment, focusing on adults who are looking for work but have no jobs.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the report discusses unemployment focusing on adults who are looking for work but have no jobs",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the report discusses unemployment focusing on adults who are looking for work but have no jobs",
+      "answer": "employment",
+      "letter": "D",
+      "options": [
+        "employment"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence poor air quality is a source of concern for residents who worry about its effects on their health": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.Poor air quality is a source of concern for residents, who worry about its effects on their health.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence poor air quality is a source of concern for residents who worry about its effects on their health",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence poor air quality is a source of concern for residents who worry about its effects on their health",
+      "answer": "freedom from worry",
+      "letter": "C",
+      "options": [
+        "freedom from worry"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the students compared the neighbourhood s new high rise buildings with the houses shown in older photographs": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The students compared the neighbourhood's new high-rise buildings with the houses shown in older photographs.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the students compared the neighbourhood s new high rise buildings with the houses shown in older photographs",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the students compared the neighbourhood s new high rise buildings with the houses shown in older photographs",
+      "answer": "low-rise buildings",
+      "letter": "C",
+      "options": [
+        "low-rise buildings"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the project recommends affordable homes that families with limited incomes have enough money to rent": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The project recommends affordable homes that families with limited incomes have enough money to rent.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the project recommends affordable homes that families with limited incomes have enough money to rent",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the project recommends affordable homes that families with limited incomes have enough money to rent",
+      "answer": "unaffordable",
+      "letter": "B",
+      "options": [
+        "unaffordable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
+    },
+    "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the students predict that the proportion of rural residents will go down becoming a smaller share of the total population": {
+      "question": "Choose A, B, C, or D to indicate the meaning most opposite to the bold word or phrase as used in the sentence.The students predict that the proportion of rural residents will go down, becoming a smaller share of the total population.",
+      "clean_stem": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the students predict that the proportion of rural residents will go down becoming a smaller share of the total population",
+      "stem_key": "choose a b c or d to indicate the meaning most opposite to the bold word or phrase as used in the sentence the students predict that the proportion of rural residents will go down becoming a smaller share of the total population",
+      "answer": "increase",
+      "letter": "A",
+      "options": [
+        "increase"
+      ],
+      "inputs": [],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-02T13:14:18Z"
     }
   }
 }
