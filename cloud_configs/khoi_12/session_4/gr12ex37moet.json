@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "account_name": "Huỳnh Lê Phong Linh",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4",
+    "unit_key": "session_4",
+    "quiz_title": "GR12EX37MOET",
+    "quiz_key": "gr12ex37moet",
+    "cmid": "744254",
+    "course_id": "9692",
+    "repo_path": "cloud_configs/khoi_12/session_4/gr12ex37moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-11-02 20:36:02"
+  },
+  "answers": [
+    {
+      "id": "question-1938346-4",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.several high-rise buildings have recently been constructed beside the neighbourhood's older low-rise houses. these new buildings have many more floors than the houses beside them.what does \"these new buildings\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. Several high-rise buildings have recently been constructed beside the neighbourhood’s older low-rise houses. These new buildings have many more floors than the houses beside them. What does “These new buildings” refer to?",
+      "options": [
+        "the recently constructed high-rise buildings"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-4",
+      "questionNumber": 5,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.Several high-rise buildings have recently been constructed beside the neighbourhood's older low-rise houses. These new buildings have many more floors than the houses beside them.What does \"These new buildings\" refer to?",
+      "answer": "the recently constructed high-rise buildings",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.several high-rise buildings have recently been constructed beside the neighbourhood's older low-rise houses. these new buildings have many more floors than the houses beside them.what does \"these new buildings\" refer to?",
+      "letter": "D",
+      "rightAnswer": "the recently constructed high-rise buildings"
+    },
+    {
+      "id": "question-1938346-10",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the project group identified two priorities: affordable housing and improved transport infrastructure. the latter would involve work on roads, bridges, and public travel systems.what does \"the latter\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. The project group identified two priorities: affordable housing and improved transport infrastructure. The latter would involve work on roads, bridges, and public travel systems. What does “The latter” refer to?",
+      "options": [
+        "improved transport infrastructure"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-10",
+      "questionNumber": 3,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.The project group identified two priorities: affordable housing and improved transport infrastructure. The latter would involve work on roads, bridges, and public travel systems.What does \"The latter\" refer to?",
+      "answer": "improved transport infrastructure",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the project group identified two priorities: affordable housing and improved transport infrastructure. the latter would involve work on roads, bridges, and public travel systems.what does \"the latter\" refer to?",
+      "letter": "A",
+      "rightAnswer": "improved transport infrastructure"
+    },
+    {
+      "id": "question-1938346-6",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the vietnam graph shows that the urban population share reached 37% in 2020. this figure represents the percentage of the country's population living in urban areas in that year.what does \"this figure\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. The Vietnam graph shows that the urban population share reached 37% in 2020. This figure represents the percentage of the country’s population living in urban areas in that year. What does “This figure” refer to?",
+      "options": [
+        "the 37% urban population share in 2020"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-6",
+      "questionNumber": 7,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.The Vietnam graph shows that the urban population share reached 37% in 2020. This figure represents the percentage of the country's population living in urban areas in that year.What does \"This figure\" refer to?",
+      "answer": "the 37% urban population share in 2020",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the vietnam graph shows that the urban population share reached 37% in 2020. this figure represents the percentage of the country's population living in urban areas in that year.what does \"this figure\" refer to?",
+      "letter": "D",
+      "rightAnswer": "the 37% urban population share in 2020"
+    },
+    {
+      "id": "question-1938346-9",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the students prepared two descriptions of neighbourhood changes. the first focused only on new buildings; the second one also discussed transport and residents' concerns.what does \"one\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. The students prepared two descriptions of neighbourhood changes. The first focused only on new buildings; the second one also discussed transport and residents’ concerns. What does “one” refer to?",
+      "options": [
+        "a description of neighbourhood changes"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-9",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.The students prepared two descriptions of neighbourhood changes. The first focused only on new buildings; the second one also discussed transport and residents' concerns.What does \"one\" refer to?",
+      "answer": "a description of neighbourhood changes",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the students prepared two descriptions of neighbourhood changes. the first focused only on new buildings; the second one also discussed transport and residents' concerns.what does \"one\" refer to?",
+      "letter": "A",
+      "rightAnswer": "a description of neighbourhood changes"
+    },
+    {
+      "id": "question-1938346-8",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the students examined changes in vietnam's urban population share between 1960 and 2020. they then compared the rural population shares over the same period.what does \"the same period\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. The students examined changes in Vietnam’s urban population share between 1960 and 2020. They then compared the rural population shares over the same period. What does “the same period” refer to?",
+      "options": [
+        "the interval from 1960 to 2020"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-8",
+      "questionNumber": 6,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.The students examined changes in Vietnam's urban population share between 1960 and 2020. They then compared the rural population shares over the same period.What does \"the same period\" refer to?",
+      "answer": "the interval from 1960 to 2020",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the students examined changes in vietnam's urban population share between 1960 and 2020. they then compared the rural population shares over the same period.what does \"the same period\" refer to?",
+      "letter": "A",
+      "rightAnswer": "the interval from 1960 to 2020"
+    },
+    {
+      "id": "question-1938346-5",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.in the practice account, a wet market has been replaced by a group of convenience stores. this change has altered where local residents buy everyday products.what does \"this change\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. In the practice account, a wet market has been replaced by a group of convenience stores. This change has altered where local residents buy everyday products. What does “This change” refer to?",
+      "options": [
+        "the replacement of the wet market by convenience stores"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-5",
+      "questionNumber": 8,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.In the practice account, a wet market has been replaced by a group of convenience stores. This change has altered where local residents buy everyday products.What does \"This change\" refer to?",
+      "answer": "the replacement of the wet market by convenience stores",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.in the practice account, a wet market has been replaced by a group of convenience stores. this change has altered where local residents buy everyday products.what does \"this change\" refer to?",
+      "letter": "D",
+      "rightAnswer": "the replacement of the wet market by convenience stores"
+    },
+    {
+      "id": "question-1938346-2",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.local residents met an urban planner to discuss changes in their neighbourhood. they described how the changes had affected their daily journeys and access to shops.what does \"they\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. Local residents met an urban planner to discuss changes in their neighbourhood. They described how the changes had affected their daily journeys and access to shops. What does “They” refer to?",
+      "options": [
+        "the local residents"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-2",
+      "questionNumber": 10,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.Local residents met an urban planner to discuss changes in their neighbourhood. They described how the changes had affected their daily journeys and access to shops.What does \"They\" refer to?",
+      "answer": "the local residents",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.local residents met an urban planner to discuss changes in their neighbourhood. they described how the changes had affected their daily journeys and access to shops.what does \"they\" refer to?",
+      "letter": "D",
+      "rightAnswer": "the local residents"
+    },
+    {
+      "id": "question-1938346-7",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.according to the vietnam graph, rural residents accounted for 85% of the population in 1960. this proportion describes their share of the total population, rather than their absolute number.what does \"this proportion\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. According to the Vietnam graph, rural residents accounted for 85% of the population in 1960. This proportion describes their share of the total population, rather than their absolute number. What does “This proportion” refer to?",
+      "options": [
+        "the rural population share in 1960"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-7",
+      "questionNumber": 2,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.According to the Vietnam graph, rural residents accounted for 85% of the population in 1960. This proportion describes their share of the total population, rather than their absolute number.What does \"This proportion\" refer to?",
+      "answer": "the rural population share in 1960",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.according to the vietnam graph, rural residents accounted for 85% of the population in 1960. this proportion describes their share of the total population, rather than their absolute number.what does \"this proportion\" refer to?",
+      "letter": "D",
+      "rightAnswer": "the rural population share in 1960"
+    },
+    {
+      "id": "question-1938346-3",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the students collected old photographs of the neighbourhood. they used them to examine what the streets and buildings had looked like before recent urban development.what does \"them\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. The students collected old photographs of the neighbourhood. They used them to examine what the streets and buildings had looked like before recent urban development. What does “them” refer to?",
+      "options": [
+        "the old photographs"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-3",
+      "questionNumber": 9,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.The students collected old photographs of the neighbourhood. They used them to examine what the streets and buildings had looked like before recent urban development.What does \"them\" refer to?",
+      "answer": "the old photographs",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.the students collected old photographs of the neighbourhood. they used them to examine what the streets and buildings had looked like before recent urban development.what does \"them\" refer to?",
+      "letter": "A",
+      "rightAnswer": "the old photographs"
+    },
+    {
+      "id": "question-1938346-1",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.a new electric bus route links the neighbourhood with other parts of the city. it operates along a fixed route with several stops, helping residents get around without private vehicles.what does \"it\" refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year. A new electric bus route links the neighbourhood with other parts of the city. It operates along a fixed route with several stops, helping residents get around without private vehicles. What does “It” refer to?",
+      "options": [
+        "the new electric bus route"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-1",
+      "questionNumber": 4,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. For data references, check the population category and year.A new electric bus route links the neighbourhood with other parts of the city. It operates along a fixed route with several stops, helping residents get around without private vehicles.What does \"It\" refer to?",
+      "answer": "the new electric bus route",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. for data references, check the population category and year.a new electric bus route links the neighbourhood with other parts of the city. it operates along a fixed route with several stops, helping residents get around without private vehicles.what does \"it\" refer to?",
+      "letter": "D",
+      "rightAnswer": "the new electric bus route"
+    },
+    {
+      "id": "question-1938346-19",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.responding to a passenger's complaint, the service representative says, \"i'm sorry about the repeated delays. i'll check what has caused them.\"",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. Responding to a passenger’s complaint, the service representative says, “I’m sorry about the repeated delays. I’ll check what has caused them.”",
+      "options": [
+        "The representative apologises and promises to investigate the reasons for the delays."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-19",
+      "questionNumber": 18,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.Responding to a passenger's complaint, the service representative says, \"I'm sorry about the repeated delays. I'll check what has caused them.\"",
+      "answer": "The representative apologises and promises to investigate the reasons for the delays.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.responding to a passenger's complaint, the service representative says, \"i'm sorry about the repeated delays. i'll check what has caused them.\"",
+      "letter": "B",
+      "rightAnswer": "The representative apologises and promises to investigate the reasons for the delays."
+    },
+    {
+      "id": "question-1938346-12",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.this is the first time nam has used an electric bus.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. This is the first time Nam has used an electric bus.",
+      "options": [
+        "Nam had never used an electric bus before this occasion."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-12",
+      "questionNumber": 11,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.This is the first time Nam has used an electric bus.",
+      "answer": "Nam had never used an electric bus before this occasion.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.this is the first time nam has used an electric bus.",
+      "letter": "D",
+      "rightAnswer": "Nam had never used an electric bus before this occasion."
+    },
+    {
+      "id": "question-1938346-11",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.several high-rise buildings have been built in the neighbourhood since the family moved there.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. Several high-rise buildings have been built in the neighbourhood since the family moved there.",
+      "options": [
+        "Several high-rise buildings have been constructed there between the family's arrival and now."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-11",
+      "questionNumber": 17,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.Several high-rise buildings have been built in the neighbourhood since the family moved there.",
+      "answer": "Several high-rise buildings have been constructed there between the family's arrival and now.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.several high-rise buildings have been built in the neighbourhood since the family moved there.",
+      "letter": "D",
+      "rightAnswer": "Several high-rise buildings have been constructed there between the family's arrival and now."
+    },
+    {
+      "id": "question-1938346-16",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.the rural population share fell, but the graph alone does not show whether the number of rural residents also fell.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. The rural population share fell, but the graph alone does not show whether the number of rural residents also fell.",
+      "options": [
+        "The graph shows a smaller rural share but does not establish a decrease in the rural population number."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-16",
+      "questionNumber": 20,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.The rural population share fell, but the graph alone does not show whether the number of rural residents also fell.",
+      "answer": "The graph shows a smaller rural share but does not establish a decrease in the rural population number.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.the rural population share fell, but the graph alone does not show whether the number of rural residents also fell.",
+      "letter": "D",
+      "rightAnswer": "The graph shows a smaller rural share but does not establish a decrease in the rural population number."
+    },
+    {
+      "id": "question-1938346-13",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.the more reliable the bus service becomes, the less time passengers spend waiting.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. The more reliable the bus service becomes, the less time passengers spend waiting.",
+      "options": [
+        "As the bus service becomes more reliable, passengers' waiting time decreases."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-13",
+      "questionNumber": 12,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.The more reliable the bus service becomes, the less time passengers spend waiting.",
+      "answer": "As the bus service becomes more reliable, passengers' waiting time decreases.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.the more reliable the bus service becomes, the less time passengers spend waiting.",
+      "letter": "C",
+      "rightAnswer": "As the bus service becomes more reliable, passengers' waiting time decreases."
+    },
+    {
+      "id": "question-1938346-15",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.vietnam's urban population share rose from 15% in 1960 to 37% in 2020.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. Vietnam’s urban population share rose from 15% in 1960 to 37% in 2020.",
+      "options": [
+        "Vietnam's urban population share increased by 22 percentage points between 1960 and 2020."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-15",
+      "questionNumber": 15,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.Vietnam's urban population share rose from 15% in 1960 to 37% in 2020.",
+      "answer": "Vietnam's urban population share increased by 22 percentage points between 1960 and 2020.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.vietnam's urban population share rose from 15% in 1960 to 37% in 2020.",
+      "letter": "B",
+      "rightAnswer": "Vietnam's urban population share increased by 22 percentage points between 1960 and 2020."
+    },
+    {
+      "id": "question-1938346-20",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.some buildings date back to the colonial period, although they have since been modernised.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. Some buildings date back to the colonial period, although they have since been modernised.",
+      "options": [
+        "Some buildings originated in the colonial period and have been updated since then."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-20",
+      "questionNumber": 13,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.Some buildings date back to the colonial period, although they have since been modernised.",
+      "answer": "Some buildings originated in the colonial period and have been updated since then.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.some buildings date back to the colonial period, although they have since been modernised.",
+      "letter": "B",
+      "rightAnswer": "Some buildings originated in the colonial period and have been updated since then."
+    },
+    {
+      "id": "question-1938346-14",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.some local residents cannot afford the rent, even though the flats are close to their workplaces.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. Some local residents cannot afford the rent, even though the flats are close to their workplaces.",
+      "options": [
+        "Some local residents lack the money to pay the rent despite the flats' convenient location."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-14",
+      "questionNumber": 14,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.Some local residents cannot afford the rent, even though the flats are close to their workplaces.",
+      "answer": "Some local residents lack the money to pay the rent despite the flats' convenient location.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.some local residents cannot afford the rent, even though the flats are close to their workplaces.",
+      "letter": "A",
+      "rightAnswer": "Some local residents lack the money to pay the rent despite the flats' convenient location."
+    },
+    {
+      "id": "question-1938346-18",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.residents consider the bus service reliable because buses usually arrive when expected.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. Residents consider the bus service reliable because buses usually arrive when expected.",
+      "options": [
+        "Residents trust the bus service because buses generally arrive at the expected times."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-18",
+      "questionNumber": 16,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.Residents consider the bus service reliable because buses usually arrive when expected.",
+      "answer": "Residents trust the bus service because buses generally arrive at the expected times.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.residents consider the bus service reliable because buses usually arrive when expected.",
+      "letter": "B",
+      "rightAnswer": "Residents trust the bus service because buses generally arrive at the expected times."
+    },
+    {
+      "id": "question-1938346-17",
+      "questionKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.in the textbook's model graph, fantasia's urban population is projected to account for 65% of its total population in 2040.",
+      "questionRaw": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships. In the textbook’s model graph, Fantasia’s urban population is projected to account for 65% of its total population in 2040.",
+      "options": [
+        "The model forecasts that urban residents will make up 65% of Fantasia's population in 2040."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1938346-17",
+      "questionNumber": 19,
+      "question": "Choose A, B, C, or D to indicate the sentence closest in meaning to the original. Preserve the whole meaning, including qualifications and numerical relationships.In the textbook's model graph, Fantasia's urban population is projected to account for 65% of its total population in 2040.",
+      "answer": "The model forecasts that urban residents will make up 65% of Fantasia's population in 2040.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to indicate the sentence closest in meaning to the original. preserve the whole meaning, including qualifications and numerical relationships.in the textbook's model graph, fantasia's urban population is projected to account for 65% of its total population in 2040.",
+      "letter": "C",
+      "rightAnswer": "The model forecasts that urban residents will make up 65% of Fantasia's population in 2040."
+    }
+  ]
+}
