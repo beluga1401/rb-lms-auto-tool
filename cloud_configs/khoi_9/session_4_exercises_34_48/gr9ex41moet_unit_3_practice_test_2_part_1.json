@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR9EX41MOET UNIT 3 PRACTICE TEST 2 PART 1",
+    "quiz_key": "gr9ex41moet_unit_3_practice_test_2_part_1",
+    "cmid": "743725",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_4_exercises_34_48/gr9ex41moet_unit_3_practice_test_2_part_1.json",
+    "score": "22.00/22.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-07 20:41:14"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional textsquestions 1–6read the following advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. better evenings before test days a regular evening (1) can make the night before a test feel less difficult. the school counsellor recommends that if you want to get a good night's sleep, you (2) finish your most demanding study earlier in the evening. leaving all your revision until bedtime can make you feel (3) . if you sleep too little, there is a possibility that you (4) find it harder to concentrate the next morning. prepare your books and school things before you go to bed, (5) your morning will be less rushed. even if the test seems challenging, try to stay (6) and focus on what you have prepared.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. BETTER EVENINGS BEFORE TEST DAYS A regular evening (1) {#1} can make the night before a test feel less difficult. The school counsellor recommends that if you want to get a good night's sleep, you (2) {#2} finish your most demanding study earlier in the evening. Leaving all your revision until bedtime can make you feel (3) {#3}. If you sleep too little, there is a possibility that you (4) {#4} find it harder to concentrate the next morning. Prepare your books and school things before you go to bed, (5) {#5} your morning will be less rushed. Even if the test seems challenging, try to stay (6) {#6} and focus on what you have prepared.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "routine"
+        },
+        {
+          "index": 1,
+          "value": "should"
+        },
+        {
+          "index": 2,
+          "value": "stressed out"
+        },
+        {
+          "index": 3,
+          "value": "might"
+        },
+        {
+          "index": 4,
+          "value": "so"
+        },
+        {
+          "index": 5,
+          "value": "optimistic"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. BETTER EVENINGS BEFORE TEST DAYS A regular evening (1) {#1} can make the night before a test feel less difficult. The school counsellor recommends that if you want to get a good night's sleep, you (2) {#2} finish your most demanding study earlier in the evening. Leaving all your revision until bedtime can make you feel (3) {#3}. If you sleep too little, there is a possibility that you (4) {#4} find it harder to concentrate the next morning. Prepare your books and school things before you go to bed, (5) {#5} your morning will be less rushed. Even if the test seems challenging, try to stay (6) {#6} and focus on what you have prepared.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional textsquestions 7–12read the following student-support advice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. when schoolwork feels too much if several assignments are making you worried, a school (7) may be able to help you think more clearly about the problem. begin by writing down every (8) so you know when each task has to be completed. the counsellor recommends that if several important pieces of work fall in the same week, you (9) use a calendar to see how much time you have. do not (10) asking for help until the final day. your teacher's advice is simple: if the instructions for a task still seem confusing, you (11) ask for an explanation before you begin. planning and asking for support early can reduce (12) and help you feel more in control of your schoolwork.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following student-support advice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. WHEN SCHOOLWORK FEELS TOO MUCH If several assignments are making you worried, a school (7) {#1} may be able to help you think more clearly about the problem. Begin by writing down every (8) {#2} so you know when each task has to be completed. The counsellor recommends that if several important pieces of work fall in the same week, you (9) {#3} use a calendar to see how much time you have. Do not (10) {#4} asking for help until the final day. Your teacher's advice is simple: if the instructions for a task still seem confusing, you (11) {#5} ask for an explanation before you begin. Planning and asking for support early can reduce (12) {#6} and help you feel more in control of your schoolwork.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "counsellor"
+        },
+        {
+          "index": 1,
+          "value": "due date"
+        },
+        {
+          "index": 2,
+          "value": "should"
+        },
+        {
+          "index": 3,
+          "value": "delay"
+        },
+        {
+          "index": 4,
+          "value": "should"
+        },
+        {
+          "index": 5,
+          "value": "anxiety"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following student-support advice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. WHEN SCHOOLWORK FEELS TOO MUCH If several assignments are making you worried, a school (7) {#1} may be able to help you think more clearly about the problem. Begin by writing down every (8) {#2} so you know when each task has to be completed. The counsellor recommends that if several important pieces of work fall in the same week, you (9) {#3} use a calendar to see how much time you have. Do not (10) {#4} asking for help until the final day. Your teacher's advice is simple: if the instructions for a task still seem confusing, you (11) {#5} ask for an explanation before you begin. Planning and asking for support early can reduce (12) {#6} and help you feel more in control of your schoolwork.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. rehearsals and a group presentation tuan's class was preparing a geography presentation for friday. on tuesday, he also learned that rehearsals for the school play would continue later than usual on wednesday and thursday. he did not want to leave the play, but he also did not want his presentation group to rush everything at the last minute. (13) ______. at the lunchtime meeting, the four students divided the presentation into clear sections. (14) ______. the other members took responsibility for the introduction, research, and slide design. on wednesday, the group realised that designing the slides was taking much longer than expected. they still needed enough time to practise speaking. (15) ______. this gave them more time to prepare what they actually wanted to say. after thursday's rehearsal, tuan felt tired. he knew that staying up very late might make the next school day harder. (16) ______. the presentation went well on friday, and tuan was also able to take part in the play rehearsals. he realised that managing a busy week did not always mean giving up one activity completely. (17) ______.question 13.a. he decided to miss the rehearsal and prepare the whole presentation alone.b. he waited until thursday evening before mentioning the problem to his group.c. he explained the rehearsal change and suggested meeting at lunchtime on wednesday.d. he asked the group to give him only the easiest part of the presentation.write a, b, c, or d: question 14.a. tuan chose the map section because he could prepare it at home.b. tuan chose the introduction because he expected to finish it quickly.c. tuan agreed to design the slides as well as prepare his map section.d. tuan suggested that all four students work on every section together.write a, b, c, or d: question 15.a. they moved the presentation to the following week without asking their teacher.b. they added more pictures so that each student would have less to say.c. they agreed to spend thursday evening together finishing every slide.d. they simplified the slides and focused on the most important information.write a, b, c, or d: question 16.a. he decided to practise once more, even if it meant going to bed very late.b. he reviewed his speaking notes briefly, prepared his bag, and went to bed.c. he opened the slide file and spent the rest of the evening changing the design.d. he asked the group to meet online again so they could rehearse past midnight.write a, b, c, or d: question 17.a. he learned that extracurricular activities are manageable only when schoolwork is light.b. he decided that group members should always follow the same timetable.c. managing a busy week may require adjusting plans rather than dropping worthwhile activities.d. he concluded that busy weeks are easiest when students complete most tasks on their own.write a, b, c, or d:",
+      "questionRaw": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. REHEARSALS AND A GROUP PRESENTATION Tuan's class was preparing a geography presentation for Friday. On Tuesday, he also learned that rehearsals for the school play would continue later than usual on Wednesday and Thursday. He did not want to leave the play, but he also did not want his presentation group to rush everything at the last minute. (13) ______. At the lunchtime meeting, the four students divided the presentation into clear sections. (14) ______. The other members took responsibility for the introduction, research, and slide design. On Wednesday, the group realised that designing the slides was taking much longer than expected. They still needed enough time to practise speaking. (15) ______. This gave them more time to prepare what they actually wanted to say. After Thursday's rehearsal, Tuan felt tired. He knew that staying up very late might make the next school day harder. (16) ______. The presentation went well on Friday, and Tuan was also able to take part in the play rehearsals. He realised that managing a busy week did not always mean giving up one activity completely. (17) ______.Question 13.A. He decided to miss the rehearsal and prepare the whole presentation alone.B. He waited until Thursday evening before mentioning the problem to his group.C. He explained the rehearsal change and suggested meeting at lunchtime on Wednesday.D. He asked the group to give him only the easiest part of the presentation.Write A, B, C, or D: {#1}Question 14.A. Tuan chose the map section because he could prepare it at home.B. Tuan chose the introduction because he expected to finish it quickly.C. Tuan agreed to design the slides as well as prepare his map section.D. Tuan suggested that all four students work on every section together.Write A, B, C, or D: {#2}Question 15.A. They moved the presentation to the following week without asking their teacher.B. They added more pictures so that each student would have less to say.C. They agreed to spend Thursday evening together finishing every slide.D. They simplified the slides and focused on the most important information.Write A, B, C, or D: {#3}Question 16.A. He decided to practise once more, even if it meant going to bed very late.B. He reviewed his speaking notes briefly, prepared his bag, and went to bed.C. He opened the slide file and spent the rest of the evening changing the design.D. He asked the group to meet online again so they could rehearse past midnight.Write A, B, C, or D: {#4}Question 17.A. He learned that extracurricular activities are manageable only when schoolwork is light.B. He decided that group members should always follow the same timetable.C. Managing a busy week may require adjusting plans rather than dropping worthwhile activities.D. He concluded that busy weeks are easiest when students complete most tasks on their own.Write A, B, C, or D: {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. REHEARSALS AND A GROUP PRESENTATION Tuan's class was preparing a geography presentation for Friday. On Tuesday, he also learned that rehearsals for the school play would continue later than usual on Wednesday and Thursday. He did not want to leave the play, but he also did not want his presentation group to rush everything at the last minute. (13) ______. At the lunchtime meeting, the four students divided the presentation into clear sections. (14) ______. The other members took responsibility for the introduction, research, and slide design. On Wednesday, the group realised that designing the slides was taking much longer than expected. They still needed enough time to practise speaking. (15) ______. This gave them more time to prepare what they actually wanted to say. After Thursday's rehearsal, Tuan felt tired. He knew that staying up very late might make the next school day harder. (16) ______. The presentation went well on Friday, and Tuan was also able to take part in the play rehearsals. He realised that managing a busy week did not always mean giving up one activity completely. (17) ______.Question 13.A. He decided to miss the rehearsal and prepare the whole presentation alone.B. He waited until Thursday evening before mentioning the problem to his group.C. He explained the rehearsal change and suggested meeting at lunchtime on Wednesday.D. He asked the group to give him only the easiest part of the presentation.Write A, B, C, or D: {#1}Question 14.A. Tuan chose the map section because he could prepare it at home.B. Tuan chose the introduction because he expected to finish it quickly.C. Tuan agreed to design the slides as well as prepare his map section.D. Tuan suggested that all four students work on every section together.Write A, B, C, or D: {#2}Question 15.A. They moved the presentation to the following week without asking their teacher.B. They added more pictures so that each student would have less to say.C. They agreed to spend Thursday evening together finishing every slide.D. They simplified the slides and focused on the most important information.Write A, B, C, or D: {#3}Question 16.A. He decided to practise once more, even if it meant going to bed very late.B. He reviewed his speaking notes briefly, prepared his bag, and went to bed.C. He opened the slide file and spent the rest of the evening changing the design.D. He asked the group to meet online again so they could rehearse past midnight.Write A, B, C, or D: {#4}Question 17.A. He learned that extracurricular activities are manageable only when schoolwork is light.B. He decided that group members should always follow the same timetable.C. Managing a busy week may require adjusting plans rather than dropping worthwhile activities.D. He concluded that busy weeks are easiest when students complete most tasks on their own.Write A, B, C, or D: {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18.a. after a week, she noticed that she was less sleepy in the first lesson.b. lan often felt tired because she stayed up packing her bag and finishing small tasks.c. she began preparing her bag before dinner and moved her bedtime earlier.d. this change gave her a calmer end to the evening.a. b – d – c – ab. b – c – d – ac. c – b – d – ad. b – c – a – dwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18.a. After a week, she noticed that she was less sleepy in the first lesson.b. Lan often felt tired because she stayed up packing her bag and finishing small tasks.c. She began preparing her bag before dinner and moved her bedtime earlier.d. This change gave her a calmer end to the evening.A. b – d – c – aB. b – c – d – aC. c – b – d – aD. b – c – a – dWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18.a. After a week, she noticed that she was less sleepy in the first lesson.b. Lan often felt tired because she stayed up packing her bag and finishing small tasks.c. She began preparing her bag before dinner and moved her bedtime earlier.d. This change gave her a calmer end to the evening.A. b – d – c – aB. b – c – d – aC. c – b – d – aD. b – c – a – dWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19.a. the explanation showed him how to correct the first step.b. duy could not understand why his science answer was wrong.c. before asking for help, he wrote down the exact step he did not understand.d. he then showed the question to his teacher after class.a. c – b – d – ab. b – d – c – ac. b – c – a – dd. b – c – d – awrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19.a. The explanation showed him how to correct the first step.b. Duy could not understand why his science answer was wrong.c. Before asking for help, he wrote down the exact step he did not understand.d. He then showed the question to his teacher after class.A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19.a. The explanation showed him how to correct the first step.b. Duy could not understand why his science answer was wrong.c. Before asking for help, he wrote down the exact step he did not understand.d. He then showed the question to his teacher after class.A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20.a. i think a well-balanced week needs both study and free time.b. i try to finish my most important school tasks before relaxing.c. after that, i make time for football, music, or my family.d. this balance helps me return to schoolwork without feeling overloaded.a. a – b – c – db. b – a – c – dc. a – c – b – dd. a – b – d – cwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20.a. I think a well-balanced week needs both study and free time.b. I try to finish my most important school tasks before relaxing.c. After that, I make time for football, music, or my family.d. This balance helps me return to schoolwork without feeling overloaded.A. a – b – c – dB. b – a – c – dC. a – c – b – dD. a – b – d – cWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20.a. I think a well-balanced week needs both study and free time.b. I try to finish my most important school tasks before relaxing.c. After that, I make time for football, music, or my family.d. This balance helps me return to schoolwork without feeling overloaded.A. a – b – c – dB. b – a – c – dC. a – c – b – dD. a – b – d – cWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21.a. receptionist: it's in room 204, next to the library.b. student: excuse me. which room is the wellbeing talk in?c. receptionist: pardon? could you say that again?d. student: which room is the wellbeing talk in?a. c – b – d – ab. b – d – c – ac. b – c – d – ad. b – c – a – dwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21.a. Receptionist: It's in Room 204, next to the library.b. Student: Excuse me. Which room is the wellbeing talk in?c. Receptionist: Pardon? Could you say that again?d. Student: Which room is the wellbeing talk in?A. c – b – d – aB. b – d – c – aC. b – c – d – aD. b – c – a – dWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21.a. Receptionist: It's in Room 204, next to the library.b. Student: Excuse me. Which room is the wellbeing talk in?c. Receptionist: Pardon? Could you say that again?d. Student: Which room is the wellbeing talk in?A. c – b – d – aB. b – d – c – aC. b – c – d – aD. b – c – a – dWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22.a. students will then practise one short relaxation technique they can use before a difficult task.b. the student support team is holding a “calm before tests” session on tuesday afternoon.c. the counsellor will first explain why short breaks can help when students feel tense.d. there will be time at the end for questions about school routines and exam stress.a. b – a – c – db. b – c – a – dc. c – b – a – dd. b – c – d – awrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22.a. Students will then practise one short relaxation technique they can use before a difficult task.b. The Student Support Team is holding a “Calm Before Tests” session on Tuesday afternoon.c. The counsellor will first explain why short breaks can help when students feel tense.d. There will be time at the end for questions about school routines and exam stress.A. b – a – c – dB. b – c – a – dC. c – b – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22.a. Students will then practise one short relaxation technique they can use before a difficult task.b. The Student Support Team is holding a “Calm Before Tests” session on Tuesday afternoon.c. The counsellor will first explain why short breaks can help when students feel tense.d. There will be time at the end for questions about school routines and exam stress.A. b – a – c – dB. b – c – a – dC. c – b – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. routine",
+      "id": "question-1950460-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional textsquestions 1–6read the following advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. better evenings before test days a regular evening (1) {#1} can make the night before a test feel less difficult. the school counsellor recommends that if you want to get a good night's sleep, you (2) {#2} finish your most demanding study earlier in the evening. leaving all your revision until bedtime can make you feel (3) {#3}. if you sleep too little, there is a possibility that you (4) {#4} find it harder to concentrate the next morning. prepare your books and school things before you go to bed, (5) {#5} your morning will be less rushed. even if the test seems challenging, try to stay (6) {#6} and focus on what you have prepared.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. BETTER EVENINGS BEFORE TEST DAYS A regular evening (1) [Blank 1] can make the night before a test feel less difficult. The school counsellor recommends that if you want to get a good night's sleep, you (2) [Blank 2] finish your most demanding study earlier in the evening. Leaving all your revision until bedtime can make you feel (3) [Blank 3] . If you sleep too little, there is a possibility that you (4) [Blank 4] find it harder to concentrate the next morning. Prepare your books and school things before you go to bed, (5) [Blank 5] your morning will be less rushed. Even if the test seems challenging, try to stay (6) [Blank 6] and focus on what you have prepared.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.anxietyB.deadlineC.routineD.distractionÔ (2):A.mightB.mustC.canD.shouldÔ (3):A.physicalB.well-balancedC.stressed outD.optimisticÔ (4):A.mightB.willC.shouldD.mustÔ (5):A.althoughB.soC.unlessD.becauseÔ (6):A.mentalB.stressed outC.optimisticD.additional",
+      "questionId": "question-1950460-1",
+      "questionKey": "part 1 — language in functional textsquestions 1–6read the following advice text and choose the best answer to indicate the option that best fits each of the numbered blanks from 1 to 6. better evenings before test days a regular evening (1) [blank 1] can make the night before a test feel less difficult. the school counsellor recommends that if you want to get a good night's sleep, you (2) [blank 2] finish your most demanding study earlier in the evening. leaving all your revision until bedtime can make you feel (3) [blank 3] . if you sleep too little, there is a possibility that you (4) [blank 4] find it harder to concentrate the next morning. prepare your books and school things before you go to bed, (5) [blank 5] your morning will be less rushed. even if the test seems challenging, try to stay (6) [blank 6] and focus on what you have prepared.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.anxietyb.deadlinec.routined.distractionô (2):a.mightb.mustc.cand.shouldô (3):a.physicalb.well-balancedc.stressed outd.optimisticô (4):a.mightb.willc.shouldd.mustô (5):a.althoughb.soc.unlessd.becauseô (6):a.mentalb.stressed outc.optimisticd.additional",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "C. routine"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "D. should"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "C. stressed out"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "A. might"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "B. so"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "C. optimistic"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. counsellor",
+      "id": "question-1950460-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional textsquestions 7–12read the following student-support advice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. when schoolwork feels too much if several assignments are making you worried, a school (7) {#1} may be able to help you think more clearly about the problem. begin by writing down every (8) {#2} so you know when each task has to be completed. the counsellor recommends that if several important pieces of work fall in the same week, you (9) {#3} use a calendar to see how much time you have. do not (10) {#4} asking for help until the final day. your teacher's advice is simple: if the instructions for a task still seem confusing, you (11) {#5} ask for an explanation before you begin. planning and asking for support early can reduce (12) {#6} and help you feel more in control of your schoolwork.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following student-support advice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. WHEN SCHOOLWORK FEELS TOO MUCH If several assignments are making you worried, a school (7) [Blank 7] may be able to help you think more clearly about the problem. Begin by writing down every (8) [Blank 8] so you know when each task has to be completed. The counsellor recommends that if several important pieces of work fall in the same week, you (9) [Blank 9] use a calendar to see how much time you have. Do not (10) [Blank 10] asking for help until the final day. Your teacher's advice is simple: if the instructions for a task still seem confusing, you (11) [Blank 11] ask for an explanation before you begin. Planning and asking for support early can reduce (12) [Blank 12] and help you feel more in control of your schoolwork.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.distractionB.routineC.priorityD.counsellorÔ (8):A.due dateB.moodC.balanceD.supportÔ (9):A.shouldB.canC.mightD.mustÔ (10):A.accomplishB.manageC.balanceD.delayÔ (11):A.mustB.willC.shouldD.mightÔ (12):A.deadlineB.priorityC.anxietyD.routine",
+      "questionId": "question-1950460-2",
+      "questionKey": "part 1 — language in functional textsquestions 7–12read the following student-support advice and choose the best answer to indicate the option that best fits each of the numbered blanks from 7 to 12. when schoolwork feels too much if several assignments are making you worried, a school (7) [blank 7] may be able to help you think more clearly about the problem. begin by writing down every (8) [blank 8] so you know when each task has to be completed. the counsellor recommends that if several important pieces of work fall in the same week, you (9) [blank 9] use a calendar to see how much time you have. do not (10) [blank 10] asking for help until the final day. your teacher's advice is simple: if the instructions for a task still seem confusing, you (11) [blank 11] ask for an explanation before you begin. planning and asking for support early can reduce (12) [blank 12] and help you feel more in control of your schoolwork.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.distractionb.routinec.priorityd.counsellorô (8):a.due dateb.moodc.balanced.supportô (9):a.shouldb.canc.mightd.mustô (10):a.accomplishb.managec.balanced.delayô (11):a.mustb.willc.shouldd.mightô (12):a.deadlineb.priorityc.anxietyd.routine",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "D. counsellor"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A. due date"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A. should"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "D. delay"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "C. should"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "C. anxiety"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1950460-3",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 3,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 3,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 3,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. rehearsals and a group presentation tuan's class was preparing a geography presentation for friday. on tuesday, he also learned that rehearsals for the school play would continue later than usual on wednesday and thursday. he did not want to leave the play, but he also did not want his presentation group to rush everything at the last minute. (13) ______. at the lunchtime meeting, the four students divided the presentation into clear sections. (14) ______. the other members took responsibility for the introduction, research, and slide design. on wednesday, the group realised that designing the slides was taking much longer than expected. they still needed enough time to practise speaking. (15) ______. this gave them more time to prepare what they actually wanted to say. after thursday's rehearsal, tuan felt tired. he knew that staying up very late might make the next school day harder. (16) ______. the presentation went well on friday, and tuan was also able to take part in the play rehearsals. he realised that managing a busy week did not always mean giving up one activity completely. (17) ______.question 13.a. he decided to miss the rehearsal and prepare the whole presentation alone.b. he waited until thursday evening before mentioning the problem to his group.c. he explained the rehearsal change and suggested meeting at lunchtime on wednesday.d. he asked the group to give him only the easiest part of the presentation.write a, b, c, or d: {#1}question 14.a. tuan chose the map section because he could prepare it at home.b. tuan chose the introduction because he expected to finish it quickly.c. tuan agreed to design the slides as well as prepare his map section.d. tuan suggested that all four students work on every section together.write a, b, c, or d: {#2}question 15.a. they moved the presentation to the following week without asking their teacher.b. they added more pictures so that each student would have less to say.c. they agreed to spend thursday evening together finishing every slide.d. they simplified the slides and focused on the most important information.write a, b, c, or d: {#3}question 16.a. he decided to practise once more, even if it meant going to bed very late.b. he reviewed his speaking notes briefly, prepared his bag, and went to bed.c. he opened the slide file and spent the rest of the evening changing the design.d. he asked the group to meet online again so they could rehearse past midnight.write a, b, c, or d: {#4}question 17.a. he learned that extracurricular activities are manageable only when schoolwork is light.b. he decided that group members should always follow the same timetable.c. managing a busy week may require adjusting plans rather than dropping worthwhile activities.d. he concluded that busy weeks are easiest when students complete most tasks on their own.write a, b, c, or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. REHEARSALS AND A GROUP PRESENTATION Tuan's class was preparing a geography presentation for Friday. On Tuesday, he also learned that rehearsals for the school play would continue later than usual on Wednesday and Thursday. He did not want to leave the play, but he also did not want his presentation group to rush everything at the last minute. (13) ______. At the lunchtime meeting, the four students divided the presentation into clear sections. (14) ______. The other members took responsibility for the introduction, research, and slide design. On Wednesday, the group realised that designing the slides was taking much longer than expected. They still needed enough time to practise speaking. (15) ______. This gave them more time to prepare what they actually wanted to say. After Thursday's rehearsal, Tuan felt tired. He knew that staying up very late might make the next school day harder. (16) ______. The presentation went well on Friday, and Tuan was also able to take part in the play rehearsals. He realised that managing a busy week did not always mean giving up one activity completely. (17) ______.Question 13.A. He decided to miss the rehearsal and prepare the whole presentation alone.B. He waited until Thursday evening before mentioning the problem to his group.C. He explained the rehearsal change and suggested meeting at lunchtime on Wednesday.D. He asked the group to give him only the easiest part of the presentation.Write A, B, C, or D: {#1}Question 14.A. Tuan chose the map section because he could prepare it at home.B. Tuan chose the introduction because he expected to finish it quickly.C. Tuan agreed to design the slides as well as prepare his map section.D. Tuan suggested that all four students work on every section together.Write A, B, C, or D: {#2}Question 15.A. They moved the presentation to the following week without asking their teacher.B. They added more pictures so that each student would have less to say.C. They agreed to spend Thursday evening together finishing every slide.D. They simplified the slides and focused on the most important information.Write A, B, C, or D: {#3}Question 16.A. He decided to practise once more, even if it meant going to bed very late.B. He reviewed his speaking notes briefly, prepared his bag, and went to bed.C. He opened the slide file and spent the rest of the evening changing the design.D. He asked the group to meet online again so they could rehearse past midnight.Write A, B, C, or D: {#4}Question 17.A. He learned that extracurricular activities are manageable only when schoolwork is light.B. He decided that group members should always follow the same timetable.C. Managing a busy week may require adjusting plans rather than dropping worthwhile activities.D. He concluded that busy weeks are easiest when students complete most tasks on their own.Write A, B, C, or D: {#5}",
+      "questionId": "question-1950460-3",
+      "questionKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. rehearsals and a group presentation tuan's class was preparing a geography presentation for friday. on tuesday, he also learned that rehearsals for the school play would continue later than usual on wednesday and thursday. he did not want to leave the play, but he also did not want his presentation group to rush everything at the last minute. (13) ______. at the lunchtime meeting, the four students divided the presentation into clear sections. (14) ______. the other members took responsibility for the introduction, research, and slide design. on wednesday, the group realised that designing the slides was taking much longer than expected. they still needed enough time to practise speaking. (15) ______. this gave them more time to prepare what they actually wanted to say. after thursday's rehearsal, tuan felt tired. he knew that staying up very late might make the next school day harder. (16) ______. the presentation went well on friday, and tuan was also able to take part in the play rehearsals. he realised that managing a busy week did not always mean giving up one activity completely. (17) ______.question 13.a. he decided to miss the rehearsal and prepare the whole presentation alone.b. he waited until thursday evening before mentioning the problem to his group.c. he explained the rehearsal change and suggested meeting at lunchtime on wednesday.d. he asked the group to give him only the easiest part of the presentation.write a, b, c, or d: {#1}question 14.a. tuan chose the map section because he could prepare it at home.b. tuan chose the introduction because he expected to finish it quickly.c. tuan agreed to design the slides as well as prepare his map section.d. tuan suggested that all four students work on every section together.write a, b, c, or d: {#2}question 15.a. they moved the presentation to the following week without asking their teacher.b. they added more pictures so that each student would have less to say.c. they agreed to spend thursday evening together finishing every slide.d. they simplified the slides and focused on the most important information.write a, b, c, or d: {#3}question 16.a. he decided to practise once more, even if it meant going to bed very late.b. he reviewed his speaking notes briefly, prepared his bag, and went to bed.c. he opened the slide file and spent the rest of the evening changing the design.d. he asked the group to meet online again so they could rehearse past midnight.write a, b, c, or d: {#4}question 17.a. he learned that extracurricular activities are manageable only when schoolwork is light.b. he decided that group members should always follow the same timetable.c. managing a busy week may require adjusting plans rather than dropping worthwhile activities.d. he concluded that busy weeks are easiest when students complete most tasks on their own.write a, b, c, or d: {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1950460-4",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 4,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18.a. after a week, she noticed that she was less sleepy in the first lesson.b. lan often felt tired because she stayed up packing her bag and finishing small tasks.c. she began preparing her bag before dinner and moved her bedtime earlier.d. this change gave her a calmer end to the evening.a. b – d – c – ab. b – c – d – ac. c – b – d – ad. b – c – a – dwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18.a. After a week, she noticed that she was less sleepy in the first lesson.b. Lan often felt tired because she stayed up packing her bag and finishing small tasks.c. She began preparing her bag before dinner and moved her bedtime earlier.d. This change gave her a calmer end to the evening.A. b – d – c – aB. b – c – d – aC. c – b – d – aD. b – c – a – dWrite A, B, C, or D – {#1}",
+      "questionId": "question-1950460-4",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18.a. after a week, she noticed that she was less sleepy in the first lesson.b. lan often felt tired because she stayed up packing her bag and finishing small tasks.c. she began preparing her bag before dinner and moved her bedtime earlier.d. this change gave her a calmer end to the evening.a. b – d – c – ab. b – c – d – ac. c – b – d – ad. b – c – a – dwrite a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1950460-5",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19.a. the explanation showed him how to correct the first step.b. duy could not understand why his science answer was wrong.c. before asking for help, he wrote down the exact step he did not understand.d. he then showed the question to his teacher after class.a. c – b – d – ab. b – d – c – ac. b – c – a – dd. b – c – d – awrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19.a. The explanation showed him how to correct the first step.b. Duy could not understand why his science answer was wrong.c. Before asking for help, he wrote down the exact step he did not understand.d. He then showed the question to his teacher after class.A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "questionId": "question-1950460-5",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19.a. the explanation showed him how to correct the first step.b. duy could not understand why his science answer was wrong.c. before asking for help, he wrote down the exact step he did not understand.d. he then showed the question to his teacher after class.a. c – b – d – ab. b – d – c – ac. b – c – a – dd. b – c – d – awrite a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1950460-6",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20.a. i think a well-balanced week needs both study and free time.b. i try to finish my most important school tasks before relaxing.c. after that, i make time for football, music, or my family.d. this balance helps me return to schoolwork without feeling overloaded.a. a – b – c – db. b – a – c – dc. a – c – b – dd. a – b – d – cwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20.a. I think a well-balanced week needs both study and free time.b. I try to finish my most important school tasks before relaxing.c. After that, I make time for football, music, or my family.d. This balance helps me return to schoolwork without feeling overloaded.A. a – b – c – dB. b – a – c – dC. a – c – b – dD. a – b – d – cWrite A, B, C, or D – {#1}",
+      "questionId": "question-1950460-6",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20.a. i think a well-balanced week needs both study and free time.b. i try to finish my most important school tasks before relaxing.c. after that, i make time for football, music, or my family.d. this balance helps me return to schoolwork without feeling overloaded.a. a – b – c – db. b – a – c – dc. a – c – b – dd. a – b – d – cwrite a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1950460-7",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 7,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21.a. receptionist: it's in room 204, next to the library.b. student: excuse me. which room is the wellbeing talk in?c. receptionist: pardon? could you say that again?d. student: which room is the wellbeing talk in?a. c – b – d – ab. b – d – c – ac. b – c – d – ad. b – c – a – dwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21.a. Receptionist: It's in Room 204, next to the library.b. Student: Excuse me. Which room is the wellbeing talk in?c. Receptionist: Pardon? Could you say that again?d. Student: Which room is the wellbeing talk in?A. c – b – d – aB. b – d – c – aC. b – c – d – aD. b – c – a – dWrite A, B, C, or D – {#1}",
+      "questionId": "question-1950460-7",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21.a. receptionist: it's in room 204, next to the library.b. student: excuse me. which room is the wellbeing talk in?c. receptionist: pardon? could you say that again?d. student: which room is the wellbeing talk in?a. c – b – d – ab. b – d – c – ac. b – c – d – ad. b – c – a – dwrite a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1950460-8",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22.a. students will then practise one short relaxation technique they can use before a difficult task.b. the student support team is holding a \"calm before tests\" session on tuesday afternoon.c. the counsellor will first explain why short breaks can help when students feel tense.d. there will be time at the end for questions about school routines and exam stress.a. b – a – c – db. b – c – a – dc. c – b – a – dd. b – c – d – awrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22.a. Students will then practise one short relaxation technique they can use before a difficult task.b. The Student Support Team is holding a \"Calm Before Tests\" session on Tuesday afternoon.c. The counsellor will first explain why short breaks can help when students feel tense.d. There will be time at the end for questions about school routines and exam stress.A. b – a – c – dB. b – c – a – dC. c – b – a – dD. b – c – d – aWrite A, B, C, or D – {#1}",
+      "questionId": "question-1950460-8",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22.a. students will then practise one short relaxation technique they can use before a difficult task.b. the student support team is holding a \"calm before tests\" session on tuesday afternoon.c. the counsellor will first explain why short breaks can help when students feel tense.d. there will be time at the end for questions about school routines and exam stress.a. b – a – c – db. b – c – a – dc. c – b – a – dd. b – c – d – awrite a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
