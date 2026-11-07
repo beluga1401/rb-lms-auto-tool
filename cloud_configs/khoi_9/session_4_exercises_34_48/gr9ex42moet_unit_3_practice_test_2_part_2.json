@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR9EX42MOET UNIT 3 PRACTICE TEST 2 PART 2",
+    "quiz_key": "gr9ex42moet_unit_3_practice_test_2_part_2",
+    "cmid": "743726",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_4_exercises_34_48/gr9ex42moet_unit_3_practice_test_2_part_2.json",
+    "score": "18.00/18.00",
+    "score_pct": 100.0,
+    "question_count": 36,
+    "updated_at": "2026-11-07 20:42:24"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23.what is the main idea of the passage?a. nhi began waking much earlier so she could study before school.b. preparing the night before helped nhi make mornings less rushed.c. nhi improved her mornings mainly by sleeping much less.d. skipping breakfast helped nhi arrive at school before the bell.write a, b, c, or d – question 24.the word “rushed” in paragraph 1 is closest in meaning to ______.a. moving at a slow paceb. done in a hurryc. planned well in advanced. feeling completely restedwrite a, b, c, or d – question 25.according to paragraph 2, which change did nhi make before going to bed?a. she checked tomorrow's timetable and packed her school bag.b. she completed all homework before choosing clothes for school.c. she prepared a large breakfast for the whole family.d. she set her alarm one hour earlier than before.write a, b, c, or d – question 26.the phrase “this reminder” in paragraph 3 refers to ______.a. a note to check the next day's timetableb. the alarm that woke her fifteen minutes earlierc. the breakfast her family prepared before schoold. the pe clothes she had forgotten to packwrite a, b, c, or d – question 27.which of the following is not true according to the passage?a. nhi began getting up fifteen minutes earlier.b. nhi sometimes had a morning that did not go as planned.c. nhi started waking one full hour earlier every school day.d. nhi usually had more time to eat after changing her routine.write a, b, c, or d – question 28.which statement best paraphrases nhi's conclusion?a. students need major changes before a morning routine can improve.b. a useful routine can come from a few realistic changes.c. preparing at night removes every problem from the next morning.d. breakfast matters more than arriving at school on time.write a, b, c, or d – question 29.what is the main purpose of paragraph 3?a. to describe the food nhi preferred for breakfastb. to compare nhi's school timetable with her friend'sc. to show why nhi stopped preparing at nightd. to show a problem and how nhi respondedwrite a, b, c, or d – question 30.what can be inferred about nhi?a. nhi preferred a routine she could realistically maintain each day.b. nhi believed every morning should follow exactly the same plan.c. nhi depended on her family to organise all her school materials.d. nhi thought waking earlier was the only useful change.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23.What is the main idea of the passage?A. Nhi began waking much earlier so she could study before school.B. Preparing the night before helped Nhi make mornings less rushed.C. Nhi improved her mornings mainly by sleeping much less.D. Skipping breakfast helped Nhi arrive at school before the bell.Write A, B, C, or D – {#1}Question 24.The word “rushed” in paragraph 1 is closest in meaning to ______.A. moving at a slow paceB. done in a hurryC. planned well in advanceD. feeling completely restedWrite A, B, C, or D – {#2}Question 25.According to paragraph 2, which change did Nhi make before going to bed?A. She checked tomorrow's timetable and packed her school bag.B. She completed all homework before choosing clothes for school.C. She prepared a large breakfast for the whole family.D. She set her alarm one hour earlier than before.Write A, B, C, or D – {#3}Question 26.The phrase “This reminder” in paragraph 3 refers to ______.A. a note to check the next day's timetableB. the alarm that woke her fifteen minutes earlierC. the breakfast her family prepared before schoolD. the PE clothes she had forgotten to packWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Nhi began getting up fifteen minutes earlier.B. Nhi sometimes had a morning that did not go as planned.C. Nhi started waking one full hour earlier every school day.D. Nhi usually had more time to eat after changing her routine.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases Nhi's conclusion?A. Students need major changes before a morning routine can improve.B. A useful routine can come from a few realistic changes.C. Preparing at night removes every problem from the next morning.D. Breakfast matters more than arriving at school on time.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 3?A. To describe the food Nhi preferred for breakfastB. To compare Nhi's school timetable with her friend'sC. To show why Nhi stopped preparing at nightD. To show a problem and how Nhi respondedWrite A, B, C, or D – {#7}Question 30.What can be inferred about Nhi?A. Nhi preferred a routine she could realistically maintain each day.B. Nhi believed every morning should follow exactly the same plan.C. Nhi depended on her family to organise all her school materials.D. Nhi thought waking earlier was the only useful change.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23.What is the main idea of the passage?A. Nhi began waking much earlier so she could study before school.B. Preparing the night before helped Nhi make mornings less rushed.C. Nhi improved her mornings mainly by sleeping much less.D. Skipping breakfast helped Nhi arrive at school before the bell.Write A, B, C, or D – {#1}Question 24.The word “rushed” in paragraph 1 is closest in meaning to ______.A. moving at a slow paceB. done in a hurryC. planned well in advanceD. feeling completely restedWrite A, B, C, or D – {#2}Question 25.According to paragraph 2, which change did Nhi make before going to bed?A. She checked tomorrow's timetable and packed her school bag.B. She completed all homework before choosing clothes for school.C. She prepared a large breakfast for the whole family.D. She set her alarm one hour earlier than before.Write A, B, C, or D – {#3}Question 26.The phrase “This reminder” in paragraph 3 refers to ______.A. a note to check the next day's timetableB. the alarm that woke her fifteen minutes earlierC. the breakfast her family prepared before schoolD. the PE clothes she had forgotten to packWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Nhi began getting up fifteen minutes earlier.B. Nhi sometimes had a morning that did not go as planned.C. Nhi started waking one full hour earlier every school day.D. Nhi usually had more time to eat after changing her routine.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases Nhi's conclusion?A. Students need major changes before a morning routine can improve.B. A useful routine can come from a few realistic changes.C. Preparing at night removes every problem from the next morning.D. Breakfast matters more than arriving at school on time.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 3?A. To describe the food Nhi preferred for breakfastB. To compare Nhi's school timetable with her friend'sC. To show why Nhi stopped preparing at nightD. To show a problem and how Nhi respondedWrite A, B, C, or D – {#7}Question 30.What can be inferred about Nhi?A. Nhi preferred a routine she could realistically maintain each day.B. Nhi believed every morning should follow exactly the same plan.C. Nhi depended on her family to organise all her school materials.D. Nhi thought waking earlier was the only useful change.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31.the word “stuck” in paragraph 1 is closest in meaning to ______.a. ready to beginb. unable to continuec. pleased with progressd. working very quicklywrite a, b, c, or d – question 32.why did the counsellor change the original method?a. the helpers lacked enough knowledge about some school subjects.b. students avoided bringing difficult work to support sessions.c. the counsellor wanted support sessions to last much longer.d. some students became too dependent on receiving complete answers.write a, b, c, or d – question 33.the phrase “this approach” in paragraph 2 refers to ______.a. students explaining first and helpers offering questions or hintsb. helpers completing difficult work before each session beganc. students taking every unfinished task directly to a teacherd. pairs spending the whole session on one difficult questionwrite a, b, c, or d – question 34.which statement best paraphrases the counsellor's view in the final paragraph?a. students learn best when difficult work is completed for them.b. peer support works only if helpers know every correct answer.c. useful support should help students become more independent.d. support sessions should remove every difficulty from schoolwork.write a, b, c, or d – question 35.what can be inferred about the programme's view of difficult schoolwork?a. it expects every learner to finish all work during each session.b. it accepts that students may still face difficult work.c. it believes students should avoid asking teachers for help.d. it considers completed homework more important than learning.write a, b, c, or d – question 36.in which paragraph does the writer describe the ten-minute guideline?a. paragraph 1b. paragraph 2c. paragraph 3d. paragraph 4write a, b, c, or d – question 37.what is the main purpose of paragraph 3?a. to explain why the school created the support programmeb. to compare the subjects that students discussed in pairsc. to show why helpers wanted each session to be longerd. to describe a session problem and the adjustment madewrite a, b, c, or d – question 38.which of the following is not supported by the passage?a. helpers were expected to solve every difficult task for learners.b. students first explained what they already understood about a task.c. pairs could move on after spending too long on one problem.d. helpers sometimes used questions instead of giving direct answers.write a, b, c, or d – question 39.which of the following best summarises the passage?a. the programme ended because students still found some schoolwork difficult.b. helpers became responsible for completing unfinished work for other students.c. the programme changed its methods so support built greater independence.d. the school replaced teacher support with a student-run homework service.write a, b, c, or d – question 40.which of the following is the best title for the passage?a. why homework feels difficultb. help that builds independencec. the fastest way to finish workd. students who never need teacherswrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31.The word “stuck” in paragraph 1 is closest in meaning to ______.A. ready to beginB. unable to continueC. pleased with progressD. working very quicklyWrite A, B, C, or D – {#1}Question 32.Why did the counsellor change the original method?A. The helpers lacked enough knowledge about some school subjects.B. Students avoided bringing difficult work to support sessions.C. The counsellor wanted support sessions to last much longer.D. Some students became too dependent on receiving complete answers.Write A, B, C, or D – {#2}Question 33.The phrase “This approach” in paragraph 2 refers to ______.A. students explaining first and helpers offering questions or hintsB. helpers completing difficult work before each session beganC. students taking every unfinished task directly to a teacherD. pairs spending the whole session on one difficult questionWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the counsellor's view in the final paragraph?A. Students learn best when difficult work is completed for them.B. Peer support works only if helpers know every correct answer.C. Useful support should help students become more independent.D. Support sessions should remove every difficulty from schoolwork.Write A, B, C, or D – {#4}Question 35.What can be inferred about the programme's view of difficult schoolwork?A. It expects every learner to finish all work during each session.B. It accepts that students may still face difficult work.C. It believes students should avoid asking teachers for help.D. It considers completed homework more important than learning.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer describe the ten-minute guideline?A. Paragraph 1B. Paragraph 2C. Paragraph 3D. Paragraph 4Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 3?A. To explain why the school created the support programmeB. To compare the subjects that students discussed in pairsC. To show why helpers wanted each session to be longerD. To describe a session problem and the adjustment madeWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Helpers were expected to solve every difficult task for learners.B. Students first explained what they already understood about a task.C. Pairs could move on after spending too long on one problem.D. Helpers sometimes used questions instead of giving direct answers.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. The programme ended because students still found some schoolwork difficult.B. Helpers became responsible for completing unfinished work for other students.C. The programme changed its methods so support built greater independence.D. The school replaced teacher support with a student-run homework service.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Homework Feels DifficultB. Help That Builds IndependenceC. The Fastest Way to Finish WorkD. Students Who Never Need TeachersWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        },
+        {
+          "index": 8,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31.The word “stuck” in paragraph 1 is closest in meaning to ______.A. ready to beginB. unable to continueC. pleased with progressD. working very quicklyWrite A, B, C, or D – {#1}Question 32.Why did the counsellor change the original method?A. The helpers lacked enough knowledge about some school subjects.B. Students avoided bringing difficult work to support sessions.C. The counsellor wanted support sessions to last much longer.D. Some students became too dependent on receiving complete answers.Write A, B, C, or D – {#2}Question 33.The phrase “This approach” in paragraph 2 refers to ______.A. students explaining first and helpers offering questions or hintsB. helpers completing difficult work before each session beganC. students taking every unfinished task directly to a teacherD. pairs spending the whole session on one difficult questionWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the counsellor's view in the final paragraph?A. Students learn best when difficult work is completed for them.B. Peer support works only if helpers know every correct answer.C. Useful support should help students become more independent.D. Support sessions should remove every difficulty from schoolwork.Write A, B, C, or D – {#4}Question 35.What can be inferred about the programme's view of difficult schoolwork?A. It expects every learner to finish all work during each session.B. It accepts that students may still face difficult work.C. It believes students should avoid asking teachers for help.D. It considers completed homework more important than learning.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer describe the ten-minute guideline?A. Paragraph 1B. Paragraph 2C. Paragraph 3D. Paragraph 4Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 3?A. To explain why the school created the support programmeB. To compare the subjects that students discussed in pairsC. To show why helpers wanted each session to be longerD. To describe a session problem and the adjustment madeWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Helpers were expected to solve every difficult task for learners.B. Students first explained what they already understood about a task.C. Pairs could move on after spending too long on one problem.D. Helpers sometimes used questions instead of giving direct answers.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. The programme ended because students still found some schoolwork difficult.B. Helpers became responsible for completing unfinished work for other students.C. The programme changed its methods so support built greater independence.D. The school replaced teacher support with a student-run homework service.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Homework Feels DifficultB. Help That Builds IndependenceC. The Fastest Way to Finish WorkD. Students Who Never Need TeachersWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B",
+      "id": "question-1950467-1",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "C"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "questionNumber": 1,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23.what is the main idea of the passage?a. nhi began waking much earlier so she could study before school.b. preparing the night before helped nhi make mornings less rushed.c. nhi improved her mornings mainly by sleeping much less.d. skipping breakfast helped nhi arrive at school before the bell.write a, b, c, or d – {#1}question 24.the word \"rushed\" in paragraph 1 is closest in meaning to ______.a. moving at a slow paceb. done in a hurryc. planned well in advanced. feeling completely restedwrite a, b, c, or d – {#2}question 25.according to paragraph 2, which change did nhi make before going to bed?a. she checked tomorrow's timetable and packed her school bag.b. she completed all homework before choosing clothes for school.c. she prepared a large breakfast for the whole family.d. she set her alarm one hour earlier than before.write a, b, c, or d – {#3}question 26.the phrase \"this reminder\" in paragraph 3 refers to ______.a. a note to check the next day's timetableb. the alarm that woke her fifteen minutes earlierc. the breakfast her family prepared before schoold. the pe clothes she had forgotten to packwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. nhi began getting up fifteen minutes earlier.b. nhi sometimes had a morning that did not go as planned.c. nhi started waking one full hour earlier every school day.d. nhi usually had more time to eat after changing her routine.write a, b, c, or d – {#5}question 28.which statement best paraphrases nhi's conclusion?a. students need major changes before a morning routine can improve.b. a useful routine can come from a few realistic changes.c. preparing at night removes every problem from the next morning.d. breakfast matters more than arriving at school on time.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 3?a. to describe the food nhi preferred for breakfastb. to compare nhi's school timetable with her friend'sc. to show why nhi stopped preparing at nightd. to show a problem and how nhi respondedwrite a, b, c, or d – {#7}question 30.what can be inferred about nhi?a. nhi preferred a routine she could realistically maintain each day.b. nhi believed every morning should follow exactly the same plan.c. nhi depended on her family to organise all her school materials.d. nhi thought waking earlier was the only useful change.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23.What is the main idea of the passage?A. Nhi began waking much earlier so she could study before school.B. Preparing the night before helped Nhi make mornings less rushed.C. Nhi improved her mornings mainly by sleeping much less.D. Skipping breakfast helped Nhi arrive at school before the bell.Write A, B, C, or D – {#1}Question 24.The word \"rushed\" in paragraph 1 is closest in meaning to ______.A. moving at a slow paceB. done in a hurryC. planned well in advanceD. feeling completely restedWrite A, B, C, or D – {#2}Question 25.According to paragraph 2, which change did Nhi make before going to bed?A. She checked tomorrow's timetable and packed her school bag.B. She completed all homework before choosing clothes for school.C. She prepared a large breakfast for the whole family.D. She set her alarm one hour earlier than before.Write A, B, C, or D – {#3}Question 26.The phrase \"This reminder\" in paragraph 3 refers to ______.A. a note to check the next day's timetableB. the alarm that woke her fifteen minutes earlierC. the breakfast her family prepared before schoolD. the PE clothes she had forgotten to packWrite A, B, C, or D – {#4}Question 27.Which of the following is NOT TRUE according to the passage?A. Nhi began getting up fifteen minutes earlier.B. Nhi sometimes had a morning that did not go as planned.C. Nhi started waking one full hour earlier every school day.D. Nhi usually had more time to eat after changing her routine.Write A, B, C, or D – {#5}Question 28.Which statement best paraphrases Nhi's conclusion?A. Students need major changes before a morning routine can improve.B. A useful routine can come from a few realistic changes.C. Preparing at night removes every problem from the next morning.D. Breakfast matters more than arriving at school on time.Write A, B, C, or D – {#6}Question 29.What is the main purpose of paragraph 3?A. To describe the food Nhi preferred for breakfastB. To compare Nhi's school timetable with her friend'sC. To show why Nhi stopped preparing at nightD. To show a problem and how Nhi respondedWrite A, B, C, or D – {#7}Question 30.What can be inferred about Nhi?A. Nhi preferred a routine she could realistically maintain each day.B. Nhi believed every morning should follow exactly the same plan.C. Nhi depended on her family to organise all her school materials.D. Nhi thought waking earlier was the only useful change.Write A, B, C, or D – {#8}",
+      "questionId": "question-1950467-1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23.what is the main idea of the passage?a. nhi began waking much earlier so she could study before school.b. preparing the night before helped nhi make mornings less rushed.c. nhi improved her mornings mainly by sleeping much less.d. skipping breakfast helped nhi arrive at school before the bell.write a, b, c, or d – {#1}question 24.the word \"rushed\" in paragraph 1 is closest in meaning to ______.a. moving at a slow paceb. done in a hurryc. planned well in advanced. feeling completely restedwrite a, b, c, or d – {#2}question 25.according to paragraph 2, which change did nhi make before going to bed?a. she checked tomorrow's timetable and packed her school bag.b. she completed all homework before choosing clothes for school.c. she prepared a large breakfast for the whole family.d. she set her alarm one hour earlier than before.write a, b, c, or d – {#3}question 26.the phrase \"this reminder\" in paragraph 3 refers to ______.a. a note to check the next day's timetableb. the alarm that woke her fifteen minutes earlierc. the breakfast her family prepared before schoold. the pe clothes she had forgotten to packwrite a, b, c, or d – {#4}question 27.which of the following is not true according to the passage?a. nhi began getting up fifteen minutes earlier.b. nhi sometimes had a morning that did not go as planned.c. nhi started waking one full hour earlier every school day.d. nhi usually had more time to eat after changing her routine.write a, b, c, or d – {#5}question 28.which statement best paraphrases nhi's conclusion?a. students need major changes before a morning routine can improve.b. a useful routine can come from a few realistic changes.c. preparing at night removes every problem from the next morning.d. breakfast matters more than arriving at school on time.write a, b, c, or d – {#6}question 29.what is the main purpose of paragraph 3?a. to describe the food nhi preferred for breakfastb. to compare nhi's school timetable with her friend'sc. to show why nhi stopped preparing at nightd. to show a problem and how nhi respondedwrite a, b, c, or d – {#7}question 30.what can be inferred about nhi?a. nhi preferred a routine she could realistically maintain each day.b. nhi believed every morning should follow exactly the same plan.c. nhi depended on her family to organise all her school materials.d. nhi thought waking earlier was the only useful change.write a, b, c, or d – {#8}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1950467-2",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "questionNumber": 2,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 8,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "questionNumber": 2,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31.the word \"stuck\" in paragraph 1 is closest in meaning to ______.a. ready to beginb. unable to continuec. pleased with progressd. working very quicklywrite a, b, c, or d – {#1}question 32.why did the counsellor change the original method?a. the helpers lacked enough knowledge about some school subjects.b. students avoided bringing difficult work to support sessions.c. the counsellor wanted support sessions to last much longer.d. some students became too dependent on receiving complete answers.write a, b, c, or d – {#2}question 33.the phrase \"this approach\" in paragraph 2 refers to ______.a. students explaining first and helpers offering questions or hintsb. helpers completing difficult work before each session beganc. students taking every unfinished task directly to a teacherd. pairs spending the whole session on one difficult questionwrite a, b, c, or d – {#3}question 34.which statement best paraphrases the counsellor's view in the final paragraph?a. students learn best when difficult work is completed for them.b. peer support works only if helpers know every correct answer.c. useful support should help students become more independent.d. support sessions should remove every difficulty from schoolwork.write a, b, c, or d – {#4}question 35.what can be inferred about the programme's view of difficult schoolwork?a. it expects every learner to finish all work during each session.b. it accepts that students may still face difficult work.c. it believes students should avoid asking teachers for help.d. it considers completed homework more important than learning.write a, b, c, or d – {#5}question 36.in which paragraph does the writer describe the ten-minute guideline?a. paragraph 1b. paragraph 2c. paragraph 3d. paragraph 4write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 3?a. to explain why the school created the support programmeb. to compare the subjects that students discussed in pairsc. to show why helpers wanted each session to be longerd. to describe a session problem and the adjustment madewrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. helpers were expected to solve every difficult task for learners.b. students first explained what they already understood about a task.c. pairs could move on after spending too long on one problem.d. helpers sometimes used questions instead of giving direct answers.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. the programme ended because students still found some schoolwork difficult.b. helpers became responsible for completing unfinished work for other students.c. the programme changed its methods so support built greater independence.d. the school replaced teacher support with a student-run homework service.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. why homework feels difficultb. help that builds independencec. the fastest way to finish workd. students who never need teacherswrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31.The word \"stuck\" in paragraph 1 is closest in meaning to ______.A. ready to beginB. unable to continueC. pleased with progressD. working very quicklyWrite A, B, C, or D – {#1}Question 32.Why did the counsellor change the original method?A. The helpers lacked enough knowledge about some school subjects.B. Students avoided bringing difficult work to support sessions.C. The counsellor wanted support sessions to last much longer.D. Some students became too dependent on receiving complete answers.Write A, B, C, or D – {#2}Question 33.The phrase \"This approach\" in paragraph 2 refers to ______.A. students explaining first and helpers offering questions or hintsB. helpers completing difficult work before each session beganC. students taking every unfinished task directly to a teacherD. pairs spending the whole session on one difficult questionWrite A, B, C, or D – {#3}Question 34.Which statement best paraphrases the counsellor's view in the final paragraph?A. Students learn best when difficult work is completed for them.B. Peer support works only if helpers know every correct answer.C. Useful support should help students become more independent.D. Support sessions should remove every difficulty from schoolwork.Write A, B, C, or D – {#4}Question 35.What can be inferred about the programme's view of difficult schoolwork?A. It expects every learner to finish all work during each session.B. It accepts that students may still face difficult work.C. It believes students should avoid asking teachers for help.D. It considers completed homework more important than learning.Write A, B, C, or D – {#5}Question 36.In which paragraph does the writer describe the ten-minute guideline?A. Paragraph 1B. Paragraph 2C. Paragraph 3D. Paragraph 4Write A, B, C, or D – {#6}Question 37.What is the main purpose of paragraph 3?A. To explain why the school created the support programmeB. To compare the subjects that students discussed in pairsC. To show why helpers wanted each session to be longerD. To describe a session problem and the adjustment madeWrite A, B, C, or D – {#7}Question 38.Which of the following is NOT supported by the passage?A. Helpers were expected to solve every difficult task for learners.B. Students first explained what they already understood about a task.C. Pairs could move on after spending too long on one problem.D. Helpers sometimes used questions instead of giving direct answers.Write A, B, C, or D – {#8}Question 39.Which of the following best summarises the passage?A. The programme ended because students still found some schoolwork difficult.B. Helpers became responsible for completing unfinished work for other students.C. The programme changed its methods so support built greater independence.D. The school replaced teacher support with a student-run homework service.Write A, B, C, or D – {#9}Question 40.Which of the following is the best title for the passage?A. Why Homework Feels DifficultB. Help That Builds IndependenceC. The Fastest Way to Finish WorkD. Students Who Never Need TeachersWrite A, B, C, or D – {#10}",
+      "questionId": "question-1950467-2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31.the word \"stuck\" in paragraph 1 is closest in meaning to ______.a. ready to beginb. unable to continuec. pleased with progressd. working very quicklywrite a, b, c, or d – {#1}question 32.why did the counsellor change the original method?a. the helpers lacked enough knowledge about some school subjects.b. students avoided bringing difficult work to support sessions.c. the counsellor wanted support sessions to last much longer.d. some students became too dependent on receiving complete answers.write a, b, c, or d – {#2}question 33.the phrase \"this approach\" in paragraph 2 refers to ______.a. students explaining first and helpers offering questions or hintsb. helpers completing difficult work before each session beganc. students taking every unfinished task directly to a teacherd. pairs spending the whole session on one difficult questionwrite a, b, c, or d – {#3}question 34.which statement best paraphrases the counsellor's view in the final paragraph?a. students learn best when difficult work is completed for them.b. peer support works only if helpers know every correct answer.c. useful support should help students become more independent.d. support sessions should remove every difficulty from schoolwork.write a, b, c, or d – {#4}question 35.what can be inferred about the programme's view of difficult schoolwork?a. it expects every learner to finish all work during each session.b. it accepts that students may still face difficult work.c. it believes students should avoid asking teachers for help.d. it considers completed homework more important than learning.write a, b, c, or d – {#5}question 36.in which paragraph does the writer describe the ten-minute guideline?a. paragraph 1b. paragraph 2c. paragraph 3d. paragraph 4write a, b, c, or d – {#6}question 37.what is the main purpose of paragraph 3?a. to explain why the school created the support programmeb. to compare the subjects that students discussed in pairsc. to show why helpers wanted each session to be longerd. to describe a session problem and the adjustment madewrite a, b, c, or d – {#7}question 38.which of the following is not supported by the passage?a. helpers were expected to solve every difficult task for learners.b. students first explained what they already understood about a task.c. pairs could move on after spending too long on one problem.d. helpers sometimes used questions instead of giving direct answers.write a, b, c, or d – {#8}question 39.which of the following best summarises the passage?a. the programme ended because students still found some schoolwork difficult.b. helpers became responsible for completing unfinished work for other students.c. the programme changed its methods so support built greater independence.d. the school replaced teacher support with a student-run homework service.write a, b, c, or d – {#9}question 40.which of the following is the best title for the passage?a. why homework feels difficultb. help that builds independencec. the fastest way to finish workd. students who never need teacherswrite a, b, c, or d – {#10}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
