@@ -1,7 +1,7 @@
 {
   "version": "4.9.3",
-  "updated_at": "2026-11-07T13:42:28Z",
-  "total_questions": 27,
+  "updated_at": "2026-11-07T13:44:08Z",
+  "total_questions": 45,
   "questions": {
     "which animal is a pet": {
       "question": "Which animal is a pet?",
@@ -905,6 +905,498 @@
       "verified_100": true,
       "source": "review_scrape",
       "updated_at": "2026-11-07T13:42:27Z"
+    },
+    "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 3 the communal house reopened several months later it is now recognised 4 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 6 some parts of the structure are very old": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. VISIT PHUONG NAM COMMUNAL HOUSE Phuong Nam Communal House is one of the oldest cultural (1) {#1} in our district. Local people built it more than 250 years ago as a place for community meetings and traditional celebrations. When a serious storm damaged part of the roof ten years ago, local builders (2) {#2} on a nearby project. They stopped their work and came to protect the building from further damage. Thanks to their valuable (3) {#3}, the communal house reopened several months later. It is now recognised (4) {#4} an important historic site. Visitors can explore the main hall, view old objects, and learn about local customs. We wish more young people (5) {#5} interested in the history of the building and helped keep its traditions alive. Please follow the guide’s instructions, (6) {#6} some parts of the structure are very old.",
+      "clean_stem": "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 3 the communal house reopened several months later it is now recognised 4 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 6 some parts of the structure are very old",
+      "stem_key": "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 3 the communal house reopened several months later it is now recognised 4 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 6 some parts of the structure are very old",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "structures"
+        },
+        {
+          "index": 1,
+          "value": "were working"
+        },
+        {
+          "index": 2,
+          "value": "contribution"
+        },
+        {
+          "index": 3,
+          "value": "as"
+        },
+        {
+          "index": 4,
+          "value": "were"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 the communal house reopened several months later it is now recognised 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 some parts of the structure are very old": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. VISIT PHUONG NAM COMMUNAL HOUSE Phuong Nam Communal House is one of the oldest cultural (1) {#1} in our district. Local people built it more than 250 years ago as a place for community meetings and traditional celebrations. When a serious storm damaged part of the roof ten years ago, local builders (2) {#2} on a nearby project. They stopped their work and came to protect the building from further damage. Thanks to their valuable (3) {#3}, the communal house reopened several months later. It is now recognised (4) {#4} an important historic site. Visitors can explore the main hall, view old objects, and learn about local customs. We wish more young people (5) {#5} interested in the history of the building and helped keep its traditions alive. Please follow the guide’s instructions, (6) {#6} some parts of the structure are very old.",
+      "clean_stem": "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 3 the communal house reopened several months later it is now recognised 4 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 6 some parts of the structure are very old",
+      "stem_key": "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 3 the communal house reopened several months later it is now recognised 4 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 6 some parts of the structure are very old",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "structures"
+        },
+        {
+          "index": 1,
+          "value": "were working"
+        },
+        {
+          "index": 2,
+          "value": "contribution"
+        },
+        {
+          "index": 3,
+          "value": "as"
+        },
+        {
+          "index": 4,
+          "value": "were"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 1 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 2 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 3 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 4 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 5 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 6 future generations": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. OLD SCHOOL DAYS EXHIBITION Next month, our school history club will hold an exhibition called Old School Days. The event will help students discover how children studied and spent their free time several (7) {#1} ago. We are asking parents and grandparents to lend us old schoolbooks, photographs, uniforms, and other objects. If you have an old photograph, please tell us what the people in it (8) {#2} when the photograph was taken. Mr Long, a former student, will speak about his school days. He remembers that children often walked barefoot and played (9) {#3} games during their breaks. At first, Mr Long was nervous about speaking to a large audience. He said, “I wish I (10) {#4} more confident.” However, he has now agreed to share his memories. After the talk, students can thank the guests (11) {#5} contributing their stories and objects. We hope the exhibition will encourage everyone to preserve these memories (12) {#6} future generations.",
+      "clean_stem": "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 1 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 2 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 3 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 4 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 5 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 6 future generations",
+      "stem_key": "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 1 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 2 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 3 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 4 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 5 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 6 future generations",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "generations"
+        },
+        {
+          "index": 1,
+          "value": "were doing"
+        },
+        {
+          "index": 2,
+          "value": "traditional"
+        },
+        {
+          "index": 3,
+          "value": "were"
+        },
+        {
+          "index": 4,
+          "value": "for"
+        },
+        {
+          "index": 5,
+          "value": "for"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 future generations": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. OLD SCHOOL DAYS EXHIBITION Next month, our school history club will hold an exhibition called Old School Days. The event will help students discover how children studied and spent their free time several (7) {#1} ago. We are asking parents and grandparents to lend us old schoolbooks, photographs, uniforms, and other objects. If you have an old photograph, please tell us what the people in it (8) {#2} when the photograph was taken. Mr Long, a former student, will speak about his school days. He remembers that children often walked barefoot and played (9) {#3} games during their breaks. At first, Mr Long was nervous about speaking to a large audience. He said, “I wish I (10) {#4} more confident.” However, he has now agreed to share his memories. After the talk, students can thank the guests (11) {#5} contributing their stories and objects. We hope the exhibition will encourage everyone to preserve these memories (12) {#6} future generations.",
+      "clean_stem": "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 1 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 2 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 3 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 4 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 5 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 6 future generations",
+      "stem_key": "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 1 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 2 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 3 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 4 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 5 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 6 future generations",
+      "answer": "",
+      "letter": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "generations"
+        },
+        {
+          "index": 1,
+          "value": "were doing"
+        },
+        {
+          "index": 2,
+          "value": "traditional"
+        },
+        {
+          "index": 3,
+          "value": "were"
+        },
+        {
+          "index": 4,
+          "value": "for"
+        },
+        {
+          "index": 5,
+          "value": "for"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 grandma s mid autumn lanterns when mrs hoa was a child her family made paper lanterns for the mid autumn festival every year her father cut thin pieces of bamboo while her mother prepared coloured paper 13 the children carried the finished lanterns around the village on the night of the festival after mrs hoa moved to the city she continued the tradition with her own children at first they found the work difficult because they had never used bamboo in this way 14 after several attempts each child was able to make a simple star shaped lantern as the children grew older they became busy with their studies the family began buying plastic lanterns instead and the paper lantern tradition gradually stopped 15 several years later mrs hoa s oldest daughter had a child of her own she asked her mother to show her how to make the lanterns again 16 soon three generations of the family were working together around the same table the new lanterns were not perfect but they had a special meaning for the family mrs hoa s grandchildren now look forward to making them every year 17 question 13a the family usually bought all their lanterns from a shop near the village b her parents kept the bamboo in a locked room until the festival ended c mrs hoa and her brothers helped attach the paper to the bamboo frames d the children preferred playing indoors instead of joining the celebration write a b c or d 1 question 14a mrs hoa showed them each step and allowed them to practise slowly b the children decided that paper lanterns were no longer worth making c her neighbours asked the family to use plastic instead of coloured paper d mrs hoa completed every lantern herself and did not let the children help write a b c or d 2 question 15a the children sold their old schoolbooks to buy more bamboo b the family began celebrating a completely different festival c mrs hoa opened a shop that sold lanterns throughout the year d mrs hoa worried that her grandchildren might never learn how to make one write a b c or d 3 question 16a the family realised that the festival had already ended several weeks earlier b mrs hoa brought out her old tools and began explaining the process c the children chose to watch television while mrs hoa worked alone d her daughter bought several factory made lanterns for the lesson write a b c or d 4 question 17a they believe plastic lanterns should replace all handmade ones b the family now avoids talking about how festivals were celebrated in the past c by passing down the skill the family has brought an old tradition back to life d mrs hoa s grandchildren think the lanterns have no connection with their family write a b c or d 5": {
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. GRANDMA’S MID-AUTUMN LANTERNS When Mrs Hoa was a child, her family made paper lanterns for the Mid-Autumn Festival every year. Her father cut thin pieces of bamboo, while her mother prepared coloured paper. (13) ______. The children carried the finished lanterns around the village on the night of the festival. After Mrs Hoa moved to the city, she continued the tradition with her own children. At first, they found the work difficult because they had never used bamboo in this way. (14) ______. After several attempts, each child was able to make a simple star-shaped lantern. As the children grew older, they became busy with their studies. The family began buying plastic lanterns instead, and the paper-lantern tradition gradually stopped. (15) ______. Several years later, Mrs Hoa’s oldest daughter had a child of her own. She asked her mother to show her how to make the lanterns again. (16) ______. Soon, three generations of the family were working together around the same table. The new lanterns were not perfect, but they had a special meaning for the family. Mrs Hoa’s grandchildren now look forward to making them every year. (17) ______.Question 13A. The family usually bought all their lanterns from a shop near the village.B. Her parents kept the bamboo in a locked room until the festival ended.C. Mrs Hoa and her brothers helped attach the paper to the bamboo frames.D. The children preferred playing indoors instead of joining the celebration.Write A, B, C, or D – {#1}Question 14A. Mrs Hoa showed them each step and allowed them to practise slowly.B. The children decided that paper lanterns were no longer worth making.C. Her neighbours asked the family to use plastic instead of coloured paper.D. Mrs Hoa completed every lantern herself and did not let the children help.Write A, B, C, or D – {#2}Question 15A. The children sold their old schoolbooks to buy more bamboo.B. The family began celebrating a completely different festival.C. Mrs Hoa opened a shop that sold lanterns throughout the year.D. Mrs Hoa worried that her grandchildren might never learn how to make one.Write A, B, C, or D – {#3}Question 16A. The family realised that the festival had already ended several weeks earlier.B. Mrs Hoa brought out her old tools and began explaining the process.C. The children chose to watch television while Mrs Hoa worked alone.D. Her daughter bought several factory-made lanterns for the lesson.Write A, B, C, or D – {#4}Question 17A. They believe plastic lanterns should replace all handmade ones.B. The family now avoids talking about how festivals were celebrated in the past.C. By passing down the skill, the family has brought an old tradition back to life.D. Mrs Hoa’s grandchildren think the lanterns have no connection with their family.Write A, B, C, or D – {#5}",
+      "clean_stem": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 grandma s mid autumn lanterns when mrs hoa was a child her family made paper lanterns for the mid autumn festival every year her father cut thin pieces of bamboo while her mother prepared coloured paper 13 the children carried the finished lanterns around the village on the night of the festival after mrs hoa moved to the city she continued the tradition with her own children at first they found the work difficult because they had never used bamboo in this way 14 after several attempts each child was able to make a simple star shaped lantern as the children grew older they became busy with their studies the family began buying plastic lanterns instead and the paper lantern tradition gradually stopped 15 several years later mrs hoa s oldest daughter had a child of her own she asked her mother to show her how to make the lanterns again 16 soon three generations of the family were working together around the same table the new lanterns were not perfect but they had a special meaning for the family mrs hoa s grandchildren now look forward to making them every year 17 question 13a the family usually bought all their lanterns from a shop near the village b her parents kept the bamboo in a locked room until the festival ended c mrs hoa and her brothers helped attach the paper to the bamboo frames d the children preferred playing indoors instead of joining the celebration write a b c or d 1 question 14a mrs hoa showed them each step and allowed them to practise slowly b the children decided that paper lanterns were no longer worth making c her neighbours asked the family to use plastic instead of coloured paper d mrs hoa completed every lantern herself and did not let the children help write a b c or d 2 question 15a the children sold their old schoolbooks to buy more bamboo b the family began celebrating a completely different festival c mrs hoa opened a shop that sold lanterns throughout the year d mrs hoa worried that her grandchildren might never learn how to make one write a b c or d 3 question 16a the family realised that the festival had already ended several weeks earlier b mrs hoa brought out her old tools and began explaining the process c the children chose to watch television while mrs hoa worked alone d her daughter bought several factory made lanterns for the lesson write a b c or d 4 question 17a they believe plastic lanterns should replace all handmade ones b the family now avoids talking about how festivals were celebrated in the past c by passing down the skill the family has brought an old tradition back to life d mrs hoa s grandchildren think the lanterns have no connection with their family write a b c or d 5",
+      "stem_key": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 grandma s mid autumn lanterns when mrs hoa was a child her family made paper lanterns for the mid autumn festival every year her father cut thin pieces of bamboo while her mother prepared coloured paper 13 the children carried the finished lanterns around the village on the night of the festival after mrs hoa moved to the city she continued the tradition with her own children at first they found the work difficult because they had never used bamboo in this way 14 after several attempts each child was able to make a simple star shaped lantern as the children grew older they became busy with their studies the family began buying plastic lanterns instead and the paper lantern tradition gradually stopped 15 several years later mrs hoa s oldest daughter had a child of her own she asked her mother to show her how to make the lanterns again 16 soon three generations of the family were working together around the same table the new lanterns were not perfect but they had a special meaning for the family mrs hoa s grandchildren now look forward to making them every year 17 question 13a the family usually bought all their lanterns from a shop near the village b her parents kept the bamboo in a locked room until the festival ended c mrs hoa and her brothers helped attach the paper to the bamboo frames d the children preferred playing indoors instead of joining the celebration write a b c or d 1 question 14a mrs hoa showed them each step and allowed them to practise slowly b the children decided that paper lanterns were no longer worth making c her neighbours asked the family to use plastic instead of coloured paper d mrs hoa completed every lantern herself and did not let the children help write a b c or d 2 question 15a the children sold their old schoolbooks to buy more bamboo b the family began celebrating a completely different festival c mrs hoa opened a shop that sold lanterns throughout the year d mrs hoa worried that her grandchildren might never learn how to make one write a b c or d 3 question 16a the family realised that the festival had already ended several weeks earlier b mrs hoa brought out her old tools and began explaining the process c the children chose to watch television while mrs hoa worked alone d her daughter bought several factory made lanterns for the lesson write a b c or d 4 question 17a they believe plastic lanterns should replace all handmade ones b the family now avoids talking about how festivals were celebrated in the past c by passing down the skill the family has brought an old tradition back to life d mrs hoa s grandchildren think the lanterns have no connection with their family write a b c or d 5",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 grandma s mid autumn lanterns when mrs hoa was a child her family made paper lanterns for the mid autumn festival every year her father cut thin pieces of bamboo while her mother prepared coloured paper 13 the children carried the finished lanterns around the village on the night of the festival after mrs hoa moved to the city she continued the tradition with her own children at first they found the work difficult because they had never used bamboo in this way 14 after several attempts each child was able to make a simple star shaped lantern as the children grew older they became busy with their studies the family began buying plastic lanterns instead and the paper lantern tradition gradually stopped 15 several years later mrs hoa s oldest daughter had a child of her own she asked her mother to show her how to make the lanterns again 16 soon three generations of the family were working together around the same table the new lanterns were not perfect but they had a special meaning for the family mrs hoa s grandchildren now look forward to making them every year 17 question 13a the family usually bought all their lanterns from a shop near the village b her parents kept the bamboo in a locked room until the festival ended c mrs hoa and her brothers helped attach the paper to the bamboo frames d the children preferred playing indoors instead of joining the celebration write a b c or d question 14a mrs hoa showed them each step and allowed them to practise slowly b the children decided that paper lanterns were no longer worth making c her neighbours asked the family to use plastic instead of coloured paper d mrs hoa completed every lantern herself and did not let the children help write a b c or d question 15a the children sold their old schoolbooks to buy more bamboo b the family began celebrating a completely different festival c mrs hoa opened a shop that sold lanterns throughout the year d mrs hoa worried that her grandchildren might never learn how to make one write a b c or d question 16a the family realised that the festival had already ended several weeks earlier b mrs hoa brought out her old tools and began explaining the process c the children chose to watch television while mrs hoa worked alone d her daughter bought several factory made lanterns for the lesson write a b c or d question 17a they believe plastic lanterns should replace all handmade ones b the family now avoids talking about how festivals were celebrated in the past c by passing down the skill the family has brought an old tradition back to life d mrs hoa s grandchildren think the lanterns have no connection with their family write a b c or d": {
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. GRANDMA’S MID-AUTUMN LANTERNS When Mrs Hoa was a child, her family made paper lanterns for the Mid-Autumn Festival every year. Her father cut thin pieces of bamboo, while her mother prepared coloured paper. (13) ______. The children carried the finished lanterns around the village on the night of the festival. After Mrs Hoa moved to the city, she continued the tradition with her own children. At first, they found the work difficult because they had never used bamboo in this way. (14) ______. After several attempts, each child was able to make a simple star-shaped lantern. As the children grew older, they became busy with their studies. The family began buying plastic lanterns instead, and the paper-lantern tradition gradually stopped. (15) ______. Several years later, Mrs Hoa’s oldest daughter had a child of her own. She asked her mother to show her how to make the lanterns again. (16) ______. Soon, three generations of the family were working together around the same table. The new lanterns were not perfect, but they had a special meaning for the family. Mrs Hoa’s grandchildren now look forward to making them every year. (17) ______.Question 13A. The family usually bought all their lanterns from a shop near the village.B. Her parents kept the bamboo in a locked room until the festival ended.C. Mrs Hoa and her brothers helped attach the paper to the bamboo frames.D. The children preferred playing indoors instead of joining the celebration.Write A, B, C, or D – {#1}Question 14A. Mrs Hoa showed them each step and allowed them to practise slowly.B. The children decided that paper lanterns were no longer worth making.C. Her neighbours asked the family to use plastic instead of coloured paper.D. Mrs Hoa completed every lantern herself and did not let the children help.Write A, B, C, or D – {#2}Question 15A. The children sold their old schoolbooks to buy more bamboo.B. The family began celebrating a completely different festival.C. Mrs Hoa opened a shop that sold lanterns throughout the year.D. Mrs Hoa worried that her grandchildren might never learn how to make one.Write A, B, C, or D – {#3}Question 16A. The family realised that the festival had already ended several weeks earlier.B. Mrs Hoa brought out her old tools and began explaining the process.C. The children chose to watch television while Mrs Hoa worked alone.D. Her daughter bought several factory-made lanterns for the lesson.Write A, B, C, or D – {#4}Question 17A. They believe plastic lanterns should replace all handmade ones.B. The family now avoids talking about how festivals were celebrated in the past.C. By passing down the skill, the family has brought an old tradition back to life.D. Mrs Hoa’s grandchildren think the lanterns have no connection with their family.Write A, B, C, or D – {#5}",
+      "clean_stem": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 grandma s mid autumn lanterns when mrs hoa was a child her family made paper lanterns for the mid autumn festival every year her father cut thin pieces of bamboo while her mother prepared coloured paper 13 the children carried the finished lanterns around the village on the night of the festival after mrs hoa moved to the city she continued the tradition with her own children at first they found the work difficult because they had never used bamboo in this way 14 after several attempts each child was able to make a simple star shaped lantern as the children grew older they became busy with their studies the family began buying plastic lanterns instead and the paper lantern tradition gradually stopped 15 several years later mrs hoa s oldest daughter had a child of her own she asked her mother to show her how to make the lanterns again 16 soon three generations of the family were working together around the same table the new lanterns were not perfect but they had a special meaning for the family mrs hoa s grandchildren now look forward to making them every year 17 question 13a the family usually bought all their lanterns from a shop near the village b her parents kept the bamboo in a locked room until the festival ended c mrs hoa and her brothers helped attach the paper to the bamboo frames d the children preferred playing indoors instead of joining the celebration write a b c or d 1 question 14a mrs hoa showed them each step and allowed them to practise slowly b the children decided that paper lanterns were no longer worth making c her neighbours asked the family to use plastic instead of coloured paper d mrs hoa completed every lantern herself and did not let the children help write a b c or d 2 question 15a the children sold their old schoolbooks to buy more bamboo b the family began celebrating a completely different festival c mrs hoa opened a shop that sold lanterns throughout the year d mrs hoa worried that her grandchildren might never learn how to make one write a b c or d 3 question 16a the family realised that the festival had already ended several weeks earlier b mrs hoa brought out her old tools and began explaining the process c the children chose to watch television while mrs hoa worked alone d her daughter bought several factory made lanterns for the lesson write a b c or d 4 question 17a they believe plastic lanterns should replace all handmade ones b the family now avoids talking about how festivals were celebrated in the past c by passing down the skill the family has brought an old tradition back to life d mrs hoa s grandchildren think the lanterns have no connection with their family write a b c or d 5",
+      "stem_key": "passage completionquestions 13 17read the following passage and mark the letter a b c or d to indicate the option that best fits each numbered blank from 13 to 17 grandma s mid autumn lanterns when mrs hoa was a child her family made paper lanterns for the mid autumn festival every year her father cut thin pieces of bamboo while her mother prepared coloured paper 13 the children carried the finished lanterns around the village on the night of the festival after mrs hoa moved to the city she continued the tradition with her own children at first they found the work difficult because they had never used bamboo in this way 14 after several attempts each child was able to make a simple star shaped lantern as the children grew older they became busy with their studies the family began buying plastic lanterns instead and the paper lantern tradition gradually stopped 15 several years later mrs hoa s oldest daughter had a child of her own she asked her mother to show her how to make the lanterns again 16 soon three generations of the family were working together around the same table the new lanterns were not perfect but they had a special meaning for the family mrs hoa s grandchildren now look forward to making them every year 17 question 13a the family usually bought all their lanterns from a shop near the village b her parents kept the bamboo in a locked room until the festival ended c mrs hoa and her brothers helped attach the paper to the bamboo frames d the children preferred playing indoors instead of joining the celebration write a b c or d 1 question 14a mrs hoa showed them each step and allowed them to practise slowly b the children decided that paper lanterns were no longer worth making c her neighbours asked the family to use plastic instead of coloured paper d mrs hoa completed every lantern herself and did not let the children help write a b c or d 2 question 15a the children sold their old schoolbooks to buy more bamboo b the family began celebrating a completely different festival c mrs hoa opened a shop that sold lanterns throughout the year d mrs hoa worried that her grandchildren might never learn how to make one write a b c or d 3 question 16a the family realised that the festival had already ended several weeks earlier b mrs hoa brought out her old tools and began explaining the process c the children chose to watch television while mrs hoa worked alone d her daughter bought several factory made lanterns for the lesson write a b c or d 4 question 17a they believe plastic lanterns should replace all handmade ones b the family now avoids talking about how festivals were celebrated in the past c by passing down the skill the family has brought an old tradition back to life d mrs hoa s grandchildren think the lanterns have no connection with their family write a b c or d 5",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18a during the break they often played traditional games in the school yard b my grandmother attended a small village school more than fifty years ago c she usually walked there with her brothers because the family had no bicycle d although school life was simple she still remembers those days warmly a c b a db b c a dc b a d cd a c b dwrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. During the break, they often played traditional games in the school yard.b. My grandmother attended a small village school more than fifty years ago.c. She usually walked there with her brothers because the family had no bicycle.d. Although school life was simple, she still remembers those days warmly.A. c – b – a – dB. b – c – a – dC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18a during the break they often played traditional games in the school yard b my grandmother attended a small village school more than fifty years ago c she usually walked there with her brothers because the family had no bicycle d although school life was simple she still remembers those days warmly a c b a db b c a dc b a d cd a c b dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18a during the break they often played traditional games in the school yard b my grandmother attended a small village school more than fifty years ago c she usually walked there with her brothers because the family had no bicycle d although school life was simple she still remembers those days warmly a c b a db b c a dc b a d cd a c b dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18a during the break they often played traditional games in the school yard b my grandmother attended a small village school more than fifty years ago c she usually walked there with her brothers because the family had no bicycle d although school life was simple she still remembers those days warmly a c b a db b c a dc b a d cd a c b dwrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. During the break, they often played traditional games in the school yard.b. My grandmother attended a small village school more than fifty years ago.c. She usually walked there with her brothers because the family had no bicycle.d. Although school life was simple, she still remembers those days warmly.A. c – b – a – dB. b – c – a – dC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18a during the break they often played traditional games in the school yard b my grandmother attended a small village school more than fifty years ago c she usually walked there with her brothers because the family had no bicycle d although school life was simple she still remembers those days warmly a c b a db b c a dc b a d cd a c b dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 18a during the break they often played traditional games in the school yard b my grandmother attended a small village school more than fifty years ago c she usually walked there with her brothers because the family had no bicycle d although school life was simple she still remembers those days warmly a c b a db b c a dc b a d cd a c b dwrite a b c or d 1",
+      "answer": "B",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19a families usually eat it during tet and on the anniversary of the hung kings b its main ingredients are glutinous rice green beans and pork c banh chung is a traditional vietnamese dish with a long history d for many people the dish represents gratitude to their ancestors a b c d ab c a b dc b a c dd c b a dwrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. Families usually eat it during Tet and on the anniversary of the Hung Kings.b. Its main ingredients are glutinous rice, green beans, and pork.c. Banh chung is a traditional Vietnamese dish with a long history.d. For many people, the dish represents gratitude to their ancestors.A. b – c – d – aB. c – a – b – dC. b – a – c – dD. c – b – a – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19a families usually eat it during tet and on the anniversary of the hung kings b its main ingredients are glutinous rice green beans and pork c banh chung is a traditional vietnamese dish with a long history d for many people the dish represents gratitude to their ancestors a b c d ab c a b dc b a c dd c b a dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19a families usually eat it during tet and on the anniversary of the hung kings b its main ingredients are glutinous rice green beans and pork c banh chung is a traditional vietnamese dish with a long history d for many people the dish represents gratitude to their ancestors a b c d ab c a b dc b a c dd c b a dwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19a families usually eat it during tet and on the anniversary of the hung kings b its main ingredients are glutinous rice green beans and pork c banh chung is a traditional vietnamese dish with a long history d for many people the dish represents gratitude to their ancestors a b c d ab c a b dc b a c dd c b a dwrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. Families usually eat it during Tet and on the anniversary of the Hung Kings.b. Its main ingredients are glutinous rice, green beans, and pork.c. Banh chung is a traditional Vietnamese dish with a long history.d. For many people, the dish represents gratitude to their ancestors.A. b – c – d – aB. c – a – b – dC. b – a – c – dD. c – b – a – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19a families usually eat it during tet and on the anniversary of the hung kings b its main ingredients are glutinous rice green beans and pork c banh chung is a traditional vietnamese dish with a long history d for many people the dish represents gratitude to their ancestors a b c d ab c a b dc b a c dd c b a dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 19a families usually eat it during tet and on the anniversary of the hung kings b its main ingredients are glutinous rice green beans and pork c banh chung is a traditional vietnamese dish with a long history d for many people the dish represents gratitude to their ancestors a b c d ab c a b dc b a c dd c b a dwrite a b c or d 1",
+      "answer": "D",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20a today local people carefully preserve it and use it for important village ceremonies b an hoa communal house is a historic building in the centre of the village c as a result the communal house remains an important part of local cultural life d people built it more than two hundred years ago as a meeting place a b d a cb d b c ac b a d cd a c b dwrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. Today, local people carefully preserve it and use it for important village ceremonies.b. An Hoa Communal House is a historic building in the centre of the village.c. As a result, the communal house remains an important part of local cultural life.d. People built it more than two hundred years ago as a meeting place.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20a today local people carefully preserve it and use it for important village ceremonies b an hoa communal house is a historic building in the centre of the village c as a result the communal house remains an important part of local cultural life d people built it more than two hundred years ago as a meeting place a b d a cb d b c ac b a d cd a c b dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20a today local people carefully preserve it and use it for important village ceremonies b an hoa communal house is a historic building in the centre of the village c as a result the communal house remains an important part of local cultural life d people built it more than two hundred years ago as a meeting place a b d a cb d b c ac b a d cd a c b dwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20a today local people carefully preserve it and use it for important village ceremonies b an hoa communal house is a historic building in the centre of the village c as a result the communal house remains an important part of local cultural life d people built it more than two hundred years ago as a meeting place a b d a cb d b c ac b a d cd a c b dwrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. Today, local people carefully preserve it and use it for important village ceremonies.b. An Hoa Communal House is a historic building in the centre of the village.c. As a result, the communal house remains an important part of local cultural life.d. People built it more than two hundred years ago as a meeting place.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20a today local people carefully preserve it and use it for important village ceremonies b an hoa communal house is a historic building in the centre of the village c as a result the communal house remains an important part of local cultural life d people built it more than two hundred years ago as a meeting place a b d a cb d b c ac b a d cd a c b dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 20a today local people carefully preserve it and use it for important village ceremonies b an hoa communal house is a historic building in the centre of the village c as a result the communal house remains an important part of local cultural life d people built it more than two hundred years ago as a meeting place a b d a cb d b c ac b a d cd a c b dwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21a student thank you very much for telling us about your school days b student did you play any games during the breaks c mrs lan you re welcome i m glad you found the stories useful d mrs lan yes we often played tug of war or hide and seek a a b d cb b a c dc b d a cd d b a cwrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. Student: Thank you very much for telling us about your school days.b. Student: Did you play any games during the breaks?c. Mrs Lan: You’re welcome. I’m glad you found the stories useful.d. Mrs Lan: Yes. We often played tug of war or hide-and-seek.A. a – b – d – cB. b – a – c – dC. b – d – a – cD. d – b – a – cWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21a student thank you very much for telling us about your school days b student did you play any games during the breaks c mrs lan you re welcome i m glad you found the stories useful d mrs lan yes we often played tug of war or hide and seek a a b d cb b a c dc b d a cd d b a cwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21a student thank you very much for telling us about your school days b student did you play any games during the breaks c mrs lan you re welcome i m glad you found the stories useful d mrs lan yes we often played tug of war or hide and seek a a b d cb b a c dc b d a cd d b a cwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21a student thank you very much for telling us about your school days b student did you play any games during the breaks c mrs lan you re welcome i m glad you found the stories useful d mrs lan yes we often played tug of war or hide and seek a a b d cb b a c dc b d a cd d b a cwrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. Student: Thank you very much for telling us about your school days.b. Student: Did you play any games during the breaks?c. Mrs Lan: You’re welcome. I’m glad you found the stories useful.d. Mrs Lan: Yes. We often played tug of war or hide-and-seek.A. a – b – d – cB. b – a – c – dC. b – d – a – cD. d – b – a – cWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21a student thank you very much for telling us about your school days b student did you play any games during the breaks c mrs lan you re welcome i m glad you found the stories useful d mrs lan yes we often played tug of war or hide and seek a a b d cb b a c dc b d a cd d b a cwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 21a student thank you very much for telling us about your school days b student did you play any games during the breaks c mrs lan you re welcome i m glad you found the stories useful d mrs lan yes we often played tug of war or hide and seek a a b d cb b a c dc b d a cd d b a cwrite a b c or d 1",
+      "answer": "C",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22a please give your labelled photographs to your class teacher before friday b our school history club is collecting photographs of school life in the past c the selected pictures will appear in an exhibition in the school library d before handing them in write the owner s name the approximate date and a short description on each label e we hope the exhibition will help students understand how school life has changed a b d a c eb b a d c ec a b c d ed b c a e dwrite a b c or d 1": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. Please give your labelled photographs to your class teacher before Friday.b. Our school history club is collecting photographs of school life in the past.c. The selected pictures will appear in an exhibition in the school library.d. Before handing them in, write the owner’s name, the approximate date, and a short description on each label.e. We hope the exhibition will help students understand how school life has changed.A. b – d – a – c – eB. b – a – d – c – eC. a – b – c – d – eD. b – c – a – e – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22a please give your labelled photographs to your class teacher before friday b our school history club is collecting photographs of school life in the past c the selected pictures will appear in an exhibition in the school library d before handing them in write the owner s name the approximate date and a short description on each label e we hope the exhibition will help students understand how school life has changed a b d a c eb b a d c ec a b c d ed b c a e dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22a please give your labelled photographs to your class teacher before friday b our school history club is collecting photographs of school life in the past c the selected pictures will appear in an exhibition in the school library d before handing them in write the owner s name the approximate date and a short description on each label e we hope the exhibition will help students understand how school life has changed a b d a c eb b a d c ec a b c d ed b c a e dwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22a please give your labelled photographs to your class teacher before friday b our school history club is collecting photographs of school life in the past c the selected pictures will appear in an exhibition in the school library d before handing them in write the owner s name the approximate date and a short description on each label e we hope the exhibition will help students understand how school life has changed a b d a c eb b a d c ec a b c d ed b c a e dwrite a b c or d": {
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. Please give your labelled photographs to your class teacher before Friday.b. Our school history club is collecting photographs of school life in the past.c. The selected pictures will appear in an exhibition in the school library.d. Before handing them in, write the owner’s name, the approximate date, and a short description on each label.e. We hope the exhibition will help students understand how school life has changed.A. b – d – a – c – eB. b – a – d – c – eC. a – b – c – d – eD. b – c – a – e – dWrite A, B, C, or D – {#1}",
+      "clean_stem": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22a please give your labelled photographs to your class teacher before friday b our school history club is collecting photographs of school life in the past c the selected pictures will appear in an exhibition in the school library d before handing them in write the owner s name the approximate date and a short description on each label e we hope the exhibition will help students understand how school life has changed a b d a c eb b a d c ec a b c d ed b c a e dwrite a b c or d 1",
+      "stem_key": "text and dialogue organisationmark the letter a b c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation question 22a please give your labelled photographs to your class teacher before friday b our school history club is collecting photographs of school life in the past c the selected pictures will appear in an exhibition in the school library d before handing them in write the owner s name the approximate date and a short description on each label e we hope the exhibition will help students understand how school life has changed a b d a c eb b a d c ec a b c d ed b c a e dwrite a b c or d 1",
+      "answer": "A",
+      "letter": "",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 blank 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 blank 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 blank 3 the communal house reopened several months later it is now recognised 4 blank 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 blank 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 blank 6 some parts of the structure are very old 📋bảng lựa chọn các ô trống cloze options ô 1 a ingredientsb structuresc generationsd takeawaysô 2 a are workingb workc were workingd had workedô 3 a recognitionb occupationc contributiond observationô 4 a asb withc ford byô 5 a areb will bec wered have beenô 6 a becauseb butc unlessd although": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. VISIT PHUONG NAM COMMUNAL HOUSE Phuong Nam Communal House is one of the oldest cultural (1) [Blank 1] in our district. Local people built it more than 250 years ago as a place for community meetings and traditional celebrations. When a serious storm damaged part of the roof ten years ago, local builders (2) [Blank 2] on a nearby project. They stopped their work and came to protect the building from further damage. Thanks to their valuable (3) [Blank 3] , the communal house reopened several months later. It is now recognised (4) [Blank 4] an important historic site. Visitors can explore the main hall, view old objects, and learn about local customs. We wish more young people (5) [Blank 5] interested in the history of the building and helped keep its traditions alive. Please follow the guide's instructions, (6) [Blank 6] some parts of the structure are very old.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.ingredientsB.structuresC.generationsD.takeawaysÔ (2):A.are workingB.workC.were workingD.had workedÔ (3):A.recognitionB.occupationC.contributionD.observationÔ (4):A.asB.withC.forD.byÔ (5):A.areB.will beC.wereD.have beenÔ (6):A.becauseB.butC.unlessD.although",
+      "clean_stem": "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 blank 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 blank 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 blank 3 the communal house reopened several months later it is now recognised 4 blank 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 blank 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 blank 6 some parts of the structure are very old 📋bảng lựa chọn các ô trống cloze options ô 1 a ingredientsb structuresc generationsd takeawaysô 2 a are workingb workc were workingd had workedô 3 a recognitionb occupationc contributiond observationô 4 a asb withc ford byô 5 a areb will bec wered have beenô 6 a becauseb butc unlessd although",
+      "stem_key": "language in functional textsquestions 1 6read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6 visit phuong nam communal house phuong nam communal house is one of the oldest cultural 1 blank 1 in our district local people built it more than 250 years ago as a place for community meetings and traditional celebrations when a serious storm damaged part of the roof ten years ago local builders 2 blank 2 on a nearby project they stopped their work and came to protect the building from further damage thanks to their valuable 3 blank 3 the communal house reopened several months later it is now recognised 4 blank 4 an important historic site visitors can explore the main hall view old objects and learn about local customs we wish more young people 5 blank 5 interested in the history of the building and helped keep its traditions alive please follow the guide s instructions 6 blank 6 some parts of the structure are very old 📋bảng lựa chọn các ô trống cloze options ô 1 a ingredientsb structuresc generationsd takeawaysô 2 a are workingb workc were workingd had workedô 3 a recognitionb occupationc contributiond observationô 4 a asb withc ford byô 5 a areb will bec wered have beenô 6 a becauseb butc unlessd although",
+      "answer": "structures",
+      "letter": "B",
+      "options": [
+        "structures"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B. structures"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C. were working"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "C. contribution"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "A. as"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "C. were"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "A. because"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
+    },
+    "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 blank 7 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 blank 8 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 blank 9 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 blank 10 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 blank 11 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 blank 12 future generations 📋bảng lựa chọn các ô trống cloze options ô 7 a structuresb monumentsc cuisinesd generationsô 8 a dob are doingc were doingd have doneô 9 a occupiedb traditionalc historicald magnificentô 10 a will beb werec amd have beenô 11 a aboutb forc withd fromô 12 a forb fromc byd about": {
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. OLD SCHOOL DAYS EXHIBITION Next month, our school history club will hold an exhibition called Old School Days. The event will help students discover how children studied and spent their free time several (7) [Blank 7] ago. We are asking parents and grandparents to lend us old schoolbooks, photographs, uniforms, and other objects. If you have an old photograph, please tell us what the people in it (8) [Blank 8] when the photograph was taken. Mr Long, a former student, will speak about his school days. He remembers that children often walked barefoot and played (9) [Blank 9] games during their breaks. At first, Mr Long was nervous about speaking to a large audience. He said, \"I wish I (10) [Blank 10] more confident.\" However, he has now agreed to share his memories. After the talk, students can thank the guests (11) [Blank 11] contributing their stories and objects. We hope the exhibition will encourage everyone to preserve these memories (12) [Blank 12] future generations.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.structuresB.monumentsC.cuisinesD.generationsÔ (8):A.doB.are doingC.were doingD.have doneÔ (9):A.occupiedB.traditionalC.historicalD.magnificentÔ (10):A.will beB.wereC.amD.have beenÔ (11):A.aboutB.forC.withD.fromÔ (12):A.forB.fromC.byD.about",
+      "clean_stem": "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 blank 7 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 blank 8 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 blank 9 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 blank 10 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 blank 11 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 blank 12 future generations 📋bảng lựa chọn các ô trống cloze options ô 7 a structuresb monumentsc cuisinesd generationsô 8 a dob are doingc were doingd have doneô 9 a occupiedb traditionalc historicald magnificentô 10 a will beb werec amd have beenô 11 a aboutb forc withd fromô 12 a forb fromc byd about",
+      "stem_key": "language in functional textsquestions 7 12read the following school notice and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12 old school days exhibition next month our school history club will hold an exhibition called old school days the event will help students discover how children studied and spent their free time several 7 blank 7 ago we are asking parents and grandparents to lend us old schoolbooks photographs uniforms and other objects if you have an old photograph please tell us what the people in it 8 blank 8 when the photograph was taken mr long a former student will speak about his school days he remembers that children often walked barefoot and played 9 blank 9 games during their breaks at first mr long was nervous about speaking to a large audience he said i wish i 10 blank 10 more confident however he has now agreed to share his memories after the talk students can thank the guests 11 blank 11 contributing their stories and objects we hope the exhibition will encourage everyone to preserve these memories 12 blank 12 future generations 📋bảng lựa chọn các ô trống cloze options ô 7 a structuresb monumentsc cuisinesd generationsô 8 a dob are doingc were doingd have doneô 9 a occupiedb traditionalc historicald magnificentô 10 a will beb werec amd have beenô 11 a aboutb forc withd fromô 12 a forb fromc byd about",
+      "answer": "generations",
+      "letter": "D",
+      "options": [
+        "generations"
+      ],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "D. generations"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "C. were doing"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "B. traditional"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "B. were"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "B. for"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "A. for"
+        }
+      ],
+      "verified_100": true,
+      "source": "review_scrape",
+      "updated_at": "2026-11-07T13:44:06Z"
     }
   }
 }
