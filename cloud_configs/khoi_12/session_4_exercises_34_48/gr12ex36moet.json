@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "account_name": "Bùi Thiên Ân",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR12EX36MOET",
+    "quiz_key": "gr12ex36moet",
+    "cmid": "743007",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex36moet.json",
+    "score": "20.00/20.00",
+    "score_pct": 100.0,
+    "question_count": 30,
+    "updated_at": "2026-11-08 08:27:20"
+  },
+  "answers": [
+    {
+      "id": "question-1950871-7",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.in the situation described by the residents, heavier traffic brings more exhaust fumes: the more traffic there is, the ______ the air quality becomes.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. In the situation described by the residents, heavier traffic brings more exhaust fumes: the more traffic there is, the ______ the air quality becomes.",
+      "options": [
+        "worse"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-7",
+      "questionNumber": 7,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.In the situation described by the residents, heavier traffic brings more exhaust fumes: the more traffic there is, the ______ the air quality becomes.",
+      "answer": "worse",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.in the situation described by the residents, heavier traffic brings more exhaust fumes: the more traffic there is, the ______ the air quality becomes.",
+      "letter": "A",
+      "rightAnswer": "worse"
+    },
+    {
+      "id": "question-1950871-8",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.when buses arrive as expected, passengers spend less time waiting. the more reliable the service is, the ______ time they waste at bus stops.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. When buses arrive as expected, passengers spend less time waiting. The more reliable the service is, the ______ time they waste at bus stops.",
+      "options": [
+        "less"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-8",
+      "questionNumber": 8,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.When buses arrive as expected, passengers spend less time waiting. The more reliable the service is, the ______ time they waste at bus stops.",
+      "answer": "less",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.when buses arrive as expected, passengers spend less time waiting. the more reliable the service is, the ______ time they waste at bus stops.",
+      "letter": "D",
+      "rightAnswer": "less"
+    },
+    {
+      "id": "question-1950871-2",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.several high-rise buildings ______ in the urban area over the past few years, changing the appearance of the neighbourhood.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. Several high-rise buildings ______ in the urban area over the past few years, changing the appearance of the neighbourhood.",
+      "options": [
+        "have been built"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-2",
+      "questionNumber": 4,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.Several high-rise buildings ______ in the urban area over the past few years, changing the appearance of the neighbourhood.",
+      "answer": "have been built",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.several high-rise buildings ______ in the urban area over the past few years, changing the appearance of the neighbourhood.",
+      "letter": "C",
+      "rightAnswer": "have been built"
+    },
+    {
+      "id": "question-1950871-5",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.as the urban population continues to grow, the neighbourhood is becoming more and ______ crowded.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. As the urban population continues to grow, the neighbourhood is becoming more and ______ crowded.",
+      "options": [
+        "more"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-5",
+      "questionNumber": 5,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.As the urban population continues to grow, the neighbourhood is becoming more and ______ crowded.",
+      "answer": "more",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.as the urban population continues to grow, the neighbourhood is becoming more and ______ crowded.",
+      "letter": "B",
+      "rightAnswer": "more"
+    },
+    {
+      "id": "question-1950871-9",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.in the line graph being described, the proportion of urban residents rose from its earlier level ______ a higher percentage.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. In the line graph being described, the proportion of urban residents rose from its earlier level ______ a higher percentage.",
+      "options": [
+        "to"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-9",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.In the line graph being described, the proportion of urban residents rose from its earlier level ______ a higher percentage.",
+      "answer": "to",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.in the line graph being described, the proportion of urban residents rose from its earlier level ______ a higher percentage.",
+      "letter": "A",
+      "rightAnswer": "to"
+    },
+    {
+      "id": "question-1950871-6",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.the project photographs show that the main road has become wider and ______ as it has been enlarged in stages.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. The project photographs show that the main road has become wider and ______ as it has been enlarged in stages.",
+      "options": [
+        "wider"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-6",
+      "questionNumber": 2,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.The project photographs show that the main road has become wider and ______ as it has been enlarged in stages.",
+      "answer": "wider",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.the project photographs show that the main road has become wider and ______ as it has been enlarged in stages.",
+      "letter": "B",
+      "rightAnswer": "wider"
+    },
+    {
+      "id": "question-1950871-4",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.of all the guides lan has read so far, this is the most useful guide to urban development that she ______.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. Of all the guides Lan has read so far, this is the most useful guide to urban development that she ______.",
+      "options": [
+        "has read"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-4",
+      "questionNumber": 9,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.Of all the guides Lan has read so far, this is the most useful guide to urban development that she ______.",
+      "answer": "has read",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.of all the guides lan has read so far, this is the most useful guide to urban development that she ______.",
+      "letter": "B",
+      "rightAnswer": "has read"
+    },
+    {
+      "id": "question-1950871-1",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.our neighbourhood ______ considerably since my family moved here, and it now includes several new residential streets.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. Our neighbourhood ______ considerably since my family moved here, and it now includes several new residential streets.",
+      "options": [
+        "has expanded"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-1",
+      "questionNumber": 6,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.Our neighbourhood ______ considerably since my family moved here, and it now includes several new residential streets.",
+      "answer": "has expanded",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.our neighbourhood ______ considerably since my family moved here, and it now includes several new residential streets.",
+      "letter": "A",
+      "rightAnswer": "has expanded"
+    },
+    {
+      "id": "question-1950871-3",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.\"this is the first time i ______ an electric bus,\" mai says as she boards one for the first time today.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. “This is the first time I ______ an electric bus,” Mai says as she boards one for the first time today.",
+      "options": [
+        "have used"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-3",
+      "questionNumber": 10,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.\"This is the first time I ______ an electric bus,\" Mai says as she boards one for the first time today.",
+      "answer": "have used",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.\"this is the first time i ______ an electric bus,\" mai says as she boards one for the first time today.",
+      "letter": "C",
+      "rightAnswer": "have used"
+    },
+    {
+      "id": "question-1950871-10",
+      "questionKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.a passenger begins a polite complaint: \"i'm afraid i have a complaint to ______ about buses arriving late.\"",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning. A passenger begins a polite complaint: “I’m afraid I have a complaint to ______ about buses arriving late.”",
+      "options": [
+        "make"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950871-10",
+      "questionNumber": 3,
+      "question": "Choose A, B, C, or D to complete each sentence correctly. Consider time expressions, sentence structure, and intended meaning.A passenger begins a polite complaint: \"I'm afraid I have a complaint to ______ about buses arriving late.\"",
+      "answer": "make",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence correctly. consider time expressions, sentence structure, and intended meaning.a passenger begins a polite complaint: \"i'm afraid i have a complaint to ______ about buses arriving late.\"",
+      "letter": "D",
+      "rightAnswer": "make"
+    },
+    {
+      "id": "11",
+      "questionKey": "choose a, b, c, or d to fill each gap using sentence and passage-level clues. question 1.a. makeb. takec. gived. do write a, b, c or d: question 2.a. reliableb. reliabilityc. reliablyd. rely write a, b, c or d: question 3.a. densityb. proportionc. increased. distribution write a, b, c or d: question 4.a. complaintsb. promisesc. decisionsd. comparisons write a, b, c or d: question 5.a. thereforeb. neverthelessc. similarlyd. for instance write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to fill each gap using sentence and passage-level clues. Question 1.A. makeB. takeC. giveD. do Write A, B, C or D: {#1} Question 2.A. reliableB. reliabilityC. reliablyD. rely Write A, B, C or D: {#2} Question 3.A. densityB. proportionC. increaseD. distribution Write A, B, C or D: {#3} Question 4.A. complaintsB. promisesC. decisionsD. comparisons Write A, B, C or D: {#4} Question 5.A. ThereforeB. NeverthelessC. SimilarlyD. For instance Write A, B, C or D: {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Choose A, B, C, or D to fill each gap using sentence and passage-level clues. Question 1.A. makeB. takeC. giveD. do Write A, B, C or D: {#1} Question 2.A. reliableB. reliabilityC. reliablyD. rely Write A, B, C or D: {#2} Question 3.A. densityB. proportionC. increaseD. distribution Write A, B, C or D: {#3} Question 4.A. complaintsB. promisesC. decisionsD. comparisons Write A, B, C or D: {#4} Question 5.A. ThereforeB. NeverthelessC. SimilarlyD. For instance Write A, B, C or D: {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "12",
+      "questionKey": "choose a, b, c, or d to fill each gap using sentence and passage-level clues. question 1.a. had changedb. changesc. has changedd. was changing write a, b, c or d: question 2.a. get aroundb. bring backc. date backd. go down write a, b, c or d: question 3.a. thereforeb. similarlyc. for exampled. however write a, b, c or d: question 4.a. comparisonb. concernc. opportunityd. improvement write a, b, c or d: question 5.a. less and lessb. fewer and fewerc. more and mored. better and better write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to fill each gap using sentence and passage-level clues. Question 1.A. had changedB. changesC. has changedD. was changing Write A, B, C or D: {#1} Question 2.A. get aroundB. bring backC. date backD. go down Write A, B, C or D: {#2} Question 3.A. ThereforeB. SimilarlyC. For exampleD. However Write A, B, C or D: {#3} Question 4.A. comparisonB. concernC. opportunityD. improvement Write A, B, C or D: {#4} Question 5.A. less and lessB. fewer and fewerC. more and moreD. better and better Write A, B, C or D: {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "12",
+      "questionNumber": 12,
+      "question": "Choose A, B, C, or D to fill each gap using sentence and passage-level clues. Question 1.A. had changedB. changesC. has changedD. was changing Write A, B, C or D: {#1} Question 2.A. get aroundB. bring backC. date backD. go down Write A, B, C or D: {#2} Question 3.A. ThereforeB. SimilarlyC. For exampleD. However Write A, B, C or D: {#3} Question 4.A. comparisonB. concernC. opportunityD. improvement Write A, B, C or D: {#4} Question 5.A. less and lessB. fewer and fewerC. more and moreD. better and better Write A, B, C or D: {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C",
+      "id": "question-1950871-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 11,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 11,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 11,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 11,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 11,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to fill each gap using sentence and passage-level clues. question 1.a. had changedb. changesc. has changedd. was changing write a, b, c or d: {#1} question 2.a. get aroundb. bring backc. date backd. go down write a, b, c or d: {#2} question 3.a. thereforeb. similarlyc. for exampled. however write a, b, c or d: {#3} question 4.a. comparisonb. concernc. opportunityd. improvement write a, b, c or d: {#4} question 5.a. less and lessb. fewer and fewerc. more and mored. better and better write a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to fill each gap using sentence and passage-level clues. Question 1.A. had changedB. changesC. has changedD. was changing Write A, B, C or D: {#1} Question 2.A. get aroundB. bring backC. date backD. go down Write A, B, C or D: {#2} Question 3.A. ThereforeB. SimilarlyC. For exampleD. However Write A, B, C or D: {#3} Question 4.A. comparisonB. concernC. opportunityD. improvement Write A, B, C or D: {#4} Question 5.A. less and lessB. fewer and fewerC. more and moreD. better and better Write A, B, C or D: {#5}",
+      "questionId": "question-1950871-11",
+      "questionKey": "choose a, b, c, or d to fill each gap using sentence and passage-level clues. question 1.a. had changedb. changesc. has changedd. was changing write a, b, c or d: {#1} question 2.a. get aroundb. bring backc. date backd. go down write a, b, c or d: {#2} question 3.a. thereforeb. similarlyc. for exampled. however write a, b, c or d: {#3} question 4.a. comparisonb. concernc. opportunityd. improvement write a, b, c or d: {#4} question 5.a. less and lessb. fewer and fewerc. more and mored. better and better write a, b, c or d: {#5}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1950871-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 12,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "questionNumber": 12,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 12,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "questionNumber": 12,
+          "value": "D"
+        },
+        {
+          "index": 4,
+          "questionNumber": 12,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to fill each gap using sentence and passage-level clues. question 1.a. makeb. takec. gived. do write a, b, c or d: {#1} question 2.a. reliableb. reliabilityc. reliablyd. rely write a, b, c or d: {#2} question 3.a. densityb. proportionc. increased. distribution write a, b, c or d: {#3} question 4.a. complaintsb. promisesc. decisionsd. comparisons write a, b, c or d: {#4} question 5.a. thereforeb. neverthelessc. similarlyd. for instance write a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to fill each gap using sentence and passage-level clues. Question 1.A. makeB. takeC. giveD. do Write A, B, C or D: {#1} Question 2.A. reliableB. reliabilityC. reliablyD. rely Write A, B, C or D: {#2} Question 3.A. densityB. proportionC. increaseD. distribution Write A, B, C or D: {#3} Question 4.A. complaintsB. promisesC. decisionsD. comparisons Write A, B, C or D: {#4} Question 5.A. ThereforeB. NeverthelessC. SimilarlyD. For instance Write A, B, C or D: {#5}",
+      "questionId": "question-1950871-12",
+      "questionKey": "choose a, b, c, or d to fill each gap using sentence and passage-level clues. question 1.a. makeb. takec. gived. do write a, b, c or d: {#1} question 2.a. reliableb. reliabilityc. reliablyd. rely write a, b, c or d: {#2} question 3.a. densityb. proportionc. increased. distribution write a, b, c or d: {#3} question 4.a. complaintsb. promisesc. decisionsd. comparisons write a, b, c or d: {#4} question 5.a. thereforeb. neverthelessc. similarlyd. for instance write a, b, c or d: {#5}",
+      "questionNumber": 12,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
