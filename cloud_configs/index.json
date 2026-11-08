@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 21:00:19",
+  "updated_at": "2026-11-08 21:02:45",
   "total_configs": 70,
   "configs": [
     {
@@ -723,24 +723,6 @@
       "updated_at": "2026-11-01 19:46:29"
     },
     {
-      "account_name": "Nguyễn Văn Phi Tiến",
-      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 4",
-      "unit_key": "session_4",
-      "quiz_title": "GR11EX40MOET UNIT 3 PRACTICE TEST 1 PART 2",
-      "quiz_key": "gr11ex40moet_unit_3_practice_test_1_part_2",
-      "cmid": "744166",
-      "course_id": "4775",
-      "repo_path": "cloud_configs/khoi_11/session_4/gr11ex40moet_unit_3_practice_test_1_part_2.json",
-      "score": "100.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 36,
-      "updated_at": "2026-11-02 21:02:35"
-    },
-    {
       "account_name": "Trương Võ Hoàng Lâm",
       "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
@@ -1261,6 +1243,24 @@
       "score_pct": 100.0,
       "question_count": 44,
       "updated_at": "2026-11-08 21:00:19"
+    },
+    {
+      "account_name": "Cao Nguyễn Hoàng Gia Khang",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR11EX40MOET UNIT 3 PRACTICE TEST 1 PART 2",
+      "quiz_key": "gr11ex40moet_unit_3_practice_test_1_part_2",
+      "cmid": "744166",
+      "course_id": "9690",
+      "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex40moet_unit_3_practice_test_1_part_2.json",
+      "score": "18.00/18.00",
+      "score_pct": 100.0,
+      "question_count": 36,
+      "updated_at": "2026-11-08 21:02:45"
     }
   ]
 }
