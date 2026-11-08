@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "account_name": "Bùi Thiên Ân",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR12EX42MOET UNIT 3 PRACTICE TEST 2 PART 2",
+    "quiz_key": "gr12ex42moet_unit_3_practice_test_2_part_2",
+    "cmid": "744259",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex42moet_unit_3_practice_test_2_part_2.json",
+    "score": "18.00/18.00",
+    "score_pct": 100.0,
+    "question_count": 36,
+    "updated_at": "2026-11-08 09:14:37"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23. what is the passage mainly about?a. why residents should stop holding community eventsb. how a discussion changed a group’s plastic planc. which nearby local shops offer the cheapest party suppliesd. how a collection company processes different household waste materialswrite a, b, c, or d - question 24. the word “eligible” in duc’s email is closest in meaning to ______.a. acceptedb. protectedc. deliveredd. repeatedwrite a, b, c, or d - question 25. what advantage did thao identify in her proposal?a. it required guests to wash cups during the event.b. it made the event free for every invited resident.c. it guaranteed that every plastic item could be recycled.d. it avoided providing some new items in the first place.write a, b, c, or d - question 26. the word “they” in phuong’s final email refers to ______.a. the guests who requested extra cupsb. the plastic items accepted for collectionc. the borrowed cups returned after lunchd. the volunteers who organised the eventwrite a, b, c, or d - question 27. which statement is not supported by the emails?a. borrowed cups removed the need to arrange collection.b. several guests could already bring their own cups.c. the collection rules excluded the proposed plastic cups.d. the group planned to count unused items afterwards.write a, b, c, or d - question 28. which statement best describes the change in phuong’s thinking?a. she moved from borrowing cups to buying disposable ones.b. she prioritised collecting every plastic item in one bin.c. she considered reducing provision before arranging disposal of waste.d. she stopped checking collection rules after choosing borrowed cups.write a, b, c, or d - question 29. why does thao mention collecting, washing and returning cups?a. to show that disposable products always cost lessb. to explain how cups are manufactured from plasticc. to suggest that guests avoid drinking at eventsd. to connect a purchasing choice with practical responsibilitieswrite a, b, c, or d - question 30. what can be inferred from the group’s revised plan?a. the group could stop checking all its future waste.b. preventing waste could also reduce tasks after the event.c. bringing cups would make every future event waste-free.d. borrowing cups could remove the need for any volunteers.write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23. What is the passage mainly about?A. Why residents should stop holding community eventsB. How a discussion changed a group’s plastic planC. Which nearby local shops offer the cheapest party suppliesD. How a collection company processes different household waste materialsWrite A, B, C, or D - {#1} Question 24. The word “eligible” in Duc’s email is closest in meaning to ______.A. acceptedB. protectedC. deliveredD. repeatedWrite A, B, C, or D - {#2} Question 25. What advantage did Thao identify in her proposal?A. It required guests to wash cups during the event.B. It made the event free for every invited resident.C. It guaranteed that every plastic item could be recycled.D. It avoided providing some new items in the first place.Write A, B, C, or D - {#3} Question 26. The word “They” in Phuong’s final email refers to ______.A. the guests who requested extra cupsB. the plastic items accepted for collectionC. the borrowed cups returned after lunchD. the volunteers who organised the eventWrite A, B, C, or D - {#4} Question 27. Which statement is NOT supported by the emails?A. Borrowed cups removed the need to arrange collection.B. Several guests could already bring their own cups.C. The collection rules excluded the proposed plastic cups.D. The group planned to count unused items afterwards.Write A, B, C, or D - {#5} Question 28. Which statement best describes the change in Phuong’s thinking?A. She moved from borrowing cups to buying disposable ones.B. She prioritised collecting every plastic item in one bin.C. She considered reducing provision before arranging disposal of waste.D. She stopped checking collection rules after choosing borrowed cups.Write A, B, C, or D - {#6} Question 29. Why does Thao mention collecting, washing and returning cups?A. To show that disposable products always cost lessB. To explain how cups are manufactured from plasticC. To suggest that guests avoid drinking at eventsD. To connect a purchasing choice with practical responsibilitiesWrite A, B, C, or D - {#7} Question 30. What can be inferred from the group’s revised plan?A. The group could stop checking all its future waste.B. Preventing waste could also reduce tasks after the event.C. Bringing cups would make every future event waste-free.D. Borrowing cups could remove the need for any volunteers.Write A, B, C, or D - {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23. What is the passage mainly about?A. Why residents should stop holding community eventsB. How a discussion changed a group’s plastic planC. Which nearby local shops offer the cheapest party suppliesD. How a collection company processes different household waste materialsWrite A, B, C, or D - {#1} Question 24. The word “eligible” in Duc’s email is closest in meaning to ______.A. acceptedB. protectedC. deliveredD. repeatedWrite A, B, C, or D - {#2} Question 25. What advantage did Thao identify in her proposal?A. It required guests to wash cups during the event.B. It made the event free for every invited resident.C. It guaranteed that every plastic item could be recycled.D. It avoided providing some new items in the first place.Write A, B, C, or D - {#3} Question 26. The word “They” in Phuong’s final email refers to ______.A. the guests who requested extra cupsB. the plastic items accepted for collectionC. the borrowed cups returned after lunchD. the volunteers who organised the eventWrite A, B, C, or D - {#4} Question 27. Which statement is NOT supported by the emails?A. Borrowed cups removed the need to arrange collection.B. Several guests could already bring their own cups.C. The collection rules excluded the proposed plastic cups.D. The group planned to count unused items afterwards.Write A, B, C, or D - {#5} Question 28. Which statement best describes the change in Phuong’s thinking?A. She moved from borrowing cups to buying disposable ones.B. She prioritised collecting every plastic item in one bin.C. She considered reducing provision before arranging disposal of waste.D. She stopped checking collection rules after choosing borrowed cups.Write A, B, C, or D - {#6} Question 29. Why does Thao mention collecting, washing and returning cups?A. To show that disposable products always cost lessB. To explain how cups are manufactured from plasticC. To suggest that guests avoid drinking at eventsD. To connect a purchasing choice with practical responsibilitiesWrite A, B, C, or D - {#7} Question 30. What can be inferred from the group’s revised plan?A. The group could stop checking all its future waste.B. Preventing waste could also reduce tasks after the event.C. Bringing cups would make every future event waste-free.D. Borrowing cups could remove the need for any volunteers.Write A, B, C, or D - {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31. what is the main idea of the passage?a. how volunteers could store decorations after a neighbourhood festivalb. why checking old lights was the main festival preparation taskc. how organisers could reduce waste from festival decorationsd. which decoration materials organisers should choose for the next festivalwrite a, b, c, or d - question 32. which detail is stated in the passage?a. some paper decorations were fixed to reusable frames.b. every family purchased new lights for the festival.c. the volunteers replaced every decoration after one evening.d. all decorations were accepted by the local recycling service.write a, b, c, or d - question 33. the word “retain” in paragraph 4 is closest in meaning to ______.a. describeb. borrowc. keepd. changewrite a, b, c, or d - question 34. the word “which” in paragraph 1 refers to ______.a. visitors buying decorations from several different local shopsb. organisers choosing decorations only for their initial appearancec. volunteers keeping the frames for use at another eventd. residents checking whether the stored lights still workedwrite a, b, c, or d - question 35. which statement best expresses the meaning of the first sentence of paragraph 3?a. reusing an item requires preparations beyond its first use.b. reusing items depends mainly on choosing materials before purchase.c. keeping items is sufficient once another event is planned.d. storing items should precede an inspection of their condition.write a, b, c, or d - question 36. what can be inferred from the passage?a. selecting durable materials can take the place of storage planning.b. checking old lights removes the need to inspect other decorations.c. a reusable decoration may still be discarded without arrangements.d. disposal arrangements primarily determine a decoration’s initial visual design.write a, b, c, or d - question 37. what is the main purpose of paragraph 3?a. to explain why visitors should arrive before sunsetb. to show how practical arrangements support future reusec. to describe how factories produce new festival decorationsd. to compare the popularity of different annual community celebrationswrite a, b, c, or d - question 38. where does the following sentence best fit in paragraph 3?without someone responsible for that return, the storage place and the record alone will not ensure that the items are kept.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - question 39. which statement best summarises the report’s recommendations?a. reduce short-lived purchases and organise the future reuse of suitable decorations.b. select paper decorations and prioritise recycling remaining materials after the festival.c. check and store decorations but postpone responsibility decisions until the next festival.d. retain existing frames and buy replacements before reviewing the other decorations’ condition.write a, b, c, or d - question 40. which is the best title for the passage?a. preparing storage arrangements for decorations after a community festivalb. choosing between the different materials used for festival decorationsc. planning festival decorations for more than one eveningd. reviewing the measured results of a festival waste reduction planwrite a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31. What is the main idea of the passage?A. How volunteers could store decorations after a neighbourhood festivalB. Why checking old lights was the main festival preparation taskC. How organisers could reduce waste from festival decorationsD. Which decoration materials organisers should choose for the next festivalWrite A, B, C, or D - {#1} Question 32. Which detail is stated in the passage?A. Some paper decorations were fixed to reusable frames.B. Every family purchased new lights for the festival.C. The volunteers replaced every decoration after one evening.D. All decorations were accepted by the local recycling service.Write A, B, C, or D - {#2} Question 33. The word “retain” in paragraph 4 is closest in meaning to ______.A. describeB. borrowC. keepD. changeWrite A, B, C, or D - {#3} Question 34. The word “which” in paragraph 1 refers to ______.A. visitors buying decorations from several different local shopsB. organisers choosing decorations only for their initial appearanceC. volunteers keeping the frames for use at another eventD. residents checking whether the stored lights still workedWrite A, B, C, or D - {#4} Question 35. Which statement best expresses the meaning of the first sentence of paragraph 3?A. Reusing an item requires preparations beyond its first use.B. Reusing items depends mainly on choosing materials before purchase.C. Keeping items is sufficient once another event is planned.D. Storing items should precede an inspection of their condition.Write A, B, C, or D - {#5} Question 36. What can be inferred from the passage?A. Selecting durable materials can take the place of storage planning.B. Checking old lights removes the need to inspect other decorations.C. A reusable decoration may still be discarded without arrangements.D. Disposal arrangements primarily determine a decoration’s initial visual design.Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 3?A. To explain why visitors should arrive before sunsetB. To show how practical arrangements support future reuseC. To describe how factories produce new festival decorationsD. To compare the popularity of different annual community celebrationsWrite A, B, C, or D - {#7} Question 38. Where does the following sentence best fit in paragraph 3?Without someone responsible for that return, the storage place and the record alone will not ensure that the items are kept.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#8} Question 39. Which statement best summarises the report’s recommendations?A. Reduce short-lived purchases and organise the future reuse of suitable decorations.B. Select paper decorations and prioritise recycling remaining materials after the festival.C. Check and store decorations but postpone responsibility decisions until the next festival.D. Retain existing frames and buy replacements before reviewing the other decorations’ condition.Write A, B, C, or D - {#9} Question 40. Which is the best title for the passage?A. Preparing Storage Arrangements for Decorations After a Community FestivalB. Choosing Between the Different Materials Used for Festival DecorationsC. Planning Festival Decorations for More Than One EveningD. Reviewing the Measured Results of a Festival Waste Reduction PlanWrite A, B, C, or D - {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "value": "A"
+        },
+        {
+          "index": 9,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31. What is the main idea of the passage?A. How volunteers could store decorations after a neighbourhood festivalB. Why checking old lights was the main festival preparation taskC. How organisers could reduce waste from festival decorationsD. Which decoration materials organisers should choose for the next festivalWrite A, B, C, or D - {#1} Question 32. Which detail is stated in the passage?A. Some paper decorations were fixed to reusable frames.B. Every family purchased new lights for the festival.C. The volunteers replaced every decoration after one evening.D. All decorations were accepted by the local recycling service.Write A, B, C, or D - {#2} Question 33. The word “retain” in paragraph 4 is closest in meaning to ______.A. describeB. borrowC. keepD. changeWrite A, B, C, or D - {#3} Question 34. The word “which” in paragraph 1 refers to ______.A. visitors buying decorations from several different local shopsB. organisers choosing decorations only for their initial appearanceC. volunteers keeping the frames for use at another eventD. residents checking whether the stored lights still workedWrite A, B, C, or D - {#4} Question 35. Which statement best expresses the meaning of the first sentence of paragraph 3?A. Reusing an item requires preparations beyond its first use.B. Reusing items depends mainly on choosing materials before purchase.C. Keeping items is sufficient once another event is planned.D. Storing items should precede an inspection of their condition.Write A, B, C, or D - {#5} Question 36. What can be inferred from the passage?A. Selecting durable materials can take the place of storage planning.B. Checking old lights removes the need to inspect other decorations.C. A reusable decoration may still be discarded without arrangements.D. Disposal arrangements primarily determine a decoration’s initial visual design.Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 3?A. To explain why visitors should arrive before sunsetB. To show how practical arrangements support future reuseC. To describe how factories produce new festival decorationsD. To compare the popularity of different annual community celebrationsWrite A, B, C, or D - {#7} Question 38. Where does the following sentence best fit in paragraph 3?Without someone responsible for that return, the storage place and the record alone will not ensure that the items are kept.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#8} Question 39. Which statement best summarises the report’s recommendations?A. Reduce short-lived purchases and organise the future reuse of suitable decorations.B. Select paper decorations and prioritise recycling remaining materials after the festival.C. Check and store decorations but postpone responsibility decisions until the next festival.D. Retain existing frames and buy replacements before reviewing the other decorations’ condition.Write A, B, C, or D - {#9} Question 40. Which is the best title for the passage?A. Preparing Storage Arrangements for Decorations After a Community FestivalB. Choosing Between the Different Materials Used for Festival DecorationsC. Planning Festival Decorations for More Than One EveningD. Reviewing the Measured Results of a Festival Waste Reduction PlanWrite A, B, C, or D - {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B",
+      "id": "question-1951061-1",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 7,
+          "questionNumber": 1,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23. what is the passage mainly about?a. why residents should stop holding community eventsb. how a discussion changed a group's plastic planc. which nearby local shops offer the cheapest party suppliesd. how a collection company processes different household waste materialswrite a, b, c, or d - {#1} question 24. the word \"eligible\" in duc's email is closest in meaning to ______.a. acceptedb. protectedc. deliveredd. repeatedwrite a, b, c, or d - {#2} question 25. what advantage did thao identify in her proposal?a. it required guests to wash cups during the event.b. it made the event free for every invited resident.c. it guaranteed that every plastic item could be recycled.d. it avoided providing some new items in the first place.write a, b, c, or d - {#3} question 26. the word \"they\" in phuong's final email refers to ______.a. the guests who requested extra cupsb. the plastic items accepted for collectionc. the borrowed cups returned after lunchd. the volunteers who organised the eventwrite a, b, c, or d - {#4} question 27. which statement is not supported by the emails?a. borrowed cups removed the need to arrange collection.b. several guests could already bring their own cups.c. the collection rules excluded the proposed plastic cups.d. the group planned to count unused items afterwards.write a, b, c, or d - {#5} question 28. which statement best describes the change in phuong's thinking?a. she moved from borrowing cups to buying disposable ones.b. she prioritised collecting every plastic item in one bin.c. she considered reducing provision before arranging disposal of waste.d. she stopped checking collection rules after choosing borrowed cups.write a, b, c, or d - {#6} question 29. why does thao mention collecting, washing and returning cups?a. to show that disposable products always cost lessb. to explain how cups are manufactured from plasticc. to suggest that guests avoid drinking at eventsd. to connect a purchasing choice with practical responsibilitieswrite a, b, c, or d - {#7} question 30. what can be inferred from the group's revised plan?a. the group could stop checking all its future waste.b. preventing waste could also reduce tasks after the event.c. bringing cups would make every future event waste-free.d. borrowing cups could remove the need for any volunteers.write a, b, c, or d - {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23. What is the passage mainly about?A. Why residents should stop holding community eventsB. How a discussion changed a group's plastic planC. Which nearby local shops offer the cheapest party suppliesD. How a collection company processes different household waste materialsWrite A, B, C, or D - {#1} Question 24. The word \"eligible\" in Duc's email is closest in meaning to ______.A. acceptedB. protectedC. deliveredD. repeatedWrite A, B, C, or D - {#2} Question 25. What advantage did Thao identify in her proposal?A. It required guests to wash cups during the event.B. It made the event free for every invited resident.C. It guaranteed that every plastic item could be recycled.D. It avoided providing some new items in the first place.Write A, B, C, or D - {#3} Question 26. The word \"They\" in Phuong's final email refers to ______.A. the guests who requested extra cupsB. the plastic items accepted for collectionC. the borrowed cups returned after lunchD. the volunteers who organised the eventWrite A, B, C, or D - {#4} Question 27. Which statement is NOT supported by the emails?A. Borrowed cups removed the need to arrange collection.B. Several guests could already bring their own cups.C. The collection rules excluded the proposed plastic cups.D. The group planned to count unused items afterwards.Write A, B, C, or D - {#5} Question 28. Which statement best describes the change in Phuong's thinking?A. She moved from borrowing cups to buying disposable ones.B. She prioritised collecting every plastic item in one bin.C. She considered reducing provision before arranging disposal of waste.D. She stopped checking collection rules after choosing borrowed cups.Write A, B, C, or D - {#6} Question 29. Why does Thao mention collecting, washing and returning cups?A. To show that disposable products always cost lessB. To explain how cups are manufactured from plasticC. To suggest that guests avoid drinking at eventsD. To connect a purchasing choice with practical responsibilitiesWrite A, B, C, or D - {#7} Question 30. What can be inferred from the group's revised plan?A. The group could stop checking all its future waste.B. Preventing waste could also reduce tasks after the event.C. Bringing cups would make every future event waste-free.D. Borrowing cups could remove the need for any volunteers.Write A, B, C, or D - {#8}",
+      "questionId": "question-1951061-1",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23. what is the passage mainly about?a. why residents should stop holding community eventsb. how a discussion changed a group's plastic planc. which nearby local shops offer the cheapest party suppliesd. how a collection company processes different household waste materialswrite a, b, c, or d - {#1} question 24. the word \"eligible\" in duc's email is closest in meaning to ______.a. acceptedb. protectedc. deliveredd. repeatedwrite a, b, c, or d - {#2} question 25. what advantage did thao identify in her proposal?a. it required guests to wash cups during the event.b. it made the event free for every invited resident.c. it guaranteed that every plastic item could be recycled.d. it avoided providing some new items in the first place.write a, b, c, or d - {#3} question 26. the word \"they\" in phuong's final email refers to ______.a. the guests who requested extra cupsb. the plastic items accepted for collectionc. the borrowed cups returned after lunchd. the volunteers who organised the eventwrite a, b, c, or d - {#4} question 27. which statement is not supported by the emails?a. borrowed cups removed the need to arrange collection.b. several guests could already bring their own cups.c. the collection rules excluded the proposed plastic cups.d. the group planned to count unused items afterwards.write a, b, c, or d - {#5} question 28. which statement best describes the change in phuong's thinking?a. she moved from borrowing cups to buying disposable ones.b. she prioritised collecting every plastic item in one bin.c. she considered reducing provision before arranging disposal of waste.d. she stopped checking collection rules after choosing borrowed cups.write a, b, c, or d - {#6} question 29. why does thao mention collecting, washing and returning cups?a. to show that disposable products always cost lessb. to explain how cups are manufactured from plasticc. to suggest that guests avoid drinking at eventsd. to connect a purchasing choice with practical responsibilitieswrite a, b, c, or d - {#7} question 30. what can be inferred from the group's revised plan?a. the group could stop checking all its future waste.b. preventing waste could also reduce tasks after the event.c. bringing cups would make every future event waste-free.d. borrowing cups could remove the need for any volunteers.write a, b, c, or d - {#8}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1951061-2",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "questionNumber": 2,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 9,
+          "questionNumber": 2,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31. what is the main idea of the passage?a. how volunteers could store decorations after a neighbourhood festivalb. why checking old lights was the main festival preparation taskc. how organisers could reduce waste from festival decorationsd. which decoration materials organisers should choose for the next festivalwrite a, b, c, or d - {#1} question 32. which detail is stated in the passage?a. some paper decorations were fixed to reusable frames.b. every family purchased new lights for the festival.c. the volunteers replaced every decoration after one evening.d. all decorations were accepted by the local recycling service.write a, b, c, or d - {#2} question 33. the word \"retain\" in paragraph 4 is closest in meaning to ______.a. describeb. borrowc. keepd. changewrite a, b, c, or d - {#3} question 34. the word \"which\" in paragraph 1 refers to ______.a. visitors buying decorations from several different local shopsb. organisers choosing decorations only for their initial appearancec. volunteers keeping the frames for use at another eventd. residents checking whether the stored lights still workedwrite a, b, c, or d - {#4} question 35. which statement best expresses the meaning of the first sentence of paragraph 3?a. reusing an item requires preparations beyond its first use.b. reusing items depends mainly on choosing materials before purchase.c. keeping items is sufficient once another event is planned.d. storing items should precede an inspection of their condition.write a, b, c, or d - {#5} question 36. what can be inferred from the passage?a. selecting durable materials can take the place of storage planning.b. checking old lights removes the need to inspect other decorations.c. a reusable decoration may still be discarded without arrangements.d. disposal arrangements primarily determine a decoration's initial visual design.write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 3?a. to explain why visitors should arrive before sunsetb. to show how practical arrangements support future reusec. to describe how factories produce new festival decorationsd. to compare the popularity of different annual community celebrationswrite a, b, c, or d - {#7} question 38. where does the following sentence best fit in paragraph 3?without someone responsible for that return, the storage place and the record alone will not ensure that the items are kept.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#8} question 39. which statement best summarises the report's recommendations?a. reduce short-lived purchases and organise the future reuse of suitable decorations.b. select paper decorations and prioritise recycling remaining materials after the festival.c. check and store decorations but postpone responsibility decisions until the next festival.d. retain existing frames and buy replacements before reviewing the other decorations' condition.write a, b, c, or d - {#9} question 40. which is the best title for the passage?a. preparing storage arrangements for decorations after a community festivalb. choosing between the different materials used for festival decorationsc. planning festival decorations for more than one eveningd. reviewing the measured results of a festival waste reduction planwrite a, b, c, or d - {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31. What is the main idea of the passage?A. How volunteers could store decorations after a neighbourhood festivalB. Why checking old lights was the main festival preparation taskC. How organisers could reduce waste from festival decorationsD. Which decoration materials organisers should choose for the next festivalWrite A, B, C, or D - {#1} Question 32. Which detail is stated in the passage?A. Some paper decorations were fixed to reusable frames.B. Every family purchased new lights for the festival.C. The volunteers replaced every decoration after one evening.D. All decorations were accepted by the local recycling service.Write A, B, C, or D - {#2} Question 33. The word \"retain\" in paragraph 4 is closest in meaning to ______.A. describeB. borrowC. keepD. changeWrite A, B, C, or D - {#3} Question 34. The word \"which\" in paragraph 1 refers to ______.A. visitors buying decorations from several different local shopsB. organisers choosing decorations only for their initial appearanceC. volunteers keeping the frames for use at another eventD. residents checking whether the stored lights still workedWrite A, B, C, or D - {#4} Question 35. Which statement best expresses the meaning of the first sentence of paragraph 3?A. Reusing an item requires preparations beyond its first use.B. Reusing items depends mainly on choosing materials before purchase.C. Keeping items is sufficient once another event is planned.D. Storing items should precede an inspection of their condition.Write A, B, C, or D - {#5} Question 36. What can be inferred from the passage?A. Selecting durable materials can take the place of storage planning.B. Checking old lights removes the need to inspect other decorations.C. A reusable decoration may still be discarded without arrangements.D. Disposal arrangements primarily determine a decoration's initial visual design.Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 3?A. To explain why visitors should arrive before sunsetB. To show how practical arrangements support future reuseC. To describe how factories produce new festival decorationsD. To compare the popularity of different annual community celebrationsWrite A, B, C, or D - {#7} Question 38. Where does the following sentence best fit in paragraph 3?Without someone responsible for that return, the storage place and the record alone will not ensure that the items are kept.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - {#8} Question 39. Which statement best summarises the report's recommendations?A. Reduce short-lived purchases and organise the future reuse of suitable decorations.B. Select paper decorations and prioritise recycling remaining materials after the festival.C. Check and store decorations but postpone responsibility decisions until the next festival.D. Retain existing frames and buy replacements before reviewing the other decorations' condition.Write A, B, C, or D - {#9} Question 40. Which is the best title for the passage?A. Preparing Storage Arrangements for Decorations After a Community FestivalB. Choosing Between the Different Materials Used for Festival DecorationsC. Planning Festival Decorations for More Than One EveningD. Reviewing the Measured Results of a Festival Waste Reduction PlanWrite A, B, C, or D - {#10}",
+      "questionId": "question-1951061-2",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31. what is the main idea of the passage?a. how volunteers could store decorations after a neighbourhood festivalb. why checking old lights was the main festival preparation taskc. how organisers could reduce waste from festival decorationsd. which decoration materials organisers should choose for the next festivalwrite a, b, c, or d - {#1} question 32. which detail is stated in the passage?a. some paper decorations were fixed to reusable frames.b. every family purchased new lights for the festival.c. the volunteers replaced every decoration after one evening.d. all decorations were accepted by the local recycling service.write a, b, c, or d - {#2} question 33. the word \"retain\" in paragraph 4 is closest in meaning to ______.a. describeb. borrowc. keepd. changewrite a, b, c, or d - {#3} question 34. the word \"which\" in paragraph 1 refers to ______.a. visitors buying decorations from several different local shopsb. organisers choosing decorations only for their initial appearancec. volunteers keeping the frames for use at another eventd. residents checking whether the stored lights still workedwrite a, b, c, or d - {#4} question 35. which statement best expresses the meaning of the first sentence of paragraph 3?a. reusing an item requires preparations beyond its first use.b. reusing items depends mainly on choosing materials before purchase.c. keeping items is sufficient once another event is planned.d. storing items should precede an inspection of their condition.write a, b, c, or d - {#5} question 36. what can be inferred from the passage?a. selecting durable materials can take the place of storage planning.b. checking old lights removes the need to inspect other decorations.c. a reusable decoration may still be discarded without arrangements.d. disposal arrangements primarily determine a decoration's initial visual design.write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 3?a. to explain why visitors should arrive before sunsetb. to show how practical arrangements support future reusec. to describe how factories produce new festival decorationsd. to compare the popularity of different annual community celebrationswrite a, b, c, or d - {#7} question 38. where does the following sentence best fit in paragraph 3?without someone responsible for that return, the storage place and the record alone will not ensure that the items are kept.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#8} question 39. which statement best summarises the report's recommendations?a. reduce short-lived purchases and organise the future reuse of suitable decorations.b. select paper decorations and prioritise recycling remaining materials after the festival.c. check and store decorations but postpone responsibility decisions until the next festival.d. retain existing frames and buy replacements before reviewing the other decorations' condition.write a, b, c, or d - {#9} question 40. which is the best title for the passage?a. preparing storage arrangements for decorations after a community festivalb. choosing between the different materials used for festival decorationsc. planning festival decorations for more than one eveningd. reviewing the measured results of a festival waste reduction planwrite a, b, c, or d - {#10}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
