@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 20:22:42",
+  "updated_at": "2026-11-08 20:30:31",
   "total_configs": 70,
   "configs": [
     {
@@ -361,24 +361,6 @@
       "score_pct": 100.0,
       "question_count": 40,
       "updated_at": "2026-10-25 20:46:03"
-    },
-    {
-      "account_name": "Văn Thiên Kim",
-      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 3 - ÔN TẬP GK1",
-      "unit_key": "session_3_on_tap_gk1",
-      "quiz_title": "GR11EX30-TERM 1 MID-TEST REVIEW",
-      "quiz_key": "gr11ex30_term_1_mid_test_review",
-      "cmid": "739913",
-      "course_id": "4775",
-      "repo_path": "cloud_configs/khoi_11/session_3_on_tap_gk1/gr11ex30_term_1_mid_test_review.json",
-      "score": "100.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 152,
-      "updated_at": "2026-10-26 05:31:06"
     },
     {
       "account_name": "Trương Võ Hoàng Lâm",
@@ -1261,6 +1243,24 @@
       "score_pct": 100.0,
       "question_count": 40,
       "updated_at": "2026-11-08 20:22:42"
+    },
+    {
+      "account_name": "Cao Nguyễn Hoàng Gia Khang",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 3 - ÔN TẬP GK1",
+      "unit_key": "session_3_on_tap_gk1",
+      "quiz_title": "GR11EX30-TERM 1 MID-TEST REVIEW",
+      "quiz_key": "gr11ex30_term_1_mid_test_review",
+      "cmid": "739913",
+      "course_id": "9690",
+      "repo_path": "cloud_configs/khoi_11/session_3_on_tap_gk1/gr11ex30_term_1_mid_test_review.json",
+      "score": "40.00/40.00",
+      "score_pct": 100.0,
+      "question_count": 164,
+      "updated_at": "2026-11-08 20:30:31"
     }
   ]
 }
