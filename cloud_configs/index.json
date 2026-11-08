@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08 20:35:20",
+  "updated_at": "2026-11-08 20:42:26",
   "total_configs": 70,
   "configs": [
     {
@@ -766,24 +766,6 @@
       "grade_num": "11",
       "unit_name": "SESSION 4",
       "unit_key": "session_4",
-      "quiz_title": "GR11EX34MOET",
-      "quiz_key": "gr11ex34moet",
-      "cmid": "742991",
-      "course_id": "4775",
-      "repo_path": "cloud_configs/khoi_11/session_4/gr11ex34moet.json",
-      "score": "96.00 trên 100.00",
-      "score_pct": 100.0,
-      "question_count": 25,
-      "updated_at": "2026-11-01 20:53:48"
-    },
-    {
-      "account_name": "Nguyễn Văn Phi Tiến",
-      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 4",
-      "unit_key": "session_4",
       "quiz_title": "GR11EX38MOET",
       "quiz_key": "gr11ex38moet",
       "cmid": "744164",
@@ -1261,6 +1243,24 @@
       "score_pct": 100.0,
       "question_count": 152,
       "updated_at": "2026-11-08 20:35:20"
+    },
+    {
+      "account_name": "Cao Nguyễn Hoàng Gia Khang",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR11EX34MOET",
+      "quiz_key": "gr11ex34moet",
+      "cmid": "742991",
+      "course_id": "9690",
+      "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex34moet.json",
+      "score": "25.00/25.00",
+      "score_pct": 100.0,
+      "question_count": 25,
+      "updated_at": "2026-11-08 20:42:26"
     }
   ]
 }
