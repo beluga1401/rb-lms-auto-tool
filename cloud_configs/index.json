@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08 08:07:28",
-  "total_configs": 61,
+  "updated_at": "2026-11-08 08:27:20",
+  "total_configs": 62,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -1099,6 +1099,24 @@
       "score_pct": 95.0,
       "question_count": 20,
       "updated_at": "2026-11-08 08:07:28"
+    },
+    {
+      "account_name": "Bùi Thiên Ân",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR12EX36MOET",
+      "quiz_key": "gr12ex36moet",
+      "cmid": "743007",
+      "course_id": "4775",
+      "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex36moet.json",
+      "score": "20.00/20.00",
+      "score_pct": 100.0,
+      "question_count": 30,
+      "updated_at": "2026-11-08 08:27:20"
     }
   ]
 }
