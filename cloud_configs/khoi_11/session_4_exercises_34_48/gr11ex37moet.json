@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "account_name": "Cao Nguyễn Hoàng Gia Khang",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR11EX37MOET",
+    "quiz_key": "gr11ex37moet",
+    "cmid": "744163",
+    "course_id": "9690",
+    "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex37moet.json",
+    "score": "20.00/20.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-11-08 20:51:29"
+  },
+  "answers": [
+    {
+      "id": "question-1953520-10",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information. this decision reduced the risk of presenting an inaccurate fact.this decision refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information. This decision reduced the risk of presenting an inaccurate fact. This decision refers to:",
+      "options": [
+        "excluding the figure until its accuracy was confirmed"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-10",
+      "questionNumber": 3,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information. This decision reduced the risk of presenting an inaccurate fact.This decision refers to:",
+      "answer": "excluding the figure until its accuracy was confirmed",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the presentation group decided to leave an unchecked population figure out of its slides until it could confirm the information. this decision reduced the risk of presenting an inaccurate fact.this decision refers to:",
+      "letter": "A",
+      "rightAnswer": "excluding the figure until its accuracy was confirmed"
+    },
+    {
+      "id": "question-1953520-6",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the event plan includes a poster-design workshop, which teaches participants how to organise images and information clearly. afterwards, participants will use what they have learnt to create asean posters.which refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The event plan includes a poster-design workshop, which teaches participants how to organise images and information clearly. Afterwards, participants will use what they have learnt to create ASEAN posters. Which refers to:",
+      "options": [
+        "the poster-design workshop"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-6",
+      "questionNumber": 4,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The event plan includes a poster-design workshop, which teaches participants how to organise images and information clearly. Afterwards, participants will use what they have learnt to create ASEAN posters.Which refers to:",
+      "answer": "the poster-design workshop",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the event plan includes a poster-design workshop, which teaches participants how to organise images and information clearly. afterwards, participants will use what they have learnt to create asean posters.which refers to:",
+      "letter": "B",
+      "rightAnswer": "the poster-design workshop"
+    },
+    {
+      "id": "question-1953520-5",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the preparation workshop focused on leadership skills and problem-solving skills. these skills would help participants guide a team and deal with difficulties during community projects.these skills refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The preparation workshop focused on leadership skills and problem-solving skills. These skills would help participants guide a team and deal with difficulties during community projects. These skills refers to:",
+      "options": [
+        "leadership skills and problem-solving skills"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-5",
+      "questionNumber": 8,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The preparation workshop focused on leadership skills and problem-solving skills. These skills would help participants guide a team and deal with difficulties during community projects.These skills refers to:",
+      "answer": "leadership skills and problem-solving skills",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the preparation workshop focused on leadership skills and problem-solving skills. these skills would help participants guide a team and deal with difficulties during community projects.these skills refers to:",
+      "letter": "D",
+      "rightAnswer": "leadership skills and problem-solving skills"
+    },
+    {
+      "id": "question-1953520-3",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.a group of visiting students arrived for the cultural exchange. the teacher introduced them to their local student hosts before the activities began.them refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. A group of visiting students arrived for the cultural exchange. The teacher introduced them to their local student hosts before the activities began. Them refers to:",
+      "options": [
+        "the visiting students"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-3",
+      "questionNumber": 2,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.A group of visiting students arrived for the cultural exchange. The teacher introduced them to their local student hosts before the activities began.Them refers to:",
+      "answer": "the visiting students",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.a group of visiting students arrived for the cultural exchange. the teacher introduced them to their local student hosts before the activities began.them refers to:",
+      "letter": "A",
+      "rightAnswer": "the visiting students"
+    },
+    {
+      "id": "question-1953520-7",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the welcome event aims to help local and visiting students build friendships. this goal explains why the organisers chose games that require students to cooperate.this goal refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The welcome event aims to help local and visiting students build friendships. This goal explains why the organisers chose games that require students to cooperate. This goal refers to:",
+      "options": [
+        "helping local and visiting students build friendships"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-7",
+      "questionNumber": 10,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The welcome event aims to help local and visiting students build friendships. This goal explains why the organisers chose games that require students to cooperate.This goal refers to:",
+      "answer": "helping local and visiting students build friendships",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the welcome event aims to help local and visiting students build friendships. this goal explains why the organisers chose games that require students to cooperate.this goal refers to:",
+      "letter": "D",
+      "rightAnswer": "helping local and visiting students build friendships"
+    },
+    {
+      "id": "question-1953520-8",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the organisers placed local and visiting students in mixed teams rather than separate groups. this approach encouraged contact between students who had not met before.this approach refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The organisers placed local and visiting students in mixed teams rather than separate groups. This approach encouraged contact between students who had not met before. This approach refers to:",
+      "options": [
+        "placing local and visiting students in mixed teams"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-8",
+      "questionNumber": 5,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The organisers placed local and visiting students in mixed teams rather than separate groups. This approach encouraged contact between students who had not met before.This approach refers to:",
+      "answer": "placing local and visiting students in mixed teams",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the organisers placed local and visiting students in mixed teams rather than separate groups. this approach encouraged contact between students who had not met before.this approach refers to:",
+      "letter": "B",
+      "rightAnswer": "placing local and visiting students in mixed teams"
+    },
+    {
+      "id": "question-1953520-9",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.during cultural exchanges, students shared songs, discussed customs and learnt from peers with different backgrounds. such exchanges helped them understand perspectives beyond their own.such exchanges refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. During cultural exchanges, students shared songs, discussed customs and learnt from peers with different backgrounds. Such exchanges helped them understand perspectives beyond their own. Such exchanges refers to:",
+      "options": [
+        "cultural experiences involving mutual sharing and learning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-9",
+      "questionNumber": 7,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.During cultural exchanges, students shared songs, discussed customs and learnt from peers with different backgrounds. Such exchanges helped them understand perspectives beyond their own.Such exchanges refers to:",
+      "answer": "cultural experiences involving mutual sharing and learning",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.during cultural exchanges, students shared songs, discussed customs and learnt from peers with different backgrounds. such exchanges helped them understand perspectives beyond their own.such exchanges refers to:",
+      "letter": "D",
+      "rightAnswer": "cultural experiences involving mutual sharing and learning"
+    },
+    {
+      "id": "question-1953520-1",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the student group submitted a welcome-event proposal to the head teacher. it explains the proposed activities, their benefits and the arrangements needed.it refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The student group submitted a welcome-event proposal to the head teacher. It explains the proposed activities, their benefits and the arrangements needed. It refers to:",
+      "options": [
+        "the welcome-event proposal"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-1",
+      "questionNumber": 1,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The student group submitted a welcome-event proposal to the head teacher. It explains the proposed activities, their benefits and the arrangements needed.It refers to:",
+      "answer": "the welcome-event proposal",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the student group submitted a welcome-event proposal to the head teacher. it explains the proposed activities, their benefits and the arrangements needed.it refers to:",
+      "letter": "D",
+      "rightAnswer": "the welcome-event proposal"
+    },
+    {
+      "id": "question-1953520-2",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the volunteers began demonstrating traditional games to the visiting students. they continued the demonstration by explaining the rules before inviting the visitors to play.they refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. The volunteers began demonstrating traditional games to the visiting students. They continued the demonstration by explaining the rules before inviting the visitors to play. They refers to:",
+      "options": [
+        "the volunteers leading the demonstration"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-2",
+      "questionNumber": 9,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.The volunteers began demonstrating traditional games to the visiting students. They continued the demonstration by explaining the rules before inviting the visitors to play.They refers to:",
+      "answer": "the volunteers leading the demonstration",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.the volunteers began demonstrating traditional games to the visiting students. they continued the demonstration by explaining the rules before inviting the visitors to play.they refers to:",
+      "letter": "D",
+      "rightAnswer": "the volunteers leading the demonstration"
+    },
+    {
+      "id": "question-1953520-4",
+      "questionKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.local and visiting students worked in mixed groups to make asean posters. this activity gave them opportunities to share ideas while creating something together.this activity refers to:",
+      "questionRaw": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to. Local and visiting students worked in mixed groups to make ASEAN posters. This activity gave them opportunities to share ideas while creating something together. This activity refers to:",
+      "options": [
+        "making ASEAN posters together in mixed groups"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-4",
+      "questionNumber": 6,
+      "question": "Choose the option A, B, C, or D that identifies what the bold reference expression refers to.Local and visiting students worked in mixed groups to make ASEAN posters. This activity gave them opportunities to share ideas while creating something together.This activity refers to:",
+      "answer": "making ASEAN posters together in mixed groups",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that identifies what the bold reference expression refers to.local and visiting students worked in mixed groups to make asean posters. this activity gave them opportunities to share ideas while creating something together.this activity refers to:",
+      "letter": "D",
+      "rightAnswer": "making ASEAN posters together in mixed groups"
+    },
+    {
+      "id": "question-1953520-17",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the group chose linh as its representative to explain the proposal to the teacher.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. The group chose Linh as its representative to explain the proposal to the teacher.",
+      "options": [
+        "The group chose Linh to explain its proposal to the teacher on its behalf."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-17",
+      "questionNumber": 15,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The group chose Linh as its representative to explain the proposal to the teacher.",
+      "answer": "The group chose Linh to explain its proposal to the teacher on its behalf.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the group chose linh as its representative to explain the proposal to the teacher.",
+      "letter": "A",
+      "rightAnswer": "The group chose Linh to explain its proposal to the teacher on its behalf."
+    },
+    {
+      "id": "question-1953520-12",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the students suggested organising a traditional games festival to welcome the visitors.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. The students suggested organising a traditional games festival to welcome the visitors.",
+      "options": [
+        "The students proposed holding a traditional games festival as a welcome activity for the visitors."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-12",
+      "questionNumber": 17,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The students suggested organising a traditional games festival to welcome the visitors.",
+      "answer": "The students proposed holding a traditional games festival as a welcome activity for the visitors.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the students suggested organising a traditional games festival to welcome the visitors.",
+      "letter": "A",
+      "rightAnswer": "The students proposed holding a traditional games festival as a welcome activity for the visitors."
+    },
+    {
+      "id": "question-1953520-16",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.working in mixed groups may help local and visiting students build friendships.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. Working in mixed groups may help local and visiting students build friendships.",
+      "options": [
+        "Working in mixed groups could make it easier for local and visiting students to become friends."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-16",
+      "questionNumber": 18,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Working in mixed groups may help local and visiting students build friendships.",
+      "answer": "Working in mixed groups could make it easier for local and visiting students to become friends.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.working in mixed groups may help local and visiting students build friendships.",
+      "letter": "B",
+      "rightAnswer": "Working in mixed groups could make it easier for local and visiting students to become friends."
+    },
+    {
+      "id": "question-1953520-13",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the visitors thanked the volunteers for helping them understand the game instructions.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. The visitors thanked the volunteers for helping them understand the game instructions.",
+      "options": [
+        "The volunteers received thanks from the visitors for helping them understand the game instructions."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-13",
+      "questionNumber": 14,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The visitors thanked the volunteers for helping them understand the game instructions.",
+      "answer": "The volunteers received thanks from the visitors for helping them understand the game instructions.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the visitors thanked the volunteers for helping them understand the game instructions.",
+      "letter": "C",
+      "rightAnswer": "The volunteers received thanks from the visitors for helping them understand the game instructions."
+    },
+    {
+      "id": "question-1953520-19",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.students can recognise shared values while appreciating differences in cultural customs.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. Students can recognise shared values while appreciating differences in cultural customs.",
+      "options": [
+        "Students can identify common principles and also value differences in cultural practices."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-19",
+      "questionNumber": 20,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Students can recognise shared values while appreciating differences in cultural customs.",
+      "answer": "Students can identify common principles and also value differences in cultural practices.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.students can recognise shared values while appreciating differences in cultural customs.",
+      "letter": "C",
+      "rightAnswer": "Students can identify common principles and also value differences in cultural practices."
+    },
+    {
+      "id": "question-1953520-14",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.making arrangements for the welcome event involves preparing materials and checking the schedule.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. Making arrangements for the welcome event involves preparing materials and checking the schedule.",
+      "options": [
+        "Organising the welcome event includes both preparing materials and checking the schedule."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-14",
+      "questionNumber": 13,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Making arrangements for the welcome event involves preparing materials and checking the schedule.",
+      "answer": "Organising the welcome event includes both preparing materials and checking the schedule.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.making arrangements for the welcome event involves preparing materials and checking the schedule.",
+      "letter": "D",
+      "rightAnswer": "Organising the welcome event includes both preparing materials and checking the schedule."
+    },
+    {
+      "id": "question-1953520-18",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the students must check the country information before using it in their presentation slides.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. The students must check the country information before using it in their presentation slides.",
+      "options": [
+        "The students must verify the country information before including it in their slides."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-18",
+      "questionNumber": 16,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The students must check the country information before using it in their presentation slides.",
+      "answer": "The students must verify the country information before including it in their slides.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the students must check the country information before using it in their presentation slides.",
+      "letter": "B",
+      "rightAnswer": "The students must verify the country information before including it in their slides."
+    },
+    {
+      "id": "question-1953520-20",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the poster activity aims to encourage cooperation by asking local and visiting students to work together.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. The poster activity aims to encourage cooperation by asking local and visiting students to work together.",
+      "options": [
+        "The poster activity aims to promote cooperation through joint work by local and visiting students."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-20",
+      "questionNumber": 11,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The poster activity aims to encourage cooperation by asking local and visiting students to work together.",
+      "answer": "The poster activity aims to promote cooperation through joint work by local and visiting students.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the poster activity aims to encourage cooperation by asking local and visiting students to work together.",
+      "letter": "C",
+      "rightAnswer": "The poster activity aims to promote cooperation through joint work by local and visiting students."
+    },
+    {
+      "id": "question-1953520-15",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the students are keen on learning about the customs of other asean countries.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. The students are keen on learning about the customs of other ASEAN countries.",
+      "options": [
+        "The students have a strong interest in finding out about other ASEAN countries' customs."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-15",
+      "questionNumber": 19,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.The students are keen on learning about the customs of other ASEAN countries.",
+      "answer": "The students have a strong interest in finding out about other ASEAN countries' customs.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.the students are keen on learning about the customs of other asean countries.",
+      "letter": "B",
+      "rightAnswer": "The students have a strong interest in finding out about other ASEAN countries' customs."
+    },
+    {
+      "id": "question-1953520-11",
+      "questionKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.taking part in community projects gives young volunteers opportunities to develop leadership skills.",
+      "questionRaw": "Choose the option A, B, C, or D that is closest in meaning to the original sentence. Taking part in community projects gives young volunteers opportunities to develop leadership skills.",
+      "options": [
+        "Young volunteers have chances to develop leadership skills through participation in community projects."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1953520-11",
+      "questionNumber": 12,
+      "question": "Choose the option A, B, C, or D that is closest in meaning to the original sentence.Taking part in community projects gives young volunteers opportunities to develop leadership skills.",
+      "answer": "Young volunteers have chances to develop leadership skills through participation in community projects.",
+      "dragdrops": [],
+      "legacyQKey": "choose the option a, b, c, or d that is closest in meaning to the original sentence.taking part in community projects gives young volunteers opportunities to develop leadership skills.",
+      "letter": "B",
+      "rightAnswer": "Young volunteers have chances to develop leadership skills through participation in community projects."
+    }
+  ]
+}
