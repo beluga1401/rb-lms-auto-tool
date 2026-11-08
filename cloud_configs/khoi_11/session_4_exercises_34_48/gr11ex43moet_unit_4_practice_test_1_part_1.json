@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "account_name": "Nguyễn Văn Phi Tiến",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR11EX43MOET UNIT 4 PRACTICE TEST 1 PART 1",
+    "quiz_key": "gr11ex43moet_unit_4_practice_test_1_part_1",
+    "cmid": "745374",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex43moet_unit_4_practice_test_1_part_1.json",
+    "score": "22.00/22.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-08 16:19:19"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. regional student day our school will welcome students from several partner schools next friday. taking part in a cultural (1) gives students a chance to learn about one another's ideas and traditions. students interested in (2) the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (3) . in the afternoon, participants will enjoy (4) ideas with students from other countries during a short group task. (5) , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (6) by listening carefully and sharing ideas.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a cultural (1) {#1} gives students a chance to learn about one another's ideas and traditions. Students interested in (2) {#2} the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (3) {#3}. In the afternoon, participants will enjoy (4) {#4} ideas with students from other countries during a short group task. (5) {#5}, each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (6) {#6} by listening carefully and sharing ideas.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "cultural exchange"
+        },
+        {
+          "index": 1,
+          "value": "joining"
+        },
+        {
+          "index": 2,
+          "value": "leadership skills"
+        },
+        {
+          "index": 3,
+          "value": "discussing"
+        },
+        {
+          "index": 4,
+          "value": "At the end of the day"
+        },
+        {
+          "index": 5,
+          "value": "relations"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a cultural (1) {#1} gives students a chance to learn about one another's ideas and traditions. Students interested in (2) {#2} the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (3) {#3}. In the afternoon, participants will enjoy (4) {#4} ideas with students from other countries during a short group task. (5) {#5}, each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (6) {#6} by listening carefully and sharing ideas.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. asean youth leadership workshop (7) with students from different countries is an important part of the workshop. teams will discuss (8) that matter to young people, such as access to education and youth employment. each discussion involves (9) a short plan before one member presents it. participants will also practise speaking (10) in front of a group. the workshop also includes a small community activity. by helping with the activity, participants can make a useful (11) while learning how local projects are organised. the workshop combines discussion, teamwork, and practical activities. (12) , participants can develop both useful skills and intercultural understanding.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. ASEAN YOUTH LEADERSHIP WORKSHOP (7) {#1} with students from different countries is an important part of the workshop. Teams will discuss (8) {#2} that matter to young people, such as access to education and youth employment. Each discussion involves (9) {#3} a short plan before one member presents it. Participants will also practise speaking (10) {#4} in front of a group. The workshop also includes a small community activity. By helping with the activity, participants can make a useful (11) {#5} while learning how local projects are organised. The workshop combines discussion, teamwork, and practical activities. (12) {#6}, participants can develop both useful skills and intercultural understanding.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "Cooperating"
+        },
+        {
+          "index": 1,
+          "value": "current issues"
+        },
+        {
+          "index": 2,
+          "value": "preparing"
+        },
+        {
+          "index": 3,
+          "value": "confidently"
+        },
+        {
+          "index": 4,
+          "value": "contribution"
+        },
+        {
+          "index": 5,
+          "value": "As a result"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. ASEAN YOUTH LEADERSHIP WORKSHOP (7) {#1} with students from different countries is an important part of the workshop. Teams will discuss (8) {#2} that matter to young people, such as access to education and youth employment. Each discussion involves (9) {#3} a short plan before one member presents it. Participants will also practise speaking (10) {#4} in front of a group. The workshop also includes a small community activity. By helping with the activity, participants can make a useful (11) {#5} while learning how local projects are organised. The workshop combines discussion, teamwork, and practical activities. (12) {#6}, participants can develop both useful skills and intercultural understanding.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. regional youth action programme next month, students from four partner schools will join a three-day regional youth action programme. its purpose is to help young people learn how small community projects are planned and carried out. (13) ______. before the programme starts, participants will receive short descriptions of two local community needs. each student will also think about one skill or experience they can contribute. (14) ______. on the first day, mixed teams will meet local organisers and discuss possible activities. each team session will involve (15) ______ a simple plan that can be completed during the visit. the following day, teams will carry out one short activity and then review what worked well and what could be improved. (16) ______. by the end of the programme, students should understand that effective community work depends not only on having good ideas but also on (17) ______ with others and responding to local needs. question 13.a. students will therefore spend all three days listening to talks at school.b. for this reason, the programme combines short training sessions with direct community work.c. the organisers have decided that participants should work separately during the visit.d. as a result, no preparation will be needed before students begin the programme.write a, b, c, or d - question 14.a. the organisers will use these notes to remove all team activities.b. students will not discuss these ideas again during the programme.c. this preparation will give the teams useful starting points when they first meet.d. the programme therefore expects everyone to arrive with identical experience.write a, b, c, or d - question 15.a. prepareb. preparingc. preparedd. to preparingwrite a, b, c, or d - question 16.a. this review will help students connect their practical experience with what they learned in training.b. the review will ensure that every team receives exactly the same result.c. after the activity, students will no longer need to discuss what happened.d. the organisers will use the review only to choose a winning team.write a, b, c, or d - question 17.a. cooperatingb. cooperatec. cooperatedd. to cooperatewrite a, b, c, or d -",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. REGIONAL YOUTH ACTION PROGRAMME Next month, students from four partner schools will join a three-day Regional Youth Action Programme. Its purpose is to help young people learn how small community projects are planned and carried out. (13) ______. Before the programme starts, participants will receive short descriptions of two local community needs. Each student will also think about one skill or experience they can contribute. (14) ______. On the first day, mixed teams will meet local organisers and discuss possible activities. Each team session will involve (15) ______ a simple plan that can be completed during the visit. The following day, teams will carry out one short activity and then review what worked well and what could be improved. (16) ______. By the end of the programme, students should understand that effective community work depends not only on having good ideas but also on (17) ______ with others and responding to local needs. Question 13.A. Students will therefore spend all three days listening to talks at school.B. For this reason, the programme combines short training sessions with direct community work.C. The organisers have decided that participants should work separately during the visit.D. As a result, no preparation will be needed before students begin the programme.Write A, B, C, or D - {#1} Question 14.A. The organisers will use these notes to remove all team activities.B. Students will not discuss these ideas again during the programme.C. This preparation will give the teams useful starting points when they first meet.D. The programme therefore expects everyone to arrive with identical experience.Write A, B, C, or D - {#2} Question 15.A. prepareB. preparingC. preparedD. to preparingWrite A, B, C, or D - {#3} Question 16.A. This review will help students connect their practical experience with what they learned in training.B. The review will ensure that every team receives exactly the same result.C. After the activity, students will no longer need to discuss what happened.D. The organisers will use the review only to choose a winning team.Write A, B, C, or D - {#4} Question 17.A. cooperatingB. cooperateC. cooperatedD. to cooperateWrite A, B, C, or D - {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "value": "b"
+        },
+        {
+          "index": 3,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. REGIONAL YOUTH ACTION PROGRAMME Next month, students from four partner schools will join a three-day Regional Youth Action Programme. Its purpose is to help young people learn how small community projects are planned and carried out. (13) ______. Before the programme starts, participants will receive short descriptions of two local community needs. Each student will also think about one skill or experience they can contribute. (14) ______. On the first day, mixed teams will meet local organisers and discuss possible activities. Each team session will involve (15) ______ a simple plan that can be completed during the visit. The following day, teams will carry out one short activity and then review what worked well and what could be improved. (16) ______. By the end of the programme, students should understand that effective community work depends not only on having good ideas but also on (17) ______ with others and responding to local needs. Question 13.A. Students will therefore spend all three days listening to talks at school.B. For this reason, the programme combines short training sessions with direct community work.C. The organisers have decided that participants should work separately during the visit.D. As a result, no preparation will be needed before students begin the programme.Write A, B, C, or D - {#1} Question 14.A. The organisers will use these notes to remove all team activities.B. Students will not discuss these ideas again during the programme.C. This preparation will give the teams useful starting points when they first meet.D. The programme therefore expects everyone to arrive with identical experience.Write A, B, C, or D - {#2} Question 15.A. prepareB. preparingC. preparedD. to preparingWrite A, B, C, or D - {#3} Question 16.A. This review will help students connect their practical experience with what they learned in training.B. The review will ensure that every team receives exactly the same result.C. After the activity, students will no longer need to discuss what happened.D. The organisers will use the review only to choose a winning team.Write A, B, C, or D - {#4} Question 17.A. cooperatingB. cooperateC. cooperatedD. to cooperateWrite A, B, C, or D - {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. with this aim in mind, the teams joined two workshops on communication and community projects.b. a regional youth forum opened at our school on saturday morning.c. at the end of the forum, each team presented one idea for future cooperation.d. the event brought together 60 students from four partner schools, who were divided into mixed teams.e. after the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.a. b - e - d - a - cb. d - b - e - a - cc. b - d - a - e - cd. b - d - e - a - c write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. With this aim in mind, the teams joined two workshops on communication and community projects.b. A regional youth forum opened at our school on Saturday morning.c. At the end of the forum, each team presented one idea for future cooperation.d. The event brought together 60 students from four partner schools, who were divided into mixed teams.e. After the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.A. b - e - d - a - cB. d - b - e - a - cC. b - d - a - e - cD. b - d - e - a - c Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. With this aim in mind, the teams joined two workshops on communication and community projects.b. A regional youth forum opened at our school on Saturday morning.c. At the end of the forum, each team presented one idea for future cooperation.d. The event brought together 60 students from four partner schools, who were divided into mixed teams.e. After the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.A. b - e - d - a - cB. d - b - e - a - cC. b - d - a - e - cD. b - d - e - a - c Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. mai: in my opinion, teamwork skills are the most important for youth-programme participants.b. nam: why do you think teamwork matters most?c. mai: because participants often have to solve problems with people they have only just met.d. nam: that reason makes sense, but i think understanding different cultures is equally important.e. mai: that's a good point. without that understanding, teamwork could become more difficult.f. nam: then perhaps both skills should rank near the top.a. a - c - b - d - e - fb. b - a - c - d - e - fc. a - b - c - d - e - fd. a - b - d - c - e - f write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. Mai: In my opinion, teamwork skills are the most important for youth-programme participants.b. Nam: Why do you think teamwork matters most?c. Mai: Because participants often have to solve problems with people they have only just met.d. Nam: That reason makes sense, but I think understanding different cultures is equally important.e. Mai: That's a good point. Without that understanding, teamwork could become more difficult.f. Nam: Then perhaps both skills should rank near the top.A. a - c - b - d - e - fB. b - a - c - d - e - fC. a - b - c - d - e - fD. a - b - d - c - e - f Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. Mai: In my opinion, teamwork skills are the most important for youth-programme participants.b. Nam: Why do you think teamwork matters most?c. Mai: Because participants often have to solve problems with people they have only just met.d. Nam: That reason makes sense, but I think understanding different cultures is equally important.e. Mai: That's a good point. Without that understanding, teamwork could become more difficult.f. Nam: Then perhaps both skills should rank near the top.A. a - c - b - d - e - fB. b - a - c - d - e - fC. a - b - c - d - e - fD. a - b - d - c - e - f Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: your examples were clear, and your slides looked excellent.b. minh: thanks for saying that. we spent a lot of time preparing the slides and examples.c. lan: that preparation really showed. you also answered the audience's questions very confidently.d. minh: i'm pleased to hear that. i was nervous before we started.e. lan: i watched your group's asean presentation this morning.a. a - b - e - c - db. e - a - c - b - dc. e - a - b - c - dd. e - b - a - c - d write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Your examples were clear, and your slides looked excellent.b. Minh: Thanks for saying that. We spent a lot of time preparing the slides and examples.c. Lan: That preparation really showed. You also answered the audience's questions very confidently.d. Minh: I'm pleased to hear that. I was nervous before we started.e. Lan: I watched your group's ASEAN presentation this morning.A. a - b - e - c - dB. e - a - c - b - dC. e - a - b - c - dD. e - b - a - c - d Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Your examples were clear, and your slides looked excellent.b. Minh: Thanks for saying that. We spent a lot of time preparing the slides and examples.c. Lan: That preparation really showed. You also answered the audience's questions very confidently.d. Minh: I'm pleased to hear that. I was nervous before we started.e. Lan: I watched your group's ASEAN presentation this morning.A. a - b - e - c - dB. e - a - c - b - dC. e - a - b - c - dD. e - b - a - c - d Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. for these reasons, we hope the youth union will approve the idea.b. to welcome them, our student council would like to propose a friendship workshop.c. the event would include a team game, a cultural sharing activity, and a short group discussion.d. these activities would help local and visiting students communicate and get to know one another.e. a group of students from asean partner schools will visit our school next month.a. e - b - c - d - ab. b - e - c - d - ac. e - b - d - c - ad. e - c - b - d - a write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. For these reasons, we hope the Youth Union will approve the idea.b. To welcome them, our Student Council would like to propose a Friendship Workshop.c. The event would include a team game, a cultural sharing activity, and a short group discussion.d. These activities would help local and visiting students communicate and get to know one another.e. A group of students from ASEAN partner schools will visit our school next month.A. e - b - c - d - aB. b - e - c - d - aC. e - b - d - c - aD. e - c - b - d - a Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. For these reasons, we hope the Youth Union will approve the idea.b. To welcome them, our Student Council would like to propose a Friendship Workshop.c. The event would include a team game, a cultural sharing activity, and a short group discussion.d. These activities would help local and visiting students communicate and get to know one another.e. A group of students from ASEAN partner schools will visit our school next month.A. e - b - c - d - aB. b - e - c - d - aC. e - b - d - c - aD. e - c - b - d - a Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. after the call, each pair will write a short reflection about one new thing they learned.b. next month's online exchange will pair each local student with a student from a partner school.c. before their first meeting, each student will prepare three questions about school and daily life.d. this preparation will help the pairs start their conversation more easily.e. during the call, the pairs will compare their answers and discuss one thing they have in common.a. b - d - c - e - ab. b - c - d - e - ac. c - b - d - e - ad. b - c - e - d - a write a, b, c, or d -",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. After the call, each pair will write a short reflection about one new thing they learned.b. Next month's online exchange will pair each local student with a student from a partner school.c. Before their first meeting, each student will prepare three questions about school and daily life.d. This preparation will help the pairs start their conversation more easily.e. During the call, the pairs will compare their answers and discuss one thing they have in common.A. b - d - c - e - aB. b - c - d - e - aC. c - b - d - e - aD. b - c - e - d - a Write A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. After the call, each pair will write a short reflection about one new thing they learned.b. Next month's online exchange will pair each local student with a student from a partner school.c. Before their first meeting, each student will prepare three questions about school and daily life.d. This preparation will help the pairs start their conversation more easily.e. During the call, the pairs will compare their answers and discuss one thing they have in common.A. b - d - c - e - aB. b - c - d - e - aC. c - b - d - e - aD. b - c - e - d - a Write A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "D. cultural exchange",
+      "id": "question-1952232-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. regional student day our school will welcome students from several partner schools next friday. taking part in a cultural (1) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (2) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (3) {#3}. in the afternoon, participants will enjoy (4) {#4} ideas with students from other countries during a short group task. (5) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (6) {#6} by listening carefully and sharing ideas.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a cultural (1) [Blank 1] gives students a chance to learn about one another's ideas and traditions. Students interested in (2) [Blank 2] the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (3) [Blank 3] . In the afternoon, participants will enjoy (4) [Blank 4] ideas with students from other countries during a short group task. (5) [Blank 5] , each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (6) [Blank 6] by listening carefully and sharing ideas.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.leadership skillB.contributionC.current issueD.cultural exchangeÔ (2):A.to joinB.joinC.joiningD.joinedÔ (3):A.cultural exchangesB.contributionsC.leadership skillsD.current issuesÔ (4):A.discussingB.discussC.discussedD.to discussÔ (5):A.HoweverB.For exampleC.At the end of the dayD.OtherwiseÔ (6):A.exchangesB.relationsC.issuesD.programmes",
+      "questionId": "question-1952232-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. regional student day our school will welcome students from several partner schools next friday. taking part in a cultural (1) [blank 1] gives students a chance to learn about one another's ideas and traditions. students interested in (2) [blank 2] the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (3) [blank 3] . in the afternoon, participants will enjoy (4) [blank 4] ideas with students from other countries during a short group task. (5) [blank 5] , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (6) [blank 6] by listening carefully and sharing ideas.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.leadership skillb.contributionc.current issued.cultural exchangeô (2):a.to joinb.joinc.joiningd.joinedô (3):a.cultural exchangesb.contributionsc.leadership skillsd.current issuesô (4):a.discussingb.discussc.discussedd.to discussô (5):a.howeverb.for examplec.at the end of the dayd.otherwiseô (6):a.exchangesb.relationsc.issuesd.programmes",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "D. cultural exchange"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C. joining"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "C. leadership skills"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "A. discussing"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "C. At the end of the day"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "B. relations"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. Cooperating",
+      "id": "question-1952232-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. asean youth leadership workshop (7) {#1} with students from different countries is an important part of the workshop. teams will discuss (8) {#2} that matter to young people, such as access to education and youth employment. each discussion involves (9) {#3} a short plan before one member presents it. participants will also practise speaking (10) {#4} in front of a group. the workshop also includes a small community activity. by helping with the activity, participants can make a useful (11) {#5} while learning how local projects are organised. the workshop combines discussion, teamwork, and practical activities. (12) {#6}, participants can develop both useful skills and intercultural understanding.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. ASEAN YOUTH LEADERSHIP WORKSHOP (7) [Blank 7] with students from different countries is an important part of the workshop. Teams will discuss (8) [Blank 8] that matter to young people, such as access to education and youth employment. Each discussion involves (9) [Blank 9] a short plan before one member presents it. Participants will also practise speaking (10) [Blank 10] in front of a group. The workshop also includes a small community activity. By helping with the activity, participants can make a useful (11) [Blank 11] while learning how local projects are organised. The workshop combines discussion, teamwork, and practical activities. (12) [Blank 12] , participants can develop both useful skills and intercultural understanding.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.CooperatedB.CooperatesC.CooperateD.CooperatingÔ (8):A.current issuesB.leadership skillsC.cultural exchangesD.contributionsÔ (9):A.preparingB.preparedC.prepareD.to prepareÔ (10):A.confidentlyB.confidencesC.confidentD.confidenceÔ (11):A.exchangeB.programmeC.relationD.contributionÔ (12):A.As a resultB.OtherwiseC.For exampleD.However",
+      "questionId": "question-1952232-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. asean youth leadership workshop (7) [blank 7] with students from different countries is an important part of the workshop. teams will discuss (8) [blank 8] that matter to young people, such as access to education and youth employment. each discussion involves (9) [blank 9] a short plan before one member presents it. participants will also practise speaking (10) [blank 10] in front of a group. the workshop also includes a small community activity. by helping with the activity, participants can make a useful (11) [blank 11] while learning how local projects are organised. the workshop combines discussion, teamwork, and practical activities. (12) [blank 12] , participants can develop both useful skills and intercultural understanding.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.cooperatedb.cooperatesc.cooperated.cooperatingô (8):a.current issuesb.leadership skillsc.cultural exchangesd.contributionsô (9):a.preparingb.preparedc.prepared.to prepareô (10):a.confidentlyb.confidencesc.confidentd.confidenceô (11):a.exchangeb.programmec.relationd.contributionô (12):a.as a resultb.otherwisec.for exampled.however",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "D. Cooperating"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A. current issues"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A. preparing"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "A. confidently"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "D. contribution"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "A. As a result"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1952232-3",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 3,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "questionNumber": 3,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "b"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "questionNumber": 3,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. regional youth action programme next month, students from four partner schools will join a three-day regional youth action programme. its purpose is to help young people learn how small community projects are planned and carried out. (13) ______. before the programme starts, participants will receive short descriptions of two local community needs. each student will also think about one skill or experience they can contribute. (14) ______. on the first day, mixed teams will meet local organisers and discuss possible activities. each team session will involve (15) ______ a simple plan that can be completed during the visit. the following day, teams will carry out one short activity and then review what worked well and what could be improved. (16) ______. by the end of the programme, students should understand that effective community work depends not only on having good ideas but also on (17) ______ with others and responding to local needs. question 13.a. students will therefore spend all three days listening to talks at school.b. for this reason, the programme combines short training sessions with direct community work.c. the organisers have decided that participants should work separately during the visit.d. as a result, no preparation will be needed before students begin the programme.write a, b, c, or d - {#1} question 14.a. the organisers will use these notes to remove all team activities.b. students will not discuss these ideas again during the programme.c. this preparation will give the teams useful starting points when they first meet.d. the programme therefore expects everyone to arrive with identical experience.write a, b, c, or d - {#2} question 15.a. prepareb. preparingc. preparedd. to preparingwrite a, b, c, or d - {#3} question 16.a. this review will help students connect their practical experience with what they learned in training.b. the review will ensure that every team receives exactly the same result.c. after the activity, students will no longer need to discuss what happened.d. the organisers will use the review only to choose a winning team.write a, b, c, or d - {#4} question 17.a. cooperatingb. cooperatec. cooperatedd. to cooperatewrite a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. REGIONAL YOUTH ACTION PROGRAMME Next month, students from four partner schools will join a three-day Regional Youth Action Programme. Its purpose is to help young people learn how small community projects are planned and carried out. (13) ______. Before the programme starts, participants will receive short descriptions of two local community needs. Each student will also think about one skill or experience they can contribute. (14) ______. On the first day, mixed teams will meet local organisers and discuss possible activities. Each team session will involve (15) ______ a simple plan that can be completed during the visit. The following day, teams will carry out one short activity and then review what worked well and what could be improved. (16) ______. By the end of the programme, students should understand that effective community work depends not only on having good ideas but also on (17) ______ with others and responding to local needs. Question 13.A. Students will therefore spend all three days listening to talks at school.B. For this reason, the programme combines short training sessions with direct community work.C. The organisers have decided that participants should work separately during the visit.D. As a result, no preparation will be needed before students begin the programme.Write A, B, C, or D - {#1} Question 14.A. The organisers will use these notes to remove all team activities.B. Students will not discuss these ideas again during the programme.C. This preparation will give the teams useful starting points when they first meet.D. The programme therefore expects everyone to arrive with identical experience.Write A, B, C, or D - {#2} Question 15.A. prepareB. preparingC. preparedD. to preparingWrite A, B, C, or D - {#3} Question 16.A. This review will help students connect their practical experience with what they learned in training.B. The review will ensure that every team receives exactly the same result.C. After the activity, students will no longer need to discuss what happened.D. The organisers will use the review only to choose a winning team.Write A, B, C, or D - {#4} Question 17.A. cooperatingB. cooperateC. cooperatedD. to cooperateWrite A, B, C, or D - {#5}",
+      "questionId": "question-1952232-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. regional youth action programme next month, students from four partner schools will join a three-day regional youth action programme. its purpose is to help young people learn how small community projects are planned and carried out. (13) ______. before the programme starts, participants will receive short descriptions of two local community needs. each student will also think about one skill or experience they can contribute. (14) ______. on the first day, mixed teams will meet local organisers and discuss possible activities. each team session will involve (15) ______ a simple plan that can be completed during the visit. the following day, teams will carry out one short activity and then review what worked well and what could be improved. (16) ______. by the end of the programme, students should understand that effective community work depends not only on having good ideas but also on (17) ______ with others and responding to local needs. question 13.a. students will therefore spend all three days listening to talks at school.b. for this reason, the programme combines short training sessions with direct community work.c. the organisers have decided that participants should work separately during the visit.d. as a result, no preparation will be needed before students begin the programme.write a, b, c, or d - {#1} question 14.a. the organisers will use these notes to remove all team activities.b. students will not discuss these ideas again during the programme.c. this preparation will give the teams useful starting points when they first meet.d. the programme therefore expects everyone to arrive with identical experience.write a, b, c, or d - {#2} question 15.a. prepareb. preparingc. preparedd. to preparingwrite a, b, c, or d - {#3} question 16.a. this review will help students connect their practical experience with what they learned in training.b. the review will ensure that every team receives exactly the same result.c. after the activity, students will no longer need to discuss what happened.d. the organisers will use the review only to choose a winning team.write a, b, c, or d - {#4} question 17.a. cooperatingb. cooperatec. cooperatedd. to cooperatewrite a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1952232-4",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 4,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. with this aim in mind, the teams joined two workshops on communication and community projects.b. a regional youth forum opened at our school on saturday morning.c. at the end of the forum, each team presented one idea for future cooperation.d. the event brought together 60 students from four partner schools, who were divided into mixed teams.e. after the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.a. b - e - d - a - cb. d - b - e - a - cc. b - d - a - e - cd. b - d - e - a - c write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. With this aim in mind, the teams joined two workshops on communication and community projects.b. A regional youth forum opened at our school on Saturday morning.c. At the end of the forum, each team presented one idea for future cooperation.d. The event brought together 60 students from four partner schools, who were divided into mixed teams.e. After the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.A. b - e - d - a - cB. d - b - e - a - cC. b - d - a - e - cD. b - d - e - a - c Write A, B, C, or D - {#1}",
+      "questionId": "question-1952232-4",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. with this aim in mind, the teams joined two workshops on communication and community projects.b. a regional youth forum opened at our school on saturday morning.c. at the end of the forum, each team presented one idea for future cooperation.d. the event brought together 60 students from four partner schools, who were divided into mixed teams.e. after the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.a. b - e - d - a - cb. d - b - e - a - cc. b - d - a - e - cd. b - d - e - a - c write a, b, c, or d - {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1952232-5",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. mai: in my opinion, teamwork skills are the most important for youth-programme participants.b. nam: why do you think teamwork matters most?c. mai: because participants often have to solve problems with people they have only just met.d. nam: that reason makes sense, but i think understanding different cultures is equally important.e. mai: that's a good point. without that understanding, teamwork could become more difficult.f. nam: then perhaps both skills should rank near the top.a. a - c - b - d - e - fb. b - a - c - d - e - fc. a - b - c - d - e - fd. a - b - d - c - e - f write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. Mai: In my opinion, teamwork skills are the most important for youth-programme participants.b. Nam: Why do you think teamwork matters most?c. Mai: Because participants often have to solve problems with people they have only just met.d. Nam: That reason makes sense, but I think understanding different cultures is equally important.e. Mai: That's a good point. Without that understanding, teamwork could become more difficult.f. Nam: Then perhaps both skills should rank near the top.A. a - c - b - d - e - fB. b - a - c - d - e - fC. a - b - c - d - e - fD. a - b - d - c - e - f Write A, B, C, or D - {#1}",
+      "questionId": "question-1952232-5",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. mai: in my opinion, teamwork skills are the most important for youth-programme participants.b. nam: why do you think teamwork matters most?c. mai: because participants often have to solve problems with people they have only just met.d. nam: that reason makes sense, but i think understanding different cultures is equally important.e. mai: that's a good point. without that understanding, teamwork could become more difficult.f. nam: then perhaps both skills should rank near the top.a. a - c - b - d - e - fb. b - a - c - d - e - fc. a - b - c - d - e - fd. a - b - d - c - e - f write a, b, c, or d - {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1952232-6",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: your examples were clear, and your slides looked excellent.b. minh: thanks for saying that. we spent a lot of time preparing the slides and examples.c. lan: that preparation really showed. you also answered the audience's questions very confidently.d. minh: i'm pleased to hear that. i was nervous before we started.e. lan: i watched your group's asean presentation this morning.a. a - b - e - c - db. e - a - c - b - dc. e - a - b - c - dd. e - b - a - c - d write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Your examples were clear, and your slides looked excellent.b. Minh: Thanks for saying that. We spent a lot of time preparing the slides and examples.c. Lan: That preparation really showed. You also answered the audience's questions very confidently.d. Minh: I'm pleased to hear that. I was nervous before we started.e. Lan: I watched your group's ASEAN presentation this morning.A. a - b - e - c - dB. e - a - c - b - dC. e - a - b - c - dD. e - b - a - c - d Write A, B, C, or D - {#1}",
+      "questionId": "question-1952232-6",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: your examples were clear, and your slides looked excellent.b. minh: thanks for saying that. we spent a lot of time preparing the slides and examples.c. lan: that preparation really showed. you also answered the audience's questions very confidently.d. minh: i'm pleased to hear that. i was nervous before we started.e. lan: i watched your group's asean presentation this morning.a. a - b - e - c - db. e - a - c - b - dc. e - a - b - c - dd. e - b - a - c - d write a, b, c, or d - {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1952232-7",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 7,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. for these reasons, we hope the youth union will approve the idea.b. to welcome them, our student council would like to propose a friendship workshop.c. the event would include a team game, a cultural sharing activity, and a short group discussion.d. these activities would help local and visiting students communicate and get to know one another.e. a group of students from asean partner schools will visit our school next month.a. e - b - c - d - ab. b - e - c - d - ac. e - b - d - c - ad. e - c - b - d - a write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. For these reasons, we hope the Youth Union will approve the idea.b. To welcome them, our Student Council would like to propose a Friendship Workshop.c. The event would include a team game, a cultural sharing activity, and a short group discussion.d. These activities would help local and visiting students communicate and get to know one another.e. A group of students from ASEAN partner schools will visit our school next month.A. e - b - c - d - aB. b - e - c - d - aC. e - b - d - c - aD. e - c - b - d - a Write A, B, C, or D - {#1}",
+      "questionId": "question-1952232-7",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. for these reasons, we hope the youth union will approve the idea.b. to welcome them, our student council would like to propose a friendship workshop.c. the event would include a team game, a cultural sharing activity, and a short group discussion.d. these activities would help local and visiting students communicate and get to know one another.e. a group of students from asean partner schools will visit our school next month.a. e - b - c - d - ab. b - e - c - d - ac. e - b - d - c - ad. e - c - b - d - a write a, b, c, or d - {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1952232-8",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. after the call, each pair will write a short reflection about one new thing they learned.b. next month's online exchange will pair each local student with a student from a partner school.c. before their first meeting, each student will prepare three questions about school and daily life.d. this preparation will help the pairs start their conversation more easily.e. during the call, the pairs will compare their answers and discuss one thing they have in common.a. b - d - c - e - ab. b - c - d - e - ac. c - b - d - e - ad. b - c - e - d - a write a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. After the call, each pair will write a short reflection about one new thing they learned.b. Next month's online exchange will pair each local student with a student from a partner school.c. Before their first meeting, each student will prepare three questions about school and daily life.d. This preparation will help the pairs start their conversation more easily.e. During the call, the pairs will compare their answers and discuss one thing they have in common.A. b - d - c - e - aB. b - c - d - e - aC. c - b - d - e - aD. b - c - e - d - a Write A, B, C, or D - {#1}",
+      "questionId": "question-1952232-8",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. after the call, each pair will write a short reflection about one new thing they learned.b. next month's online exchange will pair each local student with a student from a partner school.c. before their first meeting, each student will prepare three questions about school and daily life.d. this preparation will help the pairs start their conversation more easily.e. during the call, the pairs will compare their answers and discuss one thing they have in common.a. b - d - c - e - ab. b - c - d - e - ac. c - b - d - e - ad. b - c - e - d - a write a, b, c, or d - {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
