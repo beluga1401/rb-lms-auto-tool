@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "account_name": "Bùi Thiên Ân",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR12EX35MOET",
+    "quiz_key": "gr12ex35moet",
+    "cmid": "743006",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex35moet.json",
+    "score": "19.00/20.00",
+    "score_pct": 95.0,
+    "question_count": 20,
+    "updated_at": "2026-11-08 08:07:28"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence. traffic jams often make journeys slower during rush ______, when many people travel to or from work.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. Traffic jams often make journeys slower during rush ______, when many people travel to or from work.",
+      "options": [
+        "hour Correct: Rush hour names the busy commuting period."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. Traffic jams often make journeys slower during rush ______, when many people travel to or from work.",
+      "answer": "hour Correct: Rush hour names the busy commuting period.",
+      "dragdrops": []
+    },
+    {
+      "id": "question-1950834-3",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.before preparing their presentation, the students will ______ research on how the urban area has changed.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. Before preparing their presentation, the students will ______ research on how the urban area has changed.",
+      "options": [
+        "do"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-3",
+      "questionNumber": 5,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.Before preparing their presentation, the students will ______ research on how the urban area has changed.",
+      "answer": "do",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.before preparing their presentation, the students will ______ research on how the urban area has changed.",
+      "letter": "D",
+      "rightAnswer": "do"
+    },
+    {
+      "id": "question-1950834-7",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.the group interviewed local ______ — people who live in the neighbourhood — to learn how changes have affected their daily lives.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. The group interviewed local ______ — people who live in the neighbourhood — to learn how changes have affected their daily lives.",
+      "options": [
+        "residents"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-7",
+      "questionNumber": 10,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.The group interviewed local ______ — people who live in the neighbourhood — to learn how changes have affected their daily lives.",
+      "answer": "residents",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.the group interviewed local ______ — people who live in the neighbourhood — to learn how changes have affected their daily lives.",
+      "letter": "B",
+      "rightAnswer": "residents"
+    },
+    {
+      "id": "question-1950834-5",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.families with limited incomes need affordable ______ so that they can rent or buy homes within their financial means.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. Families with limited incomes need affordable ______ so that they can rent or buy homes within their financial means.",
+      "options": [
+        "housing"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-5",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.Families with limited incomes need affordable ______ so that they can rent or buy homes within their financial means.",
+      "answer": "housing",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.families with limited incomes need affordable ______ so that they can rent or buy homes within their financial means.",
+      "letter": "A",
+      "rightAnswer": "housing"
+    },
+    {
+      "id": "question-1950834-2",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.the project group recommends improving transport ______, including roads, bridges, and the systems used for public travel.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. The project group recommends improving transport ______, including roads, bridges, and the systems used for public travel.",
+      "options": [
+        "infrastructure"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-2",
+      "questionNumber": 7,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.The project group recommends improving transport ______, including roads, bridges, and the systems used for public travel.",
+      "answer": "infrastructure",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.the project group recommends improving transport ______, including roads, bridges, and the systems used for public travel.",
+      "letter": "C",
+      "rightAnswer": "infrastructure"
+    },
+    {
+      "id": "question-1950834-6",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.the students interviewed families about the cost of ______, focusing on the money needed for food, housing, and other basic needs.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. The students interviewed families about the cost of ______, focusing on the money needed for food, housing, and other basic needs.",
+      "options": [
+        "living"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-6",
+      "questionNumber": 6,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.The students interviewed families about the cost of ______, focusing on the money needed for food, housing, and other basic needs.",
+      "answer": "living",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.the students interviewed families about the cost of ______, focusing on the money needed for food, housing, and other basic needs.",
+      "letter": "D",
+      "rightAnswer": "living"
+    },
+    {
+      "id": "question-1950834-10",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.some buildings in the reading date back ______ the period described in the historical section.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. Some buildings in the reading date back ______ the period described in the historical section.",
+      "options": [
+        "to"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-10",
+      "questionNumber": 4,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.Some buildings in the reading date back ______ the period described in the historical section.",
+      "answer": "to",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.some buildings in the reading date back ______ the period described in the historical section.",
+      "letter": "A",
+      "rightAnswer": "to"
+    },
+    {
+      "id": "question-1950834-1",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.some people move from rural areas to cities to seek better job ______ — new chances to obtain paid work that suits their skills.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. Some people move from rural areas to cities to seek better job ______ — new chances to obtain paid work that suits their skills.",
+      "options": [
+        "opportunities"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-1",
+      "questionNumber": 2,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.Some people move from rural areas to cities to seek better job ______ — new chances to obtain paid work that suits their skills.",
+      "answer": "opportunities",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.some people move from rural areas to cities to seek better job ______ — new chances to obtain paid work that suits their skills.",
+      "letter": "D",
+      "rightAnswer": "opportunities"
+    },
+    {
+      "id": "question-1950834-4",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.to explain the line graph, students should ______ comparisons between the urban and rural population shares.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. To explain the line graph, students should ______ comparisons between the urban and rural population shares.",
+      "options": [
+        "make"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-4",
+      "questionNumber": 3,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.To explain the line graph, students should ______ comparisons between the urban and rural population shares.",
+      "answer": "make",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.to explain the line graph, students should ______ comparisons between the urban and rural population shares.",
+      "letter": "B",
+      "rightAnswer": "make"
+    },
+    {
+      "id": "question-1950834-9",
+      "questionKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.a convenient bus network helps people without private vehicles ______ around the city.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence. A convenient bus network helps people without private vehicles ______ around the city.",
+      "options": [
+        "get"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-9",
+      "questionNumber": 9,
+      "question": "Choose A, B, C, or D to complete each sentence. Check the natural word combination and the meaning of the whole sentence.A convenient bus network helps people without private vehicles ______ around the city.",
+      "answer": "get",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence. check the natural word combination and the meaning of the whole sentence.a convenient bus network helps people without private vehicles ______ around the city.",
+      "letter": "A",
+      "rightAnswer": "get"
+    },
+    {
+      "id": "question-1950834-12",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.their project examines urban ______, including changes to housing, roads, and public transport.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. Their project examines urban ______, including changes to housing, roads, and public transport.",
+      "options": [
+        "development"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-12",
+      "questionNumber": 18,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.Their project examines urban ______, including changes to housing, roads, and public transport.",
+      "answer": "development",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.their project examines urban ______, including changes to housing, roads, and public transport.",
+      "letter": "A",
+      "rightAnswer": "development"
+    },
+    {
+      "id": "question-1950834-17",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the old low-rise houses differ ______ from the modern high-rise buildings in their shapes and design features.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. The old low-rise houses differ ______ from the modern high-rise buildings in their shapes and design features.",
+      "options": [
+        "architecturally"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-17",
+      "questionNumber": 15,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.The old low-rise houses differ ______ from the modern high-rise buildings in their shapes and design features.",
+      "answer": "architecturally",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the old low-rise houses differ ______ from the modern high-rise buildings in their shapes and design features.",
+      "letter": "A",
+      "rightAnswer": "architecturally"
+    },
+    {
+      "id": "question-1950834-19",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.new residents have ______ the previously sparsely inhabited area, which now contains several busy residential streets.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. New residents have ______ the previously sparsely inhabited area, which now contains several busy residential streets.",
+      "options": [
+        "populated"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-19",
+      "questionNumber": 13,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.New residents have ______ the previously sparsely inhabited area, which now contains several busy residential streets.",
+      "answer": "populated",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.new residents have ______ the previously sparsely inhabited area, which now contains several busy residential streets.",
+      "letter": "A",
+      "rightAnswer": "populated"
+    },
+    {
+      "id": "question-1950834-14",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the town's rapid ______ has extended its boundaries into land that was previously used for farming.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. The town’s rapid ______ has extended its boundaries into land that was previously used for farming.",
+      "options": [
+        "expansion"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-14",
+      "questionNumber": 20,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.The town's rapid ______ has extended its boundaries into land that was previously used for farming.",
+      "answer": "expansion",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the town's rapid ______ has extended its boundaries into land that was previously used for farming.",
+      "letter": "D",
+      "rightAnswer": "expansion"
+    },
+    {
+      "id": "question-1950834-16",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.residents assess the ______ of the bus service by checking how consistently buses arrive when expected.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. Residents assess the ______ of the bus service by checking how consistently buses arrive when expected.",
+      "options": [
+        "reliability"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-16",
+      "questionNumber": 14,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.Residents assess the ______ of the bus service by checking how consistently buses arrive when expected.",
+      "answer": "reliability",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.residents assess the ______ of the bus service by checking how consistently buses arrive when expected.",
+      "letter": "B",
+      "rightAnswer": "reliability"
+    },
+    {
+      "id": "question-1950834-20",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the report identifies harmful gases from private vehicles as a source of air ______ in the neighbourhood.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. The report identifies harmful gases from private vehicles as a source of air ______ in the neighbourhood.",
+      "options": [
+        "pollution"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-20",
+      "questionNumber": 17,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.The report identifies harmful gases from private vehicles as a source of air ______ in the neighbourhood.",
+      "answer": "pollution",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the report identifies harmful gases from private vehicles as a source of air ______ in the neighbourhood.",
+      "letter": "D",
+      "rightAnswer": "pollution"
+    },
+    {
+      "id": "question-1950834-13",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the proposed homes would be ______ for families with limited incomes because the rents would remain within their budgets.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. The proposed homes would be ______ for families with limited incomes because the rents would remain within their budgets.",
+      "options": [
+        "affordable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-13",
+      "questionNumber": 12,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.The proposed homes would be ______ for families with limited incomes because the rents would remain within their budgets.",
+      "answer": "affordable",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the proposed homes would be ______ for families with limited incomes because the rents would remain within their budgets.",
+      "letter": "A",
+      "rightAnswer": "affordable"
+    },
+    {
+      "id": "question-1950834-15",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.some adults in the report are ______: they are able to work and are looking for jobs, but they have not found employment.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. Some adults in the report are ______: they are able to work and are looking for jobs, but they have not found employment.",
+      "options": [
+        "unemployed"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-15",
+      "questionNumber": 11,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.Some adults in the report are ______: they are able to work and are looking for jobs, but they have not found employment.",
+      "answer": "unemployed",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.some adults in the report are ______: they are able to work and are looking for jobs, but they have not found employment.",
+      "letter": "B",
+      "rightAnswer": "unemployed"
+    },
+    {
+      "id": "question-1950834-11",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the students studied the effects of ______ on a town that has grown as more people have moved there from rural areas.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. The students studied the effects of ______ on a town that has grown as more people have moved there from rural areas.",
+      "options": [
+        "urbanisation"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-11",
+      "questionNumber": 16,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.The students studied the effects of ______ on a town that has grown as more people have moved there from rural areas.",
+      "answer": "urbanisation",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the students studied the effects of ______ on a town that has grown as more people have moved there from rural areas.",
+      "letter": "C",
+      "rightAnswer": "urbanisation"
+    },
+    {
+      "id": "question-1950834-18",
+      "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the graph description includes a detailed ______ between the urban and rural population shares.",
+      "questionRaw": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning. The graph description includes a detailed ______ between the urban and rural population shares.",
+      "options": [
+        "comparison"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1950834-18",
+      "questionNumber": 19,
+      "question": "Choose A, B, C, or D to complete each sentence with the correct word form. Check both grammar and meaning.The graph description includes a detailed ______ between the urban and rural population shares.",
+      "answer": "comparison",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form. check both grammar and meaning.the graph description includes a detailed ______ between the urban and rural population shares.",
+      "letter": "C",
+      "rightAnswer": "comparison"
+    }
+  ]
+}
