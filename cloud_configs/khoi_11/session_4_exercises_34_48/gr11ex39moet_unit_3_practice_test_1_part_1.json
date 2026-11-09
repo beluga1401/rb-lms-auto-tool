@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Minh Kha",
+    "account_name": "Văn Thiên Kim",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -14,8 +14,8 @@
     "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex39moet_unit_3_practice_test_1_part_1.json",
     "score": "22.00/22.00",
     "score_pct": 100.0,
-    "question_count": 68,
-    "updated_at": "2026-11-09 18:57:32"
+    "question_count": 92,
+    "updated_at": "2026-11-09 19:08:41"
   },
   "answers": [
     {
@@ -95,7 +95,7 @@
       "dragdrops": []
     },
     {
-      "id": "question-1953575-3",
+      "id": "question-1955462-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a shared roof above the city central tower is being built in a crowded urban centre where there is very little unused land at street level. because most of the available space is needed for housing and shops, the designers proposed creating a shared garden on the roof. (13) ______. before completing the design, engineers studied how much sunlight and wind the roof received. they selected low plants and added covered seating areas. to many future residents, the plan sounded (14) ______ because these conditions had been considered carefully. some residents then asked whether the garden would be easy for everyone in the building to use. the developer explained that the lifts would reach roof level, the paths would be wide, and residents would not have to pay an extra entrance fee. (15) ______. the garden will also use smart watering sensors. these cost more than ordinary timers, but they can detect when the soil is dry and provide water only when it is needed. (16) ______. the final design includes shaded seating, small areas for growing herbs, and open space for residents to meet. (17) ______. question 13.a. the designers therefore removed all shared outdoor areas from the building.b. residents were told that only private balconies could provide green space.c. the proposal also required the tower to lose several floors of housing.d. the idea was to create shared green space without reducing the number of apartments.write a, b, c, or d - question 14.a. practicallyb. practicec. practicald. practicalitywrite a, b, c, or d - question 15.a. as a result, only residents on the top floor could enter the garden.b. the roof would therefore be closed whenever residents wanted to use it.c. this meant the garden was designed mainly for visitors from outside the building.d. this information made the garden seem more accessible to different residents.write a, b, c, or d - question 16.a. the sensors would make it impossible to grow plants during dry periods.b. for this reason, designers decided ordinary timers were always more accurate.c. the system was rejected because residents wanted the garden watered all day.d. although it costs more at first, the system could reduce unnecessary water use.write a, b, c, or d - question 17.a. the project proved that all high-rise buildings should replace public parks.b. the final design showed that technology mattered more than shared space.c. the plan could add useful green space where ground-level land was limited.d. the developers concluded that roof gardens were unnecessary in crowded urban centres.write a, b, c, or d -",
       "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SHARED ROOF ABOVE THE CITY Central Tower is being built in a crowded urban centre where there is very little unused land at street level. Because most of the available space is needed for housing and shops, the designers proposed creating a shared garden on the roof. (13) ______. Before completing the design, engineers studied how much sunlight and wind the roof received. They selected low plants and added covered seating areas. To many future residents, the plan sounded (14) ______ because these conditions had been considered carefully. Some residents then asked whether the garden would be easy for everyone in the building to use. The developer explained that the lifts would reach roof level, the paths would be wide, and residents would not have to pay an extra entrance fee. (15) ______. The garden will also use smart watering sensors. These cost more than ordinary timers, but they can detect when the soil is dry and provide water only when it is needed. (16) ______. The final design includes shaded seating, small areas for growing herbs, and open space for residents to meet. (17) ______. Question 13.A. The designers therefore removed all shared outdoor areas from the building.B. Residents were told that only private balconies could provide green space.C. The proposal also required the tower to lose several floors of housing.D. The idea was to create shared green space without reducing the number of apartments.Write A, B, C, or D - {#1} Question 14.A. practicallyB. practiceC. practicalD. practicalityWrite A, B, C, or D - {#2} Question 15.A. As a result, only residents on the top floor could enter the garden.B. The roof would therefore be closed whenever residents wanted to use it.C. This meant the garden was designed mainly for visitors from outside the building.D. This information made the garden seem more accessible to different residents.Write A, B, C, or D - {#3} Question 16.A. The sensors would make it impossible to grow plants during dry periods.B. For this reason, designers decided ordinary timers were always more accurate.C. The system was rejected because residents wanted the garden watered all day.D. Although it costs more at first, the system could reduce unnecessary water use.Write A, B, C, or D - {#4} Question 17.A. The project proved that all high-rise buildings should replace public parks.B. The final design showed that technology mattered more than shared space.C. The plan could add useful green space where ground-level land was limited.D. The developers concluded that roof gardens were unnecessary in crowded urban centres.Write A, B, C, or D - {#5}",
       "options": [
@@ -129,7 +129,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1953575-3",
+      "questionId": "question-1955462-3",
       "questionNumber": 3,
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SHARED ROOF ABOVE THE CITY Central Tower is being built in a crowded urban centre where there is very little unused land at street level. Because most of the available space is needed for housing and shops, the designers proposed creating a shared garden on the roof. (13) ______. Before completing the design, engineers studied how much sunlight and wind the roof received. They selected low plants and added covered seating areas. To many future residents, the plan sounded (14) ______ because these conditions had been considered carefully. Some residents then asked whether the garden would be easy for everyone in the building to use. The developer explained that the lifts would reach roof level, the paths would be wide, and residents would not have to pay an extra entrance fee. (15) ______. The garden will also use smart watering sensors. These cost more than ordinary timers, but they can detect when the soil is dry and provide water only when it is needed. (16) ______. The final design includes shaded seating, small areas for growing herbs, and open space for residents to meet. (17) ______. Question 13.A. The designers therefore removed all shared outdoor areas from the building.B. Residents were told that only private balconies could provide green space.C. The proposal also required the tower to lose several floors of housing.D. The idea was to create shared green space without reducing the number of apartments.Write A, B, C, or D - {#1} Question 14.A. practicallyB. practiceC. practicalD. practicalityWrite A, B, C, or D - {#2} Question 15.A. As a result, only residents on the top floor could enter the garden.B. The roof would therefore be closed whenever residents wanted to use it.C. This meant the garden was designed mainly for visitors from outside the building.D. This information made the garden seem more accessible to different residents.Write A, B, C, or D - {#3} Question 16.A. The sensors would make it impossible to grow plants during dry periods.B. For this reason, designers decided ordinary timers were always more accurate.C. The system was rejected because residents wanted the garden watered all day.D. Although it costs more at first, the system could reduce unnecessary water use.Write A, B, C, or D - {#4} Question 17.A. The project proved that all high-rise buildings should replace public parks.B. The final design showed that technology mattered more than shared space.C. The plan could add useful green space where ground-level land was limited.D. The developers concluded that roof gardens were unnecessary in crowded urban centres.Write A, B, C, or D - {#5}",
       "answer": "d",
@@ -139,7 +139,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1953575-4",
+      "id": "question-1955462-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. when those sensors detect movement, the lights become brighter so that people can see the path clearly.b. a new riverside path will use smart lights to make evening travel safer.c. after becoming brighter, however, the lights return to a dim setting when the path is empty again.d. this system should improve safety without keeping every light at full brightness all night.e. sensors placed along the path will detect movement after dark.a. b - a - e - c - db. b - e - a - c - dc. e - b - c - a - dd. b - e - c - d - a write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. When those sensors detect movement, the lights become brighter so that people can see the path clearly.b. A new riverside path will use smart lights to make evening travel safer.c. After becoming brighter, however, the lights return to a dim setting when the path is empty again.d. This system should improve safety without keeping every light at full brightness all night.e. Sensors placed along the path will detect movement after dark.A. b - a - e - c - dB. b - e - a - c - dC. e - b - c - a - dD. b - e - c - d - a Write A, B, C, or D - {#1}",
       "options": [
@@ -153,7 +153,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1953575-4",
+      "questionId": "question-1955462-4",
       "questionNumber": 4,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. When those sensors detect movement, the lights become brighter so that people can see the path clearly.b. A new riverside path will use smart lights to make evening travel safer.c. After becoming brighter, however, the lights return to a dim setting when the path is empty again.d. This system should improve safety without keeping every light at full brightness all night.e. Sensors placed along the path will detect movement after dark.A. b - a - e - c - dB. b - e - a - c - dC. e - b - c - a - dD. b - e - c - d - a Write A, B, C, or D - {#1}",
       "answer": "b",
@@ -163,7 +163,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1953575-5",
+      "id": "question-1955462-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. for this reason, planners should provide both digital and non-digital ways to get travel information.b. one advantage of a bus app is that it can show real-time arrival information.c. however, passengers without smartphones may find an app-only system difficult to use.d. digital travel services can make public transport more convenient.e. for example, passengers can check a delay before leaving home.a. d - c - b - e - ab. b - e - d - c - ac. d - b - e - c - ad. d - b - c - e - a write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. For this reason, planners should provide both digital and non-digital ways to get travel information.b. One advantage of a bus app is that it can show real-time arrival information.c. However, passengers without smartphones may find an app-only system difficult to use.d. Digital travel services can make public transport more convenient.e. For example, passengers can check a delay before leaving home.A. d - c - b - e - aB. b - e - d - c - aC. d - b - e - c - aD. d - b - c - e - a Write A, B, C, or D - {#1}",
       "options": [
@@ -177,7 +177,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1953575-5",
+      "questionId": "question-1955462-5",
       "questionNumber": 5,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. For this reason, planners should provide both digital and non-digital ways to get travel information.b. One advantage of a bus app is that it can show real-time arrival information.c. However, passengers without smartphones may find an app-only system difficult to use.d. Digital travel services can make public transport more convenient.e. For example, passengers can check a delay before leaving home.A. d - c - b - e - aB. b - e - d - c - aC. d - b - e - c - aD. d - b - c - e - a Write A, B, C, or D - {#1}",
       "answer": "c",
@@ -187,7 +187,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1953575-6",
+      "id": "question-1955462-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: why a tram line in particular?b. minh: i think a new tram line would be the best choice.c. lan: what kind of transport do you think our city needs most?d. minh: because it could connect outer neighbourhoods with the city centre quickly.e. lan: which of those outer neighbourhoods should it connect first?f. minh: from the railway station to the university area, perhaps.a. c - a - b - d - e - fb. b - c - a - d - f - ec. c - b - e - f - a - dd. c - b - a - d - e - f write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Why a tram line in particular?b. Minh: I think a new tram line would be the best choice.c. Lan: What kind of transport do you think our city needs most?d. Minh: Because it could connect outer neighbourhoods with the city centre quickly.e. Lan: Which of those outer neighbourhoods should it connect first?f. Minh: From the railway station to the university area, perhaps.A. c - a - b - d - e - fB. b - c - a - d - f - eC. c - b - e - f - a - dD. c - b - a - d - e - f Write A, B, C, or D - {#1}",
       "options": [
@@ -201,7 +201,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1953575-6",
+      "questionId": "question-1955462-6",
       "questionNumber": 6,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Why a tram line in particular?b. Minh: I think a new tram line would be the best choice.c. Lan: What kind of transport do you think our city needs most?d. Minh: Because it could connect outer neighbourhoods with the city centre quickly.e. Lan: Which of those outer neighbourhoods should it connect first?f. Minh: From the railway station to the university area, perhaps.A. c - a - b - d - e - fB. b - c - a - d - f - eC. c - b - e - f - a - dD. c - b - a - d - e - f Write A, B, C, or D - {#1}",
       "answer": "d",
@@ -211,7 +211,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1953575-7",
+      "id": "question-1955462-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. huy: i'm not really sure about it. building above water would be expensive.b. mai: do you think people will live in floating neighbourhoods one day?c. mai: that's true. what do you think is more likely?d. huy: i have no doubt that cities will use more smart public transport.a. b - a - c - db. b - c - a - dc. a - b - d - cd. b - a - d - c write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Huy: I'm not really sure about it. Building above water would be expensive.b. Mai: Do you think people will live in floating neighbourhoods one day?c. Mai: That's true. What do you think is more likely?d. Huy: I have no doubt that cities will use more smart public transport.A. b - a - c - dB. b - c - a - dC. a - b - d - cD. b - a - d - c Write A, B, C, or D - {#1}",
       "options": [
@@ -225,7 +225,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1953575-7",
+      "questionId": "question-1955462-7",
       "questionNumber": 7,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Huy: I'm not really sure about it. Building above water would be expensive.b. Mai: Do you think people will live in floating neighbourhoods one day?c. Mai: That's true. What do you think is more likely?d. Huy: I have no doubt that cities will use more smart public transport.A. b - a - c - dB. b - c - a - dC. a - b - d - cD. b - a - d - c Write A, B, C, or D - {#1}",
       "answer": "a",
@@ -235,7 +235,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1953575-8",
+      "id": "question-1955462-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. each team must then choose two important features, such as transport, buildings, green space, or smart technology.b. our class will present its ideal city designs next friday.c. after choosing those features, the team should explain how each one would improve daily life.d. before making the poster, students should decide where their city will be and who will live there.e. finally, the completed posters will be displayed in the school library.a. b - a - d - c - eb. b - d - a - c - ec. d - b - a - e - cd. b - d - c - a - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Each team must then choose two important features, such as transport, buildings, green space, or smart technology.b. Our class will present its Ideal City designs next Friday.c. After choosing those features, the team should explain how each one would improve daily life.d. Before making the poster, students should decide where their city will be and who will live there.e. Finally, the completed posters will be displayed in the school library.A. b - a - d - c - eB. b - d - a - c - eC. d - b - a - e - cD. b - d - c - a - e Write A, B, C, or D - {#1}",
       "options": [
@@ -249,7 +249,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1953575-8",
+      "questionId": "question-1955462-8",
       "questionNumber": 8,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Each team must then choose two important features, such as transport, buildings, green space, or smart technology.b. Our class will present its Ideal City designs next Friday.c. After choosing those features, the team should explain how each one would improve daily life.d. Before making the poster, students should decide where their city will be and who will live there.e. Finally, the completed posters will be displayed in the school library.A. b - a - d - c - eB. b - d - a - c - eC. d - b - a - e - cD. b - d - c - a - e Write A, B, C, or D - {#1}",
       "answer": "b",
@@ -350,7 +350,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1955462-3",
+      "id": "question-1955539-3",
       "inputs": [
         {
           "index": 0,
@@ -382,7 +382,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SHARED ROOF ABOVE THE CITY Central Tower is being built in a crowded urban centre where there is very little unused land at street level. Because most of the available space is needed for housing and shops, the designers proposed creating a shared garden on the roof. (13) ______. Before completing the design, engineers studied how much sunlight and wind the roof received. They selected low plants and added covered seating areas. To many future residents, the plan sounded (14) ______ because these conditions had been considered carefully. Some residents then asked whether the garden would be easy for everyone in the building to use. The developer explained that the lifts would reach roof level, the paths would be wide, and residents would not have to pay an extra entrance fee. (15) ______. The garden will also use smart watering sensors. These cost more than ordinary timers, but they can detect when the soil is dry and provide water only when it is needed. (16) ______. The final design includes shaded seating, small areas for growing herbs, and open space for residents to meet. (17) ______. Question 13.A. The designers therefore removed all shared outdoor areas from the building.B. Residents were told that only private balconies could provide green space.C. The proposal also required the tower to lose several floors of housing.D. The idea was to create shared green space without reducing the number of apartments.Write A, B, C, or D - {#1} Question 14.A. practicallyB. practiceC. practicalD. practicalityWrite A, B, C, or D - {#2} Question 15.A. As a result, only residents on the top floor could enter the garden.B. The roof would therefore be closed whenever residents wanted to use it.C. This meant the garden was designed mainly for visitors from outside the building.D. This information made the garden seem more accessible to different residents.Write A, B, C, or D - {#3} Question 16.A. The sensors would make it impossible to grow plants during dry periods.B. For this reason, designers decided ordinary timers were always more accurate.C. The system was rejected because residents wanted the garden watered all day.D. Although it costs more at first, the system could reduce unnecessary water use.Write A, B, C, or D - {#4} Question 17.A. The project proved that all high-rise buildings should replace public parks.B. The final design showed that technology mattered more than shared space.C. The plan could add useful green space where ground-level land was limited.D. The developers concluded that roof gardens were unnecessary in crowded urban centres.Write A, B, C, or D - {#5}",
-      "questionId": "question-1955462-3",
+      "questionId": "question-1955539-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a shared roof above the city central tower is being built in a crowded urban centre where there is very little unused land at street level. because most of the available space is needed for housing and shops, the designers proposed creating a shared garden on the roof. (13) ______. before completing the design, engineers studied how much sunlight and wind the roof received. they selected low plants and added covered seating areas. to many future residents, the plan sounded (14) ______ because these conditions had been considered carefully. some residents then asked whether the garden would be easy for everyone in the building to use. the developer explained that the lifts would reach roof level, the paths would be wide, and residents would not have to pay an extra entrance fee. (15) ______. the garden will also use smart watering sensors. these cost more than ordinary timers, but they can detect when the soil is dry and provide water only when it is needed. (16) ______. the final design includes shaded seating, small areas for growing herbs, and open space for residents to meet. (17) ______. question 13.a. the designers therefore removed all shared outdoor areas from the building.b. residents were told that only private balconies could provide green space.c. the proposal also required the tower to lose several floors of housing.d. the idea was to create shared green space without reducing the number of apartments.write a, b, c, or d - {#1} question 14.a. practicallyb. practicec. practicald. practicalitywrite a, b, c, or d - {#2} question 15.a. as a result, only residents on the top floor could enter the garden.b. the roof would therefore be closed whenever residents wanted to use it.c. this meant the garden was designed mainly for visitors from outside the building.d. this information made the garden seem more accessible to different residents.write a, b, c, or d - {#3} question 16.a. the sensors would make it impossible to grow plants during dry periods.b. for this reason, designers decided ordinary timers were always more accurate.c. the system was rejected because residents wanted the garden watered all day.d. although it costs more at first, the system could reduce unnecessary water use.write a, b, c, or d - {#4} question 17.a. the project proved that all high-rise buildings should replace public parks.b. the final design showed that technology mattered more than shared space.c. the plan could add useful green space where ground-level land was limited.d. the developers concluded that roof gardens were unnecessary in crowded urban centres.write a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -390,7 +390,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1955462-4",
+      "id": "question-1955539-4",
       "inputs": [
         {
           "index": 0,
@@ -402,7 +402,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. When those sensors detect movement, the lights become brighter so that people can see the path clearly.b. A new riverside path will use smart lights to make evening travel safer.c. After becoming brighter, however, the lights return to a dim setting when the path is empty again.d. This system should improve safety without keeping every light at full brightness all night.e. Sensors placed along the path will detect movement after dark.A. b - a - e - c - dB. b - e - a - c - dC. e - b - c - a - dD. b - e - c - d - a Write A, B, C, or D - {#1}",
-      "questionId": "question-1955462-4",
+      "questionId": "question-1955539-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. when those sensors detect movement, the lights become brighter so that people can see the path clearly.b. a new riverside path will use smart lights to make evening travel safer.c. after becoming brighter, however, the lights return to a dim setting when the path is empty again.d. this system should improve safety without keeping every light at full brightness all night.e. sensors placed along the path will detect movement after dark.a. b - a - e - c - db. b - e - a - c - dc. e - b - c - a - dd. b - e - c - d - a write a, b, c, or d - {#1}",
       "questionNumber": 4,
       "selects": [],
@@ -410,7 +410,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1955462-5",
+      "id": "question-1955539-5",
       "inputs": [
         {
           "index": 0,
@@ -422,7 +422,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. For this reason, planners should provide both digital and non-digital ways to get travel information.b. One advantage of a bus app is that it can show real-time arrival information.c. However, passengers without smartphones may find an app-only system difficult to use.d. Digital travel services can make public transport more convenient.e. For example, passengers can check a delay before leaving home.A. d - c - b - e - aB. b - e - d - c - aC. d - b - e - c - aD. d - b - c - e - a Write A, B, C, or D - {#1}",
-      "questionId": "question-1955462-5",
+      "questionId": "question-1955539-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. for this reason, planners should provide both digital and non-digital ways to get travel information.b. one advantage of a bus app is that it can show real-time arrival information.c. however, passengers without smartphones may find an app-only system difficult to use.d. digital travel services can make public transport more convenient.e. for example, passengers can check a delay before leaving home.a. d - c - b - e - ab. b - e - d - c - ac. d - b - e - c - ad. d - b - c - e - a write a, b, c, or d - {#1}",
       "questionNumber": 5,
       "selects": [],
@@ -430,7 +430,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1955462-6",
+      "id": "question-1955539-6",
       "inputs": [
         {
           "index": 0,
@@ -442,7 +442,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Why a tram line in particular?b. Minh: I think a new tram line would be the best choice.c. Lan: What kind of transport do you think our city needs most?d. Minh: Because it could connect outer neighbourhoods with the city centre quickly.e. Lan: Which of those outer neighbourhoods should it connect first?f. Minh: From the railway station to the university area, perhaps.A. c - a - b - d - e - fB. b - c - a - d - f - eC. c - b - e - f - a - dD. c - b - a - d - e - f Write A, B, C, or D - {#1}",
-      "questionId": "question-1955462-6",
+      "questionId": "question-1955539-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: why a tram line in particular?b. minh: i think a new tram line would be the best choice.c. lan: what kind of transport do you think our city needs most?d. minh: because it could connect outer neighbourhoods with the city centre quickly.e. lan: which of those outer neighbourhoods should it connect first?f. minh: from the railway station to the university area, perhaps.a. c - a - b - d - e - fb. b - c - a - d - f - ec. c - b - e - f - a - dd. c - b - a - d - e - f write a, b, c, or d - {#1}",
       "questionNumber": 6,
       "selects": [],
@@ -450,7 +450,7 @@
     },
     {
       "answer": "a",
-      "id": "question-1955462-7",
+      "id": "question-1955539-7",
       "inputs": [
         {
           "index": 0,
@@ -462,7 +462,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Huy: I'm not really sure about it. Building above water would be expensive.b. Mai: Do you think people will live in floating neighbourhoods one day?c. Mai: That's true. What do you think is more likely?d. Huy: I have no doubt that cities will use more smart public transport.A. b - a - c - dB. b - c - a - dC. a - b - d - cD. b - a - d - c Write A, B, C, or D - {#1}",
-      "questionId": "question-1955462-7",
+      "questionId": "question-1955539-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. huy: i'm not really sure about it. building above water would be expensive.b. mai: do you think people will live in floating neighbourhoods one day?c. mai: that's true. what do you think is more likely?d. huy: i have no doubt that cities will use more smart public transport.a. b - a - c - db. b - c - a - dc. a - b - d - cd. b - a - d - c write a, b, c, or d - {#1}",
       "questionNumber": 7,
       "selects": [],
@@ -470,7 +470,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1955462-8",
+      "id": "question-1955539-8",
       "inputs": [
         {
           "index": 0,
@@ -482,7 +482,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Each team must then choose two important features, such as transport, buildings, green space, or smart technology.b. Our class will present its Ideal City designs next Friday.c. After choosing those features, the team should explain how each one would improve daily life.d. Before making the poster, students should decide where their city will be and who will live there.e. Finally, the completed posters will be displayed in the school library.A. b - a - d - c - eB. b - d - a - c - eC. d - b - a - e - cD. b - d - c - a - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1955462-8",
+      "questionId": "question-1955539-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. each team must then choose two important features, such as transport, buildings, green space, or smart technology.b. our class will present its ideal city designs next friday.c. after choosing those features, the team should explain how each one would improve daily life.d. before making the poster, students should decide where their city will be and who will live there.e. finally, the completed posters will be displayed in the school library.a. b - a - d - c - eb. b - d - a - c - ec. d - b - a - e - cd. b - d - c - a - e write a, b, c, or d - {#1}",
       "questionNumber": 8,
       "selects": [],
@@ -670,6 +670,192 @@
           "index": 5,
           "questionNumber": 2,
           "value": "C. At the end of the visit"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B. public transport",
+      "id": "question-1955462-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
+      "letter": "",
+      "options": [
+        "B. public transport"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.high-rise buildingsB.public transportC.private vehiclesD.roof gardensÔ (2):A.efficientB.efficienciesC.efficientlyD.efficiencyÔ (3):A.is havingB.havingC.haveD.hasÔ (4):A.welcomeB.welcominglyC.welcomedD.welcomingÔ (5):A.private vehiclesB.traffic jamsC.high-rise buildingsD.city dwellersÔ (6):A.InsteadB.OverallC.For exampleD.However",
+      "questionId": "question-1955462-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) . at the moment, the design team (3) a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) . the model includes several (5) near the metro station so more homes can be built on limited land. (6) , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.high-rise buildingsb.public transportc.private vehiclesd.roof gardensô (2):a.efficientb.efficienciesc.efficientlyd.efficiencyô (3):a.is havingb.havingc.haved.hasô (4):a.welcomeb.welcominglyc.welcomedd.welcomingô (5):a.private vehiclesb.traffic jamsc.high-rise buildingsd.city dwellersô (6):a.insteadb.overallc.for exampled.however",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B. public transport"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C. efficiently"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "A. is having"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "D. welcoming"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "C. high-rise buildings"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "B. Overall"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "D. thinking",
+      "id": "question-1955462-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. smart neighbourhood open day would you like to see how people may live in a smarter neighbourhood? visit greenview's open day this saturday. many local residents are (7) {#1} of moving into the new apartments near the metro station. the station seems (8) {#2} because trains will connect the neighbourhood with the city centre every few minutes. the area also includes wide pedestrian (9) {#3}, cycle paths, and several small parks. residents say they (10) {#4} the neighbourhood has enough green space for families to relax outdoors. the high-rise buildings also use smart (11) {#5} to control lights in shared spaces when nobody is there. during the open day, visitors will first tour the outdoor spaces and shared facilities and then join a short presentation. (12) {#6}, they can compare the different apartment designs and ask the planning team questions about the neighbourhood.",
+      "letter": "",
+      "options": [
+        "D. thinking"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. SMART NEIGHBOURHOOD OPEN DAY Would you like to see how people may live in a smarter neighbourhood? Visit Greenview's Open Day this Saturday. Many local residents are (7) [Blank 7] of moving into the new apartments near the metro station. The station seems (8) [Blank 8] because trains will connect the neighbourhood with the city centre every few minutes. The area also includes wide pedestrian (9) [Blank 9] , cycle paths, and several small parks. Residents say they (10) [Blank 10] the neighbourhood has enough green space for families to relax outdoors. The high-rise buildings also use smart (11) [Blank 11] to control lights in shared spaces when nobody is there. During the Open Day, visitors will first tour the outdoor spaces and shared facilities and then join a short presentation. (12) [Blank 12] , they can compare the different apartment designs and ask the planning team questions about the neighbourhood.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.preferringB.knowingC.believingD.thinkingÔ (8):A.convenienceB.modernlyC.convenientlyD.convenientÔ (9):A.zonesB.centresC.jamsD.dwellersÔ (10):A.are thinkingB.thinkC.are havingD.are seeingÔ (11):A.vehiclesB.jamsC.centresD.sensorsÔ (12):A.For instanceB.On the other handC.At the end of the visitD.Otherwise",
+      "questionId": "question-1955462-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. smart neighbourhood open day would you like to see how people may live in a smarter neighbourhood? visit greenview's open day this saturday. many local residents are (7) of moving into the new apartments near the metro station. the station seems (8) because trains will connect the neighbourhood with the city centre every few minutes. the area also includes wide pedestrian (9) , cycle paths, and several small parks. residents say they (10) the neighbourhood has enough green space for families to relax outdoors. the high-rise buildings also use smart (11) to control lights in shared spaces when nobody is there. during the open day, visitors will first tour the outdoor spaces and shared facilities and then join a short presentation. (12) , they can compare the different apartment designs and ask the planning team questions about the neighbourhood.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.preferringb.knowingc.believingd.thinkingô (8):a.convenienceb.modernlyc.convenientlyd.convenientô (9):a.zonesb.centresc.jamsd.dwellersô (10):a.are thinkingb.thinkc.are havingd.are seeingô (11):a.vehiclesb.jamsc.centresd.sensorsô (12):a.for instanceb.on the other handc.at the end of the visitd.otherwise",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "D. thinking"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "D. convenient"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A. zones"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "B. think"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "D. sensors"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "C. At the end of the visit"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. public transport",
+      "id": "question-1955539-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.high-rise buildingsB.private vehiclesC.public transportD.roof gardensÔ (2):A.efficientB.efficientlyC.efficiencyD.efficienciesÔ (3):A.hasB.havingC.is havingD.haveÔ (4):A.welcomingB.welcominglyC.welcomeD.welcomedÔ (5):A.city dwellersB.private vehiclesC.traffic jamsD.high-rise buildingsÔ (6):A.OverallB.For exampleC.InsteadD.However",
+      "questionId": "question-1955539-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) [blank 1] such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) [blank 2] . at the moment, the design team (3) [blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) [blank 4] . the model includes several (5) [blank 5] near the metro station so more homes can be built on limited land. (6) [blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.high-rise buildingsb.private vehiclesc.public transportd.roof gardensô (2):a.efficientb.efficientlyc.efficiencyd.efficienciesô (3):a.hasb.havingc.is havingd.haveô (4):a.welcomingb.welcominglyc.welcomed.welcomedô (5):a.city dwellersb.private vehiclesc.traffic jamsd.high-rise buildingsô (6):a.overallb.for examplec.insteadd.however",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "C. public transport"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "B. efficiently"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "C. is having"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "A. welcoming"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "D. high-rise buildings"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "A. Overall"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. thinking",
+      "id": "question-1955539-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. smart neighbourhood open day would you like to see how people may live in a smarter neighbourhood? visit greenview's open day this saturday. many local residents are (7) {#1} of moving into the new apartments near the metro station. the station seems (8) {#2} because trains will connect the neighbourhood with the city centre every few minutes. the area also includes wide pedestrian (9) {#3}, cycle paths, and several small parks. residents say they (10) {#4} the neighbourhood has enough green space for families to relax outdoors. the high-rise buildings also use smart (11) {#5} to control lights in shared spaces when nobody is there. during the open day, visitors will first tour the outdoor spaces and shared facilities and then join a short presentation. (12) {#6}, they can compare the different apartment designs and ask the planning team questions about the neighbourhood.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. SMART NEIGHBOURHOOD OPEN DAY Would you like to see how people may live in a smarter neighbourhood? Visit Greenview's Open Day this Saturday. Many local residents are (7) [Blank 7] of moving into the new apartments near the metro station. The station seems (8) [Blank 8] because trains will connect the neighbourhood with the city centre every few minutes. The area also includes wide pedestrian (9) [Blank 9] , cycle paths, and several small parks. Residents say they (10) [Blank 10] the neighbourhood has enough green space for families to relax outdoors. The high-rise buildings also use smart (11) [Blank 11] to control lights in shared spaces when nobody is there. During the Open Day, visitors will first tour the outdoor spaces and shared facilities and then join a short presentation. (12) [Blank 12] , they can compare the different apartment designs and ask the planning team questions about the neighbourhood.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.believingB.preferringC.thinkingD.knowingÔ (8):A.convenienceB.convenientC.modernlyD.convenientlyÔ (9):A.dwellersB.jamsC.zonesD.centresÔ (10):A.are thinkingB.are havingC.are seeingD.thinkÔ (11):A.jamsB.centresC.sensorsD.vehiclesÔ (12):A.On the other handB.At the end of the visitC.OtherwiseD.For instance",
+      "questionId": "question-1955539-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. smart neighbourhood open day would you like to see how people may live in a smarter neighbourhood? visit greenview's open day this saturday. many local residents are (7) [blank 7] of moving into the new apartments near the metro station. the station seems (8) [blank 8] because trains will connect the neighbourhood with the city centre every few minutes. the area also includes wide pedestrian (9) [blank 9] , cycle paths, and several small parks. residents say they (10) [blank 10] the neighbourhood has enough green space for families to relax outdoors. the high-rise buildings also use smart (11) [blank 11] to control lights in shared spaces when nobody is there. during the open day, visitors will first tour the outdoor spaces and shared facilities and then join a short presentation. (12) [blank 12] , they can compare the different apartment designs and ask the planning team questions about the neighbourhood.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.believingb.preferringc.thinkingd.knowingô (8):a.convenienceb.convenientc.modernlyd.convenientlyô (9):a.dwellersb.jamsc.zonesd.centresô (10):a.are thinkingb.are havingc.are seeingd.thinkô (11):a.jamsb.centresc.sensorsd.vehiclesô (12):a.on the other handb.at the end of the visitc.otherwised.for instance",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "C. thinking"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "B. convenient"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "C. zones"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "D. think"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "C. sensors"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B. At the end of the visit"
         }
       ],
       "rightAnswer": ""
