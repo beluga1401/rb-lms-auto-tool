@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Cao Nguyễn Hoàng Gia Khang",
+    "account_name": "Nguyễn Minh Kha",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -10,12 +10,12 @@
     "quiz_title": "GR11EX41MOET UNIT 3 PRACTICE TEST 2 PART 1",
     "quiz_key": "gr11ex41moet_unit_3_practice_test_2_part_1",
     "cmid": "744167",
-    "course_id": "9690",
+    "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex41moet_unit_3_practice_test_2_part_1.json",
     "score": "22.00/22.00",
     "score_pct": 100.0,
-    "question_count": 56,
-    "updated_at": "2026-11-08 21:05:03"
+    "question_count": 92,
+    "updated_at": "2026-11-09 18:59:44"
   },
   "answers": [
     {
@@ -95,128 +95,168 @@
       "dragdrops": []
     },
     {
-      "id": "3",
+      "id": "question-1953600-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a square that can change with the day central square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. the panels can be arranged in different ways depending on how the square is being used. to planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. some nearby shop owners were concerned that the panels might hide their signs. designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. the panels will normally be moved by small electric motors. however, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. the purpose is not to make the square as technologically complicated as possible. (17) ______. question 13.a. the new structures would permanently divide the square into several smaller areas.b. the panels would remain closed even when large public events were being held.c. the panels could provide shade when needed and move aside for larger events.d. the project would replace the open square with a fully enclosed building.write a, b, c, or d - question 14.a. flexibleb. flexiblyc. flexibilityd. flexwrite a, b, c, or d - question 15.a. as a result, the shops would no longer be visible from the square.b. the owners therefore asked planners to remove every shade structure.c. the change meant that only temporary shops could operate nearby.d. this adjustment addressed the concern without removing the shade plan.write a, b, c, or d - question 16.a. the square would therefore remain closed whenever an electric motor stopped.b. this backup would allow staff to move the panels even if the automatic controls failed.c. for this reason, the planners decided that all automatic controls were unnecessary.d. the manual controls would be available only during large evening performances.write a, b, c, or d - question 17.a. instead, the planners want to remove all activities that do not require technology.b. the final design assumes that every visitor will prefer the same use of the square.c. the goal is to use a simple system that lets one public space serve different needs.d. the project therefore gives technology priority over the comfort of people using the square.write a, b, c, or d -",
       "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SQUARE THAT CAN CHANGE WITH THE DAY Central Square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. Instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. The panels can be arranged in different ways depending on how the square is being used. To planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. Some nearby shop owners were concerned that the panels might hide their signs. Designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. The panels will normally be moved by small electric motors. However, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. The purpose is not to make the square as technologically complicated as possible. (17) ______. Question 13.A. The new structures would permanently divide the square into several smaller areas.B. The panels would remain closed even when large public events were being held.C. The panels could provide shade when needed and move aside for larger events.D. The project would replace the open square with a fully enclosed building.Write A, B, C, or D - {#1} Question 14.A. flexibleB. flexiblyC. flexibilityD. flexWrite A, B, C, or D - {#2} Question 15.A. As a result, the shops would no longer be visible from the square.B. The owners therefore asked planners to remove every shade structure.C. The change meant that only temporary shops could operate nearby.D. This adjustment addressed the concern without removing the shade plan.Write A, B, C, or D - {#3} Question 16.A. The square would therefore remain closed whenever an electric motor stopped.B. This backup would allow staff to move the panels even if the automatic controls failed.C. For this reason, the planners decided that all automatic controls were unnecessary.D. The manual controls would be available only during large evening performances.Write A, B, C, or D - {#4} Question 17.A. Instead, the planners want to remove all activities that do not require technology.B. The final design assumes that every visitor will prefer the same use of the square.C. The goal is to use a simple system that lets one public space serve different needs.D. The project therefore gives technology priority over the comfort of people using the square.Write A, B, C, or D - {#5}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 3,
           "value": "c"
         },
         {
           "index": 1,
+          "questionNumber": 3,
           "value": "a"
         },
         {
           "index": 2,
+          "questionNumber": 3,
           "value": "d"
         },
         {
           "index": 3,
+          "questionNumber": 3,
           "value": "b"
         },
         {
           "index": 4,
+          "questionNumber": 3,
           "value": "c"
         }
       ],
       "selects": [],
-      "questionId": "3",
+      "questionId": "question-1953600-3",
       "questionNumber": 3,
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SQUARE THAT CAN CHANGE WITH THE DAY Central Square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. Instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. The panels can be arranged in different ways depending on how the square is being used. To planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. Some nearby shop owners were concerned that the panels might hide their signs. Designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. The panels will normally be moved by small electric motors. However, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. The purpose is not to make the square as technologically complicated as possible. (17) ______. Question 13.A. The new structures would permanently divide the square into several smaller areas.B. The panels would remain closed even when large public events were being held.C. The panels could provide shade when needed and move aside for larger events.D. The project would replace the open square with a fully enclosed building.Write A, B, C, or D - {#1} Question 14.A. flexibleB. flexiblyC. flexibilityD. flexWrite A, B, C, or D - {#2} Question 15.A. As a result, the shops would no longer be visible from the square.B. The owners therefore asked planners to remove every shade structure.C. The change meant that only temporary shops could operate nearby.D. This adjustment addressed the concern without removing the shade plan.Write A, B, C, or D - {#3} Question 16.A. The square would therefore remain closed whenever an electric motor stopped.B. This backup would allow staff to move the panels even if the automatic controls failed.C. For this reason, the planners decided that all automatic controls were unnecessary.D. The manual controls would be available only during large evening performances.Write A, B, C, or D - {#4} Question 17.A. Instead, the planners want to remove all activities that do not require technology.B. The final design assumes that every visitor will prefer the same use of the square.C. The goal is to use a simple system that lets one public space serve different needs.D. The project therefore gives technology priority over the comfort of people using the square.Write A, B, C, or D - {#5}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a square that can change with the day central square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. the panels can be arranged in different ways depending on how the square is being used. to planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. some nearby shop owners were concerned that the panels might hide their signs. designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. the panels will normally be moved by small electric motors. however, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. the purpose is not to make the square as technologically complicated as possible. (17) ______. question 13.a. the new structures would permanently divide the square into several smaller areas.b. the panels would remain closed even when large public events were being held.c. the panels could provide shade when needed and move aside for larger events.d. the project would replace the open square with a fully enclosed building.write a, b, c, or d - {#1} question 14.a. flexibleb. flexiblyc. flexibilityd. flexwrite a, b, c, or d - {#2} question 15.a. as a result, the shops would no longer be visible from the square.b. the owners therefore asked planners to remove every shade structure.c. the change meant that only temporary shops could operate nearby.d. this adjustment addressed the concern without removing the shade plan.write a, b, c, or d - {#3} question 16.a. the square would therefore remain closed whenever an electric motor stopped.b. this backup would allow staff to move the panels even if the automatic controls failed.c. for this reason, the planners decided that all automatic controls were unnecessary.d. the manual controls would be available only during large evening performances.write a, b, c, or d - {#4} question 17.a. instead, the planners want to remove all activities that do not require technology.b. the final design assumes that every visitor will prefer the same use of the square.c. the goal is to use a simple system that lets one public space serve different needs.d. the project therefore gives technology priority over the comfort of people using the square.write a, b, c, or d - {#5}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
-      "id": "4",
+      "id": "question-1953600-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. when that level becomes unusually low, a warning is sent to maintenance staff.b. to provide this service, each bench stores energy collected by a solar panel during daylight.c. a new riverside rest area will use solar-powered benches that allow visitors to charge small devices.d. this use also lowers the battery level, so the bench monitors how much power remains.e. the stored energy can then power the charging points after sunset.a. c - b - e - d - ab. c - e - b - d - ac. b - c - e - a - dd. c - b - d - e - a write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. When that level becomes unusually low, a warning is sent to maintenance staff.b. To provide this service, each bench stores energy collected by a solar panel during daylight.c. A new riverside rest area will use solar-powered benches that allow visitors to charge small devices.d. This use also lowers the battery level, so the bench monitors how much power remains.e. The stored energy can then power the charging points after sunset.A. c - b - e - d - aB. c - e - b - d - aC. b - c - e - a - dD. c - b - d - e - a Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "a"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 4,
           "value": "a"
         }
       ],
       "selects": [],
-      "questionId": "4",
+      "questionId": "question-1953600-4",
       "questionNumber": 4,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. When that level becomes unusually low, a warning is sent to maintenance staff.b. To provide this service, each bench stores energy collected by a solar panel during daylight.c. A new riverside rest area will use solar-powered benches that allow visitors to charge small devices.d. This use also lowers the battery level, so the bench monitors how much power remains.e. The stored energy can then power the charging points after sunset.A. c - b - e - d - aB. c - e - b - d - aC. b - c - e - a - dD. c - b - d - e - a Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "a",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. when that level becomes unusually low, a warning is sent to maintenance staff.b. to provide this service, each bench stores energy collected by a solar panel during daylight.c. a new riverside rest area will use solar-powered benches that allow visitors to charge small devices.d. this use also lowers the battery level, so the bench monitors how much power remains.e. the stored energy can then power the charging points after sunset.a. c - b - e - d - ab. c - e - b - d - ac. b - c - e - a - dd. c - b - d - e - a write a, b, c, or d - {#1}",
+      "letter": "A",
+      "rightAnswer": ""
     },
     {
-      "id": "5",
+      "id": "question-1953600-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. to address this problem, planners could place landing points on selected rooftops rather than on busy pavements.b. with these rooftop landing points, drones could deliver urgent items without adding another van to the street.c. delivery drones could make some city services faster, but their use also creates planning problems.d. this advantage may be especially useful in districts where road traffic is already heavy.e. a major concern is that drones need safe places to land away from crowded pedestrian areas.a. c - b - d - e - ab. e - c - a - b - dc. c - e - b - d - ad. c - e - a - b - d write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. To address this problem, planners could place landing points on selected rooftops rather than on busy pavements.b. With these rooftop landing points, drones could deliver urgent items without adding another van to the street.c. Delivery drones could make some city services faster, but their use also creates planning problems.d. This advantage may be especially useful in districts where road traffic is already heavy.e. A major concern is that drones need safe places to land away from crowded pedestrian areas.A. c - b - d - e - aB. e - c - a - b - dC. c - e - b - d - aD. c - e - a - b - d Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "d"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 5,
           "value": "d"
         }
       ],
       "selects": [],
-      "questionId": "5",
+      "questionId": "question-1953600-5",
       "questionNumber": 5,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. To address this problem, planners could place landing points on selected rooftops rather than on busy pavements.b. With these rooftop landing points, drones could deliver urgent items without adding another van to the street.c. Delivery drones could make some city services faster, but their use also creates planning problems.d. This advantage may be especially useful in districts where road traffic is already heavy.e. A major concern is that drones need safe places to land away from crowded pedestrian areas.A. c - b - d - e - aB. e - c - a - b - dC. c - e - b - d - aD. c - e - a - b - d Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "d",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. to address this problem, planners could place landing points on selected rooftops rather than on busy pavements.b. with these rooftop landing points, drones could deliver urgent items without adding another van to the street.c. delivery drones could make some city services faster, but their use also creates planning problems.d. this advantage may be especially useful in districts where road traffic is already heavy.e. a major concern is that drones need safe places to land away from crowded pedestrian areas.a. c - b - d - e - ab. e - c - a - b - dc. c - e - b - d - ad. c - e - a - b - d write a, b, c, or d - {#1}",
+      "letter": "D",
+      "rightAnswer": ""
     },
     {
-      "id": "6",
+      "id": "question-1953600-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. thu: that reason makes sense. how would residents enter the room after dark?b. nam: our group has put a shared bicycle room on the ground floor of each apartment block.c. thu: why did you choose the ground floor?d. nam: so residents can take bicycles directly to the street without using the lifts.e. nam: they could use the same digital key that opens the main building entrance.f. thu: good. that digital key would keep the room available to residents without needing staff there all evening.a. b - a - e - c - d - fb. b - c - d - a - e - fc. c - b - d - a - f - ed. b - c - a - e - d - f write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Thu: That reason makes sense. How would residents enter the room after dark?b. Nam: Our group has put a shared bicycle room on the ground floor of each apartment block.c. Thu: Why did you choose the ground floor?d. Nam: So residents can take bicycles directly to the street without using the lifts.e. Nam: They could use the same digital key that opens the main building entrance.f. Thu: Good. That digital key would keep the room available to residents without needing staff there all evening.A. b - a - e - c - d - fB. b - c - d - a - e - fC. c - b - d - a - f - eD. b - c - a - e - d - f Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 6,
           "value": "b"
         }
       ],
       "selects": [],
-      "questionId": "6",
+      "questionId": "question-1953600-6",
       "questionNumber": 6,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Thu: That reason makes sense. How would residents enter the room after dark?b. Nam: Our group has put a shared bicycle room on the ground floor of each apartment block.c. Thu: Why did you choose the ground floor?d. Nam: So residents can take bicycles directly to the street without using the lifts.e. Nam: They could use the same digital key that opens the main building entrance.f. Thu: Good. That digital key would keep the room available to residents without needing staff there all evening.A. b - a - e - c - d - fB. b - c - d - a - e - fC. c - b - d - a - f - eD. b - c - a - e - d - f Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. thu: that reason makes sense. how would residents enter the room after dark?b. nam: our group has put a shared bicycle room on the ground floor of each apartment block.c. thu: why did you choose the ground floor?d. nam: so residents can take bicycles directly to the street without using the lifts.e. nam: they could use the same digital key that opens the main building entrance.f. thu: good. that digital key would keep the room available to residents without needing staff there all evening.a. b - a - e - c - d - fb. b - c - d - a - e - fc. c - b - d - a - f - ed. b - c - a - e - d - f write a, b, c, or d - {#1}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
-      "id": "7",
+      "id": "question-1953600-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. mai: i'm sure automated street-cleaning vehicles will become common in large city centres.b. phuc: what makes you so certain?c. mai: they can work at quiet times and may reduce the need to close streets during cleaning.d. phuc: i see. i'm less sure that they will work well in every narrow street.e. mai: that's true. older districts may still need smaller vehicles or ordinary cleaning teams.a. a - b - c - d - eb. b - a - c - d - ec. a - d - b - c - ed. d - e - a - c - b write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Mai: I'm sure automated street-cleaning vehicles will become common in large city centres.b. Phuc: What makes you so certain?c. Mai: They can work at quiet times and may reduce the need to close streets during cleaning.d. Phuc: I see. I'm less sure that they will work well in every narrow street.e. Mai: That's true. Older districts may still need smaller vehicles or ordinary cleaning teams.A. a - b - c - d - eB. b - a - c - d - eC. a - d - b - c - eD. d - e - a - c - b Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "a"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 7,
           "value": "a"
         }
       ],
       "selects": [],
-      "questionId": "7",
+      "questionId": "question-1953600-7",
       "questionNumber": 7,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Mai: I'm sure automated street-cleaning vehicles will become common in large city centres.b. Phuc: What makes you so certain?c. Mai: They can work at quiet times and may reduce the need to close streets during cleaning.d. Phuc: I see. I'm less sure that they will work well in every narrow street.e. Mai: That's true. Older districts may still need smaller vehicles or ordinary cleaning teams.A. a - b - c - d - eB. b - a - c - d - eC. a - d - b - c - eD. d - e - a - c - b Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "a",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. mai: i'm sure automated street-cleaning vehicles will become common in large city centres.b. phuc: what makes you so certain?c. mai: they can work at quiet times and may reduce the need to close streets during cleaning.d. phuc: i see. i'm less sure that they will work well in every narrow street.e. mai: that's true. older districts may still need smaller vehicles or ordinary cleaning teams.a. a - b - c - d - eb. b - a - c - d - ec. a - d - b - c - ed. d - e - a - c - b write a, b, c, or d - {#1}",
+      "letter": "A",
+      "rightAnswer": ""
     },
     {
-      "id": "8",
+      "id": "question-1953600-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. the planning team will use the questions to prepare a short response before the second meeting.b. residents are invited to examine two proposed designs for the new public square this weekend.c. beside the display, residents can leave questions on comment cards or submit them through the district website.d. at the following meeting, the team will explain which suggestions can be included and why.e. both designs will be displayed in the community hall from 9 a.m. to 5 p.m.a. b - c - e - a - db. e - b - c - a - dc. b - e - a - c - dd. b - e - c - a - d write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. The planning team will use the questions to prepare a short response before the second meeting.b. Residents are invited to examine two proposed designs for the new public square this weekend.c. Beside the display, residents can leave questions on comment cards or submit them through the district website.d. At the following meeting, the team will explain which suggestions can be included and why.e. Both designs will be displayed in the community hall from 9 a.m. to 5 p.m.A. b - c - e - a - dB. e - b - c - a - dC. b - e - a - c - dD. b - e - c - a - d Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "d"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 8,
           "value": "d"
         }
       ],
       "selects": [],
-      "questionId": "8",
+      "questionId": "question-1953600-8",
       "questionNumber": 8,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. The planning team will use the questions to prepare a short response before the second meeting.b. Residents are invited to examine two proposed designs for the new public square this weekend.c. Beside the display, residents can leave questions on comment cards or submit them through the district website.d. At the following meeting, the team will explain which suggestions can be included and why.e. Both designs will be displayed in the community hall from 9 a.m. to 5 p.m.A. b - c - e - a - dB. e - b - c - a - dC. b - e - a - c - dD. b - e - c - a - d Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "d",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. the planning team will use the questions to prepare a short response before the second meeting.b. residents are invited to examine two proposed designs for the new public square this weekend.c. beside the display, residents can leave questions on comment cards or submit them through the district website.d. at the following meeting, the team will explain which suggestions can be included and why.e. both designs will be displayed in the community hall from 9 a.m. to 5 p.m.a. b - c - e - a - db. e - b - c - a - dc. b - e - a - c - dd. b - e - c - a - d write a, b, c, or d - {#1}",
+      "letter": "D",
+      "rightAnswer": ""
     },
     {
       "answer": "B. are thinking",
@@ -310,7 +350,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1953600-3",
+      "id": "question-1955477-3",
       "inputs": [
         {
           "index": 0,
@@ -342,7 +382,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A SQUARE THAT CAN CHANGE WITH THE DAY Central Square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. Instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. The panels can be arranged in different ways depending on how the square is being used. To planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. Some nearby shop owners were concerned that the panels might hide their signs. Designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. The panels will normally be moved by small electric motors. However, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. The purpose is not to make the square as technologically complicated as possible. (17) ______. Question 13.A. The new structures would permanently divide the square into several smaller areas.B. The panels would remain closed even when large public events were being held.C. The panels could provide shade when needed and move aside for larger events.D. The project would replace the open square with a fully enclosed building.Write A, B, C, or D - {#1} Question 14.A. flexibleB. flexiblyC. flexibilityD. flexWrite A, B, C, or D - {#2} Question 15.A. As a result, the shops would no longer be visible from the square.B. The owners therefore asked planners to remove every shade structure.C. The change meant that only temporary shops could operate nearby.D. This adjustment addressed the concern without removing the shade plan.Write A, B, C, or D - {#3} Question 16.A. The square would therefore remain closed whenever an electric motor stopped.B. This backup would allow staff to move the panels even if the automatic controls failed.C. For this reason, the planners decided that all automatic controls were unnecessary.D. The manual controls would be available only during large evening performances.Write A, B, C, or D - {#4} Question 17.A. Instead, the planners want to remove all activities that do not require technology.B. The final design assumes that every visitor will prefer the same use of the square.C. The goal is to use a simple system that lets one public space serve different needs.D. The project therefore gives technology priority over the comfort of people using the square.Write A, B, C, or D - {#5}",
-      "questionId": "question-1953600-3",
+      "questionId": "question-1955477-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a square that can change with the day central square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. the panels can be arranged in different ways depending on how the square is being used. to planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. some nearby shop owners were concerned that the panels might hide their signs. designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. the panels will normally be moved by small electric motors. however, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. the purpose is not to make the square as technologically complicated as possible. (17) ______. question 13.a. the new structures would permanently divide the square into several smaller areas.b. the panels would remain closed even when large public events were being held.c. the panels could provide shade when needed and move aside for larger events.d. the project would replace the open square with a fully enclosed building.write a, b, c, or d - {#1} question 14.a. flexibleb. flexiblyc. flexibilityd. flexwrite a, b, c, or d - {#2} question 15.a. as a result, the shops would no longer be visible from the square.b. the owners therefore asked planners to remove every shade structure.c. the change meant that only temporary shops could operate nearby.d. this adjustment addressed the concern without removing the shade plan.write a, b, c, or d - {#3} question 16.a. the square would therefore remain closed whenever an electric motor stopped.b. this backup would allow staff to move the panels even if the automatic controls failed.c. for this reason, the planners decided that all automatic controls were unnecessary.d. the manual controls would be available only during large evening performances.write a, b, c, or d - {#4} question 17.a. instead, the planners want to remove all activities that do not require technology.b. the final design assumes that every visitor will prefer the same use of the square.c. the goal is to use a simple system that lets one public space serve different needs.d. the project therefore gives technology priority over the comfort of people using the square.write a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -350,7 +390,7 @@
     },
     {
       "answer": "a",
-      "id": "question-1953600-4",
+      "id": "question-1955477-4",
       "inputs": [
         {
           "index": 0,
@@ -362,7 +402,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. When that level becomes unusually low, a warning is sent to maintenance staff.b. To provide this service, each bench stores energy collected by a solar panel during daylight.c. A new riverside rest area will use solar-powered benches that allow visitors to charge small devices.d. This use also lowers the battery level, so the bench monitors how much power remains.e. The stored energy can then power the charging points after sunset.A. c - b - e - d - aB. c - e - b - d - aC. b - c - e - a - dD. c - b - d - e - a Write A, B, C, or D - {#1}",
-      "questionId": "question-1953600-4",
+      "questionId": "question-1955477-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. when that level becomes unusually low, a warning is sent to maintenance staff.b. to provide this service, each bench stores energy collected by a solar panel during daylight.c. a new riverside rest area will use solar-powered benches that allow visitors to charge small devices.d. this use also lowers the battery level, so the bench monitors how much power remains.e. the stored energy can then power the charging points after sunset.a. c - b - e - d - ab. c - e - b - d - ac. b - c - e - a - dd. c - b - d - e - a write a, b, c, or d - {#1}",
       "questionNumber": 4,
       "selects": [],
@@ -370,7 +410,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1953600-5",
+      "id": "question-1955477-5",
       "inputs": [
         {
           "index": 0,
@@ -382,7 +422,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. To address this problem, planners could place landing points on selected rooftops rather than on busy pavements.b. With these rooftop landing points, drones could deliver urgent items without adding another van to the street.c. Delivery drones could make some city services faster, but their use also creates planning problems.d. This advantage may be especially useful in districts where road traffic is already heavy.e. A major concern is that drones need safe places to land away from crowded pedestrian areas.A. c - b - d - e - aB. e - c - a - b - dC. c - e - b - d - aD. c - e - a - b - d Write A, B, C, or D - {#1}",
-      "questionId": "question-1953600-5",
+      "questionId": "question-1955477-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. to address this problem, planners could place landing points on selected rooftops rather than on busy pavements.b. with these rooftop landing points, drones could deliver urgent items without adding another van to the street.c. delivery drones could make some city services faster, but their use also creates planning problems.d. this advantage may be especially useful in districts where road traffic is already heavy.e. a major concern is that drones need safe places to land away from crowded pedestrian areas.a. c - b - d - e - ab. e - c - a - b - dc. c - e - b - d - ad. c - e - a - b - d write a, b, c, or d - {#1}",
       "questionNumber": 5,
       "selects": [],
@@ -390,7 +430,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1953600-6",
+      "id": "question-1955477-6",
       "inputs": [
         {
           "index": 0,
@@ -402,7 +442,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Thu: That reason makes sense. How would residents enter the room after dark?b. Nam: Our group has put a shared bicycle room on the ground floor of each apartment block.c. Thu: Why did you choose the ground floor?d. Nam: So residents can take bicycles directly to the street without using the lifts.e. Nam: They could use the same digital key that opens the main building entrance.f. Thu: Good. That digital key would keep the room available to residents without needing staff there all evening.A. b - a - e - c - d - fB. b - c - d - a - e - fC. c - b - d - a - f - eD. b - c - a - e - d - f Write A, B, C, or D - {#1}",
-      "questionId": "question-1953600-6",
+      "questionId": "question-1955477-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. thu: that reason makes sense. how would residents enter the room after dark?b. nam: our group has put a shared bicycle room on the ground floor of each apartment block.c. thu: why did you choose the ground floor?d. nam: so residents can take bicycles directly to the street without using the lifts.e. nam: they could use the same digital key that opens the main building entrance.f. thu: good. that digital key would keep the room available to residents without needing staff there all evening.a. b - a - e - c - d - fb. b - c - d - a - e - fc. c - b - d - a - f - ed. b - c - a - e - d - f write a, b, c, or d - {#1}",
       "questionNumber": 6,
       "selects": [],
@@ -410,7 +450,7 @@
     },
     {
       "answer": "a",
-      "id": "question-1953600-7",
+      "id": "question-1955477-7",
       "inputs": [
         {
           "index": 0,
@@ -422,7 +462,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Mai: I'm sure automated street-cleaning vehicles will become common in large city centres.b. Phuc: What makes you so certain?c. Mai: They can work at quiet times and may reduce the need to close streets during cleaning.d. Phuc: I see. I'm less sure that they will work well in every narrow street.e. Mai: That's true. Older districts may still need smaller vehicles or ordinary cleaning teams.A. a - b - c - d - eB. b - a - c - d - eC. a - d - b - c - eD. d - e - a - c - b Write A, B, C, or D - {#1}",
-      "questionId": "question-1953600-7",
+      "questionId": "question-1955477-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. mai: i'm sure automated street-cleaning vehicles will become common in large city centres.b. phuc: what makes you so certain?c. mai: they can work at quiet times and may reduce the need to close streets during cleaning.d. phuc: i see. i'm less sure that they will work well in every narrow street.e. mai: that's true. older districts may still need smaller vehicles or ordinary cleaning teams.a. a - b - c - d - eb. b - a - c - d - ec. a - d - b - c - ed. d - e - a - c - b write a, b, c, or d - {#1}",
       "questionNumber": 7,
       "selects": [],
@@ -430,7 +470,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1953600-8",
+      "id": "question-1955477-8",
       "inputs": [
         {
           "index": 0,
@@ -442,7 +482,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. The planning team will use the questions to prepare a short response before the second meeting.b. Residents are invited to examine two proposed designs for the new public square this weekend.c. Beside the display, residents can leave questions on comment cards or submit them through the district website.d. At the following meeting, the team will explain which suggestions can be included and why.e. Both designs will be displayed in the community hall from 9 a.m. to 5 p.m.A. b - c - e - a - dB. e - b - c - a - dC. b - e - a - c - dD. b - e - c - a - d Write A, B, C, or D - {#1}",
-      "questionId": "question-1953600-8",
+      "questionId": "question-1955477-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. the planning team will use the questions to prepare a short response before the second meeting.b. residents are invited to examine two proposed designs for the new public square this weekend.c. beside the display, residents can leave questions on comment cards or submit them through the district website.d. at the following meeting, the team will explain which suggestions can be included and why.e. both designs will be displayed in the community hall from 9 a.m. to 5 p.m.a. b - c - e - a - db. e - b - c - a - dc. b - e - a - c - dd. b - e - c - a - d write a, b, c, or d - {#1}",
       "questionNumber": 8,
       "selects": [],
@@ -529,6 +569,288 @@
           "index": 4,
           "questionNumber": 2,
           "value": "B. bright"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B. Overall"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B. are thinking",
+      "id": "question-1952208-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. a smart delivery point for a busy district a new apartment district is introducing shared parcel lockers beside its community centre. residents will be able to collect deliveries at convenient times instead of waiting at home. at present, the planners (1) {#1} of adding a second locker point after residents asked for more space. the service sounds (2) {#2} to people who are often away from home during the day. the first lockers will serve four nearby (3) {#3}. they will become part of the district's modern (4) {#4} rather than operate as a separate shop. when a parcel arrives, the resident receives a personal code. (5) {#5}, the resident can open only the correct locker. by grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) {#6}.",
+      "letter": "",
+      "options": [
+        "B. are thinking"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. A SMART DELIVERY POINT FOR A BUSY DISTRICT A new apartment district is introducing shared parcel lockers beside its community centre. Residents will be able to collect deliveries at convenient times instead of waiting at home. At present, the planners (1) [Blank 1] of adding a second locker point after residents asked for more space. The service sounds (2) [Blank 2] to people who are often away from home during the day. The first lockers will serve four nearby (3) [Blank 3] . They will become part of the district's modern (4) [Blank 4] rather than operate as a separate shop. When a parcel arrives, the resident receives a personal code. (5) [Blank 5] , the resident can open only the correct locker. By grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.are thoughtB.are thinkingC.thinkD.thoughtÔ (2):A.practiceB.practicalityC.practicalD.practicallyÔ (3):A.high-rise buildingsB.roof gardensC.private vehiclesD.traffic jamsÔ (4):A.transportB.centreC.infrastructureD.dwellerÔ (5):A.Instead of a lockerB.Using this codeC.Before the deliveryD.Without the messageÔ (6):A.efficienciesB.efficiencyC.efficientlyD.efficient",
+      "questionId": "question-1952208-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. a smart delivery point for a busy district a new apartment district is introducing shared parcel lockers beside its community centre. residents will be able to collect deliveries at convenient times instead of waiting at home. at present, the planners (1) of adding a second locker point after residents asked for more space. the service sounds (2) to people who are often away from home during the day. the first lockers will serve four nearby (3) . they will become part of the district's modern (4) rather than operate as a separate shop. when a parcel arrives, the resident receives a personal code. (5) , the resident can open only the correct locker. by grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) .📋bảng lựa chọn các ô trống (cloze options):ô (1):a.are thoughtb.are thinkingc.thinkd.thoughtô (2):a.practiceb.practicalityc.practicald.practicallyô (3):a.high-rise buildingsb.roof gardensc.private vehiclesd.traffic jamsô (4):a.transportb.centrec.infrastructured.dwellerô (5):a.instead of a lockerb.using this codec.before the deliveryd.without the messageô (6):a.efficienciesb.efficiencyc.efficientlyd.efficient",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B. are thinking"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C. practical"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "A. high-rise buildings"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "C. infrastructure"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "B. Using this code"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "C. efficiently"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. convenient",
+      "id": "question-1952208-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a walkway above the street two office towers in westgate will soon be connected by a covered walkway above a busy road. the walkway seems (7) {#1} because workers will be able to move between the buildings without crossing the traffic below. right now, the architects (8) {#2} a discussion with engineers about adding several small seating areas along the walkway. the two towers are among the tallest (9) {#3} in the district. planners (10) {#4} the walkway will also reduce crowding at the street crossings below. large windows will make the inside look (11) {#5} and open. (12) {#6}, the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.",
+      "letter": "",
+      "options": [
+        "B. convenient"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. A WALKWAY ABOVE THE STREET Two office towers in Westgate will soon be connected by a covered walkway above a busy road. The walkway seems (7) [Blank 7] because workers will be able to move between the buildings without crossing the traffic below. Right now, the architects (8) [Blank 8] a discussion with engineers about adding several small seating areas along the walkway. The two towers are among the tallest (9) [Blank 9] in the district. Planners (10) [Blank 10] the walkway will also reduce crowding at the street crossings below. Large windows will make the inside look (11) [Blank 11] and open. (12) [Blank 12] , the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.convenienceB.convenientC.conveniencesD.convenientlyÔ (8):A.haveB.havingC.hadD.are havingÔ (9):A.skyscrapersB.city dwellersC.traffic jamsD.roof gardensÔ (10):A.believingB.believedC.are believingD.believeÔ (11):A.brightenB.brightnessC.brightlyD.brightÔ (12):A.OtherwiseB.OverallC.For instanceD.However",
+      "questionId": "question-1952208-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a walkway above the street two office towers in westgate will soon be connected by a covered walkway above a busy road. the walkway seems (7) because workers will be able to move between the buildings without crossing the traffic below. right now, the architects (8) a discussion with engineers about adding several small seating areas along the walkway. the two towers are among the tallest (9) in the district. planners (10) the walkway will also reduce crowding at the street crossings below. large windows will make the inside look (11) and open. (12) , the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.convenienceb.convenientc.conveniencesd.convenientlyô (8):a.haveb.havingc.hadd.are havingô (9):a.skyscrapersb.city dwellersc.traffic jamsd.roof gardensô (10):a.believingb.believedc.are believingd.believeô (11):a.brightenb.brightnessc.brightlyd.brightô (12):a.otherwiseb.overallc.for instanced.however",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "B. convenient"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "D. are having"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A. skyscrapers"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "D. believe"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "D. bright"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B. Overall"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. are thinking",
+      "id": "question-1953600-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. a smart delivery point for a busy district a new apartment district is introducing shared parcel lockers beside its community centre. residents will be able to collect deliveries at convenient times instead of waiting at home. at present, the planners (1) {#1} of adding a second locker point after residents asked for more space. the service sounds (2) {#2} to people who are often away from home during the day. the first lockers will serve four nearby (3) {#3}. they will become part of the district's modern (4) {#4} rather than operate as a separate shop. when a parcel arrives, the resident receives a personal code. (5) {#5}, the resident can open only the correct locker. by grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) {#6}.",
+      "letter": "",
+      "options": [
+        "B. are thinking"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. A SMART DELIVERY POINT FOR A BUSY DISTRICT A new apartment district is introducing shared parcel lockers beside its community centre. Residents will be able to collect deliveries at convenient times instead of waiting at home. At present, the planners (1) [Blank 1] of adding a second locker point after residents asked for more space. The service sounds (2) [Blank 2] to people who are often away from home during the day. The first lockers will serve four nearby (3) [Blank 3] . They will become part of the district's modern (4) [Blank 4] rather than operate as a separate shop. When a parcel arrives, the resident receives a personal code. (5) [Blank 5] , the resident can open only the correct locker. By grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.thoughtB.are thinkingC.are thoughtD.thinkÔ (2):A.practicallyB.practiceC.practicalD.practicalityÔ (3):A.roof gardensB.high-rise buildingsC.private vehiclesD.traffic jamsÔ (4):A.centreB.transportC.infrastructureD.dwellerÔ (5):A.Instead of a lockerB.Without the messageC.Using this codeD.Before the deliveryÔ (6):A.efficientlyB.efficientC.efficienciesD.efficiency",
+      "questionId": "question-1953600-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. a smart delivery point for a busy district a new apartment district is introducing shared parcel lockers beside its community centre. residents will be able to collect deliveries at convenient times instead of waiting at home. at present, the planners (1) of adding a second locker point after residents asked for more space. the service sounds (2) to people who are often away from home during the day. the first lockers will serve four nearby (3) . they will become part of the district's modern (4) rather than operate as a separate shop. when a parcel arrives, the resident receives a personal code. (5) , the resident can open only the correct locker. by grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) .📋bảng lựa chọn các ô trống (cloze options):ô (1):a.thoughtb.are thinkingc.are thoughtd.thinkô (2):a.practicallyb.practicec.practicald.practicalityô (3):a.roof gardensb.high-rise buildingsc.private vehiclesd.traffic jamsô (4):a.centreb.transportc.infrastructured.dwellerô (5):a.instead of a lockerb.without the messagec.using this coded.before the deliveryô (6):a.efficientlyb.efficientc.efficienciesd.efficiency",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B. are thinking"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C. practical"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "B. high-rise buildings"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "C. infrastructure"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "C. Using this code"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "A. efficiently"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. convenient",
+      "id": "question-1953600-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a walkway above the street two office towers in westgate will soon be connected by a covered walkway above a busy road. the walkway seems (7) {#1} because workers will be able to move between the buildings without crossing the traffic below. right now, the architects (8) {#2} a discussion with engineers about adding several small seating areas along the walkway. the two towers are among the tallest (9) {#3} in the district. planners (10) {#4} the walkway will also reduce crowding at the street crossings below. large windows will make the inside look (11) {#5} and open. (12) {#6}, the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.",
+      "letter": "",
+      "options": [
+        "B. convenient"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. A WALKWAY ABOVE THE STREET Two office towers in Westgate will soon be connected by a covered walkway above a busy road. The walkway seems (7) [Blank 7] because workers will be able to move between the buildings without crossing the traffic below. Right now, the architects (8) [Blank 8] a discussion with engineers about adding several small seating areas along the walkway. The two towers are among the tallest (9) [Blank 9] in the district. Planners (10) [Blank 10] the walkway will also reduce crowding at the street crossings below. Large windows will make the inside look (11) [Blank 11] and open. (12) [Blank 12] , the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.conveniencesB.convenientC.convenienceD.convenientlyÔ (8):A.are havingB.haveC.havingD.hadÔ (9):A.city dwellersB.traffic jamsC.roof gardensD.skyscrapersÔ (10):A.believingB.believedC.believeD.are believingÔ (11):A.brightnessB.brightC.brightenD.brightlyÔ (12):A.HoweverB.OverallC.For instanceD.Otherwise",
+      "questionId": "question-1953600-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a walkway above the street two office towers in westgate will soon be connected by a covered walkway above a busy road. the walkway seems (7) because workers will be able to move between the buildings without crossing the traffic below. right now, the architects (8) a discussion with engineers about adding several small seating areas along the walkway. the two towers are among the tallest (9) in the district. planners (10) the walkway will also reduce crowding at the street crossings below. large windows will make the inside look (11) and open. (12) , the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.conveniencesb.convenientc.convenienced.convenientlyô (8):a.are havingb.havec.havingd.hadô (9):a.city dwellersb.traffic jamsc.roof gardensd.skyscrapersô (10):a.believingb.believedc.believed.are believingô (11):a.brightnessb.brightc.brightend.brightlyô (12):a.howeverb.overallc.for instanced.otherwise",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "B. convenient"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A. are having"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "D. skyscrapers"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "C. believe"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "B. bright"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B. Overall"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. are thinking",
+      "id": "question-1955477-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. a smart delivery point for a busy district a new apartment district is introducing shared parcel lockers beside its community centre. residents will be able to collect deliveries at convenient times instead of waiting at home. at present, the planners (1) {#1} of adding a second locker point after residents asked for more space. the service sounds (2) {#2} to people who are often away from home during the day. the first lockers will serve four nearby (3) {#3}. they will become part of the district's modern (4) {#4} rather than operate as a separate shop. when a parcel arrives, the resident receives a personal code. (5) {#5}, the resident can open only the correct locker. by grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) {#6}.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. A SMART DELIVERY POINT FOR A BUSY DISTRICT A new apartment district is introducing shared parcel lockers beside its community centre. Residents will be able to collect deliveries at convenient times instead of waiting at home. At present, the planners (1) [Blank 1] of adding a second locker point after residents asked for more space. The service sounds (2) [Blank 2] to people who are often away from home during the day. The first lockers will serve four nearby (3) [Blank 3] . They will become part of the district's modern (4) [Blank 4] rather than operate as a separate shop. When a parcel arrives, the resident receives a personal code. (5) [Blank 5] , the resident can open only the correct locker. By grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.are thoughtB.are thinkingC.thoughtD.thinkÔ (2):A.practicalB.practiceC.practicallyD.practicalityÔ (3):A.high-rise buildingsB.private vehiclesC.roof gardensD.traffic jamsÔ (4):A.transportB.centreC.infrastructureD.dwellerÔ (5):A.Without the messageB.Before the deliveryC.Instead of a lockerD.Using this codeÔ (6):A.efficientB.efficientlyC.efficienciesD.efficiency",
+      "questionId": "question-1955477-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. a smart delivery point for a busy district a new apartment district is introducing shared parcel lockers beside its community centre. residents will be able to collect deliveries at convenient times instead of waiting at home. at present, the planners (1) [blank 1] of adding a second locker point after residents asked for more space. the service sounds (2) [blank 2] to people who are often away from home during the day. the first lockers will serve four nearby (3) [blank 3] . they will become part of the district's modern (4) [blank 4] rather than operate as a separate shop. when a parcel arrives, the resident receives a personal code. (5) [blank 5] , the resident can open only the correct locker. by grouping deliveries at one shared point, delivery vans may make fewer separate stops and operate more (6) [blank 6] .📋bảng lựa chọn các ô trống (cloze options):ô (1):a.are thoughtb.are thinkingc.thoughtd.thinkô (2):a.practicalb.practicec.practicallyd.practicalityô (3):a.high-rise buildingsb.private vehiclesc.roof gardensd.traffic jamsô (4):a.transportb.centrec.infrastructured.dwellerô (5):a.without the messageb.before the deliveryc.instead of a lockerd.using this codeô (6):a.efficientb.efficientlyc.efficienciesd.efficiency",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B. are thinking"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "A. practical"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "A. high-rise buildings"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "C. infrastructure"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "D. Using this code"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "B. efficiently"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A. convenient",
+      "id": "question-1955477-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a walkway above the street two office towers in westgate will soon be connected by a covered walkway above a busy road. the walkway seems (7) {#1} because workers will be able to move between the buildings without crossing the traffic below. right now, the architects (8) {#2} a discussion with engineers about adding several small seating areas along the walkway. the two towers are among the tallest (9) {#3} in the district. planners (10) {#4} the walkway will also reduce crowding at the street crossings below. large windows will make the inside look (11) {#5} and open. (12) {#6}, the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. A WALKWAY ABOVE THE STREET Two office towers in Westgate will soon be connected by a covered walkway above a busy road. The walkway seems (7) [Blank 7] because workers will be able to move between the buildings without crossing the traffic below. Right now, the architects (8) [Blank 8] a discussion with engineers about adding several small seating areas along the walkway. The two towers are among the tallest (9) [Blank 9] in the district. Planners (10) [Blank 10] the walkway will also reduce crowding at the street crossings below. Large windows will make the inside look (11) [Blank 11] and open. (12) [Blank 12] , the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.convenientB.convenientlyC.conveniencesD.convenienceÔ (8):A.haveB.are havingC.hadD.havingÔ (9):A.traffic jamsB.roof gardensC.city dwellersD.skyscrapersÔ (10):A.believeB.believingC.believedD.are believingÔ (11):A.brightnessB.brightenC.brightD.brightlyÔ (12):A.OtherwiseB.OverallC.HoweverD.For instance",
+      "questionId": "question-1955477-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. a walkway above the street two office towers in westgate will soon be connected by a covered walkway above a busy road. the walkway seems (7) [blank 7] because workers will be able to move between the buildings without crossing the traffic below. right now, the architects (8) [blank 8] a discussion with engineers about adding several small seating areas along the walkway. the two towers are among the tallest (9) [blank 9] in the district. planners (10) [blank 10] the walkway will also reduce crowding at the street crossings below. large windows will make the inside look (11) [blank 11] and open. (12) [blank 12] , the walkway is designed to improve connections between buildings without requiring major changes to the whole road system.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.convenientb.convenientlyc.conveniencesd.convenienceô (8):a.haveb.are havingc.hadd.havingô (9):a.traffic jamsb.roof gardensc.city dwellersd.skyscrapersô (10):a.believeb.believingc.believedd.are believingô (11):a.brightnessb.brightenc.brightd.brightlyô (12):a.otherwiseb.overallc.howeverd.for instance",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "A. convenient"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "B. are having"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "D. skyscrapers"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "A. believe"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "C. bright"
         },
         {
           "index": 5,
