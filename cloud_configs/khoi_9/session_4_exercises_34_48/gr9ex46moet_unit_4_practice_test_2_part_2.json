@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR9EX46MOET UNIT 4 PRACTICE TEST 2 PART 2",
+    "quiz_key": "gr9ex46moet_unit_4_practice_test_2_part_2",
+    "cmid": "745352",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_4_exercises_34_48/gr9ex46moet_unit_4_practice_test_2_part_2.json",
+    "score": "18.00/18.00",
+    "score_pct": 100.0,
+    "question_count": 36,
+    "updated_at": "2026-11-11 20:09:46"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23what is the main idea of the passage?a. letters and public announcements met different communication needs in an isolated village.b. communication was slower in the past, but some messages gained lasting personal value.c. modern communication allows family news to travel quickly during difficult weather conditions.d. a remote village depended on several methods before telephone services became widely available.write a, b, c, or d – question 24the word “obtain” in paragraph 2 is closest in meaning to ______.a. prepareb. protectc. replaced. getwrite a, b, c, or d – question 25why did a complete exchange of letters sometimes take weeks?a. both sending the first letter and returning a reply required a lengthy process.b. families waited several days for announcements about the village postal schedule.c. the village head examined each private letter before allowing it to leave.d. writers often prepared several versions before choosing one to send.write a, b, c, or d – question 26the word “it” in paragraph 3 refers to ______.a. the central locationb. urgent informationc. the loudspeakerd. the village headwrite a, b, c, or d – question 27which statement best describes mr khoa’s opinion?a. old letters were more dependable than every form of communication used today.b. modern communication is practical, while old letters could hold special emotional value.c. public loudspeakers remain more useful than phones during a family emergency.d. communication was more convenient when people waited several days for replies.write a, b, c, or d – question 28which of the following is not true according to the passage?a. the village’s distance from town made written communication less convenient.b. the central loudspeaker shared information intended for the whole community.c. mr khoa’s mother stored family letters and sometimes read them again.d. mr khoa considers past communication generally better than present methods.write a, b, c, or d – question 29what is the main purpose of paragraph 4?a. to contrast modern phones’ practical value with the personal importance of lettersb. to explain why mr khoa’s family stopped using letters in emergenciesc. to describe the loudspeaker’s effect on communication between relativesd. to show why families frequently lost the letters they had receivedwrite a, b, c, or d – question 30what can be inferred about mr khoa’s grandchildren?a. they intend to replace phone messages entirely with handwritten family letters.b. they believe all electronic messages should be printed and stored permanently.c. learning about old letters changed how they treat meaningful modern messages.d. they plan to give the letters to the village post office for display.write a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23What is the main idea of the passage?A. Letters and public announcements met different communication needs in an isolated village.B. Communication was slower in the past, but some messages gained lasting personal value.C. Modern communication allows family news to travel quickly during difficult weather conditions.D. A remote village depended on several methods before telephone services became widely available.Write A, B, C, or D – {#1}Question 24The word “obtain” in paragraph 2 is closest in meaning to ______.A. prepareB. protectC. replaceD. getWrite A, B, C, or D – {#2}Question 25Why did a complete exchange of letters sometimes take weeks?A. Both sending the first letter and returning a reply required a lengthy process.B. Families waited several days for announcements about the village postal schedule.C. The village head examined each private letter before allowing it to leave.D. Writers often prepared several versions before choosing one to send.Write A, B, C, or D – {#3}Question 26The word “it” in paragraph 3 refers to ______.A. the central locationB. urgent informationC. the loudspeakerD. the village headWrite A, B, C, or D – {#4}Question 27Which statement best describes Mr Khoa’s opinion?A. Old letters were more dependable than every form of communication used today.B. Modern communication is practical, while old letters could hold special emotional value.C. Public loudspeakers remain more useful than phones during a family emergency.D. Communication was more convenient when people waited several days for replies.Write A, B, C, or D – {#5}Question 28Which of the following is NOT TRUE according to the passage?A. The village’s distance from town made written communication less convenient.B. The central loudspeaker shared information intended for the whole community.C. Mr Khoa’s mother stored family letters and sometimes read them again.D. Mr Khoa considers past communication generally better than present methods.Write A, B, C, or D – {#6}Question 29What is the main purpose of paragraph 4?A. To contrast modern phones’ practical value with the personal importance of lettersB. To explain why Mr Khoa’s family stopped using letters in emergenciesC. To describe the loudspeaker’s effect on communication between relativesD. To show why families frequently lost the letters they had receivedWrite A, B, C, or D – {#7}Question 30What can be inferred about Mr Khoa’s grandchildren?A. They intend to replace phone messages entirely with handwritten family letters.B. They believe all electronic messages should be printed and stored permanently.C. Learning about old letters changed how they treat meaningful modern messages.D. They plan to give the letters to the village post office for display.Write A, B, C, or D – {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23What is the main idea of the passage?A. Letters and public announcements met different communication needs in an isolated village.B. Communication was slower in the past, but some messages gained lasting personal value.C. Modern communication allows family news to travel quickly during difficult weather conditions.D. A remote village depended on several methods before telephone services became widely available.Write A, B, C, or D – {#1}Question 24The word “obtain” in paragraph 2 is closest in meaning to ______.A. prepareB. protectC. replaceD. getWrite A, B, C, or D – {#2}Question 25Why did a complete exchange of letters sometimes take weeks?A. Both sending the first letter and returning a reply required a lengthy process.B. Families waited several days for announcements about the village postal schedule.C. The village head examined each private letter before allowing it to leave.D. Writers often prepared several versions before choosing one to send.Write A, B, C, or D – {#3}Question 26The word “it” in paragraph 3 refers to ______.A. the central locationB. urgent informationC. the loudspeakerD. the village headWrite A, B, C, or D – {#4}Question 27Which statement best describes Mr Khoa’s opinion?A. Old letters were more dependable than every form of communication used today.B. Modern communication is practical, while old letters could hold special emotional value.C. Public loudspeakers remain more useful than phones during a family emergency.D. Communication was more convenient when people waited several days for replies.Write A, B, C, or D – {#5}Question 28Which of the following is NOT TRUE according to the passage?A. The village’s distance from town made written communication less convenient.B. The central loudspeaker shared information intended for the whole community.C. Mr Khoa’s mother stored family letters and sometimes read them again.D. Mr Khoa considers past communication generally better than present methods.Write A, B, C, or D – {#6}Question 29What is the main purpose of paragraph 4?A. To contrast modern phones’ practical value with the personal importance of lettersB. To explain why Mr Khoa’s family stopped using letters in emergenciesC. To describe the loudspeaker’s effect on communication between relativesD. To show why families frequently lost the letters they had receivedWrite A, B, C, or D – {#7}Question 30What can be inferred about Mr Khoa’s grandchildren?A. They intend to replace phone messages entirely with handwritten family letters.B. They believe all electronic messages should be printed and stored permanently.C. Learning about old letters changed how they treat meaningful modern messages.D. They plan to give the letters to the village post office for display.Write A, B, C, or D – {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31the phrase “marked the opening” in paragraph 2 is closest in meaning to ______.a. delayed the beginningb. signalled the startc. changed the locationd. recorded the lengthwrite a, b, c, or d – question 32what did rapid ringing tell families to do?a. attend an important meeting at the shelter beside the riverb. move their animals and valuable objects to a safer placec. bring goods to the market before the usual opening timed. check that the bell could move freely inside its shelterwrite a, b, c, or d – question 33how did children learn the bell’s different signals?a. they accompanied responsible adults while the bell and shelter were checked.b. they studied signal descriptions kept in the local town museum.c. they listened to radio programmes explaining the bell’s historical uses.d. they practised the signals with teachers during regular school lessons.write a, b, c, or d – question 34why did the bell’s practical functions gradually disappear?a. several years of high water had seriously damaged the bell.b. most residents had moved away from the riverside neighbourhood.c. more convenient methods of communication had become available.d. local families were no longer willing to care for the shelter.write a, b, c, or d – question 35what can be inferred from paragraph 5?a. the bell remains the main way to warn riverside families of danger.b. students can practise ringing the bell whenever they visit the river.c. the river festival has become more important than the lunar new year.d. historical demonstrations are kept separate from official modern warnings.write a, b, c, or d – question 36the word “others” in paragraph 6 refers to ______.a. earlier generationsb. other peoplec. local studentsd. museum workerswrite a, b, c, or d – question 37what is the main purpose of paragraph 4?a. to explain how newer methods gradually replaced the bell’s everyday functionsb. to describe the town’s plan to move the bell into its museumc. to compare the bell patterns used for markets and river warningsd. to show how one family failed to maintain the original shelterwrite a, b, c, or d – question 38which of the following is not supported by the passage?a. different ringing patterns communicated several kinds of information.b. responsibility for the bell moved between families in the community.c. the town has already transferred the bell to its local museum.d. the bell is regularly inspected in its original riverside location.write a, b, c, or d – question 39which of the following best summarises the passage?a. a riverside bell continues to provide the town’s quickest emergency warnings.b. a practical signalling bell became a lasting connection with local history.c. a museum restored a bell and taught families its original warning patterns.d. a river festival was established to prevent an old bell from being removed.write a, b, c, or d – question 40which of the following is the best title for the passage?a. modern warning systems in vinh locb. the family responsible for the town bellc. from daily signals to cultural memoryd. why the riverside market changed locationwrite a, b, c, or d –",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31The phrase “marked the opening” in paragraph 2 is closest in meaning to ______.A. delayed the beginningB. signalled the startC. changed the locationD. recorded the lengthWrite A, B, C, or D – {#1}Question 32What did rapid ringing tell families to do?A. Attend an important meeting at the shelter beside the riverB. Move their animals and valuable objects to a safer placeC. Bring goods to the market before the usual opening timeD. Check that the bell could move freely inside its shelterWrite A, B, C, or D – {#2}Question 33How did children learn the bell’s different signals?A. They accompanied responsible adults while the bell and shelter were checked.B. They studied signal descriptions kept in the local town museum.C. They listened to radio programmes explaining the bell’s historical uses.D. They practised the signals with teachers during regular school lessons.Write A, B, C, or D – {#3}Question 34Why did the bell’s practical functions gradually disappear?A. Several years of high water had seriously damaged the bell.B. Most residents had moved away from the riverside neighbourhood.C. More convenient methods of communication had become available.D. Local families were no longer willing to care for the shelter.Write A, B, C, or D – {#4}Question 35What can be inferred from paragraph 5?A. The bell remains the main way to warn riverside families of danger.B. Students can practise ringing the bell whenever they visit the river.C. The river festival has become more important than the lunar New Year.D. Historical demonstrations are kept separate from official modern warnings.Write A, B, C, or D – {#5}Question 36The word “Others” in paragraph 6 refers to ______.A. earlier generationsB. other peopleC. local studentsD. museum workersWrite A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 4?A. To explain how newer methods gradually replaced the bell’s everyday functionsB. To describe the town’s plan to move the bell into its museumC. To compare the bell patterns used for markets and river warningsD. To show how one family failed to maintain the original shelterWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Different ringing patterns communicated several kinds of information.B. Responsibility for the bell moved between families in the community.C. The town has already transferred the bell to its local museum.D. The bell is regularly inspected in its original riverside location.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. A riverside bell continues to provide the town’s quickest emergency warnings.B. A practical signalling bell became a lasting connection with local history.C. A museum restored a bell and taught families its original warning patterns.D. A river festival was established to prevent an old bell from being removed.Write A, B, C, or D – {#9}Question 40Which of the following is the best title for the passage?A. Modern Warning Systems in Vinh LocB. The Family Responsible for the Town BellC. From Daily Signals to Cultural MemoryD. Why the Riverside Market Changed LocationWrite A, B, C, or D – {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31The phrase “marked the opening” in paragraph 2 is closest in meaning to ______.A. delayed the beginningB. signalled the startC. changed the locationD. recorded the lengthWrite A, B, C, or D – {#1}Question 32What did rapid ringing tell families to do?A. Attend an important meeting at the shelter beside the riverB. Move their animals and valuable objects to a safer placeC. Bring goods to the market before the usual opening timeD. Check that the bell could move freely inside its shelterWrite A, B, C, or D – {#2}Question 33How did children learn the bell’s different signals?A. They accompanied responsible adults while the bell and shelter were checked.B. They studied signal descriptions kept in the local town museum.C. They listened to radio programmes explaining the bell’s historical uses.D. They practised the signals with teachers during regular school lessons.Write A, B, C, or D – {#3}Question 34Why did the bell’s practical functions gradually disappear?A. Several years of high water had seriously damaged the bell.B. Most residents had moved away from the riverside neighbourhood.C. More convenient methods of communication had become available.D. Local families were no longer willing to care for the shelter.Write A, B, C, or D – {#4}Question 35What can be inferred from paragraph 5?A. The bell remains the main way to warn riverside families of danger.B. Students can practise ringing the bell whenever they visit the river.C. The river festival has become more important than the lunar New Year.D. Historical demonstrations are kept separate from official modern warnings.Write A, B, C, or D – {#5}Question 36The word “Others” in paragraph 6 refers to ______.A. earlier generationsB. other peopleC. local studentsD. museum workersWrite A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 4?A. To explain how newer methods gradually replaced the bell’s everyday functionsB. To describe the town’s plan to move the bell into its museumC. To compare the bell patterns used for markets and river warningsD. To show how one family failed to maintain the original shelterWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Different ringing patterns communicated several kinds of information.B. Responsibility for the bell moved between families in the community.C. The town has already transferred the bell to its local museum.D. The bell is regularly inspected in its original riverside location.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. A riverside bell continues to provide the town’s quickest emergency warnings.B. A practical signalling bell became a lasting connection with local history.C. A museum restored a bell and taught families its original warning patterns.D. A river festival was established to prevent an old bell from being removed.Write A, B, C, or D – {#9}Question 40Which of the following is the best title for the passage?A. Modern Warning Systems in Vinh LocB. The Family Responsible for the Town BellC. From Daily Signals to Cultural MemoryD. Why the Riverside Market Changed LocationWrite A, B, C, or D – {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B",
+      "id": "question-1961191-1",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "B"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "questionNumber": 1,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23what is the main idea of the passage?a. letters and public announcements met different communication needs in an isolated village.b. communication was slower in the past, but some messages gained lasting personal value.c. modern communication allows family news to travel quickly during difficult weather conditions.d. a remote village depended on several methods before telephone services became widely available.write a, b, c, or d – {#1}question 24the word \"obtain\" in paragraph 2 is closest in meaning to ______.a. prepareb. protectc. replaced. getwrite a, b, c, or d – {#2}question 25why did a complete exchange of letters sometimes take weeks?a. both sending the first letter and returning a reply required a lengthy process.b. families waited several days for announcements about the village postal schedule.c. the village head examined each private letter before allowing it to leave.d. writers often prepared several versions before choosing one to send.write a, b, c, or d – {#3}question 26the word \"it\" in paragraph 3 refers to ______.a. the central locationb. urgent informationc. the loudspeakerd. the village headwrite a, b, c, or d – {#4}question 27which statement best describes mr khoa's opinion?a. old letters were more dependable than every form of communication used today.b. modern communication is practical, while old letters could hold special emotional value.c. public loudspeakers remain more useful than phones during a family emergency.d. communication was more convenient when people waited several days for replies.write a, b, c, or d – {#5}question 28which of the following is not true according to the passage?a. the village's distance from town made written communication less convenient.b. the central loudspeaker shared information intended for the whole community.c. mr khoa's mother stored family letters and sometimes read them again.d. mr khoa considers past communication generally better than present methods.write a, b, c, or d – {#6}question 29what is the main purpose of paragraph 4?a. to contrast modern phones' practical value with the personal importance of lettersb. to explain why mr khoa's family stopped using letters in emergenciesc. to describe the loudspeaker's effect on communication between relativesd. to show why families frequently lost the letters they had receivedwrite a, b, c, or d – {#7}question 30what can be inferred about mr khoa's grandchildren?a. they intend to replace phone messages entirely with handwritten family letters.b. they believe all electronic messages should be printed and stored permanently.c. learning about old letters changed how they treat meaningful modern messages.d. they plan to give the letters to the village post office for display.write a, b, c, or d – {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 23What is the main idea of the passage?A. Letters and public announcements met different communication needs in an isolated village.B. Communication was slower in the past, but some messages gained lasting personal value.C. Modern communication allows family news to travel quickly during difficult weather conditions.D. A remote village depended on several methods before telephone services became widely available.Write A, B, C, or D – {#1}Question 24The word \"obtain\" in paragraph 2 is closest in meaning to ______.A. prepareB. protectC. replaceD. getWrite A, B, C, or D – {#2}Question 25Why did a complete exchange of letters sometimes take weeks?A. Both sending the first letter and returning a reply required a lengthy process.B. Families waited several days for announcements about the village postal schedule.C. The village head examined each private letter before allowing it to leave.D. Writers often prepared several versions before choosing one to send.Write A, B, C, or D – {#3}Question 26The word \"it\" in paragraph 3 refers to ______.A. the central locationB. urgent informationC. the loudspeakerD. the village headWrite A, B, C, or D – {#4}Question 27Which statement best describes Mr Khoa's opinion?A. Old letters were more dependable than every form of communication used today.B. Modern communication is practical, while old letters could hold special emotional value.C. Public loudspeakers remain more useful than phones during a family emergency.D. Communication was more convenient when people waited several days for replies.Write A, B, C, or D – {#5}Question 28Which of the following is NOT TRUE according to the passage?A. The village's distance from town made written communication less convenient.B. The central loudspeaker shared information intended for the whole community.C. Mr Khoa's mother stored family letters and sometimes read them again.D. Mr Khoa considers past communication generally better than present methods.Write A, B, C, or D – {#6}Question 29What is the main purpose of paragraph 4?A. To contrast modern phones' practical value with the personal importance of lettersB. To explain why Mr Khoa's family stopped using letters in emergenciesC. To describe the loudspeaker's effect on communication between relativesD. To show why families frequently lost the letters they had receivedWrite A, B, C, or D – {#7}Question 30What can be inferred about Mr Khoa's grandchildren?A. They intend to replace phone messages entirely with handwritten family letters.B. They believe all electronic messages should be printed and stored permanently.C. Learning about old letters changed how they treat meaningful modern messages.D. They plan to give the letters to the village post office for display.Write A, B, C, or D – {#8}",
+      "questionId": "question-1961191-1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 23what is the main idea of the passage?a. letters and public announcements met different communication needs in an isolated village.b. communication was slower in the past, but some messages gained lasting personal value.c. modern communication allows family news to travel quickly during difficult weather conditions.d. a remote village depended on several methods before telephone services became widely available.write a, b, c, or d – {#1}question 24the word \"obtain\" in paragraph 2 is closest in meaning to ______.a. prepareb. protectc. replaced. getwrite a, b, c, or d – {#2}question 25why did a complete exchange of letters sometimes take weeks?a. both sending the first letter and returning a reply required a lengthy process.b. families waited several days for announcements about the village postal schedule.c. the village head examined each private letter before allowing it to leave.d. writers often prepared several versions before choosing one to send.write a, b, c, or d – {#3}question 26the word \"it\" in paragraph 3 refers to ______.a. the central locationb. urgent informationc. the loudspeakerd. the village headwrite a, b, c, or d – {#4}question 27which statement best describes mr khoa's opinion?a. old letters were more dependable than every form of communication used today.b. modern communication is practical, while old letters could hold special emotional value.c. public loudspeakers remain more useful than phones during a family emergency.d. communication was more convenient when people waited several days for replies.write a, b, c, or d – {#5}question 28which of the following is not true according to the passage?a. the village's distance from town made written communication less convenient.b. the central loudspeaker shared information intended for the whole community.c. mr khoa's mother stored family letters and sometimes read them again.d. mr khoa considers past communication generally better than present methods.write a, b, c, or d – {#6}question 29what is the main purpose of paragraph 4?a. to contrast modern phones' practical value with the personal importance of lettersb. to explain why mr khoa's family stopped using letters in emergenciesc. to describe the loudspeaker's effect on communication between relativesd. to show why families frequently lost the letters they had receivedwrite a, b, c, or d – {#7}question 30what can be inferred about mr khoa's grandchildren?a. they intend to replace phone messages entirely with handwritten family letters.b. they believe all electronic messages should be printed and stored permanently.c. learning about old letters changed how they treat meaningful modern messages.d. they plan to give the letters to the village post office for display.write a, b, c, or d – {#8}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1961191-2",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 6,
+          "questionNumber": 2,
+          "value": "A"
+        },
+        {
+          "index": 7,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 8,
+          "questionNumber": 2,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "questionNumber": 2,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31the phrase \"marked the opening\" in paragraph 2 is closest in meaning to ______.a. delayed the beginningb. signalled the startc. changed the locationd. recorded the lengthwrite a, b, c, or d – {#1}question 32what did rapid ringing tell families to do?a. attend an important meeting at the shelter beside the riverb. move their animals and valuable objects to a safer placec. bring goods to the market before the usual opening timed. check that the bell could move freely inside its shelterwrite a, b, c, or d – {#2}question 33how did children learn the bell's different signals?a. they accompanied responsible adults while the bell and shelter were checked.b. they studied signal descriptions kept in the local town museum.c. they listened to radio programmes explaining the bell's historical uses.d. they practised the signals with teachers during regular school lessons.write a, b, c, or d – {#3}question 34why did the bell's practical functions gradually disappear?a. several years of high water had seriously damaged the bell.b. most residents had moved away from the riverside neighbourhood.c. more convenient methods of communication had become available.d. local families were no longer willing to care for the shelter.write a, b, c, or d – {#4}question 35what can be inferred from paragraph 5?a. the bell remains the main way to warn riverside families of danger.b. students can practise ringing the bell whenever they visit the river.c. the river festival has become more important than the lunar new year.d. historical demonstrations are kept separate from official modern warnings.write a, b, c, or d – {#5}question 36the word \"others\" in paragraph 6 refers to ______.a. earlier generationsb. other peoplec. local studentsd. museum workerswrite a, b, c, or d – {#6}question 37what is the main purpose of paragraph 4?a. to explain how newer methods gradually replaced the bell's everyday functionsb. to describe the town's plan to move the bell into its museumc. to compare the bell patterns used for markets and river warningsd. to show how one family failed to maintain the original shelterwrite a, b, c, or d – {#7}question 38which of the following is not supported by the passage?a. different ringing patterns communicated several kinds of information.b. responsibility for the bell moved between families in the community.c. the town has already transferred the bell to its local museum.d. the bell is regularly inspected in its original riverside location.write a, b, c, or d – {#8}question 39which of the following best summarises the passage?a. a riverside bell continues to provide the town's quickest emergency warnings.b. a practical signalling bell became a lasting connection with local history.c. a museum restored a bell and taught families its original warning patterns.d. a river festival was established to prevent an old bell from being removed.write a, b, c, or d – {#9}question 40which of the following is the best title for the passage?a. modern warning systems in vinh locb. the family responsible for the town bellc. from daily signals to cultural memoryd. why the riverside market changed locationwrite a, b, c, or d – {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question.Question 31The phrase \"marked the opening\" in paragraph 2 is closest in meaning to ______.A. delayed the beginningB. signalled the startC. changed the locationD. recorded the lengthWrite A, B, C, or D – {#1}Question 32What did rapid ringing tell families to do?A. Attend an important meeting at the shelter beside the riverB. Move their animals and valuable objects to a safer placeC. Bring goods to the market before the usual opening timeD. Check that the bell could move freely inside its shelterWrite A, B, C, or D – {#2}Question 33How did children learn the bell's different signals?A. They accompanied responsible adults while the bell and shelter were checked.B. They studied signal descriptions kept in the local town museum.C. They listened to radio programmes explaining the bell's historical uses.D. They practised the signals with teachers during regular school lessons.Write A, B, C, or D – {#3}Question 34Why did the bell's practical functions gradually disappear?A. Several years of high water had seriously damaged the bell.B. Most residents had moved away from the riverside neighbourhood.C. More convenient methods of communication had become available.D. Local families were no longer willing to care for the shelter.Write A, B, C, or D – {#4}Question 35What can be inferred from paragraph 5?A. The bell remains the main way to warn riverside families of danger.B. Students can practise ringing the bell whenever they visit the river.C. The river festival has become more important than the lunar New Year.D. Historical demonstrations are kept separate from official modern warnings.Write A, B, C, or D – {#5}Question 36The word \"Others\" in paragraph 6 refers to ______.A. earlier generationsB. other peopleC. local studentsD. museum workersWrite A, B, C, or D – {#6}Question 37What is the main purpose of paragraph 4?A. To explain how newer methods gradually replaced the bell's everyday functionsB. To describe the town's plan to move the bell into its museumC. To compare the bell patterns used for markets and river warningsD. To show how one family failed to maintain the original shelterWrite A, B, C, or D – {#7}Question 38Which of the following is NOT supported by the passage?A. Different ringing patterns communicated several kinds of information.B. Responsibility for the bell moved between families in the community.C. The town has already transferred the bell to its local museum.D. The bell is regularly inspected in its original riverside location.Write A, B, C, or D – {#8}Question 39Which of the following best summarises the passage?A. A riverside bell continues to provide the town's quickest emergency warnings.B. A practical signalling bell became a lasting connection with local history.C. A museum restored a bell and taught families its original warning patterns.D. A river festival was established to prevent an old bell from being removed.Write A, B, C, or D – {#9}Question 40Which of the following is the best title for the passage?A. Modern Warning Systems in Vinh LocB. The Family Responsible for the Town BellC. From Daily Signals to Cultural MemoryD. Why the Riverside Market Changed LocationWrite A, B, C, or D – {#10}",
+      "questionId": "question-1961191-2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question.question 31the phrase \"marked the opening\" in paragraph 2 is closest in meaning to ______.a. delayed the beginningb. signalled the startc. changed the locationd. recorded the lengthwrite a, b, c, or d – {#1}question 32what did rapid ringing tell families to do?a. attend an important meeting at the shelter beside the riverb. move their animals and valuable objects to a safer placec. bring goods to the market before the usual opening timed. check that the bell could move freely inside its shelterwrite a, b, c, or d – {#2}question 33how did children learn the bell's different signals?a. they accompanied responsible adults while the bell and shelter were checked.b. they studied signal descriptions kept in the local town museum.c. they listened to radio programmes explaining the bell's historical uses.d. they practised the signals with teachers during regular school lessons.write a, b, c, or d – {#3}question 34why did the bell's practical functions gradually disappear?a. several years of high water had seriously damaged the bell.b. most residents had moved away from the riverside neighbourhood.c. more convenient methods of communication had become available.d. local families were no longer willing to care for the shelter.write a, b, c, or d – {#4}question 35what can be inferred from paragraph 5?a. the bell remains the main way to warn riverside families of danger.b. students can practise ringing the bell whenever they visit the river.c. the river festival has become more important than the lunar new year.d. historical demonstrations are kept separate from official modern warnings.write a, b, c, or d – {#5}question 36the word \"others\" in paragraph 6 refers to ______.a. earlier generationsb. other peoplec. local studentsd. museum workerswrite a, b, c, or d – {#6}question 37what is the main purpose of paragraph 4?a. to explain how newer methods gradually replaced the bell's everyday functionsb. to describe the town's plan to move the bell into its museumc. to compare the bell patterns used for markets and river warningsd. to show how one family failed to maintain the original shelterwrite a, b, c, or d – {#7}question 38which of the following is not supported by the passage?a. different ringing patterns communicated several kinds of information.b. responsibility for the bell moved between families in the community.c. the town has already transferred the bell to its local museum.d. the bell is regularly inspected in its original riverside location.write a, b, c, or d – {#8}question 39which of the following best summarises the passage?a. a riverside bell continues to provide the town's quickest emergency warnings.b. a practical signalling bell became a lasting connection with local history.c. a museum restored a bell and taught families its original warning patterns.d. a river festival was established to prevent an old bell from being removed.write a, b, c, or d – {#9}question 40which of the following is the best title for the passage?a. modern warning systems in vinh locb. the family responsible for the town bellc. from daily signals to cultural memoryd. why the riverside market changed locationwrite a, b, c, or d – {#10}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
