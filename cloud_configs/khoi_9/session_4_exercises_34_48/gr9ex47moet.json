@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR9EX47MOET",
+    "quiz_key": "gr9ex47moet",
+    "cmid": "746616",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_4_exercises_34_48/gr9ex47moet.json",
+    "score": "25.00/25.00",
+    "score_pct": 100.0,
+    "question_count": 25,
+    "updated_at": "2026-11-11 20:10:57"
+  },
+  "answers": [
+    {
+      "id": "question-1961204-6",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.our first class performance was memorable. even years later, we could clearly recall the moment the music stopped and everyone carried on singing.what does memorable mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. Our first class performance was memorable. Even years later, we could clearly recall the moment the music stopped and everyone carried on singing. What does memorable mean here?",
+      "options": [
+        "Likely to be remembered"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-6",
+      "questionNumber": 8,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.Our first class performance was memorable. Even years later, we could clearly recall the moment the music stopped and everyone carried on singing.What does memorable mean here?",
+      "answer": "Likely to be remembered",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.our first class performance was memorable. even years later, we could clearly recall the moment the music stopped and everyone carried on singing.what does memorable mean here?",
+      "letter": "C",
+      "rightAnswer": "Likely to be remembered"
+    },
+    {
+      "id": "question-1961204-7",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.when the rain soaked the matches and our phone batteries died, we felt helpless. we could neither light a fire nor contact the instructor.what does helpless mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. When the rain soaked the matches and our phone batteries died, we felt helpless. We could neither light a fire nor contact the instructor. What does helpless mean here?",
+      "options": [
+        "Unable to improve the situation"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-7",
+      "questionNumber": 14,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.When the rain soaked the matches and our phone batteries died, we felt helpless. We could neither light a fire nor contact the instructor.What does helpless mean here?",
+      "answer": "Unable to improve the situation",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.when the rain soaked the matches and our phone batteries died, we felt helpless. we could neither light a fire nor contact the instructor.what does helpless mean here?",
+      "letter": "C",
+      "rightAnswer": "Unable to improve the situation"
+    },
+    {
+      "id": "question-1961204-5",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the jeep ride was thrilling. as we climbed the steep track, my heart beat faster and i could hardly stop smiling.what does thrilling mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. The jeep ride was thrilling. As we climbed the steep track, my heart beat faster and I could hardly stop smiling. What does thrilling mean here?",
+      "options": [
+        "Very exciting"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-5",
+      "questionNumber": 9,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.The jeep ride was thrilling. As we climbed the steep track, my heart beat faster and I could hardly stop smiling.What does thrilling mean here?",
+      "answer": "Very exciting",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the jeep ride was thrilling. as we climbed the steep track, my heart beat faster and i could hardly stop smiling.what does thrilling mean here?",
+      "letter": "B",
+      "rightAnswer": "Very exciting"
+    },
+    {
+      "id": "question-1961204-12",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the team-building activities helped us develop soft skills. we practised listening to one another, sharing responsibilities, and solving disagreements.what does soft skills mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. The team-building activities helped us develop soft skills. We practised listening to one another, sharing responsibilities, and solving disagreements. What does soft skills mean here?",
+      "options": [
+        "Skills for communicating and working well with others"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-12",
+      "questionNumber": 11,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.The team-building activities helped us develop soft skills. We practised listening to one another, sharing responsibilities, and solving disagreements.What does soft skills mean here?",
+      "answer": "Skills for communicating and working well with others",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the team-building activities helped us develop soft skills. we practised listening to one another, sharing responsibilities, and solving disagreements.what does soft skills mean here?",
+      "letter": "B",
+      "rightAnswer": "Skills for communicating and working well with others"
+    },
+    {
+      "id": "question-1961204-8",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.nam was learning by rote: he repeated the same sentences until he could say them, but he could not explain their meaning.what does learning by rote mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. Nam was learning by rote: he repeated the same sentences until he could say them, but he could not explain their meaning. What does learning by rote mean here?",
+      "options": [
+        "Learning by repeating information without necessarily understanding it"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-8",
+      "questionNumber": 6,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.Nam was learning by rote: he repeated the same sentences until he could say them, but he could not explain their meaning.What does learning by rote mean here?",
+      "answer": "Learning by repeating information without necessarily understanding it",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.nam was learning by rote: he repeated the same sentences until he could say them, but he could not explain their meaning.what does learning by rote mean here?",
+      "letter": "B",
+      "rightAnswer": "Learning by repeating information without necessarily understanding it"
+    },
+    {
+      "id": "question-1961204-14",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the poster instructions looked complicated, so our teacher offered to walk us through them. she explained each stage and showed us what to do before we started.what does walk us through mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. The poster instructions looked complicated, so our teacher offered to walk us through them. She explained each stage and showed us what to do before we started. What does walk us through mean here?",
+      "options": [
+        "Explain the process to us step by step"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-14",
+      "questionNumber": 7,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.The poster instructions looked complicated, so our teacher offered to walk us through them. She explained each stage and showed us what to do before we started.What does walk us through mean here?",
+      "answer": "Explain the process to us step by step",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the poster instructions looked complicated, so our teacher offered to walk us through them. she explained each stage and showed us what to do before we started.what does walk us through mean here?",
+      "letter": "D",
+      "rightAnswer": "Explain the process to us step by step"
+    },
+    {
+      "id": "question-1961204-3",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.as our jeep climbed the hill, we stopped to admire the scenery. green valleys, distant mountains, and a clear blue lake stretched out below us.what does scenery mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. As our jeep climbed the hill, we stopped to admire the scenery. Green valleys, distant mountains, and a clear blue lake stretched out below us. What does scenery mean here?",
+      "options": [
+        "The natural features of a place seen as a view"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-3",
+      "questionNumber": 15,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.As our jeep climbed the hill, we stopped to admire the scenery. Green valleys, distant mountains, and a clear blue lake stretched out below us.What does scenery mean here?",
+      "answer": "The natural features of a place seen as a view",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.as our jeep climbed the hill, we stopped to admire the scenery. green valleys, distant mountains, and a clear blue lake stretched out below us.what does scenery mean here?",
+      "letter": "C",
+      "rightAnswer": "The natural features of a place seen as a view"
+    },
+    {
+      "id": "question-1961204-10",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.at the summer course, we explored the campus before our first lesson. we found the classrooms, library, dining hall, and sports field.what does campus mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. At the summer course, we explored the campus before our first lesson. We found the classrooms, library, dining hall, and sports field. What does campus mean here?",
+      "options": [
+        "The buildings and grounds of an educational institution"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-10",
+      "questionNumber": 1,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.At the summer course, we explored the campus before our first lesson. We found the classrooms, library, dining hall, and sports field.What does campus mean here?",
+      "answer": "The buildings and grounds of an educational institution",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.at the summer course, we explored the campus before our first lesson. we found the classrooms, library, dining hall, and sports field.what does campus mean here?",
+      "letter": "C",
+      "rightAnswer": "The buildings and grounds of an educational institution"
+    },
+    {
+      "id": "question-1961204-13",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.at first, hoa was afraid to speak in front of the class. after several practice sessions, her confidence grew, and she volunteered to present first.what does confidence mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. At first, Hoa was afraid to speak in front of the class. After several practice sessions, her confidence grew, and she volunteered to present first. What does confidence mean here?",
+      "options": [
+        "Belief in her own ability"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-13",
+      "questionNumber": 3,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.At first, Hoa was afraid to speak in front of the class. After several practice sessions, her confidence grew, and she volunteered to present first.What does confidence mean here?",
+      "answer": "Belief in her own ability",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.at first, hoa was afraid to speak in front of the class. after several practice sessions, her confidence grew, and she volunteered to present first.what does confidence mean here?",
+      "letter": "A",
+      "rightAnswer": "Belief in her own ability"
+    },
+    {
+      "id": "question-1961204-15",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.before choosing an activity for the afternoon, we decided to check out the visitor centre. we went inside to see its displays and find out what activities were available.what does check out mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. Before choosing an activity for the afternoon, we decided to check out the visitor centre. We went inside to see its displays and find out what activities were available. What does check out mean here?",
+      "options": [
+        "Visit and examine a place to learn more about it"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-15",
+      "questionNumber": 13,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.Before choosing an activity for the afternoon, we decided to check out the visitor centre. We went inside to see its displays and find out what activities were available.What does check out mean here?",
+      "answer": "Visit and examine a place to learn more about it",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.before choosing an activity for the afternoon, we decided to check out the visitor centre. we went inside to see its displays and find out what activities were available.what does check out mean here?",
+      "letter": "A",
+      "rightAnswer": "Visit and examine a place to learn more about it"
+    },
+    {
+      "id": "question-1961204-1",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.working with other students at the summer camp was a new experience for linh. afterwards, she understood how much a team could achieve together.what does experience mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. Working with other students at the summer camp was a new experience for Linh. Afterwards, she understood how much a team could achieve together. What does experience mean here?",
+      "options": [
+        "An event someone takes part in that affects them"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-1",
+      "questionNumber": 2,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.Working with other students at the summer camp was a new experience for Linh. Afterwards, she understood how much a team could achieve together.What does experience mean here?",
+      "answer": "An event someone takes part in that affects them",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.working with other students at the summer camp was a new experience for linh. afterwards, she understood how much a team could achieve together.what does experience mean here?",
+      "letter": "C",
+      "rightAnswer": "An event someone takes part in that affects them"
+    },
+    {
+      "id": "question-1961204-4",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the students recorded several species of birds near the campsite. they grouped together birds of the same type.what does species mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. The students recorded several species of birds near the campsite. They grouped together birds of the same type. What does species mean here?",
+      "options": [
+        "Particular types of plants or animals"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-4",
+      "questionNumber": 4,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.The students recorded several species of birds near the campsite. They grouped together birds of the same type.What does species mean here?",
+      "answer": "Particular types of plants or animals",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.the students recorded several species of birds near the campsite. they grouped together birds of the same type.what does species mean here?",
+      "letter": "B",
+      "rightAnswer": "Particular types of plants or animals"
+    },
+    {
+      "id": "question-1961204-9",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.during the summer course, our class went on an excursion to a nearby museum. we left after breakfast and returned that afternoon.what does excursion mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. During the summer course, our class went on an excursion to a nearby museum. We left after breakfast and returned that afternoon. What does excursion mean here?",
+      "options": [
+        "A short trip for pleasure or learning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-9",
+      "questionNumber": 5,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.During the summer course, our class went on an excursion to a nearby museum. We left after breakfast and returned that afternoon.What does excursion mean here?",
+      "answer": "A short trip for pleasure or learning",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.during the summer course, our class went on an excursion to a nearby museum. we left after breakfast and returned that afternoon.what does excursion mean here?",
+      "letter": "B",
+      "rightAnswer": "A short trip for pleasure or learning"
+    },
+    {
+      "id": "question-1961204-2",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.during our eco-tour, the guide explained how visitors could enjoy the forest without damaging it. we followed the marked paths and took our rubbish home.what does eco-tour mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. During our eco-tour, the guide explained how visitors could enjoy the forest without damaging it. We followed the marked paths and took our rubbish home. What does eco-tour mean here?",
+      "options": [
+        "A nature trip that aims to protect the environment"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-2",
+      "questionNumber": 12,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.During our eco-tour, the guide explained how visitors could enjoy the forest without damaging it. We followed the marked paths and took our rubbish home.What does eco-tour mean here?",
+      "answer": "A nature trip that aims to protect the environment",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.during our eco-tour, the guide explained how visitors could enjoy the forest without damaging it. we followed the marked paths and took our rubbish home.what does eco-tour mean here?",
+      "letter": "C",
+      "rightAnswer": "A nature trip that aims to protect the environment"
+    },
+    {
+      "id": "question-1961204-11",
+      "questionKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.before we went snorkelling, the instructor showed us how to use the equipment and practise breathing safely.what does instructor mean here?",
+      "questionRaw": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context. Before we went snorkelling, the instructor showed us how to use the equipment and practise breathing safely. What does instructor mean here?",
+      "options": [
+        "A person who teaches a skill or activity"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-11",
+      "questionNumber": 10,
+      "question": "Read each context. Choose A, B, C, or D to show the meaning of the bold word or phrase as it is used in the context.Before we went snorkelling, the instructor showed us how to use the equipment and practise breathing safely.What does instructor mean here?",
+      "answer": "A person who teaches a skill or activity",
+      "dragdrops": [],
+      "legacyQKey": "read each context. choose a, b, c, or d to show the meaning of the bold word or phrase as it is used in the context.before we went snorkelling, the instructor showed us how to use the equipment and practise breathing safely.what does instructor mean here?",
+      "letter": "A",
+      "rightAnswer": "A person who teaches a skill or activity"
+    },
+    {
+      "id": "question-1961204-25",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the view from the hill was amazing. we had expected a small lake, but the huge blue lake surrounded by mountains astonished us.which word is most nearly opposite in meaning to amazing here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The view from the hill was amazing. We had expected a small lake, but the huge blue lake surrounded by mountains astonished us. Which word is most nearly OPPOSITE in meaning to amazing here?",
+      "options": [
+        "Unsurprising"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-25",
+      "questionNumber": 18,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The view from the hill was amazing. We had expected a small lake, but the huge blue lake surrounded by mountains astonished us.Which word is most nearly OPPOSITE in meaning to amazing here?",
+      "answer": "Unsurprising",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the view from the hill was amazing. we had expected a small lake, but the huge blue lake surrounded by mountains astonished us.which word is most nearly opposite in meaning to amazing here?",
+      "letter": "A",
+      "rightAnswer": "Unsurprising"
+    },
+    {
+      "id": "question-1961204-21",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.when the tent collapsed, we felt helpless. none of us knew how to repair it, and we could not find anyone to assist us.which phrase is most nearly opposite in meaning to helpless here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. When the tent collapsed, we felt helpless. None of us knew how to repair it, and we could not find anyone to assist us. Which phrase is most nearly OPPOSITE in meaning to helpless here?",
+      "options": [
+        "Able to deal with the situation"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-21",
+      "questionNumber": 16,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.When the tent collapsed, we felt helpless. None of us knew how to repair it, and we could not find anyone to assist us.Which phrase is most nearly OPPOSITE in meaning to helpless here?",
+      "answer": "Able to deal with the situation",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.when the tent collapsed, we felt helpless. none of us knew how to repair it, and we could not find anyone to assist us.which phrase is most nearly opposite in meaning to helpless here?",
+      "letter": "D",
+      "rightAnswer": "Able to deal with the situation"
+    },
+    {
+      "id": "question-1961204-16",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the team-building afternoon was enjoyable. we liked the games and were disappointed when it was time to leave.which word is most nearly opposite in meaning to enjoyable here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The team-building afternoon was enjoyable. We liked the games and were disappointed when it was time to leave. Which word is most nearly OPPOSITE in meaning to enjoyable here?",
+      "options": [
+        "Unpleasant"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-16",
+      "questionNumber": 17,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The team-building afternoon was enjoyable. We liked the games and were disappointed when it was time to leave.Which word is most nearly OPPOSITE in meaning to enjoyable here?",
+      "answer": "Unpleasant",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the team-building afternoon was enjoyable. we liked the games and were disappointed when it was time to leave.which word is most nearly opposite in meaning to enjoyable here?",
+      "letter": "C",
+      "rightAnswer": "Unpleasant"
+    },
+    {
+      "id": "question-1961204-23",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.after rehearsing her presentation, mai spoke with confidence. she believed she could explain her poster clearly and answer questions.which phrase is most nearly opposite in meaning to confidence here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. After rehearsing her presentation, Mai spoke with confidence. She believed she could explain her poster clearly and answer questions. Which phrase is most nearly OPPOSITE in meaning to confidence here?",
+      "options": [
+        "A lack of belief in her own ability"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-23",
+      "questionNumber": 20,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.After rehearsing her presentation, Mai spoke with confidence. She believed she could explain her poster clearly and answer questions.Which phrase is most nearly OPPOSITE in meaning to confidence here?",
+      "answer": "A lack of belief in her own ability",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.after rehearsing her presentation, mai spoke with confidence. she believed she could explain her poster clearly and answer questions.which phrase is most nearly opposite in meaning to confidence here?",
+      "letter": "C",
+      "rightAnswer": "A lack of belief in her own ability"
+    },
+    {
+      "id": "question-1961204-24",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the course's final performance was memorable. months later, we still talked about its songs, costumes, and unexpected ending.which word is most nearly opposite in meaning to memorable here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The course’s final performance was memorable. Months later, we still talked about its songs, costumes, and unexpected ending. Which word is most nearly OPPOSITE in meaning to memorable here?",
+      "options": [
+        "Forgettable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-24",
+      "questionNumber": 21,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The course's final performance was memorable. Months later, we still talked about its songs, costumes, and unexpected ending.Which word is most nearly OPPOSITE in meaning to memorable here?",
+      "answer": "Forgettable",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the course's final performance was memorable. months later, we still talked about its songs, costumes, and unexpected ending.which word is most nearly opposite in meaning to memorable here?",
+      "letter": "B",
+      "rightAnswer": "Forgettable"
+    },
+    {
+      "id": "question-1961204-17",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the bus journey was unpleasant. the air inside was hot, the seats were uncomfortable, and several passengers felt sick.which word is most nearly opposite in meaning to unpleasant here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The bus journey was unpleasant. The air inside was hot, the seats were uncomfortable, and several passengers felt sick. Which word is most nearly OPPOSITE in meaning to unpleasant here?",
+      "options": [
+        "Pleasant"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-17",
+      "questionNumber": 25,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The bus journey was unpleasant. The air inside was hot, the seats were uncomfortable, and several passengers felt sick.Which word is most nearly OPPOSITE in meaning to unpleasant here?",
+      "answer": "Pleasant",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the bus journey was unpleasant. the air inside was hot, the seats were uncomfortable, and several passengers felt sick.which word is most nearly opposite in meaning to unpleasant here?",
+      "letter": "B",
+      "rightAnswer": "Pleasant"
+    },
+    {
+      "id": "question-1961204-19",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.our first snorkelling trip was exhilarating. seeing the colourful fish made us feel extremely excited and happy.which word is most nearly opposite in meaning to exhilarating here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. Our first snorkelling trip was exhilarating. Seeing the colourful fish made us feel extremely excited and happy. Which word is most nearly OPPOSITE in meaning to exhilarating here?",
+      "options": [
+        "Unexciting"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-19",
+      "questionNumber": 23,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.Our first snorkelling trip was exhilarating. Seeing the colourful fish made us feel extremely excited and happy.Which word is most nearly OPPOSITE in meaning to exhilarating here?",
+      "answer": "Unexciting",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.our first snorkelling trip was exhilarating. seeing the colourful fish made us feel extremely excited and happy.which word is most nearly opposite in meaning to exhilarating here?",
+      "letter": "D",
+      "rightAnswer": "Unexciting"
+    },
+    {
+      "id": "question-1961204-18",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the jeep ride was thrilling. every steep climb made us feel excited, and we eagerly waited for the next one.which word is most nearly opposite in meaning to thrilling here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The jeep ride was thrilling. Every steep climb made us feel excited, and we eagerly waited for the next one. Which word is most nearly OPPOSITE in meaning to thrilling here?",
+      "options": [
+        "Dull"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-18",
+      "questionNumber": 19,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The jeep ride was thrilling. Every steep climb made us feel excited, and we eagerly waited for the next one.Which word is most nearly OPPOSITE in meaning to thrilling here?",
+      "answer": "Dull",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the jeep ride was thrilling. every steep climb made us feel excited, and we eagerly waited for the next one.which word is most nearly opposite in meaning to thrilling here?",
+      "letter": "B",
+      "rightAnswer": "Dull"
+    },
+    {
+      "id": "question-1961204-22",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the course leader was strict about arrival times. even students who were only a little late had to explain themselves and complete an extra task.which word is most nearly opposite in meaning to strict here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The course leader was strict about arrival times. Even students who were only a little late had to explain themselves and complete an extra task. Which word is most nearly OPPOSITE in meaning to strict here?",
+      "options": [
+        "Lenient"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-22",
+      "questionNumber": 24,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The course leader was strict about arrival times. Even students who were only a little late had to explain themselves and complete an extra task.Which word is most nearly OPPOSITE in meaning to strict here?",
+      "answer": "Lenient",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the course leader was strict about arrival times. even students who were only a little late had to explain themselves and complete an extra task.which word is most nearly opposite in meaning to strict here?",
+      "letter": "A",
+      "rightAnswer": "Lenient"
+    },
+    {
+      "id": "question-1961204-20",
+      "questionKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the afternoon beside the lake was relaxing. with no deadlines or tasks to worry about, we felt calm and rested.which word is most nearly opposite in meaning to relaxing here?",
+      "questionRaw": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context. The afternoon beside the lake was relaxing. With no deadlines or tasks to worry about, we felt calm and rested. Which word is most nearly OPPOSITE in meaning to relaxing here?",
+      "options": [
+        "Stressful"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1961204-20",
+      "questionNumber": 22,
+      "question": "Choose A, B, C, or D to identify the word or phrase most nearly OPPOSITE in meaning to the bold word as used in its context.The afternoon beside the lake was relaxing. With no deadlines or tasks to worry about, we felt calm and rested.Which word is most nearly OPPOSITE in meaning to relaxing here?",
+      "answer": "Stressful",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the word or phrase most nearly opposite in meaning to the bold word as used in its context.the afternoon beside the lake was relaxing. with no deadlines or tasks to worry about, we felt calm and rested.which word is most nearly opposite in meaning to relaxing here?",
+      "letter": "A",
+      "rightAnswer": "Stressful"
+    }
+  ]
+}
