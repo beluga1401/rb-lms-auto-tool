@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR9EX45MOET UNIT 4 PRACTICE TEST 2 PART 1",
+    "quiz_key": "gr9ex45moet_unit_4_practice_test_2_part_1",
+    "cmid": "745351",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_4_exercises_34_48/gr9ex45moet_unit_4_practice_test_2_part_1.json",
+    "score": "22.00/22.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-11 20:07:39"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional textsquestions 1–6read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. help build our digital history map the tan son cultural centre is creating an online map of places that have played an important role in the town’s history. we are looking for old photographs, personal memories, and information about historic (1) such as bridges, meeting halls, markets, and monuments. if you have a photograph, tell us where it was taken and what people (2) at the time. please also explain why the place was important to the community. last month, several residents made a valuable (3) by sharing pictures of the old riverside market. these photographs helped us understand how people transported goods before the present bridge was built. we wish more families (4) willing to check their old photograph collections. even an ordinary street scene may contain useful historical information. selected photographs will appear on the digital map, (5) the original copies will remain with their owners. by sharing these memories, residents can help preserve the town’s heritage (6) future generations.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. HELP BUILD OUR DIGITAL HISTORY MAP The Tan Son Cultural Centre is creating an online map of places that have played an important role in the town’s history. We are looking for old photographs, personal memories, and information about historic (1) {#1} such as bridges, meeting halls, markets, and monuments. If you have a photograph, tell us where it was taken and what people (2) {#2} at the time. Please also explain why the place was important to the community. Last month, several residents made a valuable (3) {#3} by sharing pictures of the old riverside market. These photographs helped us understand how people transported goods before the present bridge was built. We wish more families (4) {#4} willing to check their old photograph collections. Even an ordinary street scene may contain useful historical information. Selected photographs will appear on the digital map, (5) {#5} the original copies will remain with their owners. By sharing these memories, residents can help preserve the town’s heritage (6) {#6} future generations.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "structures"
+        },
+        {
+          "index": 1,
+          "value": "were doing"
+        },
+        {
+          "index": 2,
+          "value": "contribution"
+        },
+        {
+          "index": 3,
+          "value": "were"
+        },
+        {
+          "index": 4,
+          "value": "but"
+        },
+        {
+          "index": 5,
+          "value": "for"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. HELP BUILD OUR DIGITAL HISTORY MAP The Tan Son Cultural Centre is creating an online map of places that have played an important role in the town’s history. We are looking for old photographs, personal memories, and information about historic (1) {#1} such as bridges, meeting halls, markets, and monuments. If you have a photograph, tell us where it was taken and what people (2) {#2} at the time. Please also explain why the place was important to the community. Last month, several residents made a valuable (3) {#3} by sharing pictures of the old riverside market. These photographs helped us understand how people transported goods before the present bridge was built. We wish more families (4) {#4} willing to check their old photograph collections. Even an ordinary street scene may contain useful historical information. Selected photographs will appear on the digital map, (5) {#5} the original copies will remain with their owners. By sharing these memories, residents can help preserve the town’s heritage (6) {#6} future generations.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional textsquestions 7–12read the following invitation and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. flavours from the past you are invited to our school’s traditional food afternoon this saturday. families from different parts of the country will introduce dishes that have been (7) from one generation to another. each family will explain the dish’s history, basic ingredients, and the occasions on which it is served. mrs binh will demonstrate how her family prepares a special kind of sticky rice. while she (8) the dish for last year’s event, many students asked questions about its natural colours. visitors may taste small servings and collect recipe cards. we wish we (9) enough space to invite the whole town, but attendance must be limited to 200 people. at the end of the event, students will thank the participating families (10) sharing their knowledge. their involvement is essential to the (11) of traditional cuisine. please register by thursday, (12) we can prepare enough tables and materials.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following invitation and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. FLAVOURS FROM THE PAST You are invited to our school’s Traditional Food Afternoon this Saturday. Families from different parts of the country will introduce dishes that have been (7) {#1} from one generation to another. Each family will explain the dish’s history, basic ingredients, and the occasions on which it is served. Mrs Binh will demonstrate how her family prepares a special kind of sticky rice. While she (8) {#2} the dish for last year’s event, many students asked questions about its natural colours. Visitors may taste small servings and collect recipe cards. We wish we (9) {#3} enough space to invite the whole town, but attendance must be limited to 200 people. At the end of the event, students will thank the participating families (10) {#4} sharing their knowledge. Their involvement is essential to the (11) {#5} of traditional cuisine. Please register by Thursday, (12) {#6} we can prepare enough tables and materials.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "passed down"
+        },
+        {
+          "index": 1,
+          "value": "was preparing"
+        },
+        {
+          "index": 2,
+          "value": "had"
+        },
+        {
+          "index": 3,
+          "value": "for"
+        },
+        {
+          "index": 4,
+          "value": "preservation"
+        },
+        {
+          "index": 5,
+          "value": "so"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following invitation and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. FLAVOURS FROM THE PAST You are invited to our school’s Traditional Food Afternoon this Saturday. Families from different parts of the country will introduce dishes that have been (7) {#1} from one generation to another. Each family will explain the dish’s history, basic ingredients, and the occasions on which it is served. Mrs Binh will demonstrate how her family prepares a special kind of sticky rice. While she (8) {#2} the dish for last year’s event, many students asked questions about its natural colours. Visitors may taste small servings and collect recipe cards. We wish we (9) {#3} enough space to invite the whole town, but attendance must be limited to 200 people. At the end of the event, students will thank the participating families (10) {#4} sharing their knowledge. Their involvement is essential to the (11) {#5} of traditional cuisine. Please register by Thursday, (12) {#6} we can prepare enough tables and materials.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. the new harvest festival for many generations, the people of minh son held a festival after completing the main rice harvest. in the past, nearly every family worked in the surrounding fields. (13) ______. the festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. the event traditionally began early in the morning. older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. children carried fruit and flowers to the main hall. (14) ______. after the ceremony, families ate together and joined traditional games. over time, fewer residents worked directly in farming. many young adults found jobs in the nearby town, and some families could return to minh son only at weekends. the original weekday festival date therefore became difficult for many people. (15) ______. instead, residents discussed how the timetable could change while the festival’s main purpose remained. they eventually decided to hold the public celebration on the nearest sunday after the harvest ceremony. the smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. this arrangement allows more family members to participate without removing the original ceremony. some details have also changed. food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. however, the main dishes, expressions of gratitude, and shared meal remain. (17) ______.question 13a. neighbours often helped one another bring in the rice before the seasonal rains arrived.b. several families travelled to the nearby town to buy rice from large shops.c. the communal house was closed because nobody wanted to organise the harvest.d. children attended school throughout the festival and did not join their families.write a, b, c, or d – question 14a. some villagers wanted to replace the ceremony with a sports competition.b. visitors left the village before the traditional food was prepared.c. a short ceremony then thanked earlier generations and celebrated the harvest.d. the families sold their fruit and flowers at the town market.write a, b, c, or d – question 15a. the village immediately cancelled the festival and removed all its traditions.b. however, people did not want family absence to bring the celebration to an end.c. younger residents asked to replace the harvest festival with a music event.d. the communal house was turned into an office during the harvest season.write a, b, c, or d – question 16a. the village has stopped preparing the traditional meal for visiting families.b. farmers now conduct the public celebration before bringing in the rice.c. the sunday event includes the shared meal, games, and larger family gathering.d. only children and visitors are allowed to attend the traditional ceremony.write a, b, c, or d – question 17a. the festival has adapted to present circumstances while preserving its central meaning.b. the changes have made the festival completely different from its earlier form.c. most families now attend mainly because they want to buy agricultural products.d. the village plans to replace the communal ceremony with a modern food market.write a, b, c, or d –",
+      "questionRaw": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. THE NEW HARVEST FESTIVAL For many generations, the people of Minh Son held a festival after completing the main rice harvest. In the past, nearly every family worked in the surrounding fields. (13) ______. The festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. The event traditionally began early in the morning. Older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. Children carried fruit and flowers to the main hall. (14) ______. After the ceremony, families ate together and joined traditional games. Over time, fewer residents worked directly in farming. Many young adults found jobs in the nearby town, and some families could return to Minh Son only at weekends. The original weekday festival date therefore became difficult for many people. (15) ______. Instead, residents discussed how the timetable could change while the festival’s main purpose remained. They eventually decided to hold the public celebration on the nearest Sunday after the harvest ceremony. The smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. This arrangement allows more family members to participate without removing the original ceremony. Some details have also changed. Food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. However, the main dishes, expressions of gratitude, and shared meal remain. (17) ______.Question 13A. Neighbours often helped one another bring in the rice before the seasonal rains arrived.B. Several families travelled to the nearby town to buy rice from large shops.C. The communal house was closed because nobody wanted to organise the harvest.D. Children attended school throughout the festival and did not join their families.Write A, B, C, or D – {#1}Question 14A. Some villagers wanted to replace the ceremony with a sports competition.B. Visitors left the village before the traditional food was prepared.C. A short ceremony then thanked earlier generations and celebrated the harvest.D. The families sold their fruit and flowers at the town market.Write A, B, C, or D – {#2}Question 15A. The village immediately cancelled the festival and removed all its traditions.B. However, people did not want family absence to bring the celebration to an end.C. Younger residents asked to replace the harvest festival with a music event.D. The communal house was turned into an office during the harvest season.Write A, B, C, or D – {#3}Question 16A. The village has stopped preparing the traditional meal for visiting families.B. Farmers now conduct the public celebration before bringing in the rice.C. The Sunday event includes the shared meal, games, and larger family gathering.D. Only children and visitors are allowed to attend the traditional ceremony.Write A, B, C, or D – {#4}Question 17A. The festival has adapted to present circumstances while preserving its central meaning.B. The changes have made the festival completely different from its earlier form.C. Most families now attend mainly because they want to buy agricultural products.D. The village plans to replace the communal ceremony with a modern food market.Write A, B, C, or D – {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. THE NEW HARVEST FESTIVAL For many generations, the people of Minh Son held a festival after completing the main rice harvest. In the past, nearly every family worked in the surrounding fields. (13) ______. The festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. The event traditionally began early in the morning. Older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. Children carried fruit and flowers to the main hall. (14) ______. After the ceremony, families ate together and joined traditional games. Over time, fewer residents worked directly in farming. Many young adults found jobs in the nearby town, and some families could return to Minh Son only at weekends. The original weekday festival date therefore became difficult for many people. (15) ______. Instead, residents discussed how the timetable could change while the festival’s main purpose remained. They eventually decided to hold the public celebration on the nearest Sunday after the harvest ceremony. The smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. This arrangement allows more family members to participate without removing the original ceremony. Some details have also changed. Food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. However, the main dishes, expressions of gratitude, and shared meal remain. (17) ______.Question 13A. Neighbours often helped one another bring in the rice before the seasonal rains arrived.B. Several families travelled to the nearby town to buy rice from large shops.C. The communal house was closed because nobody wanted to organise the harvest.D. Children attended school throughout the festival and did not join their families.Write A, B, C, or D – {#1}Question 14A. Some villagers wanted to replace the ceremony with a sports competition.B. Visitors left the village before the traditional food was prepared.C. A short ceremony then thanked earlier generations and celebrated the harvest.D. The families sold their fruit and flowers at the town market.Write A, B, C, or D – {#2}Question 15A. The village immediately cancelled the festival and removed all its traditions.B. However, people did not want family absence to bring the celebration to an end.C. Younger residents asked to replace the harvest festival with a music event.D. The communal house was turned into an office during the harvest season.Write A, B, C, or D – {#3}Question 16A. The village has stopped preparing the traditional meal for visiting families.B. Farmers now conduct the public celebration before bringing in the rice.C. The Sunday event includes the shared meal, games, and larger family gathering.D. Only children and visitors are allowed to attend the traditional ceremony.Write A, B, C, or D – {#4}Question 17A. The festival has adapted to present circumstances while preserving its central meaning.B. The changes have made the festival completely different from its earlier form.C. Most families now attend mainly because they want to buy agricultural products.D. The village plans to replace the communal ceremony with a modern food market.Write A, B, C, or D – {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18a. these interviews helped us compare home life then with the way families live today.b. last month, our class interviewed older residents about household life forty years ago.c. finally, we presented our findings through posters and short recorded talks.d. they described cooking without modern appliances and collecting water from a shared well.a. d – b – a – cb. b – a – d – cc. b – d – a – cd. a – b – c – dwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. These interviews helped us compare home life then with the way families live today.b. Last month, our class interviewed older residents about household life forty years ago.c. Finally, we presented our findings through posters and short recorded talks.d. They described cooking without modern appliances and collecting water from a shared well.A. d – b – a – cB. b – a – d – cC. b – d – a – cD. a – b – c – dWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. These interviews helped us compare home life then with the way families live today.b. Last month, our class interviewed older residents about household life forty years ago.c. Finally, we presented our findings through posters and short recorded talks.d. They described cooking without modern appliances and collecting water from a shared well.A. d – b – a – cB. b – a – d – cC. b – d – a – cD. a – b – c – dWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19a. it is usually served with fresh vegetables and a light dipping sauce.b. mi quang is a traditional noodle dish from central viet nam.c. today, families prepare it both for ordinary meals and for special guests.d. its main ingredients include noodles, meat or seafood, herbs, and a small amount of broth.a. b – d – a – cb. d – b – c – ac. b – a – d – cd. a – c – b – dwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. It is usually served with fresh vegetables and a light dipping sauce.b. Mi quang is a traditional noodle dish from central Viet Nam.c. Today, families prepare it both for ordinary meals and for special guests.d. Its main ingredients include noodles, meat or seafood, herbs, and a small amount of broth.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. It is usually served with fresh vegetables and a light dipping sauce.b. Mi quang is a traditional noodle dish from central Viet Nam.c. Today, families prepare it both for ordinary meals and for special guests.d. Its main ingredients include noodles, meat or seafood, herbs, and a small amount of broth.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20a. today, the gate reminds local people of the town’s earlier form and identity.b. only one stone gate remains from the wall that once surrounded minh chau.c. local authorities inspect it regularly and repair damaged stones when necessary.d. the wall was gradually removed as the town expanded and needed wider roads.a. d – b – a – cb. b – a – d – cc. a – b – c – dd. b – d – c – awrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. Today, the gate reminds local people of the town’s earlier form and identity.b. Only one stone gate remains from the wall that once surrounded Minh Chau.c. Local authorities inspect it regularly and repair damaged stones when necessary.d. The wall was gradually removed as the town expanded and needed wider roads.A. d – b – a – cB. b – a – d – cC. a – b – c – dD. b – d – c – aWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. Today, the gate reminds local people of the town’s earlier form and identity.b. Only one stone gate remains from the wall that once surrounded Minh Chau.c. Local authorities inspect it regularly and repair damaged stones when necessary.d. The wall was gradually removed as the town expanded and needed wider roads.A. d – b – a – cB. b – a – d – cC. a – b – c – dD. b – d – c – aWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21a. mai: no problem. i enjoyed hearing what your grandfather remembered.b. nam: thanks a lot for helping me record the interview.c. mai: yes. let’s save another copy before we begin editing it.d. nam: do you think the recording is clear enough to use in our project?a. b – a – d – cb. d – c – b – ac. d – b – a – cd. b – d – c – awrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. Mai: No problem. I enjoyed hearing what your grandfather remembered.b. Nam: Thanks a lot for helping me record the interview.c. Mai: Yes. Let’s save another copy before we begin editing it.d. Nam: Do you think the recording is clear enough to use in our project?A. b – a – d – cB. d – c – b – aC. d – b – a – cD. b – d – c – aWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. Mai: No problem. I enjoyed hearing what your grandfather remembered.b. Nam: Thanks a lot for helping me record the interview.c. Mai: Yes. Let’s save another copy before we begin editing it.d. Nam: Do you think the recording is clear enough to use in our project?A. b – a – d – cB. d – c – b – aC. d – b – a – cD. b – d – c – aWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22a. the completed recordings will be stored in the local library’s oral-history collection.b. before conducting this interview, students should prepare five suitable questions.c. our youth club is organising an oral-history project about changes in the town.d. after the interview, check all names and dates with the speaker.e. each participant will interview one resident over the age of sixty.a. c – b – e – d – ab. b – c – e – a – dc. c – e – b – d – ad. c – e – d – b – awrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. The completed recordings will be stored in the local library’s oral-history collection.b. Before conducting this interview, students should prepare five suitable questions.c. Our youth club is organising an oral-history project about changes in the town.d. After the interview, check all names and dates with the speaker.e. Each participant will interview one resident over the age of sixty.A. c – b – e – d – aB. b – c – e – a – dC. c – e – b – d – aD. c – e – d – b – aWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. The completed recordings will be stored in the local library’s oral-history collection.b. Before conducting this interview, students should prepare five suitable questions.c. Our youth club is organising an oral-history project about changes in the town.d. After the interview, check all names and dates with the speaker.e. Each participant will interview one resident over the age of sixty.A. c – b – e – d – aB. b – c – e – a – dC. c – e – b – d – aD. c – e – d – b – aWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A. structures",
+      "id": "question-1961162-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional textsquestions 1–6read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. help build our digital history map the tan son cultural centre is creating an online map of places that have played an important role in the town's history. we are looking for old photographs, personal memories, and information about historic (1) {#1} such as bridges, meeting halls, markets, and monuments. if you have a photograph, tell us where it was taken and what people (2) {#2} at the time. please also explain why the place was important to the community. last month, several residents made a valuable (3) {#3} by sharing pictures of the old riverside market. these photographs helped us understand how people transported goods before the present bridge was built. we wish more families (4) {#4} willing to check their old photograph collections. even an ordinary street scene may contain useful historical information. selected photographs will appear on the digital map, (5) {#5} the original copies will remain with their owners. by sharing these memories, residents can help preserve the town's heritage (6) {#6} future generations.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. HELP BUILD OUR DIGITAL HISTORY MAP The Tan Son Cultural Centre is creating an online map of places that have played an important role in the town's history. We are looking for old photographs, personal memories, and information about historic (1) [Blank 1] such as bridges, meeting halls, markets, and monuments. If you have a photograph, tell us where it was taken and what people (2) [Blank 2] at the time. Please also explain why the place was important to the community. Last month, several residents made a valuable (3) [Blank 3] by sharing pictures of the old riverside market. These photographs helped us understand how people transported goods before the present bridge was built. We wish more families (4) [Blank 4] willing to check their old photograph collections. Even an ordinary street scene may contain useful historical information. Selected photographs will appear on the digital map, (5) [Blank 5] the original copies will remain with their owners. By sharing these memories, residents can help preserve the town's heritage (6) [Blank 6] future generations.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.structuresB.generationsC.ingredientsD.takeawaysÔ (2):A.doB.are doingC.have doneD.were doingÔ (3):A.observationB.recognitionC.contributionD.occupationÔ (4):A.have beenB.will beC.wereD.areÔ (5):A.unlessB.becauseC.butD.soÔ (6):A.aboutB.forC.fromD.with",
+      "questionId": "question-1961162-1",
+      "questionKey": "part 1 — language in functional textsquestions 1–6read the following notice and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. help build our digital history map the tan son cultural centre is creating an online map of places that have played an important role in the town's history. we are looking for old photographs, personal memories, and information about historic (1) [blank 1] such as bridges, meeting halls, markets, and monuments. if you have a photograph, tell us where it was taken and what people (2) [blank 2] at the time. please also explain why the place was important to the community. last month, several residents made a valuable (3) [blank 3] by sharing pictures of the old riverside market. these photographs helped us understand how people transported goods before the present bridge was built. we wish more families (4) [blank 4] willing to check their old photograph collections. even an ordinary street scene may contain useful historical information. selected photographs will appear on the digital map, (5) [blank 5] the original copies will remain with their owners. by sharing these memories, residents can help preserve the town's heritage (6) [blank 6] future generations.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.structuresb.generationsc.ingredientsd.takeawaysô (2):a.dob.are doingc.have doned.were doingô (3):a.observationb.recognitionc.contributiond.occupationô (4):a.have beenb.will bec.wered.areô (5):a.unlessb.becausec.butd.soô (6):a.aboutb.forc.fromd.with",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "A. structures"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "D. were doing"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "C. contribution"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "C. were"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "C. but"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "B. for"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. passed down",
+      "id": "question-1961162-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional textsquestions 7–12read the following invitation and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. flavours from the past you are invited to our school's traditional food afternoon this saturday. families from different parts of the country will introduce dishes that have been (7) {#1} from one generation to another. each family will explain the dish's history, basic ingredients, and the occasions on which it is served. mrs binh will demonstrate how her family prepares a special kind of sticky rice. while she (8) {#2} the dish for last year's event, many students asked questions about its natural colours. visitors may taste small servings and collect recipe cards. we wish we (9) {#3} enough space to invite the whole town, but attendance must be limited to 200 people. at the end of the event, students will thank the participating families (10) {#4} sharing their knowledge. their involvement is essential to the (11) {#5} of traditional cuisine. please register by thursday, (12) {#6} we can prepare enough tables and materials.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following invitation and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. FLAVOURS FROM THE PAST You are invited to our school's Traditional Food Afternoon this Saturday. Families from different parts of the country will introduce dishes that have been (7) [Blank 7] from one generation to another. Each family will explain the dish's history, basic ingredients, and the occasions on which it is served. Mrs Binh will demonstrate how her family prepares a special kind of sticky rice. While she (8) [Blank 8] the dish for last year's event, many students asked questions about its natural colours. Visitors may taste small servings and collect recipe cards. We wish we (9) [Blank 9] enough space to invite the whole town, but attendance must be limited to 200 people. At the end of the event, students will thank the participating families (10) [Blank 10] sharing their knowledge. Their involvement is essential to the (11) [Blank 11] of traditional cuisine. Please register by Thursday, (12) [Blank 12] we can prepare enough tables and materials.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.looked aroundB.taken overC.passed downD.turned offÔ (8):A.was preparingB.has preparedC.is preparingD.preparesÔ (9):A.hadB.have hadC.will haveD.haveÔ (10):A.forB.fromC.withD.aboutÔ (11):A.constructionB.preservationC.occupationD.observationÔ (12):A.unlessB.soC.butD.although",
+      "questionId": "question-1961162-2",
+      "questionKey": "part 1 — language in functional textsquestions 7–12read the following invitation and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. flavours from the past you are invited to our school's traditional food afternoon this saturday. families from different parts of the country will introduce dishes that have been (7) [blank 7] from one generation to another. each family will explain the dish's history, basic ingredients, and the occasions on which it is served. mrs binh will demonstrate how her family prepares a special kind of sticky rice. while she (8) [blank 8] the dish for last year's event, many students asked questions about its natural colours. visitors may taste small servings and collect recipe cards. we wish we (9) [blank 9] enough space to invite the whole town, but attendance must be limited to 200 people. at the end of the event, students will thank the participating families (10) [blank 10] sharing their knowledge. their involvement is essential to the (11) [blank 11] of traditional cuisine. please register by thursday, (12) [blank 12] we can prepare enough tables and materials.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.looked aroundb.taken overc.passed downd.turned offô (8):a.was preparingb.has preparedc.is preparingd.preparesô (9):a.hadb.have hadc.will haved.haveô (10):a.forb.fromc.withd.aboutô (11):a.constructionb.preservationc.occupationd.observationô (12):a.unlessb.soc.butd.although",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "C. passed down"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A. was preparing"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "A. had"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "A. for"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "B. preservation"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B. so"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1961162-3",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 3,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "questionNumber": 3,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "questionNumber": 3,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. the new harvest festival for many generations, the people of minh son held a festival after completing the main rice harvest. in the past, nearly every family worked in the surrounding fields. (13) ______. the festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. the event traditionally began early in the morning. older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. children carried fruit and flowers to the main hall. (14) ______. after the ceremony, families ate together and joined traditional games. over time, fewer residents worked directly in farming. many young adults found jobs in the nearby town, and some families could return to minh son only at weekends. the original weekday festival date therefore became difficult for many people. (15) ______. instead, residents discussed how the timetable could change while the festival's main purpose remained. they eventually decided to hold the public celebration on the nearest sunday after the harvest ceremony. the smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. this arrangement allows more family members to participate without removing the original ceremony. some details have also changed. food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. however, the main dishes, expressions of gratitude, and shared meal remain. (17) ______.question 13a. neighbours often helped one another bring in the rice before the seasonal rains arrived.b. several families travelled to the nearby town to buy rice from large shops.c. the communal house was closed because nobody wanted to organise the harvest.d. children attended school throughout the festival and did not join their families.write a, b, c, or d – {#1}question 14a. some villagers wanted to replace the ceremony with a sports competition.b. visitors left the village before the traditional food was prepared.c. a short ceremony then thanked earlier generations and celebrated the harvest.d. the families sold their fruit and flowers at the town market.write a, b, c, or d – {#2}question 15a. the village immediately cancelled the festival and removed all its traditions.b. however, people did not want family absence to bring the celebration to an end.c. younger residents asked to replace the harvest festival with a music event.d. the communal house was turned into an office during the harvest season.write a, b, c, or d – {#3}question 16a. the village has stopped preparing the traditional meal for visiting families.b. farmers now conduct the public celebration before bringing in the rice.c. the sunday event includes the shared meal, games, and larger family gathering.d. only children and visitors are allowed to attend the traditional ceremony.write a, b, c, or d – {#4}question 17a. the festival has adapted to present circumstances while preserving its central meaning.b. the changes have made the festival completely different from its earlier form.c. most families now attend mainly because they want to buy agricultural products.d. the village plans to replace the communal ceremony with a modern food market.write a, b, c, or d – {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. THE NEW HARVEST FESTIVAL For many generations, the people of Minh Son held a festival after completing the main rice harvest. In the past, nearly every family worked in the surrounding fields. (13) ______. The festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. The event traditionally began early in the morning. Older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. Children carried fruit and flowers to the main hall. (14) ______. After the ceremony, families ate together and joined traditional games. Over time, fewer residents worked directly in farming. Many young adults found jobs in the nearby town, and some families could return to Minh Son only at weekends. The original weekday festival date therefore became difficult for many people. (15) ______. Instead, residents discussed how the timetable could change while the festival's main purpose remained. They eventually decided to hold the public celebration on the nearest Sunday after the harvest ceremony. The smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. This arrangement allows more family members to participate without removing the original ceremony. Some details have also changed. Food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. However, the main dishes, expressions of gratitude, and shared meal remain. (17) ______.Question 13A. Neighbours often helped one another bring in the rice before the seasonal rains arrived.B. Several families travelled to the nearby town to buy rice from large shops.C. The communal house was closed because nobody wanted to organise the harvest.D. Children attended school throughout the festival and did not join their families.Write A, B, C, or D – {#1}Question 14A. Some villagers wanted to replace the ceremony with a sports competition.B. Visitors left the village before the traditional food was prepared.C. A short ceremony then thanked earlier generations and celebrated the harvest.D. The families sold their fruit and flowers at the town market.Write A, B, C, or D – {#2}Question 15A. The village immediately cancelled the festival and removed all its traditions.B. However, people did not want family absence to bring the celebration to an end.C. Younger residents asked to replace the harvest festival with a music event.D. The communal house was turned into an office during the harvest season.Write A, B, C, or D – {#3}Question 16A. The village has stopped preparing the traditional meal for visiting families.B. Farmers now conduct the public celebration before bringing in the rice.C. The Sunday event includes the shared meal, games, and larger family gathering.D. Only children and visitors are allowed to attend the traditional ceremony.Write A, B, C, or D – {#4}Question 17A. The festival has adapted to present circumstances while preserving its central meaning.B. The changes have made the festival completely different from its earlier form.C. Most families now attend mainly because they want to buy agricultural products.D. The village plans to replace the communal ceremony with a modern food market.Write A, B, C, or D – {#5}",
+      "questionId": "question-1961162-3",
+      "questionKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. the new harvest festival for many generations, the people of minh son held a festival after completing the main rice harvest. in the past, nearly every family worked in the surrounding fields. (13) ______. the festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. the event traditionally began early in the morning. older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. children carried fruit and flowers to the main hall. (14) ______. after the ceremony, families ate together and joined traditional games. over time, fewer residents worked directly in farming. many young adults found jobs in the nearby town, and some families could return to minh son only at weekends. the original weekday festival date therefore became difficult for many people. (15) ______. instead, residents discussed how the timetable could change while the festival's main purpose remained. they eventually decided to hold the public celebration on the nearest sunday after the harvest ceremony. the smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. this arrangement allows more family members to participate without removing the original ceremony. some details have also changed. food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. however, the main dishes, expressions of gratitude, and shared meal remain. (17) ______.question 13a. neighbours often helped one another bring in the rice before the seasonal rains arrived.b. several families travelled to the nearby town to buy rice from large shops.c. the communal house was closed because nobody wanted to organise the harvest.d. children attended school throughout the festival and did not join their families.write a, b, c, or d – {#1}question 14a. some villagers wanted to replace the ceremony with a sports competition.b. visitors left the village before the traditional food was prepared.c. a short ceremony then thanked earlier generations and celebrated the harvest.d. the families sold their fruit and flowers at the town market.write a, b, c, or d – {#2}question 15a. the village immediately cancelled the festival and removed all its traditions.b. however, people did not want family absence to bring the celebration to an end.c. younger residents asked to replace the harvest festival with a music event.d. the communal house was turned into an office during the harvest season.write a, b, c, or d – {#3}question 16a. the village has stopped preparing the traditional meal for visiting families.b. farmers now conduct the public celebration before bringing in the rice.c. the sunday event includes the shared meal, games, and larger family gathering.d. only children and visitors are allowed to attend the traditional ceremony.write a, b, c, or d – {#4}question 17a. the festival has adapted to present circumstances while preserving its central meaning.b. the changes have made the festival completely different from its earlier form.c. most families now attend mainly because they want to buy agricultural products.d. the village plans to replace the communal ceremony with a modern food market.write a, b, c, or d – {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1961162-4",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 4,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18a. these interviews helped us compare home life then with the way families live today.b. last month, our class interviewed older residents about household life forty years ago.c. finally, we presented our findings through posters and short recorded talks.d. they described cooking without modern appliances and collecting water from a shared well.a. d – b – a – cb. b – a – d – cc. b – d – a – cd. a – b – c – dwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. These interviews helped us compare home life then with the way families live today.b. Last month, our class interviewed older residents about household life forty years ago.c. Finally, we presented our findings through posters and short recorded talks.d. They described cooking without modern appliances and collecting water from a shared well.A. d – b – a – cB. b – a – d – cC. b – d – a – cD. a – b – c – dWrite A, B, C, or D – {#1}",
+      "questionId": "question-1961162-4",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18a. these interviews helped us compare home life then with the way families live today.b. last month, our class interviewed older residents about household life forty years ago.c. finally, we presented our findings through posters and short recorded talks.d. they described cooking without modern appliances and collecting water from a shared well.a. d – b – a – cb. b – a – d – cc. b – d – a – cd. a – b – c – dwrite a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1961162-5",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19a. it is usually served with fresh vegetables and a light dipping sauce.b. mi quang is a traditional noodle dish from central viet nam.c. today, families prepare it both for ordinary meals and for special guests.d. its main ingredients include noodles, meat or seafood, herbs, and a small amount of broth.a. b – d – a – cb. d – b – c – ac. b – a – d – cd. a – c – b – dwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. It is usually served with fresh vegetables and a light dipping sauce.b. Mi quang is a traditional noodle dish from central Viet Nam.c. Today, families prepare it both for ordinary meals and for special guests.d. Its main ingredients include noodles, meat or seafood, herbs, and a small amount of broth.A. b – d – a – cB. d – b – c – aC. b – a – d – cD. a – c – b – dWrite A, B, C, or D – {#1}",
+      "questionId": "question-1961162-5",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19a. it is usually served with fresh vegetables and a light dipping sauce.b. mi quang is a traditional noodle dish from central viet nam.c. today, families prepare it both for ordinary meals and for special guests.d. its main ingredients include noodles, meat or seafood, herbs, and a small amount of broth.a. b – d – a – cb. d – b – c – ac. b – a – d – cd. a – c – b – dwrite a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1961162-6",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20a. today, the gate reminds local people of the town's earlier form and identity.b. only one stone gate remains from the wall that once surrounded minh chau.c. local authorities inspect it regularly and repair damaged stones when necessary.d. the wall was gradually removed as the town expanded and needed wider roads.a. d – b – a – cb. b – a – d – cc. a – b – c – dd. b – d – c – awrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. Today, the gate reminds local people of the town's earlier form and identity.b. Only one stone gate remains from the wall that once surrounded Minh Chau.c. Local authorities inspect it regularly and repair damaged stones when necessary.d. The wall was gradually removed as the town expanded and needed wider roads.A. d – b – a – cB. b – a – d – cC. a – b – c – dD. b – d – c – aWrite A, B, C, or D – {#1}",
+      "questionId": "question-1961162-6",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20a. today, the gate reminds local people of the town's earlier form and identity.b. only one stone gate remains from the wall that once surrounded minh chau.c. local authorities inspect it regularly and repair damaged stones when necessary.d. the wall was gradually removed as the town expanded and needed wider roads.a. d – b – a – cb. b – a – d – cc. a – b – c – dd. b – d – c – awrite a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1961162-7",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 7,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21a. mai: no problem. i enjoyed hearing what your grandfather remembered.b. nam: thanks a lot for helping me record the interview.c. mai: yes. let's save another copy before we begin editing it.d. nam: do you think the recording is clear enough to use in our project?a. b – a – d – cb. d – c – b – ac. d – b – a – cd. b – d – c – awrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. Mai: No problem. I enjoyed hearing what your grandfather remembered.b. Nam: Thanks a lot for helping me record the interview.c. Mai: Yes. Let's save another copy before we begin editing it.d. Nam: Do you think the recording is clear enough to use in our project?A. b – a – d – cB. d – c – b – aC. d – b – a – cD. b – d – c – aWrite A, B, C, or D – {#1}",
+      "questionId": "question-1961162-7",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21a. mai: no problem. i enjoyed hearing what your grandfather remembered.b. nam: thanks a lot for helping me record the interview.c. mai: yes. let's save another copy before we begin editing it.d. nam: do you think the recording is clear enough to use in our project?a. b – a – d – cb. d – c – b – ac. d – b – a – cd. b – d – c – awrite a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1961162-8",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22a. the completed recordings will be stored in the local library's oral-history collection.b. before conducting this interview, students should prepare five suitable questions.c. our youth club is organising an oral-history project about changes in the town.d. after the interview, check all names and dates with the speaker.e. each participant will interview one resident over the age of sixty.a. c – b – e – d – ab. b – c – e – a – dc. c – e – b – d – ad. c – e – d – b – awrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. The completed recordings will be stored in the local library's oral-history collection.b. Before conducting this interview, students should prepare five suitable questions.c. Our youth club is organising an oral-history project about changes in the town.d. After the interview, check all names and dates with the speaker.e. Each participant will interview one resident over the age of sixty.A. c – b – e – d – aB. b – c – e – a – dC. c – e – b – d – aD. c – e – d – b – aWrite A, B, C, or D – {#1}",
+      "questionId": "question-1961162-8",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22a. the completed recordings will be stored in the local library's oral-history collection.b. before conducting this interview, students should prepare five suitable questions.c. our youth club is organising an oral-history project about changes in the town.d. after the interview, check all names and dates with the speaker.e. each participant will interview one resident over the age of sixty.a. c – b – e – d – ab. b – c – e – a – dc. c – e – b – d – ad. c – e – d – b – awrite a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
