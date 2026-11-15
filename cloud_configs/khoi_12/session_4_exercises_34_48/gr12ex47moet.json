@@ -1,0 +1,905 @@
+{
+  "metadata": {
+    "account_name": "Vũ Thị Mỹ Chi",
+    "class_name": "Khối 12 (LGK LC-Lớp 12TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12TN (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR12EX47MOET",
+    "quiz_key": "gr12ex47moet",
+    "cmid": "746656",
+    "course_id": "11364",
+    "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex47moet.json",
+    "score": "25.00/25.00",
+    "score_pct": 100.0,
+    "question_count": 63,
+    "updated_at": "2026-11-15 19:15:10"
+  },
+  "answers": [
+    {
+      "id": "question-1972996-7",
+      "questionKey": "choose a, b, c or d that best completes each sentence.some farmers ______ farm animals such as cows, goats and sheep.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. Some farmers ______ farm animals such as cows, goats and sheep.",
+      "options": [
+        "raise"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-7",
+      "questionNumber": 1,
+      "question": "Choose A, B, C or D that best completes each sentence.Some farmers ______ farm animals such as cows, goats and sheep.",
+      "answer": "raise",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.some farmers ______ farm animals such as cows, goats and sheep.",
+      "letter": "B",
+      "rightAnswer": "raise"
+    },
+    {
+      "id": "question-1972996-2",
+      "questionKey": "choose a, b, c or d that best completes each sentence.coal, oil and natural gas are commonly described as fossil ______.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. Coal, oil and natural gas are commonly described as fossil ______.",
+      "options": [
+        "fuels"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-2",
+      "questionNumber": 8,
+      "question": "Choose A, B, C or D that best completes each sentence.Coal, oil and natural gas are commonly described as fossil ______.",
+      "answer": "fuels",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.coal, oil and natural gas are commonly described as fossil ______.",
+      "letter": "C",
+      "rightAnswer": "fuels"
+    },
+    {
+      "id": "question-1972996-8",
+      "questionKey": "choose a, b, c or d that best completes each sentence.to clear farmland, people may ______ standing trees by cutting through their trunks.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. To clear farmland, people may ______ standing trees by cutting through their trunks.",
+      "options": [
+        "cut down"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-8",
+      "questionNumber": 6,
+      "question": "Choose A, B, C or D that best completes each sentence.To clear farmland, people may ______ standing trees by cutting through their trunks.",
+      "answer": "cut down",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.to clear farmland, people may ______ standing trees by cutting through their trunks.",
+      "letter": "D",
+      "rightAnswer": "cut down"
+    },
+    {
+      "id": "question-1972996-4",
+      "questionKey": "choose a, b, c or d that best completes each sentence.smoke from indoor solid-fuel stoves can contribute to household air ______.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. Smoke from indoor solid-fuel stoves can contribute to household air ______.",
+      "options": [
+        "pollution"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-4",
+      "questionNumber": 3,
+      "question": "Choose A, B, C or D that best completes each sentence.Smoke from indoor solid-fuel stoves can contribute to household air ______.",
+      "answer": "pollution",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.smoke from indoor solid-fuel stoves can contribute to household air ______.",
+      "letter": "A",
+      "rightAnswer": "pollution"
+    },
+    {
+      "id": "question-1972996-3",
+      "questionKey": "choose a, b, c or d that best completes each sentence.the clil discussion examined the environmental ______ of farming.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. The CLIL discussion examined the environmental ______ of farming.",
+      "options": [
+        "impact"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-3",
+      "questionNumber": 5,
+      "question": "Choose A, B, C or D that best completes each sentence.The CLIL discussion examined the environmental ______ of farming.",
+      "answer": "impact",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.the clil discussion examined the environmental ______ of farming.",
+      "letter": "D",
+      "rightAnswer": "impact"
+    },
+    {
+      "id": "question-1972996-1",
+      "questionKey": "choose a, b, c or d that best completes each sentence.carbon dioxide and methane are examples of greenhouse ______.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. Carbon dioxide and methane are examples of greenhouse ______.",
+      "options": [
+        "gases"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-1",
+      "questionNumber": 4,
+      "question": "Choose A, B, C or D that best completes each sentence.Carbon dioxide and methane are examples of greenhouse ______.",
+      "answer": "gases",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.carbon dioxide and methane are examples of greenhouse ______.",
+      "letter": "A",
+      "rightAnswer": "gases"
+    },
+    {
+      "id": "question-1972996-10",
+      "questionKey": "choose a, b, c or d that best completes each sentence.without enough paper for the green fair leaflets, the group could ______ of supplies.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. Without enough paper for the Green Fair leaflets, the group could ______ of supplies.",
+      "options": [
+        "run out"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-10",
+      "questionNumber": 2,
+      "question": "Choose A, B, C or D that best completes each sentence.Without enough paper for the Green Fair leaflets, the group could ______ of supplies.",
+      "answer": "run out",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.without enough paper for the green fair leaflets, the group could ______ of supplies.",
+      "letter": "C",
+      "rightAnswer": "run out"
+    },
+    {
+      "id": "question-1972996-9",
+      "questionKey": "choose a, b, c or d that best completes each sentence.if the household burns all its stored coal, it will ______ the supply.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. If the household burns all its stored coal, it will ______ the supply.",
+      "options": [
+        "use up"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-9",
+      "questionNumber": 9,
+      "question": "Choose A, B, C or D that best completes each sentence.If the household burns all its stored coal, it will ______ the supply.",
+      "answer": "use up",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.if the household burns all its stored coal, it will ______ the supply.",
+      "letter": "C",
+      "rightAnswer": "use up"
+    },
+    {
+      "id": "question-1972996-6",
+      "questionKey": "choose a, b, c or d that best completes each sentence.one climate action is to ______ the forests from damage.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. One climate action is to ______ the forests from damage.",
+      "options": [
+        "protect"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-6",
+      "questionNumber": 10,
+      "question": "Choose A, B, C or D that best completes each sentence.One climate action is to ______ the forests from damage.",
+      "answer": "protect",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.one climate action is to ______ the forests from damage.",
+      "letter": "A",
+      "rightAnswer": "protect"
+    },
+    {
+      "id": "question-1972996-5",
+      "questionKey": "choose a, b, c or d that best completes each sentence.the group suggested measures to reduce greenhouse gas ______.",
+      "questionRaw": "Choose A, B, C or D that best completes each sentence. The group suggested measures to reduce greenhouse gas ______.",
+      "options": [
+        "emissions"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-5",
+      "questionNumber": 7,
+      "question": "Choose A, B, C or D that best completes each sentence.The group suggested measures to reduce greenhouse gas ______.",
+      "answer": "emissions",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that best completes each sentence.the group suggested measures to reduce greenhouse gas ______.",
+      "letter": "A",
+      "rightAnswer": "emissions"
+    },
+    {
+      "id": "question-1972996-20",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the classroom conference brought together ______ representatives from different countries.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The classroom conference brought together ______ representatives from different countries.",
+      "options": [
+        "national"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-20",
+      "questionNumber": 15,
+      "question": "Choose A, B, C or D that gives the correct word form.The classroom conference brought together ______ representatives from different countries.",
+      "answer": "national",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the classroom conference brought together ______ representatives from different countries.",
+      "letter": "C",
+      "rightAnswer": "national"
+    },
+    {
+      "id": "question-1972996-13",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the proposed changes could contribute to a ______ in emissions.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The proposed changes could contribute to a ______ in emissions.",
+      "options": [
+        "reduction"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-13",
+      "questionNumber": 13,
+      "question": "Choose A, B, C or D that gives the correct word form.The proposed changes could contribute to a ______ in emissions.",
+      "answer": "reduction",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the proposed changes could contribute to a ______ in emissions.",
+      "letter": "D",
+      "rightAnswer": "reduction"
+    },
+    {
+      "id": "question-1972996-12",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the leaflet explains the ______ impact of open waste burning.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The leaflet explains the ______ impact of open waste burning.",
+      "options": [
+        "environmental"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-12",
+      "questionNumber": 18,
+      "question": "Choose A, B, C or D that gives the correct word form.The leaflet explains the ______ impact of open waste burning.",
+      "answer": "environmental",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the leaflet explains the ______ impact of open waste burning.",
+      "letter": "B",
+      "rightAnswer": "environmental"
+    },
+    {
+      "id": "question-1972996-11",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the recorded greenhouse gas ______ were compared in the classroom report.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The recorded greenhouse gas ______ were compared in the classroom report.",
+      "options": [
+        "emissions"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-11",
+      "questionNumber": 12,
+      "question": "Choose A, B, C or D that gives the correct word form.The recorded greenhouse gas ______ were compared in the classroom report.",
+      "answer": "emissions",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the recorded greenhouse gas ______ were compared in the classroom report.",
+      "letter": "A",
+      "rightAnswer": "emissions"
+    },
+    {
+      "id": "question-1972996-15",
+      "questionKey": "choose a, b, c or d that gives the correct word form.wind and sunlight are examples of ______ energy sources.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. Wind and sunlight are examples of ______ energy sources.",
+      "options": [
+        "renewable"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-15",
+      "questionNumber": 17,
+      "question": "Choose A, B, C or D that gives the correct word form.Wind and sunlight are examples of ______ energy sources.",
+      "answer": "renewable",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.wind and sunlight are examples of ______ energy sources.",
+      "letter": "B",
+      "rightAnswer": "renewable"
+    },
+    {
+      "id": "question-1972996-16",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the group discussed the ______ of forests from further damage.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The group discussed the ______ of forests from further damage.",
+      "options": [
+        "protection"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-16",
+      "questionNumber": 11,
+      "question": "Choose A, B, C or D that gives the correct word form.The group discussed the ______ of forests from further damage.",
+      "answer": "protection",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the group discussed the ______ of forests from further damage.",
+      "letter": "A",
+      "rightAnswer": "protection"
+    },
+    {
+      "id": "question-1972996-14",
+      "questionKey": "choose a, b, c or d that gives the correct word form.in the classroom role-play, each country selected one ______ to speak on its behalf.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. In the classroom role-play, each country selected one ______ to speak on its behalf.",
+      "options": [
+        "representative"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-14",
+      "questionNumber": 20,
+      "question": "Choose A, B, C or D that gives the correct word form.In the classroom role-play, each country selected one ______ to speak on its behalf.",
+      "answer": "representative",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.in the classroom role-play, each country selected one ______ to speak on its behalf.",
+      "letter": "B",
+      "rightAnswer": "representative"
+    },
+    {
+      "id": "18",
+      "questionKey": "choose a, b, c or d that gives the correct word form. their chart provided an accurate ______ of the collected survey responses.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. Their chart provided an accurate ______ of the collected survey responses.",
+      "options": [
+        "representation ✓ “Representation” names the presentation of information."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "18",
+      "questionNumber": 18,
+      "question": "Choose A, B, C or D that gives the correct word form. Their chart provided an accurate ______ of the collected survey responses.",
+      "answer": "representation ✓ “Representation” names the presentation of information.",
+      "dragdrops": []
+    },
+    {
+      "id": "question-1972996-18",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the diagram illustrates the ______ of methane during some farming activities.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The diagram illustrates the ______ of methane during some farming activities.",
+      "options": [
+        "emission"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-18",
+      "questionNumber": 16,
+      "question": "Choose A, B, C or D that gives the correct word form.The diagram illustrates the ______ of methane during some farming activities.",
+      "answer": "emission",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the diagram illustrates the ______ of methane during some farming activities.",
+      "letter": "A",
+      "rightAnswer": "emission"
+    },
+    {
+      "id": "question-1972996-17",
+      "questionKey": "choose a, b, c or d that gives the correct word form.the students described open waste burning as ______ harmful.",
+      "questionRaw": "Choose A, B, C or D that gives the correct word form. The students described open waste burning as ______ harmful.",
+      "options": [
+        "environmentally"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1972996-17",
+      "questionNumber": 19,
+      "question": "Choose A, B, C or D that gives the correct word form.The students described open waste burning as ______ harmful.",
+      "answer": "environmentally",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that gives the correct word form.the students described open waste burning as ______ harmful.",
+      "letter": "A",
+      "rightAnswer": "environmentally"
+    },
+    {
+      "answer": "d",
+      "id": "question-1966039-1",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "d"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "a"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "b"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "questionNumber": 1,
+          "value": "a"
+        },
+        {
+          "index": 7,
+          "questionNumber": 1,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23. which of the following best expresses the main idea of the passage?a. the ways new factories removed fairbridge's need for further public servicesb. the reasons fairbridge's workers preferred village life to regular employmentc. how fairbridge replaced its training courses with more affordable rental housingd. how population growth created opportunities and practical pressures in fairbridgewrite a, b, c, or d - {#1} question 24. the word \"converted\" in paragraph 3 is closest in meaning to ______.a. damagedb. extendedc. changedd. removedwrite a, b, c, or d - {#2} question 25. the phrase \"these changes\" in paragraph 4 refers to ______.a. the landlords providing smaller rental units in large housesb. the courses helping workers apply for more skilled employmentc. the extra classrooms and the health centre's longer opening hoursd. the factories offering regular wages to newly arrived workerswrite a, b, c, or d - {#3} question 26. according to paragraph 2, what made finding employment difficult for some arrivals?a. some applicants lacked the training needed for the jobs available.b. the employment centre offered courses only to people without jobs.c. the factories offered fewer opportunities than the town's local businesses.d. all the available jobs required applicants to complete an evening course.write a, b, c, or d - {#4} question 27. which of the following is not true according to the passage?a. some workers returned to their villages after spending weekdays in fairbridge.b. all arriving workers settled permanently in fairbridge with their families.c. the council gathers information before approving additional development in fairbridge.d. landlords divided some large houses into smaller units for rent.write a, b, c, or d - {#5} question 28. which of the following best paraphrases the bold sentence in paragraph 4?a. changing residents' working hours removed the need to adjust service timetables.b. convenient location and reasonable prices did not guarantee suitable opening hours.c. a nearby service became easier to use whenever its prices remained low.d. residents preferred distant services when nearby ones charged reasonable prices.write a, b, c, or d - {#6} question 29. what is the main purpose of paragraph 3?a. to explain the choices and financial pressures involved in finding housingb. to compare the training offered to landlords and newly arrived workersc. to show that housing costs declined as the town's population increasedd. to show why families stopped renting homes outside the central streetswrite a, b, c, or d - {#7} question 30. which planning approach is most consistent with the passage?a. replace residents' accounts with a record of the town's total population.b. count new facilities without checking when residents need to use them.c. approve more homes without examining the routes connecting them to workplaces.d. check whether service timetables match the routines of different worker groups.write a, b, c, or d - {#8}",
+      "letter": "D",
+      "options": [
+        "d"
+      ],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23. Which of the following best expresses the main idea of the passage?A. The ways new factories removed Fairbridge's need for further public servicesB. The reasons Fairbridge's workers preferred village life to regular employmentC. How Fairbridge replaced its training courses with more affordable rental housingD. How population growth created opportunities and practical pressures in FairbridgeWrite A, B, C, or D - {#1} Question 24. The word \"converted\" in paragraph 3 is closest in meaning to ______.A. damagedB. extendedC. changedD. removedWrite A, B, C, or D - {#2} Question 25. The phrase \"These changes\" in paragraph 4 refers to ______.A. the landlords providing smaller rental units in large housesB. the courses helping workers apply for more skilled employmentC. the extra classrooms and the health centre's longer opening hoursD. the factories offering regular wages to newly arrived workersWrite A, B, C, or D - {#3} Question 26. According to paragraph 2, what made finding employment difficult for some arrivals?A. Some applicants lacked the training needed for the jobs available.B. The employment centre offered courses only to people without jobs.C. The factories offered fewer opportunities than the town's local businesses.D. All the available jobs required applicants to complete an evening course.Write A, B, C, or D - {#4} Question 27. Which of the following is NOT true according to the passage?A. Some workers returned to their villages after spending weekdays in Fairbridge.B. All arriving workers settled permanently in Fairbridge with their families.C. The council gathers information before approving additional development in Fairbridge.D. Landlords divided some large houses into smaller units for rent.Write A, B, C, or D - {#5} Question 28. Which of the following best paraphrases the bold sentence in paragraph 4?A. Changing residents' working hours removed the need to adjust service timetables.B. Convenient location and reasonable prices did not guarantee suitable opening hours.C. A nearby service became easier to use whenever its prices remained low.D. Residents preferred distant services when nearby ones charged reasonable prices.Write A, B, C, or D - {#6} Question 29. What is the main purpose of paragraph 3?A. To explain the choices and financial pressures involved in finding housingB. To compare the training offered to landlords and newly arrived workersC. To show that housing costs declined as the town's population increasedD. To show why families stopped renting homes outside the central streetsWrite A, B, C, or D - {#7} Question 30. Which planning approach is most consistent with the passage?A. Replace residents' accounts with a record of the town's total population.B. Count new facilities without checking when residents need to use them.C. Approve more homes without examining the routes connecting them to workplaces.D. Check whether service timetables match the routines of different worker groups.Write A, B, C, or D - {#8}",
+      "questionId": "question-1966039-1",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23. which of the following best expresses the main idea of the passage?a. the ways new factories removed fairbridge's need for further public servicesb. the reasons fairbridge's workers preferred village life to regular employmentc. how fairbridge replaced its training courses with more affordable rental housingd. how population growth created opportunities and practical pressures in fairbridgewrite a, b, c, or d - question 24. the word \"converted\" in paragraph 3 is closest in meaning to ______.a. damagedb. extendedc. changedd. removedwrite a, b, c, or d - question 25. the phrase \"these changes\" in paragraph 4 refers to ______.a. the landlords providing smaller rental units in large housesb. the courses helping workers apply for more skilled employmentc. the extra classrooms and the health centre's longer opening hoursd. the factories offering regular wages to newly arrived workerswrite a, b, c, or d - question 26. according to paragraph 2, what made finding employment difficult for some arrivals?a. some applicants lacked the training needed for the jobs available.b. the employment centre offered courses only to people without jobs.c. the factories offered fewer opportunities than the town's local businesses.d. all the available jobs required applicants to complete an evening course.write a, b, c, or d - question 27. which of the following is not true according to the passage?a. some workers returned to their villages after spending weekdays in fairbridge.b. all arriving workers settled permanently in fairbridge with their families.c. the council gathers information before approving additional development in fairbridge.d. landlords divided some large houses into smaller units for rent.write a, b, c, or d - question 28. which of the following best paraphrases the bold sentence in paragraph 4?a. changing residents' working hours removed the need to adjust service timetables.b. convenient location and reasonable prices did not guarantee suitable opening hours.c. a nearby service became easier to use whenever its prices remained low.d. residents preferred distant services when nearby ones charged reasonable prices.write a, b, c, or d - question 29. what is the main purpose of paragraph 3?a. to explain the choices and financial pressures involved in finding housingb. to compare the training offered to landlords and newly arrived workersc. to show that housing costs declined as the town's population increasedd. to show why families stopped renting homes outside the central streetswrite a, b, c, or d - question 30. which planning approach is most consistent with the passage?a. replace residents' accounts with a record of the town's total population.b. count new facilities without checking when residents need to use them.c. approve more homes without examining the routes connecting them to workplaces.d. check whether service timetables match the routines of different worker groups.write a, b, c, or d -",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "b",
+      "id": "question-1966039-2",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "b"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "c"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "d"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "a"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "a"
+        },
+        {
+          "index": 6,
+          "questionNumber": 2,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "questionNumber": 2,
+          "value": "d"
+        },
+        {
+          "index": 8,
+          "questionNumber": 2,
+          "value": "a"
+        },
+        {
+          "index": 9,
+          "questionNumber": 2,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31. the word \"observed\" in paragraph 1 is closest in meaning to ______.a. predictedb. recordedc. preferredd. requiredwrite a, b, c, or d - {#1} question 32. how did the recorded public-transport share change across the two decades?a. it fell in 2015–2025 after rising during the preceding ten years.b. it remained unchanged in 2005–2015 before rising during the next decade.c. it rose by fewer percentage points in 2015–2025 than in 2005–2015.d. it rose by the same number of percentage points in both decades.write a, b, c, or d - {#2} question 33. the phrase \"both groups\" in paragraph 3 refers to ______.a. workers near central routes and workers living in outer districtsb. workers surveyed in 2005 and workers expected to travel in 2035c. workers using public transport and workers travelling by card. bus drivers and workers responsible for planning public transport serviceswrite a, b, c, or d - {#3} question 34. which of the following best paraphrases the bold sentence in paragraph 3?a. the rising public-transport share establishes that fewer workers travelled by car.b. the rising public-transport share does not allow the number of car users to grow.c. the rising public-transport share establishes that the number of car users stayed unchanged.d. the rising public-transport share does not establish that the number of car users fell.write a, b, c, or d - {#4} question 35. a planner wants to calculate the number of workers using public transport in 2025. which additional information would be most useful?a. the total number of workers living in mariton in 2025b. the proportion of workers using public transport during 2005c. the operating hours of buses serving mariton's outer residential districtsd. the percentage of workers expected to use public transport in 2035write a, b, c, or d - {#5} question 36. where in paragraph 2 does the following sentence best fit?the plan behind the forecast proposed more frequent buses and new routes to growing residential districts.a. [i]b. [ii]c. [iv]d. [iii]write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 4?a. to explain why workers near daytime routes should stop using public transportb. to recommend replacing daytime bus routes with services operating only at nightc. to establish that the forecast includes every worker living in an outer districtd. to illustrate how access can differ despite an increasing public-transport sharewrite a, b, c, or d - {#7} question 38. which of the following is not supported by the passage?a. the observed share of public-transport users increased between 2005 and 2025.b. routes and operating hours help explain differences in workers' transport access.c. passenger counts require information beyond the percentages given in the graph.d. the 2035 percentage records the result of a survey that has already finished.write a, b, c, or d - {#8} question 39. which of the following best summarises the passage?a. public-transport use rose as a share of workers, but forecasts and access questions require careful interpretation.b. public-transport use rose at an increasing rate, making the forecast a record of completed change.c. public-transport use rose as a share of workers, establishing that fewer workers travelled by car.d. public-transport use rose because all workers gained equally convenient routes and suitable operating hours.write a, b, c, or d - {#9} question 40. which of the following is the best title for the passage?a. how forecasts replace surveys in urban transport planningb. why mariton's workers have stopped travelling by carc. why rising transport shares prove equal access to servicesd. urban transport trends: reading the figures and their limitswrite a, b, c, or d - {#10}",
+      "letter": "B",
+      "options": [
+        "b"
+      ],
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31. The word \"observed\" in paragraph 1 is closest in meaning to ______.A. predictedB. recordedC. preferredD. requiredWrite A, B, C, or D - {#1} Question 32. How did the recorded public-transport share change across the two decades?A. It fell in 2015–2025 after rising during the preceding ten years.B. It remained unchanged in 2005–2015 before rising during the next decade.C. It rose by fewer percentage points in 2015–2025 than in 2005–2015.D. It rose by the same number of percentage points in both decades.Write A, B, C, or D - {#2} Question 33. The phrase \"both groups\" in paragraph 3 refers to ______.A. workers near central routes and workers living in outer districtsB. workers surveyed in 2005 and workers expected to travel in 2035C. workers using public transport and workers travelling by carD. bus drivers and workers responsible for planning public transport servicesWrite A, B, C, or D - {#3} Question 34. Which of the following best paraphrases the bold sentence in paragraph 3?A. The rising public-transport share establishes that fewer workers travelled by car.B. The rising public-transport share does not allow the number of car users to grow.C. The rising public-transport share establishes that the number of car users stayed unchanged.D. The rising public-transport share does not establish that the number of car users fell.Write A, B, C, or D - {#4} Question 35. A planner wants to calculate the number of workers using public transport in 2025. Which additional information would be most useful?A. The total number of workers living in Mariton in 2025B. The proportion of workers using public transport during 2005C. The operating hours of buses serving Mariton's outer residential districtsD. The percentage of workers expected to use public transport in 2035Write A, B, C, or D - {#5} Question 36. Where in paragraph 2 does the following sentence best fit?The plan behind the forecast proposed more frequent buses and new routes to growing residential districts.A. [I]B. [II]C. [IV]D. [III]Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 4?A. To explain why workers near daytime routes should stop using public transportB. To recommend replacing daytime bus routes with services operating only at nightC. To establish that the forecast includes every worker living in an outer districtD. To illustrate how access can differ despite an increasing public-transport shareWrite A, B, C, or D - {#7} Question 38. Which of the following is NOT supported by the passage?A. The observed share of public-transport users increased between 2005 and 2025.B. Routes and operating hours help explain differences in workers' transport access.C. Passenger counts require information beyond the percentages given in the graph.D. The 2035 percentage records the result of a survey that has already finished.Write A, B, C, or D - {#8} Question 39. Which of the following best summarises the passage?A. Public-transport use rose as a share of workers, but forecasts and access questions require careful interpretation.B. Public-transport use rose at an increasing rate, making the forecast a record of completed change.C. Public-transport use rose as a share of workers, establishing that fewer workers travelled by car.D. Public-transport use rose because all workers gained equally convenient routes and suitable operating hours.Write A, B, C, or D - {#9} Question 40. Which of the following is the best title for the passage?A. How Forecasts Replace Surveys in Urban Transport PlanningB. Why Mariton's Workers Have Stopped Travelling by CarC. Why Rising Transport Shares Prove Equal Access to ServicesD. Urban Transport Trends: Reading the Figures and Their LimitsWrite A, B, C, or D - {#10}",
+      "questionId": "question-1966039-2",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31. the word \"observed\" in paragraph 1 is closest in meaning to ______.a. predictedb. recordedc. preferredd. requiredwrite a, b, c, or d - question 32. how did the recorded public-transport share change across the two decades?a. it fell in 2015–2025 after rising during the preceding ten years.b. it remained unchanged in 2005–2015 before rising during the next decade.c. it rose by fewer percentage points in 2015–2025 than in 2005–2015.d. it rose by the same number of percentage points in both decades.write a, b, c, or d - question 33. the phrase \"both groups\" in paragraph 3 refers to ______.a. workers near central routes and workers living in outer districtsb. workers surveyed in 2005 and workers expected to travel in 2035c. workers using public transport and workers travelling by card. bus drivers and workers responsible for planning public transport serviceswrite a, b, c, or d - question 34. which of the following best paraphrases the bold sentence in paragraph 3?a. the rising public-transport share establishes that fewer workers travelled by car.b. the rising public-transport share does not allow the number of car users to grow.c. the rising public-transport share establishes that the number of car users stayed unchanged.d. the rising public-transport share does not establish that the number of car users fell.write a, b, c, or d - question 35. a planner wants to calculate the number of workers using public transport in 2025. which additional information would be most useful?a. the total number of workers living in mariton in 2025b. the proportion of workers using public transport during 2005c. the operating hours of buses serving mariton's outer residential districtsd. the percentage of workers expected to use public transport in 2035write a, b, c, or d - question 36. where in paragraph 2 does the following sentence best fit?the plan behind the forecast proposed more frequent buses and new routes to growing residential districts.a. [i]b. [ii]c. [iv]d. [iii]write a, b, c, or d - question 37. what is the main purpose of paragraph 4?a. to explain why workers near daytime routes should stop using public transportb. to recommend replacing daytime bus routes with services operating only at nightc. to establish that the forecast includes every worker living in an outer districtd. to illustrate how access can differ despite an increasing public-transport sharewrite a, b, c, or d - question 38. which of the following is not supported by the passage?a. the observed share of public-transport users increased between 2005 and 2025.b. routes and operating hours help explain differences in workers' transport access.c. passenger counts require information beyond the percentages given in the graph.d. the 2035 percentage records the result of a survey that has already finished.write a, b, c, or d - question 39. which of the following best summarises the passage?a. public-transport use rose as a share of workers, but forecasts and access questions require careful interpretation.b. public-transport use rose at an increasing rate, making the forecast a record of completed change.c. public-transport use rose as a share of workers, establishing that fewer workers travelled by car.d. public-transport use rose because all workers gained equally convenient routes and suitable operating hours.write a, b, c, or d - question 40. which of the following is the best title for the passage?a. how forecasts replace surveys in urban transport planningb. why mariton's workers have stopped travelling by carc. why rising transport shares prove equal access to servicesd. urban transport trends: reading the figures and their limitswrite a, b, c, or d -",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "hire and pay someone",
+      "id": "question-1966096-4",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the shop plans to employ two new assistants to welcome customers and organise products.",
+      "letter": "A",
+      "options": [
+        "hire and pay someone"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The shop plans to employ two new assistants to welcome customers and organise products.",
+      "questionId": "question-1966096-4",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the shop plans to employ two new assistants to welcome customers and organise products.",
+      "questionNumber": 1,
+      "rightAnswer": "The correct answer is: hire and pay someone",
+      "selects": []
+    },
+    {
+      "answer": "work offered irregularly or for short periods",
+      "id": "question-1966096-10",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the shop contacts minh when it needs extra help for short periods. it does not offer him a permanent position. his employment is casual.",
+      "letter": "B",
+      "options": [
+        "work offered irregularly or for short periods"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The shop contacts Minh when it needs extra help for short periods. It does not offer him a permanent position. His employment is casual.",
+      "questionId": "question-1966096-10",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the shop contacts minh when it needs extra help for short periods. it does not offer him a permanent position. his employment is casual.",
+      "questionNumber": 2,
+      "rightAnswer": "The correct answer is: work offered irregularly or for short periods",
+      "selects": []
+    },
+    {
+      "answer": "a person who formally asks to be considered for a position",
+      "id": "question-1966096-13",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.after sending her application letter and cv, linh waits to hear whether she will be invited for an interview. she is an applicant.",
+      "letter": "C",
+      "options": [
+        "a person who formally asks to be considered for a position"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.After sending her application letter and CV, Linh waits to hear whether she will be invited for an interview. She is an applicant.",
+      "questionId": "question-1966096-13",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.after sending her application letter and cv, linh waits to hear whether she will be invited for an interview. she is an applicant.",
+      "questionNumber": 3,
+      "rightAnswer": "The correct answer is: a person who formally asks to be considered for a position",
+      "selects": []
+    },
+    {
+      "answer": "am pleased at the prospect of receiving",
+      "id": "question-1966096-15",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.at the end of her application letter, lan writes, \"i look forward to hearing from you.\"",
+      "letter": "A",
+      "options": [
+        "am pleased at the prospect of receiving"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.At the end of her application letter, Lan writes, \"I look forward to hearing from you.\"",
+      "questionId": "question-1966096-15",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.at the end of her application letter, lan writes, \"i look forward to hearing from you.\"",
+      "questionNumber": 4,
+      "rightAnswer": "The correct answer is: am pleased at the prospect of receiving",
+      "selects": []
+    },
+    {
+      "answer": "the amount of money paid for each working hour",
+      "id": "question-1966096-14",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the café calculates a server's basic pay by multiplying the hours worked by the hourly wage.",
+      "letter": "D",
+      "options": [
+        "the amount of money paid for each working hour"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The café calculates a server's basic pay by multiplying the hours worked by the hourly wage.",
+      "questionId": "question-1966096-14",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the café calculates a server's basic pay by multiplying the hours worked by the hourly wage.",
+      "questionNumber": 5,
+      "rightAnswer": "The correct answer is: the amount of money paid for each working hour",
+      "selects": []
+    },
+    {
+      "answer": "a period of learning an occupation while working",
+      "id": "question-1966096-6",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.during his apprenticeship, nam works alongside experienced staff and gradually learns how to carry out the occupation.",
+      "letter": "B",
+      "options": [
+        "a period of learning an occupation while working"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.During his apprenticeship, Nam works alongside experienced staff and gradually learns how to carry out the occupation.",
+      "questionId": "question-1966096-6",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.during his apprenticeship, nam works alongside experienced staff and gradually learns how to carry out the occupation.",
+      "questionNumber": 6,
+      "rightAnswer": "The correct answer is: a period of learning an occupation while working",
+      "selects": []
+    },
+    {
+      "answer": "difficult but stimulating",
+      "id": "question-1966096-1",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.as a teaching assistant, mai cannot use the same explanation with every child. she often has to find a new way to help a pupil understand. she finds the work challenging.",
+      "letter": "C",
+      "options": [
+        "difficult but stimulating"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.As a teaching assistant, Mai cannot use the same explanation with every child. She often has to find a new way to help a pupil understand. She finds the work challenging.",
+      "questionId": "question-1966096-1",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.as a teaching assistant, mai cannot use the same explanation with every child. she often has to find a new way to help a pupil understand. she finds the work challenging.",
+      "questionNumber": 7,
+      "rightAnswer": "The correct answer is: difficult but stimulating",
+      "selects": []
+    },
+    {
+      "answer": "instruction received at the workplace while performing tasks",
+      "id": "question-1966096-9",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.on her first working days, a new server practises taking orders while an experienced colleague guides her. this is on-the-job training.",
+      "letter": "D",
+      "options": [
+        "instruction received at the workplace while performing tasks"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.On her first working days, a new server practises taking orders while an experienced colleague guides her. This is on-the-job training.",
+      "questionId": "question-1966096-9",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.on her first working days, a new server practises taking orders while an experienced colleague guides her. this is on-the-job training.",
+      "questionNumber": 8,
+      "rightAnswer": "The correct answer is: instruction received at the workplace while performing tasks",
+      "selects": []
+    },
+    {
+      "answer": "a necessary condition for the position",
+      "id": "question-1966096-12",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the advertisement states that applicants must have a relevant academic qualification. this is a requirement.",
+      "letter": "D",
+      "options": [
+        "a necessary condition for the position"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The advertisement states that applicants must have a relevant academic qualification. This is a requirement.",
+      "questionId": "question-1966096-12",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the advertisement states that applicants must have a relevant academic qualification. this is a requirement.",
+      "questionNumber": 9,
+      "rightAnswer": "The correct answer is: a necessary condition for the position",
+      "selects": []
+    },
+    {
+      "answer": "a duty that someone is expected to perform",
+      "id": "question-1966096-11",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.recording customers' orders accurately is one of a server's responsibilities.",
+      "letter": "B",
+      "options": [
+        "a duty that someone is expected to perform"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.Recording customers' orders accurately is one of a server's responsibilities.",
+      "questionId": "question-1966096-11",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.recording customers' orders accurately is one of a server's responsibilities.",
+      "questionNumber": 10,
+      "rightAnswer": "The correct answer is: a duty that someone is expected to perform",
+      "selects": []
+    },
+    {
+      "answer": "adaptable to different needs or circumstances",
+      "id": "question-1966096-7",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the employer offers flexible working hours. with agreement, students can change their schedule when their class timetable changes.",
+      "letter": "C",
+      "options": [
+        "adaptable to different needs or circumstances"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The employer offers flexible working hours. With agreement, students can change their schedule when their class timetable changes.",
+      "questionId": "question-1966096-7",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the employer offers flexible working hours. with agreement, students can change their schedule when their class timetable changes.",
+      "questionNumber": 11,
+      "rightAnswer": "The correct answer is: adaptable to different needs or circumstances",
+      "selects": []
+    },
+    {
+      "answer": "extra money paid as a reward",
+      "id": "question-1966096-3",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the company pays employees their regular salary each month. those who achieve their performance goals also receive a bonus.",
+      "letter": "A",
+      "options": [
+        "extra money paid as a reward"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The company pays employees their regular salary each month. Those who achieve their performance goals also receive a bonus.",
+      "questionId": "question-1966096-3",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the company pays employees their regular salary each month. those who achieve their performance goals also receive a bonus.",
+      "questionNumber": 12,
+      "rightAnswer": "The correct answer is: extra money paid as a reward",
+      "selects": []
+    },
+    {
+      "answer": "experience directly connected with the position",
+      "id": "question-1966096-2",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the teaching-assistant advertisement asks for experience with children. lan includes her volunteer work at a children's reading club because it is relevant experience.",
+      "letter": "B",
+      "options": [
+        "experience directly connected with the position"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The teaching-assistant advertisement asks for experience with children. Lan includes her volunteer work at a children's reading club because it is relevant experience.",
+      "questionId": "question-1966096-2",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the teaching-assistant advertisement asks for experience with children. lan includes her volunteer work at a children's reading club because it is relevant experience.",
+      "questionNumber": 13,
+      "rightAnswer": "The correct answer is: experience directly connected with the position",
+      "selects": []
+    },
+    {
+      "answer": "an article giving an opinion about a product",
+      "id": "question-1966096-8",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the product tester writes a review explaining which features of the device work well and which need improvement.",
+      "letter": "A",
+      "options": [
+        "an article giving an opinion about a product"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.The product tester writes a review explaining which features of the device work well and which need improvement.",
+      "questionId": "question-1966096-8",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.the product tester writes a review explaining which features of the device work well and which need improvement.",
+      "questionNumber": 14,
+      "rightAnswer": "The correct answer is: an article giving an opinion about a product",
+      "selects": []
+    },
+    {
+      "answer": "personally satisfying",
+      "id": "question-1966096-5",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.although the volunteer position is unpaid, hoa finds it rewarding when the children she helps become more confident readers.",
+      "letter": "A",
+      "options": [
+        "personally satisfying"
+      ],
+      "question": "Choose A, B, C, or D to show the meaning of the bold word or phrase in each context.Although the volunteer position is unpaid, Hoa finds it rewarding when the children she helps become more confident readers.",
+      "questionId": "question-1966096-5",
+      "questionKey": "choose a, b, c, or d to show the meaning of the bold word or phrase in each context.although the volunteer position is unpaid, hoa finds it rewarding when the children she helps become more confident readers.",
+      "questionNumber": 15,
+      "rightAnswer": "The correct answer is: personally satisfying",
+      "selects": []
+    },
+    {
+      "answer": "easy",
+      "id": "question-1966096-18",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.learning to explain unfamiliar product features can be challenging for a new shop assistant.",
+      "letter": "D",
+      "options": [
+        "easy"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Learning to explain unfamiliar product features can be challenging for a new shop assistant.",
+      "questionId": "question-1966096-18",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.learning to explain unfamiliar product features can be challenging for a new shop assistant.",
+      "questionNumber": 16,
+      "rightAnswer": "The correct answer is: easy",
+      "selects": []
+    },
+    {
+      "answer": "fixed",
+      "id": "question-1966096-17",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.the shop offers flexible working hours that employees can adjust by agreement.",
+      "letter": "B",
+      "options": [
+        "fixed"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.The shop offers flexible working hours that employees can adjust by agreement.",
+      "questionId": "question-1966096-17",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.the shop offers flexible working hours that employees can adjust by agreement.",
+      "questionNumber": 17,
+      "rightAnswer": "The correct answer is: fixed",
+      "selects": []
+    },
+    {
+      "answer": "unsatisfying",
+      "id": "question-1966096-20",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.helping children become confident readers makes the volunteer role rewarding.",
+      "letter": "C",
+      "options": [
+        "unsatisfying"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Helping children become confident readers makes the volunteer role rewarding.",
+      "questionId": "question-1966096-20",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.helping children become confident readers makes the volunteer role rewarding.",
+      "questionNumber": 18,
+      "rightAnswer": "The correct answer is: unsatisfying",
+      "selects": []
+    },
+    {
+      "answer": "close off",
+      "id": "question-1966096-25",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.developing communication skills may open up future job opportunities.",
+      "letter": "C",
+      "options": [
+        "close off"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Developing communication skills may open up future job opportunities.",
+      "questionId": "question-1966096-25",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.developing communication skills may open up future job opportunities.",
+      "questionNumber": 19,
+      "rightAnswer": "The correct answer is: close off",
+      "selects": []
+    },
+    {
+      "answer": "permanent",
+      "id": "question-1966096-23",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.minh does casual work when the shop needs extra help for short periods.",
+      "letter": "B",
+      "options": [
+        "permanent"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Minh does casual work when the shop needs extra help for short periods.",
+      "questionId": "question-1966096-23",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.minh does casual work when the shop needs extra help for short periods.",
+      "questionNumber": 20,
+      "rightAnswer": "The correct answer is: permanent",
+      "selects": []
+    },
+    {
+      "answer": "continue",
+      "id": "question-1966096-24",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.nam considered whether to give up his work as an accountant.",
+      "letter": "A",
+      "options": [
+        "continue"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Nam considered whether to give up his work as an accountant.",
+      "questionId": "question-1966096-24",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.nam considered whether to give up his work as an accountant.",
+      "questionNumber": 21,
+      "rightAnswer": "The correct answer is: continue",
+      "selects": []
+    },
+    {
+      "answer": "undemanding",
+      "id": "question-1966096-19",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.the position is demanding because staff must maintain accuracy while dealing with many requests.",
+      "letter": "C",
+      "options": [
+        "undemanding"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.The position is demanding because staff must maintain accuracy while dealing with many requests.",
+      "questionId": "question-1966096-19",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.the position is demanding because staff must maintain accuracy while dealing with many requests.",
+      "questionNumber": 22,
+      "rightAnswer": "The correct answer is: undemanding",
+      "selects": []
+    },
+    {
+      "answer": "poorly paid",
+      "id": "question-1966096-21",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.nam hopes to find a well-paid position after completing his training.",
+      "letter": "C",
+      "options": [
+        "poorly paid"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Nam hopes to find a well-paid position after completing his training.",
+      "questionId": "question-1966096-21",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.nam hopes to find a well-paid position after completing his training.",
+      "questionNumber": 23,
+      "rightAnswer": "The correct answer is: poorly paid",
+      "selects": []
+    },
+    {
+      "answer": "unrelated",
+      "id": "question-1966096-16",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.lan's experience helping children is relevant to the teaching-assistant position.",
+      "letter": "B",
+      "options": [
+        "unrelated"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Lan's experience helping children is relevant to the teaching-assistant position.",
+      "questionId": "question-1966096-16",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.lan's experience helping children is relevant to the teaching-assistant position.",
+      "questionNumber": 24,
+      "rightAnswer": "The correct answer is: unrelated",
+      "selects": []
+    },
+    {
+      "answer": "full-time",
+      "id": "question-1966096-22",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.hoa wants a part-time job so that she can continue attending her classes.",
+      "letter": "D",
+      "options": [
+        "full-time"
+      ],
+      "question": "Choose A, B, C, or D that is opposite in meaning to the bold word or phrase in its context.Hoa wants a part-time job so that she can continue attending her classes.",
+      "questionId": "question-1966096-22",
+      "questionKey": "choose a, b, c, or d that is opposite in meaning to the bold word or phrase in its context.hoa wants a part-time job so that she can continue attending her classes.",
+      "questionNumber": 25,
+      "rightAnswer": "The correct answer is: full-time",
+      "selects": []
+    }
+  ]
+}
