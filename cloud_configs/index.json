@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 19:33:10",
+  "updated_at": "2026-11-15 19:33:16",
   "total_configs": 81,
   "configs": [
     {
@@ -1335,24 +1335,6 @@
       "updated_at": "2026-11-15 19:15:10"
     },
     {
-      "account_name": "Vũ Thị Mỹ Chi",
-      "class_name": "Khối 12 (LGK LC-Lớp 12TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 12TN (2026-2027)",
-      "class_key": "khoi_12",
-      "grade_num": "12",
-      "unit_name": "SESSION 4_EXERCISES 34-48",
-      "unit_key": "session_4_exercises_34_48",
-      "quiz_title": "GR12EX48MOET",
-      "quiz_key": "gr12ex48moet",
-      "cmid": "746657",
-      "course_id": "11364",
-      "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex48moet.json",
-      "score": "20.00/20.00",
-      "score_pct": 100.0,
-      "question_count": 83,
-      "updated_at": "2026-11-15 19:15:26"
-    },
-    {
       "account_name": "Huỳnh Lê Phong Linh",
       "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
@@ -1459,6 +1441,24 @@
       "score_pct": 100.0,
       "question_count": 20,
       "updated_at": "2026-11-15 19:33:10"
+    },
+    {
+      "account_name": "Huỳnh Lê Phong Linh",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR12EX48MOET",
+      "quiz_key": "gr12ex48moet",
+      "cmid": "746662",
+      "course_id": "9692",
+      "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex48moet.json",
+      "score": "100.0%",
+      "score_pct": 100.0,
+      "question_count": 83,
+      "updated_at": "2026-11-15 19:33:16"
     }
   ]
 }
