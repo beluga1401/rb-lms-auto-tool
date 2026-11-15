@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-15 19:15:26",
-  "total_configs": 79,
+  "updated_at": "2026-11-15 19:24:55",
+  "total_configs": 80,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -1423,6 +1423,24 @@
       "score_pct": 100.0,
       "question_count": 83,
       "updated_at": "2026-11-15 19:15:26"
+    },
+    {
+      "account_name": "Huỳnh Lê Phong Linh",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR12EX45MOET UNIT 4 PRACTICE TEST 2 PART 1",
+      "quiz_key": "gr12ex45moet_unit_4_practice_test_2_part_1",
+      "cmid": "745388",
+      "course_id": "9692",
+      "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex45moet_unit_4_practice_test_2_part_1.json",
+      "score": "22.00/22.00",
+      "score_pct": 100.0,
+      "question_count": 44,
+      "updated_at": "2026-11-15 19:24:55"
     }
   ]
 }
