@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Vũ Thị Mỹ Chi",
-    "class_name": "Khối 12 (LGK LC-Lớp 12TN (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 12TN (2026-2027)",
+    "account_name": "Huỳnh Lê Phong Linh",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
     "class_key": "khoi_12",
     "grade_num": "12",
     "unit_name": "SESSION 4_EXERCISES 34-48",
     "unit_key": "session_4_exercises_34_48",
     "quiz_title": "GR12EX48MOET",
     "quiz_key": "gr12ex48moet",
-    "cmid": "746657",
-    "course_id": "11364",
+    "cmid": "746662",
+    "course_id": "9692",
     "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex48moet.json",
-    "score": "20.00/20.00",
+    "score": "100.0%",
     "score_pct": 100.0,
     "question_count": 83,
-    "updated_at": "2026-11-15 19:15:26"
+    "updated_at": "2026-11-15 19:33:16"
   },
   "answers": [
     {
@@ -928,7 +928,7 @@
     },
     {
       "answer": "build",
-      "id": "question-1966348-2",
+      "id": "question-1973114-2",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.staff who listen carefully and cooperate with colleagues can ______ good working relationships.",
       "letter": "D",
@@ -936,80 +936,84 @@
         "build"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.Staff who listen carefully and cooperate with colleagues can ______ good working relationships.",
-      "questionId": "question-1966348-2",
+      "questionId": "question-1973114-2",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.staff who listen carefully and cooperate with colleagues can ______ good working relationships.",
-      "questionNumber": 1,
+      "questionNumber": 3,
       "rightAnswer": "The correct answer is: build",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "hourly",
-      "id": "question-1966348-7",
+      "id": "question-1973114-7",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the advertisement states an ______ wage, so applicants can calculate their basic pay from the number of hours worked.",
-      "letter": "B",
+      "letter": "C",
       "options": [
         "hourly"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.The advertisement states an ______ wage, so applicants can calculate their basic pay from the number of hours worked.",
-      "questionId": "question-1966348-7",
+      "questionId": "question-1973114-7",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the advertisement states an ______ wage, so applicants can calculate their basic pay from the number of hours worked.",
-      "questionNumber": 2,
+      "questionNumber": 7,
       "rightAnswer": "The correct answer is: hourly",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "qualification",
-      "id": "question-1966348-8",
+      "id": "question-1973114-8",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.an official certificate gained after completing a course of study is an academic ______.",
-      "letter": "B",
+      "letter": "C",
       "options": [
         "qualification"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.An official certificate gained after completing a course of study is an academic ______.",
-      "questionId": "question-1966348-8",
+      "questionId": "question-1973114-8",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.an official certificate gained after completing a course of study is an academic ______.",
-      "questionNumber": 3,
+      "questionNumber": 6,
       "rightAnswer": "The correct answer is: qualification",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "hearing",
-      "id": "question-1966348-10",
+      "id": "question-1973114-10",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.at the end of her application letter, hoa writes, \"i look forward to ______ from you.\"",
-      "letter": "A",
+      "letter": "D",
       "options": [
-        "hearing",
-        "hear"
+        "hearing"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.At the end of her application letter, Hoa writes, \"I look forward to ______ from you.\"",
-      "questionId": "question-1966348-10",
+      "questionId": "question-1973114-10",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.at the end of her application letter, hoa writes, \"i look forward to ______ from you.\"",
-      "questionNumber": 4,
+      "questionNumber": 9,
       "rightAnswer": "The correct answer is: hearing",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "work overtime",
-      "id": "question-1966348-1",
+      "id": "question-1973114-1",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the accountant normally finishes at five, but he stays until seven to complete urgent financial records. on these days, he has to ______.",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "work overtime"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.The accountant normally finishes at five, but he stays until seven to complete urgent financial records. On these days, he has to ______.",
-      "questionId": "question-1966348-1",
+      "questionId": "question-1973114-1",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the accountant normally finishes at five, but he stays until seven to complete urgent financial records. on these days, he has to ______.",
       "questionNumber": 5,
       "rightAnswer": "The correct answer is: work overtime",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "vacancy",
-      "id": "question-1966348-3",
+      "id": "question-1973114-3",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the shop has advertised an available position because it needs to fill a ______.",
       "letter": "C",
@@ -1017,15 +1021,16 @@
         "vacancy"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.The shop has advertised an available position because it needs to fill a ______.",
-      "questionId": "question-1966348-3",
+      "questionId": "question-1973114-3",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the shop has advertised an available position because it needs to fill a ______.",
-      "questionNumber": 6,
+      "questionNumber": 8,
       "rightAnswer": "The correct answer is: vacancy",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "on",
-      "id": "question-1966348-9",
+      "id": "question-1973114-9",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the café needs servers who can wait ______ customers politely and bring them food and drinks.",
       "letter": "D",
@@ -1033,11 +1038,12 @@
         "on"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.The café needs servers who can wait ______ customers politely and bring them food and drinks.",
-      "questionId": "question-1966348-9",
+      "questionId": "question-1973114-9",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the café needs servers who can wait ______ customers politely and bring them food and drinks.",
-      "questionNumber": 7,
+      "questionNumber": 10,
       "rightAnswer": "The correct answer is: on",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "take",
@@ -1057,23 +1063,24 @@
     },
     {
       "answer": "shift",
-      "id": "question-1966348-6",
+      "id": "question-1973114-6",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the factory worker sleeps during the day because he is working the night ______.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "shift"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.The factory worker sleeps during the day because he is working the night ______.",
-      "questionId": "question-1966348-6",
+      "questionId": "question-1973114-6",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.the factory worker sleeps during the day because he is working the night ______.",
-      "questionNumber": 9,
+      "questionNumber": 4,
       "rightAnswer": "The correct answer is: shift",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "displays",
-      "id": "question-1966348-4",
+      "id": "question-1973114-4",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.one responsibility of a shop assistant is to arrange window ______ so that products are presented attractively.",
       "letter": "C",
@@ -1081,11 +1088,12 @@
         "displays"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the most appropriate expression.One responsibility of a shop assistant is to arrange window ______ so that products are presented attractively.",
-      "questionId": "question-1966348-4",
+      "questionId": "question-1973114-4",
       "questionKey": "choose a, b, c, or d to complete each sentence with the most appropriate expression.one responsibility of a shop assistant is to arrange window ______ so that products are presented attractively.",
-      "questionNumber": 10,
+      "questionNumber": 1,
       "rightAnswer": "The correct answer is: displays",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "manage",
@@ -1106,39 +1114,41 @@
     },
     {
       "answer": "employ",
-      "id": "question-1966348-11",
+      "id": "question-1973114-11",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.the company has decided to ______ two more factory workers to meet its production targets.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "employ"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.The company has decided to ______ two more factory workers to meet its production targets.",
-      "questionId": "question-1966348-11",
+      "questionId": "question-1973114-11",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.the company has decided to ______ two more factory workers to meet its production targets.",
-      "questionNumber": 12,
+      "questionNumber": 17,
       "rightAnswer": "The correct answer is: employ",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "qualified",
-      "id": "question-1966348-19",
+      "id": "question-1973114-19",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.linh meets all the stated requirements, so the employer considers her ______ for the position.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "qualified"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.Linh meets all the stated requirements, so the employer considers her ______ for the position.",
-      "questionId": "question-1966348-19",
+      "questionId": "question-1973114-19",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.linh meets all the stated requirements, so the employer considers her ______ for the position.",
-      "questionNumber": 13,
+      "questionNumber": 15,
       "rightAnswer": "The correct answer is: qualified",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "relevant",
-      "id": "question-1966348-13",
+      "id": "question-1973114-13",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.nam's previous restaurant experience is ______ to the server position because it involved similar duties.",
       "letter": "C",
@@ -1146,28 +1156,29 @@
         "relevant"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.Nam's previous restaurant experience is ______ to the server position because it involved similar duties.",
-      "questionId": "question-1966348-13",
+      "questionId": "question-1973114-13",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.nam's previous restaurant experience is ______ to the server position because it involved similar duties.",
       "questionNumber": 14,
       "rightAnswer": "The correct answer is: relevant",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "stressed",
-      "id": "question-1966348-17",
+      "id": "question-1973114-17",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.before the interview, hoa felt very ______: she was worried, could not concentrate, and found it difficult to relax.",
-      "letter": "B",
+      "letter": "A",
       "options": [
-        "stressed",
-        "stress"
+        "stressed"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.Before the interview, Hoa felt very ______: she was worried, could not concentrate, and found it difficult to relax.",
-      "questionId": "question-1966348-17",
+      "questionId": "question-1973114-17",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.before the interview, hoa felt very ______: she was worried, could not concentrate, and found it difficult to relax.",
-      "questionNumber": 15,
+      "questionNumber": 16,
       "rightAnswer": "The correct answer is: stressed",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "require",
@@ -1188,67 +1199,71 @@
     },
     {
       "answer": "communication",
-      "id": "question-1966348-18",
+      "id": "question-1973114-18",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.the receptionist's role requires clear ______ with customers and colleagues.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "communication"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.The receptionist's role requires clear ______ with customers and colleagues.",
-      "questionId": "question-1966348-18",
+      "questionId": "question-1973114-18",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.the receptionist's role requires clear ______ with customers and colleagues.",
-      "questionNumber": 17,
+      "questionNumber": 18,
       "rightAnswer": "The correct answer is: communication",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "repetitive",
-      "id": "question-1966348-16",
+      "id": "question-1973114-16",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.some factory duties are highly ______ because workers perform the same actions many times.",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "repetitive"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.Some factory duties are highly ______ because workers perform the same actions many times.",
-      "questionId": "question-1966348-16",
+      "questionId": "question-1973114-16",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.some factory duties are highly ______ because workers perform the same actions many times.",
-      "questionNumber": 18,
+      "questionNumber": 11,
       "rightAnswer": "The correct answer is: repetitive",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "responsibly",
-      "id": "question-1966348-14",
+      "id": "question-1973114-14",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.the supervisor expects staff to act ______ when handling customers' requests and checking order details.",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "responsibly"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.The supervisor expects staff to act ______ when handling customers' requests and checking order details.",
-      "questionId": "question-1966348-14",
+      "questionId": "question-1973114-14",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.the supervisor expects staff to act ______ when handling customers' requests and checking order details.",
-      "questionNumber": 19,
+      "questionNumber": 20,
       "rightAnswer": "The correct answer is: responsibly",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     },
     {
       "answer": "application",
-      "id": "question-1966348-12",
+      "id": "question-1973114-12",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence with the correct word form.after reading the advertisement, lan submitted her ______ together with her cv.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "application"
       ],
       "question": "Choose A, B, C, or D to complete each sentence with the correct word form.After reading the advertisement, Lan submitted her ______ together with her CV.",
-      "questionId": "question-1966348-12",
+      "questionId": "question-1973114-12",
       "questionKey": "choose a, b, c, or d to complete each sentence with the correct word form.after reading the advertisement, lan submitted her ______ together with her cv.",
-      "questionNumber": 20,
+      "questionNumber": 19,
       "rightAnswer": "The correct answer is: application",
-      "selects": []
+      "selects": [],
+      "verified_100": true
     }
   ]
 }
