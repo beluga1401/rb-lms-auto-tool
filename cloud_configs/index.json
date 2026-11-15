@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 19:25:33",
+  "updated_at": "2026-11-15 19:25:44",
   "total_configs": 81,
   "configs": [
     {
@@ -1378,24 +1378,6 @@
       "grade_num": "12",
       "unit_name": "SESSION 4_EXERCISES 34-48",
       "unit_key": "session_4_exercises_34_48",
-      "quiz_title": "GR12EX46MOET UNIT 4 PRACTICE TEST 2 PART 2",
-      "quiz_key": "gr12ex46moet_unit_4_practice_test_2_part_2",
-      "cmid": "745385",
-      "course_id": "11364",
-      "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex46moet_unit_4_practice_test_2_part_2.json",
-      "score": "18.00/18.00",
-      "score_pct": 100.0,
-      "question_count": 38,
-      "updated_at": "2026-11-15 19:14:56"
-    },
-    {
-      "account_name": "Vũ Thị Mỹ Chi",
-      "class_name": "Khối 12 (LGK LC-Lớp 12TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 12TN (2026-2027)",
-      "class_key": "khoi_12",
-      "grade_num": "12",
-      "unit_name": "SESSION 4_EXERCISES 34-48",
-      "unit_key": "session_4_exercises_34_48",
       "quiz_title": "GR12EX47MOET",
       "quiz_key": "gr12ex47moet",
       "cmid": "746656",
@@ -1459,6 +1441,24 @@
       "score_pct": 100.0,
       "question_count": 44,
       "updated_at": "2026-11-15 19:25:33"
+    },
+    {
+      "account_name": "Huỳnh Lê Phong Linh",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR12EX46MOET UNIT 4 PRACTICE TEST 2 PART 2",
+      "quiz_key": "gr12ex46moet_unit_4_practice_test_2_part_2",
+      "cmid": "745389",
+      "course_id": "9692",
+      "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex46moet_unit_4_practice_test_2_part_2.json",
+      "score": "18.00/18.00",
+      "score_pct": 100.0,
+      "question_count": 56,
+      "updated_at": "2026-11-15 19:25:44"
     }
   ]
 }
