@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "account_name": "Huỳnh Lê Phong Linh",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR12EX45MOET UNIT 4 PRACTICE TEST 2 PART 1",
+    "quiz_key": "gr12ex45moet_unit_4_practice_test_2_part_1",
+    "cmid": "745388",
+    "course_id": "9692",
+    "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex45moet_unit_4_practice_test_2_part_1.json",
+    "score": "22.00/22.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-15 19:24:55"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following notice and choose the best answer to indicate the option that best fits each numbered blank. housing advice for new residents the lakeside council has opened a housing advice desk for people moving into the district. advisers can help families find (1) homes and compare rent with other living costs. since the district expanded, two apartment buildings (2) beside the railway station. a reliable bus (3) connects the station with the hospital and the industrial area. the farther a home is from someone’s workplace, (4) the daily journey may take. before signing a rental agreement, check travel times during periods of heavy traffic. road (5) can make a short journey surprisingly slow. the desk provides useful information. (6) , it cannot promise that a suitable flat will be available immediately. please bring details of your budget and preferred location.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank. HOUSING ADVICE FOR NEW RESIDENTS The Lakeside council has opened a housing advice desk for people moving into the district. Advisers can help families find (1) {#1} homes and compare rent with other living costs. Since the district expanded, two apartment buildings (2) {#2} beside the railway station. A reliable bus (3) {#3} connects the station with the hospital and the industrial area. The farther a home is from someone’s workplace, (4) {#4} the daily journey may take. Before signing a rental agreement, check travel times during periods of heavy traffic. Road (5) {#5} can make a short journey surprisingly slow. The desk provides useful information. (6) {#6}, it cannot promise that a suitable flat will be available immediately. Please bring details of your budget and preferred location.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "affordable"
+        },
+        {
+          "index": 1,
+          "value": "have been built"
+        },
+        {
+          "index": 2,
+          "value": "service"
+        },
+        {
+          "index": 3,
+          "value": "the longer"
+        },
+        {
+          "index": 4,
+          "value": "congestion"
+        },
+        {
+          "index": 5,
+          "value": "However"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank. HOUSING ADVICE FOR NEW RESIDENTS The Lakeside council has opened a housing advice desk for people moving into the district. Advisers can help families find (1) {#1} homes and compare rent with other living costs. Since the district expanded, two apartment buildings (2) {#2} beside the railway station. A reliable bus (3) {#3} connects the station with the hospital and the industrial area. The farther a home is from someone’s workplace, (4) {#4} the daily journey may take. Before signing a rental agreement, check travel times during periods of heavy traffic. Road (5) {#5} can make a short journey surprisingly slow. The desk provides useful information. (6) {#6}, it cannot promise that a suitable flat will be available immediately. Please bring details of your budget and preferred location.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following advice and choose the best answer to indicate the option that best fits each numbered blank. planning a move to the city finding a job is only one part of moving to a city. new arrivals also need somewhere to live and a realistic plan for daily expenses. one worker at our advice centre explained, “i (7) here since january, and this is the most useful housing information i (8) .” as more people compete for a limited number of homes, flats are getting (9) for workers on low incomes to afford. a housing (10) can force some families to share accommodation or live farther from their jobs. many people move to urban areas to (11) employment. compare likely earnings with rent, food and transport costs, (12) you can judge whether the move fits your circumstances.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following advice and choose the best answer to indicate the option that best fits each numbered blank. PLANNING A MOVE TO THE CITY Finding a job is only one part of moving to a city. New arrivals also need somewhere to live and a realistic plan for daily expenses. One worker at our advice centre explained, “I (7) {#1} here since January, and this is the most useful housing information I (8) {#2}.” As more people compete for a limited number of homes, flats are getting (9) {#3} for workers on low incomes to afford. A housing (10) {#4} can force some families to share accommodation or live farther from their jobs. Many people move to urban areas to (11) {#5} employment. Compare likely earnings with rent, food and transport costs, (12) {#6} you can judge whether the move fits your circumstances.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "have lived"
+        },
+        {
+          "index": 1,
+          "value": "have ever received"
+        },
+        {
+          "index": 2,
+          "value": "harder and harder"
+        },
+        {
+          "index": 3,
+          "value": "shortage"
+        },
+        {
+          "index": 4,
+          "value": "seek"
+        },
+        {
+          "index": 5,
+          "value": "so"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following advice and choose the best answer to indicate the option that best fits each numbered blank. PLANNING A MOVE TO THE CITY Finding a job is only one part of moving to a city. New arrivals also need somewhere to live and a realistic plan for daily expenses. One worker at our advice centre explained, “I (7) {#1} here since January, and this is the most useful housing information I (8) {#2}.” As more people compete for a limited number of homes, flats are getting (9) {#3} for workers on low incomes to afford. A housing (10) {#4} can force some families to share accommodation or live farther from their jobs. Many people move to urban areas to (11) {#5} employment. Compare likely earnings with rent, food and transport costs, (12) {#6} you can judge whether the move fits your circumstances.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank. brookfield has expanded. residential streets now reach the eastern boundary, but residents say that services have not developed equally across the area. (13) ______. a nearby building is of limited use if residents cannot reach it when they need it. the council’s first response has been to improve communication. since last month, (14) ______. each notice gives the location of the work, the expected completion date and an alternative route. residents can also report problems through a telephone service. at a meeting, a resident complained that temporary barriers blocked the entrance to her apartment building. the officer replied, “i’m sorry about the inconvenience. (15) ______.” his response acknowledged the problem and offered an immediate practical action rather than asking her to wait until construction ended. the council also presented a graph. the urban population share rose from 40 per cent in 2010 to 55 per cent in 2020. a separate dashed line forecasts a rise to 65 per cent by 2030. in describing the graph, (16) ______. the solid and dashed lines represent different kinds of information. brookfield’s experience suggests that assessing development requires both figures and residents’ accounts. a higher urban share describes a population trend, while the blocked entrance reveals a specific access problem. (17) ______. using both sources can help the council set priorities instead of assuming that expansion alone has improved daily life. question 13.a. for example, some families can reach a clinic easily but cannot get an appointment after workb. for example, the population figures show precisely which families have difficulty entering their homesc. for example, the location of a facility matters more than whether its opening hours suit residentsd. for example, each residential street now has exactly the same range of nearby facilitieswrite a, b, c, or d - question 14.a. clear notices had been posted beside major building sites by 2020b. clear notices were posted beside major building sites in 2018c. clear notices have been posted beside major building sitesd. clear notices will be posted beside major building sites next yearwrite a, b, c, or d - question 15.a. i’ll include your concern in the next monthly report on construction problemsb. i’ll ask the team to keep the barriers in place until construction endsc. i’ll send you the expected completion date for the building workd. i’ll ask the construction team to move the barriers and restore access todaywrite a, b, c, or d - question 16.a. writers should distinguish the recorded increase from the growth predicted for the futureb. writers should report the forecast increase after 2020 as fifteen percentage pointsc. writers should describe the urban share as rising by fifty-five percentage points by 2020d. writers should describe the 2030 figure as a measured rather than projected sharewrite a, b, c, or d - question 17.a. collecting accounts of blocked entrances can establish the urban share without population datab. recording a higher urban share can establish that residents’ access problems have been resolvedc. checking local access and reviewing population figures can answer different planning questionsd. reviewing population figures can establish which entrances are blocked by temporary barrierswrite a, b, c, or d -",
+      "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank. Brookfield has expanded. Residential streets now reach the eastern boundary, but residents say that services have not developed equally across the area. (13) ______. A nearby building is of limited use if residents cannot reach it when they need it. The council’s first response has been to improve communication. Since last month, (14) ______. Each notice gives the location of the work, the expected completion date and an alternative route. Residents can also report problems through a telephone service. At a meeting, a resident complained that temporary barriers blocked the entrance to her apartment building. The officer replied, “I’m sorry about the inconvenience. (15) ______.” His response acknowledged the problem and offered an immediate practical action rather than asking her to wait until construction ended. The council also presented a graph. The urban population share rose from 40 per cent in 2010 to 55 per cent in 2020. A separate dashed line forecasts a rise to 65 per cent by 2030. In describing the graph, (16) ______. The solid and dashed lines represent different kinds of information. Brookfield’s experience suggests that assessing development requires both figures and residents’ accounts. A higher urban share describes a population trend, while the blocked entrance reveals a specific access problem. (17) ______. Using both sources can help the council set priorities instead of assuming that expansion alone has improved daily life. Question 13.A. For example, some families can reach a clinic easily but cannot get an appointment after workB. For example, the population figures show precisely which families have difficulty entering their homesC. For example, the location of a facility matters more than whether its opening hours suit residentsD. For example, each residential street now has exactly the same range of nearby facilitiesWrite A, B, C, or D - {#1}Question 14.A. clear notices had been posted beside major building sites by 2020B. clear notices were posted beside major building sites in 2018C. clear notices have been posted beside major building sitesD. clear notices will be posted beside major building sites next yearWrite A, B, C, or D - {#2}Question 15.A. I’ll include your concern in the next monthly report on construction problemsB. I’ll ask the team to keep the barriers in place until construction endsC. I’ll send you the expected completion date for the building workD. I’ll ask the construction team to move the barriers and restore access todayWrite A, B, C, or D - {#3}Question 16.A. writers should distinguish the recorded increase from the growth predicted for the futureB. writers should report the forecast increase after 2020 as fifteen percentage pointsC. writers should describe the urban share as rising by fifty-five percentage points by 2020D. writers should describe the 2030 figure as a measured rather than projected shareWrite A, B, C, or D - {#4}Question 17.A. Collecting accounts of blocked entrances can establish the urban share without population dataB. Recording a higher urban share can establish that residents’ access problems have been resolvedC. Checking local access and reviewing population figures can answer different planning questionsD. Reviewing population figures can establish which entrances are blocked by temporary barriersWrite A, B, C, or D - {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank. Brookfield has expanded. Residential streets now reach the eastern boundary, but residents say that services have not developed equally across the area. (13) ______. A nearby building is of limited use if residents cannot reach it when they need it. The council’s first response has been to improve communication. Since last month, (14) ______. Each notice gives the location of the work, the expected completion date and an alternative route. Residents can also report problems through a telephone service. At a meeting, a resident complained that temporary barriers blocked the entrance to her apartment building. The officer replied, “I’m sorry about the inconvenience. (15) ______.” His response acknowledged the problem and offered an immediate practical action rather than asking her to wait until construction ended. The council also presented a graph. The urban population share rose from 40 per cent in 2010 to 55 per cent in 2020. A separate dashed line forecasts a rise to 65 per cent by 2030. In describing the graph, (16) ______. The solid and dashed lines represent different kinds of information. Brookfield’s experience suggests that assessing development requires both figures and residents’ accounts. A higher urban share describes a population trend, while the blocked entrance reveals a specific access problem. (17) ______. Using both sources can help the council set priorities instead of assuming that expansion alone has improved daily life. Question 13.A. For example, some families can reach a clinic easily but cannot get an appointment after workB. For example, the population figures show precisely which families have difficulty entering their homesC. For example, the location of a facility matters more than whether its opening hours suit residentsD. For example, each residential street now has exactly the same range of nearby facilitiesWrite A, B, C, or D - {#1}Question 14.A. clear notices had been posted beside major building sites by 2020B. clear notices were posted beside major building sites in 2018C. clear notices have been posted beside major building sitesD. clear notices will be posted beside major building sites next yearWrite A, B, C, or D - {#2}Question 15.A. I’ll include your concern in the next monthly report on construction problemsB. I’ll ask the team to keep the barriers in place until construction endsC. I’ll send you the expected completion date for the building workD. I’ll ask the construction team to move the barriers and restore access todayWrite A, B, C, or D - {#3}Question 16.A. writers should distinguish the recorded increase from the growth predicted for the futureB. writers should report the forecast increase after 2020 as fifteen percentage pointsC. writers should describe the urban share as rising by fifty-five percentage points by 2020D. writers should describe the 2030 figure as a measured rather than projected shareWrite A, B, C, or D - {#4}Question 17.A. Collecting accounts of blocked entrances can establish the urban share without population dataB. Recording a higher urban share can establish that residents’ access problems have been resolvedC. Checking local access and reviewing population figures can answer different planning questionsD. Reviewing population figures can establish which entrances are blocked by temporary barriersWrite A, B, C, or D - {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. these two difficulties should therefore be addressed before the next housing phase begins.b. our project group visited a recently developed urban area to examine how residents use its facilities.c. however, those facilities were difficult to reach from the outer streets, where pavements ended and bus stops were far apart.d. we found a school and a health centre near the main square, both serving the new apartment buildings.a. b – c – d – ab. b – d – c – ac. d – b – a – cd. b – d – a – cwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. These two difficulties should therefore be addressed before the next housing phase begins.b. Our project group visited a recently developed urban area to examine how residents use its facilities.c. However, those facilities were difficult to reach from the outer streets, where pavements ended and bus stops were far apart.d. We found a school and a health centre near the main square, both serving the new apartment buildings.A. b – c – d – aB. b – d – c – aC. d – b – a – cD. b – d – a – cWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. These two difficulties should therefore be addressed before the next housing phase begins.b. Our project group visited a recently developed urban area to examine how residents use its facilities.c. However, those facilities were difficult to reach from the outer streets, where pavements ended and bus stops were far apart.d. We found a school and a health centre near the main square, both serving the new apartment buildings.A. b – c – d – aB. b – d – c – aC. d – b – a – cD. b – d – a – cWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. during the next ten years, the share then increased from 65 to 68 per cent.b. the graph shows the urban population share in glenford between 2005 and 2025.c. this final percentage was only three points above the 2015 figure, confirming the slower growth.d. from 2005 to 2015, the share climbed from 55 to 65 per cent.e. overall, the share rose throughout the period, but growth slowed in the later decade. the two ten-year changes described below explain this slowdown.a. e – b – a – c – db. b – e – d – a – cc. b – e – a – d – cd. b – d – e – a – cwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. During the next ten years, the share then increased from 65 to 68 per cent.b. The graph shows the urban population share in Glenford between 2005 and 2025.c. This final percentage was only three points above the 2015 figure, confirming the slower growth.d. From 2005 to 2015, the share climbed from 55 to 65 per cent.e. Overall, the share rose throughout the period, but growth slowed in the later decade. The two ten-year changes described below explain this slowdown.A. e – b – a – c – dB. b – e – d – a – cC. b – e – a – d – cD. b – d – e – a – cWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. During the next ten years, the share then increased from 65 to 68 per cent.b. The graph shows the urban population share in Glenford between 2005 and 2025.c. This final percentage was only three points above the 2015 figure, confirming the slower growth.d. From 2005 to 2015, the share climbed from 55 to 65 per cent.e. Overall, the share rose throughout the period, but growth slowed in the later decade. The two ten-year changes described below explain this slowdown.A. e – b – a – c – dB. b – e – d – a – cC. b – e – a – d – cD. b – d – e – a – cWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. resident: the one opposite the bus stop; it keeps flashing, so waiting passengers cannot see clearly.b. officer: i’m sorry about that. i’ll send the repair team to check that lamp this afternoon.c. resident: excuse me, i’d like to complain about a faulty street lamp near my building.d. resident: thank you. repairing it should make the evening journey home easier for us.e. officer: which lamp do you mean?a. c – a – e – b – db. e – c – a – d – bc. c – e – b – a – dd. c – e – a – b – dwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Resident: The one opposite the bus stop; it keeps flashing, so waiting passengers cannot see clearly.b. Officer: I’m sorry about that. I’ll send the repair team to check that lamp this afternoon.c. Resident: Excuse me, I’d like to complain about a faulty street lamp near my building.d. Resident: Thank you. Repairing it should make the evening journey home easier for us.e. Officer: Which lamp do you mean?A. c – a – e – b – dB. e – c – a – d – bC. c – e – b – a – dD. c – e – a – b – dWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Resident: The one opposite the bus stop; it keeps flashing, so waiting passengers cannot see clearly.b. Officer: I’m sorry about that. I’ll send the repair team to check that lamp this afternoon.c. Resident: Excuse me, I’d like to complain about a faulty street lamp near my building.d. Resident: Thank you. Repairing it should make the evening journey home easier for us.e. Officer: Which lamp do you mean?A. c – a – e – b – dB. e – c – a – d – bC. c – e – b – a – dD. c – e – a – b – dWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. lan: that should help people whose working hours prevent them from attending daytime classes.b. minh: yes. it now offers evening courses for workers who want to apply for more skilled jobs.c. lan: have you heard about the changes at the training centre near the new industrial area?a. a – c – bb. c – b – ac. b – c – ad. c – a – bwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Lan: That should help people whose working hours prevent them from attending daytime classes.b. Minh: Yes. It now offers evening courses for workers who want to apply for more skilled jobs.c. Lan: Have you heard about the changes at the training centre near the new industrial area?A. a – c – bB. c – b – aC. b – c – aD. c – a – bWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Lan: That should help people whose working hours prevent them from attending daytime classes.b. Minh: Yes. It now offers evening courses for workers who want to apply for more skilled jobs.c. Lan: Have you heard about the changes at the training centre near the new industrial area?A. a – c – bB. c – b – aC. b – c – aD. c – a – bWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 dear mr nam,a. for this comparison, i would like to borrow the map you mentioned.b. our group is preparing a project comparing this urban area’s earlier layout with its present one.c. this extension of the main road will help us explain how access has changed as the housing area has expanded.d. that map shows the main road’s shorter route in 2010 alongside its longer route today.yours sincerely,maia. a – b – d – cb. b – a – d – cc. b – d – a – cd. b – a – c – dwrite a, b, c, or d -",
+      "questionRaw": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 Dear Mr Nam,a. For this comparison, I would like to borrow the map you mentioned.b. Our group is preparing a project comparing this urban area’s earlier layout with its present one.c. This extension of the main road will help us explain how access has changed as the housing area has expanded.d. That map shows the main road’s shorter route in 2010 alongside its longer route today.Yours sincerely,MaiA. a – b – d – cB. b – a – d – cC. b – d – a – cD. b – a – c – dWrite A, B, C, or D - {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 Dear Mr Nam,a. For this comparison, I would like to borrow the map you mentioned.b. Our group is preparing a project comparing this urban area’s earlier layout with its present one.c. This extension of the main road will help us explain how access has changed as the housing area has expanded.d. That map shows the main road’s shorter route in 2010 alongside its longer route today.Yours sincerely,MaiA. a – b – d – cB. b – a – d – cC. b – d – a – cD. b – a – c – dWrite A, B, C, or D - {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A. affordable",
+      "id": "question-1973065-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following notice and choose the best answer to indicate the option that best fits each numbered blank. housing advice for new residents the lakeside council has opened a housing advice desk for people moving into the district. advisers can help families find (1) {#1} homes and compare rent with other living costs. since the district expanded, two apartment buildings (2) {#2} beside the railway station. a reliable bus (3) {#3} connects the station with the hospital and the industrial area. the farther a home is from someone's workplace, (4) {#4} the daily journey may take. before signing a rental agreement, check travel times during periods of heavy traffic. road (5) {#5} can make a short journey surprisingly slow. the desk provides useful information. (6) {#6}, it cannot promise that a suitable flat will be available immediately. please bring details of your budget and preferred location.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following notice and choose the best answer to indicate the option that best fits each numbered blank. HOUSING ADVICE FOR NEW RESIDENTS The Lakeside council has opened a housing advice desk for people moving into the district. Advisers can help families find (1) [Blank 1] homes and compare rent with other living costs. Since the district expanded, two apartment buildings (2) [Blank 2] beside the railway station. A reliable bus (3) [Blank 3] connects the station with the hospital and the industrial area. The farther a home is from someone's workplace, (4) [Blank 4] the daily journey may take. Before signing a rental agreement, check travel times during periods of heavy traffic. Road (5) [Blank 5] can make a short journey surprisingly slow. The desk provides useful information. (6) [Blank 6] , it cannot promise that a suitable flat will be available immediately. Please bring details of your budget and preferred location.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.affordableB.affordC.affordablyD.affordabilityÔ (2):A.had builtB.are buildingC.have been builtD.builtÔ (3):A.servedB.servingC.serveD.serviceÔ (4):A.as longB.the longerC.longestD.long and longÔ (5):A.directionB.destinationC.connectionD.congestionÔ (6):A.For exampleB.ThereforeC.HoweverD.Similarly",
+      "questionId": "question-1973065-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following notice and choose the best answer to indicate the option that best fits each numbered blank. housing advice for new residents the lakeside council has opened a housing advice desk for people moving into the district. advisers can help families find (1) [blank 1] homes and compare rent with other living costs. since the district expanded, two apartment buildings (2) [blank 2] beside the railway station. a reliable bus (3) [blank 3] connects the station with the hospital and the industrial area. the farther a home is from someone's workplace, (4) [blank 4] the daily journey may take. before signing a rental agreement, check travel times during periods of heavy traffic. road (5) [blank 5] can make a short journey surprisingly slow. the desk provides useful information. (6) [blank 6] , it cannot promise that a suitable flat will be available immediately. please bring details of your budget and preferred location.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.affordableb.affordc.affordablyd.affordabilityô (2):a.had builtb.are buildingc.have been builtd.builtô (3):a.servedb.servingc.served.serviceô (4):a.as longb.the longerc.longestd.long and longô (5):a.directionb.destinationc.connectiond.congestionô (6):a.for exampleb.thereforec.howeverd.similarly",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "A. affordable"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "C. have been built"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "D. service"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "B. the longer"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "D. congestion"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "C. However"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B. have lived",
+      "id": "question-1973065-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following advice and choose the best answer to indicate the option that best fits each numbered blank. planning a move to the city finding a job is only one part of moving to a city. new arrivals also need somewhere to live and a realistic plan for daily expenses. one worker at our advice centre explained, \"i (7) {#1} here since january, and this is the most useful housing information i (8) {#2}.\" as more people compete for a limited number of homes, flats are getting (9) {#3} for workers on low incomes to afford. a housing (10) {#4} can force some families to share accommodation or live farther from their jobs. many people move to urban areas to (11) {#5} employment. compare likely earnings with rent, food and transport costs, (12) {#6} you can judge whether the move fits your circumstances.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following advice and choose the best answer to indicate the option that best fits each numbered blank. PLANNING A MOVE TO THE CITY Finding a job is only one part of moving to a city. New arrivals also need somewhere to live and a realistic plan for daily expenses. One worker at our advice centre explained, \"I (7) [Blank 7] here since January, and this is the most useful housing information I (8) [Blank 8] .\" As more people compete for a limited number of homes, flats are getting (9) [Blank 9] for workers on low incomes to afford. A housing (10) [Blank 10] can force some families to share accommodation or live farther from their jobs. Many people move to urban areas to (11) [Blank 11] employment. Compare likely earnings with rent, food and transport costs, (12) [Blank 12] you can judge whether the move fits your circumstances.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.am livingB.have livedC.had livedD.liveÔ (8):A.have ever receivedB.was ever receivingC.ever receiveD.had ever receivedÔ (9):A.as hard than beforeB.harder as beforeC.the hardest than beforeD.harder and harderÔ (10):A.supplyB.surplusC.shortageD.stockÔ (11):A.collectB.seekC.earnD.reachÔ (12):A.whereasB.soC.unlessD.although",
+      "questionId": "question-1973065-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following advice and choose the best answer to indicate the option that best fits each numbered blank. planning a move to the city finding a job is only one part of moving to a city. new arrivals also need somewhere to live and a realistic plan for daily expenses. one worker at our advice centre explained, \"i (7) [blank 7] here since january, and this is the most useful housing information i (8) [blank 8] .\" as more people compete for a limited number of homes, flats are getting (9) [blank 9] for workers on low incomes to afford. a housing (10) [blank 10] can force some families to share accommodation or live farther from their jobs. many people move to urban areas to (11) [blank 11] employment. compare likely earnings with rent, food and transport costs, (12) [blank 12] you can judge whether the move fits your circumstances.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.am livingb.have livedc.had livedd.liveô (8):a.have ever receivedb.was ever receivingc.ever received.had ever receivedô (9):a.as hard than beforeb.harder as beforec.the hardest than befored.harder and harderô (10):a.supplyb.surplusc.shortaged.stockô (11):a.collectb.seekc.earnd.reachô (12):a.whereasb.soc.unlessd.although",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "B. have lived"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "A. have ever received"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "D. harder and harder"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "C. shortage"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "B. seek"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "B. so"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1973065-3",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 3,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "questionNumber": 3,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "A"
+        },
+        {
+          "index": 4,
+          "questionNumber": 3,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank. brookfield has expanded. residential streets now reach the eastern boundary, but residents say that services have not developed equally across the area. (13) ______. a nearby building is of limited use if residents cannot reach it when they need it. the council's first response has been to improve communication. since last month, (14) ______. each notice gives the location of the work, the expected completion date and an alternative route. residents can also report problems through a telephone service. at a meeting, a resident complained that temporary barriers blocked the entrance to her apartment building. the officer replied, \"i'm sorry about the inconvenience. (15) ______.\" his response acknowledged the problem and offered an immediate practical action rather than asking her to wait until construction ended. the council also presented a graph. the urban population share rose from 40 per cent in 2010 to 55 per cent in 2020. a separate dashed line forecasts a rise to 65 per cent by 2030. in describing the graph, (16) ______. the solid and dashed lines represent different kinds of information. brookfield's experience suggests that assessing development requires both figures and residents' accounts. a higher urban share describes a population trend, while the blocked entrance reveals a specific access problem. (17) ______. using both sources can help the council set priorities instead of assuming that expansion alone has improved daily life. question 13.a. for example, some families can reach a clinic easily but cannot get an appointment after workb. for example, the population figures show precisely which families have difficulty entering their homesc. for example, the location of a facility matters more than whether its opening hours suit residentsd. for example, each residential street now has exactly the same range of nearby facilitieswrite a, b, c, or d - {#1}question 14.a. clear notices had been posted beside major building sites by 2020b. clear notices were posted beside major building sites in 2018c. clear notices have been posted beside major building sitesd. clear notices will be posted beside major building sites next yearwrite a, b, c, or d - {#2}question 15.a. i'll include your concern in the next monthly report on construction problemsb. i'll ask the team to keep the barriers in place until construction endsc. i'll send you the expected completion date for the building workd. i'll ask the construction team to move the barriers and restore access todaywrite a, b, c, or d - {#3}question 16.a. writers should distinguish the recorded increase from the growth predicted for the futureb. writers should report the forecast increase after 2020 as fifteen percentage pointsc. writers should describe the urban share as rising by fifty-five percentage points by 2020d. writers should describe the 2030 figure as a measured rather than projected sharewrite a, b, c, or d - {#4}question 17.a. collecting accounts of blocked entrances can establish the urban share without population datab. recording a higher urban share can establish that residents' access problems have been resolvedc. checking local access and reviewing population figures can answer different planning questionsd. reviewing population figures can establish which entrances are blocked by temporary barrierswrite a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank. Brookfield has expanded. Residential streets now reach the eastern boundary, but residents say that services have not developed equally across the area. (13) ______. A nearby building is of limited use if residents cannot reach it when they need it. The council's first response has been to improve communication. Since last month, (14) ______. Each notice gives the location of the work, the expected completion date and an alternative route. Residents can also report problems through a telephone service. At a meeting, a resident complained that temporary barriers blocked the entrance to her apartment building. The officer replied, \"I'm sorry about the inconvenience. (15) ______.\" His response acknowledged the problem and offered an immediate practical action rather than asking her to wait until construction ended. The council also presented a graph. The urban population share rose from 40 per cent in 2010 to 55 per cent in 2020. A separate dashed line forecasts a rise to 65 per cent by 2030. In describing the graph, (16) ______. The solid and dashed lines represent different kinds of information. Brookfield's experience suggests that assessing development requires both figures and residents' accounts. A higher urban share describes a population trend, while the blocked entrance reveals a specific access problem. (17) ______. Using both sources can help the council set priorities instead of assuming that expansion alone has improved daily life. Question 13.A. For example, some families can reach a clinic easily but cannot get an appointment after workB. For example, the population figures show precisely which families have difficulty entering their homesC. For example, the location of a facility matters more than whether its opening hours suit residentsD. For example, each residential street now has exactly the same range of nearby facilitiesWrite A, B, C, or D - {#1}Question 14.A. clear notices had been posted beside major building sites by 2020B. clear notices were posted beside major building sites in 2018C. clear notices have been posted beside major building sitesD. clear notices will be posted beside major building sites next yearWrite A, B, C, or D - {#2}Question 15.A. I'll include your concern in the next monthly report on construction problemsB. I'll ask the team to keep the barriers in place until construction endsC. I'll send you the expected completion date for the building workD. I'll ask the construction team to move the barriers and restore access todayWrite A, B, C, or D - {#3}Question 16.A. writers should distinguish the recorded increase from the growth predicted for the futureB. writers should report the forecast increase after 2020 as fifteen percentage pointsC. writers should describe the urban share as rising by fifty-five percentage points by 2020D. writers should describe the 2030 figure as a measured rather than projected shareWrite A, B, C, or D - {#4}Question 17.A. Collecting accounts of blocked entrances can establish the urban share without population dataB. Recording a higher urban share can establish that residents' access problems have been resolvedC. Checking local access and reviewing population figures can answer different planning questionsD. Reviewing population figures can establish which entrances are blocked by temporary barriersWrite A, B, C, or D - {#5}",
+      "questionId": "question-1973065-3",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank. brookfield has expanded. residential streets now reach the eastern boundary, but residents say that services have not developed equally across the area. (13) ______. a nearby building is of limited use if residents cannot reach it when they need it. the council's first response has been to improve communication. since last month, (14) ______. each notice gives the location of the work, the expected completion date and an alternative route. residents can also report problems through a telephone service. at a meeting, a resident complained that temporary barriers blocked the entrance to her apartment building. the officer replied, \"i'm sorry about the inconvenience. (15) ______.\" his response acknowledged the problem and offered an immediate practical action rather than asking her to wait until construction ended. the council also presented a graph. the urban population share rose from 40 per cent in 2010 to 55 per cent in 2020. a separate dashed line forecasts a rise to 65 per cent by 2030. in describing the graph, (16) ______. the solid and dashed lines represent different kinds of information. brookfield's experience suggests that assessing development requires both figures and residents' accounts. a higher urban share describes a population trend, while the blocked entrance reveals a specific access problem. (17) ______. using both sources can help the council set priorities instead of assuming that expansion alone has improved daily life. question 13.a. for example, some families can reach a clinic easily but cannot get an appointment after workb. for example, the population figures show precisely which families have difficulty entering their homesc. for example, the location of a facility matters more than whether its opening hours suit residentsd. for example, each residential street now has exactly the same range of nearby facilitieswrite a, b, c, or d - {#1}question 14.a. clear notices had been posted beside major building sites by 2020b. clear notices were posted beside major building sites in 2018c. clear notices have been posted beside major building sitesd. clear notices will be posted beside major building sites next yearwrite a, b, c, or d - {#2}question 15.a. i'll include your concern in the next monthly report on construction problemsb. i'll ask the team to keep the barriers in place until construction endsc. i'll send you the expected completion date for the building workd. i'll ask the construction team to move the barriers and restore access todaywrite a, b, c, or d - {#3}question 16.a. writers should distinguish the recorded increase from the growth predicted for the futureb. writers should report the forecast increase after 2020 as fifteen percentage pointsc. writers should describe the urban share as rising by fifty-five percentage points by 2020d. writers should describe the 2030 figure as a measured rather than projected sharewrite a, b, c, or d - {#4}question 17.a. collecting accounts of blocked entrances can establish the urban share without population datab. recording a higher urban share can establish that residents' access problems have been resolvedc. checking local access and reviewing population figures can answer different planning questionsd. reviewing population figures can establish which entrances are blocked by temporary barrierswrite a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1973065-4",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 4,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. these two difficulties should therefore be addressed before the next housing phase begins.b. our project group visited a recently developed urban area to examine how residents use its facilities.c. however, those facilities were difficult to reach from the outer streets, where pavements ended and bus stops were far apart.d. we found a school and a health centre near the main square, both serving the new apartment buildings.a. b – c – d – ab. b – d – c – ac. d – b – a – cd. b – d – a – cwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 18 a. These two difficulties should therefore be addressed before the next housing phase begins.b. Our project group visited a recently developed urban area to examine how residents use its facilities.c. However, those facilities were difficult to reach from the outer streets, where pavements ended and bus stops were far apart.d. We found a school and a health centre near the main square, both serving the new apartment buildings.A. b – c – d – aB. b – d – c – aC. d – b – a – cD. b – d – a – cWrite A, B, C, or D - {#1}",
+      "questionId": "question-1973065-4",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 18 a. these two difficulties should therefore be addressed before the next housing phase begins.b. our project group visited a recently developed urban area to examine how residents use its facilities.c. however, those facilities were difficult to reach from the outer streets, where pavements ended and bus stops were far apart.d. we found a school and a health centre near the main square, both serving the new apartment buildings.a. b – c – d – ab. b – d – c – ac. d – b – a – cd. b – d – a – cwrite a, b, c, or d - {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1973065-5",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. during the next ten years, the share then increased from 65 to 68 per cent.b. the graph shows the urban population share in glenford between 2005 and 2025.c. this final percentage was only three points above the 2015 figure, confirming the slower growth.d. from 2005 to 2015, the share climbed from 55 to 65 per cent.e. overall, the share rose throughout the period, but growth slowed in the later decade. the two ten-year changes described below explain this slowdown.a. e – b – a – c – db. b – e – d – a – cc. b – e – a – d – cd. b – d – e – a – cwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 19 a. During the next ten years, the share then increased from 65 to 68 per cent.b. The graph shows the urban population share in Glenford between 2005 and 2025.c. This final percentage was only three points above the 2015 figure, confirming the slower growth.d. From 2005 to 2015, the share climbed from 55 to 65 per cent.e. Overall, the share rose throughout the period, but growth slowed in the later decade. The two ten-year changes described below explain this slowdown.A. e – b – a – c – dB. b – e – d – a – cC. b – e – a – d – cD. b – d – e – a – cWrite A, B, C, or D - {#1}",
+      "questionId": "question-1973065-5",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 19 a. during the next ten years, the share then increased from 65 to 68 per cent.b. the graph shows the urban population share in glenford between 2005 and 2025.c. this final percentage was only three points above the 2015 figure, confirming the slower growth.d. from 2005 to 2015, the share climbed from 55 to 65 per cent.e. overall, the share rose throughout the period, but growth slowed in the later decade. the two ten-year changes described below explain this slowdown.a. e – b – a – c – db. b – e – d – a – cc. b – e – a – d – cd. b – d – e – a – cwrite a, b, c, or d - {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1973065-6",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. resident: the one opposite the bus stop; it keeps flashing, so waiting passengers cannot see clearly.b. officer: i'm sorry about that. i'll send the repair team to check that lamp this afternoon.c. resident: excuse me, i'd like to complain about a faulty street lamp near my building.d. resident: thank you. repairing it should make the evening journey home easier for us.e. officer: which lamp do you mean?a. c – a – e – b – db. e – c – a – d – bc. c – e – b – a – dd. c – e – a – b – dwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 20 a. Resident: The one opposite the bus stop; it keeps flashing, so waiting passengers cannot see clearly.b. Officer: I'm sorry about that. I'll send the repair team to check that lamp this afternoon.c. Resident: Excuse me, I'd like to complain about a faulty street lamp near my building.d. Resident: Thank you. Repairing it should make the evening journey home easier for us.e. Officer: Which lamp do you mean?A. c – a – e – b – dB. e – c – a – d – bC. c – e – b – a – dD. c – e – a – b – dWrite A, B, C, or D - {#1}",
+      "questionId": "question-1973065-6",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 20 a. resident: the one opposite the bus stop; it keeps flashing, so waiting passengers cannot see clearly.b. officer: i'm sorry about that. i'll send the repair team to check that lamp this afternoon.c. resident: excuse me, i'd like to complain about a faulty street lamp near my building.d. resident: thank you. repairing it should make the evening journey home easier for us.e. officer: which lamp do you mean?a. c – a – e – b – db. e – c – a – d – bc. c – e – b – a – dd. c – e – a – b – dwrite a, b, c, or d - {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1973065-7",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 7,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. lan: that should help people whose working hours prevent them from attending daytime classes.b. minh: yes. it now offers evening courses for workers who want to apply for more skilled jobs.c. lan: have you heard about the changes at the training centre near the new industrial area?a. a – c – bb. c – b – ac. b – c – ad. c – a – bwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 21 a. Lan: That should help people whose working hours prevent them from attending daytime classes.b. Minh: Yes. It now offers evening courses for workers who want to apply for more skilled jobs.c. Lan: Have you heard about the changes at the training centre near the new industrial area?A. a – c – bB. c – b – aC. b – c – aD. c – a – bWrite A, B, C, or D - {#1}",
+      "questionId": "question-1973065-7",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 21 a. lan: that should help people whose working hours prevent them from attending daytime classes.b. minh: yes. it now offers evening courses for workers who want to apply for more skilled jobs.c. lan: have you heard about the changes at the training centre near the new industrial area?a. a – c – bb. c – b – ac. b – c – ad. c – a – bwrite a, b, c, or d - {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1973065-8",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 dear mr nam,a. for this comparison, i would like to borrow the map you mentioned.b. our group is preparing a project comparing this urban area's earlier layout with its present one.c. this extension of the main road will help us explain how access has changed as the housing area has expanded.d. that map shows the main road's shorter route in 2010 alongside its longer route today.yours sincerely,maia. a – b – d – cb. b – a – d – cc. b – d – a – cd. b – a – c – dwrite a, b, c, or d - {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — SENTENCE AND UTTERANCE ARRANGEMENT Mark the letter A, B, C or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. Question 22 Dear Mr Nam,a. For this comparison, I would like to borrow the map you mentioned.b. Our group is preparing a project comparing this urban area's earlier layout with its present one.c. This extension of the main road will help us explain how access has changed as the housing area has expanded.d. That map shows the main road's shorter route in 2010 alongside its longer route today.Yours sincerely,MaiA. a – b – d – cB. b – a – d – cC. b – d – a – cD. b – a – c – dWrite A, B, C, or D - {#1}",
+      "questionId": "question-1973065-8",
+      "questionKey": "part 3 — sentence and utterance arrangement mark the letter a, b, c or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation. question 22 dear mr nam,a. for this comparison, i would like to borrow the map you mentioned.b. our group is preparing a project comparing this urban area's earlier layout with its present one.c. this extension of the main road will help us explain how access has changed as the housing area has expanded.d. that map shows the main road's shorter route in 2010 alongside its longer route today.yours sincerely,maia. a – b – d – cb. b – a – d – cc. b – d – a – cd. b – a – c – dwrite a, b, c, or d - {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
