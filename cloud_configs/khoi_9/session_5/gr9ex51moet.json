@@ -1,0 +1,521 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR9EX51MOET",
+    "quiz_key": "gr9ex51moet",
+    "cmid": "746620",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_5/gr9ex51moet.json",
+    "score": "20.00/20.00",
+    "score_pct": 100.0,
+    "question_count": 40,
+    "updated_at": "2026-11-17 21:03:16"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 1: a memorable mountain tripa. before the ride began, that driver asked us to fasten our seat belts.b. once everyone had fastened them, he started the jeep and drove uphill until we reached the viewing point.c. last summer, my family and i went on a mountain trip.d. from that point, we admired the lake and mountain scenery, which made the trip memorable for me.e. at the foot of the mountain, we hired a jeep whose driver promised to take us to a viewing point. a. c – e – b – a – db. c – e – a – b – dc. c – a – e – b – dd. c – e – a – d – bwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 1: A Memorable Mountain Tripa. Before the ride began, that driver asked us to fasten our seat belts.b. Once everyone had fastened them, he started the jeep and drove uphill until we reached the viewing point.c. Last summer, my family and I went on a mountain trip.d. From that point, we admired the lake and mountain scenery, which made the trip memorable for me.e. At the foot of the mountain, we hired a jeep whose driver promised to take us to a viewing point. A. c – e – b – a – dB. c – e – a – b – dC. c – a – e – b – dD. c – e – a – d – bWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 1: A Memorable Mountain Tripa. Before the ride began, that driver asked us to fasten our seat belts.b. Once everyone had fastened them, he started the jeep and drove uphill until we reached the viewing point.c. Last summer, my family and I went on a mountain trip.d. From that point, we admired the lake and mountain scenery, which made the trip memorable for me.e. At the foot of the mountain, we hired a jeep whose driver promised to take us to a viewing point. A. c – e – b – a – dB. c – e – a – b – dC. c – a – e – b – dD. c – e – a – d – bWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 2: learning to put up a tenta. our instructor noticed this difficulty and demonstrated how to connect the poles.b. after taking the tents out of their bags, we discovered that nobody in our group knew how to connect the poles.c. following her demonstration, we connected them correctly and put up our tent.d. when we arrived at the campsite, our tents were still packed in their bags.e. only after the tent was standing did we move our bags inside and prepare our sleeping area.a. d – a – b – c – eb. d – b – c – a – ec. d – b – a – e – cd. d – b – a – c – e write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 2: Learning to Put Up a Tenta. Our instructor noticed this difficulty and demonstrated how to connect the poles.b. After taking the tents out of their bags, we discovered that nobody in our group knew how to connect the poles.c. Following her demonstration, we connected them correctly and put up our tent.d. When we arrived at the campsite, our tents were still packed in their bags.e. Only after the tent was standing did we move our bags inside and prepare our sleeping area.A. d – a – b – c – eB. d – b – c – a – eC. d – b – a – e – cD. d – b – a – c – e Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 2: Learning to Put Up a Tenta. Our instructor noticed this difficulty and demonstrated how to connect the poles.b. After taking the tents out of their bags, we discovered that nobody in our group knew how to connect the poles.c. Following her demonstration, we connected them correctly and put up our tent.d. When we arrived at the campsite, our tents were still packed in their bags.e. Only after the tent was standing did we move our bags inside and prepare our sleeping area.A. d – a – b – c – eB. d – b – c – a – eC. d – b – a – e – cD. d – b – a – c – e Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 3: developing soft skillsa. once we applied those turn-taking rules, we completed the challenge together.b. on my first day at a summer course, i joined a group of students i had never met before.c. during that pause, she taught us to listen without interrupting and take turns offering ideas.d. completing it as a team increased my confidence in working with new people.e. during our first group challenge, we argued over whose idea to use, so the instructor paused the activity.a. b – e – c – a – db. b – c – e – a – dc. b – e – a – c – dd. b – e – c – d – a write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 3: Developing Soft Skillsa. Once we applied those turn-taking rules, we completed the challenge together.b. On my first day at a summer course, I joined a group of students I had never met before.c. During that pause, she taught us to listen without interrupting and take turns offering ideas.d. Completing it as a team increased my confidence in working with new people.e. During our first group challenge, we argued over whose idea to use, so the instructor paused the activity.A. b – e – c – a – dB. b – c – e – a – dC. b – e – a – c – dD. b – e – c – d – a Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 3: Developing Soft Skillsa. Once we applied those turn-taking rules, we completed the challenge together.b. On my first day at a summer course, I joined a group of students I had never met before.c. During that pause, she taught us to listen without interrupting and take turns offering ideas.d. Completing it as a team increased my confidence in working with new people.e. During our first group challenge, we argued over whose idea to use, so the instructor paused the activity.A. b – e – c – a – dB. b – c – e – a – dC. b – e – a – c – dD. b – e – c – d – a Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 4: support during a performancea. during my first class performance, i forgot my next line and stopped speaking.b. once the performance had ended, i thanked him for helping me continue.c. after hearing those words, i remembered what to say and continued the performance.d. seeing me stop, a classmate beside me quietly whispered the missing words.e. his support is the reason that this performance remains memorable to me.a. a – c – d – b – eb. a – d – b – c – ec. a – d – c – b – ed. d – a – c – b – e write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 4: Support During a Performancea. During my first class performance, I forgot my next line and stopped speaking.b. Once the performance had ended, I thanked him for helping me continue.c. After hearing those words, I remembered what to say and continued the performance.d. Seeing me stop, a classmate beside me quietly whispered the missing words.e. His support is the reason that this performance remains memorable to me.A. a – c – d – b – eB. a – d – b – c – eC. a – d – c – b – eD. d – a – c – b – e Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 4: Support During a Performancea. During my first class performance, I forgot my next line and stopped speaking.b. Once the performance had ended, I thanked him for helping me continue.c. After hearing those words, I remembered what to say and continued the performance.d. Seeing me stop, a classmate beside me quietly whispered the missing words.e. His support is the reason that this performance remains memorable to me.A. a – c – d – b – eB. a – d – b – c – eC. a – d – c – b – eD. d – a – c – b – e Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 5: preparing my individual postera. once the caption was finished, i used the poster to rehearse my presentation with a partner.b. for this task, i chose my first snorkelling trip and selected a photograph from it.c. under that photograph, i wrote a caption explaining when the trip happened, what i did, how i felt, and why i remembered it.d. after that rehearsal, i added a clearer final sentence about what i had learnt, and my poster was ready to present.e. our teacher asked each of us to prepare an individual poster about a memorable experience.a. e – b – a – c – db. e – b – c – a – dc. e – c – b – a – dd. e – b – c – d – a write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 5: Preparing My Individual Postera. Once the caption was finished, I used the poster to rehearse my presentation with a partner.b. For this task, I chose my first snorkelling trip and selected a photograph from it.c. Under that photograph, I wrote a caption explaining when the trip happened, what I did, how I felt, and why I remembered it.d. After that rehearsal, I added a clearer final sentence about what I had learnt, and my poster was ready to present.e. Our teacher asked each of us to prepare an individual poster about a memorable experience.A. e – b – a – c – dB. e – b – c – a – dC. e – c – b – a – dD. e – b – c – d – a Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 5: Preparing My Individual Postera. Once the caption was finished, I used the poster to rehearse my presentation with a partner.b. For this task, I chose my first snorkelling trip and selected a photograph from it.c. Under that photograph, I wrote a caption explaining when the trip happened, what I did, how I felt, and why I remembered it.d. After that rehearsal, I added a clearer final sentence about what I had learnt, and my poster was ready to present.e. Our teacher asked each of us to prepare an individual poster about a memorable experience.A. e – b – a – c – dB. e – b – c – a – dC. e – c – b – a – dD. e – b – c – d – a Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 1: late for the summer coursea. student: thank you. may i borrow her copy of the instructions?b. student: thanks for confirming that. i’ll ask lan for her copy now.c. student: can i come in? i’m really sorry i’m late. there was a lot of traffic.d. instructor: yes, you may. she has finished using it.e. instructor: that’s okay. sit beside lan; she has a copy of the activity instructions.a. c – e – d – a – bb. c – a – e – d – bc. c – e – a – d – bd. e – c – a – d – b write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 1: Late for the Summer Coursea. Student: Thank you. May I borrow her copy of the instructions?b. Student: Thanks for confirming that. I’ll ask Lan for her copy now.c. Student: Can I come in? I’m really sorry I’m late. There was a lot of traffic.d. Instructor: Yes, you may. She has finished using it.e. Instructor: That’s okay. Sit beside Lan; she has a copy of the activity instructions.A. c – e – d – a – bB. c – a – e – d – bC. c – e – a – d – bD. e – c – a – d – b Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 1: Late for the Summer Coursea. Student: Thank you. May I borrow her copy of the instructions?b. Student: Thanks for confirming that. I’ll ask Lan for her copy now.c. Student: Can I come in? I’m really sorry I’m late. There was a lot of traffic.d. Instructor: Yes, you may. She has finished using it.e. Instructor: That’s okay. Sit beside Lan; she has a copy of the activity instructions.A. c – e – d – a – bB. c – a – e – d – bC. c – e – a – d – bD. e – c – a – d – b Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 2: a late projecta. student: i can finish it by five o’clock today.b. student: i’m sorry i haven’t submitted my experience poster. it was due yesterday.c. student: thank you. i’ll send it at the time we’ve just agreed on.d. teacher: thank you for telling me. when can you have it ready?e. teacher: all right. please send it to me by five o’clock, then.a. b – d – a – e – cb. b – a – d – e – cc. b – d – e – a – cd. b – d – a – c – e write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 2: A Late Projecta. Student: I can finish it by five o’clock today.b. Student: I’m sorry I haven’t submitted my experience poster. It was due yesterday.c. Student: Thank you. I’ll send it at the time we’ve just agreed on.d. Teacher: Thank you for telling me. When can you have it ready?e. Teacher: All right. Please send it to me by five o’clock, then.A. b – d – a – e – cB. b – a – d – e – cC. b – d – e – a – cD. b – d – a – c – e Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 2: A Late Projecta. Student: I can finish it by five o’clock today.b. Student: I’m sorry I haven’t submitted my experience poster. It was due yesterday.c. Student: Thank you. I’ll send it at the time we’ve just agreed on.d. Teacher: Thank you for telling me. When can you have it ready?e. Teacher: All right. Please send it to me by five o’clock, then.A. b – d – a – e – cB. b – a – d – e – cC. b – d – e – a – cD. b – d – a – c – e Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 3: home later than promiseda. mother: yes. take the spare phone from the drawer before your next trip.b. mother: that’s okay, but next time, please call me if you’re going to be late.c. child: thank you. i’ll take that spare phone before i go out again.d. child: i will. may i borrow a phone next time? mine stopped working today.e. child: i’m really sorry i came home later than i promised.a. e – d – b – a – cb. e – b – a – d – cc. e – b – d – c – ad. e – b – d – a – c write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 3: Home Later Than Promiseda. Mother: Yes. Take the spare phone from the drawer before your next trip.b. Mother: That’s okay, but next time, please call me if you’re going to be late.c. Child: Thank you. I’ll take that spare phone before I go out again.d. Child: I will. May I borrow a phone next time? Mine stopped working today.e. Child: I’m really sorry I came home later than I promised.A. e – d – b – a – cB. e – b – a – d – cC. e – b – d – c – aD. e – b – d – a – c Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 3: Home Later Than Promiseda. Mother: Yes. Take the spare phone from the drawer before your next trip.b. Mother: That’s okay, but next time, please call me if you’re going to be late.c. Child: Thank you. I’ll take that spare phone before I go out again.d. Child: I will. May I borrow a phone next time? Mine stopped working today.e. Child: I’m really sorry I came home later than I promised.A. e – d – b – a – cB. e – b – a – d – cC. e – b – d – c – aD. e – b – d – a – c Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 4: the wrong notebooka. classmate: that’s okay, but please bring it back. i need it for my poster.b. student: thanks for confirming the place and time. i’ll return your notebook there at twelve.c. classmate: yes. let’s meet at the library entrance at twelve o’clock.d. student: oops, my mistake. i’ve taken your notebook instead of mine.e. student: i’ll bring it back as you’ve asked. can we meet at the library at lunchtime?a. d – a – c – e – bb. d – a – e – c – bc. d – e – a – c – bd. d – a – e – b – c write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 4: The Wrong Notebooka. Classmate: That’s okay, but please bring it back. I need it for my poster.b. Student: Thanks for confirming the place and time. I’ll return your notebook there at twelve.c. Classmate: Yes. Let’s meet at the library entrance at twelve o’clock.d. Student: Oops, my mistake. I’ve taken your notebook instead of mine.e. Student: I’ll bring it back as you’ve asked. Can we meet at the library at lunchtime?A. d – a – c – e – bB. d – a – e – c – bC. d – e – a – c – bD. d – a – e – b – c Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 4: The Wrong Notebooka. Classmate: That’s okay, but please bring it back. I need it for my poster.b. Student: Thanks for confirming the place and time. I’ll return your notebook there at twelve.c. Classmate: Yes. Let’s meet at the library entrance at twelve o’clock.d. Student: Oops, my mistake. I’ve taken your notebook instead of mine.e. Student: I’ll bring it back as you’ve asked. Can we meet at the library at lunchtime?A. d – a – c – e – bB. d – a – e – c – bC. d – e – a – c – bD. d – a – e – b – c Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 5: an unfinished taska. mother: you haven’t put the camping equipment away yet. i asked you to do it after lunch.b. mother: that’s okay, but please do it now.c. mother: yes, the upper shelf. the tent is dry now, so it’s ready to store.d. son: oops, my mistake, mum. i thought i could do it later.e. son: all right, i’ll start now. should i put the tent on the upper shelf?a. a – d – e – b – cb. a – b – d – e – cc. a – d – b – e – cd. a – d – b – c – e write a, b, c or d:",
+      "questionRaw": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 5: An Unfinished Taska. Mother: You haven’t put the camping equipment away yet. I asked you to do it after lunch.b. Mother: That’s okay, but please do it now.c. Mother: Yes, the upper shelf. The tent is dry now, so it’s ready to store.d. Son: Oops, my mistake, Mum. I thought I could do it later.e. Son: All right, I’ll start now. Should I put the tent on the upper shelf?A. a – d – e – b – cB. a – b – d – e – cC. a – d – b – e – cD. a – d – b – c – e Write A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 5: An Unfinished Taska. Mother: You haven’t put the camping equipment away yet. I asked you to do it after lunch.b. Mother: That’s okay, but please do it now.c. Mother: Yes, the upper shelf. The tent is dry now, so it’s ready to store.d. Son: Oops, my mistake, Mum. I thought I could do it later.e. Son: All right, I’ll start now. Should I put the tent on the upper shelf?A. a – d – e – b – cB. a – b – d – e – cC. a – d – b – e – cD. a – d – b – c – e Write A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "11",
+      "questionKey": "read the whole guide. choose a, b, c, or d for each blank. use headings, surrounding advice, sentence structure, and word combinations.question 1a. instructorsb. speciesc. experiencesd. peers write a, b, c or d: question 2a. attendedb. attendc. attendingd. attends write a, b, c or d: question 3a. seabedb. themec. confidenced. campus write a, b, c or d: question 4a. touchingb. softc. strictd. thrilling write a, b, c or d: question 5a. strictb. brilliantc. touchingd. unpleasant write a, b, c or d: question 6a. embarrassedb. embarrassmentc. embarrassingd. embarrass write a, b, c or d: question 7a. sceneryb. mistakec. coursed. species write a, b, c or d: question 8a. attendb. receivec. rided. solve write a, b, c or d: question 9a. memoryb. memorablyc. memorabled. memories write a, b, c or d: question 10a. confidenceb. helplessnessc. sceneryd. bullying write a, b, c or d:",
+      "questionRaw": "Read the whole guide. Choose A, B, C, or D for each blank. Use headings, surrounding advice, sentence structure, and word combinations.Question 1A. instructorsB. speciesC. experiencesD. peers Write A, B, C or D: {#1}Question 2A. attendedB. attendC. attendingD. attends Write A, B, C or D: {#2}Question 3A. seabedB. themeC. confidenceD. campus Write A, B, C or D: {#3}Question 4A. touchingB. softC. strictD. thrilling Write A, B, C or D: {#4}Question 5A. strictB. brilliantC. touchingD. unpleasant Write A, B, C or D: {#5}Question 6A. embarrassedB. embarrassmentC. embarrassingD. embarrass Write A, B, C or D: {#6}Question 7A. sceneryB. mistakeC. courseD. species Write A, B, C or D: {#7}Question 8A. attendB. receiveC. rideD. solve Write A, B, C or D: {#8}Question 9A. memoryB. memorablyC. memorableD. memories Write A, B, C or D: {#9}Question 10A. confidenceB. helplessnessC. sceneryD. bullying Write A, B, C or D: {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Read the whole guide. Choose A, B, C, or D for each blank. Use headings, surrounding advice, sentence structure, and word combinations.Question 1A. instructorsB. speciesC. experiencesD. peers Write A, B, C or D: {#1}Question 2A. attendedB. attendC. attendingD. attends Write A, B, C or D: {#2}Question 3A. seabedB. themeC. confidenceD. campus Write A, B, C or D: {#3}Question 4A. touchingB. softC. strictD. thrilling Write A, B, C or D: {#4}Question 5A. strictB. brilliantC. touchingD. unpleasant Write A, B, C or D: {#5}Question 6A. embarrassedB. embarrassmentC. embarrassingD. embarrass Write A, B, C or D: {#6}Question 7A. sceneryB. mistakeC. courseD. species Write A, B, C or D: {#7}Question 8A. attendB. receiveC. rideD. solve Write A, B, C or D: {#8}Question 9A. memoryB. memorablyC. memorableD. memories Write A, B, C or D: {#9}Question 10A. confidenceB. helplessnessC. sceneryD. bullying Write A, B, C or D: {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B",
+      "id": "question-1978139-1",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 1: a memorable mountain tripa. before the ride began, that driver asked us to fasten our seat belts.b. once everyone had fastened them, he started the jeep and drove uphill until we reached the viewing point.c. last summer, my family and i went on a mountain trip.d. from that point, we admired the lake and mountain scenery, which made the trip memorable for me.e. at the foot of the mountain, we hired a jeep whose driver promised to take us to a viewing point. a. c – e – b – a – db. c – e – a – b – dc. c – a – e – b – dd. c – e – a – d – bwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 1: A Memorable Mountain Tripa. Before the ride began, that driver asked us to fasten our seat belts.b. Once everyone had fastened them, he started the jeep and drove uphill until we reached the viewing point.c. Last summer, my family and I went on a mountain trip.d. From that point, we admired the lake and mountain scenery, which made the trip memorable for me.e. At the foot of the mountain, we hired a jeep whose driver promised to take us to a viewing point. A. c – e – b – a – dB. c – e – a – b – dC. c – a – e – b – dD. c – e – a – d – bWrite A, B, C or D: {#1}",
+      "questionId": "question-1978139-1",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 1: a memorable mountain tripa. before the ride began, that driver asked us to fasten our seat belts.b. once everyone had fastened them, he started the jeep and drove uphill until we reached the viewing point.c. last summer, my family and i went on a mountain trip.d. from that point, we admired the lake and mountain scenery, which made the trip memorable for me.e. at the foot of the mountain, we hired a jeep whose driver promised to take us to a viewing point. a. c – e – b – a – db. c – e – a – b – dc. c – a – e – b – dd. c – e – a – d – bwrite a, b, c or d: {#1}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1978139-2",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 2: learning to put up a tenta. our instructor noticed this difficulty and demonstrated how to connect the poles.b. after taking the tents out of their bags, we discovered that nobody in our group knew how to connect the poles.c. following her demonstration, we connected them correctly and put up our tent.d. when we arrived at the campsite, our tents were still packed in their bags.e. only after the tent was standing did we move our bags inside and prepare our sleeping area.a. d – a – b – c – eb. d – b – c – a – ec. d – b – a – e – cd. d – b – a – c – e write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 2: Learning to Put Up a Tenta. Our instructor noticed this difficulty and demonstrated how to connect the poles.b. After taking the tents out of their bags, we discovered that nobody in our group knew how to connect the poles.c. Following her demonstration, we connected them correctly and put up our tent.d. When we arrived at the campsite, our tents were still packed in their bags.e. Only after the tent was standing did we move our bags inside and prepare our sleeping area.A. d – a – b – c – eB. d – b – c – a – eC. d – b – a – e – cD. d – b – a – c – e Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-2",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 2: learning to put up a tenta. our instructor noticed this difficulty and demonstrated how to connect the poles.b. after taking the tents out of their bags, we discovered that nobody in our group knew how to connect the poles.c. following her demonstration, we connected them correctly and put up our tent.d. when we arrived at the campsite, our tents were still packed in their bags.e. only after the tent was standing did we move our bags inside and prepare our sleeping area.a. d – a – b – c – eb. d – b – c – a – ec. d – b – a – e – cd. d – b – a – c – e write a, b, c or d: {#1}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1978139-3",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 3,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 3: developing soft skillsa. once we applied those turn-taking rules, we completed the challenge together.b. on my first day at a summer course, i joined a group of students i had never met before.c. during that pause, she taught us to listen without interrupting and take turns offering ideas.d. completing it as a team increased my confidence in working with new people.e. during our first group challenge, we argued over whose idea to use, so the instructor paused the activity.a. b – e – c – a – db. b – c – e – a – dc. b – e – a – c – dd. b – e – c – d – a write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 3: Developing Soft Skillsa. Once we applied those turn-taking rules, we completed the challenge together.b. On my first day at a summer course, I joined a group of students I had never met before.c. During that pause, she taught us to listen without interrupting and take turns offering ideas.d. Completing it as a team increased my confidence in working with new people.e. During our first group challenge, we argued over whose idea to use, so the instructor paused the activity.A. b – e – c – a – dB. b – c – e – a – dC. b – e – a – c – dD. b – e – c – d – a Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-3",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 3: developing soft skillsa. once we applied those turn-taking rules, we completed the challenge together.b. on my first day at a summer course, i joined a group of students i had never met before.c. during that pause, she taught us to listen without interrupting and take turns offering ideas.d. completing it as a team increased my confidence in working with new people.e. during our first group challenge, we argued over whose idea to use, so the instructor paused the activity.a. b – e – c – a – db. b – c – e – a – dc. b – e – a – c – dd. b – e – c – d – a write a, b, c or d: {#1}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1978139-4",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 4,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 4: support during a performancea. during my first class performance, i forgot my next line and stopped speaking.b. once the performance had ended, i thanked him for helping me continue.c. after hearing those words, i remembered what to say and continued the performance.d. seeing me stop, a classmate beside me quietly whispered the missing words.e. his support is the reason that this performance remains memorable to me.a. a – c – d – b – eb. a – d – b – c – ec. a – d – c – b – ed. d – a – c – b – e write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 4: Support During a Performancea. During my first class performance, I forgot my next line and stopped speaking.b. Once the performance had ended, I thanked him for helping me continue.c. After hearing those words, I remembered what to say and continued the performance.d. Seeing me stop, a classmate beside me quietly whispered the missing words.e. His support is the reason that this performance remains memorable to me.A. a – c – d – b – eB. a – d – b – c – eC. a – d – c – b – eD. d – a – c – b – e Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-4",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 4: support during a performancea. during my first class performance, i forgot my next line and stopped speaking.b. once the performance had ended, i thanked him for helping me continue.c. after hearing those words, i remembered what to say and continued the performance.d. seeing me stop, a classmate beside me quietly whispered the missing words.e. his support is the reason that this performance remains memorable to me.a. a – c – d – b – eb. a – d – b – c – ec. a – d – c – b – ed. d – a – c – b – e write a, b, c or d: {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1978139-5",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 5: preparing my individual postera. once the caption was finished, i used the poster to rehearse my presentation with a partner.b. for this task, i chose my first snorkelling trip and selected a photograph from it.c. under that photograph, i wrote a caption explaining when the trip happened, what i did, how i felt, and why i remembered it.d. after that rehearsal, i added a clearer final sentence about what i had learnt, and my poster was ready to present.e. our teacher asked each of us to prepare an individual poster about a memorable experience.a. e – b – a – c – db. e – b – c – a – dc. e – c – b – a – dd. e – b – c – d – a write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to arrange the sentences into the most coherent paragraph. Use each sentence once.Question 5: Preparing My Individual Postera. Once the caption was finished, I used the poster to rehearse my presentation with a partner.b. For this task, I chose my first snorkelling trip and selected a photograph from it.c. Under that photograph, I wrote a caption explaining when the trip happened, what I did, how I felt, and why I remembered it.d. After that rehearsal, I added a clearer final sentence about what I had learnt, and my poster was ready to present.e. Our teacher asked each of us to prepare an individual poster about a memorable experience.A. e – b – a – c – dB. e – b – c – a – dC. e – c – b – a – dD. e – b – c – d – a Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-5",
+      "questionKey": "choose a, b, c, or d to arrange the sentences into the most coherent paragraph. use each sentence once.question 5: preparing my individual postera. once the caption was finished, i used the poster to rehearse my presentation with a partner.b. for this task, i chose my first snorkelling trip and selected a photograph from it.c. under that photograph, i wrote a caption explaining when the trip happened, what i did, how i felt, and why i remembered it.d. after that rehearsal, i added a clearer final sentence about what i had learnt, and my poster was ready to present.e. our teacher asked each of us to prepare an individual poster about a memorable experience.a. e – b – a – c – db. e – b – c – a – dc. e – c – b – a – dd. e – b – c – d – a write a, b, c or d: {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1978139-6",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 1: late for the summer coursea. student: thank you. may i borrow her copy of the instructions?b. student: thanks for confirming that. i'll ask lan for her copy now.c. student: can i come in? i'm really sorry i'm late. there was a lot of traffic.d. instructor: yes, you may. she has finished using it.e. instructor: that's okay. sit beside lan; she has a copy of the activity instructions.a. c – e – d – a – bb. c – a – e – d – bc. c – e – a – d – bd. e – c – a – d – b write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 1: Late for the Summer Coursea. Student: Thank you. May I borrow her copy of the instructions?b. Student: Thanks for confirming that. I'll ask Lan for her copy now.c. Student: Can I come in? I'm really sorry I'm late. There was a lot of traffic.d. Instructor: Yes, you may. She has finished using it.e. Instructor: That's okay. Sit beside Lan; she has a copy of the activity instructions.A. c – e – d – a – bB. c – a – e – d – bC. c – e – a – d – bD. e – c – a – d – b Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-6",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 1: late for the summer coursea. student: thank you. may i borrow her copy of the instructions?b. student: thanks for confirming that. i'll ask lan for her copy now.c. student: can i come in? i'm really sorry i'm late. there was a lot of traffic.d. instructor: yes, you may. she has finished using it.e. instructor: that's okay. sit beside lan; she has a copy of the activity instructions.a. c – e – d – a – bb. c – a – e – d – bc. c – e – a – d – bd. e – c – a – d – b write a, b, c or d: {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1978139-7",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 7,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 2: a late projecta. student: i can finish it by five o'clock today.b. student: i'm sorry i haven't submitted my experience poster. it was due yesterday.c. student: thank you. i'll send it at the time we've just agreed on.d. teacher: thank you for telling me. when can you have it ready?e. teacher: all right. please send it to me by five o'clock, then.a. b – d – a – e – cb. b – a – d – e – cc. b – d – e – a – cd. b – d – a – c – e write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 2: A Late Projecta. Student: I can finish it by five o'clock today.b. Student: I'm sorry I haven't submitted my experience poster. It was due yesterday.c. Student: Thank you. I'll send it at the time we've just agreed on.d. Teacher: Thank you for telling me. When can you have it ready?e. Teacher: All right. Please send it to me by five o'clock, then.A. b – d – a – e – cB. b – a – d – e – cC. b – d – e – a – cD. b – d – a – c – e Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-7",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 2: a late projecta. student: i can finish it by five o'clock today.b. student: i'm sorry i haven't submitted my experience poster. it was due yesterday.c. student: thank you. i'll send it at the time we've just agreed on.d. teacher: thank you for telling me. when can you have it ready?e. teacher: all right. please send it to me by five o'clock, then.a. b – d – a – e – cb. b – a – d – e – cc. b – d – e – a – cd. b – d – a – c – e write a, b, c or d: {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1978139-8",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 3: home later than promiseda. mother: yes. take the spare phone from the drawer before your next trip.b. mother: that's okay, but next time, please call me if you're going to be late.c. child: thank you. i'll take that spare phone before i go out again.d. child: i will. may i borrow a phone next time? mine stopped working today.e. child: i'm really sorry i came home later than i promised.a. e – d – b – a – cb. e – b – a – d – cc. e – b – d – c – ad. e – b – d – a – c write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 3: Home Later Than Promiseda. Mother: Yes. Take the spare phone from the drawer before your next trip.b. Mother: That's okay, but next time, please call me if you're going to be late.c. Child: Thank you. I'll take that spare phone before I go out again.d. Child: I will. May I borrow a phone next time? Mine stopped working today.e. Child: I'm really sorry I came home later than I promised.A. e – d – b – a – cB. e – b – a – d – cC. e – b – d – c – aD. e – b – d – a – c Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-8",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 3: home later than promiseda. mother: yes. take the spare phone from the drawer before your next trip.b. mother: that's okay, but next time, please call me if you're going to be late.c. child: thank you. i'll take that spare phone before i go out again.d. child: i will. may i borrow a phone next time? mine stopped working today.e. child: i'm really sorry i came home later than i promised.a. e – d – b – a – cb. e – b – a – d – cc. e – b – d – c – ad. e – b – d – a – c write a, b, c or d: {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1978139-9",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 9,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 4: the wrong notebooka. classmate: that's okay, but please bring it back. i need it for my poster.b. student: thanks for confirming the place and time. i'll return your notebook there at twelve.c. classmate: yes. let's meet at the library entrance at twelve o'clock.d. student: oops, my mistake. i've taken your notebook instead of mine.e. student: i'll bring it back as you've asked. can we meet at the library at lunchtime?a. d – a – c – e – bb. d – a – e – c – bc. d – e – a – c – bd. d – a – e – b – c write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 4: The Wrong Notebooka. Classmate: That's okay, but please bring it back. I need it for my poster.b. Student: Thanks for confirming the place and time. I'll return your notebook there at twelve.c. Classmate: Yes. Let's meet at the library entrance at twelve o'clock.d. Student: Oops, my mistake. I've taken your notebook instead of mine.e. Student: I'll bring it back as you've asked. Can we meet at the library at lunchtime?A. d – a – c – e – bB. d – a – e – c – bC. d – e – a – c – bD. d – a – e – b – c Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-9",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 4: the wrong notebooka. classmate: that's okay, but please bring it back. i need it for my poster.b. student: thanks for confirming the place and time. i'll return your notebook there at twelve.c. classmate: yes. let's meet at the library entrance at twelve o'clock.d. student: oops, my mistake. i've taken your notebook instead of mine.e. student: i'll bring it back as you've asked. can we meet at the library at lunchtime?a. d – a – c – e – bb. d – a – e – c – bc. d – e – a – c – bd. d – a – e – b – c write a, b, c or d: {#1}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1978139-10",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 10,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 5: an unfinished taska. mother: you haven't put the camping equipment away yet. i asked you to do it after lunch.b. mother: that's okay, but please do it now.c. mother: yes, the upper shelf. the tent is dry now, so it's ready to store.d. son: oops, my mistake, mum. i thought i could do it later.e. son: all right, i'll start now. should i put the tent on the upper shelf?a. a – d – e – b – cb. a – b – d – e – cc. a – d – b – e – cd. a – d – b – c – e write a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C, or D to form the most natural dialogue. Check speakers, question–answer relationships, and references to earlier requests. Use each utterance once.Question 5: An Unfinished Taska. Mother: You haven't put the camping equipment away yet. I asked you to do it after lunch.b. Mother: That's okay, but please do it now.c. Mother: Yes, the upper shelf. The tent is dry now, so it's ready to store.d. Son: Oops, my mistake, Mum. I thought I could do it later.e. Son: All right, I'll start now. Should I put the tent on the upper shelf?A. a – d – e – b – cB. a – b – d – e – cC. a – d – b – e – cD. a – d – b – c – e Write A, B, C or D: {#1}",
+      "questionId": "question-1978139-10",
+      "questionKey": "choose a, b, c, or d to form the most natural dialogue. check speakers, question–answer relationships, and references to earlier requests. use each utterance once.question 5: an unfinished taska. mother: you haven't put the camping equipment away yet. i asked you to do it after lunch.b. mother: that's okay, but please do it now.c. mother: yes, the upper shelf. the tent is dry now, so it's ready to store.d. son: oops, my mistake, mum. i thought i could do it later.e. son: all right, i'll start now. should i put the tent on the upper shelf?a. a – d – e – b – cb. a – b – d – e – cc. a – d – b – e – cd. a – d – b – c – e write a, b, c or d: {#1}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1978139-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 11,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 11,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 11,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 11,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 11,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "questionNumber": 11,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "questionNumber": 11,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "questionNumber": 11,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "questionNumber": 11,
+          "value": "C"
+        },
+        {
+          "index": 9,
+          "questionNumber": 11,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "read the whole guide. choose a, b, c, or d for each blank. use headings, surrounding advice, sentence structure, and word combinations.question 1a. instructorsb. speciesc. experiencesd. peers write a, b, c or d: {#1}question 2a. attendedb. attendc. attendingd. attends write a, b, c or d: {#2}question 3a. seabedb. themec. confidenced. campus write a, b, c or d: {#3}question 4a. touchingb. softc. strictd. thrilling write a, b, c or d: {#4}question 5a. strictb. brilliantc. touchingd. unpleasant write a, b, c or d: {#5}question 6a. embarrassedb. embarrassmentc. embarrassingd. embarrass write a, b, c or d: {#6}question 7a. sceneryb. mistakec. coursed. species write a, b, c or d: {#7}question 8a. attendb. receivec. rided. solve write a, b, c or d: {#8}question 9a. memoryb. memorablyc. memorabled. memories write a, b, c or d: {#9}question 10a. confidenceb. helplessnessc. sceneryd. bullying write a, b, c or d: {#10}",
+      "letter": "",
+      "options": [],
+      "question": "Read the whole guide. Choose A, B, C, or D for each blank. Use headings, surrounding advice, sentence structure, and word combinations.Question 1A. instructorsB. speciesC. experiencesD. peers Write A, B, C or D: {#1}Question 2A. attendedB. attendC. attendingD. attends Write A, B, C or D: {#2}Question 3A. seabedB. themeC. confidenceD. campus Write A, B, C or D: {#3}Question 4A. touchingB. softC. strictD. thrilling Write A, B, C or D: {#4}Question 5A. strictB. brilliantC. touchingD. unpleasant Write A, B, C or D: {#5}Question 6A. embarrassedB. embarrassmentC. embarrassingD. embarrass Write A, B, C or D: {#6}Question 7A. sceneryB. mistakeC. courseD. species Write A, B, C or D: {#7}Question 8A. attendB. receiveC. rideD. solve Write A, B, C or D: {#8}Question 9A. memoryB. memorablyC. memorableD. memories Write A, B, C or D: {#9}Question 10A. confidenceB. helplessnessC. sceneryD. bullying Write A, B, C or D: {#10}",
+      "questionId": "question-1978139-11",
+      "questionKey": "read the whole guide. choose a, b, c, or d for each blank. use headings, surrounding advice, sentence structure, and word combinations.question 1a. instructorsb. speciesc. experiencesd. peers write a, b, c or d: {#1}question 2a. attendedb. attendc. attendingd. attends write a, b, c or d: {#2}question 3a. seabedb. themec. confidenced. campus write a, b, c or d: {#3}question 4a. touchingb. softc. strictd. thrilling write a, b, c or d: {#4}question 5a. strictb. brilliantc. touchingd. unpleasant write a, b, c or d: {#5}question 6a. embarrassedb. embarrassmentc. embarrassingd. embarrass write a, b, c or d: {#6}question 7a. sceneryb. mistakec. coursed. species write a, b, c or d: {#7}question 8a. attendb. receivec. rided. solve write a, b, c or d: {#8}question 9a. memoryb. memorablyc. memorabled. memories write a, b, c or d: {#9}question 10a. confidenceb. helplessnessc. sceneryd. bullying write a, b, c or d: {#10}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
