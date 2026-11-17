@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR9EX50MOET",
+    "quiz_key": "gr9ex50moet",
+    "cmid": "746619",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_5/gr9ex50moet.json",
+    "score": "20.00/20.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-11-17 21:00:46"
+  },
+  "answers": [
+    {
+      "id": "question-1978134-9",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.the course helped me develop soft skills such as listening and cooperating. they now help me work more effectively with my peers at school.what does they refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. The course helped me develop soft skills such as listening and cooperating. They now help me work more effectively with my peers at school. What does they refer to?",
+      "options": [
+        "The soft skills developed on the course"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-9",
+      "questionNumber": 8,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.The course helped me develop soft skills such as listening and cooperating. They now help me work more effectively with my peers at school.What does they refer to?",
+      "answer": "The soft skills developed on the course",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.the course helped me develop soft skills such as listening and cooperating. they now help me work more effectively with my peers at school.what does they refer to?",
+      "letter": "A",
+      "rightAnswer": "The soft skills developed on the course"
+    },
+    {
+      "id": "question-1978134-5",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.while snorkelling, we explored a coral reef, which provided a home for several species of fish. our instructor reminded us not to touch the coral.what does which refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. While snorkelling, we explored a coral reef, which provided a home for several species of fish. Our instructor reminded us not to touch the coral. What does which refer to?",
+      "options": [
+        "The coral reef"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-5",
+      "questionNumber": 5,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.While snorkelling, we explored a coral reef, which provided a home for several species of fish. Our instructor reminded us not to touch the coral.What does which refer to?",
+      "answer": "The coral reef",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.while snorkelling, we explored a coral reef, which provided a home for several species of fish. our instructor reminded us not to touch the coral.what does which refer to?",
+      "letter": "C",
+      "rightAnswer": "The coral reef"
+    },
+    {
+      "id": "question-1978134-2",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.the students gathered on the campus before the team-building activities began. they discussed how to share responsibilities fairly.what does they refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. The students gathered on the campus before the team-building activities began. They discussed how to share responsibilities fairly. What does they refer to?",
+      "options": [
+        "The students"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-2",
+      "questionNumber": 1,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.The students gathered on the campus before the team-building activities began. They discussed how to share responsibilities fairly.What does they refer to?",
+      "answer": "The students",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.the students gathered on the campus before the team-building activities began. they discussed how to share responsibilities fairly.what does they refer to?",
+      "letter": "D",
+      "rightAnswer": "The students"
+    },
+    {
+      "id": "question-1978134-10",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.for my poster, i chose my first school performance as a memorable event. during this experience, i forgot a line but continued after a classmate helped me.what does this experience refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. For my poster, I chose my first school performance as a memorable event. During this experience, I forgot a line but continued after a classmate helped me. What does this experience refer to?",
+      "options": [
+        "The first school performance"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-10",
+      "questionNumber": 9,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.For my poster, I chose my first school performance as a memorable event. During this experience, I forgot a line but continued after a classmate helped me.What does this experience refer to?",
+      "answer": "The first school performance",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.for my poster, i chose my first school performance as a memorable event. during this experience, i forgot a line but continued after a classmate helped me.what does this experience refer to?",
+      "letter": "D",
+      "rightAnswer": "The first school performance"
+    },
+    {
+      "id": "question-1978134-4",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.our group put up the tent without help after practising the steps together. this gave us confidence that we could manage similar tasks.what does this refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. Our group put up the tent without help after practising the steps together. This gave us confidence that we could manage similar tasks. What does this refer to?",
+      "options": [
+        "Putting up the tent without help"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-4",
+      "questionNumber": 10,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.Our group put up the tent without help after practising the steps together. This gave us confidence that we could manage similar tasks.What does this refer to?",
+      "answer": "Putting up the tent without help",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.our group put up the tent without help after practising the steps together. this gave us confidence that we could manage similar tasks.what does this refer to?",
+      "letter": "C",
+      "rightAnswer": "Putting up the tent without help"
+    },
+    {
+      "id": "question-1978134-6",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.i took twelve photographs of the mountain scenery during the excursion. for my individual poster, i selected three photographs that clearly showed the view. those were the only photographs i printed.what does those refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. I took twelve photographs of the mountain scenery during the excursion. For my individual poster, I selected three photographs that clearly showed the view. Those were the only photographs I printed. What does those refer to?",
+      "options": [
+        "The three photographs selected for the poster"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-6",
+      "questionNumber": 2,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.I took twelve photographs of the mountain scenery during the excursion. For my individual poster, I selected three photographs that clearly showed the view. Those were the only photographs I printed.What does those refer to?",
+      "answer": "The three photographs selected for the poster",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.i took twelve photographs of the mountain scenery during the excursion. for my individual poster, i selected three photographs that clearly showed the view. those were the only photographs i printed.what does those refer to?",
+      "letter": "D",
+      "rightAnswer": "The three photographs selected for the poster"
+    },
+    {
+      "id": "question-1978134-7",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.our group hired a jeep for the mountain trip. before we left, the instructor checked it to make sure the tyres and lights were working properly.what does it refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. Our group hired a jeep for the mountain trip. Before we left, the instructor checked it to make sure the tyres and lights were working properly. What does it refer to?",
+      "options": [
+        "The jeep"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-7",
+      "questionNumber": 6,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.Our group hired a jeep for the mountain trip. Before we left, the instructor checked it to make sure the tyres and lights were working properly.What does it refer to?",
+      "answer": "The jeep",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.our group hired a jeep for the mountain trip. before we left, the instructor checked it to make sure the tyres and lights were working properly.what does it refer to?",
+      "letter": "D",
+      "rightAnswer": "The jeep"
+    },
+    {
+      "id": "question-1978134-3",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.during the residential course, i received letters from home. these contained touching messages that i read again before going to sleep.what does these refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. During the residential course, I received letters from home. These contained touching messages that I read again before going to sleep. What does these refer to?",
+      "options": [
+        "The letters from home"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-3",
+      "questionNumber": 4,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.During the residential course, I received letters from home. These contained touching messages that I read again before going to sleep.What does these refer to?",
+      "answer": "The letters from home",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.during the residential course, i received letters from home. these contained touching messages that i read again before going to sleep.what does these refer to?",
+      "letter": "B",
+      "rightAnswer": "The letters from home"
+    },
+    {
+      "id": "question-1978134-1",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.i attended a summer course to develop my soft skills. it included activities that required everyone to listen carefully and cooperate.what does it refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. I attended a summer course to develop my soft skills. It included activities that required everyone to listen carefully and cooperate. What does it refer to?",
+      "options": [
+        "The summer course"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-1",
+      "questionNumber": 3,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.I attended a summer course to develop my soft skills. It included activities that required everyone to listen carefully and cooperate.What does it refer to?",
+      "answer": "The summer course",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.i attended a summer course to develop my soft skills. it included activities that required everyone to listen carefully and cooperate.what does it refer to?",
+      "letter": "D",
+      "rightAnswer": "The summer course"
+    },
+    {
+      "id": "question-1978134-8",
+      "questionKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.i apologised to the instructor for arriving late. she accepted my apology and allowed me to join the activity. that helped me feel less embarrassed.what does that refer to?",
+      "questionRaw": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning. I apologised to the instructor for arriving late. She accepted my apology and allowed me to join the activity. That helped me feel less embarrassed. What does that refer to?",
+      "options": [
+        "The instructor accepting the apology and letting the student join"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-8",
+      "questionNumber": 7,
+      "question": "Choose A, B, C, or D to identify what the bold expression refers to. Check both grammar and meaning.I apologised to the instructor for arriving late. She accepted my apology and allowed me to join the activity. That helped me feel less embarrassed.What does that refer to?",
+      "answer": "The instructor accepting the apology and letting the student join",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify what the bold expression refers to. check both grammar and meaning.i apologised to the instructor for arriving late. she accepted my apology and allowed me to join the activity. that helped me feel less embarrassed.what does that refer to?",
+      "letter": "A",
+      "rightAnswer": "The instructor accepting the apology and letting the student join"
+    },
+    {
+      "id": "question-1978134-19",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: we put up the tents before the rain began.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: We put up the tents before the rain began.",
+      "options": [
+        "We finished erecting the tents before it started raining."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-19",
+      "questionNumber": 11,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: We put up the tents before the rain began.",
+      "answer": "We finished erecting the tents before it started raining.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: we put up the tents before the rain began.",
+      "letter": "A",
+      "rightAnswer": "We finished erecting the tents before it started raining."
+    },
+    {
+      "id": "question-1978134-12",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: the instructor walked us through the process of putting up a tent.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: The instructor walked us through the process of putting up a tent.",
+      "options": [
+        "The instructor explained to us, step by step, how to erect a tent."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-12",
+      "questionNumber": 16,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: The instructor walked us through the process of putting up a tent.",
+      "answer": "The instructor explained to us, step by step, how to erect a tent.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: the instructor walked us through the process of putting up a tent.",
+      "letter": "C",
+      "rightAnswer": "The instructor explained to us, step by step, how to erect a tent."
+    },
+    {
+      "id": "question-1978134-20",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: my individual poster describes my first snorkelling trip and explains why i remember it.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: My individual poster describes my first snorkelling trip and explains why I remember it.",
+      "options": [
+        "In my own poster, I describe my first snorkelling trip and say why it stays in my memory."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-20",
+      "questionNumber": 15,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: My individual poster describes my first snorkelling trip and explains why I remember it.",
+      "answer": "In my own poster, I describe my first snorkelling trip and say why it stays in my memory.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: my individual poster describes my first snorkelling trip and explains why i remember it.",
+      "letter": "A",
+      "rightAnswer": "In my own poster, I describe my first snorkelling trip and say why it stays in my memory."
+    },
+    {
+      "id": "question-1978134-15",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: i have ridden a jeep twice.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: I have ridden a jeep twice.",
+      "options": [
+        "I have travelled in a jeep on two occasions up to now."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-15",
+      "questionNumber": 14,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: I have ridden a jeep twice.",
+      "answer": "I have travelled in a jeep on two occasions up to now.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: i have ridden a jeep twice.",
+      "letter": "C",
+      "rightAnswer": "I have travelled in a jeep on two occasions up to now."
+    },
+    {
+      "id": "question-1978134-16",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: the letters i received from home during the course were touching.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: The letters I received from home during the course were touching.",
+      "options": [
+        "The letters I received from home during the course deeply moved me."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-16",
+      "questionNumber": 17,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: The letters I received from home during the course were touching.",
+      "answer": "The letters I received from home during the course deeply moved me.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: the letters i received from home during the course were touching.",
+      "letter": "D",
+      "rightAnswer": "The letters I received from home during the course deeply moved me."
+    },
+    {
+      "id": "question-1978134-14",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: i felt helpless because i could do nothing to improve the situation.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: I felt helpless because I could do nothing to improve the situation.",
+      "options": [
+        "I felt unable to act effectively because I could not make the situation better."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-14",
+      "questionNumber": 13,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: I felt helpless because I could do nothing to improve the situation.",
+      "answer": "I felt unable to act effectively because I could not make the situation better.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: i felt helpless because i could do nothing to improve the situation.",
+      "letter": "B",
+      "rightAnswer": "I felt unable to act effectively because I could not make the situation better."
+    },
+    {
+      "id": "question-1978134-11",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: i have never attended an army camp before.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: I have never attended an army camp before.",
+      "options": [
+        "I have not taken part in an army camp at any time up to now."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-11",
+      "questionNumber": 19,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: I have never attended an army camp before.",
+      "answer": "I have not taken part in an army camp at any time up to now.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: i have never attended an army camp before.",
+      "letter": "D",
+      "rightAnswer": "I have not taken part in an army camp at any time up to now."
+    },
+    {
+      "id": "question-1978134-18",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: calling the instructor by the wrong name made me feel embarrassed.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: Calling the instructor by the wrong name made me feel embarrassed.",
+      "options": [
+        "Using the instructor's wrong name was an embarrassing experience for me."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-18",
+      "questionNumber": 18,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: Calling the instructor by the wrong name made me feel embarrassed.",
+      "answer": "Using the instructor's wrong name was an embarrassing experience for me.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: calling the instructor by the wrong name made me feel embarrassed.",
+      "letter": "A",
+      "rightAnswer": "Using the instructor's wrong name was an embarrassing experience for me."
+    },
+    {
+      "id": "question-1978134-17",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: the course helped me develop soft skills, especially listening and cooperating.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: The course helped me develop soft skills, especially listening and cooperating.",
+      "options": [
+        "The course improved my ability to listen to others and work with them."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-17",
+      "questionNumber": 20,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: The course helped me develop soft skills, especially listening and cooperating.",
+      "answer": "The course improved my ability to listen to others and work with them.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: the course helped me develop soft skills, especially listening and cooperating.",
+      "letter": "C",
+      "rightAnswer": "The course improved my ability to listen to others and work with them."
+    },
+    {
+      "id": "question-1978134-13",
+      "questionKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: although the school trip was unpleasant, it was memorable.",
+      "questionRaw": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details. Original: Although the school trip was unpleasant, it was memorable.",
+      "options": [
+        "The school trip was unpleasant, but it stayed in my memory."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1978134-13",
+      "questionNumber": 12,
+      "question": "Choose A, B, C, or D to identify the sentence CLOSET in meaning to the original. Reject changes to the original details.Original: Although the school trip was unpleasant, it was memorable.",
+      "answer": "The school trip was unpleasant, but it stayed in my memory.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c, or d to identify the sentence closet in meaning to the original. reject changes to the original details.original: although the school trip was unpleasant, it was memorable.",
+      "letter": "D",
+      "rightAnswer": "The school trip was unpleasant, but it stayed in my memory."
+    }
+  ]
+}
