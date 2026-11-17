@@ -1,0 +1,452 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR9EX52MOET",
+    "quiz_key": "gr9ex52moet",
+    "cmid": "749951",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_5/gr9ex52moet.json",
+    "score": "22.00/22.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-17 21:04:57"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1 — language in functional textsquestions 1–6read the following text and choose the best answer to indicate the option that best fits each numbered blank. my first soft-skills course i (1) just completed a weekend soft-skills course at our youth centre. it was one of the most (2) experiences i have ever had. during the course, we (3) in small groups on different projects. at first, my mind (4) when i had to speak in front of everyone. however, the trainers showed us how to organise our ideas and (5) problems together. i have never attended a course like this (6) . i now feel much more confident about sharing my ideas with others.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following text and choose the best answer to indicate the option that best fits each numbered blank. MY FIRST SOFT-SKILLS COURSE I (1) {#1} just completed a weekend soft-skills course at our youth centre. It was one of the most (2) {#2} experiences I have ever had. During the course, we (3) {#3} in small groups on different projects. At first, my mind (4) {#4} when I had to speak in front of everyone. However, the trainers showed us how to organise our ideas and (5) {#5} problems together. I have never attended a course like this (6) {#6}. I now feel much more confident about sharing my ideas with others.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "have"
+        },
+        {
+          "index": 1,
+          "value": "memorable"
+        },
+        {
+          "index": 2,
+          "value": "worked"
+        },
+        {
+          "index": 3,
+          "value": "went blank"
+        },
+        {
+          "index": 4,
+          "value": "solve"
+        },
+        {
+          "index": 5,
+          "value": "before"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following text and choose the best answer to indicate the option that best fits each numbered blank. MY FIRST SOFT-SKILLS COURSE I (1) {#1} just completed a weekend soft-skills course at our youth centre. It was one of the most (2) {#2} experiences I have ever had. During the course, we (3) {#3} in small groups on different projects. At first, my mind (4) {#4} when I had to speak in front of everyone. However, the trainers showed us how to organise our ideas and (5) {#5} problems together. I have never attended a course like this (6) {#6}. I now feel much more confident about sharing my ideas with others.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1 — language in functional textsquestions 7–12read the following text and choose the best answer to indicate the option that best fits each numbered blank. a small mistake on camping day our class (7) three camping days this school year, but last saturday’s event was the most enjoyable. we learned how to (8) tents and cook simple meals outdoors. i had an (9) moment when i took minh’s bag by mistake. i immediately said, “i’m really (10) , minh. the two bags look exactly the same.” “that’s (11) ,” he replied. “i’ve (12) found yours beside the tent.” we laughed about the mistake and then joined the team-building games.",
+      "questionRaw": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following text and choose the best answer to indicate the option that best fits each numbered blank. A SMALL MISTAKE ON CAMPING DAY Our class (7) {#1} three camping days this school year, but last Saturday’s event was the most enjoyable. We learned how to (8) {#2} tents and cook simple meals outdoors. I had an (9) {#3} moment when I took Minh’s bag by mistake. I immediately said, “I’m really (10) {#4}, Minh. The two bags look exactly the same.” “That’s (11) {#5},” he replied. “I’ve (12) {#6} found yours beside the tent.” We laughed about the mistake and then joined the team-building games.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "has organised"
+        },
+        {
+          "index": 1,
+          "value": "put up"
+        },
+        {
+          "index": 2,
+          "value": "embarrassing"
+        },
+        {
+          "index": 3,
+          "value": "sorry"
+        },
+        {
+          "index": 4,
+          "value": "okay"
+        },
+        {
+          "index": 5,
+          "value": "already"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following text and choose the best answer to indicate the option that best fits each numbered blank. A SMALL MISTAKE ON CAMPING DAY Our class (7) {#1} three camping days this school year, but last Saturday’s event was the most enjoyable. We learned how to (8) {#2} tents and cook simple meals outdoors. I had an (9) {#3} moment when I took Minh’s bag by mistake. I immediately said, “I’m really (10) {#4}, Minh. The two bags look exactly the same.” “That’s (11) {#5},” he replied. “I’ve (12) {#6} found yours beside the tent.” We laughed about the mistake and then joined the team-building games.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a weekend english course last month, hoa attended a weekend english course at a university. it was the first course she attended without any of her close friends. (13) ______. on the first morning, the trainer divided the students into teams. each team had to prepare a short presentation about an environmental problem. (14) ______. she worried that the other students would laugh if she made a mistake. however, her teammates were friendly and patient. they listened to her ideas and encouraged her to present one part of the project. (15) ______. when it was her turn to speak, she remembered the main points and completed her part successfully. after the presentation, the trainer praised the whole team for working well together. (16) ______. she realised that making small mistakes was a natural part of learning. hoa has taken part in two other speaking activities since that weekend. (17) ______. question 13.a. the university had closed all its language classrooms.b. her closest friends had already completed the same project.c. as a result, she felt nervous when she arrived at the campus.d. she had decided not to communicate with anyone on the course.write a, b, c, or d - question 14.a. hoa had never given a presentation in english before.b. hoa had already won several international speaking contests.c. the trainer asked hoa to complete the entire project alone.d. the students refused to discuss the environmental problem.write a, b, c, or d - question 15.a. she left the room before the group began practising.b. she asked the trainer to cancel the group presentation.c. she decided to learn every sentence by rote at home.d. with their support, she practised her section several times.write a, b, c, or d - question 16.a. hoa was disappointed because her team had finished early.b. hoa felt relieved and proud of what she had achieved.c. hoa complained that the project was too easy for her.d. hoa promised that she would never speak english again.write a, b, c, or d - question 17.a. she has avoided working with new classmates since then.b. she has forgotten everything she learned on the course.c. she has become more confident about speaking in front of others.d. she has decided that teamwork is unnecessary for language learning.write a, b, c, or d -",
+      "questionRaw": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A WEEKEND ENGLISH COURSE Last month, Hoa attended a weekend English course at a university. It was the first course she attended without any of her close friends. (13) ______. On the first morning, the trainer divided the students into teams. Each team had to prepare a short presentation about an environmental problem. (14) ______. She worried that the other students would laugh if she made a mistake. However, her teammates were friendly and patient. They listened to her ideas and encouraged her to present one part of the project. (15) ______. When it was her turn to speak, she remembered the main points and completed her part successfully. After the presentation, the trainer praised the whole team for working well together. (16) ______. She realised that making small mistakes was a natural part of learning. Hoa has taken part in two other speaking activities since that weekend. (17) ______. Question 13.A. The university had closed all its language classrooms.B. Her closest friends had already completed the same project.C. As a result, she felt nervous when she arrived at the campus.D. She had decided not to communicate with anyone on the course.Write A, B, C, or D - {#1}Question 14.A. Hoa had never given a presentation in English before.B. Hoa had already won several international speaking contests.C. The trainer asked Hoa to complete the entire project alone.D. The students refused to discuss the environmental problem.Write A, B, C, or D - {#2}Question 15.A. She left the room before the group began practising.B. She asked the trainer to cancel the group presentation.C. She decided to learn every sentence by rote at home.D. With their support, she practised her section several times.Write A, B, C, or D - {#3}Question 16.A. Hoa was disappointed because her team had finished early.B. Hoa felt relieved and proud of what she had achieved.C. Hoa complained that the project was too easy for her.D. Hoa promised that she would never speak English again.Write A, B, C, or D - {#4}Question 17.A. She has avoided working with new classmates since then.B. She has forgotten everything she learned on the course.C. She has become more confident about speaking in front of others.D. She has decided that teamwork is unnecessary for language learning.Write A, B, C, or D - {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A WEEKEND ENGLISH COURSE Last month, Hoa attended a weekend English course at a university. It was the first course she attended without any of her close friends. (13) ______. On the first morning, the trainer divided the students into teams. Each team had to prepare a short presentation about an environmental problem. (14) ______. She worried that the other students would laugh if she made a mistake. However, her teammates were friendly and patient. They listened to her ideas and encouraged her to present one part of the project. (15) ______. When it was her turn to speak, she remembered the main points and completed her part successfully. After the presentation, the trainer praised the whole team for working well together. (16) ______. She realised that making small mistakes was a natural part of learning. Hoa has taken part in two other speaking activities since that weekend. (17) ______. Question 13.A. The university had closed all its language classrooms.B. Her closest friends had already completed the same project.C. As a result, she felt nervous when she arrived at the campus.D. She had decided not to communicate with anyone on the course.Write A, B, C, or D - {#1}Question 14.A. Hoa had never given a presentation in English before.B. Hoa had already won several international speaking contests.C. The trainer asked Hoa to complete the entire project alone.D. The students refused to discuss the environmental problem.Write A, B, C, or D - {#2}Question 15.A. She left the room before the group began practising.B. She asked the trainer to cancel the group presentation.C. She decided to learn every sentence by rote at home.D. With their support, she practised her section several times.Write A, B, C, or D - {#3}Question 16.A. Hoa was disappointed because her team had finished early.B. Hoa felt relieved and proud of what she had achieved.C. Hoa complained that the project was too easy for her.D. Hoa promised that she would never speak English again.Write A, B, C, or D - {#4}Question 17.A. She has avoided working with new classmates since then.B. She has forgotten everything she learned on the course.C. She has become more confident about speaking in front of others.D. She has decided that teamwork is unnecessary for language learning.Write A, B, C, or D - {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18a. teacher: that’s all right, but please try to arrive on time tomorrow.b. linh: i’m really sorry i’m late, ms hoa.c. teacher: what happened, linh?d. linh: the bus broke down on my way to school.a. c – b – d – ab. b – c – d – ac. b – d – a – cd. d – c – b – awrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. Teacher: That’s all right, but please try to arrive on time tomorrow.b. Linh: I’m really sorry I’m late, Ms Hoa.c. Teacher: What happened, Linh?d. Linh: The bus broke down on my way to school.A. c – b – d – aB. b – c – d – aC. b – d – a – cD. d – c – b – aWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. Teacher: That’s all right, but please try to arrive on time tomorrow.b. Linh: I’m really sorry I’m late, Ms Hoa.c. Teacher: What happened, Linh?d. Linh: The bus broke down on my way to school.A. c – b – d – aB. b – c – d – aC. b – d – a – cD. d – c – b – aWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19a. nam: yes, i have. i attended one in da nang last summer.b. mai: what did you enjoy most about it?c. nam: i really enjoyed the team-building activities.d. mai: have you ever attended a summer course?a. d – b – a – cb. a – d – c – bc. b – c – d – ad. d – a – b – cwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. Nam: Yes, I have. I attended one in Da Nang last summer.b. Mai: What did you enjoy most about it?c. Nam: I really enjoyed the team-building activities.d. Mai: Have you ever attended a summer course?A. d – b – a – cB. a – d – c – bC. b – c – d – aD. d – a – b – cWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. Nam: Yes, I have. I attended one in Da Nang last summer.b. Mai: What did you enjoy most about it?c. Nam: I really enjoyed the team-building activities.d. Mai: Have you ever attended a summer course?A. d – b – a – cB. a – d – c – bC. b – c – d – aD. d – a – b – cWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20a. first, the team leader explained the rules to us.b. at the end of the day, our team received a small prize.c. last saturday, i joined my school’s problem-solving competition.d. after that, we worked together to complete three difficult tasks.a. c – a – d – bb. a – c – b – dc. c – d – a – bd. a – d – c – bwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. First, the team leader explained the rules to us.b. At the end of the day, our team received a small prize.c. Last Saturday, I joined my school’s problem-solving competition.d. After that, we worked together to complete three difficult tasks.A. c – a – d – bB. a – c – b – dC. c – d – a – bD. a – d – c – bWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. First, the team leader explained the rules to us.b. At the end of the day, our team received a small prize.c. Last Saturday, I joined my school’s problem-solving competition.d. After that, we worked together to complete three difficult tasks.A. c – a – d – bB. a – c – b – dC. c – d – a – bD. a – d – c – bWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21a. one of the instructors showed us how to secure it properly.b. since then, i have become more confident about camping.c. my first experience of putting up a tent was not easy.d. the tent fell down twice because i had not followed the instructions.e. after some practice, my partner and i finally completed the task.a. c – a – d – e – bb. d – c – a – b – ec. c – d – a – e – bd. d – a – c – e – bwrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. One of the instructors showed us how to secure it properly.b. Since then, I have become more confident about camping.c. My first experience of putting up a tent was not easy.d. The tent fell down twice because I had not followed the instructions.e. After some practice, my partner and I finally completed the task.A. c – a – d – e – bB. d – c – a – b – eC. c – d – a – e – bD. d – a – c – e – bWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "C"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. One of the instructors showed us how to secure it properly.b. Since then, I have become more confident about camping.c. My first experience of putting up a tent was not easy.d. The tent fell down twice because I had not followed the instructions.e. After some practice, my partner and I finally completed the task.A. c – a – d – e – bB. d – c – a – b – eC. c – d – a – e – bD. d – a – c – e – bWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22a. according to nam, the course has made him more independent.b. nam attended a memorable summer course last year.c. during those three weeks, he toured the campus, attended english classes, and worked on group projects.d. the three-week course took place at a university in singapore.e. these group activities helped him overcome his initial homesickness and make several new friends.a. b – c – d – a – eb. b – d – c – e – ac. d – b – e – c – ad. d – c – b – a – ewrite a, b, c, or d –",
+      "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. According to Nam, the course has made him more independent.b. Nam attended a memorable summer course last year.c. During those three weeks, he toured the campus, attended English classes, and worked on group projects.d. The three-week course took place at a university in Singapore.e. These group activities helped him overcome his initial homesickness and make several new friends.A. b – c – d – a – eB. b – d – c – e – aC. d – b – e – c – aD. d – c – b – a – eWrite A, B, C, or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. According to Nam, the course has made him more independent.b. Nam attended a memorable summer course last year.c. During those three weeks, he toured the campus, attended English classes, and worked on group projects.d. The three-week course took place at a university in Singapore.e. These group activities helped him overcome his initial homesickness and make several new friends.A. b – c – d – a – eB. b – d – c – e – aC. d – b – e – c – aD. d – c – b – a – eWrite A, B, C, or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. have",
+      "id": "question-1978148-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional textsquestions 1–6read the following text and choose the best answer to indicate the option that best fits each numbered blank. my first soft-skills course i (1) {#1} just completed a weekend soft-skills course at our youth centre. it was one of the most (2) {#2} experiences i have ever had. during the course, we (3) {#3} in small groups on different projects. at first, my mind (4) {#4} when i had to speak in front of everyone. however, the trainers showed us how to organise our ideas and (5) {#5} problems together. i have never attended a course like this (6) {#6}. i now feel much more confident about sharing my ideas with others.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following text and choose the best answer to indicate the option that best fits each numbered blank. MY FIRST SOFT-SKILLS COURSE I (1) [Blank 1] just completed a weekend soft-skills course at our youth centre. It was one of the most (2) [Blank 2] experiences I have ever had. During the course, we (3) [Blank 3] in small groups on different projects. At first, my mind (4) [Blank 4] when I had to speak in front of everyone. However, the trainers showed us how to organise our ideas and (5) [Blank 5] problems together. I have never attended a course like this (6) [Blank 6] . I now feel much more confident about sharing my ideas with others.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.wasB.haveC.amD.didÔ (2):A.embarrassingB.helplessC.unpleasantD.memorableÔ (3):A.workB.workedC.are workingD.have workedÔ (4):A.made silentB.became missingC.turned emptyD.went blankÔ (5):A.tourB.solveC.collectD.receiveÔ (6):A.beforeB.sinceC.alreadyD.yet",
+      "questionId": "question-1978148-1",
+      "questionKey": "part 1 — language in functional textsquestions 1–6read the following text and choose the best answer to indicate the option that best fits each numbered blank. my first soft-skills course i (1) [blank 1] just completed a weekend soft-skills course at our youth centre. it was one of the most (2) [blank 2] experiences i have ever had. during the course, we (3) [blank 3] in small groups on different projects. at first, my mind (4) [blank 4] when i had to speak in front of everyone. however, the trainers showed us how to organise our ideas and (5) [blank 5] problems together. i have never attended a course like this (6) [blank 6] . i now feel much more confident about sharing my ideas with others.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.wasb.havec.amd.didô (2):a.embarrassingb.helplessc.unpleasantd.memorableô (3):a.workb.workedc.are workingd.have workedô (4):a.made silentb.became missingc.turned emptyd.went blankô (5):a.tourb.solvec.collectd.receiveô (6):a.beforeb.sincec.alreadyd.yet",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "B. have"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "D. memorable"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "B. worked"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "D. went blank"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "B. solve"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "A. before"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. has organised",
+      "id": "question-1978148-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional textsquestions 7–12read the following text and choose the best answer to indicate the option that best fits each numbered blank. a small mistake on camping day our class (7) {#1} three camping days this school year, but last saturday's event was the most enjoyable. we learned how to (8) {#2} tents and cook simple meals outdoors. i had an (9) {#3} moment when i took minh's bag by mistake. i immediately said, \"i'm really (10) {#4}, minh. the two bags look exactly the same.\" \"that's (11) {#5},\" he replied. \"i've (12) {#6} found yours beside the tent.\" we laughed about the mistake and then joined the team-building games.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following text and choose the best answer to indicate the option that best fits each numbered blank. A SMALL MISTAKE ON CAMPING DAY Our class (7) [Blank 7] three camping days this school year, but last Saturday's event was the most enjoyable. We learned how to (8) [Blank 8] tents and cook simple meals outdoors. I had an (9) [Blank 9] moment when I took Minh's bag by mistake. I immediately said, \"I'm really (10) [Blank 10] , Minh. The two bags look exactly the same.\" \"That's (11) [Blank 11] ,\" he replied. \"I've (12) [Blank 12] found yours beside the tent.\" We laughed about the mistake and then joined the team-building games.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.organisedB.organisesC.is organisingD.has organisedÔ (8):A.take offB.bring outC.put upD.turn onÔ (9):A.touchingB.embarrassingC.exhilaratingD.relaxingÔ (10):A.sorryB.specialC.excitedD.pleasedÔ (11):A.wrongB.seriousC.unhappyD.okayÔ (12):A.everB.neverC.yetD.already",
+      "questionId": "question-1978148-2",
+      "questionKey": "part 1 — language in functional textsquestions 7–12read the following text and choose the best answer to indicate the option that best fits each numbered blank. a small mistake on camping day our class (7) [blank 7] three camping days this school year, but last saturday's event was the most enjoyable. we learned how to (8) [blank 8] tents and cook simple meals outdoors. i had an (9) [blank 9] moment when i took minh's bag by mistake. i immediately said, \"i'm really (10) [blank 10] , minh. the two bags look exactly the same.\" \"that's (11) [blank 11] ,\" he replied. \"i've (12) [blank 12] found yours beside the tent.\" we laughed about the mistake and then joined the team-building games.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.organisedb.organisesc.is organisingd.has organisedô (8):a.take offb.bring outc.put upd.turn onô (9):a.touchingb.embarrassingc.exhilaratingd.relaxingô (10):a.sorryb.specialc.excitedd.pleasedô (11):a.wrongb.seriousc.unhappyd.okayô (12):a.everb.neverc.yetd.already",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "D. has organised"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "C. put up"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "B. embarrassing"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "A. sorry"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "D. okay"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "D. already"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1978148-3",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 3,
+          "value": "C"
+        },
+        {
+          "index": 1,
+          "questionNumber": 3,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 3,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a weekend english course last month, hoa attended a weekend english course at a university. it was the first course she attended without any of her close friends. (13) ______. on the first morning, the trainer divided the students into teams. each team had to prepare a short presentation about an environmental problem. (14) ______. she worried that the other students would laugh if she made a mistake. however, her teammates were friendly and patient. they listened to her ideas and encouraged her to present one part of the project. (15) ______. when it was her turn to speak, she remembered the main points and completed her part successfully. after the presentation, the trainer praised the whole team for working well together. (16) ______. she realised that making small mistakes was a natural part of learning. hoa has taken part in two other speaking activities since that weekend. (17) ______. question 13.a. the university had closed all its language classrooms.b. her closest friends had already completed the same project.c. as a result, she felt nervous when she arrived at the campus.d. she had decided not to communicate with anyone on the course.write a, b, c, or d - {#1}question 14.a. hoa had never given a presentation in english before.b. hoa had already won several international speaking contests.c. the trainer asked hoa to complete the entire project alone.d. the students refused to discuss the environmental problem.write a, b, c, or d - {#2}question 15.a. she left the room before the group began practising.b. she asked the trainer to cancel the group presentation.c. she decided to learn every sentence by rote at home.d. with their support, she practised her section several times.write a, b, c, or d - {#3}question 16.a. hoa was disappointed because her team had finished early.b. hoa felt relieved and proud of what she had achieved.c. hoa complained that the project was too easy for her.d. hoa promised that she would never speak english again.write a, b, c, or d - {#4}question 17.a. she has avoided working with new classmates since then.b. she has forgotten everything she learned on the course.c. she has become more confident about speaking in front of others.d. she has decided that teamwork is unnecessary for language learning.write a, b, c, or d - {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2 — PASSAGE COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A WEEKEND ENGLISH COURSE Last month, Hoa attended a weekend English course at a university. It was the first course she attended without any of her close friends. (13) ______. On the first morning, the trainer divided the students into teams. Each team had to prepare a short presentation about an environmental problem. (14) ______. She worried that the other students would laugh if she made a mistake. However, her teammates were friendly and patient. They listened to her ideas and encouraged her to present one part of the project. (15) ______. When it was her turn to speak, she remembered the main points and completed her part successfully. After the presentation, the trainer praised the whole team for working well together. (16) ______. She realised that making small mistakes was a natural part of learning. Hoa has taken part in two other speaking activities since that weekend. (17) ______. Question 13.A. The university had closed all its language classrooms.B. Her closest friends had already completed the same project.C. As a result, she felt nervous when she arrived at the campus.D. She had decided not to communicate with anyone on the course.Write A, B, C, or D - {#1}Question 14.A. Hoa had never given a presentation in English before.B. Hoa had already won several international speaking contests.C. The trainer asked Hoa to complete the entire project alone.D. The students refused to discuss the environmental problem.Write A, B, C, or D - {#2}Question 15.A. She left the room before the group began practising.B. She asked the trainer to cancel the group presentation.C. She decided to learn every sentence by rote at home.D. With their support, she practised her section several times.Write A, B, C, or D - {#3}Question 16.A. Hoa was disappointed because her team had finished early.B. Hoa felt relieved and proud of what she had achieved.C. Hoa complained that the project was too easy for her.D. Hoa promised that she would never speak English again.Write A, B, C, or D - {#4}Question 17.A. She has avoided working with new classmates since then.B. She has forgotten everything she learned on the course.C. She has become more confident about speaking in front of others.D. She has decided that teamwork is unnecessary for language learning.Write A, B, C, or D - {#5}",
+      "questionId": "question-1978148-3",
+      "questionKey": "part 2 — passage completionquestions 13–17read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a weekend english course last month, hoa attended a weekend english course at a university. it was the first course she attended without any of her close friends. (13) ______. on the first morning, the trainer divided the students into teams. each team had to prepare a short presentation about an environmental problem. (14) ______. she worried that the other students would laugh if she made a mistake. however, her teammates were friendly and patient. they listened to her ideas and encouraged her to present one part of the project. (15) ______. when it was her turn to speak, she remembered the main points and completed her part successfully. after the presentation, the trainer praised the whole team for working well together. (16) ______. she realised that making small mistakes was a natural part of learning. hoa has taken part in two other speaking activities since that weekend. (17) ______. question 13.a. the university had closed all its language classrooms.b. her closest friends had already completed the same project.c. as a result, she felt nervous when she arrived at the campus.d. she had decided not to communicate with anyone on the course.write a, b, c, or d - {#1}question 14.a. hoa had never given a presentation in english before.b. hoa had already won several international speaking contests.c. the trainer asked hoa to complete the entire project alone.d. the students refused to discuss the environmental problem.write a, b, c, or d - {#2}question 15.a. she left the room before the group began practising.b. she asked the trainer to cancel the group presentation.c. she decided to learn every sentence by rote at home.d. with their support, she practised her section several times.write a, b, c, or d - {#3}question 16.a. hoa was disappointed because her team had finished early.b. hoa felt relieved and proud of what she had achieved.c. hoa complained that the project was too easy for her.d. hoa promised that she would never speak english again.write a, b, c, or d - {#4}question 17.a. she has avoided working with new classmates since then.b. she has forgotten everything she learned on the course.c. she has become more confident about speaking in front of others.d. she has decided that teamwork is unnecessary for language learning.write a, b, c, or d - {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1978148-4",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 4,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18a. teacher: that's all right, but please try to arrive on time tomorrow.b. linh: i'm really sorry i'm late, ms hoa.c. teacher: what happened, linh?d. linh: the bus broke down on my way to school.a. c – b – d – ab. b – c – d – ac. b – d – a – cd. d – c – b – awrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 18a. Teacher: That's all right, but please try to arrive on time tomorrow.b. Linh: I'm really sorry I'm late, Ms Hoa.c. Teacher: What happened, Linh?d. Linh: The bus broke down on my way to school.A. c – b – d – aB. b – c – d – aC. b – d – a – cD. d – c – b – aWrite A, B, C, or D – {#1}",
+      "questionId": "question-1978148-4",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 18a. teacher: that's all right, but please try to arrive on time tomorrow.b. linh: i'm really sorry i'm late, ms hoa.c. teacher: what happened, linh?d. linh: the bus broke down on my way to school.a. c – b – d – ab. b – c – d – ac. b – d – a – cd. d – c – b – awrite a, b, c, or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1978148-5",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 5,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19a. nam: yes, i have. i attended one in da nang last summer.b. mai: what did you enjoy most about it?c. nam: i really enjoyed the team-building activities.d. mai: have you ever attended a summer course?a. d – b – a – cb. a – d – c – bc. b – c – d – ad. d – a – b – cwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 19a. Nam: Yes, I have. I attended one in Da Nang last summer.b. Mai: What did you enjoy most about it?c. Nam: I really enjoyed the team-building activities.d. Mai: Have you ever attended a summer course?A. d – b – a – cB. a – d – c – bC. b – c – d – aD. d – a – b – cWrite A, B, C, or D – {#1}",
+      "questionId": "question-1978148-5",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 19a. nam: yes, i have. i attended one in da nang last summer.b. mai: what did you enjoy most about it?c. nam: i really enjoyed the team-building activities.d. mai: have you ever attended a summer course?a. d – b – a – cb. a – d – c – bc. b – c – d – ad. d – a – b – cwrite a, b, c, or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1978148-6",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20a. first, the team leader explained the rules to us.b. at the end of the day, our team received a small prize.c. last saturday, i joined my school's problem-solving competition.d. after that, we worked together to complete three difficult tasks.a. c – a – d – bb. a – c – b – dc. c – d – a – bd. a – d – c – bwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 20a. First, the team leader explained the rules to us.b. At the end of the day, our team received a small prize.c. Last Saturday, I joined my school's problem-solving competition.d. After that, we worked together to complete three difficult tasks.A. c – a – d – bB. a – c – b – dC. c – d – a – bD. a – d – c – bWrite A, B, C, or D – {#1}",
+      "questionId": "question-1978148-6",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 20a. first, the team leader explained the rules to us.b. at the end of the day, our team received a small prize.c. last saturday, i joined my school's problem-solving competition.d. after that, we worked together to complete three difficult tasks.a. c – a – d – bb. a – c – b – dc. c – d – a – bd. a – d – c – bwrite a, b, c, or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C",
+      "id": "question-1978148-7",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 7,
+          "value": "C"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21a. one of the instructors showed us how to secure it properly.b. since then, i have become more confident about camping.c. my first experience of putting up a tent was not easy.d. the tent fell down twice because i had not followed the instructions.e. after some practice, my partner and i finally completed the task.a. c – a – d – e – bb. d – c – a – b – ec. c – d – a – e – bd. d – a – c – e – bwrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 21a. One of the instructors showed us how to secure it properly.b. Since then, I have become more confident about camping.c. My first experience of putting up a tent was not easy.d. The tent fell down twice because I had not followed the instructions.e. After some practice, my partner and I finally completed the task.A. c – a – d – e – bB. d – c – a – b – eC. c – d – a – e – bD. d – a – c – e – bWrite A, B, C, or D – {#1}",
+      "questionId": "question-1978148-7",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 21a. one of the instructors showed us how to secure it properly.b. since then, i have become more confident about camping.c. my first experience of putting up a tent was not easy.d. the tent fell down twice because i had not followed the instructions.e. after some practice, my partner and i finally completed the task.a. c – a – d – e – bb. d – c – a – b – ec. c – d – a – e – bd. d – a – c – e – bwrite a, b, c, or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1978148-8",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 8,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22a. according to nam, the course has made him more independent.b. nam attended a memorable summer course last year.c. during those three weeks, he toured the campus, attended english classes, and worked on group projects.d. the three-week course took place at a university in singapore.e. these group activities helped him overcome his initial homesickness and make several new friends.a. b – c – d – a – eb. b – d – c – e – ac. d – b – e – c – ad. d – c – b – a – ewrite a, b, c, or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATIONMark the letter A, B, C, or D to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.Question 22a. According to Nam, the course has made him more independent.b. Nam attended a memorable summer course last year.c. During those three weeks, he toured the campus, attended English classes, and worked on group projects.d. The three-week course took place at a university in Singapore.e. These group activities helped him overcome his initial homesickness and make several new friends.A. b – c – d – a – eB. b – d – c – e – aC. d – b – e – c – aD. d – c – b – a – eWrite A, B, C, or D – {#1}",
+      "questionId": "question-1978148-8",
+      "questionKey": "part 3 — text and dialogue organisationmark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a meaningful text or conversation.question 22a. according to nam, the course has made him more independent.b. nam attended a memorable summer course last year.c. during those three weeks, he toured the campus, attended english classes, and worked on group projects.d. the three-week course took place at a university in singapore.e. these group activities helped him overcome his initial homesickness and make several new friends.a. b – c – d – a – eb. b – d – c – e – ac. d – b – e – c – ad. d – c – b – a – ewrite a, b, c, or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
