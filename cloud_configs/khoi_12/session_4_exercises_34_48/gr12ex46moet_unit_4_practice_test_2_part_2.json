@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Huỳnh Lê Phong Linh",
+    "account_name": "Bùi Thiên Ân",
     "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
     "class_key": "khoi_12",
@@ -10,12 +10,12 @@
     "quiz_title": "GR12EX46MOET UNIT 4 PRACTICE TEST 2 PART 2",
     "quiz_key": "gr12ex46moet_unit_4_practice_test_2_part_2",
     "cmid": "745389",
-    "course_id": "9692",
+    "course_id": "4775",
     "repo_path": "cloud_configs/khoi_12/session_4_exercises_34_48/gr12ex46moet_unit_4_practice_test_2_part_2.json",
-    "score": "18.00/18.00",
+    "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 56,
-    "updated_at": "2026-11-15 19:25:44"
+    "updated_at": "2026-11-24 12:47:18"
   },
   "answers": [
     {
@@ -377,46 +377,39 @@
     },
     {
       "answer": "d",
-      "id": "question-1973080-1",
+      "id": "question-1990838-1",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 1,
           "value": "d"
         },
         {
           "index": 1,
-          "questionNumber": 1,
+          "questionNumber": 24,
           "value": "c"
         },
         {
           "index": 2,
-          "questionNumber": 1,
           "value": "c"
         },
         {
           "index": 3,
-          "questionNumber": 1,
           "value": "a"
         },
         {
           "index": 4,
-          "questionNumber": 1,
           "value": "b"
         },
         {
           "index": 5,
-          "questionNumber": 1,
           "value": "b"
         },
         {
           "index": 6,
-          "questionNumber": 1,
           "value": "a"
         },
         {
           "index": 7,
-          "questionNumber": 1,
           "value": "d"
         }
       ],
@@ -424,7 +417,7 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23. Which of the following best expresses the main idea of the passage?A. The ways new factories removed Fairbridge's need for further public servicesB. The reasons Fairbridge's workers preferred village life to regular employmentC. How Fairbridge replaced its training courses with more affordable rental housingD. How population growth created opportunities and practical pressures in FairbridgeWrite A, B, C, or D - {#1} Question 24. The word \"converted\" in paragraph 3 is closest in meaning to ______.A. damagedB. extendedC. changedD. removedWrite A, B, C, or D - {#2} Question 25. The phrase \"These changes\" in paragraph 4 refers to ______.A. the landlords providing smaller rental units in large housesB. the courses helping workers apply for more skilled employmentC. the extra classrooms and the health centre's longer opening hoursD. the factories offering regular wages to newly arrived workersWrite A, B, C, or D - {#3} Question 26. According to paragraph 2, what made finding employment difficult for some arrivals?A. Some applicants lacked the training needed for the jobs available.B. The employment centre offered courses only to people without jobs.C. The factories offered fewer opportunities than the town's local businesses.D. All the available jobs required applicants to complete an evening course.Write A, B, C, or D - {#4} Question 27. Which of the following is NOT true according to the passage?A. Some workers returned to their villages after spending weekdays in Fairbridge.B. All arriving workers settled permanently in Fairbridge with their families.C. The council gathers information before approving additional development in Fairbridge.D. Landlords divided some large houses into smaller units for rent.Write A, B, C, or D - {#5} Question 28. Which of the following best paraphrases the bold sentence in paragraph 4?A. Changing residents' working hours removed the need to adjust service timetables.B. Convenient location and reasonable prices did not guarantee suitable opening hours.C. A nearby service became easier to use whenever its prices remained low.D. Residents preferred distant services when nearby ones charged reasonable prices.Write A, B, C, or D - {#6} Question 29. What is the main purpose of paragraph 3?A. To explain the choices and financial pressures involved in finding housingB. To compare the training offered to landlords and newly arrived workersC. To show that housing costs declined as the town's population increasedD. To show why families stopped renting homes outside the central streetsWrite A, B, C, or D - {#7} Question 30. Which planning approach is most consistent with the passage?A. Replace residents' accounts with a record of the town's total population.B. Count new facilities without checking when residents need to use them.C. Approve more homes without examining the routes connecting them to workplaces.D. Check whether service timetables match the routines of different worker groups.Write A, B, C, or D - {#8}",
-      "questionId": "question-1973080-1",
+      "questionId": "question-1990838-1",
       "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23. which of the following best expresses the main idea of the passage?a. the ways new factories removed fairbridge's need for further public servicesb. the reasons fairbridge's workers preferred village life to regular employmentc. how fairbridge replaced its training courses with more affordable rental housingd. how population growth created opportunities and practical pressures in fairbridgewrite a, b, c, or d - {#1} question 24. the word \"converted\" in paragraph 3 is closest in meaning to ______.a. damagedb. extendedc. changedd. removedwrite a, b, c, or d - {#2} question 25. the phrase \"these changes\" in paragraph 4 refers to ______.a. the landlords providing smaller rental units in large housesb. the courses helping workers apply for more skilled employmentc. the extra classrooms and the health centre's longer opening hoursd. the factories offering regular wages to newly arrived workerswrite a, b, c, or d - {#3} question 26. according to paragraph 2, what made finding employment difficult for some arrivals?a. some applicants lacked the training needed for the jobs available.b. the employment centre offered courses only to people without jobs.c. the factories offered fewer opportunities than the town's local businesses.d. all the available jobs required applicants to complete an evening course.write a, b, c, or d - {#4} question 27. which of the following is not true according to the passage?a. some workers returned to their villages after spending weekdays in fairbridge.b. all arriving workers settled permanently in fairbridge with their families.c. the council gathers information before approving additional development in fairbridge.d. landlords divided some large houses into smaller units for rent.write a, b, c, or d - {#5} question 28. which of the following best paraphrases the bold sentence in paragraph 4?a. changing residents' working hours removed the need to adjust service timetables.b. convenient location and reasonable prices did not guarantee suitable opening hours.c. a nearby service became easier to use whenever its prices remained low.d. residents preferred distant services when nearby ones charged reasonable prices.write a, b, c, or d - {#6} question 29. what is the main purpose of paragraph 3?a. to explain the choices and financial pressures involved in finding housingb. to compare the training offered to landlords and newly arrived workersc. to show that housing costs declined as the town's population increasedd. to show why families stopped renting homes outside the central streetswrite a, b, c, or d - {#7} question 30. which planning approach is most consistent with the passage?a. replace residents' accounts with a record of the town's total population.b. count new facilities without checking when residents need to use them.c. approve more homes without examining the routes connecting them to workplaces.d. check whether service timetables match the routines of different worker groups.write a, b, c, or d - {#8}",
       "questionNumber": 1,
       "selects": [],
@@ -432,56 +425,47 @@
     },
     {
       "answer": "b",
-      "id": "question-1973080-2",
+      "id": "question-1990838-2",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 2,
+          "questionNumber": 31,
           "value": "b"
         },
         {
           "index": 1,
-          "questionNumber": 2,
           "value": "c"
         },
         {
           "index": 2,
-          "questionNumber": 2,
           "value": "c"
         },
         {
           "index": 3,
-          "questionNumber": 2,
           "value": "d"
         },
         {
           "index": 4,
-          "questionNumber": 2,
           "value": "a"
         },
         {
           "index": 5,
-          "questionNumber": 2,
           "value": "a"
         },
         {
           "index": 6,
-          "questionNumber": 2,
           "value": "d"
         },
         {
           "index": 7,
-          "questionNumber": 2,
           "value": "d"
         },
         {
           "index": 8,
-          "questionNumber": 2,
           "value": "a"
         },
         {
           "index": 9,
-          "questionNumber": 2,
           "value": "d"
         }
       ],
@@ -489,7 +473,7 @@
       "letter": "",
       "options": [],
       "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31. The word \"observed\" in paragraph 1 is closest in meaning to ______.A. predictedB. recordedC. preferredD. requiredWrite A, B, C, or D - {#1} Question 32. How did the recorded public-transport share change across the two decades?A. It fell in 2015–2025 after rising during the preceding ten years.B. It remained unchanged in 2005–2015 before rising during the next decade.C. It rose by fewer percentage points in 2015–2025 than in 2005–2015.D. It rose by the same number of percentage points in both decades.Write A, B, C, or D - {#2} Question 33. The phrase \"both groups\" in paragraph 3 refers to ______.A. workers near central routes and workers living in outer districtsB. workers surveyed in 2005 and workers expected to travel in 2035C. workers using public transport and workers travelling by carD. bus drivers and workers responsible for planning public transport servicesWrite A, B, C, or D - {#3} Question 34. Which of the following best paraphrases the bold sentence in paragraph 3?A. The rising public-transport share establishes that fewer workers travelled by car.B. The rising public-transport share does not allow the number of car users to grow.C. The rising public-transport share establishes that the number of car users stayed unchanged.D. The rising public-transport share does not establish that the number of car users fell.Write A, B, C, or D - {#4} Question 35. A planner wants to calculate the number of workers using public transport in 2025. Which additional information would be most useful?A. The total number of workers living in Mariton in 2025B. The proportion of workers using public transport during 2005C. The operating hours of buses serving Mariton's outer residential districtsD. The percentage of workers expected to use public transport in 2035Write A, B, C, or D - {#5} Question 36. Where in paragraph 2 does the following sentence best fit?The plan behind the forecast proposed more frequent buses and new routes to growing residential districts.A. [I]B. [II]C. [IV]D. [III]Write A, B, C, or D - {#6} Question 37. What is the main purpose of paragraph 4?A. To explain why workers near daytime routes should stop using public transportB. To recommend replacing daytime bus routes with services operating only at nightC. To establish that the forecast includes every worker living in an outer districtD. To illustrate how access can differ despite an increasing public-transport shareWrite A, B, C, or D - {#7} Question 38. Which of the following is NOT supported by the passage?A. The observed share of public-transport users increased between 2005 and 2025.B. Routes and operating hours help explain differences in workers' transport access.C. Passenger counts require information beyond the percentages given in the graph.D. The 2035 percentage records the result of a survey that has already finished.Write A, B, C, or D - {#8} Question 39. Which of the following best summarises the passage?A. Public-transport use rose as a share of workers, but forecasts and access questions require careful interpretation.B. Public-transport use rose at an increasing rate, making the forecast a record of completed change.C. Public-transport use rose as a share of workers, establishing that fewer workers travelled by car.D. Public-transport use rose because all workers gained equally convenient routes and suitable operating hours.Write A, B, C, or D - {#9} Question 40. Which of the following is the best title for the passage?A. How Forecasts Replace Surveys in Urban Transport PlanningB. Why Mariton's Workers Have Stopped Travelling by CarC. Why Rising Transport Shares Prove Equal Access to ServicesD. Urban Transport Trends: Reading the Figures and Their LimitsWrite A, B, C, or D - {#10}",
-      "questionId": "question-1973080-2",
+      "questionId": "question-1990838-2",
       "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31. the word \"observed\" in paragraph 1 is closest in meaning to ______.a. predictedb. recordedc. preferredd. requiredwrite a, b, c, or d - {#1} question 32. how did the recorded public-transport share change across the two decades?a. it fell in 2015–2025 after rising during the preceding ten years.b. it remained unchanged in 2005–2015 before rising during the next decade.c. it rose by fewer percentage points in 2015–2025 than in 2005–2015.d. it rose by the same number of percentage points in both decades.write a, b, c, or d - {#2} question 33. the phrase \"both groups\" in paragraph 3 refers to ______.a. workers near central routes and workers living in outer districtsb. workers surveyed in 2005 and workers expected to travel in 2035c. workers using public transport and workers travelling by card. bus drivers and workers responsible for planning public transport serviceswrite a, b, c, or d - {#3} question 34. which of the following best paraphrases the bold sentence in paragraph 3?a. the rising public-transport share establishes that fewer workers travelled by car.b. the rising public-transport share does not allow the number of car users to grow.c. the rising public-transport share establishes that the number of car users stayed unchanged.d. the rising public-transport share does not establish that the number of car users fell.write a, b, c, or d - {#4} question 35. a planner wants to calculate the number of workers using public transport in 2025. which additional information would be most useful?a. the total number of workers living in mariton in 2025b. the proportion of workers using public transport during 2005c. the operating hours of buses serving mariton's outer residential districtsd. the percentage of workers expected to use public transport in 2035write a, b, c, or d - {#5} question 36. where in paragraph 2 does the following sentence best fit?the plan behind the forecast proposed more frequent buses and new routes to growing residential districts.a. [i]b. [ii]c. [iv]d. [iii]write a, b, c, or d - {#6} question 37. what is the main purpose of paragraph 4?a. to explain why workers near daytime routes should stop using public transportb. to recommend replacing daytime bus routes with services operating only at nightc. to establish that the forecast includes every worker living in an outer districtd. to illustrate how access can differ despite an increasing public-transport sharewrite a, b, c, or d - {#7} question 38. which of the following is not supported by the passage?a. the observed share of public-transport users increased between 2005 and 2025.b. routes and operating hours help explain differences in workers' transport access.c. passenger counts require information beyond the percentages given in the graph.d. the 2035 percentage records the result of a survey that has already finished.write a, b, c, or d - {#8} question 39. which of the following best summarises the passage?a. public-transport use rose as a share of workers, but forecasts and access questions require careful interpretation.b. public-transport use rose at an increasing rate, making the forecast a record of completed change.c. public-transport use rose as a share of workers, establishing that fewer workers travelled by car.d. public-transport use rose because all workers gained equally convenient routes and suitable operating hours.write a, b, c, or d - {#9} question 40. which of the following is the best title for the passage?a. how forecasts replace surveys in urban transport planningb. why mariton's workers have stopped travelling by carc. why rising transport shares prove equal access to servicesd. urban transport trends: reading the figures and their limitswrite a, b, c, or d - {#10}",
       "questionNumber": 2,
       "selects": [],
@@ -501,42 +485,34 @@
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 1,
           "value": "d"
         },
         {
           "index": 1,
-          "questionNumber": 1,
           "value": "c"
         },
         {
           "index": 2,
-          "questionNumber": 1,
           "value": "c"
         },
         {
           "index": 3,
-          "questionNumber": 1,
           "value": "a"
         },
         {
           "index": 4,
-          "questionNumber": 1,
           "value": "b"
         },
         {
           "index": 5,
-          "questionNumber": 1,
           "value": "b"
         },
         {
           "index": 6,
-          "questionNumber": 1,
           "value": "a"
         },
         {
           "index": 7,
-          "questionNumber": 1,
           "value": "d"
         }
       ],
@@ -559,52 +535,42 @@
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 2,
           "value": "b"
         },
         {
           "index": 1,
-          "questionNumber": 2,
           "value": "c"
         },
         {
           "index": 2,
-          "questionNumber": 2,
           "value": "c"
         },
         {
           "index": 3,
-          "questionNumber": 2,
           "value": "d"
         },
         {
           "index": 4,
-          "questionNumber": 2,
           "value": "a"
         },
         {
           "index": 5,
-          "questionNumber": 2,
           "value": "a"
         },
         {
           "index": 6,
-          "questionNumber": 2,
           "value": "d"
         },
         {
           "index": 7,
-          "questionNumber": 2,
           "value": "d"
         },
         {
           "index": 8,
-          "questionNumber": 2,
           "value": "a"
         },
         {
           "index": 9,
-          "questionNumber": 2,
           "value": "d"
         }
       ],
