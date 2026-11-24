@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "account_name": "Tristan Oelofse",
+    "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+    "class_key": "khoi_12",
+    "grade_num": "12",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR12EX50MOET",
+    "quiz_key": "gr12ex50moet",
+    "cmid": "746664",
+    "course_id": "11364",
+    "repo_path": "cloud_configs/khoi_12/session_5/gr12ex50moet.json",
+    "score": "100.0%",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-11-24 12:23:27"
+  },
+  "answers": [
+    {
+      "answer": "the clash between the shift and her lesson",
+      "id": "question-1989048-6",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.lan initially thought the position would fit her timetable. when she checked the advertisement again, she discovered that its regular shift overlapped with an important lesson. this led her to decide not to apply.what does this refer to?",
+      "letter": "D",
+      "options": [
+        "the clash between the shift and her lesson"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.Lan initially thought the position would fit her timetable. When she checked the advertisement again, she discovered that its regular shift overlapped with an important lesson. This led her to decide not to apply.What does This refer to?",
+      "questionId": "question-1989048-6",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.lan initially thought the position would fit her timetable. when she checked the advertisement again, she discovered that its regular shift overlapped with an important lesson. this led her to decide not to apply.what does this refer to?",
+      "questionNumber": 1,
+      "rightAnswer": "the clash between the shift and her lesson",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "receiving instruction while carrying out workplace tasks",
+      "id": "question-1989048-4",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.new servers learn to record orders while an experienced colleague guides them through the task. they can ask questions as they work. this training helps them understand the restaurant's procedures.what does this training refer to?",
+      "letter": "C",
+      "options": [
+        "receiving instruction while carrying out workplace tasks"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.New servers learn to record orders while an experienced colleague guides them through the task. They can ask questions as they work. This training helps them understand the restaurant's procedures.What does This training refer to?",
+      "questionId": "question-1989048-4",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.new servers learn to record orders while an experienced colleague guides them through the task. they can ask questions as they work. this training helps them understand the restaurant's procedures.what does this training refer to?",
+      "questionNumber": 2,
+      "rightAnswer": "receiving instruction while carrying out workplace tasks",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "the careers magazine",
+      "id": "question-1989048-1",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.a careers magazine includes advertisements from local employers. students also use its product-review section to learn about the work of reviewers. it publishes a new issue each month.what does it refer to?",
+      "letter": "B",
+      "options": [
+        "the careers magazine"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.A careers magazine includes advertisements from local employers. Students also use its product-review section to learn about the work of reviewers. It publishes a new issue each month.What does It refer to?",
+      "questionId": "question-1989048-1",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.a careers magazine includes advertisements from local employers. students also use its product-review section to learn about the work of reviewers. it publishes a new issue each month.what does it refer to?",
+      "questionNumber": 3,
+      "rightAnswer": "the careers magazine",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "a job advertisement",
+      "id": "question-1989048-8",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the group compares two job advertisements. the first is for a shop assistant. the second one is for an assistant teacher and asks for experience working with children.what does one replace?",
+      "letter": "D",
+      "options": [
+        "a job advertisement"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.The group compares two job advertisements. The first is for a shop assistant. The second one is for an assistant teacher and asks for experience working with children.What does one replace?",
+      "questionId": "question-1989048-8",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the group compares two job advertisements. the first is for a shop assistant. the second one is for an assistant teacher and asks for experience working with children.what does one replace?",
+      "questionNumber": 4,
+      "rightAnswer": "a job advertisement",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "the applicants",
+      "id": "question-1989048-3",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.three applicants met the recruitment officer. after explaining the position, the officer invited each person to describe their previous experience. they then answered questions about their availability.what does they refer to?",
+      "letter": "B",
+      "options": [
+        "the applicants",
+        "the applicants' previous employers"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.Three applicants met the recruitment officer. After explaining the position, the officer invited each person to describe their previous experience. They then answered questions about their availability.What does They refer to?",
+      "questionId": "question-1989048-3",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.three applicants met the recruitment officer. after explaining the position, the officer invited each person to describe their previous experience. they then answered questions about their availability.what does they refer to?",
+      "questionNumber": 5,
+      "rightAnswer": "the applicants",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "greeting customers and taking their orders",
+      "id": "question-1989048-5",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.a server greets customers and takes their orders. the advertisement also asks applicants to have good communication skills. these duties require careful listening and polite responses.what does these duties refer to?",
+      "letter": "B",
+      "options": [
+        "greeting customers and taking their orders"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.A server greets customers and takes their orders. The advertisement also asks applicants to have good communication skills. These duties require careful listening and polite responses.What does These duties refer to?",
+      "questionId": "question-1989048-5",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.a server greets customers and takes their orders. the advertisement also asks applicants to have good communication skills. these duties require careful listening and polite responses.what does these duties refer to?",
+      "questionNumber": 6,
+      "rightAnswer": "greeting customers and taking their orders",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "time management",
+      "id": "question-1989048-10",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the advertisement mentions english ability and time management. the latter is especially important for students who must organise their work around school responsibilities.what does the latter refer to?",
+      "letter": "C",
+      "options": [
+        "time management"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.The advertisement mentions English ability and time management. The latter is especially important for students who must organise their work around school responsibilities.What does The latter refer to?",
+      "questionId": "question-1989048-10",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the advertisement mentions english ability and time management. the latter is especially important for students who must organise their work around school responsibilities.what does the latter refer to?",
+      "questionNumber": 7,
+      "rightAnswer": "time management",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "the volunteer role",
+      "id": "question-1989048-9",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the group discusses a volunteer role and a product-reviewer role. the former is unpaid, but it offers opportunities to help other people.what does the former refer to?",
+      "letter": "C",
+      "options": [
+        "the volunteer role"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.The group discusses a volunteer role and a product-reviewer role. The former is unpaid, but it offers opportunities to help other people.What does The former refer to?",
+      "questionId": "question-1989048-9",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the group discusses a volunteer role and a product-reviewer role. the former is unpaid, but it offers opportunities to help other people.what does the former refer to?",
+      "questionNumber": 8,
+      "rightAnswer": "the volunteer role",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "the CVs",
+      "id": "question-1989048-2",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the employer received several cvs before the interviews. each applicant also provided a contact number. she read them carefully to compare the applicants' education and experience.what does them refer to?",
+      "letter": "C",
+      "options": [
+        "the CVs"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.The employer received several CVs before the interviews. Each applicant also provided a contact number. She read them carefully to compare the applicants' education and experience.What does them refer to?",
+      "questionId": "question-1989048-2",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the employer received several cvs before the interviews. each applicant also provided a contact number. she read them carefully to compare the applicants' education and experience.what does them refer to?",
+      "questionNumber": 9,
+      "rightAnswer": "the CVs",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "the free meals and the overtime pay",
+      "id": "question-1989048-7",
+      "inputs": [],
+      "legacyQKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the shop advertisement lists an hourly wage as basic pay. it also offers free meals and overtime pay. these additional benefits make the offer more attractive to some applicants.what does these additional benefits refer to?",
+      "letter": "D",
+      "options": [
+        "the free meals and the overtime pay"
+      ],
+      "question": "Read each short text. Choose A, B, C, or D to identify what the bold expression refers to.The shop advertisement lists an hourly wage as basic pay. It also offers free meals and overtime pay. These additional benefits make the offer more attractive to some applicants.What does These additional benefits refer to?",
+      "questionId": "question-1989048-7",
+      "questionKey": "read each short text. choose a, b, c, or d to identify what the bold expression refers to.the shop advertisement lists an hourly wage as basic pay. it also offers free meals and overtime pay. these additional benefits make the offer more attractive to some applicants.what does these additional benefits refer to?",
+      "questionNumber": 10,
+      "rightAnswer": "the free meals and the overtime pay",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Skills gained through volunteering may improve students' future employment prospects.",
+      "id": "question-1989048-17",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.volunteer work can open up future job opportunities by helping students develop useful skills.",
+      "letter": "C",
+      "options": [
+        "Skills gained through volunteering may improve students' future employment prospects."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.Volunteer work can open up future job opportunities by helping students develop useful skills.",
+      "questionId": "question-1989048-17",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.volunteer work can open up future job opportunities by helping students develop useful skills.",
+      "questionNumber": 11,
+      "rightAnswer": "Skills gained through volunteering may improve students' future employment prospects",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Lan gains satisfaction from helping children despite its demands.",
+      "id": "question-1989048-11",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.although helping children can be challenging, lan finds the work rewarding.",
+      "letter": "A",
+      "options": [
+        "Lan gains satisfaction from helping children despite its demands."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.Although helping children can be challenging, Lan finds the work rewarding.",
+      "questionId": "question-1989048-11",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.although helping children can be challenging, lan finds the work rewarding.",
+      "questionNumber": 12,
+      "rightAnswer": "Lan gains satisfaction from helping children despite its demands",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Greeting customers and arranging displays are among a shop assistant's duties.",
+      "id": "question-1989048-16",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.a shop assistant's responsibilities include greeting customers and arranging window displays.",
+      "letter": "D",
+      "options": [
+        "Greeting customers and arranging displays are among a shop assistant's duties."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.A shop assistant's responsibilities include greeting customers and arranging window displays.",
+      "questionId": "question-1989048-16",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.a shop assistant's responsibilities include greeting customers and arranging window displays.",
+      "questionNumber": 13,
+      "rightAnswer": "Greeting customers and arranging displays are among a shop assistant's duties",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "If my application is successful, I can start work after my exams.",
+      "id": "question-1989048-18",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.if my application is successful, i will be available to start work after my exams.",
+      "letter": "B",
+      "options": [
+        "If my application is successful, I can start work after my exams."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.If my application is successful, I will be available to start work after my exams.",
+      "questionId": "question-1989048-18",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.if my application is successful, i will be available to start work after my exams.",
+      "questionNumber": 14,
+      "rightAnswer": "If my application is successful, I can start work after my exams",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "I am pleased at the prospect of receiving your reply.",
+      "id": "question-1989048-20",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.i look forward to hearing from you about my application.",
+      "letter": "B",
+      "options": [
+        "I am pleased at the prospect of receiving your reply."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.I look forward to hearing from you about my application.",
+      "questionId": "question-1989048-20",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.i look forward to hearing from you about my application.",
+      "questionNumber": 15,
+      "rightAnswer": "I am pleased at the prospect of receiving your reply",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Employees can adjust their hours when the employer agrees to the changes.",
+      "id": "question-1989048-15",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.working hours are flexible, but changes must be agreed with the employer.",
+      "letter": "A",
+      "options": [
+        "Employees can adjust their hours when the employer agrees to the changes."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.Working hours are flexible, but changes must be agreed with the employer.",
+      "questionId": "question-1989048-15",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.working hours are flexible, but changes must be agreed with the employer.",
+      "questionNumber": 16,
+      "rightAnswer": "Employees can adjust their hours when the employer agrees to the changes",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Employees are paid by the hour and could receive an additional reward for meeting goals.",
+      "id": "question-1989048-14",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.employees receive an hourly wage and may earn a bonus if they achieve their performance goals.",
+      "letter": "B",
+      "options": [
+        "Employees are paid by the hour and could receive an additional reward for meeting goals."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.Employees receive an hourly wage and may earn a bonus if they achieve their performance goals.",
+      "questionId": "question-1989048-14",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.employees receive an hourly wage and may earn a bonus if they achieve their performance goals.",
+      "questionNumber": 17,
+      "rightAnswer": "Employees are paid by the hour and could receive an additional reward for meeting goals",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Applicants may lack experience, but excellent English is necessary.",
+      "id": "question-1989048-13",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.previous experience is not required, but applicants must have excellent english.",
+      "letter": "C",
+      "options": [
+        "Applicants may lack experience, but excellent English is necessary."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.Previous experience is not required, but applicants must have excellent English.",
+      "questionId": "question-1989048-13",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.previous experience is not required, but applicants must have excellent english.",
+      "questionNumber": 18,
+      "rightAnswer": "Applicants may lack experience, but excellent English is necessary",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "New employees learn while working with guidance from experienced staff.",
+      "id": "question-1989048-12",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.new employees receive on-the-job training from experienced colleagues.",
+      "letter": "C",
+      "options": [
+        "New employees learn while working with guidance from experienced staff."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.New employees receive on-the-job training from experienced colleagues.",
+      "questionId": "question-1989048-12",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.new employees receive on-the-job training from experienced colleagues.",
+      "questionNumber": 19,
+      "rightAnswer": "New employees learn while working with guidance from experienced staff",
+      "selects": [],
+      "verified_100": true
+    },
+    {
+      "answer": "Minh works at the shop for short periods when additional staff are needed.",
+      "id": "question-1989048-19",
+      "inputs": [],
+      "legacyQKey": "choose a, b, c, or d that is closest in meaning to the original sentence.minh does casual work at the shop when extra help is needed for short periods.",
+      "letter": "A",
+      "options": [
+        "Minh works at the shop for short periods when additional staff are needed."
+      ],
+      "question": "Choose A, B, C, or D that is closest in meaning to the original sentence.Minh does casual work at the shop when extra help is needed for short periods.",
+      "questionId": "question-1989048-19",
+      "questionKey": "choose a, b, c, or d that is closest in meaning to the original sentence.minh does casual work at the shop when extra help is needed for short periods.",
+      "questionNumber": 20,
+      "rightAnswer": "Minh works at the shop for short periods when additional staff are needed",
+      "selects": [],
+      "verified_100": true
+    }
+  ]
+}
