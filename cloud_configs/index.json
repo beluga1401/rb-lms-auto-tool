@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24 12:23:27",
-  "total_configs": 86,
+  "updated_at": "2026-11-24 12:24:09",
+  "total_configs": 87,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -1549,6 +1549,24 @@
       "score_pct": 100.0,
       "question_count": 20,
       "updated_at": "2026-11-24 12:23:27"
+    },
+    {
+      "account_name": "Tristan Oelofse",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 5",
+      "unit_key": "session_5",
+      "quiz_title": "GR12EX51MOET",
+      "quiz_key": "gr12ex51moet",
+      "cmid": "746665",
+      "course_id": "11364",
+      "repo_path": "cloud_configs/khoi_12/session_5/gr12ex51moet.json",
+      "score": "100.0%",
+      "score_pct": 100.0,
+      "question_count": 20,
+      "updated_at": "2026-11-24 12:24:09"
     }
   ]
 }
