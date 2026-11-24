@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Tristan Oelofse",
+    "account_name": "Bùi Thiên Ân",
     "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
     "class_key": "khoi_12",
@@ -10,17 +10,17 @@
     "quiz_title": "GR12EX49MOET",
     "quiz_key": "gr12ex49moet",
     "cmid": "746663",
-    "course_id": "11364",
+    "course_id": "4775",
     "repo_path": "cloud_configs/khoi_12/session_5/gr12ex49moet.json",
-    "score": "100.0%",
+    "score": "100.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 20,
-    "updated_at": "2026-11-24 12:22:02"
+    "question_count": 30,
+    "updated_at": "2026-11-24 12:55:03"
   },
   "answers": [
     {
       "answer": "so",
-      "id": "question-1989029-3",
+      "id": "question-1990847-3",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.minh is paid for each hour he works, ______ his basic earnings are higher when he works more hours.",
       "letter": "A",
@@ -28,135 +28,143 @@
         "so"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.Minh is paid for each hour he works, ______ his basic earnings are higher when he works more hours.",
-      "questionId": "question-1989029-3",
+      "questionId": "question-1990847-3",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.minh is paid for each hour he works, ______ his basic earnings are higher when he works more hours.",
-      "questionNumber": 1,
+      "questionNumber": 6,
       "rightAnswer": "so",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "but also",
-      "id": "question-1989029-7",
+      "id": "question-1990847-7",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.the role requires not only accurate order-taking ______ good communication skills.",
-      "letter": "B",
+      "letter": "A",
       "options": [
         "but also"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.The role requires not only accurate order-taking ______ good communication skills.",
-      "questionId": "question-1989029-7",
+      "questionId": "question-1990847-7",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.the role requires not only accurate order-taking ______ good communication skills.",
-      "questionNumber": 2,
+      "questionNumber": 10,
       "rightAnswer": "but also",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "because",
-      "id": "question-1989029-1",
+      "id": "question-1990847-1",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.lan explains her reason for applying: \"i am interested in the server position ______ my previous experience matches its duties.\"",
-      "letter": "B",
+      "letter": "D",
       "options": [
         "because"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.Lan explains her reason for applying: \"I am interested in the server position ______ my previous experience matches its duties.\"",
-      "questionId": "question-1989029-1",
+      "questionId": "question-1990847-1",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.lan explains her reason for applying: \"i am interested in the server position ______ my previous experience matches its duties.\"",
-      "questionNumber": 3,
+      "questionNumber": 1,
       "rightAnswer": "because",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "A complex sentence containing an independent clause and a dependent clause",
-      "id": "question-1989029-10",
+      "id": "question-1990847-10",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.what type of sentence is the following?i will send my application when i finish preparing my cv.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "A complex sentence containing an independent clause and a dependent clause"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.What type of sentence is the following?I will send my application when I finish preparing my CV.",
-      "questionId": "question-1989029-10",
+      "questionId": "question-1990847-10",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.what type of sentence is the following?i will send my application when i finish preparing my cv.",
       "questionNumber": 4,
       "rightAnswer": "A complex sentence containing an independent clause and a dependent clause",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "so that",
-      "id": "question-1989029-4",
+      "id": "question-1990847-4",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.hoa practises explaining her experience ______ she can answer the interviewer's questions clearly.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "so that"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.Hoa practises explaining her experience ______ she can answer the interviewer's questions clearly.",
-      "questionId": "question-1989029-4",
+      "questionId": "question-1990847-4",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.hoa practises explaining her experience ______ she can answer the interviewer's questions clearly.",
-      "questionNumber": 5,
+      "questionNumber": 9,
       "rightAnswer": "so that",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "Although",
-      "id": "question-1989029-2",
+      "id": "question-1990847-2",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.______ the volunteer role is unpaid, it still offers valuable opportunities to develop communication skills.",
-      "letter": "C",
+      "letter": "A",
       "options": [
         "Although"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.______ the volunteer role is unpaid, it still offers valuable opportunities to develop communication skills.",
-      "questionId": "question-1989029-2",
+      "questionId": "question-1990847-2",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.______ the volunteer role is unpaid, it still offers valuable opportunities to develop communication skills.",
-      "questionNumber": 6,
+      "questionNumber": 2,
       "rightAnswer": "Although",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "if",
-      "id": "question-1989029-5",
+      "id": "question-1990847-5",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.applicants are eligible for the position only ______ they meet all the stated requirements.",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "if"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.Applicants are eligible for the position only ______ they meet all the stated requirements.",
-      "questionId": "question-1989029-5",
+      "questionId": "question-1990847-5",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.applicants are eligible for the position only ______ they meet all the stated requirements.",
-      "questionNumber": 7,
+      "questionNumber": 5,
       "rightAnswer": "if",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "moreover",
-      "id": "question-1989029-9",
+      "id": "question-1990847-9",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.the job offers an hourly wage; ______, it provides useful workplace training.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "moreover"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.The job offers an hourly wage; ______, it provides useful workplace training.",
-      "questionId": "question-1989029-9",
+      "questionId": "question-1990847-9",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.the job offers an hourly wage; ______, it provides useful workplace training.",
-      "questionNumber": 8,
+      "questionNumber": 7,
       "rightAnswer": "moreover",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "Despite",
-      "id": "question-1989029-8",
+      "id": "question-1990847-8",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.______ his lack of experience, the employer offered him the position because on-the-job training was available.",
       "letter": "C",
@@ -164,29 +172,113 @@
         "Despite"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.______ his lack of experience, the employer offered him the position because on-the-job training was available.",
-      "questionId": "question-1989029-8",
+      "questionId": "question-1990847-8",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.______ his lack of experience, the employer offered him the position because on-the-job training was available.",
-      "questionNumber": 9,
+      "questionNumber": 3,
       "rightAnswer": "Despite",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "while",
-      "id": "question-1989029-6",
+      "id": "question-1990847-6",
       "inputs": [],
       "legacyQKey": "choose a, b, c, or d to complete each sentence or answer the question.one shop assistant welcomes customers ______ another arranges the window displays; both tasks are happening at the same time.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "while"
       ],
       "question": "Choose A, B, C, or D to complete each sentence or answer the question.One shop assistant welcomes customers ______ another arranges the window displays; both tasks are happening at the same time.",
-      "questionId": "question-1989029-6",
+      "questionId": "question-1990847-6",
       "questionKey": "choose a, b, c, or d to complete each sentence or answer the question.one shop assistant welcomes customers ______ another arranges the window displays; both tasks are happening at the same time.",
-      "questionNumber": 10,
+      "questionNumber": 8,
       "rightAnswer": "while",
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
+    },
+    {
+      "answer": "A",
+      "id": "question-1990847-11",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "questionNumber": 3,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "questionNumber": 4,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 5,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "read the text. choose a, b, c, or d for each numbered blank.question 1a. fillb. earnc. served. receive write a, b, c or d: {#1}question 2a. requirementsb. benefitsc. responsibilitiesd. qualifications write a, b, c or d: {#2}question 3a. althoughb. unlessc. whereasd. because write a, b, c or d: {#3}question 4a. salaryb. bonusc. qualificationd. review write a, b, c or d: {#4}question 5a. howeverb. thereforec. similarlyd. for instance write a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "Read the text. Choose A, B, C, or D for each numbered blank.Question 1A. fillB. earnC. serveD. receive Write A, B, C or D: {#1}Question 2A. requirementsB. benefitsC. responsibilitiesD. qualifications Write A, B, C or D: {#2}Question 3A. althoughB. unlessC. whereasD. because Write A, B, C or D: {#3}Question 4A. salaryB. bonusC. qualificationD. review Write A, B, C or D: {#4}Question 5A. HoweverB. ThereforeC. SimilarlyD. For instance Write A, B, C or D: {#5}",
+      "questionId": "question-1990847-11",
+      "questionKey": "read the text. choose a, b, c, or d for each numbered blank.question 1a. fillb. earnc. served. receive write a, b, c or d: {#1}question 2a. requirementsb. benefitsc. responsibilitiesd. qualifications write a, b, c or d: {#2}question 3a. althoughb. unlessc. whereasd. because write a, b, c or d: {#3}question 4a. salaryb. bonusc. qualificationd. review write a, b, c or d: {#4}question 5a. howeverb. thereforec. similarlyd. for instance write a, b, c or d: {#5}",
+      "questionNumber": 11,
+      "selects": [],
+      "verified_100": true,
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1990847-12",
+      "inputs": [
+        {
+          "index": 0,
+          "questionNumber": 6,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "questionNumber": 7,
+          "value": "B"
+        },
+        {
+          "index": 2,
+          "questionNumber": 8,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "questionNumber": 9,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "questionNumber": 10,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "read the text. choose a, b, c, or d for each numbered blank.question 6.a. repetitiveb. profitablec. permanentd. rewarding write a, b, c or d: {#1}question 7.a. communicationb. communicatec. communicatived. communicated write a, b, c or d: {#2}question 8.a. managerb. managec. managementd. managerial write a, b, c or d: {#3}question 9.a. for instanceb. thereforec. neverthelessd. similarly write a, b, c or d: {#4}question 10.a. requirementsb. bonusesc. salariesd. benefits write a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "Read the text. Choose A, B, C, or D for each numbered blank.Question 6.A. repetitiveB. profitableC. permanentD. rewarding Write A, B, C or D: {#1}Question 7.A. communicationB. communicateC. communicativeD. communicated Write A, B, C or D: {#2}Question 8.A. managerB. manageC. managementD. managerial Write A, B, C or D: {#3}Question 9.A. For instanceB. ThereforeC. NeverthelessD. Similarly Write A, B, C or D: {#4}Question 10.A. requirementsB. bonusesC. salariesD. benefits Write A, B, C or D: {#5}",
+      "questionId": "question-1990847-12",
+      "questionKey": "read the text. choose a, b, c, or d for each numbered blank.question 6.a. repetitiveb. profitablec. permanentd. rewarding write a, b, c or d: {#1}question 7.a. communicationb. communicatec. communicatived. communicated write a, b, c or d: {#2}question 8.a. managerb. managec. managementd. managerial write a, b, c or d: {#3}question 9.a. for instanceb. thereforec. neverthelessd. similarly write a, b, c or d: {#4}question 10.a. requirementsb. bonusesc. salariesd. benefits write a, b, c or d: {#5}",
+      "questionNumber": 12,
+      "selects": [],
+      "verified_100": true,
+      "rightAnswer": ""
     },
     {
       "answer": "A",
@@ -219,14 +311,17 @@
         }
       ],
       "legacyQKey": "read the text. choose a, b, c, or d for each numbered blank.question 1a. fillb. earnc. served. receive write a, b, c or d: {#1}question 2a. requirementsb. benefitsc. responsibilitiesd. qualifications write a, b, c or d: {#2}question 3a. althoughb. unlessc. whereasd. because write a, b, c or d: {#3}question 4a. salaryb. bonusc. qualificationd. review write a, b, c or d: {#4}question 5a. howeverb. thereforec. similarlyd. for instance write a, b, c or d: {#5}",
-      "letter": "",
-      "options": [],
+      "letter": "A",
+      "options": [
+        "A"
+      ],
       "question": "Read the text. Choose A, B, C, or D for each numbered blank.Question 1A. fillB. earnC. serveD. receive Write A, B, C or D: {#1}Question 2A. requirementsB. benefitsC. responsibilitiesD. qualifications Write A, B, C or D: {#2}Question 3A. althoughB. unlessC. whereasD. because Write A, B, C or D: {#3}Question 4A. salaryB. bonusC. qualificationD. review Write A, B, C or D: {#4}Question 5A. HoweverB. ThereforeC. SimilarlyD. For instance Write A, B, C or D: {#5}",
       "questionId": "question-1989029-11",
-      "questionKey": "read the text. choose a, b, c, or d for each numbered blank.question 1a. fillb. earnc. served. receive write a, b, c or d: {#1}question 2a. requirementsb. benefitsc. responsibilitiesd. qualifications write a, b, c or d: {#2}question 3a. althoughb. unlessc. whereasd. because write a, b, c or d: {#3}question 4a. salaryb. bonusc. qualificationd. review write a, b, c or d: {#4}question 5a. howeverb. thereforec. similarlyd. for instance write a, b, c or d: {#5}",
+      "questionKey": "read the text. choose a, b, c, or d for each numbered blank.question 1a. fillb. earnc. served. receive write a, b, c or d: question 2a. requirementsb. benefitsc. responsibilitiesd. qualifications write a, b, c or d: question 3a. althoughb. unlessc. whereasd. because write a, b, c or d: question 4a. salaryb. bonusc. qualificationd. review write a, b, c or d: question 5a. howeverb. thereforec. similarlyd. for instance write a, b, c or d:",
       "questionNumber": 11,
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     },
     {
       "answer": "D",
@@ -259,14 +354,17 @@
         }
       ],
       "legacyQKey": "read the text. choose a, b, c, or d for each numbered blank.question 6.a. repetitiveb. profitablec. permanentd. rewarding write a, b, c or d: {#1}question 7.a. communicationb. communicatec. communicatived. communicated write a, b, c or d: {#2}question 8.a. managerb. managec. managementd. managerial write a, b, c or d: {#3}question 9.a. for instanceb. thereforec. neverthelessd. similarly write a, b, c or d: {#4}question 10.a. requirementsb. bonusesc. salariesd. benefits write a, b, c or d: {#5}",
-      "letter": "",
-      "options": [],
+      "letter": "D",
+      "options": [
+        "D"
+      ],
       "question": "Read the text. Choose A, B, C, or D for each numbered blank.Question 6.A. repetitiveB. profitableC. permanentD. rewarding Write A, B, C or D: {#1}Question 7.A. communicationB. communicateC. communicativeD. communicated Write A, B, C or D: {#2}Question 8.A. managerB. manageC. managementD. managerial Write A, B, C or D: {#3}Question 9.A. For instanceB. ThereforeC. NeverthelessD. Similarly Write A, B, C or D: {#4}Question 10.A. requirementsB. bonusesC. salariesD. benefits Write A, B, C or D: {#5}",
       "questionId": "question-1989029-12",
-      "questionKey": "read the text. choose a, b, c, or d for each numbered blank.question 6.a. repetitiveb. profitablec. permanentd. rewarding write a, b, c or d: {#1}question 7.a. communicationb. communicatec. communicatived. communicated write a, b, c or d: {#2}question 8.a. managerb. managec. managementd. managerial write a, b, c or d: {#3}question 9.a. for instanceb. thereforec. neverthelessd. similarly write a, b, c or d: {#4}question 10.a. requirementsb. bonusesc. salariesd. benefits write a, b, c or d: {#5}",
+      "questionKey": "read the text. choose a, b, c, or d for each numbered blank.question 6.a. repetitiveb. profitablec. permanentd. rewarding write a, b, c or d: question 7.a. communicationb. communicatec. communicatived. communicated write a, b, c or d: question 8.a. managerb. managec. managementd. managerial write a, b, c or d: question 9.a. for instanceb. thereforec. neverthelessd. similarly write a, b, c or d: question 10.a. requirementsb. bonusesc. salariesd. benefits write a, b, c or d:",
       "questionNumber": 12,
       "selects": [],
-      "verified_100": true
+      "verified_100": true,
+      "dragdrops": []
     }
   ]
 }
