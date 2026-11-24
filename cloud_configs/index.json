@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 12:30:01",
+  "updated_at": "2026-11-24 12:33:46",
   "total_configs": 88,
   "configs": [
     {
@@ -1551,24 +1551,6 @@
       "updated_at": "2026-11-24 12:23:27"
     },
     {
-      "account_name": "Tristan Oelofse",
-      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
-      "class_key": "khoi_12",
-      "grade_num": "12",
-      "unit_name": "SESSION 5",
-      "unit_key": "session_5",
-      "quiz_title": "GR12EX52MOET",
-      "quiz_key": "gr12ex52moet",
-      "cmid": "750073",
-      "course_id": "11364",
-      "repo_path": "cloud_configs/khoi_12/session_5/gr12ex52moet.json",
-      "score": "100.0%",
-      "score_pct": 100.0,
-      "question_count": 22,
-      "updated_at": "2026-11-24 12:25:03"
-    },
-    {
       "account_name": "Huỳnh Lê Phong Linh",
       "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
@@ -1585,6 +1567,24 @@
       "score_pct": 100.0,
       "question_count": 40,
       "updated_at": "2026-11-24 12:30:01"
+    },
+    {
+      "account_name": "Huỳnh Lê Phong Linh",
+      "class_name": "Khối 12 (LGK LC-Lớp 12XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 12XH (2026-2027)",
+      "class_key": "khoi_12",
+      "grade_num": "12",
+      "unit_name": "SESSION 5",
+      "unit_key": "session_5",
+      "quiz_title": "GR12EX52MOET",
+      "quiz_key": "gr12ex52moet",
+      "cmid": "750073",
+      "course_id": "9692",
+      "repo_path": "cloud_configs/khoi_12/session_5/gr12ex52moet.json",
+      "score": "100.00 trên 100.00",
+      "score_pct": 100.0,
+      "question_count": 56,
+      "updated_at": "2026-11-24 12:33:46"
     }
   ]
 }
