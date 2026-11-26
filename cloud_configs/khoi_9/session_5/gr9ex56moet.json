@@ -1,0 +1,430 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR9EX56MOET",
+    "quiz_key": "gr9ex56moet",
+    "cmid": "753677",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_5/gr9ex56moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 44,
+    "updated_at": "2026-11-26 21:05:13"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 1. language in functional textsquestions 1–6read the following leaflet and choose the option that best fits each numbered blank. visit phuong nam communal house phuong nam communal house is one of the oldest cultural (1) in our district. local people built it more than 250 years ago as a place for community meetings and traditional celebrations. when a serious storm damaged part of the roof ten years ago, local builders (2) on a nearby project. they stopped their work and came to protect the building from further damage. thanks to their valuable (3) , the communal house reopened several months later. it is now recognised (4) an important historic site. visitors can explore the main hall, view old objects, and learn about local customs. we wish more young people (5) interested in the history of the building and willing to help keep its traditions alive. please follow the guide’s instructions, (6) some parts of the structure are very old.",
+      "questionRaw": "PART 1. LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following leaflet and choose the option that best fits each numbered blank. VISIT PHUONG NAM COMMUNAL HOUSE Phuong Nam Communal House is one of the oldest cultural (1) {#1} in our district. Local people built it more than 250 years ago as a place for community meetings and traditional celebrations. When a serious storm damaged part of the roof ten years ago, local builders (2) {#2} on a nearby project. They stopped their work and came to protect the building from further damage. Thanks to their valuable (3) {#3}, the communal house reopened several months later. It is now recognised (4) {#4} an important historic site. Visitors can explore the main hall, view old objects, and learn about local customs. We wish more young people (5) {#5} interested in the history of the building and willing to help keep its traditions alive. Please follow the guide’s instructions, (6) {#6} some parts of the structure are very old.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "structures"
+        },
+        {
+          "index": 1,
+          "value": "were working"
+        },
+        {
+          "index": 2,
+          "value": "contribution"
+        },
+        {
+          "index": 3,
+          "value": "as"
+        },
+        {
+          "index": 4,
+          "value": "were"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following leaflet and choose the option that best fits each numbered blank. VISIT PHUONG NAM COMMUNAL HOUSE Phuong Nam Communal House is one of the oldest cultural (1) {#1} in our district. Local people built it more than 250 years ago as a place for community meetings and traditional celebrations. When a serious storm damaged part of the roof ten years ago, local builders (2) {#2} on a nearby project. They stopped their work and came to protect the building from further damage. Thanks to their valuable (3) {#3}, the communal house reopened several months later. It is now recognised (4) {#4} an important historic site. Visitors can explore the main hall, view old objects, and learn about local customs. We wish more young people (5) {#5} interested in the history of the building and willing to help keep its traditions alive. Please follow the guide’s instructions, (6) {#6} some parts of the structure are very old.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 1. language in functional textsquestions 7–12read the following school challenge and choose the option that best fits each numbered blank. healthy school-day challenge a (7) school day includes both focused study and time to care for your body. try to get enough sleep and include some (8) activity in your routine. your parents have agreed that if you finish your homework before 9 p.m., you (9) join the evening walk with your family. if you stay up much later than usual, there is a possibility that you (10) feel tired in class the next day. if you use the school’s quiet study room, you (11) turn your phone to silent mode because this is a room rule. small habits matter (12) they help you protect both study time and rest time.",
+      "questionRaw": "PART 1. LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school challenge and choose the option that best fits each numbered blank. HEALTHY SCHOOL-DAY CHALLENGE A (7) {#1} school day includes both focused study and time to care for your body. Try to get enough sleep and include some (8) {#2} activity in your routine. Your parents have agreed that if you finish your homework before 9 p.m., you (9) {#3} join the evening walk with your family. If you stay up much later than usual, there is a possibility that you (10) {#4} feel tired in class the next day. If you use the school’s quiet study room, you (11) {#5} turn your phone to silent mode because this is a room rule. Small habits matter (12) {#6} they help you protect both study time and rest time.",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "well-balanced"
+        },
+        {
+          "index": 1,
+          "value": "physical"
+        },
+        {
+          "index": 2,
+          "value": "can"
+        },
+        {
+          "index": 3,
+          "value": "might"
+        },
+        {
+          "index": 4,
+          "value": "must"
+        },
+        {
+          "index": 5,
+          "value": "because"
+        }
+      ],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school challenge and choose the option that best fits each numbered blank. HEALTHY SCHOOL-DAY CHALLENGE A (7) {#1} school day includes both focused study and time to care for your body. Try to get enough sleep and include some (8) {#2} activity in your routine. Your parents have agreed that if you finish your homework before 9 p.m., you (9) {#3} join the evening walk with your family. If you stay up much later than usual, there is a possibility that you (10) {#4} feel tired in class the next day. If you use the school’s quiet study room, you (11) {#5} turn your phone to silent mode because this is a room rule. Small habits matter (12) {#6} they help you protect both study time and rest time.",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "part 2. letter completionquestions 13–17read the following passage and mark the letter a, b, c or d to indicate the option that best fits each numbered blank from 13 to 17. the new harvest festival for many generations, the people of minh son held a festival after completing the main rice harvest. in the past, nearly every family worked in the surrounding fields. (13) ______. the festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. the event traditionally began early in the morning. older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. children carried fruit and flowers to the main hall. (14) ______. after the ceremony, families ate together and joined traditional games. over time, fewer residents worked directly in farming. many young adults found jobs in the nearby town, and some families could return to minh son only at weekends. the original weekday festival date therefore became difficult for many people. (15) ______. instead, residents discussed how the timetable could change while the festival’s main purpose remained. they eventually decided to hold the public celebration on the nearest sunday after the harvest ceremony. the smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. this arrangement allows more family members to participate without removing the original ceremony. some details have also changed. food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. however, the main dishes, expressions of gratitude, and shared meal remain. (17) ______. question 13.a. neighbours often helped one another bring in the rice before the seasonal rains arrived.b. several families travelled to the nearby town to buy rice from large shops.c. the communal house was closed because nobody wanted to organise the harvest.d. children attended school throughout the festival and did not join their families.write a, b, c or d: question 14.a. some villagers wanted to replace the ceremony with a sports competition.b. visitors left the village before the traditional food was prepared.c. a short ceremony then thanked earlier generations and celebrated the harvest.d. the families sold their fruit and flowers at the town market.write a, b, c or d: question 15.a. the village immediately cancelled the festival and removed all its traditions.b. however, residents did not want the festival to end because some families could not attend.c. younger residents asked to replace the harvest festival with a music event.d. the communal house was turned into an office during the harvest season.write a, b, c or d: question 16.a. the village has stopped preparing the traditional meal for visiting families.b. farmers now conduct the public celebration before bringing in the rice.c. the sunday event includes the shared meal, games, and larger family gathering.d. only children and visitors are allowed to attend the traditional ceremony.write a, b, c or d: question 17.a. the festival has adapted to present circumstances while preserving its central meaning.b. the changes have made the festival completely different from its earlier form.c. most families now attend mainly because they want to buy agricultural products.d. the village plans to replace the communal ceremony with a modern food market.write a, b, c or d:",
+      "questionRaw": "PART 2. LETTER COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each numbered blank from 13 to 17. THE NEW HARVEST FESTIVAL For many generations, the people of Minh Son held a festival after completing the main rice harvest. In the past, nearly every family worked in the surrounding fields. (13) ______. The festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. The event traditionally began early in the morning. Older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. Children carried fruit and flowers to the main hall. (14) ______. After the ceremony, families ate together and joined traditional games. Over time, fewer residents worked directly in farming. Many young adults found jobs in the nearby town, and some families could return to Minh Son only at weekends. The original weekday festival date therefore became difficult for many people. (15) ______. Instead, residents discussed how the timetable could change while the festival’s main purpose remained. They eventually decided to hold the public celebration on the nearest Sunday after the harvest ceremony. The smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. This arrangement allows more family members to participate without removing the original ceremony. Some details have also changed. Food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. However, the main dishes, expressions of gratitude, and shared meal remain. (17) ______. Question 13.A. Neighbours often helped one another bring in the rice before the seasonal rains arrived.B. Several families travelled to the nearby town to buy rice from large shops.C. The communal house was closed because nobody wanted to organise the harvest.D. Children attended school throughout the festival and did not join their families.Write A, B, C or D: {#1} Question 14.A. Some villagers wanted to replace the ceremony with a sports competition.B. Visitors left the village before the traditional food was prepared.C. A short ceremony then thanked earlier generations and celebrated the harvest.D. The families sold their fruit and flowers at the town market.Write A, B, C or D: {#2} Question 15.A. The village immediately cancelled the festival and removed all its traditions.B. However, residents did not want the festival to end because some families could not attend.C. Younger residents asked to replace the harvest festival with a music event.D. The communal house was turned into an office during the harvest season.Write A, B, C or D: {#3} Question 16.A. The village has stopped preparing the traditional meal for visiting families.B. Farmers now conduct the public celebration before bringing in the rice.C. The Sunday event includes the shared meal, games, and larger family gathering.D. Only children and visitors are allowed to attend the traditional ceremony.Write A, B, C or D: {#4} Question 17.A. The festival has adapted to present circumstances while preserving its central meaning.B. The changes have made the festival completely different from its earlier form.C. Most families now attend mainly because they want to buy agricultural products.D. The village plans to replace the communal ceremony with a modern food market.Write A, B, C or D: {#5}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "PART 2. LETTER COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each numbered blank from 13 to 17. THE NEW HARVEST FESTIVAL For many generations, the people of Minh Son held a festival after completing the main rice harvest. In the past, nearly every family worked in the surrounding fields. (13) ______. The festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. The event traditionally began early in the morning. Older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. Children carried fruit and flowers to the main hall. (14) ______. After the ceremony, families ate together and joined traditional games. Over time, fewer residents worked directly in farming. Many young adults found jobs in the nearby town, and some families could return to Minh Son only at weekends. The original weekday festival date therefore became difficult for many people. (15) ______. Instead, residents discussed how the timetable could change while the festival’s main purpose remained. They eventually decided to hold the public celebration on the nearest Sunday after the harvest ceremony. The smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. This arrangement allows more family members to participate without removing the original ceremony. Some details have also changed. Food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. However, the main dishes, expressions of gratitude, and shared meal remain. (17) ______. Question 13.A. Neighbours often helped one another bring in the rice before the seasonal rains arrived.B. Several families travelled to the nearby town to buy rice from large shops.C. The communal house was closed because nobody wanted to organise the harvest.D. Children attended school throughout the festival and did not join their families.Write A, B, C or D: {#1} Question 14.A. Some villagers wanted to replace the ceremony with a sports competition.B. Visitors left the village before the traditional food was prepared.C. A short ceremony then thanked earlier generations and celebrated the harvest.D. The families sold their fruit and flowers at the town market.Write A, B, C or D: {#2} Question 15.A. The village immediately cancelled the festival and removed all its traditions.B. However, residents did not want the festival to end because some families could not attend.C. Younger residents asked to replace the harvest festival with a music event.D. The communal house was turned into an office during the harvest season.Write A, B, C or D: {#3} Question 16.A. The village has stopped preparing the traditional meal for visiting families.B. Farmers now conduct the public celebration before bringing in the rice.C. The Sunday event includes the shared meal, games, and larger family gathering.D. Only children and visitors are allowed to attend the traditional ceremony.Write A, B, C or D: {#4} Question 17.A. The festival has adapted to present circumstances while preserving its central meaning.B. The changes have made the festival completely different from its earlier form.C. Most families now attend mainly because they want to buy agricultural products.D. The village plans to replace the communal ceremony with a modern food market.Write A, B, C or D: {#5}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. then give your labelled photographs to your class teacher before friday.b. our school history club is collecting photographs of school life in the past.c. the selected pictures will appear in an exhibition in the school library.d. first, write the owner’s name, the approximate date, and a short description on each label.e. we hope the exhibition will help students understand how school life has changed.a. b – d – a – c – eb. b – a – d – c – ec. a – b – c – d – ed. b – c – a – e – dwrite a, b, c or d –",
+      "questionRaw": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. Then give your labelled photographs to your class teacher before Friday.b. Our school history club is collecting photographs of school life in the past.c. The selected pictures will appear in an exhibition in the school library.d. First, write the owner’s name, the approximate date, and a short description on each label.e. We hope the exhibition will help students understand how school life has changed.A. b – d – a – c – eB. b – a – d – c – eC. a – b – c – d – eD. b – c – a – e – dWrite A, B, C or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. Then give your labelled photographs to your class teacher before Friday.b. Our school history club is collecting photographs of school life in the past.c. The selected pictures will appear in an exhibition in the school library.d. First, write the owner’s name, the approximate date, and a short description on each label.e. We hope the exhibition will help students understand how school life has changed.A. b – d – a – c – eB. b – a – d – c – eC. a – b – c – d – eD. b – c – a – e – dWrite A, B, C or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. during the break, they often played traditional games in the school yard.b. my grandmother attended a small village school more than fifty years ago.c. she usually walked there with her brothers because the family had no bicycle.d. although school life was simple, she still remembers those days warmly.a. c – b – a – db. b – c – a – dc. b – a – d – cd. a – c – b – dwrite a, b, c or d –",
+      "questionRaw": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. During the break, they often played traditional games in the school yard.b. My grandmother attended a small village school more than fifty years ago.c. She usually walked there with her brothers because the family had no bicycle.d. Although school life was simple, she still remembers those days warmly.A. c – b – a – dB. b – c – a – dC. b – a – d – cD. a – c – b – dWrite A, B, C or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. During the break, they often played traditional games in the school yard.b. My grandmother attended a small village school more than fifty years ago.c. She usually walked there with her brothers because the family had no bicycle.d. Although school life was simple, she still remembers those days warmly.A. c – b – a – dB. b – c – a – dC. b – a – d – cD. a – c – b – dWrite A, B, C or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. hoa: sorry? i didn’t hear the last part.b. minh: could you remind me when the science project is due?c. minh: i asked when the science project is due.d. hoa: it’s due next thursday.a. a – b – c – db. c – b – a – dc. b – c – a – dd. b – a – c – dwrite a, b, c or d –",
+      "questionRaw": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. Hoa: Sorry? I didn’t hear the last part.b. Minh: Could you remind me when the science project is due?c. Minh: I asked when the science project is due.d. Hoa: It’s due next Thursday.A. a – b – c – dB. c – b – a – dC. b – c – a – dD. b – a – c – dWrite A, B, C or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. Hoa: Sorry? I didn’t hear the last part.b. Minh: Could you remind me when the science project is due?c. Minh: I asked when the science project is due.d. Hoa: It’s due next Thursday.A. a – b – c – dB. c – b – a – dC. b – c – a – dD. b – a – c – dWrite A, B, C or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. the explanation showed him how to correct the first step.b. duy could not understand why his science answer was wrong.c. before asking for help, he wrote down the exact step he did not understand.d. he then showed the question to his teacher after class. a. c – b – d – ab. b – d – c – ac. b – c – a – dd. b – c – d – awrite a, b, c or d –",
+      "questionRaw": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. The explanation showed him how to correct the first step.b. Duy could not understand why his science answer was wrong.c. Before asking for help, he wrote down the exact step he did not understand.d. He then showed the question to his teacher after class. A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. The explanation showed him how to correct the first step.b. Duy could not understand why his science answer was wrong.c. Before asking for help, he wrote down the exact step he did not understand.d. He then showed the question to his teacher after class. A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. question a. during that break, he stretches or walks around the house.b. nam tries to keep a good balance between schoolwork and rest.c. when he notices his concentration falling, he stops studying for ten minutes.d. this simple routine helps him return to his work with more energy.a. b – c – a – db. b – a – c – dc. c – b – a – dd. b – c – d – awrite a, b, c or d –",
+      "questionRaw": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Question a. During that break, he stretches or walks around the house.b. Nam tries to keep a good balance between schoolwork and rest.c. When he notices his concentration falling, he stops studying for ten minutes.d. This simple routine helps him return to his work with more energy.A. b – c – a – dB. b – a – c – dC. c – b – a – dD. b – c – d – aWrite A, B, C or D – {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Question a. During that break, he stretches or walks around the house.b. Nam tries to keep a good balance between schoolwork and rest.c. When he notices his concentration falling, he stops studying for ten minutes.d. This simple routine helps him return to his work with more energy.A. b – c – a – dB. b – a – c – dC. c – b – a – dD. b – c – d – aWrite A, B, C or D – {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. structures",
+      "id": "question-1996885-1",
+      "inputs": [],
+      "legacyQKey": "part 1. language in functional textsquestions 1–6read the following leaflet and choose the option that best fits each numbered blank. visit phuong nam communal house phuong nam communal house is one of the oldest cultural (1) {#1} in our district. local people built it more than 250 years ago as a place for community meetings and traditional celebrations. when a serious storm damaged part of the roof ten years ago, local builders (2) {#2} on a nearby project. they stopped their work and came to protect the building from further damage. thanks to their valuable (3) {#3}, the communal house reopened several months later. it is now recognised (4) {#4} an important historic site. visitors can explore the main hall, view old objects, and learn about local customs. we wish more young people (5) {#5} interested in the history of the building and willing to help keep its traditions alive. please follow the guide's instructions, (6) {#6} some parts of the structure are very old.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTSQuestions 1–6Read the following leaflet and choose the option that best fits each numbered blank. VISIT PHUONG NAM COMMUNAL HOUSE Phuong Nam Communal House is one of the oldest cultural (1) [Blank 1] in our district. Local people built it more than 250 years ago as a place for community meetings and traditional celebrations. When a serious storm damaged part of the roof ten years ago, local builders (2) [Blank 2] on a nearby project. They stopped their work and came to protect the building from further damage. Thanks to their valuable (3) [Blank 3] , the communal house reopened several months later. It is now recognised (4) [Blank 4] an important historic site. Visitors can explore the main hall, view old objects, and learn about local customs. We wish more young people (5) [Blank 5] interested in the history of the building and willing to help keep its traditions alive. Please follow the guide's instructions, (6) [Blank 6] some parts of the structure are very old.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.takeawaysB.generationsC.structuresD.ingredientsÔ (2):A.workB.were workingC.are workingD.had workedÔ (3):A.contributionB.observationC.occupationD.recognitionÔ (4):A.byB.asC.withD.forÔ (5):A.have beenB.will beC.areD.wereÔ (6):A.butB.althoughC.becauseD.unless",
+      "questionId": "question-1996885-1",
+      "questionKey": "part 1. language in functional textsquestions 1–6read the following leaflet and choose the option that best fits each numbered blank. visit phuong nam communal house phuong nam communal house is one of the oldest cultural (1) [blank 1] in our district. local people built it more than 250 years ago as a place for community meetings and traditional celebrations. when a serious storm damaged part of the roof ten years ago, local builders (2) [blank 2] on a nearby project. they stopped their work and came to protect the building from further damage. thanks to their valuable (3) [blank 3] , the communal house reopened several months later. it is now recognised (4) [blank 4] an important historic site. visitors can explore the main hall, view old objects, and learn about local customs. we wish more young people (5) [blank 5] interested in the history of the building and willing to help keep its traditions alive. please follow the guide's instructions, (6) [blank 6] some parts of the structure are very old.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.takeawaysb.generationsc.structuresd.ingredientsô (2):a.workb.were workingc.are workingd.had workedô (3):a.contributionb.observationc.occupationd.recognitionô (4):a.byb.asc.withd.forô (5):a.have beenb.will bec.ared.wereô (6):a.butb.althoughc.becaused.unless",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. structures"
+        },
+        {
+          "index": 1,
+          "value": "B. were working"
+        },
+        {
+          "index": 2,
+          "value": "A. contribution"
+        },
+        {
+          "index": 3,
+          "value": "B. as"
+        },
+        {
+          "index": 4,
+          "value": "D. were"
+        },
+        {
+          "index": 5,
+          "value": "C. because"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. well-balanced",
+      "id": "question-1996885-2",
+      "inputs": [],
+      "legacyQKey": "part 1. language in functional textsquestions 7–12read the following school challenge and choose the option that best fits each numbered blank. healthy school-day challenge a (7) {#1} school day includes both focused study and time to care for your body. try to get enough sleep and include some (8) {#2} activity in your routine. your parents have agreed that if you finish your homework before 9 p.m., you (9) {#3} join the evening walk with your family. if you stay up much later than usual, there is a possibility that you (10) {#4} feel tired in class the next day. if you use the school's quiet study room, you (11) {#5} turn your phone to silent mode because this is a room rule. small habits matter (12) {#6} they help you protect both study time and rest time.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1. LANGUAGE IN FUNCTIONAL TEXTSQuestions 7–12Read the following school challenge and choose the option that best fits each numbered blank. HEALTHY SCHOOL-DAY CHALLENGE A (7) [Blank 7] school day includes both focused study and time to care for your body. Try to get enough sleep and include some (8) [Blank 8] activity in your routine. Your parents have agreed that if you finish your homework before 9 p.m., you (9) [Blank 9] join the evening walk with your family. If you stay up much later than usual, there is a possibility that you (10) [Blank 10] feel tired in class the next day. If you use the school's quiet study room, you (11) [Blank 11] turn your phone to silent mode because this is a room rule. Small habits matter (12) [Blank 12] they help you protect both study time and rest time.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.stressed-outB.delayedC.additionalD.well-balancedÔ (8):A.optimisticB.physicalC.mentalD.difficultÔ (9):A.mightB.canC.shouldD.mustÔ (10):A.have toB.mightC.mustD.shouldÔ (11):A.canB.shouldC.mustD.mightÔ (12):A.unlessB.althoughC.becauseD.so",
+      "questionId": "question-1996885-2",
+      "questionKey": "part 1. language in functional textsquestions 7–12read the following school challenge and choose the option that best fits each numbered blank. healthy school-day challenge a (7) [blank 7] school day includes both focused study and time to care for your body. try to get enough sleep and include some (8) [blank 8] activity in your routine. your parents have agreed that if you finish your homework before 9 p.m., you (9) [blank 9] join the evening walk with your family. if you stay up much later than usual, there is a possibility that you (10) [blank 10] feel tired in class the next day. if you use the school's quiet study room, you (11) [blank 11] turn your phone to silent mode because this is a room rule. small habits matter (12) [blank 12] they help you protect both study time and rest time.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.stressed-outb.delayedc.additionald.well-balancedô (8):a.optimisticb.physicalc.mentald.difficultô (9):a.mightb.canc.shouldd.mustô (10):a.have tob.mightc.mustd.shouldô (11):a.canb.shouldc.mustd.mightô (12):a.unlessb.althoughc.becaused.so",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. well-balanced"
+        },
+        {
+          "index": 1,
+          "value": "B. physical"
+        },
+        {
+          "index": 2,
+          "value": "B. can"
+        },
+        {
+          "index": 3,
+          "value": "B. might"
+        },
+        {
+          "index": 4,
+          "value": "C. must"
+        },
+        {
+          "index": 5,
+          "value": "C. because"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1996885-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 2. letter completionquestions 13–17read the following passage and mark the letter a, b, c or d to indicate the option that best fits each numbered blank from 13 to 17. the new harvest festival for many generations, the people of minh son held a festival after completing the main rice harvest. in the past, nearly every family worked in the surrounding fields. (13) ______. the festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. the event traditionally began early in the morning. older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. children carried fruit and flowers to the main hall. (14) ______. after the ceremony, families ate together and joined traditional games. over time, fewer residents worked directly in farming. many young adults found jobs in the nearby town, and some families could return to minh son only at weekends. the original weekday festival date therefore became difficult for many people. (15) ______. instead, residents discussed how the timetable could change while the festival's main purpose remained. they eventually decided to hold the public celebration on the nearest sunday after the harvest ceremony. the smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. this arrangement allows more family members to participate without removing the original ceremony. some details have also changed. food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. however, the main dishes, expressions of gratitude, and shared meal remain. (17) ______. question 13.a. neighbours often helped one another bring in the rice before the seasonal rains arrived.b. several families travelled to the nearby town to buy rice from large shops.c. the communal house was closed because nobody wanted to organise the harvest.d. children attended school throughout the festival and did not join their families.write a, b, c or d: {#1} question 14.a. some villagers wanted to replace the ceremony with a sports competition.b. visitors left the village before the traditional food was prepared.c. a short ceremony then thanked earlier generations and celebrated the harvest.d. the families sold their fruit and flowers at the town market.write a, b, c or d: {#2} question 15.a. the village immediately cancelled the festival and removed all its traditions.b. however, residents did not want the festival to end because some families could not attend.c. younger residents asked to replace the harvest festival with a music event.d. the communal house was turned into an office during the harvest season.write a, b, c or d: {#3} question 16.a. the village has stopped preparing the traditional meal for visiting families.b. farmers now conduct the public celebration before bringing in the rice.c. the sunday event includes the shared meal, games, and larger family gathering.d. only children and visitors are allowed to attend the traditional ceremony.write a, b, c or d: {#4} question 17.a. the festival has adapted to present circumstances while preserving its central meaning.b. the changes have made the festival completely different from its earlier form.c. most families now attend mainly because they want to buy agricultural products.d. the village plans to replace the communal ceremony with a modern food market.write a, b, c or d: {#5}",
+      "letter": "",
+      "options": [],
+      "question": "PART 2. LETTER COMPLETIONQuestions 13–17Read the following passage and mark the letter A, B, C or D to indicate the option that best fits each numbered blank from 13 to 17. THE NEW HARVEST FESTIVAL For many generations, the people of Minh Son held a festival after completing the main rice harvest. In the past, nearly every family worked in the surrounding fields. (13) ______. The festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. The event traditionally began early in the morning. Older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. Children carried fruit and flowers to the main hall. (14) ______. After the ceremony, families ate together and joined traditional games. Over time, fewer residents worked directly in farming. Many young adults found jobs in the nearby town, and some families could return to Minh Son only at weekends. The original weekday festival date therefore became difficult for many people. (15) ______. Instead, residents discussed how the timetable could change while the festival's main purpose remained. They eventually decided to hold the public celebration on the nearest Sunday after the harvest ceremony. The smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. This arrangement allows more family members to participate without removing the original ceremony. Some details have also changed. Food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. However, the main dishes, expressions of gratitude, and shared meal remain. (17) ______. Question 13.A. Neighbours often helped one another bring in the rice before the seasonal rains arrived.B. Several families travelled to the nearby town to buy rice from large shops.C. The communal house was closed because nobody wanted to organise the harvest.D. Children attended school throughout the festival and did not join their families.Write A, B, C or D: {#1} Question 14.A. Some villagers wanted to replace the ceremony with a sports competition.B. Visitors left the village before the traditional food was prepared.C. A short ceremony then thanked earlier generations and celebrated the harvest.D. The families sold their fruit and flowers at the town market.Write A, B, C or D: {#2} Question 15.A. The village immediately cancelled the festival and removed all its traditions.B. However, residents did not want the festival to end because some families could not attend.C. Younger residents asked to replace the harvest festival with a music event.D. The communal house was turned into an office during the harvest season.Write A, B, C or D: {#3} Question 16.A. The village has stopped preparing the traditional meal for visiting families.B. Farmers now conduct the public celebration before bringing in the rice.C. The Sunday event includes the shared meal, games, and larger family gathering.D. Only children and visitors are allowed to attend the traditional ceremony.Write A, B, C or D: {#4} Question 17.A. The festival has adapted to present circumstances while preserving its central meaning.B. The changes have made the festival completely different from its earlier form.C. Most families now attend mainly because they want to buy agricultural products.D. The village plans to replace the communal ceremony with a modern food market.Write A, B, C or D: {#5}",
+      "questionId": "question-1996885-3",
+      "questionKey": "part 2. letter completionquestions 13–17read the following passage and mark the letter a, b, c or d to indicate the option that best fits each numbered blank from 13 to 17. the new harvest festival for many generations, the people of minh son held a festival after completing the main rice harvest. in the past, nearly every family worked in the surrounding fields. (13) ______. the festival gave them an opportunity to rest, share food, and express gratitude for a successful harvest. the event traditionally began early in the morning. older residents prepared ceremonial dishes, while young adults arranged tables in the communal-house yard. children carried fruit and flowers to the main hall. (14) ______. after the ceremony, families ate together and joined traditional games. over time, fewer residents worked directly in farming. many young adults found jobs in the nearby town, and some families could return to minh son only at weekends. the original weekday festival date therefore became difficult for many people. (15) ______. instead, residents discussed how the timetable could change while the festival's main purpose remained. they eventually decided to hold the public celebration on the nearest sunday after the harvest ceremony. the smaller ceremony still takes place on its traditional date and is attended mainly by residents who live nearby. (16) ______. this arrangement allows more family members to participate without removing the original ceremony. some details have also changed. food is now prepared in several homes instead of entirely in the communal-house yard, and the games begin later in the afternoon. however, the main dishes, expressions of gratitude, and shared meal remain. (17) ______. question 13.a. neighbours often helped one another bring in the rice before the seasonal rains arrived.b. several families travelled to the nearby town to buy rice from large shops.c. the communal house was closed because nobody wanted to organise the harvest.d. children attended school throughout the festival and did not join their families.write a, b, c or d: {#1} question 14.a. some villagers wanted to replace the ceremony with a sports competition.b. visitors left the village before the traditional food was prepared.c. a short ceremony then thanked earlier generations and celebrated the harvest.d. the families sold their fruit and flowers at the town market.write a, b, c or d: {#2} question 15.a. the village immediately cancelled the festival and removed all its traditions.b. however, residents did not want the festival to end because some families could not attend.c. younger residents asked to replace the harvest festival with a music event.d. the communal house was turned into an office during the harvest season.write a, b, c or d: {#3} question 16.a. the village has stopped preparing the traditional meal for visiting families.b. farmers now conduct the public celebration before bringing in the rice.c. the sunday event includes the shared meal, games, and larger family gathering.d. only children and visitors are allowed to attend the traditional ceremony.write a, b, c or d: {#4} question 17.a. the festival has adapted to present circumstances while preserving its central meaning.b. the changes have made the festival completely different from its earlier form.c. most families now attend mainly because they want to buy agricultural products.d. the village plans to replace the communal ceremony with a modern food market.write a, b, c or d: {#5}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1996885-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. the explanation showed him how to correct the first step.b. duy could not understand why his science answer was wrong.c. before asking for help, he wrote down the exact step he did not understand.d. he then showed the question to his teacher after class. a. c – b – d – ab. b – d – c – ac. b – c – a – dd. b – c – d – awrite a, b, c or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. The explanation showed him how to correct the first step.b. Duy could not understand why his science answer was wrong.c. Before asking for help, he wrote down the exact step he did not understand.d. He then showed the question to his teacher after class. A. c – b – d – aB. b – d – c – aC. b – c – a – dD. b – c – d – aWrite A, B, C or D – {#1}",
+      "questionId": "question-1996885-5",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. the explanation showed him how to correct the first step.b. duy could not understand why his science answer was wrong.c. before asking for help, he wrote down the exact step he did not understand.d. he then showed the question to his teacher after class. a. c – b – d – ab. b – d – c – ac. b – c – a – dd. b – c – d – awrite a, b, c or d – {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1996885-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. then give your labelled photographs to your class teacher before friday.b. our school history club is collecting photographs of school life in the past.c. the selected pictures will appear in an exhibition in the school library.d. first, write the owner's name, the approximate date, and a short description on each label.e. we hope the exhibition will help students understand how school life has changed.a. b – d – a – c – eb. b – a – d – c – ec. a – b – c – d – ed. b – c – a – e – dwrite a, b, c or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. Then give your labelled photographs to your class teacher before Friday.b. Our school history club is collecting photographs of school life in the past.c. The selected pictures will appear in an exhibition in the school library.d. First, write the owner's name, the approximate date, and a short description on each label.e. We hope the exhibition will help students understand how school life has changed.A. b – d – a – c – eB. b – a – d – c – eC. a – b – c – d – eD. b – c – a – e – dWrite A, B, C or D – {#1}",
+      "questionId": "question-1996885-8",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. then give your labelled photographs to your class teacher before friday.b. our school history club is collecting photographs of school life in the past.c. the selected pictures will appear in an exhibition in the school library.d. first, write the owner's name, the approximate date, and a short description on each label.e. we hope the exhibition will help students understand how school life has changed.a. b – d – a – c – eb. b – a – d – c – ec. a – b – c – d – ed. b – c – a – e – dwrite a, b, c or d – {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1996885-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. question a. during that break, he stretches or walks around the house.b. nam tries to keep a good balance between schoolwork and rest.c. when he notices his concentration falling, he stops studying for ten minutes.d. this simple routine helps him return to his work with more energy.a. b – c – a – db. b – a – c – dc. c – b – a – dd. b – c – d – awrite a, b, c or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Question a. During that break, he stretches or walks around the house.b. Nam tries to keep a good balance between schoolwork and rest.c. When he notices his concentration falling, he stops studying for ten minutes.d. This simple routine helps him return to his work with more energy.A. b – c – a – dB. b – a – c – dC. c – b – a – dD. b – c – d – aWrite A, B, C or D – {#1}",
+      "questionId": "question-1996885-6",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. question a. during that break, he stretches or walks around the house.b. nam tries to keep a good balance between schoolwork and rest.c. when he notices his concentration falling, he stops studying for ten minutes.d. this simple routine helps him return to his work with more energy.a. b – c – a – db. b – a – c – dc. c – b – a – dd. b – c – d – awrite a, b, c or d – {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "B",
+      "id": "question-1996885-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. during the break, they often played traditional games in the school yard.b. my grandmother attended a small village school more than fifty years ago.c. she usually walked there with her brothers because the family had no bicycle.d. although school life was simple, she still remembers those days warmly.a. c – b – a – db. b – c – a – dc. b – a – d – cd. a – c – b – dwrite a, b, c or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. During the break, they often played traditional games in the school yard.b. My grandmother attended a small village school more than fifty years ago.c. She usually walked there with her brothers because the family had no bicycle.d. Although school life was simple, she still remembers those days warmly.A. c – b – a – dB. b – c – a – dC. b – a – d – cD. a – c – b – dWrite A, B, C or D – {#1}",
+      "questionId": "question-1996885-4",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. during the break, they often played traditional games in the school yard.b. my grandmother attended a small village school more than fifty years ago.c. she usually walked there with her brothers because the family had no bicycle.d. although school life was simple, she still remembers those days warmly.a. c – b – a – db. b – c – a – dc. b – a – d – cd. a – c – b – dwrite a, b, c or d – {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1996885-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. hoa: sorry? i didn't hear the last part.b. minh: could you remind me when the science project is due?c. minh: i asked when the science project is due.d. hoa: it's due next thursday.a. a – b – c – db. c – b – a – dc. b – c – a – dd. b – a – c – dwrite a, b, c or d – {#1}",
+      "letter": "",
+      "options": [],
+      "question": "PART 3. TEXT AND DIALOGUE ORGANISATIONChoose the best arrangement of the sentences or utterances to make a coherent exchange or text. Questiona. Hoa: Sorry? I didn't hear the last part.b. Minh: Could you remind me when the science project is due?c. Minh: I asked when the science project is due.d. Hoa: It's due next Thursday.A. a – b – c – dB. c – b – a – dC. b – c – a – dD. b – a – c – dWrite A, B, C or D – {#1}",
+      "questionId": "question-1996885-7",
+      "questionKey": "part 3. text and dialogue organisationchoose the best arrangement of the sentences or utterances to make a coherent exchange or text. questiona. hoa: sorry? i didn't hear the last part.b. minh: could you remind me when the science project is due?c. minh: i asked when the science project is due.d. hoa: it's due next thursday.a. a – b – c – db. c – b – a – dc. b – c – a – dd. b – a – c – dwrite a, b, c or d – {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
