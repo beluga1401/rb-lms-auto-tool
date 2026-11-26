@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "account_name": "Student_Mobile",
+    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR11EX54MOET",
+    "quiz_key": "gr11ex54moet",
+    "cmid": "750071",
+    "course_id": "4775",
+    "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex54moet.json",
+    "score": "100.0%",
+    "score_pct": 100,
+    "question_count": 8,
+    "updated_at": "2026-11-26 23:32:46"
+  },
+  "answers": [
+    {
+      "id": "question-1997086-1",
+      "questionId": "question-1997086-1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. LOWER-EMISSION RICE FARMING Flooded rice fields can make it easier for soil bacteria to produce (1) {#1} gases. (2) {#2} water levels more carefully, farmers can reduce the periods when fields remain flooded. (3) {#3} in carefully managed drier fields, rice can still grow well while the fields may produce fewer greenhouse gases. This method can also require (4) {#4} water than keeping fields permanently flooded. (5) {#5}, new farming methods may lower the climate impact while still supporting crop production. The aim is to find an (6) {#6} that reduces the warming impact without preventing farmers from growing successful crops.",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. lower-emission rice farming flooded rice fields can make it easier for soil bacteria to produce (1) {#1} gases. (2) {#2} water levels more carefully, farmers can reduce the periods when fields remain flooded. (3) {#3} in carefully managed drier fields, rice can still grow well while the fields may produce fewer greenhouse gases. this method can also require (4) {#4} water than keeping fields permanently flooded. (5) {#5}, new farming methods may lower the climate impact while still supporting crop production. the aim is to find an (6) {#6} that reduces the warming impact without preventing farmers from growing successful crops.",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "warming",
+          "isCorrect": false
+        },
+        {
+          "index": 1,
+          "value": "Managing",
+          "isCorrect": true
+        },
+        {
+          "index": 2,
+          "value": "Plant",
+          "isCorrect": false
+        },
+        {
+          "index": 3,
+          "value": "fewer",
+          "isCorrect": false
+        },
+        {
+          "index": 4,
+          "value": "For example",
+          "isCorrect": false
+        },
+        {
+          "index": 5,
+          "value": "emission",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "question-1997086-2",
+      "questionId": "question-1997086-2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REDUCING COAL USE Coal is a fossil fuel that releases large amounts of carbon dioxide when (7) {#1} for energy. Many climate plans therefore encourage switching to (8) {#2} sources of energy. Replacing coal with cleaner sources can reduce carbon dioxide (9) {#3} from electricity production. When discussing such a plan, students should state their main argument first and then (10) {#4} the reasons clearly. A plan may also include steps to use less electricity. (11) {#5}, lowering demand can reduce the amount of fossil fuel that needs to be burned. The overall goal is to reduce the warming (12) {#6} of energy use.",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. reducing coal use coal is a fossil fuel that releases large amounts of carbon dioxide when (7) {#1} for energy. many climate plans therefore encourage switching to (8) {#2} sources of energy. replacing coal with cleaner sources can reduce carbon dioxide (9) {#3} from electricity production. when discussing such a plan, students should state their main argument first and then (10) {#4} the reasons clearly. a plan may also include steps to use less electricity. (11) {#5}, lowering demand can reduce the amount of fossil fuel that needs to be burned. the overall goal is to reduce the warming (12) {#6} of energy use.",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "Burn",
+          "isCorrect": false
+        },
+        {
+          "index": 1,
+          "value": "polluted",
+          "isCorrect": false
+        },
+        {
+          "index": 2,
+          "value": "emissions",
+          "isCorrect": true
+        },
+        {
+          "index": 3,
+          "value": "release",
+          "isCorrect": false
+        },
+        {
+          "index": 4,
+          "value": "However",
+          "isCorrect": false
+        },
+        {
+          "index": 5,
+          "value": "source",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "question-1997086-3",
+      "questionId": "question-1997086-3",
+      "questionNumber": 3,
+      "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A FACTORY SETS EMISSION PRIORITIES At a small food-processing factory, coal supplied heat for three production processes. Managers wanted to lower carbon dioxide emissions, but replacing all the equipment at once was not practical. Instead of choosing a process by guess, they recorded how much coal each one used. (13) ______ The drying stage used nearly half of the factory's coal. (14) ______ Managers then checked whether renewable electricity could supply the heat needed for that stage. (15) ______ The remaining two processes were not ignored. (16) ______ By comparing the size of each emission source with the alternatives actually available, the factory created a gradual reduction plan. (17) ______ Question 13.A. They decided that every process used exactly the same amount of coal before seeing the figures.B. The records were discarded before the managers had compared the processes.C. This allowed the managers to compare which process depended most heavily on coal.D. They replaced all three heating systems before reviewing the information.Write A, B, C, or D - {#1} Question 14.A. Concerned about this unusually high coal use, the drying stage was placed first on the managers' list for cleaner energy.B. Concerning this unusually high coal use, the drying stage placed the managers first on its list for cleaner energy.C. Concerned about this unusually high coal use, the managers placed the drying stage first on their list for cleaner energy.D. To be concerned about this unusually high coal use, the managers placed the drying stage first on their list for cleaner energy.Write A, B, C, or D - {#2} Question 15.A. Renewable electricity was rejected because it always released more carbon dioxide than coal.B. The factory decided that the energy source did not matter if production remained unchanged.C. Managers found that every process could switch immediately without any limit on the energy supply.D. The available renewable supply was enough for the drying stage, but not yet for every process.Write A, B, C, or D - {#3} Question 16.A. They were removed from the reduction plan because the drying stage used more coal.B. They were ranked for later review according to their coal use and the alternatives available.C. Their coal use was assumed to be zero because they were not selected first.D. They were converted to renewable energy before any further comparison was made.Write A, B, C, or D - {#4} Question 17.A. This showed that only one process in any factory can produce climate emissions.B. As a result, managers no longer needed to monitor coal use in the other processes.C. The plan therefore started with the largest practical reduction while keeping other sources under review.D. The comparison proved that renewable energy could never replace fossil fuels.Write A, B, C, or D - {#5}",
+      "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a factory sets emission priorities at a small food-processing factory, coal supplied heat for three production processes. managers wanted to lower carbon dioxide emissions, but replacing all the equipment at once was not practical. instead of choosing a process by guess, they recorded how much coal each one used. (13) ______ the drying stage used nearly half of the factory's coal. (14) ______ managers then checked whether renewable electricity could supply the heat needed for that stage. (15) ______ the remaining two processes were not ignored. (16) ______ by comparing the size of each emission source with the alternatives actually available, the factory created a gradual reduction plan. (17) ______ question 13.a. they decided that every process used exactly the same amount of coal before seeing the figures.b. the records were discarded before the managers had compared the processes.c. this allowed the managers to compare which process depended most heavily on coal.d. they replaced all three heating systems before reviewing the information.write a, b, c, or d - {#1} question 14.a. concerned about this unusually high coal use, the drying stage was placed first on the managers' list for cleaner energy.b. concerning this unusually high coal use, the drying stage placed the managers first on its list for cleaner energy.c. concerned about this unusually high coal use, the managers placed the drying stage first on their list for cleaner energy.d. to be concerned about this unusually high coal use, the managers placed the drying stage first on their list for cleaner energy.write a, b, c, or d - {#2} question 15.a. renewable electricity was rejected because it always released more carbon dioxide than coal.b. the factory decided that the energy source did not matter if production remained unchanged.c. managers found that every process could switch immediately without any limit on the energy supply.d. the available renewable supply was enough for the drying stage, but not yet for every process.write a, b, c, or d - {#3} question 16.a. they were removed from the reduction plan because the drying stage used more coal.b. they were ranked for later review according to their coal use and the alternatives available.c. their coal use was assumed to be zero because they were not selected first.d. they were converted to renewable energy before any further comparison was made.write a, b, c, or d - {#4} question 17.a. this showed that only one process in any factory can produce climate emissions.b. as a result, managers no longer needed to monitor coal use in the other processes.c. the plan therefore started with the largest practical reduction while keeping other sources under review.d. the comparison proved that renewable energy could never replace fossil fuels.write a, b, c, or d - {#5}",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b",
+          "isCorrect": false
+        },
+        {
+          "index": 1,
+          "value": "A",
+          "isCorrect": false
+        },
+        {
+          "index": 2,
+          "value": "A",
+          "isCorrect": false
+        },
+        {
+          "index": 3,
+          "value": "A",
+          "isCorrect": false
+        },
+        {
+          "index": 4,
+          "value": "A",
+          "isCorrect": false
+        }
+      ],
+      "selects": []
+    },
+    {
+      "id": "question-1997086-4",
+      "questionId": "question-1997086-4",
+      "questionNumber": 4,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. The final session ended with a summary of the climate goals discussed.b. Climate representatives met on Monday to review recent progress on global warming.c. After reviewing that progress, speakers said the next stage would focus on three goals.d. Those three goals were reducing coal use, ending deforestation, and cutting methane emissions.e. With the goals now listed in detail, delegates discussed the actions needed to move towards each one.A. b - d - c - e - aB. c - b - d - e - aC. b - c - e - d - aD. b - c - d - e - a Write A, B, C, or D - {#1}",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. the final session ended with a summary of the climate goals discussed.b. climate representatives met on monday to review recent progress on global warming.c. after reviewing that progress, speakers said the next stage would focus on three goals.d. those three goals were reducing coal use, ending deforestation, and cutting methane emissions.e. with the goals now listed in detail, delegates discussed the actions needed to move towards each one.a. b - d - c - e - ab. c - b - d - e - ac. b - c - e - d - ad. b - c - d - e - a write a, b, c, or d - {#1}",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c",
+          "isCorrect": false
+        }
+      ],
+      "selects": []
+    },
+    {
+      "id": "question-1997086-5",
+      "questionId": "question-1997086-5",
+      "questionNumber": 5,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. After receiving this reading sheet, prepare one question about the pollutant you were assigned.b. Our class will hold a small climate discussion on Thursday.c. Students who register for this discussion by Tuesday will receive a short reading sheet on Wednesday.d. The questions will be collected at the start of Thursday's session and grouped by topic.e. The discussion leader will use those groups during the final question-and-answer session.A. b - a - c - d - eB. c - b - a - d - eC. b - c - d - a - eD. b - c - a - d - e Write A, B, C, or D - {#1}",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. after receiving this reading sheet, prepare one question about the pollutant you were assigned.b. our class will hold a small climate discussion on thursday.c. students who register for this discussion by tuesday will receive a short reading sheet on wednesday.d. the questions will be collected at the start of thursday's session and grouped by topic.e. the discussion leader will use those groups during the final question-and-answer session.a. b - a - c - d - eb. c - b - a - d - ec. b - c - d - a - ed. b - c - a - d - e write a, b, c, or d - {#1}",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a",
+          "isCorrect": false
+        }
+      ],
+      "selects": []
+    },
+    {
+      "id": "question-1997086-6",
+      "questionId": "question-1997086-6",
+      "questionNumber": 6,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Hoa: I must warn you not to burn that pile of leaves here.b. Nam: Thanks for stopping me. Why is burning them a problem?c. Hoa: Open burning produces smoke and soot, so please use the garden-waste collection point instead.d. Nam: Oh, really? I didn't know that. I'll use the collection point instead.e. Hoa: Good. It is open on Friday morning, so you can take the leaves there then.A. a - c - b - d - eB. a - b - c - d - eC. b - a - c - d - eD. a - b - d - c - e Write A, B, C, or D - {#1}",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. hoa: i must warn you not to burn that pile of leaves here.b. nam: thanks for stopping me. why is burning them a problem?c. hoa: open burning produces smoke and soot, so please use the garden-waste collection point instead.d. nam: oh, really? i didn't know that. i'll use the collection point instead.e. hoa: good. it is open on friday morning, so you can take the leaves there then.a. a - c - b - d - eb. a - b - c - d - ec. b - a - c - d - ed. a - b - d - c - e write a, b, c, or d - {#1}",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b",
+          "isCorrect": true
+        }
+      ],
+      "selects": []
+    },
+    {
+      "id": "question-1997086-7",
+      "questionId": "question-1997086-7",
+      "questionNumber": 7,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. The group first listed two common examples of unnecessary energy use: lights left on and fans running in empty rooms.b. After identifying both examples, the group chose wasted electricity as the behaviour most students could change immediately.c. To justify that choice, its report explained that electricity may be generated from fossil fuels, so unnecessary use can increase fuel demand.d. After establishing that link, the group recommended switching off lights and fans whenever rooms were empty.e. The final paragraph clarified that the recommendation targeted wasted energy rather than necessary electricity use.A. a - c - b - d - eB. b - a - c - d - eC. a - b - d - c - eD. a - b - c - d - e Write A, B, C, or D - {#1}",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. the group first listed two common examples of unnecessary energy use: lights left on and fans running in empty rooms.b. after identifying both examples, the group chose wasted electricity as the behaviour most students could change immediately.c. to justify that choice, its report explained that electricity may be generated from fossil fuels, so unnecessary use can increase fuel demand.d. after establishing that link, the group recommended switching off lights and fans whenever rooms were empty.e. the final paragraph clarified that the recommendation targeted wasted energy rather than necessary electricity use.a. a - c - b - d - eb. b - a - c - d - ec. a - b - d - c - ed. a - b - c - d - e write a, b, c, or d - {#1}",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a",
+          "isCorrect": false
+        }
+      ],
+      "selects": []
+    },
+    {
+      "id": "question-1997086-8",
+      "questionId": "question-1997086-8",
+      "questionNumber": 8,
+      "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Lan: Which farming activity do you think contributes more to warming, raising cattle or growing rice?b. Minh: I think raising cattle, because cows release methane.c. Lan: But rice fields can also produce greenhouse gases, can't they?d. Minh: Yes, they can. I'm not saying rice has no impact; I'm only explaining why I chose cattle.e. Lan: I understand. So your answer is a comparison, not a claim that rice causes no emissions.A. a - b - c - d - eB. b - a - c - d - eC. a - c - b - d - eD. a - b - d - c - e Write A, B, C, or D - {#1}",
+      "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. lan: which farming activity do you think contributes more to warming, raising cattle or growing rice?b. minh: i think raising cattle, because cows release methane.c. lan: but rice fields can also produce greenhouse gases, can't they?d. minh: yes, they can. i'm not saying rice has no impact; i'm only explaining why i chose cattle.e. lan: i understand. so your answer is a comparison, not a claim that rice causes no emissions.a. a - b - c - d - eb. b - a - c - d - ec. a - c - b - d - ed. a - b - d - c - e write a, b, c, or d - {#1}",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c",
+          "isCorrect": false
+        }
+      ],
+      "selects": []
+    }
+  ]
+}
