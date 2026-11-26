@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
-    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "account_name": "Student_Mobile",
+    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 4_EXERCISES 34-48",
     "unit_key": "session_4_exercises_34_48",
     "quiz_title": "GR11EX48MOET",
     "quiz_key": "gr11ex48moet",
-    "cmid": "746647",
+    "cmid": "746652",
     "course_id": "4775",
-    "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex48moet.json",
+    "repo_path": "cloud_configs\/khoi_11\/session_4_exercises_34_48\/gr11ex48moet.json",
     "score": "100.0%",
-    "score_pct": 100.0,
+    "score_pct": 100,
     "question_count": 20,
-    "updated_at": "2026-11-15 19:43:55"
+    "updated_at": "2026-11-26 23:18:57"
   },
   "answers": [
     {
@@ -23,17 +23,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.some farmers ______ farm animals such as cows, goats and sheep.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. Some farmers ______ farm animals such as cows, goats and sheep.",
       "options": [
-        "C. raise"
+        "C. raise",
+        "raise"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-7",
       "questionNumber": 8,
       "question": "Choose A, B, C or D that best completes each sentence.Some farmers ______ farm animals such as cows, goats and sheep.",
-      "answer": "C. raise",
+      "answer": "raise",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.some farmers ______ farm animals such as cows, goats and sheep.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -43,17 +44,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.coal, oil and natural gas are commonly described as fossil ______.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. Coal, oil and natural gas are commonly described as fossil ______.",
       "options": [
-        "C. fuels"
+        "C. fuels",
+        "fuels"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-2",
       "questionNumber": 6,
       "question": "Choose A, B, C or D that best completes each sentence.Coal, oil and natural gas are commonly described as fossil ______.",
-      "answer": "C. fuels",
+      "answer": "fuels",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.coal, oil and natural gas are commonly described as fossil ______.",
-      "letter": "C",
+      "letter": "D",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -63,14 +65,15 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.to clear farmland, people may ______ standing trees by cutting through their trunks.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. To clear farmland, people may ______ standing trees by cutting through their trunks.",
       "options": [
-        "C. cut down"
+        "C. cut down",
+        "cut down"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-8",
       "questionNumber": 4,
       "question": "Choose A, B, C or D that best completes each sentence.To clear farmland, people may ______ standing trees by cutting through their trunks.",
-      "answer": "C. cut down",
+      "answer": "cut down",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.to clear farmland, people may ______ standing trees by cutting through their trunks.",
       "letter": "C",
@@ -83,17 +86,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.smoke from indoor solid-fuel stoves can contribute to household air ______.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. Smoke from indoor solid-fuel stoves can contribute to household air ______.",
       "options": [
-        "C. pollution"
+        "C. pollution",
+        "pollution"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-4",
       "questionNumber": 3,
       "question": "Choose A, B, C or D that best completes each sentence.Smoke from indoor solid-fuel stoves can contribute to household air ______.",
-      "answer": "C. pollution",
+      "answer": "pollution",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.smoke from indoor solid-fuel stoves can contribute to household air ______.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -103,17 +107,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.the clil discussion examined the environmental ______ of farming.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. The CLIL discussion examined the environmental ______ of farming.",
       "options": [
-        "D. impact"
+        "D. impact",
+        "impact"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-3",
       "questionNumber": 1,
       "question": "Choose A, B, C or D that best completes each sentence.The CLIL discussion examined the environmental ______ of farming.",
-      "answer": "D. impact",
+      "answer": "impact",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.the clil discussion examined the environmental ______ of farming.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -123,17 +128,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.carbon dioxide and methane are examples of greenhouse ______.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. Carbon dioxide and methane are examples of greenhouse ______.",
       "options": [
-        "B. gases"
+        "B. gases",
+        "gases"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-1",
       "questionNumber": 10,
       "question": "Choose A, B, C or D that best completes each sentence.Carbon dioxide and methane are examples of greenhouse ______.",
-      "answer": "B. gases",
+      "answer": "gases",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.carbon dioxide and methane are examples of greenhouse ______.",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -143,17 +149,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.without enough paper for the green fair leaflets, the group could ______ of supplies.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. Without enough paper for the Green Fair leaflets, the group could ______ of supplies.",
       "options": [
-        "D. run out"
+        "D. run out",
+        "run out"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-10",
       "questionNumber": 5,
       "question": "Choose A, B, C or D that best completes each sentence.Without enough paper for the Green Fair leaflets, the group could ______ of supplies.",
-      "answer": "D. run out",
+      "answer": "run out",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.without enough paper for the green fair leaflets, the group could ______ of supplies.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -163,14 +170,15 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.if the household burns all its stored coal, it will ______ the supply.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. If the household burns all its stored coal, it will ______ the supply.",
       "options": [
-        "D. use up"
+        "D. use up",
+        "use up"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-9",
       "questionNumber": 9,
       "question": "Choose A, B, C or D that best completes each sentence.If the household burns all its stored coal, it will ______ the supply.",
-      "answer": "D. use up",
+      "answer": "use up",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.if the household burns all its stored coal, it will ______ the supply.",
       "letter": "D",
@@ -183,17 +191,18 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.one climate action is to ______ the forests from damage.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. One climate action is to ______ the forests from damage.",
       "options": [
-        "C. protect"
+        "C. protect",
+        "protect"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-6",
       "questionNumber": 7,
       "question": "Choose A, B, C or D that best completes each sentence.One climate action is to ______ the forests from damage.",
-      "answer": "C. protect",
+      "answer": "protect",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.one climate action is to ______ the forests from damage.",
-      "letter": "C",
+      "letter": "B",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -203,14 +212,15 @@
       "questionKey": "choose a, b, c or d that best completes each sentence.the group suggested measures to reduce greenhouse gas ______.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. The group suggested measures to reduce greenhouse gas ______.",
       "options": [
-        "D. emissions"
+        "D. emissions",
+        "emissions"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-5",
       "questionNumber": 2,
       "question": "Choose A, B, C or D that best completes each sentence.The group suggested measures to reduce greenhouse gas ______.",
-      "answer": "D. emissions",
+      "answer": "emissions",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.the group suggested measures to reduce greenhouse gas ______.",
       "letter": "D",
@@ -223,17 +233,18 @@
       "questionKey": "choose a, b, c or d that gives the correct word form.the classroom conference brought together ______ representatives from different countries.",
       "questionRaw": "Choose A, B, C or D that gives the correct word form. The classroom conference brought together ______ representatives from different countries.",
       "options": [
-        "C. national"
+        "C. national",
+        "national"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-20",
       "questionNumber": 11,
       "question": "Choose A, B, C or D that gives the correct word form.The classroom conference brought together ______ representatives from different countries.",
-      "answer": "C. national",
+      "answer": "national",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.the classroom conference brought together ______ representatives from different countries.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -243,14 +254,15 @@
       "questionKey": "choose a, b, c or d that gives the correct word form.the proposed changes could contribute to a ______ in emissions.",
       "questionRaw": "Choose A, B, C or D that gives the correct word form. The proposed changes could contribute to a ______ in emissions.",
       "options": [
-        "A. reduction"
+        "A. reduction",
+        "reduction"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-13",
       "questionNumber": 19,
       "question": "Choose A, B, C or D that gives the correct word form.The proposed changes could contribute to a ______ in emissions.",
-      "answer": "A. reduction",
+      "answer": "reduction",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.the proposed changes could contribute to a ______ in emissions.",
       "letter": "A",
@@ -292,7 +304,7 @@
       "answer": "emissions",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.the recorded greenhouse gas ______ were compared in the classroom report.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "The correct answer is: emissions",
       "verified_100": true
     },
@@ -320,17 +332,18 @@
       "questionKey": "choose a, b, c or d that gives the correct word form.the group discussed the ______ of forests from further damage.",
       "questionRaw": "Choose A, B, C or D that gives the correct word form. The group discussed the ______ of forests from further damage.",
       "options": [
-        "A. protection"
+        "A. protection",
+        "protection"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-16",
       "questionNumber": 17,
       "question": "Choose A, B, C or D that gives the correct word form.The group discussed the ______ of forests from further damage.",
-      "answer": "A. protection",
+      "answer": "protection",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.the group discussed the ______ of forests from further damage.",
-      "letter": "A",
+      "letter": "B",
       "rightAnswer": "",
       "source": "silent_review",
       "verified_100": true
@@ -340,17 +353,18 @@
       "questionKey": "choose a, b, c or d that gives the correct word form.in the classroom role-play, each country selected one ______ to speak on its behalf.",
       "questionRaw": "Choose A, B, C or D that gives the correct word form. In the classroom role-play, each country selected one ______ to speak on its behalf.",
       "options": [
-        "C. representative"
+        "C. representative",
+        "representative"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-14",
       "questionNumber": 12,
       "question": "Choose A, B, C or D that gives the correct word form.In the classroom role-play, each country selected one ______ to speak on its behalf.",
-      "answer": "C. representative",
+      "answer": "representative",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.in the classroom role-play, each country selected one ______ to speak on its behalf.",
-      "letter": "C",
+      "letter": "D",
       "rightAnswer": "",
       "source": "silent_review",
       "verified_100": true
@@ -379,17 +393,18 @@
       "questionKey": "choose a, b, c or d that gives the correct word form.the diagram illustrates the ______ of methane during some farming activities.",
       "questionRaw": "Choose A, B, C or D that gives the correct word form. The diagram illustrates the ______ of methane during some farming activities.",
       "options": [
-        "B. emission"
+        "B. emission",
+        "emission"
       ],
       "inputs": [],
       "selects": [],
       "questionId": "question-1973183-18",
       "questionNumber": 20,
       "question": "Choose A, B, C or D that gives the correct word form.The diagram illustrates the ______ of methane during some farming activities.",
-      "answer": "B. emission",
+      "answer": "emission",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.the diagram illustrates the ______ of methane during some farming activities.",
-      "letter": "B",
+      "letter": "C",
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review"
@@ -409,7 +424,7 @@
       "answer": "environmentally",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that gives the correct word form.the students described open waste burning as ______ harmful.",
-      "letter": "B",
+      "letter": "A",
       "rightAnswer": "The correct answer is: environmentally",
       "verified_100": true
     }
