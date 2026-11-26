@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-26 23:18:57",
-  "total_configs": 97,
+  "updated_at": "2026-11-26 23:32:46",
+  "total_configs": 98,
   "configs": [
     {
       "account_name": "Bùi Thiên Ân",
@@ -1747,6 +1747,24 @@
       "score_pct": 100,
       "question_count": 20,
       "updated_at": "2026-11-26 23:18:57"
+    },
+    {
+      "account_name": "Student_Mobile",
+      "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 5",
+      "unit_key": "session_5",
+      "quiz_title": "GR11EX54MOET",
+      "quiz_key": "gr11ex54moet",
+      "cmid": "750071",
+      "course_id": "4775",
+      "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex54moet.json",
+      "score": "100.0%",
+      "score_pct": 100,
+      "question_count": 8,
+      "updated_at": "2026-11-26 23:32:46"
     }
   ]
 }
