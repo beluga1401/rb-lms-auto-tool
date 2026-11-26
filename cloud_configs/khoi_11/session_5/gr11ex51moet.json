@@ -1,0 +1,501 @@
+{
+  "metadata": {
+    "account_name": "Kiều Khánh Linh",
+    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR11EX51MOET",
+    "quiz_key": "gr11ex51moet",
+    "cmid": "746655",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_5/gr11ex51moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 40,
+    "updated_at": "2026-11-26 21:09:57"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. to answer this question, the group first explained that burning wood or coal can produce soot particles.b. this warming effect was then illustrated in a diagram that the group added to its classroom display.c. the teacher asked the group to explain how black carbon contributes to global warming.d. some of these particles contain black carbon, which absorbs sunlight and releases energy as heat. a. c – d – a – bb. c – a – d – bc. a – c – d – bd. c – a – b – dwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. To answer this question, the group first explained that burning wood or coal can produce soot particles.b. This warming effect was then illustrated in a diagram that the group added to its classroom display.c. The teacher asked the group to explain how black carbon contributes to global warming.d. Some of these particles contain black carbon, which absorbs sunlight and releases energy as heat. A. c – d – a – bB. c – a – d – bC. a – c – d – bD. c – a – b – dWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. To answer this question, the group first explained that burning wood or coal can produce soot particles.b. This warming effect was then illustrated in a diagram that the group added to its classroom display.c. The teacher asked the group to explain how black carbon contributes to global warming.d. Some of these particles contain black carbon, which absorbs sunlight and releases energy as heat. A. c – d – a – bB. c – a – d – bC. a – c – d – bD. c – a – b – dWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. with the message agreed, they drafted an opening section explaining how burning crop waste produces soot.b. wanting to raise awareness of black carbon, the students planned a leaflet for the school green fair.c. after the opening section was ready, they added practical suggestions for avoiding the burning of crop waste.d. finally, they checked the sections and added a clear call to action before preparing the leaflet for the fair.e. first, they agreed that the leaflet’s main message would be to stop burning crop waste. a. b – a – e – c – db. e – b – a – c – dc. b – e – c – a – dd. b – e – a – c – dwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. With the message agreed, they drafted an opening section explaining how burning crop waste produces soot.b. Wanting to raise awareness of black carbon, the students planned a leaflet for the school Green Fair.c. After the opening section was ready, they added practical suggestions for avoiding the burning of crop waste.d. Finally, they checked the sections and added a clear call to action before preparing the leaflet for the fair.e. First, they agreed that the leaflet’s main message would be to stop burning crop waste. A. b – a – e – c – dB. e – b – a – c – dC. b – e – c – a – dD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. With the message agreed, they drafted an opening section explaining how burning crop waste produces soot.b. Wanting to raise awareness of black carbon, the students planned a leaflet for the school Green Fair.c. After the opening section was ready, they added practical suggestions for avoiding the burning of crop waste.d. Finally, they checked the sections and added a clear call to action before preparing the leaflet for the fair.e. First, they agreed that the leaflet’s main message would be to stop burning crop waste. A. b – a – e – c – dB. e – b – a – c – dC. b – e – c – a – dD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "3",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. reflecting on the reduction in short car journeys she had recorded after those two weeks, she recognised that walking could help reduce her carbon footprint, although she had not calculated an exact reduction.b. in response to this finding, she began walking to those shops instead of driving.c. this review showed that she often drove to shops within easy walking distance of her home.d. after trying the new habit for two weeks, she noted that she was making fewer short car journeys.e. linh wanted to reduce her carbon footprint, so she started by reviewing her daily travel. a. e – b – c – d – ab. e – c – b – d – ac. c – e – b – d – ad. e – c – b – a – dwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. Reflecting on the reduction in short car journeys she had recorded after those two weeks, she recognised that walking could help reduce her carbon footprint, although she had not calculated an exact reduction.b. In response to this finding, she began walking to those shops instead of driving.c. This review showed that she often drove to shops within easy walking distance of her home.d. After trying the new habit for two weeks, she noted that she was making fewer short car journeys.e. Linh wanted to reduce her carbon footprint, so she started by reviewing her daily travel. A. e – b – c – d – aB. e – c – b – d – aC. c – e – b – d – aD. e – c – b – a – dWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "3",
+      "questionNumber": 3,
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. Reflecting on the reduction in short car journeys she had recorded after those two weeks, she recognised that walking could help reduce her carbon footprint, although she had not calculated an exact reduction.b. In response to this finding, she began walking to those shops instead of driving.c. This review showed that she often drove to shops within easy walking distance of her home.d. After trying the new habit for two weeks, she noted that she was making fewer short car journeys.e. Linh wanted to reduce her carbon footprint, so she started by reviewing her daily travel. A. e – b – c – d – aB. e – c – b – d – aC. c – e – b – d – aD. e – c – b – a – dWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "4",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. when summarising this change, the group wrote that two interviewees reported replacing short car journeys with walking.b. for a practice report, the teacher provided the group with illustrative survey notes.c. this wording kept the finding limited to the two interviewees and avoided claiming a precisely measured reduction in greenhouse gas emissions.d. these notes described two interviewees who used to drive to nearby shops but now walked there. a. b – a – d – cb. d – b – a – cc. b – d – a – cd. b – d – c – awrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. When summarising this change, the group wrote that two interviewees reported replacing short car journeys with walking.b. For a practice report, the teacher provided the group with illustrative survey notes.c. This wording kept the finding limited to the two interviewees and avoided claiming a precisely measured reduction in greenhouse gas emissions.d. These notes described two interviewees who used to drive to nearby shops but now walked there. A. b – a – d – cB. d – b – a – cC. b – d – a – cD. b – d – c – aWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "4",
+      "questionNumber": 4,
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. When summarising this change, the group wrote that two interviewees reported replacing short car journeys with walking.b. For a practice report, the teacher provided the group with illustrative survey notes.c. This wording kept the finding limited to the two interviewees and avoided claiming a precisely measured reduction in greenhouse gas emissions.d. These notes described two interviewees who used to drive to nearby shops but now walked there. A. b – a – d – cB. d – b – a – cC. b – d – a – cD. b – d – c – aWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "5",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. after making the suggested changes, the group used the revised questions to interview classmates.b. using these areas as a guide, they wrote four survey questions.c. with the interviews complete, they organised the responses in a summary table.d. before conducting their survey, the group agreed to cover previous activities, environmental impact, current actions and reported results.e. once the questions were ready, the teacher reviewed them and suggested a few changes. a. d – b – e – a – cb. d – e – b – a – cc. d – b – a – e – cd. b – d – e – a – cwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. After making the suggested changes, the group used the revised questions to interview classmates.b. Using these areas as a guide, they wrote four survey questions.c. With the interviews complete, they organised the responses in a summary table.d. Before conducting their survey, the group agreed to cover previous activities, environmental impact, current actions and reported results.e. Once the questions were ready, the teacher reviewed them and suggested a few changes. A. d – b – e – a – cB. d – e – b – a – cC. d – b – a – e – cD. b – d – e – a – cWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "5",
+      "questionNumber": 5,
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. After making the suggested changes, the group used the revised questions to interview classmates.b. Using these areas as a guide, they wrote four survey questions.c. With the interviews complete, they organised the responses in a summary table.d. Before conducting their survey, the group agreed to cover previous activities, environmental impact, current actions and reported results.e. Once the questions were ready, the teacher reviewed them and suggested a few changes. A. d – b – e – a – cB. d – e – b – a – cC. d – b – a – e – cD. b – d – e – a – cWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "6",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. lan: add a warning about the pollution and suggest using cleaner energy.b. lan: i must warn you that burning solid fuels indoors can cause household air pollution.c. minh: agreed. i’ll include both the warning and the cleaner-energy suggestion.d. minh: oh, really? i didn’t know that. thanks. how should our leaflet address this risk? a. b – a – d – cb. b – d – a – cc. d – b – a – cd. b – d – c – awrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Lan: Add a warning about the pollution and suggest using cleaner energy.b. Lan: I must warn you that burning solid fuels indoors can cause household air pollution.c. Minh: Agreed. I’ll include both the warning and the cleaner-energy suggestion.d. Minh: Oh, really? I didn’t know that. Thanks. How should our leaflet address this risk? A. b – a – d – cB. b – d – a – cC. d – b – a – cD. b – d – c – aWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "selects": [],
+      "questionId": "6",
+      "questionNumber": 6,
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Lan: Add a warning about the pollution and suggest using cleaner energy.b. Lan: I must warn you that burning solid fuels indoors can cause household air pollution.c. Minh: Agreed. I’ll include both the warning and the cleaner-energy suggestion.d. Minh: Oh, really? I didn’t know that. Thanks. How should our leaflet address this risk? A. b – a – d – cB. b – d – a – cC. d – b – a – cD. b – d – c – aWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "7",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. student: i’ve replaced the general claim with that statement. can we still call it a measured reduction in greenhouse gas emissions?b. student: thanks for pointing that out. our slide says that everyone in the community uses less coal now. should we change it?c. teacher: no. it reports a change in coal use, rather than a measured change in greenhouse gas emissions.d. teacher: before you present, i must warn you: two interviewees’ answers do not represent the whole community.e. teacher: yes. say that two interviewees reported using less coal. a. d – b – e – a – cb. d – e – b – a – cc. b – d – e – a – cd. d – b – a – e – cwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Student: I’ve replaced the general claim with that statement. Can we still call it a measured reduction in greenhouse gas emissions?b. Student: Thanks for pointing that out. Our slide says that everyone in the community uses less coal now. Should we change it?c. Teacher: No. It reports a change in coal use, rather than a measured change in greenhouse gas emissions.d. Teacher: Before you present, I must warn you: two interviewees’ answers do not represent the whole community.e. Teacher: Yes. Say that two interviewees reported using less coal. A. d – b – e – a – cB. d – e – b – a – cC. b – d – e – a – cD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "7",
+      "questionNumber": 7,
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Student: I’ve replaced the general claim with that statement. Can we still call it a measured reduction in greenhouse gas emissions?b. Student: Thanks for pointing that out. Our slide says that everyone in the community uses less coal now. Should we change it?c. Teacher: No. It reports a change in coal use, rather than a measured change in greenhouse gas emissions.d. Teacher: Before you present, I must warn you: two interviewees’ answers do not represent the whole community.e. Teacher: Yes. Say that two interviewees reported using less coal. A. d – b – e – a – cB. d – e – b – a – cC. b – d – e – a – cD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "8",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. mai: watch out for the broken glass next to that pile of solid waste.b. mai: let’s tell the teacher and ask for someone trained to handle it safely.c. nam: thanks for warning me. i’ll keep back. what should we do now?d. nam: okay. i’ll tell the teacher and ask for help. a. a – b – c – db. c – a – b – dc. a – c – b – dd. a – c – d – bwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Mai: Watch out for the broken glass next to that pile of solid waste.b. Mai: Let’s tell the teacher and ask for someone trained to handle it safely.c. Nam: Thanks for warning me. I’ll keep back. What should we do now?d. Nam: Okay. I’ll tell the teacher and ask for help. A. a – b – c – dB. c – a – b – dC. a – c – b – dD. a – c – d – bWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "selects": [],
+      "questionId": "8",
+      "questionNumber": 8,
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Mai: Watch out for the broken glass next to that pile of solid waste.b. Mai: Let’s tell the teacher and ask for someone trained to handle it safely.c. Nam: Thanks for warning me. I’ll keep back. What should we do now?d. Nam: Okay. I’ll tell the teacher and ask for help. A. a – b – c – dB. c – a – b – dC. a – c – b – dD. a – c – d – bWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "9",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. mai: thanks for warning me. i’ll move away from the smoke now.b. mai: yes, let’s tell her together.c. nam: watch out! you’re standing too close to the smoke from that burning crop waste.d. nam: now that you’ve moved away from the smoke, let’s tell the teacher about the burning. a. c – d – a – bb. a – c – d – bc. c – a – b – dd. c – a – d – bwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Mai: Thanks for warning me. I’ll move away from the smoke now.b. Mai: Yes, let’s tell her together.c. Nam: Watch out! You’re standing too close to the smoke from that burning crop waste.d. Nam: Now that you’ve moved away from the smoke, let’s tell the teacher about the burning. A. c – d – a – bB. a – c – d – bC. c – a – b – dD. c – a – d – bWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "9",
+      "questionNumber": 9,
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Mai: Thanks for warning me. I’ll move away from the smoke now.b. Mai: Yes, let’s tell her together.c. Nam: Watch out! You’re standing too close to the smoke from that burning crop waste.d. Nam: Now that you’ve moved away from the smoke, let’s tell the teacher about the burning. A. c – d – a – bB. a – c – d – bC. c – a – b – dD. c – a – d – bWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "10",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. minh: thanks for warning me. i’ll leave it alone. how can we find out when it’s safe to move?b. minh: all right. i’ll ask the teacher to check it first. where should we stand while we’re waiting?c. lan: ask the teacher to check that it has cooled down before anyone moves it.d. lan: stay back from the container until the teacher tells us it’s safe.e. lan: i wouldn’t touch that metal container if i were you. it may still be hot after the demonstration. a. e – c – a – b – db. a – e – c – b – dc. e – a – b – c – dd. e – a – c – b – dwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Minh: Thanks for warning me. I’ll leave it alone. How can we find out when it’s safe to move?b. Minh: All right. I’ll ask the teacher to check it first. Where should we stand while we’re waiting?c. Lan: Ask the teacher to check that it has cooled down before anyone moves it.d. Lan: Stay back from the container until the teacher tells us it’s safe.e. Lan: I wouldn’t touch that metal container if I were you. It may still be hot after the demonstration. A. e – c – a – b – dB. a – e – c – b – dC. e – a – b – c – dD. e – a – c – b – dWrite A, B, C or D: {#1}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "selects": [],
+      "questionId": "10",
+      "questionNumber": 10,
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Minh: Thanks for warning me. I’ll leave it alone. How can we find out when it’s safe to move?b. Minh: All right. I’ll ask the teacher to check it first. Where should we stand while we’re waiting?c. Lan: Ask the teacher to check that it has cooled down before anyone moves it.d. Lan: Stay back from the container until the teacher tells us it’s safe.e. Lan: I wouldn’t touch that metal container if I were you. It may still be hot after the demonstration. A. e – c – a – b – dB. a – e – c – b – dC. e – a – b – c – dD. e – a – c – b – dWrite A, B, C or D: {#1}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "11",
+      "questionKey": "choose a, b, c or d for each blank. 1. a. environment b. environmentally c. environmental d. environmentalistwrite a, b, c or d: 2. a. knowing b. known c. knows d. knowwrite a, b, c or d: 3. a. up b. on c. into d. offwrite a, b, c or d: 4.a. these questionsb. these recommendationsc. these measurementsd. these responseswrite a, b, c or d: 5. a. provided b. providing c. provide d. provideswrite a, b, c or d: 6. a. similarly b. therefore c. however d. for examplewrite a, b, c or d: 7. a. soot b. fuel c. balance d. footprintwrite a, b, c or d: 8. a. fossil b. renewable c. nuclear d. non-renewablewrite a, b, c or d: 9. a. to b. of c. for d. fromwrite a, b, c or d: 10. a. reduce b. raise c. trap d. meltwrite a, b, c or d:",
+      "questionRaw": "Choose A, B, C or D for each blank. 1. A. environment B. environmentally C. environmental D. environmentalistWrite A, B, C or D: {#1} 2. A. Knowing B. Known C. Knows D. KnowWrite A, B, C or D: {#2} 3. A. up B. on C. into D. offWrite A, B, C or D: {#3} 4.A. These questionsB. These recommendationsC. These measurementsD. These responsesWrite A, B, C or D: {#4} 5. A. Provided B. Providing C. Provide D. ProvidesWrite A, B, C or D: {#5} 6. A. Similarly B. Therefore C. However D. For exampleWrite A, B, C or D: {#6} 7. A. soot B. fuel C. balance D. footprintWrite A, B, C or D: {#7} 8. A. fossil B. renewable C. nuclear D. non-renewableWrite A, B, C or D: {#8} 9. A. to B. of C. for D. fromWrite A, B, C or D: {#9} 10. A. reduce B. raise C. trap D. meltWrite A, B, C or D: {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "b"
+        },
+        {
+          "index": 3,
+          "value": "d"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        },
+        {
+          "index": 5,
+          "value": "c"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "b"
+        },
+        {
+          "index": 8,
+          "value": "c"
+        },
+        {
+          "index": 9,
+          "value": "a"
+        }
+      ],
+      "selects": [],
+      "questionId": "11",
+      "questionNumber": 11,
+      "question": "Choose A, B, C or D for each blank. 1. A. environment B. environmentally C. environmental D. environmentalistWrite A, B, C or D: {#1} 2. A. Knowing B. Known C. Knows D. KnowWrite A, B, C or D: {#2} 3. A. up B. on C. into D. offWrite A, B, C or D: {#3} 4.A. These questionsB. These recommendationsC. These measurementsD. These responsesWrite A, B, C or D: {#4} 5. A. Provided B. Providing C. Provide D. ProvidesWrite A, B, C or D: {#5} 6. A. Similarly B. Therefore C. However D. For exampleWrite A, B, C or D: {#6} 7. A. soot B. fuel C. balance D. footprintWrite A, B, C or D: {#7} 8. A. fossil B. renewable C. nuclear D. non-renewableWrite A, B, C or D: {#8} 9. A. to B. of C. for D. fromWrite A, B, C or D: {#9} 10. A. reduce B. raise C. trap D. meltWrite A, B, C or D: {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "c",
+      "id": "question-1996912-4",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. when summarising this change, the group wrote that two interviewees reported replacing short car journeys with walking.b. for a practice report, the teacher provided the group with illustrative survey notes.c. this wording kept the finding limited to the two interviewees and avoided claiming a precisely measured reduction in greenhouse gas emissions.d. these notes described two interviewees who used to drive to nearby shops but now walked there. a. b – a – d – cb. d – b – a – cc. b – d – a – cd. b – d – c – awrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. When summarising this change, the group wrote that two interviewees reported replacing short car journeys with walking.b. For a practice report, the teacher provided the group with illustrative survey notes.c. This wording kept the finding limited to the two interviewees and avoided claiming a precisely measured reduction in greenhouse gas emissions.d. These notes described two interviewees who used to drive to nearby shops but now walked there. A. b – a – d – cB. d – b – a – cC. b – d – a – cD. b – d – c – aWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-4",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. when summarising this change, the group wrote that two interviewees reported replacing short car journeys with walking.b. for a practice report, the teacher provided the group with illustrative survey notes.c. this wording kept the finding limited to the two interviewees and avoided claiming a precisely measured reduction in greenhouse gas emissions.d. these notes described two interviewees who used to drive to nearby shops but now walked there. a. b – a – d – cb. d – b – a – cc. b – d – a – cd. b – d – c – awrite a, b, c or d: {#1}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1996912-5",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. reflecting on the reduction in short car journeys she had recorded after those two weeks, she recognised that walking could help reduce her carbon footprint, although she had not calculated an exact reduction.b. in response to this finding, she began walking to those shops instead of driving.c. this review showed that she often drove to shops within easy walking distance of her home.d. after trying the new habit for two weeks, she noted that she was making fewer short car journeys.e. linh wanted to reduce her carbon footprint, so she started by reviewing her daily travel. a. e – b – c – d – ab. e – c – b – d – ac. c – e – b – d – ad. e – c – b – a – dwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. Reflecting on the reduction in short car journeys she had recorded after those two weeks, she recognised that walking could help reduce her carbon footprint, although she had not calculated an exact reduction.b. In response to this finding, she began walking to those shops instead of driving.c. This review showed that she often drove to shops within easy walking distance of her home.d. After trying the new habit for two weeks, she noted that she was making fewer short car journeys.e. Linh wanted to reduce her carbon footprint, so she started by reviewing her daily travel. A. e – b – c – d – aB. e – c – b – d – aC. c – e – b – d – aD. e – c – b – a – dWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-5",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. reflecting on the reduction in short car journeys she had recorded after those two weeks, she recognised that walking could help reduce her carbon footprint, although she had not calculated an exact reduction.b. in response to this finding, she began walking to those shops instead of driving.c. this review showed that she often drove to shops within easy walking distance of her home.d. after trying the new habit for two weeks, she noted that she was making fewer short car journeys.e. linh wanted to reduce her carbon footprint, so she started by reviewing her daily travel. a. e – b – c – d – ab. e – c – b – d – ac. c – e – b – d – ad. e – c – b – a – dwrite a, b, c or d: {#1}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1996912-1",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. to answer this question, the group first explained that burning wood or coal can produce soot particles.b. this warming effect was then illustrated in a diagram that the group added to its classroom display.c. the teacher asked the group to explain how black carbon contributes to global warming.d. some of these particles contain black carbon, which absorbs sunlight and releases energy as heat. a. c – d – a – bb. c – a – d – bc. a – c – d – bd. c – a – b – dwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. To answer this question, the group first explained that burning wood or coal can produce soot particles.b. This warming effect was then illustrated in a diagram that the group added to its classroom display.c. The teacher asked the group to explain how black carbon contributes to global warming.d. Some of these particles contain black carbon, which absorbs sunlight and releases energy as heat. A. c – d – a – bB. c – a – d – bC. a – c – d – bD. c – a – b – dWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-1",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. to answer this question, the group first explained that burning wood or coal can produce soot particles.b. this warming effect was then illustrated in a diagram that the group added to its classroom display.c. the teacher asked the group to explain how black carbon contributes to global warming.d. some of these particles contain black carbon, which absorbs sunlight and releases energy as heat. a. c – d – a – bb. c – a – d – bc. a – c – d – bd. c – a – b – dwrite a, b, c or d: {#1}",
+      "questionNumber": 3,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1996912-2",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. with the message agreed, they drafted an opening section explaining how burning crop waste produces soot.b. wanting to raise awareness of black carbon, the students planned a leaflet for the school green fair.c. after the opening section was ready, they added practical suggestions for avoiding the burning of crop waste.d. finally, they checked the sections and added a clear call to action before preparing the leaflet for the fair.e. first, they agreed that the leaflet's main message would be to stop burning crop waste. a. b – a – e – c – db. e – b – a – c – dc. b – e – c – a – dd. b – e – a – c – dwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. With the message agreed, they drafted an opening section explaining how burning crop waste produces soot.b. Wanting to raise awareness of black carbon, the students planned a leaflet for the school Green Fair.c. After the opening section was ready, they added practical suggestions for avoiding the burning of crop waste.d. Finally, they checked the sections and added a clear call to action before preparing the leaflet for the fair.e. First, they agreed that the leaflet's main message would be to stop burning crop waste. A. b – a – e – c – dB. e – b – a – c – dC. b – e – c – a – dD. b – e – a – c – dWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-2",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. with the message agreed, they drafted an opening section explaining how burning crop waste produces soot.b. wanting to raise awareness of black carbon, the students planned a leaflet for the school green fair.c. after the opening section was ready, they added practical suggestions for avoiding the burning of crop waste.d. finally, they checked the sections and added a clear call to action before preparing the leaflet for the fair.e. first, they agreed that the leaflet's main message would be to stop burning crop waste. a. b – a – e – c – db. e – b – a – c – dc. b – e – c – a – dd. b – e – a – c – dwrite a, b, c or d: {#1}",
+      "questionNumber": 4,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1996912-3",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. after making the suggested changes, the group used the revised questions to interview classmates.b. using these areas as a guide, they wrote four survey questions.c. with the interviews complete, they organised the responses in a summary table.d. before conducting their survey, the group agreed to cover previous activities, environmental impact, current actions and reported results.e. once the questions were ready, the teacher reviewed them and suggested a few changes. a. d – b – e – a – cb. d – e – b – a – cc. d – b – a – e – cd. b – d – e – a – cwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the sentences into a coherent paragraph. Questiona. After making the suggested changes, the group used the revised questions to interview classmates.b. Using these areas as a guide, they wrote four survey questions.c. With the interviews complete, they organised the responses in a summary table.d. Before conducting their survey, the group agreed to cover previous activities, environmental impact, current actions and reported results.e. Once the questions were ready, the teacher reviewed them and suggested a few changes. A. d – b – e – a – cB. d – e – b – a – cC. d – b – a – e – cD. b – d – e – a – cWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-3",
+      "questionKey": "choose a, b, c or d that arranges the sentences into a coherent paragraph. questiona. after making the suggested changes, the group used the revised questions to interview classmates.b. using these areas as a guide, they wrote four survey questions.c. with the interviews complete, they organised the responses in a summary table.d. before conducting their survey, the group agreed to cover previous activities, environmental impact, current actions and reported results.e. once the questions were ready, the teacher reviewed them and suggested a few changes. a. d – b – e – a – cb. d – e – b – a – cc. d – b – a – e – cd. b – d – e – a – cwrite a, b, c or d: {#1}",
+      "questionNumber": 5,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1996912-6",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. mai: thanks for warning me. i'll move away from the smoke now.b. mai: yes, let's tell her together.c. nam: watch out! you're standing too close to the smoke from that burning crop waste.d. nam: now that you've moved away from the smoke, let's tell the teacher about the burning. a. c – d – a – bb. a – c – d – bc. c – a – b – dd. c – a – d – bwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Mai: Thanks for warning me. I'll move away from the smoke now.b. Mai: Yes, let's tell her together.c. Nam: Watch out! You're standing too close to the smoke from that burning crop waste.d. Nam: Now that you've moved away from the smoke, let's tell the teacher about the burning. A. c – d – a – bB. a – c – d – bC. c – a – b – dD. c – a – d – bWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-6",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. mai: thanks for warning me. i'll move away from the smoke now.b. mai: yes, let's tell her together.c. nam: watch out! you're standing too close to the smoke from that burning crop waste.d. nam: now that you've moved away from the smoke, let's tell the teacher about the burning. a. c – d – a – bb. a – c – d – bc. c – a – b – dd. c – a – d – bwrite a, b, c or d: {#1}",
+      "questionNumber": 6,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "d",
+      "id": "question-1996912-10",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "d"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. minh: thanks for warning me. i'll leave it alone. how can we find out when it's safe to move?b. minh: all right. i'll ask the teacher to check it first. where should we stand while we're waiting?c. lan: ask the teacher to check that it has cooled down before anyone moves it.d. lan: stay back from the container until the teacher tells us it's safe.e. lan: i wouldn't touch that metal container if i were you. it may still be hot after the demonstration. a. e – c – a – b – db. a – e – c – b – dc. e – a – b – c – dd. e – a – c – b – dwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Minh: Thanks for warning me. I'll leave it alone. How can we find out when it's safe to move?b. Minh: All right. I'll ask the teacher to check it first. Where should we stand while we're waiting?c. Lan: Ask the teacher to check that it has cooled down before anyone moves it.d. Lan: Stay back from the container until the teacher tells us it's safe.e. Lan: I wouldn't touch that metal container if I were you. It may still be hot after the demonstration. A. e – c – a – b – dB. a – e – c – b – dC. e – a – b – c – dD. e – a – c – b – dWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-10",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. minh: thanks for warning me. i'll leave it alone. how can we find out when it's safe to move?b. minh: all right. i'll ask the teacher to check it first. where should we stand while we're waiting?c. lan: ask the teacher to check that it has cooled down before anyone moves it.d. lan: stay back from the container until the teacher tells us it's safe.e. lan: i wouldn't touch that metal container if i were you. it may still be hot after the demonstration. a. e – c – a – b – db. a – e – c – b – dc. e – a – b – c – dd. e – a – c – b – dwrite a, b, c or d: {#1}",
+      "questionNumber": 7,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "a",
+      "id": "question-1996912-8",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. student: i've replaced the general claim with that statement. can we still call it a measured reduction in greenhouse gas emissions?b. student: thanks for pointing that out. our slide says that everyone in the community uses less coal now. should we change it?c. teacher: no. it reports a change in coal use, rather than a measured change in greenhouse gas emissions.d. teacher: before you present, i must warn you: two interviewees' answers do not represent the whole community.e. teacher: yes. say that two interviewees reported using less coal. a. d – b – e – a – cb. d – e – b – a – cc. b – d – e – a – cd. d – b – a – e – cwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Student: I've replaced the general claim with that statement. Can we still call it a measured reduction in greenhouse gas emissions?b. Student: Thanks for pointing that out. Our slide says that everyone in the community uses less coal now. Should we change it?c. Teacher: No. It reports a change in coal use, rather than a measured change in greenhouse gas emissions.d. Teacher: Before you present, I must warn you: two interviewees' answers do not represent the whole community.e. Teacher: Yes. Say that two interviewees reported using less coal. A. d – b – e – a – cB. d – e – b – a – cC. b – d – e – a – cD. d – b – a – e – cWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-8",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. student: i've replaced the general claim with that statement. can we still call it a measured reduction in greenhouse gas emissions?b. student: thanks for pointing that out. our slide says that everyone in the community uses less coal now. should we change it?c. teacher: no. it reports a change in coal use, rather than a measured change in greenhouse gas emissions.d. teacher: before you present, i must warn you: two interviewees' answers do not represent the whole community.e. teacher: yes. say that two interviewees reported using less coal. a. d – b – e – a – cb. d – e – b – a – cc. b – d – e – a – cd. d – b – a – e – cwrite a, b, c or d: {#1}",
+      "questionNumber": 8,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "b",
+      "id": "question-1996912-7",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "b"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. lan: add a warning about the pollution and suggest using cleaner energy.b. lan: i must warn you that burning solid fuels indoors can cause household air pollution.c. minh: agreed. i'll include both the warning and the cleaner-energy suggestion.d. minh: oh, really? i didn't know that. thanks. how should our leaflet address this risk? a. b – a – d – cb. b – d – a – cc. d – b – a – cd. b – d – c – awrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Lan: Add a warning about the pollution and suggest using cleaner energy.b. Lan: I must warn you that burning solid fuels indoors can cause household air pollution.c. Minh: Agreed. I'll include both the warning and the cleaner-energy suggestion.d. Minh: Oh, really? I didn't know that. Thanks. How should our leaflet address this risk? A. b – a – d – cB. b – d – a – cC. d – b – a – cD. b – d – c – aWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-7",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. lan: add a warning about the pollution and suggest using cleaner energy.b. lan: i must warn you that burning solid fuels indoors can cause household air pollution.c. minh: agreed. i'll include both the warning and the cleaner-energy suggestion.d. minh: oh, really? i didn't know that. thanks. how should our leaflet address this risk? a. b – a – d – cb. b – d – a – cc. d – b – a – cd. b – d – c – awrite a, b, c or d: {#1}",
+      "questionNumber": 9,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1996912-9",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. mai: watch out for the broken glass next to that pile of solid waste.b. mai: let's tell the teacher and ask for someone trained to handle it safely.c. nam: thanks for warning me. i'll keep back. what should we do now?d. nam: okay. i'll tell the teacher and ask for help. a. a – b – c – db. c – a – b – dc. a – c – b – dd. a – c – d – bwrite a, b, c or d: {#1}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D that arranges the utterances into a coherent exchange. Questiona. Mai: Watch out for the broken glass next to that pile of solid waste.b. Mai: Let's tell the teacher and ask for someone trained to handle it safely.c. Nam: Thanks for warning me. I'll keep back. What should we do now?d. Nam: Okay. I'll tell the teacher and ask for help. A. a – b – c – dB. c – a – b – dC. a – c – b – dD. a – c – d – bWrite A, B, C or D: {#1}",
+      "questionId": "question-1996912-9",
+      "questionKey": "choose a, b, c or d that arranges the utterances into a coherent exchange. questiona. mai: watch out for the broken glass next to that pile of solid waste.b. mai: let's tell the teacher and ask for someone trained to handle it safely.c. nam: thanks for warning me. i'll keep back. what should we do now?d. nam: okay. i'll tell the teacher and ask for help. a. a – b – c – db. c – a – b – dc. a – c – b – dd. a – c – d – bwrite a, b, c or d: {#1}",
+      "questionNumber": 10,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "c",
+      "id": "question-1996912-11",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "b"
+        },
+        {
+          "index": 3,
+          "value": "d"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        },
+        {
+          "index": 5,
+          "value": "c"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "b"
+        },
+        {
+          "index": 8,
+          "value": "c"
+        },
+        {
+          "index": 9,
+          "value": "a"
+        }
+      ],
+      "legacyQKey": "choose a, b, c or d for each blank. 1. a. environment b. environmentally c. environmental d. environmentalistwrite a, b, c or d: {#1} 2. a. knowing b. known c. knows d. knowwrite a, b, c or d: {#2} 3. a. up b. on c. into d. offwrite a, b, c or d: {#3} 4.a. these questionsb. these recommendationsc. these measurementsd. these responseswrite a, b, c or d: {#4} 5. a. provided b. providing c. provide d. provideswrite a, b, c or d: {#5} 6. a. similarly b. therefore c. however d. for examplewrite a, b, c or d: {#6} 7. a. soot b. fuel c. balance d. footprintwrite a, b, c or d: {#7} 8. a. fossil b. renewable c. nuclear d. non-renewablewrite a, b, c or d: {#8} 9. a. to b. of c. for d. fromwrite a, b, c or d: {#9} 10. a. reduce b. raise c. trap d. meltwrite a, b, c or d: {#10}",
+      "letter": "",
+      "options": [],
+      "question": "Choose A, B, C or D for each blank. 1. A. environment B. environmentally C. environmental D. environmentalistWrite A, B, C or D: {#1} 2. A. Knowing B. Known C. Knows D. KnowWrite A, B, C or D: {#2} 3. A. up B. on C. into D. offWrite A, B, C or D: {#3} 4.A. These questionsB. These recommendationsC. These measurementsD. These responsesWrite A, B, C or D: {#4} 5. A. Provided B. Providing C. Provide D. ProvidesWrite A, B, C or D: {#5} 6. A. Similarly B. Therefore C. However D. For exampleWrite A, B, C or D: {#6} 7. A. soot B. fuel C. balance D. footprintWrite A, B, C or D: {#7} 8. A. fossil B. renewable C. nuclear D. non-renewableWrite A, B, C or D: {#8} 9. A. to B. of C. for D. fromWrite A, B, C or D: {#9} 10. A. reduce B. raise C. trap D. meltWrite A, B, C or D: {#10}",
+      "questionId": "question-1996912-11",
+      "questionKey": "choose a, b, c or d for each blank. 1. a. environment b. environmentally c. environmental d. environmentalistwrite a, b, c or d: {#1} 2. a. knowing b. known c. knows d. knowwrite a, b, c or d: {#2} 3. a. up b. on c. into d. offwrite a, b, c or d: {#3} 4.a. these questionsb. these recommendationsc. these measurementsd. these responseswrite a, b, c or d: {#4} 5. a. provided b. providing c. provide d. provideswrite a, b, c or d: {#5} 6. a. similarly b. therefore c. however d. for examplewrite a, b, c or d: {#6} 7. a. soot b. fuel c. balance d. footprintwrite a, b, c or d: {#7} 8. a. fossil b. renewable c. nuclear d. non-renewablewrite a, b, c or d: {#8} 9. a. to b. of c. for d. fromwrite a, b, c or d: {#9} 10. a. reduce b. raise c. trap d. meltwrite a, b, c or d: {#10}",
+      "questionNumber": 11,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
