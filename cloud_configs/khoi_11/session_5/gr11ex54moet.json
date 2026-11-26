@@ -12,10 +12,10 @@
     "cmid": "750071",
     "course_id": "4775",
     "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex54moet.json",
-    "score": "100.0%",
+    "score": "13.64 trên 100.00",
     "score_pct": 100,
-    "question_count": 8,
-    "updated_at": "2026-11-26 23:32:46"
+    "question_count": 10,
+    "updated_at": "2026-11-26 23:34:05"
   },
   "answers": [
     {
@@ -225,9 +225,7 @@
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review",
-      "options": [
-        ""
-      ],
+      "options": [],
       "is_checkbox": false,
       "inputs": [
         {
@@ -287,6 +285,48 @@
         }
       ],
       "selects": []
+    },
+    {
+      "id": "question-1997118-1",
+      "questionId": "question-1997118-1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. LOWER-EMISSION RICE FARMING Flooded rice fields can make it easier for soil bacteria to produce (1) [Blank 1] gases. (2) [Blank 2] water levels more carefully, farmers can reduce the periods when fields remain flooded. (3) [Blank 3] in carefully managed drier fields, rice can still grow well while the fields may produce fewer greenhouse gases. This method can also require (4) [Blank 4] water than keeping fields permanently flooded. (5) [Blank 5] , new farming methods may lower the climate impact while still supporting crop production. The aim is to find an (6) [Blank 6] that reduces the warming impact without preventing farmers from growing successful crops.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.fossilB.renewableC.greenhouseD.warmingÔ (2):A.ManagedB.ManageC.To manageD.ManagingÔ (3):A.PlantedB.PlantC.To plantD.PlantingÔ (4):A.leastB.fewC.fewerD.lessÔ (5):A.In this wayB.HoweverC.For exampleD.OtherwiseÔ (6):A.alternativeB.consequenceC.emissionD.atmosphere",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. lower-emission rice farming flooded rice fields can make it easier for soil bacteria to produce (1) [blank 1] gases. (2) [blank 2] water levels more carefully, farmers can reduce the periods when fields remain flooded. (3) [blank 3] in carefully managed drier fields, rice can still grow well while the fields may produce fewer greenhouse gases. this method can also require (4) [blank 4] water than keeping fields permanently flooded. (5) [blank 5] , new farming methods may lower the climate impact while still supporting crop production. the aim is to find an (6) [blank 6] that reduces the warming impact without preventing farmers from growing successful crops.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.fossilb.renewablec.greenhoused.warmingô (2):a.managedb.managec.to managed.managingô (3):a.plantedb.plantc.to plantd.plantingô (4):a.leastb.fewc.fewerd.lessô (5):a.in this wayb.howeverc.for exampled.otherwiseô (6):a.alternativeb.consequencec.emissiond.atmosphere",
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. lower-emission rice farming flooded rice fields can make it easier for soil bacteria to produce (1) {#1} gases. (2) {#2} water levels more carefully, farmers can reduce the periods when fields remain flooded. (3) {#3} in carefully managed drier fields, rice can still grow well while the fields may produce fewer greenhouse gases. this method can also require (4) {#4} water than keeping fields permanently flooded. (5) {#5}, new farming methods may lower the climate impact while still supporting crop production. the aim is to find an (6) {#6} that reduces the warming impact without preventing farmers from growing successful crops.",
+      "letter": "",
+      "answer": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 1,
+          "value": "D. Managing",
+          "exact_text": "D. Managing",
+          "stem": "Answer 2 Câu hỏi 1",
+          "cleanStem": "answer 2 câu hỏi 1"
+        }
+      ]
+    },
+    {
+      "id": "question-1997118-2",
+      "questionId": "question-1997118-2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REDUCING COAL USE Coal is a fossil fuel that releases large amounts of carbon dioxide when (7) [Blank 7] for energy. Many climate plans therefore encourage switching to (8) [Blank 8] sources of energy. Replacing coal with cleaner sources can reduce carbon dioxide (9) [Blank 9] from electricity production. When discussing such a plan, students should state their main argument first and then (10) [Blank 10] the reasons clearly. A plan may also include steps to use less electricity. (11) [Blank 11] , lowering demand can reduce the amount of fossil fuel that needs to be burned. The overall goal is to reduce the warming (12) [Blank 12] of energy use.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.To burnB.BurnC.BurntD.BurningÔ (8):A.pollutedB.releasedC.warmingD.renewableÔ (9):A.atmospheresB.emissionsC.balancesD.temperaturesÔ (10):A.meltB.releaseC.explainD.trapÔ (11):A.OtherwiseB.For exampleC.HoweverD.In this wayÔ (12):A.sourceB.pollutantC.balanceD.impact",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. reducing coal use coal is a fossil fuel that releases large amounts of carbon dioxide when (7) [blank 7] for energy. many climate plans therefore encourage switching to (8) [blank 8] sources of energy. replacing coal with cleaner sources can reduce carbon dioxide (9) [blank 9] from electricity production. when discussing such a plan, students should state their main argument first and then (10) [blank 10] the reasons clearly. a plan may also include steps to use less electricity. (11) [blank 11] , lowering demand can reduce the amount of fossil fuel that needs to be burned. the overall goal is to reduce the warming (12) [blank 12] of energy use.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.to burnb.burnc.burntd.burningô (8):a.pollutedb.releasedc.warmingd.renewableô (9):a.atmospheresb.emissionsc.balancesd.temperaturesô (10):a.meltb.releasec.explaind.trapô (11):a.otherwiseb.for examplec.howeverd.in this wayô (12):a.sourceb.pollutantc.balanced.impact",
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. reducing coal use coal is a fossil fuel that releases large amounts of carbon dioxide when (7) {#1} for energy. many climate plans therefore encourage switching to (8) {#2} sources of energy. replacing coal with cleaner sources can reduce carbon dioxide (9) {#3} from electricity production. when discussing such a plan, students should state their main argument first and then (10) {#4} the reasons clearly. a plan may also include steps to use less electricity. (11) {#5}, lowering demand can reduce the amount of fossil fuel that needs to be burned. the overall goal is to reduce the warming (12) {#6} of energy use.",
+      "letter": "",
+      "answer": "",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 2,
+          "value": "B. emissions",
+          "exact_text": "B. emissions",
+          "stem": "Answer 3 Câu hỏi 2",
+          "cleanStem": "answer 3 câu hỏi 2"
+        }
+      ]
     }
   ]
 }
