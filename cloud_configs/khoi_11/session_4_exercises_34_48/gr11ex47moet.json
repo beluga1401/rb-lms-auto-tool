@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
-    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "account_name": "Kiều Khánh Linh",
+    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 4_EXERCISES 34-48",
     "unit_key": "session_4_exercises_34_48",
     "quiz_title": "GR11EX47MOET",
     "quiz_key": "gr11ex47moet",
-    "cmid": "746646",
+    "cmid": "746651",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex47moet.json",
-    "score": "25.00/25.00",
+    "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 43,
-    "updated_at": "2026-11-15 19:28:13"
+    "updated_at": "2026-11-26 19:18:19"
   },
   "answers": [
     {
@@ -146,109 +146,115 @@
     },
     {
       "answer": "substances released into the air",
-      "id": "question-1973089-7",
+      "id": "question-1995975-7",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.climate experts discussed ways to reduce emissions from human activities.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "substances released into the air"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Climate experts discussed ways to reduce emissions from human activities.",
-      "questionId": "question-1973089-7",
+      "questionId": "question-1995975-7",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.climate experts discussed ways to reduce emissions from human activities.",
-      "questionNumber": 5,
+      "questionNumber": 15,
       "selects": [],
       "rightAnswer": "substances released into the air",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Climate experts discussed ways to reduce emissions from human activities."
     },
     {
       "answer": "the clearing or removal of forest cover",
-      "id": "question-1973089-8",
+      "id": "question-1995975-8",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the report linked deforestation to the loss of large wooded areas.",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "the clearing or removal of forest cover"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.The report linked deforestation to the loss of large wooded areas.",
-      "questionId": "question-1973089-8",
+      "questionId": "question-1995975-8",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the report linked deforestation to the loss of large wooded areas.",
-      "questionNumber": 12,
+      "questionNumber": 3,
       "selects": [],
       "rightAnswer": "the clearing or removal of forest cover",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. The report linked deforestation to the loss of large wooded areas."
     },
     {
       "answer": "replenished naturally rather than permanently used up",
-      "id": "question-1973089-6",
+      "id": "question-1995975-6",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.wind and sunlight are described as renewable energy sources.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "replenished naturally rather than permanently used up"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Wind and sunlight are described as renewable energy sources.",
-      "questionId": "question-1973089-6",
+      "questionId": "question-1995975-6",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.wind and sunlight are described as renewable energy sources.",
-      "questionNumber": 10,
+      "questionNumber": 4,
       "selects": [],
       "rightAnswer": "replenished naturally rather than permanently used up",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Wind and sunlight are described as renewable energy sources."
     },
     {
       "answer": "a gas that retains heat in the atmosphere",
-      "id": "question-1973089-4",
+      "id": "question-1995975-4",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.methane is a greenhouse gas that contributes to warming.",
-      "letter": "C",
+      "letter": "B",
       "options": [
         "a gas that retains heat in the atmosphere"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Methane is a greenhouse gas that contributes to warming.",
-      "questionId": "question-1973089-4",
+      "questionId": "question-1995975-4",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.methane is a greenhouse gas that contributes to warming.",
-      "questionNumber": 2,
+      "questionNumber": 12,
       "selects": [],
       "rightAnswer": "a gas that retains heat in the atmosphere",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Methane is a greenhouse gas that contributes to warming."
     },
     {
       "answer": "the greenhouse gas emissions associated with their activities",
-      "id": "question-1973089-13",
+      "id": "question-1995975-13",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.walking instead of driving short distances can help reduce a person's carbon footprint.",
-      "letter": "D",
+      "letter": "C",
       "options": [
         "the greenhouse gas emissions associated with their activities"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Walking instead of driving short distances can help reduce a person's carbon footprint.",
-      "questionId": "question-1973089-13",
+      "questionId": "question-1995975-13",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.walking instead of driving short distances can help reduce a person's carbon footprint.",
-      "questionNumber": 6,
+      "questionNumber": 11,
       "selects": [],
       "rightAnswer": "the greenhouse gas emissions associated with their activities",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Walking instead of driving short distances can help reduce a person’s carbon footprint."
     },
     {
       "answer": "allow it to enter the surrounding air",
-      "id": "question-1973089-14",
+      "id": "question-1995975-14",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.burning carbon-based fuels can release carbon dioxide.",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "allow it to enter the surrounding air"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Burning carbon-based fuels can release carbon dioxide.",
-      "questionId": "question-1973089-14",
+      "questionId": "question-1995975-14",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.burning carbon-based fuels can release carbon dioxide.",
-      "questionNumber": 14,
+      "questionNumber": 13,
       "selects": [],
       "rightAnswer": "allow it to enter the surrounding air",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Burning carbon-based fuels can release carbon dioxide."
     },
     {
       "answer": "an uncontrolled fire spreading through natural vegetation",
-      "id": "question-1973089-11",
+      "id": "question-1995975-11",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.a wildfire spread through a natural area during the dry weather.",
       "letter": "B",
@@ -256,33 +262,35 @@
         "an uncontrolled fire spreading through natural vegetation"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.A wildfire spread through a natural area during the dry weather.",
-      "questionId": "question-1973089-11",
+      "questionId": "question-1995975-11",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.a wildfire spread through a natural area during the dry weather.",
-      "questionNumber": 9,
+      "questionNumber": 8,
       "selects": [],
       "rightAnswer": "an uncontrolled fire spreading through natural vegetation",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. A wildfire spread through a natural area during the dry weather."
     },
     {
       "answer": "unwanted plant material left after harvesting",
-      "id": "question-1973089-10",
+      "id": "question-1995975-10",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.farmers discussed alternatives to burning crop waste after the harvest.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "unwanted plant material left after harvesting"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Farmers discussed alternatives to burning crop waste after the harvest.",
-      "questionId": "question-1973089-10",
+      "questionId": "question-1995975-10",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.farmers discussed alternatives to burning crop waste after the harvest.",
-      "questionNumber": 15,
+      "questionNumber": 14,
       "selects": [],
       "rightAnswer": "unwanted plant material left after harvesting",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Farmers discussed alternatives to burning crop waste after the harvest."
     },
     {
       "answer": "the process through which atmospheric gases retain heat",
-      "id": "question-1973089-5",
+      "id": "question-1995975-5",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the greenhouse effect helps explain how gases keep some heat from escaping into space.",
       "letter": "C",
@@ -290,101 +298,107 @@
         "the process through which atmospheric gases retain heat"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.The greenhouse effect helps explain how gases keep some heat from escaping into space.",
-      "questionId": "question-1973089-5",
+      "questionId": "question-1995975-5",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the greenhouse effect helps explain how gases keep some heat from escaping into space.",
-      "questionNumber": 4,
+      "questionNumber": 10,
       "selects": [],
       "rightAnswer": "the process through which atmospheric gases retain heat",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. The greenhouse effect helps explain how gases keep some heat from escaping into space."
     },
     {
       "answer": "fine black particles produced by burning",
-      "id": "question-1973089-9",
+      "id": "question-1995975-9",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the students noticed soot around a stove that burned wood.",
-      "letter": "C",
+      "letter": "A",
       "options": [
         "fine black particles produced by burning"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.The students noticed soot around a stove that burned wood.",
-      "questionId": "question-1973089-9",
+      "questionId": "question-1995975-9",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the students noticed soot around a stove that burned wood.",
-      "questionNumber": 7,
+      "questionNumber": 1,
       "selects": [],
       "rightAnswer": "fine black particles produced by burning",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. The students noticed soot around a stove that burned wood."
     },
     {
       "answer": "be exhausted with none remaining",
-      "id": "question-1973089-15",
+      "id": "question-1995975-15",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the group bought more paper before its leaflet supplies could run out.",
-      "letter": "D",
+      "letter": "B",
       "options": [
         "be exhausted with none remaining"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.The group bought more paper before its leaflet supplies could run out.",
-      "questionId": "question-1973089-15",
+      "questionId": "question-1995975-15",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the group bought more paper before its leaflet supplies could run out.",
-      "questionNumber": 13,
+      "questionNumber": 2,
       "selects": [],
       "rightAnswer": "be exhausted with none remaining",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. The group bought more paper before its leaflet supplies could run out."
     },
     {
       "answer": "the layer of gases around the planet",
-      "id": "question-1973089-2",
+      "id": "question-1995975-2",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.greenhouse gases are found in the atmosphere surrounding earth.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "the layer of gases around the planet"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Greenhouse gases are found in the atmosphere surrounding Earth.",
-      "questionId": "question-1973089-2",
+      "questionId": "question-1995975-2",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.greenhouse gases are found in the atmosphere surrounding earth.",
-      "questionNumber": 11,
+      "questionNumber": 6,
       "selects": [],
       "rightAnswer": "the layer of gases around the planet",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Greenhouse gases are found in the atmosphere surrounding Earth."
     },
     {
       "answer": "the effect of an activity on the natural world",
-      "id": "question-1973089-12",
+      "id": "question-1995975-12",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the group considered the environmental impact of clearing land for farming.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "the effect of an activity on the natural world"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.The group considered the environmental impact of clearing land for farming.",
-      "questionId": "question-1973089-12",
+      "questionId": "question-1995975-12",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the group considered the environmental impact of clearing land for farming.",
-      "questionNumber": 8,
+      "questionNumber": 9,
       "selects": [],
       "rightAnswer": "the effect of an activity on the natural world",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. The group considered the environmental impact of clearing land for farming."
     },
     {
       "answer": "a fuel formed from ancient living material",
-      "id": "question-1973089-3",
+      "id": "question-1995975-3",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.coal is a fossil fuel used to produce energy.",
-      "letter": "C",
+      "letter": "A",
       "options": [
         "a fuel formed from ancient living material"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.Coal is a fossil fuel used to produce energy.",
-      "questionId": "question-1973089-3",
+      "questionId": "question-1995975-3",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.coal is a fossil fuel used to produce energy.",
-      "questionNumber": 3,
+      "questionNumber": 7,
       "selects": [],
       "rightAnswer": "a fuel formed from ancient living material",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. Coal is a fossil fuel used to produce energy."
     },
     {
       "answer": "a long-term rise in Earth's average temperature",
-      "id": "question-1973089-1",
+      "id": "question-1995975-1",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the class presentation described global warming as a long-term change affecting the whole planet.",
       "letter": "C",
@@ -392,67 +406,71 @@
         "a long-term rise in Earth's average temperature"
       ],
       "question": "Choose A, B, C or D that is closest in meaning to the bold word or phrase.The class presentation described global warming as a long-term change affecting the whole planet.",
-      "questionId": "question-1973089-1",
+      "questionId": "question-1995975-1",
       "questionKey": "choose a, b, c or d that is closest in meaning to the bold word or phrase.the class presentation described global warming as a long-term change affecting the whole planet.",
-      "questionNumber": 1,
+      "questionNumber": 5,
       "selects": [],
       "rightAnswer": "a long-term rise in Earth's average temperature",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the bold word or phrase. The class presentation described global warming as a long-term change affecting the whole planet."
     },
     {
       "answer": "restoring lost forest cover through tree planting",
-      "id": "question-1973089-24",
+      "id": "question-1995975-24",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the report describes deforestation, in which land loses its forest cover.",
-      "letter": "A",
+      "letter": "B",
       "options": [
         "restoring lost forest cover through tree planting"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The report describes deforestation, in which land loses its forest cover.",
-      "questionId": "question-1973089-24",
+      "questionId": "question-1995975-24",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the report describes deforestation, in which land loses its forest cover.",
-      "questionNumber": 23,
+      "questionNumber": 22,
       "selects": [],
       "rightAnswer": "restoring lost forest cover through tree planting",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The report describes deforestation, in which land loses its forest cover."
     },
     {
       "answer": "retain it within a container",
-      "id": "question-1973089-17",
+      "id": "question-1995975-17",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the diagram shows how an activity can release gas into the atmosphere.",
-      "letter": "B",
+      "letter": "C",
       "options": [
         "retain it within a container"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The diagram shows how an activity can release gas into the atmosphere.",
-      "questionId": "question-1973089-17",
+      "questionId": "question-1995975-17",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the diagram shows how an activity can release gas into the atmosphere.",
-      "questionNumber": 20,
+      "questionNumber": 21,
       "selects": [],
       "rightAnswer": "retain it within a container",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The diagram shows how an activity can release gas into the atmosphere."
     },
     {
       "answer": "increase greenhouse gas emissions",
-      "id": "question-1973089-18",
+      "id": "question-1995975-18",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the group proposed actions to reduce greenhouse gas emissions.",
-      "letter": "C",
+      "letter": "B",
       "options": [
         "increase greenhouse gas emissions"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The group proposed actions to reduce greenhouse gas emissions.",
-      "questionId": "question-1973089-18",
+      "questionId": "question-1995975-18",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the group proposed actions to reduce greenhouse gas emissions.",
       "questionNumber": 18,
       "selects": [],
       "rightAnswer": "increase greenhouse gas emissions",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The group proposed actions to reduce greenhouse gas emissions."
     },
     {
       "answer": "cool it down",
-      "id": "question-1973089-20",
+      "id": "question-1995975-20",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the stove can heat up the surrounding air.",
       "letter": "D",
@@ -460,33 +478,35 @@
         "cool it down"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The stove can heat up the surrounding air.",
-      "questionId": "question-1973089-20",
+      "questionId": "question-1995975-20",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the stove can heat up the surrounding air.",
-      "questionNumber": 17,
+      "questionNumber": 23,
       "selects": [],
       "rightAnswer": "cool it down",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The stove can heat up the surrounding air."
     },
     {
       "answer": "freeze",
-      "id": "question-1973089-23",
+      "id": "question-1995975-23",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.higher temperatures can cause ice to melt.",
-      "letter": "C",
+      "letter": "D",
       "options": [
         "freeze"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.Higher temperatures can cause ice to melt.",
-      "questionId": "question-1973089-23",
+      "questionId": "question-1995975-23",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.higher temperatures can cause ice to melt.",
-      "questionNumber": 16,
+      "questionNumber": 20,
       "selects": [],
       "rightAnswer": "freeze",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. Higher temperatures can cause ice to melt."
     },
     {
       "answer": "damage the forests",
-      "id": "question-1973089-19",
+      "id": "question-1995975-19",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.local people discussed how to protect the forests.",
       "letter": "D",
@@ -494,33 +514,35 @@
         "damage the forests"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.Local people discussed how to protect the forests.",
-      "questionId": "question-1973089-19",
+      "questionId": "question-1995975-19",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.local people discussed how to protect the forests.",
-      "questionNumber": 22,
+      "questionNumber": 25,
       "selects": [],
       "rightAnswer": "damage the forests",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. Local people discussed how to protect the forests."
     },
     {
       "answer": "allow global warming to increase without restriction",
-      "id": "question-1973089-21",
+      "id": "question-1995975-21",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the conference discussion focused on efforts to limit global warming.",
-      "letter": "A",
+      "letter": "D",
       "options": [
         "allow global warming to increase without restriction"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The conference discussion focused on efforts to limit global warming.",
-      "questionId": "question-1973089-21",
+      "questionId": "question-1995975-21",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the conference discussion focused on efforts to limit global warming.",
-      "questionNumber": 24,
+      "questionNumber": 19,
       "selects": [],
       "rightAnswer": "allow global warming to increase without restriction",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The conference discussion focused on efforts to limit global warming."
     },
     {
       "answer": "inequality between the amounts",
-      "id": "question-1973089-22",
+      "id": "question-1995975-22",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the diagram shows a balance: the amount entering equals the amount leaving.",
       "letter": "A",
@@ -528,46 +550,49 @@
         "inequality between the amounts"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The diagram shows a balance: the amount entering equals the amount leaving.",
-      "questionId": "question-1973089-22",
+      "questionId": "question-1995975-22",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the diagram shows a balance: the amount entering equals the amount leaving.",
-      "questionNumber": 25,
+      "questionNumber": 17,
       "selects": [],
       "rightAnswer": "inequality between the amounts",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The diagram shows a balance: the amount entering equals the amount leaving."
     },
     {
       "answer": "replenish",
-      "id": "question-1973089-25",
+      "id": "question-1995975-25",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.continued consumption can use up the available fuel supply.",
-      "letter": "B",
+      "letter": "C",
       "options": [
         "replenish"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.Continued consumption can use up the available fuel supply.",
-      "questionId": "question-1973089-25",
+      "questionId": "question-1995975-25",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.continued consumption can use up the available fuel supply.",
-      "questionNumber": 21,
+      "questionNumber": 16,
       "selects": [],
       "rightAnswer": "replenish",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. Continued consumption can use up the available fuel supply."
     },
     {
       "answer": "non-renewable",
-      "id": "question-1973089-16",
+      "id": "question-1995975-16",
       "inputs": [],
       "legacyQKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the leaflet encourages the use of renewable energy sources.",
-      "letter": "D",
+      "letter": "A",
       "options": [
         "non-renewable"
       ],
       "question": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase.The leaflet encourages the use of renewable energy sources.",
-      "questionId": "question-1973089-16",
+      "questionId": "question-1995975-16",
       "questionKey": "choose a, b, c or d that is opposite in meaning to the bold word or phrase.the leaflet encourages the use of renewable energy sources.",
-      "questionNumber": 19,
+      "questionNumber": 24,
       "selects": [],
       "rightAnswer": "non-renewable",
-      "dragdrops": []
+      "dragdrops": [],
+      "questionRaw": "Choose A, B, C or D that is OPPOSITE in meaning to the bold word or phrase. The leaflet encourages the use of renewable energy sources."
     }
   ]
 }
