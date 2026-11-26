@@ -1,21 +1,21 @@
 {
   "metadata": {
-    "account_name": "Kiều Khánh Linh",
-    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "account_name": "Student_Mobile",
+    "class_name": "Khối 11",
+    "raw_class_name": "Khối 11",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 5",
     "unit_key": "session_5",
     "quiz_title": "GR11EX53MOET",
     "quiz_key": "gr11ex53moet",
-    "cmid": "750070",
+    "cmid": "750011",
     "course_id": "4775",
-    "repo_path": "cloud_configs/khoi_11/session_5/gr11ex53moet.json",
-    "score": "100.00 trên 100.00",
-    "score_pct": 100.0,
-    "question_count": 36,
-    "updated_at": "2026-11-26 21:14:43"
+    "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex53moet.json",
+    "score": "100.0%",
+    "score_pct": 100,
+    "question_count": 6,
+    "updated_at": "2026-11-26 23:14:17"
   },
   "answers": [
     {
@@ -219,6 +219,106 @@
       "questionNumber": 2,
       "selects": [],
       "rightAnswer": ""
+    },
+    {
+      "id": "question-1997112-1",
+      "questionId": "question-1997112-1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSION Passage 1 — Questions 23–30 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 23.What is the passage mainly about?A. Why all forms of household waste create the same warming problem everywhereB. How restaurants can eliminate every source of methane from their activitiesC. How businesses can reduce landfill methane through two-stage food-waste managementD. Why packaging waste should receive more attention than discarded foodWrite A, B, C, or D - [Blank 1] Question 24.The word \"avoidable\" in paragraph 2 is closest in meaning to ______.A. preventableB. expensiveC. separateD. remainingWrite A, B, C, or D - [Blank 2] Question 25.The phrase \"These two stages\" in paragraph 2 refers to ______.A. the market and restaurant staff who prepare and buy foodB. the rubbish bins used for food scraps and other wasteC. preventing avoidable food waste and separately handling unavoidable food scrapsD. buying less packaging and measuring the total weight of rubbishWrite A, B, C, or D - [Blank 3] Question 26.Why are unavoidable food scraps collected separately?A. to make the rubbish bins easier for customers to seeB. to increase the amount of food bought each dayC. to keep more food waste from being sent to landfillD. to mix food scraps with packaging before collectionWrite A, B, C, or D - [Blank 4] Question 27.Which of the following is NOT TRUE according to the passage?A. Preventing unnecessary food purchases can reduce avoidable waste.B. Separating unavoidable scraps removes the need to prevent waste.C. A business may improve one stage while still having a weakness at the other.D. Food waste sent to landfill can contribute to methane emissions.Write A, B, C, or D - [Blank 5] Question 28.Which of the following best expresses the difference between the two stages described in the passage?A. Both stages should focus only on reducing the weight of packaging.B. Prevention reduces waste before it exists, while separation manages remaining scraps.C. Separating scraps is useful only when a business stops buying food completely.D. Preventing waste and separating scraps always produce identical results.Write A, B, C, or D - [Blank 6] Question 29.What is the main purpose of paragraph 3?A. to compare the cost of buying food with the cost of collecting food wasteB. to show that food-waste programmes should focus mainly on packagingC. to explain why using only one of the two stages can leave a gapD. to describe how methane is measured at landfill sitesWrite A, B, C, or D - [Blank 7] Question 30.What can be inferred about a restaurant that separates food scraps but continues to over-order food?A. It has solved both stages because separation prevents food from becoming waste.B. It handles remaining scraps but still misses chances to prevent unnecessary waste.C. It can no longer reduce methane because over-ordering makes separation useless.D. It should stop separating scraps until it has completely ended over-ordering.Write A, B, C, or D - [Blank 8]",
+      "questionKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23.what is the passage mainly about?a. why all forms of household waste create the same warming problem everywhereb. how restaurants can eliminate every source of methane from their activitiesc. how businesses can reduce landfill methane through two-stage food-waste managementd. why packaging waste should receive more attention than discarded foodwrite a, b, c, or d - [blank 1] question 24.the word \"avoidable\" in paragraph 2 is closest in meaning to ______.a. preventableb. expensivec. separated. remainingwrite a, b, c, or d - [blank 2] question 25.the phrase \"these two stages\" in paragraph 2 refers to ______.a. the market and restaurant staff who prepare and buy foodb. the rubbish bins used for food scraps and other wastec. preventing avoidable food waste and separately handling unavoidable food scrapsd. buying less packaging and measuring the total weight of rubbishwrite a, b, c, or d - [blank 3] question 26.why are unavoidable food scraps collected separately?a. to make the rubbish bins easier for customers to seeb. to increase the amount of food bought each dayc. to keep more food waste from being sent to landfilld. to mix food scraps with packaging before collectionwrite a, b, c, or d - [blank 4] question 27.which of the following is not true according to the passage?a. preventing unnecessary food purchases can reduce avoidable waste.b. separating unavoidable scraps removes the need to prevent waste.c. a business may improve one stage while still having a weakness at the other.d. food waste sent to landfill can contribute to methane emissions.write a, b, c, or d - [blank 5] question 28.which of the following best expresses the difference between the two stages described in the passage?a. both stages should focus only on reducing the weight of packaging.b. prevention reduces waste before it exists, while separation manages remaining scraps.c. separating scraps is useful only when a business stops buying food completely.d. preventing waste and separating scraps always produce identical results.write a, b, c, or d - [blank 6] question 29.what is the main purpose of paragraph 3?a. to compare the cost of buying food with the cost of collecting food wasteb. to show that food-waste programmes should focus mainly on packagingc. to explain why using only one of the two stages can leave a gapd. to describe how methane is measured at landfill siteswrite a, b, c, or d - [blank 7] question 30.what can be inferred about a restaurant that separates food scraps but continues to over-order food?a. it has solved both stages because separation prevents food from becoming waste.b. it handles remaining scraps but still misses chances to prevent unnecessary waste.c. it can no longer reduce methane because over-ordering makes separation useless.d. it should stop separating scraps until it has completely ended over-ordering.write a, b, c, or d - [blank 8]",
+      "legacyQKey": "part 4 — reading comprehension passage 1 — questions 23–30 choose the letter a, b, c, or d to indicate the correct answer to each question. question 23.what is the passage mainly about?a. why all forms of household waste create the same warming problem everywhereb. how restaurants can eliminate every source of methane from their activitiesc. how businesses can reduce landfill methane through two-stage food-waste managementd. why packaging waste should receive more attention than discarded foodwrite a, b, c, or d - {#1} question 24.the word \"avoidable\" in paragraph 2 is closest in meaning to ______.a. preventableb. expensivec. separated. remainingwrite a, b, c, or d - {#2} question 25.the phrase \"these two stages\" in paragraph 2 refers to ______.a. the market and restaurant staff who prepare and buy foodb. the rubbish bins used for food scraps and other wastec. preventing avoidable food waste and separately handling unavoidable food scrapsd. buying less packaging and measuring the total weight of rubbishwrite a, b, c, or d - {#3} question 26.why are unavoidable food scraps collected separately?a. to make the rubbish bins easier for customers to seeb. to increase the amount of food bought each dayc. to keep more food waste from being sent to landfilld. to mix food scraps with packaging before collectionwrite a, b, c, or d - {#4} question 27.which of the following is not true according to the passage?a. preventing unnecessary food purchases can reduce avoidable waste.b. separating unavoidable scraps removes the need to prevent waste.c. a business may improve one stage while still having a weakness at the other.d. food waste sent to landfill can contribute to methane emissions.write a, b, c, or d - {#5} question 28.which of the following best expresses the difference between the two stages described in the passage?a. both stages should focus only on reducing the weight of packaging.b. prevention reduces waste before it exists, while separation manages remaining scraps.c. separating scraps is useful only when a business stops buying food completely.d. preventing waste and separating scraps always produce identical results.write a, b, c, or d - {#6} question 29.what is the main purpose of paragraph 3?a. to compare the cost of buying food with the cost of collecting food wasteb. to show that food-waste programmes should focus mainly on packagingc. to explain why using only one of the two stages can leave a gapd. to describe how methane is measured at landfill siteswrite a, b, c, or d - {#7} question 30.what can be inferred about a restaurant that separates food scraps but continues to over-order food?a. it has solved both stages because separation prevents food from becoming waste.b. it handles remaining scraps but still misses chances to prevent unnecessary waste.c. it can no longer reduce methane because over-ordering makes separation useless.d. it should stop separating scraps until it has completely ended over-ordering.write a, b, c, or d - {#8}",
+      "letter": "",
+      "answer": "c",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "c"
+        },
+        {
+          "index": 3,
+          "value": "c"
+        },
+        {
+          "index": 4,
+          "value": "b"
+        },
+        {
+          "index": 5,
+          "value": "b"
+        },
+        {
+          "index": 6,
+          "value": "c"
+        },
+        {
+          "index": 7,
+          "value": "b"
+        }
+      ],
+      "selects": []
+    },
+    {
+      "id": "question-1997112-2",
+      "questionId": "question-1997112-2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSION Passage 2 — Questions 31–40 Choose the letter A, B, C, or D to indicate the correct answer to each question. Question 31.The word \"addresses\" in paragraph 4 is closest in meaning to ______.A. avoids entirelyB. measures exactlyC. deals withD. comes beforeWrite A, B, C, or D - [Blank 1] Question 32.According to paragraph 2, how can carbon dioxide emissions from coal use be reduced?A. replace coal with cleaner or renewable sourcesB. reduce methane released by large farm animals onlyC. send more food waste to landfill sitesD. measure only the total amount of rubbishWrite A, B, C, or D - [Blank 2] Question 33.The phrase \"these sources\" in paragraph 3 refers to ______.A. coal, oil, and natural gasB. climate plans and reduction actionsC. carbon dioxide and methane gas emissionsD. farm animals and landfill wasteWrite A, B, C, or D - [Blank 3] Question 34.Which of the following best paraphrases the central idea of the final paragraph?A. Every climate action should reduce all pollutants in the same way.B. Climate plans work best when they contain only one reduction method.C. The number of actions matters more than the emissions they address.D. Each climate action should be linked to the emission it targets.Write A, B, C, or D - [Blank 4] Question 35.What can be inferred from the passage?A. A region may still have methane emissions after reducing coal use.B. Cutting coal use will automatically remove emissions from farm animals.C. Methane reduction becomes unnecessary whenever renewable energy is widely available in the region.D. All warming pollutants can be reduced by the same single action.Write A, B, C, or D - [Blank 5] Question 36.Where in paragraph 3 does the following sentence best fit?This limitation means that a successful plan cannot rely on energy changes alone.A. [I]B. [II]C. [III]D. [IV]Write A, B, C, or D - [Blank 6] Question 37.What is the main purpose of paragraph 3?A. to compare the warming power of methane and carbon dioxide in detailB. to explain why landfill waste should replace farm animalsC. to show that coal is the only important source of emissionsD. to explain why methane reduction needs actions matched to its sourcesWrite A, B, C, or D - [Blank 7] Question 38.Which of the following is NOT supported by the passage?A. Different human activities can release different warming gases.B. One energy action can automatically reduce every warming pollutant.C. Cleaner energy can reduce carbon dioxide emissions from coal use.D. Methane can come from farm animals and landfill waste.Write A, B, C, or D - [Blank 8] Question 39.Which of the following best summarises the passage?A. Climate plans should focus only on the pollutant produced by coal.B. Methane and carbon dioxide come from exactly the same human activities.C. A climate plan succeeds when every action has the same effect.D. Effective climate plans match different emission sources with suitable reduction actions.Write A, B, C, or D - [Blank 9] Question 40.Which of the following is the best title for the passage?A. Why Methane Matters More Than Carbon Dioxide in Every Climate PlanB. One Energy Solution for Every Source of Global WarmingC. Matching Climate Actions to Different Sources of Warming EmissionsD. Why Climate Plans Should Focus Only on CoalWrite A, B, C, or D - [Blank 10]",
+      "questionKey": "part 4 — reading comprehension passage 2 — questions 31–40 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31.the word \"addresses\" in paragraph 4 is closest in meaning to ______.a. avoids entirelyb. measures exactlyc. deals withd. comes beforewrite a, b, c, or d - [blank 1] question 32.according to paragraph 2, how can carbon dioxide emissions from coal use be reduced?a. replace coal with cleaner or renewable sourcesb. reduce methane released by large farm animals onlyc. send more food waste to landfill sitesd. measure only the total amount of rubbishwrite a, b, c, or d - [blank 2] question 33.the phrase \"these sources\" in paragraph 3 refers to ______.a. coal, oil, and natural gasb. climate plans and reduction actionsc. carbon dioxide and methane gas emissionsd. farm animals and landfill wastewrite a, b, c, or d - [blank 3] question 34.which of the following best paraphrases the central idea of the final paragraph?a. every climate action should reduce all pollutants in the same way.b. climate plans work best when they contain only one reduction method.c. the number of actions matters more than the emissions they address.d. each climate action should be linked to the emission it targets.write a, b, c, or d - [blank 4] question 35.what can be inferred from the passage?a. a region may still have methane emissions after reducing coal use.b. cutting coal use will automatically remove emissions from farm animals.c. methane reduction becomes unnecessary whenever renewable energy is widely available in the region.d. all warming pollutants can be reduced by the same single action.write a, b, c, or d - [blank 5] question 36.where in paragraph 3 does the following sentence best fit?this limitation means that a successful plan cannot rely on energy changes alone.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - [blank 6] question 37.what is the main purpose of paragraph 3?a. to compare the warming power of methane and carbon dioxide in detailb. to explain why landfill waste should replace farm animalsc. to show that coal is the only important source of emissionsd. to explain why methane reduction needs actions matched to its sourceswrite a, b, c, or d - [blank 7] question 38.which of the following is not supported by the passage?a. different human activities can release different warming gases.b. one energy action can automatically reduce every warming pollutant.c. cleaner energy can reduce carbon dioxide emissions from coal use.d. methane can come from farm animals and landfill waste.write a, b, c, or d - [blank 8] question 39.which of the following best summarises the passage?a. climate plans should focus only on the pollutant produced by coal.b. methane and carbon dioxide come from exactly the same human activities.c. a climate plan succeeds when every action has the same effect.d. effective climate plans match different emission sources with suitable reduction actions.write a, b, c, or d - [blank 9] question 40.which of the following is the best title for the passage?a. why methane matters more than carbon dioxide in every climate planb. one energy solution for every source of global warmingc. matching climate actions to different sources of warming emissionsd. why climate plans should focus only on coalwrite a, b, c, or d - [blank 10]",
+      "legacyQKey": "part 4 — reading comprehension passage 2 — questions 31–40 choose the letter a, b, c, or d to indicate the correct answer to each question. question 31.the word \"addresses\" in paragraph 4 is closest in meaning to ______.a. avoids entirelyb. measures exactlyc. deals withd. comes beforewrite a, b, c, or d - {#1} question 32.according to paragraph 2, how can carbon dioxide emissions from coal use be reduced?a. replace coal with cleaner or renewable sourcesb. reduce methane released by large farm animals onlyc. send more food waste to landfill sitesd. measure only the total amount of rubbishwrite a, b, c, or d - {#2} question 33.the phrase \"these sources\" in paragraph 3 refers to ______.a. coal, oil, and natural gasb. climate plans and reduction actionsc. carbon dioxide and methane gas emissionsd. farm animals and landfill wastewrite a, b, c, or d - {#3} question 34.which of the following best paraphrases the central idea of the final paragraph?a. every climate action should reduce all pollutants in the same way.b. climate plans work best when they contain only one reduction method.c. the number of actions matters more than the emissions they address.d. each climate action should be linked to the emission it targets.write a, b, c, or d - {#4} question 35.what can be inferred from the passage?a. a region may still have methane emissions after reducing coal use.b. cutting coal use will automatically remove emissions from farm animals.c. methane reduction becomes unnecessary whenever renewable energy is widely available in the region.d. all warming pollutants can be reduced by the same single action.write a, b, c, or d - {#5} question 36.where in paragraph 3 does the following sentence best fit?this limitation means that a successful plan cannot rely on energy changes alone.a. [i]b. [ii]c. [iii]d. [iv]write a, b, c, or d - {#6} question 37.what is the main purpose of paragraph 3?a. to compare the warming power of methane and carbon dioxide in detailb. to explain why landfill waste should replace farm animalsc. to show that coal is the only important source of emissionsd. to explain why methane reduction needs actions matched to its sourceswrite a, b, c, or d - {#7} question 38.which of the following is not supported by the passage?a. different human activities can release different warming gases.b. one energy action can automatically reduce every warming pollutant.c. cleaner energy can reduce carbon dioxide emissions from coal use.d. methane can come from farm animals and landfill waste.write a, b, c, or d - {#8} question 39.which of the following best summarises the passage?a. climate plans should focus only on the pollutant produced by coal.b. methane and carbon dioxide come from exactly the same human activities.c. a climate plan succeeds when every action has the same effect.d. effective climate plans match different emission sources with suitable reduction actions.write a, b, c, or d - {#9} question 40.which of the following is the best title for the passage?a. why methane matters more than carbon dioxide in every climate planb. one energy solution for every source of global warmingc. matching climate actions to different sources of warming emissionsd. why climate plans should focus only on coalwrite a, b, c, or d - {#10}",
+      "letter": "",
+      "answer": "c",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "c"
+        },
+        {
+          "index": 1,
+          "value": "a"
+        },
+        {
+          "index": 2,
+          "value": "d"
+        },
+        {
+          "index": 3,
+          "value": "d"
+        },
+        {
+          "index": 4,
+          "value": "a"
+        },
+        {
+          "index": 5,
+          "value": "c"
+        },
+        {
+          "index": 6,
+          "value": "d"
+        },
+        {
+          "index": 7,
+          "value": "b"
+        },
+        {
+          "index": 8,
+          "value": "d"
+        },
+        {
+          "index": 9,
+          "value": "c"
+        }
+      ],
+      "selects": []
     }
   ]
 }
