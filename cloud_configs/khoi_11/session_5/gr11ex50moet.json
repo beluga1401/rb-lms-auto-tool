@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "account_name": "Kiều Khánh Linh",
+    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR11EX50MOET",
+    "quiz_key": "gr11ex50moet",
+    "cmid": "746654",
+    "course_id": "4775",
+    "repo_path": "cloud_configs/khoi_11/session_5/gr11ex50moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 20,
+    "updated_at": "2026-11-26 21:08:05"
+  },
+  "answers": [
+    {
+      "id": "question-1996901-6",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.the students drafted a leaflet, which recommends ways to reduce black carbon emissions. they will display it at the green fair.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. The students drafted a leaflet, which recommends ways to reduce black carbon emissions. They will display it at the Green Fair.",
+      "options": [
+        "the leaflet"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-6",
+      "questionNumber": 5,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.The students drafted a leaflet, which recommends ways to reduce black carbon emissions. They will display it at the Green Fair.",
+      "answer": "the leaflet",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.the students drafted a leaflet, which recommends ways to reduce black carbon emissions. they will display it at the green fair.",
+      "letter": "A",
+      "rightAnswer": "the leaflet"
+    },
+    {
+      "id": "question-1996901-1",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.a classroom note identifies methane as a greenhouse gas released by some farming activities. it can retain heat in the atmosphere.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. A classroom note identifies methane as a greenhouse gas released by some farming activities. It can retain heat in the atmosphere.",
+      "options": [
+        "methane"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-1",
+      "questionNumber": 4,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.A classroom note identifies methane as a greenhouse gas released by some farming activities. It can retain heat in the atmosphere.",
+      "answer": "methane",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.a classroom note identifies methane as a greenhouse gas released by some farming activities. it can retain heat in the atmosphere.",
+      "letter": "C",
+      "rightAnswer": "methane"
+    },
+    {
+      "id": "question-1996901-5",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.greenhouse gases retain some of the heat that earth gives off. this process helps keep the planet warm.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. Greenhouse gases retain some of the heat that Earth gives off. This process helps keep the planet warm.",
+      "options": [
+        "the retention of heat by greenhouse gases"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-5",
+      "questionNumber": 2,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.Greenhouse gases retain some of the heat that Earth gives off. This process helps keep the planet warm.",
+      "answer": "the retention of heat by greenhouse gases",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.greenhouse gases retain some of the heat that earth gives off. this process helps keep the planet warm.",
+      "letter": "C",
+      "rightAnswer": "the retention of heat by greenhouse gases"
+    },
+    {
+      "id": "question-1996901-9",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.students compared respondents' previous activities with their current actions. this activity helped them describe changes in behaviour.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. Students compared respondents’ previous activities with their current actions. This activity helped them describe changes in behaviour.",
+      "options": [
+        "comparing previous activities with current actions"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-9",
+      "questionNumber": 8,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.Students compared respondents' previous activities with their current actions. This activity helped them describe changes in behaviour.",
+      "answer": "comparing previous activities with current actions",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.students compared respondents' previous activities with their current actions. this activity helped them describe changes in behaviour.",
+      "letter": "C",
+      "rightAnswer": "comparing previous activities with current actions"
+    },
+    {
+      "id": "question-1996901-8",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.the group decided to describe only the interviewees' answers and avoid claims about all local people. this decision made the report more accurate.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. The group decided to describe only the interviewees’ answers and avoid claims about all local people. This decision made the report more accurate.",
+      "options": [
+        "limiting the report's claims to the collected answers"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-8",
+      "questionNumber": 10,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.The group decided to describe only the interviewees' answers and avoid claims about all local people. This decision made the report more accurate.",
+      "answer": "limiting the report's claims to the collected answers",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.the group decided to describe only the interviewees' answers and avoid claims about all local people. this decision made the report more accurate.",
+      "letter": "B",
+      "rightAnswer": "limiting the report's claims to the collected answers"
+    },
+    {
+      "id": "question-1996901-7",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.in an imaginary practice survey, respondents reported two changes: stopping open waste burning and walking more often on short journeys. these findings were summarised on a slide.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. In an imaginary practice survey, respondents reported two changes: stopping open waste burning and walking more often on short journeys. These findings were summarised on a slide.",
+      "options": [
+        "the two changes reported by the respondents"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-7",
+      "questionNumber": 3,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.In an imaginary practice survey, respondents reported two changes: stopping open waste burning and walking more often on short journeys. These findings were summarised on a slide.",
+      "answer": "the two changes reported by the respondents",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.in an imaginary practice survey, respondents reported two changes: stopping open waste burning and walking more often on short journeys. these findings were summarised on a slide.",
+      "letter": "B",
+      "rightAnswer": "the two changes reported by the respondents"
+    },
+    {
+      "id": "question-1996901-3",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.farmers check their animals during hot weather. the farmers provide them with shade and water.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. Farmers check their animals during hot weather. The farmers provide them with shade and water.",
+      "options": [
+        "the animals"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-3",
+      "questionNumber": 1,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.Farmers check their animals during hot weather. The farmers provide them with shade and water.",
+      "answer": "the animals",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.farmers check their animals during hot weather. the farmers provide them with shade and water.",
+      "letter": "A",
+      "rightAnswer": "the animals"
+    },
+    {
+      "id": "question-1996901-2",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.the survey respondents described their previous travel habits. they also explained what they do now.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. The survey respondents described their previous travel habits. They also explained what they do now.",
+      "options": [
+        "the survey respondents"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-2",
+      "questionNumber": 6,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.The survey respondents described their previous travel habits. They also explained what they do now.",
+      "answer": "the survey respondents",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.the survey respondents described their previous travel habits. they also explained what they do now.",
+      "letter": "D",
+      "rightAnswer": "the survey respondents"
+    },
+    {
+      "id": "question-1996901-10",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.the group organised its report in four stages: previous activity, possible impact, current action and reported result. this approach made the presentation easier to follow.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. The group organised its report in four stages: previous activity, possible impact, current action and reported result. This approach made the presentation easier to follow.",
+      "options": [
+        "organising the report around all four stages"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-10",
+      "questionNumber": 9,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.The group organised its report in four stages: previous activity, possible impact, current action and reported result. This approach made the presentation easier to follow.",
+      "answer": "organising the report around all four stages",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.the group organised its report in four stages: previous activity, possible impact, current action and reported result. this approach made the presentation easier to follow.",
+      "letter": "A",
+      "rightAnswer": "organising the report around all four stages"
+    },
+    {
+      "id": "question-1996901-4",
+      "questionKey": "choose a, b, c or d that identifies what the bold expression refers to.burning fossil fuels releases carbon dioxide into the air. these emissions contribute to additional warming.",
+      "questionRaw": "Choose A, B, C or D that identifies what the bold expression refers to. Burning fossil fuels releases carbon dioxide into the air. These emissions contribute to additional warming.",
+      "options": [
+        "the carbon dioxide released by fuel burning"
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-4",
+      "questionNumber": 7,
+      "question": "Choose A, B, C or D that identifies what the bold expression refers to.Burning fossil fuels releases carbon dioxide into the air. These emissions contribute to additional warming.",
+      "answer": "the carbon dioxide released by fuel burning",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that identifies what the bold expression refers to.burning fossil fuels releases carbon dioxide into the air. these emissions contribute to additional warming.",
+      "letter": "B",
+      "rightAnswer": "the carbon dioxide released by fuel burning"
+    },
+    {
+      "id": "question-1996901-14",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.provided with clear instructions, the respondents found the survey easier to complete.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Provided with clear instructions, the respondents found the survey easier to complete.",
+      "options": [
+        "Receiving clear instructions made it easier for the respondents to complete the survey."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-14",
+      "questionNumber": 20,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Provided with clear instructions, the respondents found the survey easier to complete.",
+      "answer": "Receiving clear instructions made it easier for the respondents to complete the survey.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.provided with clear instructions, the respondents found the survey easier to complete.",
+      "letter": "B",
+      "rightAnswer": "Receiving clear instructions made it easier for the respondents to complete the survey."
+    },
+    {
+      "id": "question-1996901-18",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.the green fair leaflet recommends protecting the forests to help limit global warming.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. The Green Fair leaflet recommends protecting the forests to help limit global warming.",
+      "options": [
+        "The leaflet advises forest protection as a way to help keep global warming under control."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-18",
+      "questionNumber": 14,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.The Green Fair leaflet recommends protecting the forests to help limit global warming.",
+      "answer": "The leaflet advises forest protection as a way to help keep global warming under control.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.the green fair leaflet recommends protecting the forests to help limit global warming.",
+      "letter": "D",
+      "rightAnswer": "The leaflet advises forest protection as a way to help keep global warming under control."
+    },
+    {
+      "id": "question-1996901-11",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.burning fossil fuels releases carbon dioxide into the atmosphere.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Burning fossil fuels releases carbon dioxide into the atmosphere.",
+      "options": [
+        "Carbon dioxide enters the atmosphere when fossil fuels are burnt."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-11",
+      "questionNumber": 13,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Burning fossil fuels releases carbon dioxide into the atmosphere.",
+      "answer": "Carbon dioxide enters the atmosphere when fossil fuels are burnt.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.burning fossil fuels releases carbon dioxide into the atmosphere.",
+      "letter": "A",
+      "rightAnswer": "Carbon dioxide enters the atmosphere when fossil fuels are burnt."
+    },
+    {
+      "id": "question-1996901-20",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.after they began reusing bags, two interviewees reported producing less solid waste.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. After they began reusing bags, two interviewees reported producing less solid waste.",
+      "options": [
+        "Two interviewees said they produced less solid waste after starting to reuse bags."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-20",
+      "questionNumber": 11,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.After they began reusing bags, two interviewees reported producing less solid waste.",
+      "answer": "Two interviewees said they produced less solid waste after starting to reuse bags.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.after they began reusing bags, two interviewees reported producing less solid waste.",
+      "letter": "C",
+      "rightAnswer": "Two interviewees said they produced less solid waste after starting to reuse bags."
+    },
+    {
+      "id": "question-1996901-15",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.examining the survey chart, the group discussed changes in the respondents' daily activities.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Examining the survey chart, the group discussed changes in the respondents’ daily activities.",
+      "options": [
+        "The group discussed changes in daily activities while examining the survey chart."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-15",
+      "questionNumber": 17,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Examining the survey chart, the group discussed changes in the respondents' daily activities.",
+      "answer": "The group discussed changes in daily activities while examining the survey chart.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.examining the survey chart, the group discussed changes in the respondents' daily activities.",
+      "letter": "A",
+      "rightAnswer": "The group discussed changes in daily activities while examining the survey chart."
+    },
+    {
+      "id": "question-1996901-17",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.mai used to drive to nearby shops, but she now walks there to help reduce her carbon footprint.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Mai used to drive to nearby shops, but she now walks there to help reduce her carbon footprint.",
+      "options": [
+        "Mai has changed from driving to walking to nearby shops in an effort to reduce her carbon footprint."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-17",
+      "questionNumber": 18,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Mai used to drive to nearby shops, but she now walks there to help reduce her carbon footprint.",
+      "answer": "Mai has changed from driving to walking to nearby shops in an effort to reduce her carbon footprint.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.mai used to drive to nearby shops, but she now walks there to help reduce her carbon footprint.",
+      "letter": "B",
+      "rightAnswer": "Mai has changed from driving to walking to nearby shops in an effort to reduce her carbon footprint."
+    },
+    {
+      "id": "question-1996901-16",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.separated from other rubbish, organic waste can be used to make compost.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Separated from other rubbish, organic waste can be used to make compost.",
+      "options": [
+        "Organic waste can be turned into compost if it is separated from other rubbish."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-16",
+      "questionNumber": 12,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Separated from other rubbish, organic waste can be used to make compost.",
+      "answer": "Organic waste can be turned into compost if it is separated from other rubbish.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.separated from other rubbish, organic waste can be used to make compost.",
+      "letter": "D",
+      "rightAnswer": "Organic waste can be turned into compost if it is separated from other rubbish."
+    },
+    {
+      "id": "question-1996901-19",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.according to the survey respondents, some households have cut down on the amount of coal they use.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. According to the survey respondents, some households have cut down on the amount of coal they use.",
+      "options": [
+        "The respondents reported that some households now use less coal than before."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-19",
+      "questionNumber": 15,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.According to the survey respondents, some households have cut down on the amount of coal they use.",
+      "answer": "The respondents reported that some households now use less coal than before.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.according to the survey respondents, some households have cut down on the amount of coal they use.",
+      "letter": "A",
+      "rightAnswer": "The respondents reported that some households now use less coal than before."
+    },
+    {
+      "id": "question-1996901-12",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.protecting the forests can help reduce greenhouse gas emissions.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Protecting the forests can help reduce greenhouse gas emissions.",
+      "options": [
+        "Forest protection can contribute to a reduction in greenhouse gas emissions."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-12",
+      "questionNumber": 19,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Protecting the forests can help reduce greenhouse gas emissions.",
+      "answer": "Forest protection can contribute to a reduction in greenhouse gas emissions.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.protecting the forests can help reduce greenhouse gas emissions.",
+      "letter": "B",
+      "rightAnswer": "Forest protection can contribute to a reduction in greenhouse gas emissions."
+    },
+    {
+      "id": "question-1996901-13",
+      "questionKey": "choose a, b, c or d that is closest in meaning to the given sentence.knowing that daily activities affect their carbon footprint, the students added a question about transport to their survey.",
+      "questionRaw": "Choose A, B, C or D that is closest in meaning to the given sentence. Knowing that daily activities affect their carbon footprint, the students added a question about transport to their survey.",
+      "options": [
+        "The students added a transport question because they knew daily activities affected their carbon footprint."
+      ],
+      "inputs": [],
+      "selects": [],
+      "questionId": "question-1996901-13",
+      "questionNumber": 16,
+      "question": "Choose A, B, C or D that is closest in meaning to the given sentence.Knowing that daily activities affect their carbon footprint, the students added a question about transport to their survey.",
+      "answer": "The students added a transport question because they knew daily activities affected their carbon footprint.",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d that is closest in meaning to the given sentence.knowing that daily activities affect their carbon footprint, the students added a question about transport to their survey.",
+      "letter": "A",
+      "rightAnswer": "The students added a transport question because they knew daily activities affected their carbon footprint."
+    }
+  ]
+}
