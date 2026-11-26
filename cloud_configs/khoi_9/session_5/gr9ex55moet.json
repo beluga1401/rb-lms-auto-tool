@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR9EX55MOET",
+    "quiz_key": "gr9ex55moet",
+    "cmid": "749954",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_5/gr9ex55moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 36,
+    "updated_at": "2026-11-26 21:03:14"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 23. what is the passage mainly about?a. why nature photography requires expensive equipmentb. how school websites select pictures from student tripsc. why linh stopped taking photographs during outdoor activitiesd. how one photograph changed linh’s thinkingwrite a, b, c, or d - question 24. why did linh initially want to delete the photograph?a. it looked blurred on the small screen.b. it showed a place outside the wetland.c. it was taken by another student.d. it did not include any birds.write a, b, c, or d - question 25. the word “it” in paragraph 3 refers to ______.a. the nature club websiteb. the bird’s sudden movementc. the blurred photographd. the wetland pathwrite a, b, c, or d - question 26. what did the teacher ask linh to do?a. compare the image with her classmates’ picturesb. study the photograph carefully before decidingc. print the photograph at a larger sized. retake the same picture the following daywrite a, b, c, or d - question 27. the word “pause” in paragraph 6 is closest in meaning to ______.a. speak confidentlyb. move quicklyc. agree immediatelyd. stop brieflywrite a, b, c, or d - question 28. which feature of the photograph is not mentioned as valuable?a. it showed every feather clearly.b. it captured the bird leaving the water.c. it included the bird’s reflection.d. it recorded sudden movement.write a, b, c, or d - question 29. what can be inferred about the photography teacher?a. the teacher accepted only photographs with perfect technical quality.b. the teacher wanted every student to copy professional photographers.c. the teacher valued meaning as well as technical quality.d. the teacher preferred colourful scenery to moving subjects.write a, b, c, or d - question 30. what did linh learn from the experience?a. old photographs should always be kept for competitions.b. meaning can matter more than technical perfection.c. students should avoid photographing fast-moving birds outdoors.d. teachers understand photographs better than their creators.write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 23. What is the passage mainly about?A. Why nature photography requires expensive equipmentB. How school websites select pictures from student tripsC. Why Linh stopped taking photographs during outdoor activitiesD. How one photograph changed Linh’s thinkingWrite A, B, C, or D - {#1} Question 24. Why did Linh initially want to delete the photograph?A. It looked blurred on the small screen.B. It showed a place outside the wetland.C. It was taken by another student.D. It did not include any birds.Write A, B, C, or D - {#2} Question 25. The word “it” in paragraph 3 refers to ______.A. the nature club websiteB. the bird’s sudden movementC. the blurred photographD. the wetland pathWrite A, B, C, or D - {#3} Question 26. What did the teacher ask Linh to do?A. Compare the image with her classmates’ picturesB. Study the photograph carefully before decidingC. Print the photograph at a larger sizeD. Retake the same picture the following dayWrite A, B, C, or D - {#4} Question 27. The word “pause” in paragraph 6 is closest in meaning to ______.A. speak confidentlyB. move quicklyC. agree immediatelyD. stop brieflyWrite A, B, C, or D - {#5} Question 28. Which feature of the photograph is NOT mentioned as valuable?A. It showed every feather clearly.B. It captured the bird leaving the water.C. It included the bird’s reflection.D. It recorded sudden movement.Write A, B, C, or D - {#6} Question 29. What can be inferred about the photography teacher?A. The teacher accepted only photographs with perfect technical quality.B. The teacher wanted every student to copy professional photographers.C. The teacher valued meaning as well as technical quality.D. The teacher preferred colourful scenery to moving subjects.Write A, B, C, or D - {#7} Question 30. What did Linh learn from the experience?A. Old photographs should always be kept for competitions.B. Meaning can matter more than technical perfection.C. Students should avoid photographing fast-moving birds outdoors.D. Teachers understand photographs better than their creators.Write A, B, C, or D - {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 23. What is the passage mainly about?A. Why nature photography requires expensive equipmentB. How school websites select pictures from student tripsC. Why Linh stopped taking photographs during outdoor activitiesD. How one photograph changed Linh’s thinkingWrite A, B, C, or D - {#1} Question 24. Why did Linh initially want to delete the photograph?A. It looked blurred on the small screen.B. It showed a place outside the wetland.C. It was taken by another student.D. It did not include any birds.Write A, B, C, or D - {#2} Question 25. The word “it” in paragraph 3 refers to ______.A. the nature club websiteB. the bird’s sudden movementC. the blurred photographD. the wetland pathWrite A, B, C, or D - {#3} Question 26. What did the teacher ask Linh to do?A. Compare the image with her classmates’ picturesB. Study the photograph carefully before decidingC. Print the photograph at a larger sizeD. Retake the same picture the following dayWrite A, B, C, or D - {#4} Question 27. The word “pause” in paragraph 6 is closest in meaning to ______.A. speak confidentlyB. move quicklyC. agree immediatelyD. stop brieflyWrite A, B, C, or D - {#5} Question 28. Which feature of the photograph is NOT mentioned as valuable?A. It showed every feather clearly.B. It captured the bird leaving the water.C. It included the bird’s reflection.D. It recorded sudden movement.Write A, B, C, or D - {#6} Question 29. What can be inferred about the photography teacher?A. The teacher accepted only photographs with perfect technical quality.B. The teacher wanted every student to copy professional photographers.C. The teacher valued meaning as well as technical quality.D. The teacher preferred colourful scenery to moving subjects.Write A, B, C, or D - {#7} Question 30. What did Linh learn from the experience?A. Old photographs should always be kept for competitions.B. Meaning can matter more than technical perfection.C. Students should avoid photographing fast-moving birds outdoors.D. Teachers understand photographs better than their creators.Write A, B, C, or D - {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 31. what is the passage mainly about?a. how a phone-free course changed one student’s daily habitsb. why schools should permanently ban phones from all coursesc. how teenagers can repair phones during outdoor tripsd. why the writer disliked every environmental-course activitywrite a, b, c, or d - question 32. what happened to students’ phones during the course?a. students used them only in the evening.b. group leaders collected them for the whole course.c. students exchanged them for simple digital cameras.d. staff stored them but allowed emergency access.write a, b, c, or d - question 33. why did the writer feel uncomfortable on the first morning?a. the writer could not take part in the outdoor activities.b. the writer kept expecting new messages.c. the other students refused to speak to the writer.d. the instructors asked the writer to repair a device.write a, b, c, or d - question 34. the phrase “this reaction” in paragraph 2 refers to ______.a. worrying about the course timetableb. lacking experience of outdoor cookingc. trying to check the phoned. finding the navigation task difficultwrite a, b, c, or d - question 35. which activity did the students do during the course?a. using a paper mapb. making an online travel videoc. texting their families after dinnerd. playing a mobile gamewrite a, b, c, or d - question 36. what had changed by the third evening?a. the writer wanted the course to end early.b. the writer asked for the phone every night.c. the writer stopped writing in the notebook.d. the writer felt calmer without constant phone checks.write a, b, c, or d - question 37. the word “automatically” in paragraph 2 is closest in meaning to ______.a. according to a careful planb. at exactly the correct timec. without consciously decidingd. with help from another personwrite a, b, c, or d - question 38. which statement is true according to the passage?a. the writer delayed opening the notifications.b. the writer lost the phone during navigation.c. the writer never used a phone after the course.d. the course lasted for two weeks.write a, b, c, or d - question 39. what can be inferred about the writer?a. the writer now believes technology is completely unnecessary.b. the writer became aware of automatic phone-checking habits.c. the writer now refuses to read messages from friends.d. the writer found the course activities less interesting than expected.write a, b, c, or d - question 40. which is the best title for the passage?a. the phone that disappeared at campb. an environmental course with no activitiesc. why messages matter to teenagersd. five days without my phonewrite a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 31. What is the passage mainly about?A. How a phone-free course changed one student’s daily habitsB. Why schools should permanently ban phones from all coursesC. How teenagers can repair phones during outdoor tripsD. Why the writer disliked every environmental-course activityWrite A, B, C, or D - {#1} Question 32. What happened to students’ phones during the course?A. Students used them only in the evening.B. Group leaders collected them for the whole course.C. Students exchanged them for simple digital cameras.D. Staff stored them but allowed emergency access.Write A, B, C, or D - {#2} Question 33. Why did the writer feel uncomfortable on the first morning?A. The writer could not take part in the outdoor activities.B. The writer kept expecting new messages.C. The other students refused to speak to the writer.D. The instructors asked the writer to repair a device.Write A, B, C, or D - {#3} Question 34. The phrase “This reaction” in paragraph 2 refers to ______.A. worrying about the course timetableB. lacking experience of outdoor cookingC. trying to check the phoneD. finding the navigation task difficultWrite A, B, C, or D - {#4} Question 35. Which activity did the students do during the course?A. Using a paper mapB. Making an online travel videoC. Texting their families after dinnerD. Playing a mobile gameWrite A, B, C, or D - {#5} Question 36. What had changed by the third evening?A. The writer wanted the course to end early.B. The writer asked for the phone every night.C. The writer stopped writing in the notebook.D. The writer felt calmer without constant phone checks.Write A, B, C, or D - {#6} Question 37. The word “automatically” in paragraph 2 is closest in meaning to ______.A. according to a careful planB. at exactly the correct timeC. without consciously decidingD. with help from another personWrite A, B, C, or D - {#7} Question 38. Which statement is true according to the passage?A. The writer delayed opening the notifications.B. The writer lost the phone during navigation.C. The writer never used a phone after the course.D. The course lasted for two weeks.Write A, B, C, or D - {#8} Question 39. What can be inferred about the writer?A. The writer now believes technology is completely unnecessary.B. The writer became aware of automatic phone-checking habits.C. The writer now refuses to read messages from friends.D. The writer found the course activities less interesting than expected.Write A, B, C, or D - {#9} Question 40. Which is the best title for the passage?A. The Phone That Disappeared at CampB. An Environmental Course with No ActivitiesC. Why Messages Matter to TeenagersD. Five Days Without My PhoneWrite A, B, C, or D - {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 31. What is the passage mainly about?A. How a phone-free course changed one student’s daily habitsB. Why schools should permanently ban phones from all coursesC. How teenagers can repair phones during outdoor tripsD. Why the writer disliked every environmental-course activityWrite A, B, C, or D - {#1} Question 32. What happened to students’ phones during the course?A. Students used them only in the evening.B. Group leaders collected them for the whole course.C. Students exchanged them for simple digital cameras.D. Staff stored them but allowed emergency access.Write A, B, C, or D - {#2} Question 33. Why did the writer feel uncomfortable on the first morning?A. The writer could not take part in the outdoor activities.B. The writer kept expecting new messages.C. The other students refused to speak to the writer.D. The instructors asked the writer to repair a device.Write A, B, C, or D - {#3} Question 34. The phrase “This reaction” in paragraph 2 refers to ______.A. worrying about the course timetableB. lacking experience of outdoor cookingC. trying to check the phoneD. finding the navigation task difficultWrite A, B, C, or D - {#4} Question 35. Which activity did the students do during the course?A. Using a paper mapB. Making an online travel videoC. Texting their families after dinnerD. Playing a mobile gameWrite A, B, C, or D - {#5} Question 36. What had changed by the third evening?A. The writer wanted the course to end early.B. The writer asked for the phone every night.C. The writer stopped writing in the notebook.D. The writer felt calmer without constant phone checks.Write A, B, C, or D - {#6} Question 37. The word “automatically” in paragraph 2 is closest in meaning to ______.A. according to a careful planB. at exactly the correct timeC. without consciously decidingD. with help from another personWrite A, B, C, or D - {#7} Question 38. Which statement is true according to the passage?A. The writer delayed opening the notifications.B. The writer lost the phone during navigation.C. The writer never used a phone after the course.D. The course lasted for two weeks.Write A, B, C, or D - {#8} Question 39. What can be inferred about the writer?A. The writer now believes technology is completely unnecessary.B. The writer became aware of automatic phone-checking habits.C. The writer now refuses to read messages from friends.D. The writer found the course activities less interesting than expected.Write A, B, C, or D - {#9} Question 40. Which is the best title for the passage?A. The Phone That Disappeared at CampB. An Environmental Course with No ActivitiesC. Why Messages Matter to TeenagersD. Five Days Without My PhoneWrite A, B, C, or D - {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "D",
+      "id": "question-1996878-1",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "B"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 23. what is the passage mainly about?a. why nature photography requires expensive equipmentb. how school websites select pictures from student tripsc. why linh stopped taking photographs during outdoor activitiesd. how one photograph changed linh's thinkingwrite a, b, c, or d - {#1} question 24. why did linh initially want to delete the photograph?a. it looked blurred on the small screen.b. it showed a place outside the wetland.c. it was taken by another student.d. it did not include any birds.write a, b, c, or d - {#2} question 25. the word \"it\" in paragraph 3 refers to ______.a. the nature club websiteb. the bird's sudden movementc. the blurred photographd. the wetland pathwrite a, b, c, or d - {#3} question 26. what did the teacher ask linh to do?a. compare the image with her classmates' picturesb. study the photograph carefully before decidingc. print the photograph at a larger sized. retake the same picture the following daywrite a, b, c, or d - {#4} question 27. the word \"pause\" in paragraph 6 is closest in meaning to ______.a. speak confidentlyb. move quicklyc. agree immediatelyd. stop brieflywrite a, b, c, or d - {#5} question 28. which feature of the photograph is not mentioned as valuable?a. it showed every feather clearly.b. it captured the bird leaving the water.c. it included the bird's reflection.d. it recorded sudden movement.write a, b, c, or d - {#6} question 29. what can be inferred about the photography teacher?a. the teacher accepted only photographs with perfect technical quality.b. the teacher wanted every student to copy professional photographers.c. the teacher valued meaning as well as technical quality.d. the teacher preferred colourful scenery to moving subjects.write a, b, c, or d - {#7} question 30. what did linh learn from the experience?a. old photographs should always be kept for competitions.b. meaning can matter more than technical perfection.c. students should avoid photographing fast-moving birds outdoors.d. teachers understand photographs better than their creators.write a, b, c, or d - {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 23. What is the passage mainly about?A. Why nature photography requires expensive equipmentB. How school websites select pictures from student tripsC. Why Linh stopped taking photographs during outdoor activitiesD. How one photograph changed Linh's thinkingWrite A, B, C, or D - {#1} Question 24. Why did Linh initially want to delete the photograph?A. It looked blurred on the small screen.B. It showed a place outside the wetland.C. It was taken by another student.D. It did not include any birds.Write A, B, C, or D - {#2} Question 25. The word \"it\" in paragraph 3 refers to ______.A. the nature club websiteB. the bird's sudden movementC. the blurred photographD. the wetland pathWrite A, B, C, or D - {#3} Question 26. What did the teacher ask Linh to do?A. Compare the image with her classmates' picturesB. Study the photograph carefully before decidingC. Print the photograph at a larger sizeD. Retake the same picture the following dayWrite A, B, C, or D - {#4} Question 27. The word \"pause\" in paragraph 6 is closest in meaning to ______.A. speak confidentlyB. move quicklyC. agree immediatelyD. stop brieflyWrite A, B, C, or D - {#5} Question 28. Which feature of the photograph is NOT mentioned as valuable?A. It showed every feather clearly.B. It captured the bird leaving the water.C. It included the bird's reflection.D. It recorded sudden movement.Write A, B, C, or D - {#6} Question 29. What can be inferred about the photography teacher?A. The teacher accepted only photographs with perfect technical quality.B. The teacher wanted every student to copy professional photographers.C. The teacher valued meaning as well as technical quality.D. The teacher preferred colourful scenery to moving subjects.Write A, B, C, or D - {#7} Question 30. What did Linh learn from the experience?A. Old photographs should always be kept for competitions.B. Meaning can matter more than technical perfection.C. Students should avoid photographing fast-moving birds outdoors.D. Teachers understand photographs better than their creators.Write A, B, C, or D - {#8}",
+      "questionId": "question-1996878-1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 23. what is the passage mainly about?a. why nature photography requires expensive equipmentb. how school websites select pictures from student tripsc. why linh stopped taking photographs during outdoor activitiesd. how one photograph changed linh's thinkingwrite a, b, c, or d - {#1} question 24. why did linh initially want to delete the photograph?a. it looked blurred on the small screen.b. it showed a place outside the wetland.c. it was taken by another student.d. it did not include any birds.write a, b, c, or d - {#2} question 25. the word \"it\" in paragraph 3 refers to ______.a. the nature club websiteb. the bird's sudden movementc. the blurred photographd. the wetland pathwrite a, b, c, or d - {#3} question 26. what did the teacher ask linh to do?a. compare the image with her classmates' picturesb. study the photograph carefully before decidingc. print the photograph at a larger sized. retake the same picture the following daywrite a, b, c, or d - {#4} question 27. the word \"pause\" in paragraph 6 is closest in meaning to ______.a. speak confidentlyb. move quicklyc. agree immediatelyd. stop brieflywrite a, b, c, or d - {#5} question 28. which feature of the photograph is not mentioned as valuable?a. it showed every feather clearly.b. it captured the bird leaving the water.c. it included the bird's reflection.d. it recorded sudden movement.write a, b, c, or d - {#6} question 29. what can be inferred about the photography teacher?a. the teacher accepted only photographs with perfect technical quality.b. the teacher wanted every student to copy professional photographers.c. the teacher valued meaning as well as technical quality.d. the teacher preferred colourful scenery to moving subjects.write a, b, c, or d - {#7} question 30. what did linh learn from the experience?a. old photographs should always be kept for competitions.b. meaning can matter more than technical perfection.c. students should avoid photographing fast-moving birds outdoors.d. teachers understand photographs better than their creators.write a, b, c, or d - {#8}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A",
+      "id": "question-1996878-2",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "D"
+        },
+        {
+          "index": 2,
+          "value": "B"
+        },
+        {
+          "index": 3,
+          "value": "C"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "D"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "A"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 31. what is the passage mainly about?a. how a phone-free course changed one student's daily habitsb. why schools should permanently ban phones from all coursesc. how teenagers can repair phones during outdoor tripsd. why the writer disliked every environmental-course activitywrite a, b, c, or d - {#1} question 32. what happened to students' phones during the course?a. students used them only in the evening.b. group leaders collected them for the whole course.c. students exchanged them for simple digital cameras.d. staff stored them but allowed emergency access.write a, b, c, or d - {#2} question 33. why did the writer feel uncomfortable on the first morning?a. the writer could not take part in the outdoor activities.b. the writer kept expecting new messages.c. the other students refused to speak to the writer.d. the instructors asked the writer to repair a device.write a, b, c, or d - {#3} question 34. the phrase \"this reaction\" in paragraph 2 refers to ______.a. worrying about the course timetableb. lacking experience of outdoor cookingc. trying to check the phoned. finding the navigation task difficultwrite a, b, c, or d - {#4} question 35. which activity did the students do during the course?a. using a paper mapb. making an online travel videoc. texting their families after dinnerd. playing a mobile gamewrite a, b, c, or d - {#5} question 36. what had changed by the third evening?a. the writer wanted the course to end early.b. the writer asked for the phone every night.c. the writer stopped writing in the notebook.d. the writer felt calmer without constant phone checks.write a, b, c, or d - {#6} question 37. the word \"automatically\" in paragraph 2 is closest in meaning to ______.a. according to a careful planb. at exactly the correct timec. without consciously decidingd. with help from another personwrite a, b, c, or d - {#7} question 38. which statement is true according to the passage?a. the writer delayed opening the notifications.b. the writer lost the phone during navigation.c. the writer never used a phone after the course.d. the course lasted for two weeks.write a, b, c, or d - {#8} question 39. what can be inferred about the writer?a. the writer now believes technology is completely unnecessary.b. the writer became aware of automatic phone-checking habits.c. the writer now refuses to read messages from friends.d. the writer found the course activities less interesting than expected.write a, b, c, or d - {#9} question 40. which is the best title for the passage?a. the phone that disappeared at campb. an environmental course with no activitiesc. why messages matter to teenagersd. five days without my phonewrite a, b, c, or d - {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 31. What is the passage mainly about?A. How a phone-free course changed one student's daily habitsB. Why schools should permanently ban phones from all coursesC. How teenagers can repair phones during outdoor tripsD. Why the writer disliked every environmental-course activityWrite A, B, C, or D - {#1} Question 32. What happened to students' phones during the course?A. Students used them only in the evening.B. Group leaders collected them for the whole course.C. Students exchanged them for simple digital cameras.D. Staff stored them but allowed emergency access.Write A, B, C, or D - {#2} Question 33. Why did the writer feel uncomfortable on the first morning?A. The writer could not take part in the outdoor activities.B. The writer kept expecting new messages.C. The other students refused to speak to the writer.D. The instructors asked the writer to repair a device.Write A, B, C, or D - {#3} Question 34. The phrase \"This reaction\" in paragraph 2 refers to ______.A. worrying about the course timetableB. lacking experience of outdoor cookingC. trying to check the phoneD. finding the navigation task difficultWrite A, B, C, or D - {#4} Question 35. Which activity did the students do during the course?A. Using a paper mapB. Making an online travel videoC. Texting their families after dinnerD. Playing a mobile gameWrite A, B, C, or D - {#5} Question 36. What had changed by the third evening?A. The writer wanted the course to end early.B. The writer asked for the phone every night.C. The writer stopped writing in the notebook.D. The writer felt calmer without constant phone checks.Write A, B, C, or D - {#6} Question 37. The word \"automatically\" in paragraph 2 is closest in meaning to ______.A. according to a careful planB. at exactly the correct timeC. without consciously decidingD. with help from another personWrite A, B, C, or D - {#7} Question 38. Which statement is true according to the passage?A. The writer delayed opening the notifications.B. The writer lost the phone during navigation.C. The writer never used a phone after the course.D. The course lasted for two weeks.Write A, B, C, or D - {#8} Question 39. What can be inferred about the writer?A. The writer now believes technology is completely unnecessary.B. The writer became aware of automatic phone-checking habits.C. The writer now refuses to read messages from friends.D. The writer found the course activities less interesting than expected.Write A, B, C, or D - {#9} Question 40. Which is the best title for the passage?A. The Phone That Disappeared at CampB. An Environmental Course with No ActivitiesC. Why Messages Matter to TeenagersD. Five Days Without My PhoneWrite A, B, C, or D - {#10}",
+      "questionId": "question-1996878-2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 31. what is the passage mainly about?a. how a phone-free course changed one student's daily habitsb. why schools should permanently ban phones from all coursesc. how teenagers can repair phones during outdoor tripsd. why the writer disliked every environmental-course activitywrite a, b, c, or d - {#1} question 32. what happened to students' phones during the course?a. students used them only in the evening.b. group leaders collected them for the whole course.c. students exchanged them for simple digital cameras.d. staff stored them but allowed emergency access.write a, b, c, or d - {#2} question 33. why did the writer feel uncomfortable on the first morning?a. the writer could not take part in the outdoor activities.b. the writer kept expecting new messages.c. the other students refused to speak to the writer.d. the instructors asked the writer to repair a device.write a, b, c, or d - {#3} question 34. the phrase \"this reaction\" in paragraph 2 refers to ______.a. worrying about the course timetableb. lacking experience of outdoor cookingc. trying to check the phoned. finding the navigation task difficultwrite a, b, c, or d - {#4} question 35. which activity did the students do during the course?a. using a paper mapb. making an online travel videoc. texting their families after dinnerd. playing a mobile gamewrite a, b, c, or d - {#5} question 36. what had changed by the third evening?a. the writer wanted the course to end early.b. the writer asked for the phone every night.c. the writer stopped writing in the notebook.d. the writer felt calmer without constant phone checks.write a, b, c, or d - {#6} question 37. the word \"automatically\" in paragraph 2 is closest in meaning to ______.a. according to a careful planb. at exactly the correct timec. without consciously decidingd. with help from another personwrite a, b, c, or d - {#7} question 38. which statement is true according to the passage?a. the writer delayed opening the notifications.b. the writer lost the phone during navigation.c. the writer never used a phone after the course.d. the course lasted for two weeks.write a, b, c, or d - {#8} question 39. what can be inferred about the writer?a. the writer now believes technology is completely unnecessary.b. the writer became aware of automatic phone-checking habits.c. the writer now refuses to read messages from friends.d. the writer found the course activities less interesting than expected.write a, b, c, or d - {#9} question 40. which is the best title for the passage?a. the phone that disappeared at campb. an environmental course with no activitiesc. why messages matter to teenagersd. five days without my phonewrite a, b, c, or d - {#10}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
