@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "account_name": "Trương Võ Hoàng Lâm",
+    "class_name": "Khối 9 (LGK LC-Lớp 9A2 (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 9A2 (2026-2027)",
+    "class_key": "khoi_9",
+    "grade_num": "9",
+    "unit_name": "SESSION 5",
+    "unit_key": "session_5",
+    "quiz_title": "GR9EX53MOET",
+    "quiz_key": "gr9ex53moet",
+    "cmid": "749952",
+    "course_id": "4772",
+    "repo_path": "cloud_configs/khoi_9/session_5/gr9ex53moet.json",
+    "score": "100.00 trên 100.00",
+    "score_pct": 100.0,
+    "question_count": 36,
+    "updated_at": "2026-11-26 20:59:02"
+  },
+  "answers": [
+    {
+      "id": "1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 23. what is the passage mainly about?a. how lan overcame a problem during her first school performanceb. why students should avoid performing before very large audiencesc. how the drama club selected actors for its annual playd. why lan decided to leave the school drama clubwrite a, b, c, or d - question 24. what did lan do before the performance?a. she rewrote the ending and changed her costume.b. she practised only at home with her family.c. she attended rehearsals and carefully learned her lines.d. she asked the teacher to give her a smaller role.write a, b, c, or d - question 25. the word “this” in paragraph 3 refers to ______.a. the audience clapping loudlyb. the teacher changing the playc. mai moving closer to land. lan forgetting her next linewrite a, b, c, or d - question 26. why did mai quietly say the first few words of the line?a. she wanted to take lan’s role in the play.b. she wanted to help lan remember what came next.c. she thought the audience had not heard lan clearly.d. she wanted the teacher to stop the performance.write a, b, c, or d - question 27. the word “relieved” in paragraph 5 is closest in meaning to ______.a. calm after worryingb. extremely tired physicallyc. ashamed of oneselfd. unable to understandwrite a, b, c, or d - question 28. which of the following is not mentioned as a result of lan’s drama experience?a. she became more confident on stage.b. she learned that actors sometimes make mistakes.c. she improved her singing ability.d. she performed in two more school plays.write a, b, c, or d - question 29. what can be inferred about the drama club?a. it accepts only students who have performed before.b. its members and teacher support learners with less experience.c. it gives students very little time to prepare their roles.d. its performances usually contain several serious mistakes.write a, b, c, or d - question 30. what lesson did lan learn from her first performance?a. small roles need less preparation than major ones.b. experienced actors never forget their lines on stage.c. students should leave the stage after making a mistake.d. one mistake need not ruin the whole experience.write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 23. What is the passage mainly about?A. How Lan overcame a problem during her first school performanceB. Why students should avoid performing before very large audiencesC. How the drama club selected actors for its annual playD. Why Lan decided to leave the school drama clubWrite A, B, C, or D - {#1} Question 24. What did Lan do before the performance?A. She rewrote the ending and changed her costume.B. She practised only at home with her family.C. She attended rehearsals and carefully learned her lines.D. She asked the teacher to give her a smaller role.Write A, B, C, or D - {#2} Question 25. The word “This” in paragraph 3 refers to ______.A. the audience clapping loudlyB. the teacher changing the playC. Mai moving closer to LanD. Lan forgetting her next lineWrite A, B, C, or D - {#3}Question 26. Why did Mai quietly say the first few words of the line?A. She wanted to take Lan’s role in the play.B. She wanted to help Lan remember what came next.C. She thought the audience had not heard Lan clearly.D. She wanted the teacher to stop the performance.Write A, B, C, or D - {#4} Question 27. The word “relieved” in paragraph 5 is closest in meaning to ______.A. calm after worryingB. extremely tired physicallyC. ashamed of oneselfD. unable to understandWrite A, B, C, or D - {#5} Question 28. Which of the following is NOT mentioned as a result of Lan’s drama experience?A. She became more confident on stage.B. She learned that actors sometimes make mistakes.C. She improved her singing ability.D. She performed in two more school plays.Write A, B, C, or D - {#6} Question 29. What can be inferred about the drama club?A. It accepts only students who have performed before.B. Its members and teacher support learners with less experience.C. It gives students very little time to prepare their roles.D. Its performances usually contain several serious mistakes.Write A, B, C, or D - {#7} Question 30. What lesson did Lan learn from her first performance?A. Small roles need less preparation than major ones.B. Experienced actors never forget their lines on stage.C. Students should leave the stage after making a mistake.D. One mistake need not ruin the whole experience.Write A, B, C, or D - {#8}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        }
+      ],
+      "selects": [],
+      "questionId": "1",
+      "questionNumber": 1,
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 23. What is the passage mainly about?A. How Lan overcame a problem during her first school performanceB. Why students should avoid performing before very large audiencesC. How the drama club selected actors for its annual playD. Why Lan decided to leave the school drama clubWrite A, B, C, or D - {#1} Question 24. What did Lan do before the performance?A. She rewrote the ending and changed her costume.B. She practised only at home with her family.C. She attended rehearsals and carefully learned her lines.D. She asked the teacher to give her a smaller role.Write A, B, C, or D - {#2} Question 25. The word “This” in paragraph 3 refers to ______.A. the audience clapping loudlyB. the teacher changing the playC. Mai moving closer to LanD. Lan forgetting her next lineWrite A, B, C, or D - {#3}Question 26. Why did Mai quietly say the first few words of the line?A. She wanted to take Lan’s role in the play.B. She wanted to help Lan remember what came next.C. She thought the audience had not heard Lan clearly.D. She wanted the teacher to stop the performance.Write A, B, C, or D - {#4} Question 27. The word “relieved” in paragraph 5 is closest in meaning to ______.A. calm after worryingB. extremely tired physicallyC. ashamed of oneselfD. unable to understandWrite A, B, C, or D - {#5} Question 28. Which of the following is NOT mentioned as a result of Lan’s drama experience?A. She became more confident on stage.B. She learned that actors sometimes make mistakes.C. She improved her singing ability.D. She performed in two more school plays.Write A, B, C, or D - {#6} Question 29. What can be inferred about the drama club?A. It accepts only students who have performed before.B. Its members and teacher support learners with less experience.C. It gives students very little time to prepare their roles.D. Its performances usually contain several serious mistakes.Write A, B, C, or D - {#7} Question 30. What lesson did Lan learn from her first performance?A. Small roles need less preparation than major ones.B. Experienced actors never forget their lines on stage.C. Students should leave the stage after making a mistake.D. One mistake need not ruin the whole experience.Write A, B, C, or D - {#8}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "id": "2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 31. why was the writer worried before the camp?a. the teachers had not explained the camp’s location.b. the writer had lost the necessary camping equipment.c. the other students had refused to join the trip.d. it was the writer’s first overnight trip.write a, b, c, or d - question 32. why was putting up the tent more difficult at the campsite?a. the ground was not even.b. the group had forgotten the tent.c. the teachers would not help them.d. the weather was already stormy.write a, b, c, or d - question 33. what did the group do after its first plan failed?a. it left the activity and returned to the tent.b. it asked another group to complete the activity.c. it listened to different ideas and tried another plan.d. it waited for a teacher to provide the answer.write a, b, c, or d - question 34. the word “it” in paragraph 4 refers to ______.a. the campsiteb. the tentc. the dinnerd. the rainwrite a, b, c, or d - question 35. what caused water to enter the tent?a. the tent was placed too near the lake.b. the heavy rain damaged its main entrance.c. wet bags were left inside the tent.d. the tent was not closed properly.write a, b, c, or d - question 36. how did the writer feel after returning home?a. tired but satisfied with the experienceb. angry about the difficult group activitiesc. disappointed that the camp was too shortd. worried about attending another school tripwrite a, b, c, or d - question 37. the word “valuable” in paragraph 5 is closest in meaning to ______.a. expensive to organiseb. difficult to repeatc. useful and importantd. comfortable and relaxingwrite a, b, c, or d - question 38. which statement is true according to the passage?a. the group completed every task on its first attempt.b. the writer solved each problem without classmates’ help.c. the teachers cancelled the activities because of rain.d. the writer helped a younger brother prepare for camp.write a, b, c, or d - question 39. what can be inferred about the writer?a. the writer now believes unfamiliar activities should be avoided.b. the writer has developed a more mature idea of independence.c. the writer prefers solving every problem without other people.d. the writer has decided not to attend another overnight camp.write a, b, c, or d - question 40. which statement best summarises the passage?a. a challenging first camp taught the writer cooperation and independence.b. a school camp failed because the weather caused too many problems.c. a student discovered that camping was easier than originally expected.d. a class learned how to win every outdoor team-building activity.write a, b, c, or d -",
+      "questionRaw": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 31. Why was the writer worried before the camp?A. The teachers had not explained the camp’s location.B. The writer had lost the necessary camping equipment.C. The other students had refused to join the trip.D. It was the writer’s first overnight trip.Write A, B, C, or D - {#1} Question 32. Why was putting up the tent more difficult at the campsite?A. The ground was not even.B. The group had forgotten the tent.C. The teachers would not help them.D. The weather was already stormy.Write A, B, C, or D - {#2} Question 33. What did the group do after its first plan failed?A. It left the activity and returned to the tent.B. It asked another group to complete the activity.C. It listened to different ideas and tried another plan.D. It waited for a teacher to provide the answer.Write A, B, C, or D - {#3} Question 34. The word “it” in paragraph 4 refers to ______.A. the campsiteB. the tentC. the dinnerD. the rainWrite A, B, C, or D - {#4} Question 35. What caused water to enter the tent?A. The tent was placed too near the lake.B. The heavy rain damaged its main entrance.C. Wet bags were left inside the tent.D. The tent was not closed properly.Write A, B, C, or D - {#5} Question 36. How did the writer feel after returning home?A. Tired but satisfied with the experienceB. Angry about the difficult group activitiesC. Disappointed that the camp was too shortD. Worried about attending another school tripWrite A, B, C, or D - {#6} Question 37. The word “valuable” in paragraph 5 is closest in meaning to ______.A. expensive to organiseB. difficult to repeatC. useful and importantD. comfortable and relaxingWrite A, B, C, or D - {#7} Question 38. Which statement is true according to the passage?A. The group completed every task on its first attempt.B. The writer solved each problem without classmates’ help.C. The teachers cancelled the activities because of rain.D. The writer helped a younger brother prepare for camp.Write A, B, C, or D - {#8} Question 39. What can be inferred about the writer?A. The writer now believes unfamiliar activities should be avoided.B. The writer has developed a more mature idea of independence.C. The writer prefers solving every problem without other people.D. The writer has decided not to attend another overnight camp.Write A, B, C, or D - {#9} Question 40. Which statement best summarises the passage?A. A challenging first camp taught the writer cooperation and independence.B. A school camp failed because the weather caused too many problems.C. A student discovered that camping was easier than originally expected.D. A class learned how to win every outdoor team-building activity.Write A, B, C, or D - {#10}",
+      "options": [],
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "selects": [],
+      "questionId": "2",
+      "questionNumber": 2,
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 31. Why was the writer worried before the camp?A. The teachers had not explained the camp’s location.B. The writer had lost the necessary camping equipment.C. The other students had refused to join the trip.D. It was the writer’s first overnight trip.Write A, B, C, or D - {#1} Question 32. Why was putting up the tent more difficult at the campsite?A. The ground was not even.B. The group had forgotten the tent.C. The teachers would not help them.D. The weather was already stormy.Write A, B, C, or D - {#2} Question 33. What did the group do after its first plan failed?A. It left the activity and returned to the tent.B. It asked another group to complete the activity.C. It listened to different ideas and tried another plan.D. It waited for a teacher to provide the answer.Write A, B, C, or D - {#3} Question 34. The word “it” in paragraph 4 refers to ______.A. the campsiteB. the tentC. the dinnerD. the rainWrite A, B, C, or D - {#4} Question 35. What caused water to enter the tent?A. The tent was placed too near the lake.B. The heavy rain damaged its main entrance.C. Wet bags were left inside the tent.D. The tent was not closed properly.Write A, B, C, or D - {#5} Question 36. How did the writer feel after returning home?A. Tired but satisfied with the experienceB. Angry about the difficult group activitiesC. Disappointed that the camp was too shortD. Worried about attending another school tripWrite A, B, C, or D - {#6} Question 37. The word “valuable” in paragraph 5 is closest in meaning to ______.A. expensive to organiseB. difficult to repeatC. useful and importantD. comfortable and relaxingWrite A, B, C, or D - {#7} Question 38. Which statement is true according to the passage?A. The group completed every task on its first attempt.B. The writer solved each problem without classmates’ help.C. The teachers cancelled the activities because of rain.D. The writer helped a younger brother prepare for camp.Write A, B, C, or D - {#8} Question 39. What can be inferred about the writer?A. The writer now believes unfamiliar activities should be avoided.B. The writer has developed a more mature idea of independence.C. The writer prefers solving every problem without other people.D. The writer has decided not to attend another overnight camp.Write A, B, C, or D - {#9} Question 40. Which statement best summarises the passage?A. A challenging first camp taught the writer cooperation and independence.B. A school camp failed because the weather caused too many problems.C. A student discovered that camping was easier than originally expected.D. A class learned how to win every outdoor team-building activity.Write A, B, C, or D - {#10}",
+      "answer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "A",
+      "id": "question-1996864-1",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "A"
+        },
+        {
+          "index": 1,
+          "value": "C"
+        },
+        {
+          "index": 2,
+          "value": "D"
+        },
+        {
+          "index": 3,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "A"
+        },
+        {
+          "index": 5,
+          "value": "C"
+        },
+        {
+          "index": 6,
+          "value": "B"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 23. what is the passage mainly about?a. how lan overcame a problem during her first school performanceb. why students should avoid performing before very large audiencesc. how the drama club selected actors for its annual playd. why lan decided to leave the school drama clubwrite a, b, c, or d - {#1} question 24. what did lan do before the performance?a. she rewrote the ending and changed her costume.b. she practised only at home with her family.c. she attended rehearsals and carefully learned her lines.d. she asked the teacher to give her a smaller role.write a, b, c, or d - {#2} question 25. the word \"this\" in paragraph 3 refers to ______.a. the audience clapping loudlyb. the teacher changing the playc. mai moving closer to land. lan forgetting her next linewrite a, b, c, or d - {#3}question 26. why did mai quietly say the first few words of the line?a. she wanted to take lan's role in the play.b. she wanted to help lan remember what came next.c. she thought the audience had not heard lan clearly.d. she wanted the teacher to stop the performance.write a, b, c, or d - {#4} question 27. the word \"relieved\" in paragraph 5 is closest in meaning to ______.a. calm after worryingb. extremely tired physicallyc. ashamed of oneselfd. unable to understandwrite a, b, c, or d - {#5} question 28. which of the following is not mentioned as a result of lan's drama experience?a. she became more confident on stage.b. she learned that actors sometimes make mistakes.c. she improved her singing ability.d. she performed in two more school plays.write a, b, c, or d - {#6} question 29. what can be inferred about the drama club?a. it accepts only students who have performed before.b. its members and teacher support learners with less experience.c. it gives students very little time to prepare their roles.d. its performances usually contain several serious mistakes.write a, b, c, or d - {#7} question 30. what lesson did lan learn from her first performance?a. small roles need less preparation than major ones.b. experienced actors never forget their lines on stage.c. students should leave the stage after making a mistake.d. one mistake need not ruin the whole experience.write a, b, c, or d - {#8}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 1 — Questions 23–30Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 23. What is the passage mainly about?A. How Lan overcame a problem during her first school performanceB. Why students should avoid performing before very large audiencesC. How the drama club selected actors for its annual playD. Why Lan decided to leave the school drama clubWrite A, B, C, or D - {#1} Question 24. What did Lan do before the performance?A. She rewrote the ending and changed her costume.B. She practised only at home with her family.C. She attended rehearsals and carefully learned her lines.D. She asked the teacher to give her a smaller role.Write A, B, C, or D - {#2} Question 25. The word \"This\" in paragraph 3 refers to ______.A. the audience clapping loudlyB. the teacher changing the playC. Mai moving closer to LanD. Lan forgetting her next lineWrite A, B, C, or D - {#3}Question 26. Why did Mai quietly say the first few words of the line?A. She wanted to take Lan's role in the play.B. She wanted to help Lan remember what came next.C. She thought the audience had not heard Lan clearly.D. She wanted the teacher to stop the performance.Write A, B, C, or D - {#4} Question 27. The word \"relieved\" in paragraph 5 is closest in meaning to ______.A. calm after worryingB. extremely tired physicallyC. ashamed of oneselfD. unable to understandWrite A, B, C, or D - {#5} Question 28. Which of the following is NOT mentioned as a result of Lan's drama experience?A. She became more confident on stage.B. She learned that actors sometimes make mistakes.C. She improved her singing ability.D. She performed in two more school plays.Write A, B, C, or D - {#6} Question 29. What can be inferred about the drama club?A. It accepts only students who have performed before.B. Its members and teacher support learners with less experience.C. It gives students very little time to prepare their roles.D. Its performances usually contain several serious mistakes.Write A, B, C, or D - {#7} Question 30. What lesson did Lan learn from her first performance?A. Small roles need less preparation than major ones.B. Experienced actors never forget their lines on stage.C. Students should leave the stage after making a mistake.D. One mistake need not ruin the whole experience.Write A, B, C, or D - {#8}",
+      "questionId": "question-1996864-1",
+      "questionKey": "part 4 — reading comprehensionpassage 1 — questions 23–30read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 23. what is the passage mainly about?a. how lan overcame a problem during her first school performanceb. why students should avoid performing before very large audiencesc. how the drama club selected actors for its annual playd. why lan decided to leave the school drama clubwrite a, b, c, or d - {#1} question 24. what did lan do before the performance?a. she rewrote the ending and changed her costume.b. she practised only at home with her family.c. she attended rehearsals and carefully learned her lines.d. she asked the teacher to give her a smaller role.write a, b, c, or d - {#2} question 25. the word \"this\" in paragraph 3 refers to ______.a. the audience clapping loudlyb. the teacher changing the playc. mai moving closer to land. lan forgetting her next linewrite a, b, c, or d - {#3}question 26. why did mai quietly say the first few words of the line?a. she wanted to take lan's role in the play.b. she wanted to help lan remember what came next.c. she thought the audience had not heard lan clearly.d. she wanted the teacher to stop the performance.write a, b, c, or d - {#4} question 27. the word \"relieved\" in paragraph 5 is closest in meaning to ______.a. calm after worryingb. extremely tired physicallyc. ashamed of oneselfd. unable to understandwrite a, b, c, or d - {#5} question 28. which of the following is not mentioned as a result of lan's drama experience?a. she became more confident on stage.b. she learned that actors sometimes make mistakes.c. she improved her singing ability.d. she performed in two more school plays.write a, b, c, or d - {#6} question 29. what can be inferred about the drama club?a. it accepts only students who have performed before.b. its members and teacher support learners with less experience.c. it gives students very little time to prepare their roles.d. its performances usually contain several serious mistakes.write a, b, c, or d - {#7} question 30. what lesson did lan learn from her first performance?a. small roles need less preparation than major ones.b. experienced actors never forget their lines on stage.c. students should leave the stage after making a mistake.d. one mistake need not ruin the whole experience.write a, b, c, or d - {#8}",
+      "questionNumber": 1,
+      "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D",
+      "id": "question-1996864-2",
+      "inputs": [
+        {
+          "index": 0,
+          "value": "D"
+        },
+        {
+          "index": 1,
+          "value": "A"
+        },
+        {
+          "index": 2,
+          "value": "C"
+        },
+        {
+          "index": 3,
+          "questionNumber": 34,
+          "value": "B"
+        },
+        {
+          "index": 4,
+          "value": "D"
+        },
+        {
+          "index": 5,
+          "value": "A"
+        },
+        {
+          "index": 6,
+          "value": "C"
+        },
+        {
+          "index": 7,
+          "value": "D"
+        },
+        {
+          "index": 8,
+          "value": "B"
+        },
+        {
+          "index": 9,
+          "value": "A"
+        }
+      ],
+      "legacyQKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 31. why was the writer worried before the camp?a. the teachers had not explained the camp's location.b. the writer had lost the necessary camping equipment.c. the other students had refused to join the trip.d. it was the writer's first overnight trip.write a, b, c, or d - {#1} question 32. why was putting up the tent more difficult at the campsite?a. the ground was not even.b. the group had forgotten the tent.c. the teachers would not help them.d. the weather was already stormy.write a, b, c, or d - {#2} question 33. what did the group do after its first plan failed?a. it left the activity and returned to the tent.b. it asked another group to complete the activity.c. it listened to different ideas and tried another plan.d. it waited for a teacher to provide the answer.write a, b, c, or d - {#3} question 34. the word \"it\" in paragraph 4 refers to ______.a. the campsiteb. the tentc. the dinnerd. the rainwrite a, b, c, or d - {#4} question 35. what caused water to enter the tent?a. the tent was placed too near the lake.b. the heavy rain damaged its main entrance.c. wet bags were left inside the tent.d. the tent was not closed properly.write a, b, c, or d - {#5} question 36. how did the writer feel after returning home?a. tired but satisfied with the experienceb. angry about the difficult group activitiesc. disappointed that the camp was too shortd. worried about attending another school tripwrite a, b, c, or d - {#6} question 37. the word \"valuable\" in paragraph 5 is closest in meaning to ______.a. expensive to organiseb. difficult to repeatc. useful and importantd. comfortable and relaxingwrite a, b, c, or d - {#7} question 38. which statement is true according to the passage?a. the group completed every task on its first attempt.b. the writer solved each problem without classmates' help.c. the teachers cancelled the activities because of rain.d. the writer helped a younger brother prepare for camp.write a, b, c, or d - {#8} question 39. what can be inferred about the writer?a. the writer now believes unfamiliar activities should be avoided.b. the writer has developed a more mature idea of independence.c. the writer prefers solving every problem without other people.d. the writer has decided not to attend another overnight camp.write a, b, c, or d - {#9} question 40. which statement best summarises the passage?a. a challenging first camp taught the writer cooperation and independence.b. a school camp failed because the weather caused too many problems.c. a student discovered that camping was easier than originally expected.d. a class learned how to win every outdoor team-building activity.write a, b, c, or d - {#10}",
+      "letter": "",
+      "options": [],
+      "question": "PART 4 — READING COMPREHENSIONPassage 2 — Questions 31–40Read the following passage and mark the letter A, B, C, or D to indicate the best answer to each question. Question 31. Why was the writer worried before the camp?A. The teachers had not explained the camp's location.B. The writer had lost the necessary camping equipment.C. The other students had refused to join the trip.D. It was the writer's first overnight trip.Write A, B, C, or D - {#1} Question 32. Why was putting up the tent more difficult at the campsite?A. The ground was not even.B. The group had forgotten the tent.C. The teachers would not help them.D. The weather was already stormy.Write A, B, C, or D - {#2} Question 33. What did the group do after its first plan failed?A. It left the activity and returned to the tent.B. It asked another group to complete the activity.C. It listened to different ideas and tried another plan.D. It waited for a teacher to provide the answer.Write A, B, C, or D - {#3} Question 34. The word \"it\" in paragraph 4 refers to ______.A. the campsiteB. the tentC. the dinnerD. the rainWrite A, B, C, or D - {#4} Question 35. What caused water to enter the tent?A. The tent was placed too near the lake.B. The heavy rain damaged its main entrance.C. Wet bags were left inside the tent.D. The tent was not closed properly.Write A, B, C, or D - {#5} Question 36. How did the writer feel after returning home?A. Tired but satisfied with the experienceB. Angry about the difficult group activitiesC. Disappointed that the camp was too shortD. Worried about attending another school tripWrite A, B, C, or D - {#6} Question 37. The word \"valuable\" in paragraph 5 is closest in meaning to ______.A. expensive to organiseB. difficult to repeatC. useful and importantD. comfortable and relaxingWrite A, B, C, or D - {#7} Question 38. Which statement is true according to the passage?A. The group completed every task on its first attempt.B. The writer solved each problem without classmates' help.C. The teachers cancelled the activities because of rain.D. The writer helped a younger brother prepare for camp.Write A, B, C, or D - {#8} Question 39. What can be inferred about the writer?A. The writer now believes unfamiliar activities should be avoided.B. The writer has developed a more mature idea of independence.C. The writer prefers solving every problem without other people.D. The writer has decided not to attend another overnight camp.Write A, B, C, or D - {#9} Question 40. Which statement best summarises the passage?A. A challenging first camp taught the writer cooperation and independence.B. A school camp failed because the weather caused too many problems.C. A student discovered that camping was easier than originally expected.D. A class learned how to win every outdoor team-building activity.Write A, B, C, or D - {#10}",
+      "questionId": "question-1996864-2",
+      "questionKey": "part 4 — reading comprehensionpassage 2 — questions 31–40read the following passage and mark the letter a, b, c, or d to indicate the best answer to each question. question 31. why was the writer worried before the camp?a. the teachers had not explained the camp's location.b. the writer had lost the necessary camping equipment.c. the other students had refused to join the trip.d. it was the writer's first overnight trip.write a, b, c, or d - {#1} question 32. why was putting up the tent more difficult at the campsite?a. the ground was not even.b. the group had forgotten the tent.c. the teachers would not help them.d. the weather was already stormy.write a, b, c, or d - {#2} question 33. what did the group do after its first plan failed?a. it left the activity and returned to the tent.b. it asked another group to complete the activity.c. it listened to different ideas and tried another plan.d. it waited for a teacher to provide the answer.write a, b, c, or d - {#3} question 34. the word \"it\" in paragraph 4 refers to ______.a. the campsiteb. the tentc. the dinnerd. the rainwrite a, b, c, or d - {#4} question 35. what caused water to enter the tent?a. the tent was placed too near the lake.b. the heavy rain damaged its main entrance.c. wet bags were left inside the tent.d. the tent was not closed properly.write a, b, c, or d - {#5} question 36. how did the writer feel after returning home?a. tired but satisfied with the experienceb. angry about the difficult group activitiesc. disappointed that the camp was too shortd. worried about attending another school tripwrite a, b, c, or d - {#6} question 37. the word \"valuable\" in paragraph 5 is closest in meaning to ______.a. expensive to organiseb. difficult to repeatc. useful and importantd. comfortable and relaxingwrite a, b, c, or d - {#7} question 38. which statement is true according to the passage?a. the group completed every task on its first attempt.b. the writer solved each problem without classmates' help.c. the teachers cancelled the activities because of rain.d. the writer helped a younger brother prepare for camp.write a, b, c, or d - {#8} question 39. what can be inferred about the writer?a. the writer now believes unfamiliar activities should be avoided.b. the writer has developed a more mature idea of independence.c. the writer prefers solving every problem without other people.d. the writer has decided not to attend another overnight camp.write a, b, c, or d - {#9} question 40. which statement best summarises the passage?a. a challenging first camp taught the writer cooperation and independence.b. a school camp failed because the weather caused too many problems.c. a student discovered that camping was easier than originally expected.d. a class learned how to win every outdoor team-building activity.write a, b, c, or d - {#10}",
+      "questionNumber": 2,
+      "selects": [],
+      "rightAnswer": ""
+    }
+  ]
+}
