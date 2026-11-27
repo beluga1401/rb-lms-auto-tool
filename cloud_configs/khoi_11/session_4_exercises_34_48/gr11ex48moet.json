@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
+    "account_name": "Student_Mobile",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -10,12 +10,12 @@
     "quiz_title": "GR11EX48MOET",
     "quiz_key": "gr11ex48moet",
     "cmid": "746647",
-    "course_id": "4775",
-    "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex48moet.json",
-    "score": "100.00 trên 100.00",
-    "score_pct": 100.0,
+    "course_id": "11364",
+    "repo_path": "cloud_configs\/khoi_11\/session_4_exercises_34_48\/gr11ex48moet.json",
+    "score": "1.00",
+    "score_pct": 100,
     "question_count": 20,
-    "updated_at": "2026-11-27 20:57:50"
+    "updated_at": "2026-11-27 21:20:44"
   },
   "answers": [
     {
