@@ -1,25 +1,25 @@
 {
   "metadata": {
-    "account_name": "Kiều Khánh Linh",
-    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "account_name": "Văn Thiên Kim",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 5",
     "unit_key": "session_5",
     "quiz_title": "GR11EX49MOET",
     "quiz_key": "gr11ex49moet",
-    "cmid": "746653",
+    "cmid": "746648",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_5/gr11ex49moet.json",
     "score": "95.00 trên 100.00",
     "score_pct": 95.0,
     "question_count": 30,
-    "updated_at": "2026-11-26 20:19:37"
+    "updated_at": "2026-11-27 23:37:28"
   },
   "answers": [
     {
-      "id": "question-1996458-10",
+      "id": "question-1999368-10",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ cool in hot weather, farm animals are less likely to suffer from heat stress.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ cool in hot weather, farm animals are less likely to suffer from heat stress.",
       "options": [
@@ -27,8 +27,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-10",
-      "questionNumber": 5,
+      "questionId": "question-1999368-10",
+      "questionNumber": 7,
       "question": "Choose A, B, C or D that best completes each sentence.______ cool in hot weather, farm animals are less likely to suffer from heat stress.",
       "answer": "Kept",
       "dragdrops": [],
@@ -37,7 +37,7 @@
       "rightAnswer": "Kept"
     },
     {
-      "id": "question-1996458-4",
+      "id": "question-1999368-4",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ along the riverbank, the volunteers picked up litter as they went.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ along the riverbank, the volunteers picked up litter as they went.",
       "options": [
@@ -45,17 +45,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-4",
-      "questionNumber": 6,
+      "questionId": "question-1999368-4",
+      "questionNumber": 8,
       "question": "Choose A, B, C or D that best completes each sentence.______ along the riverbank, the volunteers picked up litter as they went.",
       "answer": "Walking",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ along the riverbank, the volunteers picked up litter as they went.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "Walking"
     },
     {
-      "id": "question-1996458-6",
+      "id": "question-1999368-6",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ by their teacher, the students prepared questions about daily activities and global warming.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ by their teacher, the students prepared questions about daily activities and global warming.",
       "options": [
@@ -63,17 +63,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-6",
-      "questionNumber": 7,
+      "questionId": "question-1999368-6",
+      "questionNumber": 2,
       "question": "Choose A, B, C or D that best completes each sentence.______ by their teacher, the students prepared questions about daily activities and global warming.",
       "answer": "Encouraged",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ by their teacher, the students prepared questions about daily activities and global warming.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "Encouraged"
     },
     {
-      "id": "question-1996458-8",
+      "id": "question-1999368-8",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ with complete survey notes, the group could organise the reported answers accurately.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ with complete survey notes, the group could organise the reported answers accurately.",
       "options": [
@@ -81,8 +81,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-8",
-      "questionNumber": 8,
+      "questionId": "question-1999368-8",
+      "questionNumber": 3,
       "question": "Choose A, B, C or D that best completes each sentence.______ with complete survey notes, the group could organise the reported answers accurately.",
       "answer": "Provided",
       "dragdrops": [],
@@ -91,7 +91,7 @@
       "rightAnswer": "Provided"
     },
     {
-      "id": "question-1996458-3",
+      "id": "question-1999368-3",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ that their leaflet lacked a call to action, the group revised its final section.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ that their leaflet lacked a call to action, the group revised its final section.",
       "options": [
@@ -99,17 +99,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-3",
-      "questionNumber": 4,
+      "questionId": "question-1999368-3",
+      "questionNumber": 9,
       "question": "Choose A, B, C or D that best completes each sentence.______ that their leaflet lacked a call to action, the group revised its final section.",
       "answer": "Realising",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ that their leaflet lacked a call to action, the group revised its final section.",
-      "letter": "C",
+      "letter": "B",
       "rightAnswer": "Realising"
     },
     {
-      "id": "question-1996458-5",
+      "id": "question-1999368-5",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ in front of the class, the group pointed to its survey chart and explained the findings.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ in front of the class, the group pointed to its survey chart and explained the findings.",
       "options": [
@@ -117,13 +117,13 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-5",
-      "questionNumber": 1,
+      "questionId": "question-1999368-5",
+      "questionNumber": 10,
       "question": "Choose A, B, C or D that best completes each sentence.______ in front of the class, the group pointed to its survey chart and explained the findings.",
       "answer": "Standing",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ in front of the class, the group pointed to its survey chart and explained the findings.",
-      "letter": "A",
+      "letter": "B",
       "rightAnswer": "Standing"
     },
     {
@@ -142,7 +142,7 @@
       "dragdrops": []
     },
     {
-      "id": "question-1996458-7",
+      "id": "question-1999368-7",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ about the consequences of deforestation, the farmers decided to protect the remaining forest.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ about the consequences of deforestation, the farmers decided to protect the remaining forest.",
       "options": [
@@ -150,17 +150,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-7",
-      "questionNumber": 3,
+      "questionId": "question-1999368-7",
+      "questionNumber": 5,
       "question": "Choose A, B, C or D that best completes each sentence.______ about the consequences of deforestation, the farmers decided to protect the remaining forest.",
       "answer": "Worried",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ about the consequences of deforestation, the farmers decided to protect the remaining forest.",
-      "letter": "D",
+      "letter": "C",
       "rightAnswer": "Worried"
     },
     {
-      "id": "question-1996458-2",
+      "id": "question-1999368-2",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ heat in the atmosphere, greenhouse gases help keep earth warm.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ heat in the atmosphere, greenhouse gases help keep Earth warm.",
       "options": [
@@ -168,17 +168,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-2",
-      "questionNumber": 10,
+      "questionId": "question-1999368-2",
+      "questionNumber": 1,
       "question": "Choose A, B, C or D that best completes each sentence.______ heat in the atmosphere, greenhouse gases help keep Earth warm.",
       "answer": "Trapping",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ heat in the atmosphere, greenhouse gases help keep earth warm.",
-      "letter": "A",
+      "letter": "C",
       "rightAnswer": "Trapping"
     },
     {
-      "id": "question-1996458-1",
+      "id": "question-1999368-1",
       "questionKey": "choose a, b, c or d that best completes each sentence.______ that open waste burning produces pollutants, the students included a warning in their leaflet.",
       "questionRaw": "Choose A, B, C or D that best completes each sentence. ______ that open waste burning produces pollutants, the students included a warning in their leaflet.",
       "options": [
@@ -186,100 +186,125 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1996458-1",
-      "questionNumber": 2,
+      "questionId": "question-1999368-1",
+      "questionNumber": 4,
       "question": "Choose A, B, C or D that best completes each sentence.______ that open waste burning produces pollutants, the students included a warning in their leaflet.",
       "answer": "Knowing",
       "dragdrops": [],
       "legacyQKey": "choose a, b, c or d that best completes each sentence.______ that open waste burning produces pollutants, the students included a warning in their leaflet.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "Knowing"
     },
     {
-      "id": "11",
+      "id": "question-1996458-11",
       "questionKey": "choose a, b, c or d for each blank. question 1. a. methane b. carbon dioxide c. soil d. sootwrite a, b, c or d: question 2. a. warmed b. warming c. warmly d. warmswrite a, b, c or d: question 3. a. therefore b. however c. instead d. neverthelesswrite a, b, c or d:",
       "questionRaw": "Choose A, B, C or D for each blank. Question 1. A. methane B. carbon dioxide C. soil D. sootWrite A, B, C or D: {#1} Question 2. A. warmed B. warming C. warmly D. warmsWrite A, B, C or D: {#2} Question 3. A. Therefore B. However C. Instead D. NeverthelessWrite A, B, C or D: {#3}",
-      "options": [],
+      "options": [
+        "d"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 1,
           "value": "d"
         },
         {
           "index": 1,
+          "questionNumber": 1,
           "value": "b"
         },
         {
           "index": 2,
+          "questionNumber": 2,
           "value": "a"
         }
       ],
       "selects": [],
-      "questionId": "11",
-      "questionNumber": 11,
+      "questionId": "question-1996458-11",
+      "questionNumber": 13,
       "question": "Choose A, B, C or D for each blank. Question 1. A. methane B. carbon dioxide C. soil D. sootWrite A, B, C or D: {#1} Question 2. A. warmed B. warming C. warmly D. warmsWrite A, B, C or D: {#2} Question 3. A. Therefore B. However C. Instead D. NeverthelessWrite A, B, C or D: {#3}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "d",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d for each blank. question 1. a. methane b. carbon dioxide c. soil d. sootwrite a, b, c or d: {#1} question 2. a. warmed b. warming c. warmly d. warmswrite a, b, c or d: {#2} question 3. a. therefore b. however c. instead d. neverthelesswrite a, b, c or d: {#3}",
+      "letter": "D",
+      "rightAnswer": ""
     },
     {
-      "id": "12",
+      "id": "question-1996458-13",
       "questionKey": "choose a, b, c or d for each blank. question 1. a. organised b. organising c. organise d. organiseswrite a, b, c or d: question 2. a. supply b. fuel c. impact d. temperaturewrite a, b, c or d: question 3. a. although b. before c. unless d. whereaswrite a, b, c or d: question 4. a. soot b. fuel c. footprint d. cropwrite a, b, c or d:",
       "questionRaw": "Choose A, B, C or D for each blank. Question 1. A. Organised B. Organising C. Organise D. OrganisesWrite A, B, C or D: {#1} Question 2. A. supply B. fuel C. impact D. temperatureWrite A, B, C or D: {#2} Question 3. A. although B. before C. unless D. whereasWrite A, B, C or D: {#3} Question 4. A. soot B. fuel C. footprint D. cropWrite A, B, C or D: {#4}",
-      "options": [],
+      "options": [
+        "a"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 1,
           "value": "a"
         },
         {
           "index": 1,
+          "questionNumber": 1,
           "value": "c"
         },
         {
           "index": 2,
+          "questionNumber": 2,
           "value": "b"
         },
         {
           "index": 3,
+          "questionNumber": 3,
           "value": "c"
         }
       ],
       "selects": [],
-      "questionId": "12",
-      "questionNumber": 12,
+      "questionId": "question-1996458-13",
+      "questionNumber": 11,
       "question": "Choose A, B, C or D for each blank. Question 1. A. Organised B. Organising C. Organise D. OrganisesWrite A, B, C or D: {#1} Question 2. A. supply B. fuel C. impact D. temperatureWrite A, B, C or D: {#2} Question 3. A. although B. before C. unless D. whereasWrite A, B, C or D: {#3} Question 4. A. soot B. fuel C. footprint D. cropWrite A, B, C or D: {#4}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "a",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d for each blank. question 1. a. organised b. organising c. organise d. organiseswrite a, b, c or d: {#1} question 2. a. supply b. fuel c. impact d. temperaturewrite a, b, c or d: {#2} question 3. a. although b. before c. unless d. whereaswrite a, b, c or d: {#3} question 4. a. soot b. fuel c. footprint d. cropwrite a, b, c or d: {#4}",
+      "letter": "A",
+      "rightAnswer": ""
     },
     {
-      "id": "13",
+      "id": "question-1996458-12",
       "questionKey": "choose a, b, c or d for each blank. question 1. a. concern b. concerns c. concerned d. are concernedwrite a, b, c or d: question 2. a. solutions b. questions c. forests d. emissionswrite a, b, c or d: question 3. a. fossil b. renewable c. nuclear d. non-renewablewrite a, b, c or d:",
       "questionRaw": "Choose A, B, C or D for each blank. Question 1. A. Concern B. Concerns C. Concerned D. Are concernedWrite A, B, C or D: {#1} Question 2. A. solutions B. questions C. forests D. emissionsWrite A, B, C or D: {#2} Question 3. A. fossil B. renewable C. nuclear D. non-renewableWrite A, B, C or D: {#3}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 1,
           "value": "c"
         },
         {
           "index": 1,
+          "questionNumber": 1,
           "value": "d"
         },
         {
           "index": 2,
+          "questionNumber": 2,
           "value": "b"
         }
       ],
       "selects": [],
-      "questionId": "13",
-      "questionNumber": 13,
+      "questionId": "question-1996458-12",
+      "questionNumber": 12,
       "question": "Choose A, B, C or D for each blank. Question 1. A. Concern B. Concerns C. Concerned D. Are concernedWrite A, B, C or D: {#1} Question 2. A. solutions B. questions C. forests D. emissionsWrite A, B, C or D: {#2} Question 3. A. fossil B. renewable C. nuclear D. non-renewableWrite A, B, C or D: {#3}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "choose a, b, c or d for each blank. question 1. a. concern b. concerns c. concerned d. are concernedwrite a, b, c or d: {#1} question 2. a. solutions b. questions c. forests d. emissionswrite a, b, c or d: {#2} question 3. a. fossil b. renewable c. nuclear d. non-renewablewrite a, b, c or d: {#3}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
       "answer": "a",
-      "id": "question-1996458-13",
+      "id": "question-1999368-13",
       "inputs": [
         {
           "index": 0,
@@ -306,15 +331,15 @@
       "letter": "",
       "options": [],
       "question": "Choose A, B, C or D for each blank. Question 1. A. Organised B. Organising C. Organise D. OrganisesWrite A, B, C or D: {#1} Question 2. A. supply B. fuel C. impact D. temperatureWrite A, B, C or D: {#2} Question 3. A. although B. before C. unless D. whereasWrite A, B, C or D: {#3} Question 4. A. soot B. fuel C. footprint D. cropWrite A, B, C or D: {#4}",
-      "questionId": "question-1996458-13",
+      "questionId": "question-1999368-13",
       "questionKey": "choose a, b, c or d for each blank. question 1. a. organised b. organising c. organise d. organiseswrite a, b, c or d: {#1} question 2. a. supply b. fuel c. impact d. temperaturewrite a, b, c or d: {#2} question 3. a. although b. before c. unless d. whereaswrite a, b, c or d: {#3} question 4. a. soot b. fuel c. footprint d. cropwrite a, b, c or d: {#4}",
-      "questionNumber": 11,
+      "questionNumber": 12,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "c",
-      "id": "question-1996458-12",
+      "id": "question-1999368-12",
       "inputs": [
         {
           "index": 0,
@@ -336,15 +361,15 @@
       "letter": "",
       "options": [],
       "question": "Choose A, B, C or D for each blank. Question 1. A. Concern B. Concerns C. Concerned D. Are concernedWrite A, B, C or D: {#1} Question 2. A. solutions B. questions C. forests D. emissionsWrite A, B, C or D: {#2} Question 3. A. fossil B. renewable C. nuclear D. non-renewableWrite A, B, C or D: {#3}",
-      "questionId": "question-1996458-12",
+      "questionId": "question-1999368-12",
       "questionKey": "choose a, b, c or d for each blank. question 1. a. concern b. concerns c. concerned d. are concernedwrite a, b, c or d: {#1} question 2. a. solutions b. questions c. forests d. emissionswrite a, b, c or d: {#2} question 3. a. fossil b. renewable c. nuclear d. non-renewablewrite a, b, c or d: {#3}",
-      "questionNumber": 12,
+      "questionNumber": 13,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "d",
-      "id": "question-1996458-11",
+      "id": "question-1999368-11",
       "inputs": [
         {
           "index": 0,
@@ -366,9 +391,9 @@
       "letter": "",
       "options": [],
       "question": "Choose A, B, C or D for each blank. Question 1. A. methane B. carbon dioxide C. soil D. sootWrite A, B, C or D: {#1} Question 2. A. warmed B. warming C. warmly D. warmsWrite A, B, C or D: {#2} Question 3. A. Therefore B. However C. Instead D. NeverthelessWrite A, B, C or D: {#3}",
-      "questionId": "question-1996458-11",
+      "questionId": "question-1999368-11",
       "questionKey": "choose a, b, c or d for each blank. question 1. a. methane b. carbon dioxide c. soil d. sootwrite a, b, c or d: {#1} question 2. a. warmed b. warming c. warmly d. warmswrite a, b, c or d: {#2} question 3. a. therefore b. however c. instead d. neverthelesswrite a, b, c or d: {#3}",
-      "questionNumber": 13,
+      "questionNumber": 11,
       "selects": [],
       "rightAnswer": ""
     }
