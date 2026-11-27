@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
+    "account_name": "Student_Mobile",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -11,11 +11,11 @@
     "quiz_key": "gr11ex56moet",
     "cmid": "752936",
     "course_id": "4775",
-    "repo_path": "cloud_configs/khoi_11/session_5/gr11ex56moet.json",
+    "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex56moet.json",
     "score": "100.00 trên 100.00",
-    "score_pct": 100.0,
-    "question_count": 107,
-    "updated_at": "2026-11-27 21:07:09"
+    "score_pct": 100,
+    "question_count": 26,
+    "updated_at": "2026-11-27 22:44:50"
   },
   "answers": [
     {
@@ -24,7 +24,9 @@
       "inputs": [],
       "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
       "letter": "",
-      "options": [],
+      "options": [
+        "B. public transport"
+      ],
       "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.roof gardensB.public transportC.private vehiclesD.high-rise buildingsÔ (2):A.efficiencyB.efficientC.efficientlyD.efficienciesÔ (3):A.hasB.haveC.havingD.is havingÔ (4):A.welcomedB.welcomeC.welcomingD.welcominglyÔ (5):A.traffic jamsB.private vehiclesC.city dwellersD.high-rise buildingsÔ (6):A.OverallB.HoweverC.InsteadD.For example",
       "questionId": "question-1996829-1",
       "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) [blank 1] such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) [blank 2] . at the moment, the design team (3) [blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) [blank 4] . the model includes several (5) [blank 5] near the metro station so more homes can be built on limited land. (6) [blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.roof gardensb.public transportc.private vehiclesd.high-rise buildingsô (2):a.efficiencyb.efficientc.efficientlyd.efficienciesô (3):a.hasb.havec.havingd.is havingô (4):a.welcomedb.welcomec.welcomingd.welcominglyô (5):a.traffic jamsb.private vehiclesc.city dwellersd.high-rise buildingsô (6):a.overallb.howeverc.insteadd.for example",
@@ -63,7 +65,9 @@
       "inputs": [],
       "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
       "letter": "",
-      "options": [],
+      "options": [
+        "D. cultural exchange"
+      ],
       "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a (7) [Blank 7] gives students a chance to learn about one another's ideas and traditions. Students interested in (8) [Blank 8] the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (9) [Blank 9] . In the afternoon, participants will enjoy (10) [Blank 10] ideas with students from other countries during a short group task. (11) [Blank 11] , each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (12) [Blank 12] by listening carefully and sharing ideas.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.current issueB.contributionC.leadership skillD.cultural exchangeÔ (8):A.joinB.to joinC.joinedD.joiningÔ (9):A.contributionsB.current issuesC.cultural exchangesD.leadership skillsÔ (10):A.discussedB.discussC.discussingD.to discussÔ (11):A.At the end of the dayB.OtherwiseC.For exampleD.HoweverÔ (12):A.issuesB.relationsC.programmesD.exchanges",
       "questionId": "question-1996829-2",
       "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) [blank 7] gives students a chance to learn about one another's ideas and traditions. students interested in (8) [blank 8] the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) [blank 9] . in the afternoon, participants will enjoy (10) [blank 10] ideas with students from other countries during a short group task. (11) [blank 11] , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) [blank 12] by listening carefully and sharing ideas.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.current issueb.contributionc.leadership skilld.cultural exchangeô (8):a.joinb.to joinc.joinedd.joiningô (9):a.contributionsb.current issuesc.cultural exchangesd.leadership skillsô (10):a.discussedb.discussc.discussingd.to discussô (11):a.at the end of the dayb.otherwisec.for exampled.howeverô (12):a.issuesb.relationsc.programmesd.exchanges",
@@ -242,7 +246,9 @@
       "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
       "letter": "",
       "answer": "A. public transport",
-      "options": [],
+      "options": [
+        "A. public transport"
+      ],
       "inputs": [],
       "selects": [
         {
@@ -277,7 +283,9 @@
       "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
       "letter": "",
       "answer": "A. cultural exchange",
-      "options": [],
+      "options": [
+        "A. cultural exchange"
+      ],
       "inputs": [],
       "selects": [
         {
@@ -347,7 +355,9 @@
       "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
       "letter": "",
       "answer": "B. public transport",
-      "options": [],
+      "options": [
+        "B. public transport"
+      ],
       "inputs": [],
       "selects": [
         {
@@ -375,7 +385,9 @@
       "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
       "letter": "",
       "answer": "A. cultural exchange",
-      "options": [],
+      "options": [
+        "A. cultural exchange"
+      ],
       "inputs": [],
       "selects": [
         {
@@ -413,9 +425,7 @@
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review",
-      "options": [
-        ""
-      ],
+      "options": [],
       "is_checkbox": false,
       "inputs": [],
       "selects": [
@@ -463,9 +473,7 @@
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review",
-      "options": [
-        ""
-      ],
+      "options": [],
       "is_checkbox": false,
       "inputs": [],
       "selects": [
@@ -500,90 +508,6 @@
           "isCorrect": true
         }
       ]
-    },
-    {
-      "answer": "B. public transport",
-      "id": "question-1996829-1",
-      "inputs": [],
-      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
-      "letter": "",
-      "options": [
-        "B. public transport"
-      ],
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.roof gardensB.public transportC.private vehiclesD.high-rise buildingsÔ (2):A.efficiencyB.efficientC.efficientlyD.efficienciesÔ (3):A.hasB.haveC.havingD.is havingÔ (4):A.welcomedB.welcomeC.welcomingD.welcominglyÔ (5):A.traffic jamsB.private vehiclesC.city dwellersD.high-rise buildingsÔ (6):A.OverallB.HoweverC.InsteadD.For example",
-      "questionId": "question-1996829-1",
-      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) . at the moment, the design team (3) a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) . the model includes several (5) near the metro station so more homes can be built on limited land. (6) , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.roof gardensb.public transportc.private vehiclesd.high-rise buildingsô (2):a.efficiencyb.efficientc.efficientlyd.efficienciesô (3):a.hasb.havec.havingd.is havingô (4):a.welcomedb.welcomec.welcomingd.welcominglyô (5):a.traffic jamsb.private vehiclesc.city dwellersd.high-rise buildingsô (6):a.overallb.howeverc.insteadd.for example",
-      "questionNumber": 1,
-      "selects": [
-        {
-          "index": 0,
-          "value": "B. public transport"
-        },
-        {
-          "index": 1,
-          "value": "C. efficiently"
-        },
-        {
-          "index": 2,
-          "value": "D. is having"
-        },
-        {
-          "index": 3,
-          "value": "C. welcoming"
-        },
-        {
-          "index": 4,
-          "value": "D. high-rise buildings"
-        },
-        {
-          "index": 5,
-          "value": "A. Overall"
-        }
-      ],
-      "verified_100": true,
-      "dragdrops": []
-    },
-    {
-      "answer": "D. cultural exchange",
-      "id": "question-1996829-2",
-      "inputs": [],
-      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
-      "letter": "",
-      "options": [
-        "D. cultural exchange"
-      ],
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a (7) [Blank 7] gives students a chance to learn about one another's ideas and traditions. Students interested in (8) [Blank 8] the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (9) [Blank 9] . In the afternoon, participants will enjoy (10) [Blank 10] ideas with students from other countries during a short group task. (11) [Blank 11] , each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (12) [Blank 12] by listening carefully and sharing ideas.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.current issueB.contributionC.leadership skillD.cultural exchangeÔ (8):A.joinB.to joinC.joinedD.joiningÔ (9):A.contributionsB.current issuesC.cultural exchangesD.leadership skillsÔ (10):A.discussedB.discussC.discussingD.to discussÔ (11):A.At the end of the dayB.OtherwiseC.For exampleD.HoweverÔ (12):A.issuesB.relationsC.programmesD.exchanges",
-      "questionId": "question-1996829-2",
-      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) gives students a chance to learn about one another's ideas and traditions. students interested in (8) the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) . in the afternoon, participants will enjoy (10) ideas with students from other countries during a short group task. (11) , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) by listening carefully and sharing ideas.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.current issueb.contributionc.leadership skilld.cultural exchangeô (8):a.joinb.to joinc.joinedd.joiningô (9):a.contributionsb.current issuesc.cultural exchangesd.leadership skillsô (10):a.discussedb.discussc.discussingd.to discussô (11):a.at the end of the dayb.otherwisec.for exampled.howeverô (12):a.issuesb.relationsc.programmesd.exchanges",
-      "questionNumber": 2,
-      "selects": [
-        {
-          "index": 0,
-          "value": "D. cultural exchange"
-        },
-        {
-          "index": 1,
-          "value": "D. joining"
-        },
-        {
-          "index": 2,
-          "value": "D. leadership skills"
-        },
-        {
-          "index": 3,
-          "value": "C. discussing"
-        },
-        {
-          "index": 4,
-          "value": "A. At the end of the day"
-        },
-        {
-          "index": 5,
-          "value": "B. relations"
-        }
-      ],
-      "verified_100": true,
-      "dragdrops": []
     },
     {
       "answer": "c",
@@ -740,200 +664,6 @@
       "dragdrops": []
     },
     {
-      "id": "question-1998470-1",
-      "questionId": "question-1998470-1",
-      "questionNumber": 1,
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.public transportB.roof gardensC.private vehiclesD.high-rise buildingsÔ (2):A.efficientB.efficienciesC.efficiencyD.efficientlyÔ (3):A.haveB.is havingC.havingD.hasÔ (4):A.welcomeB.welcominglyC.welcomedD.welcomingÔ (5):A.high-rise buildingsB.private vehiclesC.city dwellersD.traffic jamsÔ (6):A.InsteadB.OverallC.HoweverD.For example",
-      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) . at the moment, the design team (3) a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) . the model includes several (5) near the metro station so more homes can be built on limited land. (6) , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.public transportb.roof gardensc.private vehiclesd.high-rise buildingsô (2):a.efficientb.efficienciesc.efficiencyd.efficientlyô (3):a.haveb.is havingc.havingd.hasô (4):a.welcomeb.welcominglyc.welcomedd.welcomingô (5):a.high-rise buildingsb.private vehiclesc.city dwellersd.traffic jamsô (6):a.insteadb.overallc.howeverd.for example",
-      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
-      "letter": "",
-      "answer": "A. public transport",
-      "options": [
-        "A. public transport"
-      ],
-      "inputs": [],
-      "selects": [
-        {
-          "index": 0,
-          "value": "A. public transport",
-          "exact_text": "A. public transport",
-          "stem": "Answer 1 Câu hỏi 1",
-          "cleanStem": "answer 1 câu hỏi 1"
-        },
-        {
-          "index": 4,
-          "value": "A. high-rise buildings",
-          "exact_text": "A. high-rise buildings",
-          "stem": "Answer 5 Câu hỏi 1",
-          "cleanStem": "answer 5 câu hỏi 1"
-        },
-        {
-          "index": 5,
-          "value": "B. Overall",
-          "exact_text": "B. Overall",
-          "stem": "Answer 6 Câu hỏi 1",
-          "cleanStem": "answer 6 câu hỏi 1"
-        }
-      ],
-      "dragdrops": []
-    },
-    {
-      "id": "question-1998470-2",
-      "questionId": "question-1998470-2",
-      "questionNumber": 2,
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a (7) [Blank 7] gives students a chance to learn about one another's ideas and traditions. Students interested in (8) [Blank 8] the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (9) [Blank 9] . In the afternoon, participants will enjoy (10) [Blank 10] ideas with students from other countries during a short group task. (11) [Blank 11] , each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (12) [Blank 12] by listening carefully and sharing ideas.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.cultural exchangeB.current issueC.contributionD.leadership skillÔ (8):A.to joinB.joiningC.joinD.joinedÔ (9):A.contributionsB.leadership skillsC.current issuesD.cultural exchangesÔ (10):A.discussingB.discussC.to discussD.discussedÔ (11):A.For exampleB.OtherwiseC.HoweverD.At the end of the dayÔ (12):A.programmesB.relationsC.issuesD.exchanges",
-      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) gives students a chance to learn about one another's ideas and traditions. students interested in (8) the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) . in the afternoon, participants will enjoy (10) ideas with students from other countries during a short group task. (11) , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) by listening carefully and sharing ideas.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.cultural exchangeb.current issuec.contributiond.leadership skillô (8):a.to joinb.joiningc.joind.joinedô (9):a.contributionsb.leadership skillsc.current issuesd.cultural exchangesô (10):a.discussingb.discussc.to discussd.discussedô (11):a.for exampleb.otherwisec.howeverd.at the end of the dayô (12):a.programmesb.relationsc.issuesd.exchanges",
-      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
-      "letter": "",
-      "answer": "A. cultural exchange",
-      "options": [
-        "A. cultural exchange"
-      ],
-      "inputs": [],
-      "selects": [
-        {
-          "index": 0,
-          "value": "A. cultural exchange",
-          "exact_text": "A. cultural exchange",
-          "stem": "Answer 1 Câu hỏi 2",
-          "cleanStem": "answer 1 câu hỏi 2"
-        },
-        {
-          "index": 3,
-          "value": "A. discussing",
-          "exact_text": "A. discussing",
-          "stem": "Answer 4 Câu hỏi 2",
-          "cleanStem": "answer 4 câu hỏi 2"
-        },
-        {
-          "index": 5,
-          "value": "B. relations",
-          "exact_text": "B. relations",
-          "stem": "Answer 6 Câu hỏi 2",
-          "cleanStem": "answer 6 câu hỏi 2"
-        }
-      ],
-      "dragdrops": []
-    },
-    {
-      "id": "question-1998485-1",
-      "questionId": "question-1998485-1",
-      "questionNumber": 1,
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.high-rise buildingsB.public transportC.roof gardensD.private vehiclesÔ (2):A.efficientlyB.efficiencyC.efficienciesD.efficientÔ (3):A.is havingB.haveC.hasD.havingÔ (4):A.welcomedB.welcomingC.welcomeD.welcominglyÔ (5):A.traffic jamsB.high-rise buildingsC.city dwellersD.private vehiclesÔ (6):A.HoweverB.For exampleC.OverallD.Instead",
-      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) . at the moment, the design team (3) a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) . the model includes several (5) near the metro station so more homes can be built on limited land. (6) , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.high-rise buildingsb.public transportc.roof gardensd.private vehiclesô (2):a.efficientlyb.efficiencyc.efficienciesd.efficientô (3):a.is havingb.havec.hasd.havingô (4):a.welcomedb.welcomingc.welcomed.welcominglyô (5):a.traffic jamsb.high-rise buildingsc.city dwellersd.private vehiclesô (6):a.howeverb.for examplec.overalld.instead",
-      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
-      "letter": "",
-      "answer": "B. public transport",
-      "options": [
-        "B. public transport"
-      ],
-      "inputs": [],
-      "selects": [
-        {
-          "index": 0,
-          "value": "B. public transport",
-          "exact_text": "B. public transport",
-          "stem": "Answer 1 Câu hỏi 1",
-          "cleanStem": "answer 1 câu hỏi 1"
-        },
-        {
-          "index": 1,
-          "value": "A. efficiently",
-          "exact_text": "A. efficiently",
-          "stem": "Answer 2 Câu hỏi 1",
-          "cleanStem": "answer 2 câu hỏi 1"
-        }
-      ],
-      "dragdrops": []
-    },
-    {
-      "id": "question-1998485-2",
-      "questionId": "question-1998485-2",
-      "questionNumber": 2,
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a (7) [Blank 7] gives students a chance to learn about one another's ideas and traditions. Students interested in (8) [Blank 8] the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (9) [Blank 9] . In the afternoon, participants will enjoy (10) [Blank 10] ideas with students from other countries during a short group task. (11) [Blank 11] , each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (12) [Blank 12] by listening carefully and sharing ideas.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.cultural exchangeB.leadership skillC.contributionD.current issueÔ (8):A.joinedB.to joinC.joiningD.joinÔ (9):A.leadership skillsB.cultural exchangesC.contributionsD.current issuesÔ (10):A.discussingB.discussedC.discussD.to discussÔ (11):A.OtherwiseB.At the end of the dayC.For exampleD.HoweverÔ (12):A.programmesB.relationsC.exchangesD.issues",
-      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) gives students a chance to learn about one another's ideas and traditions. students interested in (8) the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) . in the afternoon, participants will enjoy (10) ideas with students from other countries during a short group task. (11) , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) by listening carefully and sharing ideas.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.cultural exchangeb.leadership skillc.contributiond.current issueô (8):a.joinedb.to joinc.joiningd.joinô (9):a.leadership skillsb.cultural exchangesc.contributionsd.current issuesô (10):a.discussingb.discussedc.discussd.to discussô (11):a.otherwiseb.at the end of the dayc.for exampled.howeverô (12):a.programmesb.relationsc.exchangesd.issues",
-      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
-      "letter": "",
-      "answer": "A. cultural exchange",
-      "options": [
-        "A. cultural exchange"
-      ],
-      "inputs": [],
-      "selects": [
-        {
-          "index": 0,
-          "value": "A. cultural exchange",
-          "exact_text": "A. cultural exchange",
-          "stem": "Answer 1 Câu hỏi 2",
-          "cleanStem": "answer 1 câu hỏi 2"
-        },
-        {
-          "index": 3,
-          "value": "A. discussing",
-          "exact_text": "A. discussing",
-          "stem": "Answer 4 Câu hỏi 2",
-          "cleanStem": "answer 4 câu hỏi 2"
-        },
-        {
-          "index": 5,
-          "value": "B. relations",
-          "exact_text": "B. relations",
-          "stem": "Answer 6 Câu hỏi 2",
-          "cleanStem": "answer 6 câu hỏi 2"
-        }
-      ],
-      "dragdrops": []
-    },
-    {
-      "id": "question-1996829-1",
-      "questionId": "question-1996829-1",
-      "questionNumber": 1,
-      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. At the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) {#4}. The model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
-      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) . at the moment, the design team (3) a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) . the model includes several (5) near the metro station so more homes can be built on limited land. (6) , the model shows how technology and thoughtful urban design can work together to improve city life.",
-      "letter": "",
-      "letters": [],
-      "answer": "",
-      "rightAnswer": "",
-      "verified_100": true,
-      "source": "silent_review",
-      "options": [],
-      "is_checkbox": false,
-      "inputs": [],
-      "selects": [
-        {
-          "index": 0,
-          "value": "public transport",
-          "isCorrect": true
-        },
-        {
-          "index": 1,
-          "value": "efficiently",
-          "isCorrect": true
-        },
-        {
-          "index": 2,
-          "value": "is having",
-          "isCorrect": true
-        },
-        {
-          "index": 3,
-          "value": "welcoming",
-          "isCorrect": true
-        },
-        {
-          "index": 4,
-          "value": "high-rise buildings",
-          "isCorrect": true
-        },
-        {
-          "index": 5,
-          "value": "Overall",
-          "isCorrect": true
-        }
-      ],
-      "dragdrops": []
-    },
-    {
       "id": "question-1996829-2",
       "questionId": "question-1996829-2",
       "questionNumber": 2,
@@ -1059,6 +789,120 @@
         }
       ],
       "rightAnswer": ""
+    },
+    {
+      "id": "question-1999332-1",
+      "questionId": "question-1999332-1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) [Blank 1] such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) [Blank 2] . At the moment, the design team (3) [Blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) [Blank 4] . The model includes several (5) [Blank 5] near the metro station so more homes can be built on limited land. (6) [Blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.high-rise buildingsB.private vehiclesC.roof gardensD.public transportÔ (2):A.efficiencyB.efficienciesC.efficientD.efficientlyÔ (3):A.havingB.haveC.hasD.is havingÔ (4):A.welcomingB.welcomeC.welcomedD.welcominglyÔ (5):A.traffic jamsB.city dwellersC.high-rise buildingsD.private vehiclesÔ (6):A.For exampleB.HoweverC.OverallD.Instead",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) [blank 1] such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) [blank 2] . at the moment, the design team (3) [blank 3] a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) [blank 4] . the model includes several (5) [blank 5] near the metro station so more homes can be built on limited land. (6) [blank 6] , the model shows how technology and thoughtful urban design can work together to improve city life.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.high-rise buildingsb.private vehiclesc.roof gardensd.public transportô (2):a.efficiencyb.efficienciesc.efficientd.efficientlyô (3):a.havingb.havec.hasd.is havingô (4):a.welcomingb.welcomec.welcomedd.welcominglyô (5):a.traffic jamsb.city dwellersc.high-rise buildingsd.private vehiclesô (6):a.for exampleb.howeverc.overalld.instead",
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
+      "letter": "",
+      "answer": "public transport",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "public transport",
+          "exact_text": "public transport",
+          "stem": "Answer 1 Câu hỏi 1",
+          "cleanStem": "answer 1 câu hỏi 1"
+        },
+        {
+          "index": 1,
+          "value": "efficiently",
+          "exact_text": "efficiently",
+          "stem": "Answer 2 Câu hỏi 1",
+          "cleanStem": "answer 2 câu hỏi 1"
+        },
+        {
+          "index": 2,
+          "value": "is having",
+          "exact_text": "is having",
+          "stem": "Answer 3 Câu hỏi 1",
+          "cleanStem": "answer 3 câu hỏi 1"
+        },
+        {
+          "index": 3,
+          "value": "welcoming",
+          "exact_text": "welcoming",
+          "stem": "Answer 4 Câu hỏi 1",
+          "cleanStem": "answer 4 câu hỏi 1"
+        },
+        {
+          "index": 4,
+          "value": "high-rise buildings",
+          "exact_text": "high-rise buildings",
+          "stem": "Answer 5 Câu hỏi 1",
+          "cleanStem": "answer 5 câu hỏi 1"
+        },
+        {
+          "index": 5,
+          "value": "Overall",
+          "exact_text": "Overall",
+          "stem": "Answer 6 Câu hỏi 1",
+          "cleanStem": "answer 6 câu hỏi 1"
+        }
+      ],
+      "verified_100": true
+    },
+    {
+      "id": "question-1999332-2",
+      "questionId": "question-1999332-2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a (7) [Blank 7] gives students a chance to learn about one another's ideas and traditions. Students interested in (8) [Blank 8] the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (9) [Blank 9] . In the afternoon, participants will enjoy (10) [Blank 10] ideas with students from other countries during a short group task. (11) [Blank 11] , each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (12) [Blank 12] by listening carefully and sharing ideas.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.leadership skillB.current issueC.cultural exchangeD.contributionÔ (8):A.to joinB.joinC.joiningD.joinedÔ (9):A.contributionsB.leadership skillsC.current issuesD.cultural exchangesÔ (10):A.discussedB.discussC.to discussD.discussingÔ (11):A.OtherwiseB.HoweverC.At the end of the dayD.For exampleÔ (12):A.relationsB.issuesC.programmesD.exchanges",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) [blank 7] gives students a chance to learn about one another's ideas and traditions. students interested in (8) [blank 8] the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) [blank 9] . in the afternoon, participants will enjoy (10) [blank 10] ideas with students from other countries during a short group task. (11) [blank 11] , each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) [blank 12] by listening carefully and sharing ideas.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.leadership skillb.current issuec.cultural exchanged.contributionô (8):a.to joinb.joinc.joiningd.joinedô (9):a.contributionsb.leadership skillsc.current issuesd.cultural exchangesô (10):a.discussedb.discussc.to discussd.discussingô (11):a.otherwiseb.howeverc.at the end of the dayd.for exampleô (12):a.relationsb.issuesc.programmesd.exchanges",
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
+      "letter": "",
+      "answer": "cultural exchange",
+      "options": [],
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "cultural exchange",
+          "exact_text": "cultural exchange",
+          "stem": "Answer 1 Câu hỏi 2",
+          "cleanStem": "answer 1 câu hỏi 2"
+        },
+        {
+          "index": 1,
+          "value": "joining",
+          "exact_text": "joining",
+          "stem": "Answer 2 Câu hỏi 2",
+          "cleanStem": "answer 2 câu hỏi 2"
+        },
+        {
+          "index": 2,
+          "value": "leadership skills",
+          "exact_text": "leadership skills",
+          "stem": "Answer 3 Câu hỏi 2",
+          "cleanStem": "answer 3 câu hỏi 2"
+        },
+        {
+          "index": 3,
+          "value": "discussing",
+          "exact_text": "discussing",
+          "stem": "Answer 4 Câu hỏi 2",
+          "cleanStem": "answer 4 câu hỏi 2"
+        },
+        {
+          "index": 4,
+          "value": "At the end of the day",
+          "exact_text": "At the end of the day",
+          "stem": "Answer 5 Câu hỏi 2",
+          "cleanStem": "answer 5 câu hỏi 2"
+        },
+        {
+          "index": 5,
+          "value": "relations",
+          "exact_text": "relations",
+          "stem": "Answer 6 Câu hỏi 2",
+          "cleanStem": "answer 6 câu hỏi 2"
+        }
+      ],
+      "verified_100": true
     }
   ]
 }
