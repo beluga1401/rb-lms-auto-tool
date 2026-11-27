@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
+    "account_name": "Văn Thiên Kim",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -14,8 +14,8 @@
     "repo_path": "cloud_configs/khoi_11/session_5/gr11ex52moet.json",
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 68,
-    "updated_at": "2026-11-27 21:01:56"
+    "question_count": 92,
+    "updated_at": "2026-11-27 23:41:20"
   },
   "answers": [
     {
@@ -95,7 +95,7 @@
       "dragdrops": []
     },
     {
-      "id": "question-1996921-3",
+      "id": "question-1999128-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a different way to handle crop waste after each harvest, some farmers burned dry crop waste in open fields because it was quick. (13) ______. the smoke contained soot, including black carbon, and also made the air unpleasant to breathe. local agricultural officers organised a short information session. they explained that (14) ______. instead of burning waste, several farmers began collecting plant material for other uses. (15) ______, the dry material could be stored until it was reused instead of being burned. farmers also discussed whether cleaner energy could replace some uses of solid fuels on farms. (16) ______. by reducing open burning, the area aimed to lower soot emissions while keeping useful material out of fires. (17) ______. question 13.a. the practice had no connection with air pollution or warming.b. however, this method also sent soot and other pollutants into the air.c. renewable energy was produced directly by all the dry crop waste.d. the farmers therefore decided to burn even more waste after harvest.write a, b, c, or d - question 14.a. trapping sunlight and releasing it as heat, black carbon can warm the atmosphereb. black carbon is harmless once smoke has left the fieldc. methane is produced only when coal is burned for energyd. renewable energy always creates large amounts of black carbonwrite a, b, c, or d - question 15.a. collecting after harvestb. collected after harvestc. collect after harvestd. to collect after harvestwrite a, b, c, or d - question 16.a. this meant that crop waste had become a type of fossil fuel.b. the officers concluded that renewable energy produced more soot.c. this widened the discussion from crop-waste burning to another source of warming emissions.d. as a result, all farm work could immediately continue without using energy.write a, b, c, or d - question 17.a. farmers learned that all agricultural waste should instead be burned indoors.b. the area therefore no longer needed to think about greenhouse gases.c. the change addressed one clear source of warming pollution, although it did not solve every climate problem.d. black carbon had become a useful source of renewable energy for farms.write a, b, c, or d -",
       "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A DIFFERENT WAY TO HANDLE CROP WASTE After each harvest, some farmers burned dry crop waste in open fields because it was quick. (13) ______. The smoke contained soot, including black carbon, and also made the air unpleasant to breathe. Local agricultural officers organised a short information session. They explained that (14) ______. Instead of burning waste, several farmers began collecting plant material for other uses. (15) ______, the dry material could be stored until it was reused instead of being burned. Farmers also discussed whether cleaner energy could replace some uses of solid fuels on farms. (16) ______. By reducing open burning, the area aimed to lower soot emissions while keeping useful material out of fires. (17) ______. Question 13.A. The practice had no connection with air pollution or warming.B. However, this method also sent soot and other pollutants into the air.C. Renewable energy was produced directly by all the dry crop waste.D. The farmers therefore decided to burn even more waste after harvest.Write A, B, C, or D - {#1} Question 14.A. trapping sunlight and releasing it as heat, black carbon can warm the atmosphereB. black carbon is harmless once smoke has left the fieldC. methane is produced only when coal is burned for energyD. renewable energy always creates large amounts of black carbonWrite A, B, C, or D - {#2} Question 15.A. Collecting after harvestB. Collected after harvestC. Collect after harvestD. To collect after harvestWrite A, B, C, or D - {#3} Question 16.A. This meant that crop waste had become a type of fossil fuel.B. The officers concluded that renewable energy produced more soot.C. This widened the discussion from crop-waste burning to another source of warming emissions.D. As a result, all farm work could immediately continue without using energy.Write A, B, C, or D - {#4} Question 17.A. Farmers learned that all agricultural waste should instead be burned indoors.B. The area therefore no longer needed to think about greenhouse gases.C. The change addressed one clear source of warming pollution, although it did not solve every climate problem.D. Black carbon had become a useful source of renewable energy for farms.Write A, B, C, or D - {#5}",
       "options": [
@@ -124,7 +124,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1996921-3",
+      "questionId": "question-1999128-3",
       "questionNumber": 3,
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A DIFFERENT WAY TO HANDLE CROP WASTE After each harvest, some farmers burned dry crop waste in open fields because it was quick. (13) ______. The smoke contained soot, including black carbon, and also made the air unpleasant to breathe. Local agricultural officers organised a short information session. They explained that (14) ______. Instead of burning waste, several farmers began collecting plant material for other uses. (15) ______, the dry material could be stored until it was reused instead of being burned. Farmers also discussed whether cleaner energy could replace some uses of solid fuels on farms. (16) ______. By reducing open burning, the area aimed to lower soot emissions while keeping useful material out of fires. (17) ______. Question 13.A. The practice had no connection with air pollution or warming.B. However, this method also sent soot and other pollutants into the air.C. Renewable energy was produced directly by all the dry crop waste.D. The farmers therefore decided to burn even more waste after harvest.Write A, B, C, or D - {#1} Question 14.A. trapping sunlight and releasing it as heat, black carbon can warm the atmosphereB. black carbon is harmless once smoke has left the fieldC. methane is produced only when coal is burned for energyD. renewable energy always creates large amounts of black carbonWrite A, B, C, or D - {#2} Question 15.A. Collecting after harvestB. Collected after harvestC. Collect after harvestD. To collect after harvestWrite A, B, C, or D - {#3} Question 16.A. This meant that crop waste had become a type of fossil fuel.B. The officers concluded that renewable energy produced more soot.C. This widened the discussion from crop-waste burning to another source of warming emissions.D. As a result, all farm work could immediately continue without using energy.Write A, B, C, or D - {#4} Question 17.A. Farmers learned that all agricultural waste should instead be burned indoors.B. The area therefore no longer needed to think about greenhouse gases.C. The change addressed one clear source of warming pollution, although it did not solve every climate problem.D. Black carbon had become a useful source of renewable energy for farms.Write A, B, C, or D - {#5}",
       "answer": "b",
@@ -134,7 +134,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1996921-4",
+      "id": "question-1999128-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. because of this heat-trapping effect, more heat remains in the atmosphere instead of escaping into space.b. when fossil fuels are burned, they release greenhouse gases into the atmosphere.c. this additional heat contributes to a rise in the earth's temperature.d. these gases trap some of the heat that would otherwise escape.e. for this reason, reducing fossil-fuel use can help limit global warming.a. b - a - d - c - eb. d - b - a - c - ec. b - d - c - a - ed. b - d - a - c - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. Because of this heat-trapping effect, more heat remains in the atmosphere instead of escaping into space.b. When fossil fuels are burned, they release greenhouse gases into the atmosphere.c. This additional heat contributes to a rise in the earth's temperature.d. These gases trap some of the heat that would otherwise escape.e. For this reason, reducing fossil-fuel use can help limit global warming.A. b - a - d - c - eB. d - b - a - c - eC. b - d - c - a - eD. b - d - a - c - e Write A, B, C, or D - {#1}",
       "options": [
@@ -147,7 +147,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1996921-4",
+      "questionId": "question-1999128-4",
       "questionNumber": 4,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. Because of this heat-trapping effect, more heat remains in the atmosphere instead of escaping into space.b. When fossil fuels are burned, they release greenhouse gases into the atmosphere.c. This additional heat contributes to a rise in the earth's temperature.d. These gases trap some of the heat that would otherwise escape.e. For this reason, reducing fossil-fuel use can help limit global warming.A. b - a - d - c - eB. d - b - a - c - eC. b - d - c - a - eD. b - d - a - c - e Write A, B, C, or D - {#1}",
       "answer": "d",
@@ -157,7 +157,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1996921-5",
+      "id": "question-1999128-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. first, trees remove carbon dioxide from the atmosphere and store carbon as they grow.b. i believe ending deforestation should be a major climate priority.c. second, when forests are cut down or burnt, stored carbon is released into the atmosphere.d. for these two reasons, protecting forests can help slow global warming.e. there are two main reasons for this view.a. b - a - e - c - db. e - b - a - c - dc. b - e - a - c - dd. b - e - c - a - d write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. First, trees remove carbon dioxide from the atmosphere and store carbon as they grow.b. I believe ending deforestation should be a major climate priority.c. Second, when forests are cut down or burnt, stored carbon is released into the atmosphere.d. For these two reasons, protecting forests can help slow global warming.e. There are two main reasons for this view.A. b - a - e - c - dB. e - b - a - c - dC. b - e - a - c - dD. b - e - c - a - d Write A, B, C, or D - {#1}",
       "options": [
@@ -170,7 +170,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1996921-5",
+      "questionId": "question-1999128-5",
       "questionNumber": 5,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. First, trees remove carbon dioxide from the atmosphere and store carbon as they grow.b. I believe ending deforestation should be a major climate priority.c. Second, when forests are cut down or burnt, stored carbon is released into the atmosphere.d. For these two reasons, protecting forests can help slow global warming.e. There are two main reasons for this view.A. b - a - e - c - dB. e - b - a - c - dC. b - e - a - c - dD. b - e - c - a - d Write A, B, C, or D - {#1}",
       "answer": "c",
@@ -180,7 +180,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1996921-6",
+      "id": "question-1999128-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: thanks for warning me. i'll move it away from the dry grass.b. minh: watch out! i wouldn't light that campfire here if i were you.c. lan: why not? the ground looks clear to me.d. minh: the grass is very dry, so the fire could spread quickly and produce a lot of smoke.e. lan: i didn't know the risk was that high.a. b - d - c - e - ab. b - c - d - e - ac. c - b - d - a - ed. b - c - e - d - a write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Thanks for warning me. I'll move it away from the dry grass.b. Minh: Watch out! I wouldn't light that campfire here if I were you.c. Lan: Why not? The ground looks clear to me.d. Minh: The grass is very dry, so the fire could spread quickly and produce a lot of smoke.e. Lan: I didn't know the risk was that high.A. b - d - c - e - aB. b - c - d - e - aC. c - b - d - a - eD. b - c - e - d - a Write A, B, C, or D - {#1}",
       "options": [
@@ -193,7 +193,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1996921-6",
+      "questionId": "question-1999128-6",
       "questionNumber": 6,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Thanks for warning me. I'll move it away from the dry grass.b. Minh: Watch out! I wouldn't light that campfire here if I were you.c. Lan: Why not? The ground looks clear to me.d. Minh: The grass is very dry, so the fire could spread quickly and produce a lot of smoke.e. Lan: I didn't know the risk was that high.A. b - d - c - e - aB. b - c - d - e - aC. c - b - d - a - eD. b - c - e - d - a Write A, B, C, or D - {#1}",
       "answer": "b",
@@ -203,7 +203,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1996921-7",
+      "id": "question-1999128-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. because of this warming effect, a cleaner alternative is to switch to renewable energy where possible.b. burning these fuels in simple stoves can release soot.c. many families use solid fuels such as coal or wood for heating.d. containing black carbon, this soot can contribute to global warming.e. for this reason, a climate leaflet may end with the call: \"choose cleaner heat today!\"a. c - b - a - d - eb. b - c - d - a - ec. c - d - b - a - ed. c - b - d - a - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Because of this warming effect, a cleaner alternative is to switch to renewable energy where possible.b. Burning these fuels in simple stoves can release soot.c. Many families use solid fuels such as coal or wood for heating.d. Containing black carbon, this soot can contribute to global warming.e. For this reason, a climate leaflet may end with the call: “Choose cleaner heat today!”A. c - b - a - d - eB. b - c - d - a - eC. c - d - b - a - eD. c - b - d - a - e Write A, B, C, or D - {#1}",
       "options": [
@@ -216,7 +216,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1996921-7",
+      "questionId": "question-1999128-7",
       "questionNumber": 7,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Because of this warming effect, a cleaner alternative is to switch to renewable energy where possible.b. Burning these fuels in simple stoves can release soot.c. Many families use solid fuels such as coal or wood for heating.d. Containing black carbon, this soot can contribute to global warming.e. For this reason, a climate leaflet may end with the call: \"Choose cleaner heat today!\"A. c - b - a - d - eB. b - c - d - a - eC. c - d - b - a - eD. c - b - d - a - e Write A, B, C, or D - {#1}",
       "answer": "d",
@@ -226,7 +226,7 @@
       "rightAnswer": ""
     },
     {
-      "id": "question-1996921-8",
+      "id": "question-1999128-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. among the habits reported by this majority were cycling more often and using less electricity at home.b. our class interviewed 30 local residents about activities they had changed to reduce their climate impact.c. most respondents said they had changed at least one daily habit.d. because both actions can reduce fossil-fuel use, respondents believed the changes could lower emissions.e. overall, the survey suggested that small daily choices were one way local people were trying to limit global warming.a. b - a - c - d - eb. c - b - a - d - ec. b - c - d - a - ed. b - c - a - d - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Among the habits reported by this majority were cycling more often and using less electricity at home.b. Our class interviewed 30 local residents about activities they had changed to reduce their climate impact.c. Most respondents said they had changed at least one daily habit.d. Because both actions can reduce fossil-fuel use, respondents believed the changes could lower emissions.e. Overall, the survey suggested that small daily choices were one way local people were trying to limit global warming.A. b - a - c - d - eB. c - b - a - d - eC. b - c - d - a - eD. b - c - a - d - e Write A, B, C, or D - {#1}",
       "options": [
@@ -239,7 +239,7 @@
         }
       ],
       "selects": [],
-      "questionId": "question-1996921-8",
+      "questionId": "question-1999128-8",
       "questionNumber": 8,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Among the habits reported by this majority were cycling more often and using less electricity at home.b. Our class interviewed 30 local residents about activities they had changed to reduce their climate impact.c. Most respondents said they had changed at least one daily habit.d. Because both actions can reduce fossil-fuel use, respondents believed the changes could lower emissions.e. Overall, the survey suggested that small daily choices were one way local people were trying to limit global warming.A. b - a - c - d - eB. c - b - a - d - eC. b - c - d - a - eD. b - c - a - d - e Write A, B, C, or D - {#1}",
       "answer": "d",
@@ -328,7 +328,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1999128-3",
+      "id": "question-1999371-3",
       "inputs": [
         {
           "index": 0,
@@ -355,7 +355,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A DIFFERENT WAY TO HANDLE CROP WASTE After each harvest, some farmers burned dry crop waste in open fields because it was quick. (13) ______. The smoke contained soot, including black carbon, and also made the air unpleasant to breathe. Local agricultural officers organised a short information session. They explained that (14) ______. Instead of burning waste, several farmers began collecting plant material for other uses. (15) ______, the dry material could be stored until it was reused instead of being burned. Farmers also discussed whether cleaner energy could replace some uses of solid fuels on farms. (16) ______. By reducing open burning, the area aimed to lower soot emissions while keeping useful material out of fires. (17) ______. Question 13.A. The practice had no connection with air pollution or warming.B. However, this method also sent soot and other pollutants into the air.C. Renewable energy was produced directly by all the dry crop waste.D. The farmers therefore decided to burn even more waste after harvest.Write A, B, C, or D - {#1} Question 14.A. trapping sunlight and releasing it as heat, black carbon can warm the atmosphereB. black carbon is harmless once smoke has left the fieldC. methane is produced only when coal is burned for energyD. renewable energy always creates large amounts of black carbonWrite A, B, C, or D - {#2} Question 15.A. Collecting after harvestB. Collected after harvestC. Collect after harvestD. To collect after harvestWrite A, B, C, or D - {#3} Question 16.A. This meant that crop waste had become a type of fossil fuel.B. The officers concluded that renewable energy produced more soot.C. This widened the discussion from crop-waste burning to another source of warming emissions.D. As a result, all farm work could immediately continue without using energy.Write A, B, C, or D - {#4} Question 17.A. Farmers learned that all agricultural waste should instead be burned indoors.B. The area therefore no longer needed to think about greenhouse gases.C. The change addressed one clear source of warming pollution, although it did not solve every climate problem.D. Black carbon had become a useful source of renewable energy for farms.Write A, B, C, or D - {#5}",
-      "questionId": "question-1999128-3",
+      "questionId": "question-1999371-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a different way to handle crop waste after each harvest, some farmers burned dry crop waste in open fields because it was quick. (13) ______. the smoke contained soot, including black carbon, and also made the air unpleasant to breathe. local agricultural officers organised a short information session. they explained that (14) ______. instead of burning waste, several farmers began collecting plant material for other uses. (15) ______, the dry material could be stored until it was reused instead of being burned. farmers also discussed whether cleaner energy could replace some uses of solid fuels on farms. (16) ______. by reducing open burning, the area aimed to lower soot emissions while keeping useful material out of fires. (17) ______. question 13.a. the practice had no connection with air pollution or warming.b. however, this method also sent soot and other pollutants into the air.c. renewable energy was produced directly by all the dry crop waste.d. the farmers therefore decided to burn even more waste after harvest.write a, b, c, or d - {#1} question 14.a. trapping sunlight and releasing it as heat, black carbon can warm the atmosphereb. black carbon is harmless once smoke has left the fieldc. methane is produced only when coal is burned for energyd. renewable energy always creates large amounts of black carbonwrite a, b, c, or d - {#2} question 15.a. collecting after harvestb. collected after harvestc. collect after harvestd. to collect after harvestwrite a, b, c, or d - {#3} question 16.a. this meant that crop waste had become a type of fossil fuel.b. the officers concluded that renewable energy produced more soot.c. this widened the discussion from crop-waste burning to another source of warming emissions.d. as a result, all farm work could immediately continue without using energy.write a, b, c, or d - {#4} question 17.a. farmers learned that all agricultural waste should instead be burned indoors.b. the area therefore no longer needed to think about greenhouse gases.c. the change addressed one clear source of warming pollution, although it did not solve every climate problem.d. black carbon had become a useful source of renewable energy for farms.write a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -363,7 +363,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1999128-4",
+      "id": "question-1999371-4",
       "inputs": [
         {
           "index": 0,
@@ -374,7 +374,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. Because of this heat-trapping effect, more heat remains in the atmosphere instead of escaping into space.b. When fossil fuels are burned, they release greenhouse gases into the atmosphere.c. This additional heat contributes to a rise in the earth's temperature.d. These gases trap some of the heat that would otherwise escape.e. For this reason, reducing fossil-fuel use can help limit global warming.A. b - a - d - c - eB. d - b - a - c - eC. b - d - c - a - eD. b - d - a - c - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1999128-4",
+      "questionId": "question-1999371-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. because of this heat-trapping effect, more heat remains in the atmosphere instead of escaping into space.b. when fossil fuels are burned, they release greenhouse gases into the atmosphere.c. this additional heat contributes to a rise in the earth's temperature.d. these gases trap some of the heat that would otherwise escape.e. for this reason, reducing fossil-fuel use can help limit global warming.a. b - a - d - c - eb. d - b - a - c - ec. b - d - c - a - ed. b - d - a - c - e write a, b, c, or d - {#1}",
       "questionNumber": 4,
       "selects": [],
@@ -382,7 +382,7 @@
     },
     {
       "answer": "c",
-      "id": "question-1999128-5",
+      "id": "question-1999371-5",
       "inputs": [
         {
           "index": 0,
@@ -393,7 +393,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. First, trees remove carbon dioxide from the atmosphere and store carbon as they grow.b. I believe ending deforestation should be a major climate priority.c. Second, when forests are cut down or burnt, stored carbon is released into the atmosphere.d. For these two reasons, protecting forests can help slow global warming.e. There are two main reasons for this view.A. b - a - e - c - dB. e - b - a - c - dC. b - e - a - c - dD. b - e - c - a - d Write A, B, C, or D - {#1}",
-      "questionId": "question-1999128-5",
+      "questionId": "question-1999371-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. first, trees remove carbon dioxide from the atmosphere and store carbon as they grow.b. i believe ending deforestation should be a major climate priority.c. second, when forests are cut down or burnt, stored carbon is released into the atmosphere.d. for these two reasons, protecting forests can help slow global warming.e. there are two main reasons for this view.a. b - a - e - c - db. e - b - a - c - dc. b - e - a - c - dd. b - e - c - a - d write a, b, c, or d - {#1}",
       "questionNumber": 5,
       "selects": [],
@@ -401,7 +401,7 @@
     },
     {
       "answer": "b",
-      "id": "question-1999128-6",
+      "id": "question-1999371-6",
       "inputs": [
         {
           "index": 0,
@@ -412,7 +412,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. Lan: Thanks for warning me. I'll move it away from the dry grass.b. Minh: Watch out! I wouldn't light that campfire here if I were you.c. Lan: Why not? The ground looks clear to me.d. Minh: The grass is very dry, so the fire could spread quickly and produce a lot of smoke.e. Lan: I didn't know the risk was that high.A. b - d - c - e - aB. b - c - d - e - aC. c - b - d - a - eD. b - c - e - d - a Write A, B, C, or D - {#1}",
-      "questionId": "question-1999128-6",
+      "questionId": "question-1999371-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. lan: thanks for warning me. i'll move it away from the dry grass.b. minh: watch out! i wouldn't light that campfire here if i were you.c. lan: why not? the ground looks clear to me.d. minh: the grass is very dry, so the fire could spread quickly and produce a lot of smoke.e. lan: i didn't know the risk was that high.a. b - d - c - e - ab. b - c - d - e - ac. c - b - d - a - ed. b - c - e - d - a write a, b, c, or d - {#1}",
       "questionNumber": 6,
       "selects": [],
@@ -420,7 +420,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1999128-7",
+      "id": "question-1999371-7",
       "inputs": [
         {
           "index": 0,
@@ -431,7 +431,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. Because of this warming effect, a cleaner alternative is to switch to renewable energy where possible.b. Burning these fuels in simple stoves can release soot.c. Many families use solid fuels such as coal or wood for heating.d. Containing black carbon, this soot can contribute to global warming.e. For this reason, a climate leaflet may end with the call: \"Choose cleaner heat today!\"A. c - b - a - d - eB. b - c - d - a - eC. c - d - b - a - eD. c - b - d - a - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1999128-7",
+      "questionId": "question-1999371-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. because of this warming effect, a cleaner alternative is to switch to renewable energy where possible.b. burning these fuels in simple stoves can release soot.c. many families use solid fuels such as coal or wood for heating.d. containing black carbon, this soot can contribute to global warming.e. for this reason, a climate leaflet may end with the call: \"choose cleaner heat today!\"a. c - b - a - d - eb. b - c - d - a - ec. c - d - b - a - ed. c - b - d - a - e write a, b, c, or d - {#1}",
       "questionNumber": 7,
       "selects": [],
@@ -439,7 +439,7 @@
     },
     {
       "answer": "d",
-      "id": "question-1999128-8",
+      "id": "question-1999371-8",
       "inputs": [
         {
           "index": 0,
@@ -450,7 +450,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. Among the habits reported by this majority were cycling more often and using less electricity at home.b. Our class interviewed 30 local residents about activities they had changed to reduce their climate impact.c. Most respondents said they had changed at least one daily habit.d. Because both actions can reduce fossil-fuel use, respondents believed the changes could lower emissions.e. Overall, the survey suggested that small daily choices were one way local people were trying to limit global warming.A. b - a - c - d - eB. c - b - a - d - eC. b - c - d - a - eD. b - c - a - d - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1999128-8",
+      "questionId": "question-1999371-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. among the habits reported by this majority were cycling more often and using less electricity at home.b. our class interviewed 30 local residents about activities they had changed to reduce their climate impact.c. most respondents said they had changed at least one daily habit.d. because both actions can reduce fossil-fuel use, respondents believed the changes could lower emissions.e. overall, the survey suggested that small daily choices were one way local people were trying to limit global warming.a. b - a - c - d - eb. c - b - a - d - ec. b - c - d - a - ed. b - c - a - d - e write a, b, c, or d - {#1}",
       "questionNumber": 8,
       "selects": [],
@@ -614,6 +614,168 @@
         {
           "index": 5,
           "value": "B. consequence"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "A. Used",
+      "id": "question-1999128-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. cleaner cooking at homey some households still use coal or wood in simple stoves. (1) {#1} for cooking or heating, these solid fuels can release soot and other pollutants. the tiny black particles in soot include black carbon. (2) {#2} sunlight and releasing it as heat, black carbon has a strong warming effect. families can reduce these (3) {#3} by using cleaner fuels or electricity from renewable sources. before buying a new stove, check whether it can use energy (4) {#4} and safely. switching away from solid fuels can also improve indoor air quality. (5) {#5}, one change can benefit both the climate and people's health. if your family is planning to replace an old stove, compare the available options and choose the one with the lowest environmental (6) {#6}.",
+      "letter": "",
+      "options": [
+        "A. Used"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. CLEANER COOKING AT HOMEY Some households still use coal or wood in simple stoves. (1) [Blank 1] for cooking or heating, these solid fuels can release soot and other pollutants. The tiny black particles in soot include black carbon. (2) [Blank 2] sunlight and releasing it as heat, black carbon has a strong warming effect. Families can reduce these (3) [Blank 3] by using cleaner fuels or electricity from renewable sources. Before buying a new stove, check whether it can use energy (4) [Blank 4] and safely. Switching away from solid fuels can also improve indoor air quality. (5) [Blank 5] , one change can benefit both the climate and people's health. If your family is planning to replace an old stove, compare the available options and choose the one with the lowest environmental (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.UsedB.UseC.To useD.UsingÔ (2):A.TrappingB.TrapC.TrappedD.To trapÔ (3):A.sourcesB.impactsC.fuelsD.emissionsÔ (4):A.efficienciesB.efficientC.efficientlyD.efficiencyÔ (5):A.In this wayB.HoweverC.For exampleD.OtherwiseÔ (6):A.impactB.emissionC.sourceD.balance",
+      "questionId": "question-1999128-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. cleaner cooking at homey some households still use coal or wood in simple stoves. (1) for cooking or heating, these solid fuels can release soot and other pollutants. the tiny black particles in soot include black carbon. (2) sunlight and releasing it as heat, black carbon has a strong warming effect. families can reduce these (3) by using cleaner fuels or electricity from renewable sources. before buying a new stove, check whether it can use energy (4) and safely. switching away from solid fuels can also improve indoor air quality. (5) , one change can benefit both the climate and people's health. if your family is planning to replace an old stove, compare the available options and choose the one with the lowest environmental (6) .📋bảng lựa chọn các ô trống (cloze options):ô (1):a.usedb.usec.to used.usingô (2):a.trappingb.trapc.trappedd.to trapô (3):a.sourcesb.impactsc.fuelsd.emissionsô (4):a.efficienciesb.efficientc.efficientlyd.efficiencyô (5):a.in this wayb.howeverc.for exampled.otherwiseô (6):a.impactb.emissionc.sourced.balance",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "A. Used"
+        },
+        {
+          "index": 1,
+          "value": "A. Trapping"
+        },
+        {
+          "index": 2,
+          "value": "D. emissions"
+        },
+        {
+          "index": 3,
+          "value": "C. efficiently"
+        },
+        {
+          "index": 4,
+          "value": "A. In this way"
+        },
+        {
+          "index": 5,
+          "value": "A. impact"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. Burning",
+      "id": "question-1999128-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. climate discussion workshop during the workshop, students will compare several activities that contribute to global warming. (7) {#1} fossil fuels for energy, power stations and factories release carbon dioxide into the atmosphere. a second group will look at methane produced by farm animals. (8) {#2} into the atmosphere, this greenhouse gas traps heat and contributes to global warming. students will then discuss which changes could reduce emissions. one option is to switch from coal to (9) {#3} sources of energy. when giving an opinion, each speaker should state the main point first and then (10) {#4} the reasons clearly. (11) {#5}, groups will report the action they believe should receive the most attention. the aim is not simply to list environmental problems but to connect each human activity with its climate (12) {#6}.",
+      "letter": "",
+      "options": [
+        "C. Burning"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. CLIMATE DISCUSSION WORKSHOP During the workshop, students will compare several activities that contribute to global warming. (7) [Blank 7] fossil fuels for energy, power stations and factories release carbon dioxide into the atmosphere. A second group will look at methane produced by farm animals. (8) [Blank 8] into the atmosphere, this greenhouse gas traps heat and contributes to global warming. Students will then discuss which changes could reduce emissions. One option is to switch from coal to (9) [Blank 9] sources of energy. When giving an opinion, each speaker should state the main point first and then (10) [Blank 10] the reasons clearly. (11) [Blank 11] , groups will report the action they believe should receive the most attention. The aim is not simply to list environmental problems but to connect each human activity with its climate (12) [Blank 12] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.To burnB.BurntC.BurningD.BurnÔ (8):A.ReleaseB.ReleasedC.To releaseD.ReleasingÔ (9):A.pollutedB.warmingC.releasedD.renewableÔ (10):A.explainB.reduceC.switchD.trapÔ (11):A.HoweverB.FinallyC.For exampleD.OtherwiseÔ (12):A.sourceB.consequenceC.balanceD.emission",
+      "questionId": "question-1999128-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. climate discussion workshop during the workshop, students will compare several activities that contribute to global warming. (7) fossil fuels for energy, power stations and factories release carbon dioxide into the atmosphere. a second group will look at methane produced by farm animals. (8) into the atmosphere, this greenhouse gas traps heat and contributes to global warming. students will then discuss which changes could reduce emissions. one option is to switch from coal to (9) sources of energy. when giving an opinion, each speaker should state the main point first and then (10) the reasons clearly. (11) , groups will report the action they believe should receive the most attention. the aim is not simply to list environmental problems but to connect each human activity with its climate (12) .📋bảng lựa chọn các ô trống (cloze options):ô (7):a.to burnb.burntc.burningd.burnô (8):a.releaseb.releasedc.to released.releasingô (9):a.pollutedb.warmingc.releasedd.renewableô (10):a.explainb.reducec.switchd.trapô (11):a.howeverb.finallyc.for exampled.otherwiseô (12):a.sourceb.consequencec.balanced.emission",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. Burning"
+        },
+        {
+          "index": 1,
+          "value": "B. Released"
+        },
+        {
+          "index": 2,
+          "value": "D. renewable"
+        },
+        {
+          "index": 3,
+          "value": "A. explain"
+        },
+        {
+          "index": 4,
+          "value": "B. Finally"
+        },
+        {
+          "index": 5,
+          "value": "B. consequence"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. Used",
+      "id": "question-1999371-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. cleaner cooking at homey some households still use coal or wood in simple stoves. (1) {#1} for cooking or heating, these solid fuels can release soot and other pollutants. the tiny black particles in soot include black carbon. (2) {#2} sunlight and releasing it as heat, black carbon has a strong warming effect. families can reduce these (3) {#3} by using cleaner fuels or electricity from renewable sources. before buying a new stove, check whether it can use energy (4) {#4} and safely. switching away from solid fuels can also improve indoor air quality. (5) {#5}, one change can benefit both the climate and people's health. if your family is planning to replace an old stove, compare the available options and choose the one with the lowest environmental (6) {#6}.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. CLEANER COOKING AT HOMEY Some households still use coal or wood in simple stoves. (1) [Blank 1] for cooking or heating, these solid fuels can release soot and other pollutants. The tiny black particles in soot include black carbon. (2) [Blank 2] sunlight and releasing it as heat, black carbon has a strong warming effect. Families can reduce these (3) [Blank 3] by using cleaner fuels or electricity from renewable sources. Before buying a new stove, check whether it can use energy (4) [Blank 4] and safely. Switching away from solid fuels can also improve indoor air quality. (5) [Blank 5] , one change can benefit both the climate and people's health. If your family is planning to replace an old stove, compare the available options and choose the one with the lowest environmental (6) [Blank 6] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.UseB.UsedC.UsingD.To useÔ (2):A.TrappingB.To trapC.TrapD.TrappedÔ (3):A.impactsB.fuelsC.emissionsD.sourcesÔ (4):A.efficiencyB.efficientC.efficienciesD.efficientlyÔ (5):A.HoweverB.In this wayC.OtherwiseD.For exampleÔ (6):A.balanceB.emissionC.sourceD.impact",
+      "questionId": "question-1999371-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. cleaner cooking at homey some households still use coal or wood in simple stoves. (1) [blank 1] for cooking or heating, these solid fuels can release soot and other pollutants. the tiny black particles in soot include black carbon. (2) [blank 2] sunlight and releasing it as heat, black carbon has a strong warming effect. families can reduce these (3) [blank 3] by using cleaner fuels or electricity from renewable sources. before buying a new stove, check whether it can use energy (4) [blank 4] and safely. switching away from solid fuels can also improve indoor air quality. (5) [blank 5] , one change can benefit both the climate and people's health. if your family is planning to replace an old stove, compare the available options and choose the one with the lowest environmental (6) [blank 6] .📋bảng lựa chọn các ô trống (cloze options):ô (1):a.useb.usedc.usingd.to useô (2):a.trappingb.to trapc.trapd.trappedô (3):a.impactsb.fuelsc.emissionsd.sourcesô (4):a.efficiencyb.efficientc.efficienciesd.efficientlyô (5):a.howeverb.in this wayc.otherwised.for exampleô (6):a.balanceb.emissionc.sourced.impact",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "B. Used"
+        },
+        {
+          "index": 1,
+          "value": "A. Trapping"
+        },
+        {
+          "index": 2,
+          "value": "C. emissions"
+        },
+        {
+          "index": 3,
+          "value": "D. efficiently"
+        },
+        {
+          "index": 4,
+          "value": "B. In this way"
+        },
+        {
+          "index": 5,
+          "value": "D. impact"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. Burning",
+      "id": "question-1999371-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. climate discussion workshop during the workshop, students will compare several activities that contribute to global warming. (7) {#1} fossil fuels for energy, power stations and factories release carbon dioxide into the atmosphere. a second group will look at methane produced by farm animals. (8) {#2} into the atmosphere, this greenhouse gas traps heat and contributes to global warming. students will then discuss which changes could reduce emissions. one option is to switch from coal to (9) {#3} sources of energy. when giving an opinion, each speaker should state the main point first and then (10) {#4} the reasons clearly. (11) {#5}, groups will report the action they believe should receive the most attention. the aim is not simply to list environmental problems but to connect each human activity with its climate (12) {#6}.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. CLIMATE DISCUSSION WORKSHOP During the workshop, students will compare several activities that contribute to global warming. (7) [Blank 7] fossil fuels for energy, power stations and factories release carbon dioxide into the atmosphere. A second group will look at methane produced by farm animals. (8) [Blank 8] into the atmosphere, this greenhouse gas traps heat and contributes to global warming. Students will then discuss which changes could reduce emissions. One option is to switch from coal to (9) [Blank 9] sources of energy. When giving an opinion, each speaker should state the main point first and then (10) [Blank 10] the reasons clearly. (11) [Blank 11] , groups will report the action they believe should receive the most attention. The aim is not simply to list environmental problems but to connect each human activity with its climate (12) [Blank 12] .📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.To burnB.BurnC.BurntD.BurningÔ (8):A.ReleasedB.ReleasingC.To releaseD.ReleaseÔ (9):A.warmingB.pollutedC.renewableD.releasedÔ (10):A.switchB.explainC.trapD.reduceÔ (11):A.HoweverB.OtherwiseC.FinallyD.For exampleÔ (12):A.emissionB.sourceC.balanceD.consequence",
+      "questionId": "question-1999371-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. climate discussion workshop during the workshop, students will compare several activities that contribute to global warming. (7) [blank 7] fossil fuels for energy, power stations and factories release carbon dioxide into the atmosphere. a second group will look at methane produced by farm animals. (8) [blank 8] into the atmosphere, this greenhouse gas traps heat and contributes to global warming. students will then discuss which changes could reduce emissions. one option is to switch from coal to (9) [blank 9] sources of energy. when giving an opinion, each speaker should state the main point first and then (10) [blank 10] the reasons clearly. (11) [blank 11] , groups will report the action they believe should receive the most attention. the aim is not simply to list environmental problems but to connect each human activity with its climate (12) [blank 12] .📋bảng lựa chọn các ô trống (cloze options):ô (7):a.to burnb.burnc.burntd.burningô (8):a.releasedb.releasingc.to released.releaseô (9):a.warmingb.pollutedc.renewabled.releasedô (10):a.switchb.explainc.trapd.reduceô (11):a.howeverb.otherwisec.finallyd.for exampleô (12):a.emissionb.sourcec.balanced.consequence",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. Burning"
+        },
+        {
+          "index": 1,
+          "value": "A. Released"
+        },
+        {
+          "index": 2,
+          "value": "C. renewable"
+        },
+        {
+          "index": 3,
+          "value": "B. explain"
+        },
+        {
+          "index": 4,
+          "value": "C. Finally"
+        },
+        {
+          "index": 5,
+          "value": "D. consequence"
         }
       ],
       "rightAnswer": ""
