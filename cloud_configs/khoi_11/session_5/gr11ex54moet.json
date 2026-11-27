@@ -15,7 +15,7 @@
     "score": "100.00 trên 100.00",
     "score_pct": 100,
     "question_count": 23,
-    "updated_at": "2026-11-27 20:07:35"
+    "updated_at": "2026-11-27 20:11:59"
   },
   "answers": [
     {
@@ -30,41 +30,14 @@
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review",
-      "options": [
-        ""
-      ],
+      "options": [],
       "is_checkbox": false,
       "inputs": [],
       "selects": [
         {
-          "index": 0,
-          "value": "warming",
-          "isCorrect": false
-        },
-        {
           "index": 1,
           "value": "Managing",
           "isCorrect": true
-        },
-        {
-          "index": 2,
-          "value": "Plant",
-          "isCorrect": false
-        },
-        {
-          "index": 3,
-          "value": "fewer",
-          "isCorrect": false
-        },
-        {
-          "index": 4,
-          "value": "For example",
-          "isCorrect": false
-        },
-        {
-          "index": 5,
-          "value": "emission",
-          "isCorrect": false
         }
       ]
     },
@@ -80,41 +53,14 @@
       "rightAnswer": "",
       "verified_100": true,
       "source": "silent_review",
-      "options": [
-        ""
-      ],
+      "options": [],
       "is_checkbox": false,
       "inputs": [],
       "selects": [
         {
-          "index": 0,
-          "value": "Burn",
-          "isCorrect": false
-        },
-        {
-          "index": 1,
-          "value": "polluted",
-          "isCorrect": false
-        },
-        {
           "index": 2,
           "value": "emissions",
           "isCorrect": true
-        },
-        {
-          "index": 3,
-          "value": "release",
-          "isCorrect": false
-        },
-        {
-          "index": 4,
-          "value": "However",
-          "isCorrect": false
-        },
-        {
-          "index": 5,
-          "value": "source",
-          "isCorrect": false
         }
       ]
     },
