@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "account_name": "Student_Mobile",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+    "class_key": "khoi_11",
+    "grade_num": "11",
+    "unit_name": "SESSION 4_EXERCISES 34-48",
+    "unit_key": "session_4_exercises_34_48",
+    "quiz_title": "GR11EX35MOET",
+    "quiz_key": "gr11ex35moet",
+    "cmid": "742992",
+    "course_id": "11364",
+    "repo_path": "cloud_configs\/khoi_11\/session_4_exercises_34_48\/gr11ex35moet.json",
+    "score": "1.00",
+    "score_pct": 100,
+    "question_count": 20,
+    "updated_at": "2026-11-27 20:54:01"
+  },
+  "answers": [
+    {
+      "id": "question-1919625-1",
+      "questionId": "question-1919625-1",
+      "questionNumber": 1,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The students shared songs and customs during a ________ exchange designed to help them learn about one another's traditions.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the students shared songs and customs during a ________ exchange designed to help them learn about one another's traditions.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the students shared songs and customs during a ________ exchange designed to help them learn about one another's traditions.",
+      "letter": "D",
+      "answer": "cultural",
+      "options": [
+        "cultural"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "cultural"
+    },
+    {
+      "id": "question-1919625-2",
+      "questionId": "question-1919625-2",
+      "questionNumber": 2,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the discussion focuses on ________ issues affecting young people today, rather than problems from earlier historical periods.",
+      "letter": "A",
+      "answer": "current",
+      "options": [
+        "current"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "current"
+    },
+    {
+      "id": "question-1919625-6",
+      "questionId": "question-1919625-6",
+      "questionNumber": 3,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Students interested in financial support can apply ________ ASEAN scholarships when suitable opportunities are advertised.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.students interested in financial support can apply ________ asean scholarships when suitable opportunities are advertised.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.students interested in financial support can apply ________ asean scholarships when suitable opportunities are advertised.",
+      "letter": "A",
+      "answer": "for",
+      "options": [
+        "for"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "for"
+    },
+    {
+      "id": "question-1919625-3",
+      "questionId": "question-1919625-3",
+      "questionNumber": 4,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the workshop develops ________ skills through tasks that require students to guide a team and coordinate its work.",
+      "letter": "B",
+      "answer": "leadership",
+      "options": [
+        "leadership"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "leadership"
+    },
+    {
+      "id": "question-1919625-5",
+      "questionId": "question-1919625-5",
+      "questionNumber": 5,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Young volunteers can ________ a useful contribution to community development through practical projects.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.young volunteers can ________ a useful contribution to community development through practical projects.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.young volunteers can ________ a useful contribution to community development through practical projects.",
+      "letter": "D",
+      "answer": "make",
+      "options": [
+        "make"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "make"
+    },
+    {
+      "id": "question-1919625-9",
+      "questionId": "question-1919625-9",
+      "questionNumber": 6,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Several students want to take part ________ the welcome event and help the visiting students.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.several students want to take part ________ the welcome event and help the visiting students.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.several students want to take part ________ the welcome event and help the visiting students.",
+      "letter": "D",
+      "answer": "in",
+      "options": [
+        "in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "in"
+    },
+    {
+      "id": "question-1919625-8",
+      "questionId": "question-1919625-8",
+      "questionNumber": 7,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.The organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.the organisers will make ________ for the activities, including preparing materials and setting up the playing areas.",
+      "letter": "D",
+      "answer": "arrangements",
+      "options": [
+        "arrangements"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "arrangements"
+    },
+    {
+      "id": "question-1919625-7",
+      "questionId": "question-1919625-7",
+      "questionNumber": 8,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.During the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.during the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.during the discussion, participants should offer ________ to the issues by explaining how the problems could be addressed.",
+      "letter": "A",
+      "answer": "solutions",
+      "options": [
+        "solutions"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "solutions"
+    },
+    {
+      "id": "question-1919625-4",
+      "questionId": "question-1919625-4",
+      "questionNumber": 9,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.Respect and cooperation are examples of shared ________ that the groups consider important.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.respect and cooperation are examples of shared ________ that the groups consider important.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.respect and cooperation are examples of shared ________ that the groups consider important.",
+      "letter": "B",
+      "answer": "values",
+      "options": [
+        "values"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "values"
+    },
+    {
+      "id": "question-1919625-10",
+      "questionId": "question-1919625-10",
+      "questionNumber": 10,
+      "question": "Choose the option A, B, C, or D that best completes the natural phrase or collocation.To submit their completed proposals for consideration, the groups must ________ the documents by Friday.",
+      "questionKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.to submit their completed proposals for consideration, the groups must ________ the documents by friday.",
+      "legacyQKey": "choose the option a, b, c, or d that best completes the natural phrase or collocation.to submit their completed proposals for consideration, the groups must ________ the documents by friday.",
+      "letter": "D",
+      "answer": "send in",
+      "options": [
+        "send in"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "send in"
+    },
+    {
+      "id": "question-1919625-13",
+      "questionId": "question-1919625-13",
+      "questionNumber": 11,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Each ________ will introduce one cultural activity during the exchange.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.each ________ will introduce one cultural activity during the exchange.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.each ________ will introduce one cultural activity during the exchange.",
+      "letter": "D",
+      "answer": "participant",
+      "options": [
+        "participant"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "participant"
+    },
+    {
+      "id": "question-1919625-18",
+      "questionId": "question-1919625-18",
+      "questionNumber": 12,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The group selected a ________ to explain its proposal to the teacher.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.the group selected a ________ to explain its proposal to the teacher.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the group selected a ________ to explain its proposal to the teacher.",
+      "letter": "D",
+      "answer": "representative",
+      "options": [
+        "representative"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "representative"
+    },
+    {
+      "id": "question-1919625-15",
+      "questionId": "question-1919625-15",
+      "questionNumber": 13,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The exchange includes ________ activities such as sharing songs and discussing customs.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.the exchange includes ________ activities such as sharing songs and discussing customs.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the exchange includes ________ activities such as sharing songs and discussing customs.",
+      "letter": "C",
+      "answer": "cultural",
+      "options": [
+        "cultural"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "cultural"
+    },
+    {
+      "id": "question-1919625-14",
+      "questionId": "question-1919625-14",
+      "questionNumber": 14,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The school needs a ________ trainer who has suitable preparation and experience.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.the school needs a ________ trainer who has suitable preparation and experience.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the school needs a ________ trainer who has suitable preparation and experience.",
+      "letter": "B",
+      "answer": "qualified",
+      "options": [
+        "qualified"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "qualified"
+    },
+    {
+      "id": "question-1919625-12",
+      "questionId": "question-1919625-12",
+      "questionNumber": 15,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The community project supports the ________ of useful practical skills among young volunteers.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.the community project supports the ________ of useful practical skills among young volunteers.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the community project supports the ________ of useful practical skills among young volunteers.",
+      "letter": "B",
+      "answer": "development",
+      "options": [
+        "development"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "development"
+    },
+    {
+      "id": "question-1919625-16",
+      "questionId": "question-1919625-16",
+      "questionNumber": 16,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The visitors will learn the rules of several ________ games before joining the festival.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.the visitors will learn the rules of several ________ games before joining the festival.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the visitors will learn the rules of several ________ games before joining the festival.",
+      "letter": "B",
+      "answer": "traditional",
+      "options": [
+        "traditional"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "traditional"
+    },
+    {
+      "id": "question-1919625-17",
+      "questionId": "question-1919625-17",
+      "questionNumber": 17,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.After discussing the schedule, the organisers reached an ________ about the starting time.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.after discussing the schedule, the organisers reached an ________ about the starting time.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.after discussing the schedule, the organisers reached an ________ about the starting time.",
+      "letter": "B",
+      "answer": "agreement",
+      "options": [
+        "agreement"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "agreement"
+    },
+    {
+      "id": "question-1919625-20",
+      "questionId": "question-1919625-20",
+      "questionNumber": 18,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.In the country-research notes, the student recorded her ________ as Thai and listed her language separately.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.in the country-research notes, the student recorded her ________ as thai and listed her language separately.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.in the country-research notes, the student recorded her ________ as thai and listed her language separately.",
+      "letter": "D",
+      "answer": "nationality",
+      "options": [
+        "nationality"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "nationality"
+    },
+    {
+      "id": "question-1919625-19",
+      "questionId": "question-1919625-19",
+      "questionNumber": 19,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.The presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.the presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.the presentation distinguishes a ________ festival from a national public holiday, rather than assuming they are the same category.",
+      "letter": "C",
+      "answer": "religious",
+      "options": [
+        "religious"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "religious"
+    },
+    {
+      "id": "question-1919625-11",
+      "questionId": "question-1919625-11",
+      "questionNumber": 20,
+      "question": "Choose the option A, B, C, or D that gives the correct word form.Preparing the materials was Lan's main ________ to the welcome event.",
+      "questionKey": "choose the option a, b, c, or d that gives the correct word form.preparing the materials was lan's main ________ to the welcome event.",
+      "legacyQKey": "choose the option a, b, c, or d that gives the correct word form.preparing the materials was lan's main ________ to the welcome event.",
+      "letter": "B",
+      "answer": "contribution",
+      "options": [
+        "contribution"
+      ],
+      "inputs": [],
+      "selects": [],
+      "rightAnswer": "contribution"
+    }
+  ]
+}
