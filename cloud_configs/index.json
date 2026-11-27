@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 19:53:52",
+  "updated_at": "2026-11-27 19:55:14",
   "total_configs": 100,
   "configs": [
     {
@@ -1750,24 +1750,6 @@
     },
     {
       "account_name": "Student_Mobile",
-      "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 5",
-      "unit_key": "session_5",
-      "quiz_title": "GR11EX56MOET",
-      "quiz_key": "gr11ex56moet",
-      "cmid": "752944",
-      "course_id": "4775",
-      "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex56moet.json",
-      "score": "68.18 trên 100.00",
-      "score_pct": 100,
-      "question_count": 13,
-      "updated_at": "2026-11-27 19:16:58"
-    },
-    {
-      "account_name": "Student_Mobile",
       "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
       "class_key": "khoi_11",
@@ -1801,6 +1783,24 @@
       "score_pct": 100,
       "question_count": 16,
       "updated_at": "2026-11-27 19:53:52"
+    },
+    {
+      "account_name": "Student_Mobile",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 5",
+      "unit_key": "session_5",
+      "quiz_title": "GR11EX56MOET",
+      "quiz_key": "gr11ex56moet",
+      "cmid": "752936",
+      "course_id": "4775",
+      "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex56moet.json",
+      "score": "100.0%",
+      "score_pct": 100,
+      "question_count": 15,
+      "updated_at": "2026-11-27 19:55:14"
     }
   ]
 }
