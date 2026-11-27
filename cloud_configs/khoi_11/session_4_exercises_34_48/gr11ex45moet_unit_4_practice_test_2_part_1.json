@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Nguyễn Văn Phi Tiến",
+    "account_name": "Văn Thiên Kim",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -12,10 +12,10 @@
     "cmid": "745376",
     "course_id": "4775",
     "repo_path": "cloud_configs/khoi_11/session_4_exercises_34_48/gr11ex45moet_unit_4_practice_test_2_part_1.json",
-    "score": "22.00/22.00",
+    "score": "100.00 trên 100.00",
     "score_pct": 100.0,
-    "question_count": 44,
-    "updated_at": "2026-11-15 19:25:33"
+    "question_count": 68,
+    "updated_at": "2026-11-27 23:32:42"
   },
   "answers": [
     {
@@ -95,128 +95,168 @@
       "dragdrops": []
     },
     {
-      "id": "3",
+      "id": "question-1973066-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a regional student project students at five partner schools wanted exchange participants to contribute more actively instead of only attending presentations. (13) ______. before the event, each participant submitted one practical skill they could teach, such as planning a school event, making a short video, or organising a team task. organisers grouped similar suggestions and asked small teams to prepare 15-minute mini-workshops. (14) ______. on the day, each team ran its session for another group. the activity involved (15) ______ clear instructions and answering questions. after each session, participants wrote one useful idea they had learned from another team and one question they still had. (16) ______. because students both taught and learned, (17) ______. question 13.a. they therefore created a student skills exchange where participants taught one another practical skills.b. the schools therefore decided to replace all interactive activities with formal lectures.c. students were asked to prepare national history presentations and avoid group work.d. organisers concluded that participants should only observe activities led by teachers.write a, b, c, or d - question 14.a. this meant every team had to teach exactly the same skill.b. the organisers used these suggestions to cancel workshops that required teamwork.c. participants were told not to discuss their ideas with students from other schools.d. grouping related suggestions reduced repetition and helped students plan their workshops together.write a, b, c, or d - question 15.a. givingb. givec. gaved. to givingwrite a, b, c, or d - question 16.a. the notes were used mainly to rank teams from best to worst.b. students were told to keep their questions private after each workshop.c. organisers ended the exchange before participants could review the sessions.d. these short reflections helped participants notice which ideas they wanted to explore further.write a, b, c, or d - question 17.a. students felt that only the most experienced speakers had contributedb. participants concluded that teaching others was less useful than listeningc. many participants felt they had contributed knowledge while gaining new skillsd. the organisers decided future exchanges should remove student-led workshopswrite a, b, c, or d -",
       "questionRaw": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A REGIONAL STUDENT PROJECT Students at five partner schools wanted exchange participants to contribute more actively instead of only attending presentations. (13) ______. Before the event, each participant submitted one practical skill they could teach, such as planning a school event, making a short video, or organising a team task. Organisers grouped similar suggestions and asked small teams to prepare 15-minute mini-workshops. (14) ______. On the day, each team ran its session for another group. The activity involved (15) ______ clear instructions and answering questions. After each session, participants wrote one useful idea they had learned from another team and one question they still had. (16) ______. Because students both taught and learned, (17) ______. Question 13.A. They therefore created a Student Skills Exchange where participants taught one another practical skills.B. The schools therefore decided to replace all interactive activities with formal lectures.C. Students were asked to prepare national history presentations and avoid group work.D. Organisers concluded that participants should only observe activities led by teachers.Write A, B, C, or D - {#1} Question 14.A. This meant every team had to teach exactly the same skill.B. The organisers used these suggestions to cancel workshops that required teamwork.C. Participants were told not to discuss their ideas with students from other schools.D. Grouping related suggestions reduced repetition and helped students plan their workshops together.Write A, B, C, or D - {#2} Question 15.A. givingB. giveC. gaveD. to givingWrite A, B, C, or D - {#3} Question 16.A. The notes were used mainly to rank teams from best to worst.B. Students were told to keep their questions private after each workshop.C. Organisers ended the exchange before participants could review the sessions.D. These short reflections helped participants notice which ideas they wanted to explore further.Write A, B, C, or D - {#4} Question 17.A. students felt that only the most experienced speakers had contributedB. participants concluded that teaching others was less useful than listeningC. many participants felt they had contributed knowledge while gaining new skillsD. the organisers decided future exchanges should remove student-led workshopsWrite A, B, C, or D - {#5}",
-      "options": [],
+      "options": [
+        "a"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 3,
           "value": "a"
         },
         {
           "index": 1,
+          "questionNumber": 3,
           "value": "d"
         },
         {
           "index": 2,
+          "questionNumber": 3,
           "value": "a"
         },
         {
           "index": 3,
+          "questionNumber": 3,
           "value": "d"
         },
         {
           "index": 4,
+          "questionNumber": 3,
           "value": "c"
         }
       ],
       "selects": [],
-      "questionId": "3",
+      "questionId": "question-1973066-3",
       "questionNumber": 3,
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A REGIONAL STUDENT PROJECT Students at five partner schools wanted exchange participants to contribute more actively instead of only attending presentations. (13) ______. Before the event, each participant submitted one practical skill they could teach, such as planning a school event, making a short video, or organising a team task. Organisers grouped similar suggestions and asked small teams to prepare 15-minute mini-workshops. (14) ______. On the day, each team ran its session for another group. The activity involved (15) ______ clear instructions and answering questions. After each session, participants wrote one useful idea they had learned from another team and one question they still had. (16) ______. Because students both taught and learned, (17) ______. Question 13.A. They therefore created a Student Skills Exchange where participants taught one another practical skills.B. The schools therefore decided to replace all interactive activities with formal lectures.C. Students were asked to prepare national history presentations and avoid group work.D. Organisers concluded that participants should only observe activities led by teachers.Write A, B, C, or D - {#1} Question 14.A. This meant every team had to teach exactly the same skill.B. The organisers used these suggestions to cancel workshops that required teamwork.C. Participants were told not to discuss their ideas with students from other schools.D. Grouping related suggestions reduced repetition and helped students plan their workshops together.Write A, B, C, or D - {#2} Question 15.A. givingB. giveC. gaveD. to givingWrite A, B, C, or D - {#3} Question 16.A. The notes were used mainly to rank teams from best to worst.B. Students were told to keep their questions private after each workshop.C. Organisers ended the exchange before participants could review the sessions.D. These short reflections helped participants notice which ideas they wanted to explore further.Write A, B, C, or D - {#4} Question 17.A. students felt that only the most experienced speakers had contributedB. participants concluded that teaching others was less useful than listeningC. many participants felt they had contributed knowledge while gaining new skillsD. the organisers decided future exchanges should remove student-led workshopsWrite A, B, C, or D - {#5}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "a",
+      "dragdrops": [],
+      "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a regional student project students at five partner schools wanted exchange participants to contribute more actively instead of only attending presentations. (13) ______. before the event, each participant submitted one practical skill they could teach, such as planning a school event, making a short video, or organising a team task. organisers grouped similar suggestions and asked small teams to prepare 15-minute mini-workshops. (14) ______. on the day, each team ran its session for another group. the activity involved (15) ______ clear instructions and answering questions. after each session, participants wrote one useful idea they had learned from another team and one question they still had. (16) ______. because students both taught and learned, (17) ______. question 13.a. they therefore created a student skills exchange where participants taught one another practical skills.b. the schools therefore decided to replace all interactive activities with formal lectures.c. students were asked to prepare national history presentations and avoid group work.d. organisers concluded that participants should only observe activities led by teachers.write a, b, c, or d - {#1} question 14.a. this meant every team had to teach exactly the same skill.b. the organisers used these suggestions to cancel workshops that required teamwork.c. participants were told not to discuss their ideas with students from other schools.d. grouping related suggestions reduced repetition and helped students plan their workshops together.write a, b, c, or d - {#2} question 15.a. givingb. givec. gaved. to givingwrite a, b, c, or d - {#3} question 16.a. the notes were used mainly to rank teams from best to worst.b. students were told to keep their questions private after each workshop.c. organisers ended the exchange before participants could review the sessions.d. these short reflections helped participants notice which ideas they wanted to explore further.write a, b, c, or d - {#4} question 17.a. students felt that only the most experienced speakers had contributedb. participants concluded that teaching others was less useful than listeningc. many participants felt they had contributed knowledge while gaining new skillsd. the organisers decided future exchanges should remove student-led workshopswrite a, b, c, or d - {#5}",
+      "letter": "A",
+      "rightAnswer": ""
     },
     {
-      "id": "4",
+      "id": "question-1973066-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. these selected teams then joined two online coaching sessions to develop their ideas.b. the regional youth ideas challenge invited school teams to submit short plans for activities that could connect partner schools.c. at the final forum, each team explained its revised plan to students from other schools.d. after reviewing the submissions, organisers selected eight teams whose plans matched the programme goals.e. feedback from the coaching sessions helped the teams revise their original plans before the forum.a. b - a - d - e - cb. d - b - a - e - cc. b - d - a - e - cd. b - d - e - a - c write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. These selected teams then joined two online coaching sessions to develop their ideas.b. The Regional Youth Ideas Challenge invited school teams to submit short plans for activities that could connect partner schools.c. At the final forum, each team explained its revised plan to students from other schools.d. After reviewing the submissions, organisers selected eight teams whose plans matched the programme goals.e. Feedback from the coaching sessions helped the teams revise their original plans before the forum.A. b - a - d - e - cB. d - b - a - e - cC. b - d - a - e - cD. b - d - e - a - c Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 4,
           "value": "c"
         }
       ],
       "selects": [],
-      "questionId": "4",
+      "questionId": "question-1973066-4",
       "questionNumber": 4,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. These selected teams then joined two online coaching sessions to develop their ideas.b. The Regional Youth Ideas Challenge invited school teams to submit short plans for activities that could connect partner schools.c. At the final forum, each team explained its revised plan to students from other schools.d. After reviewing the submissions, organisers selected eight teams whose plans matched the programme goals.e. Feedback from the coaching sessions helped the teams revise their original plans before the forum.A. b - a - d - e - cB. d - b - a - e - cC. b - d - a - e - cD. b - d - e - a - c Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. these selected teams then joined two online coaching sessions to develop their ideas.b. the regional youth ideas challenge invited school teams to submit short plans for activities that could connect partner schools.c. at the final forum, each team explained its revised plan to students from other schools.d. after reviewing the submissions, organisers selected eight teams whose plans matched the programme goals.e. feedback from the coaching sessions helped the teams revise their original plans before the forum.a. b - a - d - e - cb. d - b - a - e - cc. b - d - a - e - cd. b - d - e - a - c write a, b, c, or d - {#1}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
-      "id": "5",
+      "id": "question-1973066-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. lan: i think the cultural evening should begin with short student performances.b. minh: i'm afraid i disagree. if performances come first, visitors may spend too long watching instead of meeting one another.c. lan: why do you think meeting one another should come first?d. minh: because a mixed-team activity would get people talking immediately.e. lan: that's convincing. what about starting with the team activity and moving the performances later?f. minh: i think that would work well.a. a - c - b - d - e - fb. a - b - c - d - e - fc. b - a - c - d - e - fd. a - b - d - c - e - f write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. Lan: I think the cultural evening should begin with short student performances.b. Minh: I'm afraid I disagree. If performances come first, visitors may spend too long watching instead of meeting one another.c. Lan: Why do you think meeting one another should come first?d. Minh: Because a mixed-team activity would get people talking immediately.e. Lan: That's convincing. What about starting with the team activity and moving the performances later?f. Minh: I think that would work well.A. a - c - b - d - e - fB. a - b - c - d - e - fC. b - a - c - d - e - fD. a - b - d - c - e - f Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 5,
           "value": "b"
         }
       ],
       "selects": [],
-      "questionId": "5",
+      "questionId": "question-1973066-5",
       "questionNumber": 5,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. Lan: I think the cultural evening should begin with short student performances.b. Minh: I'm afraid I disagree. If performances come first, visitors may spend too long watching instead of meeting one another.c. Lan: Why do you think meeting one another should come first?d. Minh: Because a mixed-team activity would get people talking immediately.e. Lan: That's convincing. What about starting with the team activity and moving the performances later?f. Minh: I think that would work well.A. a - c - b - d - e - fB. a - b - c - d - e - fC. b - a - c - d - e - fD. a - b - d - c - e - f Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. lan: i think the cultural evening should begin with short student performances.b. minh: i'm afraid i disagree. if performances come first, visitors may spend too long watching instead of meeting one another.c. lan: why do you think meeting one another should come first?d. minh: because a mixed-team activity would get people talking immediately.e. lan: that's convincing. what about starting with the team activity and moving the performances later?f. minh: i think that would work well.a. a - c - b - d - e - fb. a - b - c - d - e - fc. b - a - c - d - e - fd. a - b - d - c - e - f write a, b, c, or d - {#1}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
-      "id": "6",
+      "id": "question-1973066-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. an: were you the person who organised the welcome game for yesterday's exchange session?b. bao: yes. our team prepared it together.c. an: you did a really good job. everyone understood the instructions immediately.d. bao: thanks. i appreciate that.e. an: the activity also got students from different schools talking very quickly.f. bao: i'm glad you noticed. that was exactly what we hoped for.a. a - c - b - d - e - fb. a - b - c - d - e - fc. b - a - c - d - e - fd. a - b - e - f - c - d write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. An: Were you the person who organised the welcome game for yesterday's exchange session?b. Bao: Yes. Our team prepared it together.c. An: You did a really good job. Everyone understood the instructions immediately.d. Bao: Thanks. I appreciate that.e. An: The activity also got students from different schools talking very quickly.f. Bao: I'm glad you noticed. That was exactly what we hoped for.A. a - c - b - d - e - fB. a - b - c - d - e - fC. b - a - c - d - e - fD. a - b - e - f - c - d Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "b"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 6,
           "value": "b"
         }
       ],
       "selects": [],
-      "questionId": "6",
+      "questionId": "question-1973066-6",
       "questionNumber": 6,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. An: Were you the person who organised the welcome game for yesterday's exchange session?b. Bao: Yes. Our team prepared it together.c. An: You did a really good job. Everyone understood the instructions immediately.d. Bao: Thanks. I appreciate that.e. An: The activity also got students from different schools talking very quickly.f. Bao: I'm glad you noticed. That was exactly what we hoped for.A. a - c - b - d - e - fB. a - b - c - d - e - fC. b - a - c - d - e - fD. a - b - e - f - c - d Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "b",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. an: were you the person who organised the welcome game for yesterday's exchange session?b. bao: yes. our team prepared it together.c. an: you did a really good job. everyone understood the instructions immediately.d. bao: thanks. i appreciate that.e. an: the activity also got students from different schools talking very quickly.f. bao: i'm glad you noticed. that was exactly what we hoped for.a. a - c - b - d - e - fb. a - b - c - d - e - fc. b - a - c - d - e - fd. a - b - e - f - c - d write a, b, c, or d - {#1}",
+      "letter": "B",
+      "rightAnswer": ""
     },
     {
-      "id": "7",
+      "id": "question-1973066-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. to accept your place, please complete the attached confirmation form by friday.b. that online orientation will explain the programme goals, team roles, and travel arrangements.c. you have been selected to take part in the regional youth forum next month.d. after submitting this confirmation, you will receive a link to the online orientation.e. after reviewing those orientation details, contact the programme office if anything remains unclear.a. c - d - a - b - eb. a - c - d - b - ec. c - a - d - b - ed. c - a - b - d - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. To accept your place, please complete the attached confirmation form by Friday.b. That online orientation will explain the programme goals, team roles, and travel arrangements.c. You have been selected to take part in the Regional Youth Forum next month.d. After submitting this confirmation, you will receive a link to the online orientation.e. After reviewing those orientation details, contact the programme office if anything remains unclear.A. c - d - a - b - eB. a - c - d - b - eC. c - a - d - b - eD. c - a - b - d - e Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 7,
           "value": "c"
         }
       ],
       "selects": [],
-      "questionId": "7",
+      "questionId": "question-1973066-7",
       "questionNumber": 7,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. To accept your place, please complete the attached confirmation form by Friday.b. That online orientation will explain the programme goals, team roles, and travel arrangements.c. You have been selected to take part in the Regional Youth Forum next month.d. After submitting this confirmation, you will receive a link to the online orientation.e. After reviewing those orientation details, contact the programme office if anything remains unclear.A. c - d - a - b - eB. a - c - d - b - eC. c - a - d - b - eD. c - a - b - d - e Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. to accept your place, please complete the attached confirmation form by friday.b. that online orientation will explain the programme goals, team roles, and travel arrangements.c. you have been selected to take part in the regional youth forum next month.d. after submitting this confirmation, you will receive a link to the online orientation.e. after reviewing those orientation details, contact the programme office if anything remains unclear.a. c - d - a - b - eb. a - c - d - b - ec. c - a - d - b - ed. c - a - b - d - e write a, b, c, or d - {#1}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
-      "id": "8",
+      "id": "question-1973066-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. after registration closes, organisers will place students in mixed-country teams according to the issue they selected.b. each applicant will first choose one current issue from three topics on the registration form.c. before the forum, each team will receive a short reading pack about its chosen issue.d. using that pack, members will prepare one question and one possible solution.e. at the forum, teams will compare their ideas and select two points to present.a. a - b - c - d - eb. b - c - a - d - ec. b - a - c - d - ed. b - a - d - c - e write a, b, c, or d -",
       "questionRaw": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. After registration closes, organisers will place students in mixed-country teams according to the issue they selected.b. Each applicant will first choose one current issue from three topics on the registration form.c. Before the forum, each team will receive a short reading pack about its chosen issue.d. Using that pack, members will prepare one question and one possible solution.e. At the forum, teams will compare their ideas and select two points to present.A. a - b - c - d - eB. b - c - a - d - eC. b - a - c - d - eD. b - a - d - c - e Write A, B, C, or D - {#1}",
-      "options": [],
+      "options": [
+        "c"
+      ],
       "inputs": [
         {
           "index": 0,
+          "questionNumber": 8,
           "value": "c"
         }
       ],
       "selects": [],
-      "questionId": "8",
+      "questionId": "question-1973066-8",
       "questionNumber": 8,
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. After registration closes, organisers will place students in mixed-country teams according to the issue they selected.b. Each applicant will first choose one current issue from three topics on the registration form.c. Before the forum, each team will receive a short reading pack about its chosen issue.d. Using that pack, members will prepare one question and one possible solution.e. At the forum, teams will compare their ideas and select two points to present.A. a - b - c - d - eB. b - c - a - d - eC. b - a - c - d - eD. b - a - d - c - e Write A, B, C, or D - {#1}",
-      "answer": "",
-      "dragdrops": []
+      "answer": "c",
+      "dragdrops": [],
+      "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. after registration closes, organisers will place students in mixed-country teams according to the issue they selected.b. each applicant will first choose one current issue from three topics on the registration form.c. before the forum, each team will receive a short reading pack about its chosen issue.d. using that pack, members will prepare one question and one possible solution.e. at the forum, teams will compare their ideas and select two points to present.a. a - b - c - d - eb. b - c - a - d - ec. b - a - c - d - ed. b - a - d - c - e write a, b, c, or d - {#1}",
+      "letter": "C",
+      "rightAnswer": ""
     },
     {
       "answer": "C. relations",
@@ -310,31 +350,27 @@
     },
     {
       "answer": "a",
-      "id": "question-1973066-3",
+      "id": "question-1999363-3",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 3,
           "value": "a"
         },
         {
           "index": 1,
-          "questionNumber": 3,
           "value": "d"
         },
         {
           "index": 2,
-          "questionNumber": 3,
+          "questionNumber": 14,
           "value": "a"
         },
         {
           "index": 3,
-          "questionNumber": 3,
           "value": "d"
         },
         {
           "index": 4,
-          "questionNumber": 3,
           "value": "c"
         }
       ],
@@ -342,7 +378,7 @@
       "letter": "",
       "options": [],
       "question": "PART 2 — PASSAGE COMPLETION Questions 13–17 Read the following passage and choose the letter A, B, C, or D to indicate the option that best fits each numbered blank from 13 to 17. A REGIONAL STUDENT PROJECT Students at five partner schools wanted exchange participants to contribute more actively instead of only attending presentations. (13) ______. Before the event, each participant submitted one practical skill they could teach, such as planning a school event, making a short video, or organising a team task. Organisers grouped similar suggestions and asked small teams to prepare 15-minute mini-workshops. (14) ______. On the day, each team ran its session for another group. The activity involved (15) ______ clear instructions and answering questions. After each session, participants wrote one useful idea they had learned from another team and one question they still had. (16) ______. Because students both taught and learned, (17) ______. Question 13.A. They therefore created a Student Skills Exchange where participants taught one another practical skills.B. The schools therefore decided to replace all interactive activities with formal lectures.C. Students were asked to prepare national history presentations and avoid group work.D. Organisers concluded that participants should only observe activities led by teachers.Write A, B, C, or D - {#1} Question 14.A. This meant every team had to teach exactly the same skill.B. The organisers used these suggestions to cancel workshops that required teamwork.C. Participants were told not to discuss their ideas with students from other schools.D. Grouping related suggestions reduced repetition and helped students plan their workshops together.Write A, B, C, or D - {#2} Question 15.A. givingB. giveC. gaveD. to givingWrite A, B, C, or D - {#3} Question 16.A. The notes were used mainly to rank teams from best to worst.B. Students were told to keep their questions private after each workshop.C. Organisers ended the exchange before participants could review the sessions.D. These short reflections helped participants notice which ideas they wanted to explore further.Write A, B, C, or D - {#4} Question 17.A. students felt that only the most experienced speakers had contributedB. participants concluded that teaching others was less useful than listeningC. many participants felt they had contributed knowledge while gaining new skillsD. the organisers decided future exchanges should remove student-led workshopsWrite A, B, C, or D - {#5}",
-      "questionId": "question-1973066-3",
+      "questionId": "question-1999363-3",
       "questionKey": "part 2 — passage completion questions 13–17 read the following passage and choose the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a regional student project students at five partner schools wanted exchange participants to contribute more actively instead of only attending presentations. (13) ______. before the event, each participant submitted one practical skill they could teach, such as planning a school event, making a short video, or organising a team task. organisers grouped similar suggestions and asked small teams to prepare 15-minute mini-workshops. (14) ______. on the day, each team ran its session for another group. the activity involved (15) ______ clear instructions and answering questions. after each session, participants wrote one useful idea they had learned from another team and one question they still had. (16) ______. because students both taught and learned, (17) ______. question 13.a. they therefore created a student skills exchange where participants taught one another practical skills.b. the schools therefore decided to replace all interactive activities with formal lectures.c. students were asked to prepare national history presentations and avoid group work.d. organisers concluded that participants should only observe activities led by teachers.write a, b, c, or d - {#1} question 14.a. this meant every team had to teach exactly the same skill.b. the organisers used these suggestions to cancel workshops that required teamwork.c. participants were told not to discuss their ideas with students from other schools.d. grouping related suggestions reduced repetition and helped students plan their workshops together.write a, b, c, or d - {#2} question 15.a. givingb. givec. gaved. to givingwrite a, b, c, or d - {#3} question 16.a. the notes were used mainly to rank teams from best to worst.b. students were told to keep their questions private after each workshop.c. organisers ended the exchange before participants could review the sessions.d. these short reflections helped participants notice which ideas they wanted to explore further.write a, b, c, or d - {#4} question 17.a. students felt that only the most experienced speakers had contributedb. participants concluded that teaching others was less useful than listeningc. many participants felt they had contributed knowledge while gaining new skillsd. the organisers decided future exchanges should remove student-led workshopswrite a, b, c, or d - {#5}",
       "questionNumber": 3,
       "selects": [],
@@ -350,11 +386,10 @@
     },
     {
       "answer": "c",
-      "id": "question-1973066-4",
+      "id": "question-1999363-4",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 4,
           "value": "c"
         }
       ],
@@ -362,7 +397,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 18 a. These selected teams then joined two online coaching sessions to develop their ideas.b. The Regional Youth Ideas Challenge invited school teams to submit short plans for activities that could connect partner schools.c. At the final forum, each team explained its revised plan to students from other schools.d. After reviewing the submissions, organisers selected eight teams whose plans matched the programme goals.e. Feedback from the coaching sessions helped the teams revise their original plans before the forum.A. b - a - d - e - cB. d - b - a - e - cC. b - d - a - e - cD. b - d - e - a - c Write A, B, C, or D - {#1}",
-      "questionId": "question-1973066-4",
+      "questionId": "question-1999363-4",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 18 a. these selected teams then joined two online coaching sessions to develop their ideas.b. the regional youth ideas challenge invited school teams to submit short plans for activities that could connect partner schools.c. at the final forum, each team explained its revised plan to students from other schools.d. after reviewing the submissions, organisers selected eight teams whose plans matched the programme goals.e. feedback from the coaching sessions helped the teams revise their original plans before the forum.a. b - a - d - e - cb. d - b - a - e - cc. b - d - a - e - cd. b - d - e - a - c write a, b, c, or d - {#1}",
       "questionNumber": 4,
       "selects": [],
@@ -370,11 +405,10 @@
     },
     {
       "answer": "b",
-      "id": "question-1973066-5",
+      "id": "question-1999363-5",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 5,
           "value": "b"
         }
       ],
@@ -382,7 +416,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 19 a. Lan: I think the cultural evening should begin with short student performances.b. Minh: I'm afraid I disagree. If performances come first, visitors may spend too long watching instead of meeting one another.c. Lan: Why do you think meeting one another should come first?d. Minh: Because a mixed-team activity would get people talking immediately.e. Lan: That's convincing. What about starting with the team activity and moving the performances later?f. Minh: I think that would work well.A. a - c - b - d - e - fB. a - b - c - d - e - fC. b - a - c - d - e - fD. a - b - d - c - e - f Write A, B, C, or D - {#1}",
-      "questionId": "question-1973066-5",
+      "questionId": "question-1999363-5",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 19 a. lan: i think the cultural evening should begin with short student performances.b. minh: i'm afraid i disagree. if performances come first, visitors may spend too long watching instead of meeting one another.c. lan: why do you think meeting one another should come first?d. minh: because a mixed-team activity would get people talking immediately.e. lan: that's convincing. what about starting with the team activity and moving the performances later?f. minh: i think that would work well.a. a - c - b - d - e - fb. a - b - c - d - e - fc. b - a - c - d - e - fd. a - b - d - c - e - f write a, b, c, or d - {#1}",
       "questionNumber": 5,
       "selects": [],
@@ -390,11 +424,10 @@
     },
     {
       "answer": "b",
-      "id": "question-1973066-6",
+      "id": "question-1999363-6",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 6,
           "value": "b"
         }
       ],
@@ -402,7 +435,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 20 a. An: Were you the person who organised the welcome game for yesterday's exchange session?b. Bao: Yes. Our team prepared it together.c. An: You did a really good job. Everyone understood the instructions immediately.d. Bao: Thanks. I appreciate that.e. An: The activity also got students from different schools talking very quickly.f. Bao: I'm glad you noticed. That was exactly what we hoped for.A. a - c - b - d - e - fB. a - b - c - d - e - fC. b - a - c - d - e - fD. a - b - e - f - c - d Write A, B, C, or D - {#1}",
-      "questionId": "question-1973066-6",
+      "questionId": "question-1999363-6",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 20 a. an: were you the person who organised the welcome game for yesterday's exchange session?b. bao: yes. our team prepared it together.c. an: you did a really good job. everyone understood the instructions immediately.d. bao: thanks. i appreciate that.e. an: the activity also got students from different schools talking very quickly.f. bao: i'm glad you noticed. that was exactly what we hoped for.a. a - c - b - d - e - fb. a - b - c - d - e - fc. b - a - c - d - e - fd. a - b - e - f - c - d write a, b, c, or d - {#1}",
       "questionNumber": 6,
       "selects": [],
@@ -410,11 +443,10 @@
     },
     {
       "answer": "c",
-      "id": "question-1973066-7",
+      "id": "question-1999363-7",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 7,
           "value": "c"
         }
       ],
@@ -422,7 +454,7 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 21 a. To accept your place, please complete the attached confirmation form by Friday.b. That online orientation will explain the programme goals, team roles, and travel arrangements.c. You have been selected to take part in the Regional Youth Forum next month.d. After submitting this confirmation, you will receive a link to the online orientation.e. After reviewing those orientation details, contact the programme office if anything remains unclear.A. c - d - a - b - eB. a - c - d - b - eC. c - a - d - b - eD. c - a - b - d - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1973066-7",
+      "questionId": "question-1999363-7",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 21 a. to accept your place, please complete the attached confirmation form by friday.b. that online orientation will explain the programme goals, team roles, and travel arrangements.c. you have been selected to take part in the regional youth forum next month.d. after submitting this confirmation, you will receive a link to the online orientation.e. after reviewing those orientation details, contact the programme office if anything remains unclear.a. c - d - a - b - eb. a - c - d - b - ec. c - a - d - b - ed. c - a - b - d - e write a, b, c, or d - {#1}",
       "questionNumber": 7,
       "selects": [],
@@ -430,11 +462,10 @@
     },
     {
       "answer": "c",
-      "id": "question-1973066-8",
+      "id": "question-1999363-8",
       "inputs": [
         {
           "index": 0,
-          "questionNumber": 8,
           "value": "c"
         }
       ],
@@ -442,10 +473,184 @@
       "letter": "",
       "options": [],
       "question": "PART 3 — TEXT AND DIALOGUE ORGANISATION Mark the letter A, B, C, or D to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. Question 22 a. After registration closes, organisers will place students in mixed-country teams according to the issue they selected.b. Each applicant will first choose one current issue from three topics on the registration form.c. Before the forum, each team will receive a short reading pack about its chosen issue.d. Using that pack, members will prepare one question and one possible solution.e. At the forum, teams will compare their ideas and select two points to present.A. a - b - c - d - eB. b - c - a - d - eC. b - a - c - d - eD. b - a - d - c - e Write A, B, C, or D - {#1}",
-      "questionId": "question-1973066-8",
+      "questionId": "question-1999363-8",
       "questionKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of utterances or sentences to make a cohesive and coherent exchange or text in the following question. question 22 a. after registration closes, organisers will place students in mixed-country teams according to the issue they selected.b. each applicant will first choose one current issue from three topics on the registration form.c. before the forum, each team will receive a short reading pack about its chosen issue.d. using that pack, members will prepare one question and one possible solution.e. at the forum, teams will compare their ideas and select two points to present.a. a - b - c - d - eb. b - c - a - d - ec. b - a - c - d - ed. b - a - d - c - e write a, b, c, or d - {#1}",
       "questionNumber": 8,
       "selects": [],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "C. relations",
+      "id": "question-1973066-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. partner-school culture guide project students from four schools in asean countries will create a digital guide to everyday school life for future exchange groups. the project aims to strengthen (1) {#1} among the participating schools by helping students learn about one another. before (2) {#2} the project team, students should read the schedule and decide which part of school life they would like to describe. each group will collect examples of school routines and traditions. the task involves (3) {#3} short descriptions that students from other countries can easily understand. students should ask questions before making assumptions about unfamiliar customs. (4) {#4}, the guide can present differences respectfully and accurately. every member can make a useful (5) {#5} by checking information, suggesting examples, or reviewing another student's work. at the final online meeting, each group will explain its choices (6) {#6} and answer questions from partner schools.",
+      "letter": "",
+      "options": [
+        "C. relations"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. PARTNER-SCHOOL CULTURE GUIDE PROJECT Students from four schools in ASEAN countries will create a digital guide to everyday school life for future exchange groups. The project aims to strengthen (1) [Blank 1] among the participating schools by helping students learn about one another. Before (2) [Blank 2] the project team, students should read the schedule and decide which part of school life they would like to describe. Each group will collect examples of school routines and traditions. The task involves (3) [Blank 3] short descriptions that students from other countries can easily understand. Students should ask questions before making assumptions about unfamiliar customs. (4) [Blank 4] , the guide can present differences respectfully and accurately. Every member can make a useful (5) [Blank 5] by checking information, suggesting examples, or reviewing another student's work. At the final online meeting, each group will explain its choices (6) [Blank 6] and answer questions from partner schools.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.issuesB.contributionsC.relationsD.qualificationsÔ (2):A.joinB.to joinC.joinedD.joiningÔ (3):A.writeB.to writingC.writingD.wroteÔ (4):A.In this wayB.OtherwiseC.HoweverD.For exampleÔ (5):A.relationB.contributionC.exchangeD.issueÔ (6):A.confidentlyB.confidenceC.confidentD.confidences",
+      "questionId": "question-1973066-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. partner-school culture guide project students from four schools in asean countries will create a digital guide to everyday school life for future exchange groups. the project aims to strengthen (1) among the participating schools by helping students learn about one another. before (2) the project team, students should read the schedule and decide which part of school life they would like to describe. each group will collect examples of school routines and traditions. the task involves (3) short descriptions that students from other countries can easily understand. students should ask questions before making assumptions about unfamiliar customs. (4) , the guide can present differences respectfully and accurately. every member can make a useful (5) by checking information, suggesting examples, or reviewing another student's work. at the final online meeting, each group will explain its choices (6) and answer questions from partner schools.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.issuesb.contributionsc.relationsd.qualificationsô (2):a.joinb.to joinc.joinedd.joiningô (3):a.writeb.to writingc.writingd.wroteô (4):a.in this wayb.otherwisec.howeverd.for exampleô (5):a.relationb.contributionc.exchanged.issueô (6):a.confidentlyb.confidencec.confidentd.confidences",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 1,
+          "value": "C. relations"
+        },
+        {
+          "index": 1,
+          "questionNumber": 1,
+          "value": "D. joining"
+        },
+        {
+          "index": 2,
+          "questionNumber": 1,
+          "value": "C. writing"
+        },
+        {
+          "index": 3,
+          "questionNumber": 1,
+          "value": "A. In this way"
+        },
+        {
+          "index": 4,
+          "questionNumber": 1,
+          "value": "B. contribution"
+        },
+        {
+          "index": 5,
+          "questionNumber": 1,
+          "value": "A. confidently"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "B. Preparing",
+      "id": "question-1973066-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional youth media forum (7) {#1} a short news item in an international team is one of the activities at this year's forum. teams will choose one of several (8) {#2} affecting young people, such as access to education or youth employment. participants will then practise (9) {#3} their ideas in english before taking part in a recorded discussion. each group will choose two student (10) {#4} to speak during the discussion, while the other members help prepare examples and questions. the final discussion will be (11) {#5} on the forum website so students at partner schools can watch it. (12) {#6}, the project gives young people experience in reporting, teamwork, and communicating across cultures.",
+      "letter": "",
+      "options": [
+        "B. Preparing"
+      ],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL YOUTH MEDIA FORUM (7) [Blank 7] a short news item in an international team is one of the activities at this year's forum. Teams will choose one of several (8) [Blank 8] affecting young people, such as access to education or youth employment. Participants will then practise (9) [Blank 9] their ideas in English before taking part in a recorded discussion. Each group will choose two student (10) [Blank 10] to speak during the discussion, while the other members help prepare examples and questions. The final discussion will be (11) [Blank 11] on the forum website so students at partner schools can watch it. (12) [Blank 12] , the project gives young people experience in reporting, teamwork, and communicating across cultures.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.PrepareB.PreparingC.To preparingD.PreparedÔ (8):A.cultural exchangesB.contributionsC.current issuesD.leadership skillsÔ (9):A.presentB.presentingC.presentedD.to presentingÔ (10):A.volunteersB.relationsC.qualificationsD.representativesÔ (11):A.representedB.qualifiedC.live-streamedD.eye-openingÔ (12):A.For instanceB.OtherwiseC.HoweverD.Overall",
+      "questionId": "question-1973066-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional youth media forum (7) a short news item in an international team is one of the activities at this year's forum. teams will choose one of several (8) affecting young people, such as access to education or youth employment. participants will then practise (9) their ideas in english before taking part in a recorded discussion. each group will choose two student (10) to speak during the discussion, while the other members help prepare examples and questions. the final discussion will be (11) on the forum website so students at partner schools can watch it. (12) , the project gives young people experience in reporting, teamwork, and communicating across cultures.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.prepareb.preparingc.to preparingd.preparedô (8):a.cultural exchangesb.contributionsc.current issuesd.leadership skillsô (9):a.presentb.presentingc.presentedd.to presentingô (10):a.volunteersb.relationsc.qualificationsd.representativesô (11):a.representedb.qualifiedc.live-streamedd.eye-openingô (12):a.for instanceb.otherwisec.howeverd.overall",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "questionNumber": 2,
+          "value": "B. Preparing"
+        },
+        {
+          "index": 1,
+          "questionNumber": 2,
+          "value": "C. current issues"
+        },
+        {
+          "index": 2,
+          "questionNumber": 2,
+          "value": "B. presenting"
+        },
+        {
+          "index": 3,
+          "questionNumber": 2,
+          "value": "D. representatives"
+        },
+        {
+          "index": 4,
+          "questionNumber": 2,
+          "value": "C. live-streamed"
+        },
+        {
+          "index": 5,
+          "questionNumber": 2,
+          "value": "D. Overall"
+        }
+      ],
+      "rightAnswer": "",
+      "dragdrops": []
+    },
+    {
+      "answer": "C. relations",
+      "id": "question-1999363-1",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. partner-school culture guide project students from four schools in asean countries will create a digital guide to everyday school life for future exchange groups. the project aims to strengthen (1) {#1} among the participating schools by helping students learn about one another. before (2) {#2} the project team, students should read the schedule and decide which part of school life they would like to describe. each group will collect examples of school routines and traditions. the task involves (3) {#3} short descriptions that students from other countries can easily understand. students should ask questions before making assumptions about unfamiliar customs. (4) {#4}, the guide can present differences respectfully and accurately. every member can make a useful (5) {#5} by checking information, suggesting examples, or reviewing another student's work. at the final online meeting, each group will explain its choices (6) {#6} and answer questions from partner schools.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. PARTNER-SCHOOL CULTURE GUIDE PROJECT Students from four schools in ASEAN countries will create a digital guide to everyday school life for future exchange groups. The project aims to strengthen (1) [Blank 1] among the participating schools by helping students learn about one another. Before (2) [Blank 2] the project team, students should read the schedule and decide which part of school life they would like to describe. Each group will collect examples of school routines and traditions. The task involves (3) [Blank 3] short descriptions that students from other countries can easily understand. Students should ask questions before making assumptions about unfamiliar customs. (4) [Blank 4] , the guide can present differences respectfully and accurately. Every member can make a useful (5) [Blank 5] by checking information, suggesting examples, or reviewing another student's work. At the final online meeting, each group will explain its choices (6) [Blank 6] and answer questions from partner schools.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (1):A.qualificationsB.contributionsC.relationsD.issuesÔ (2):A.to joinB.joinC.joinedD.joiningÔ (3):A.to writingB.writeC.wroteD.writingÔ (4):A.OtherwiseB.For exampleC.In this wayD.HoweverÔ (5):A.exchangeB.contributionC.issueD.relationÔ (6):A.confidentB.confidencesC.confidenceD.confidently",
+      "questionId": "question-1999363-1",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. partner-school culture guide project students from four schools in asean countries will create a digital guide to everyday school life for future exchange groups. the project aims to strengthen (1) [blank 1] among the participating schools by helping students learn about one another. before (2) [blank 2] the project team, students should read the schedule and decide which part of school life they would like to describe. each group will collect examples of school routines and traditions. the task involves (3) [blank 3] short descriptions that students from other countries can easily understand. students should ask questions before making assumptions about unfamiliar customs. (4) [blank 4] , the guide can present differences respectfully and accurately. every member can make a useful (5) [blank 5] by checking information, suggesting examples, or reviewing another student's work. at the final online meeting, each group will explain its choices (6) [blank 6] and answer questions from partner schools.📋bảng lựa chọn các ô trống (cloze options):ô (1):a.qualificationsb.contributionsc.relationsd.issuesô (2):a.to joinb.joinc.joinedd.joiningô (3):a.to writingb.writec.wroted.writingô (4):a.otherwiseb.for examplec.in this wayd.howeverô (5):a.exchangeb.contributionc.issued.relationô (6):a.confidentb.confidencesc.confidenced.confidently",
+      "questionNumber": 1,
+      "selects": [
+        {
+          "index": 0,
+          "value": "C. relations"
+        },
+        {
+          "index": 1,
+          "value": "D. joining"
+        },
+        {
+          "index": 2,
+          "value": "D. writing"
+        },
+        {
+          "index": 3,
+          "value": "C. In this way"
+        },
+        {
+          "index": 4,
+          "value": "B. contribution"
+        },
+        {
+          "index": 5,
+          "value": "D. confidently"
+        }
+      ],
+      "rightAnswer": ""
+    },
+    {
+      "answer": "D. Preparing",
+      "id": "question-1999363-2",
+      "inputs": [],
+      "legacyQKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional youth media forum (7) {#1} a short news item in an international team is one of the activities at this year's forum. teams will choose one of several (8) {#2} affecting young people, such as access to education or youth employment. participants will then practise (9) {#3} their ideas in english before taking part in a recorded discussion. each group will choose two student (10) {#4} to speak during the discussion, while the other members help prepare examples and questions. the final discussion will be (11) {#5} on the forum website so students at partner schools can watch it. (12) {#6}, the project gives young people experience in reporting, teamwork, and communicating across cultures.",
+      "letter": "",
+      "options": [],
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL YOUTH MEDIA FORUM (7) [Blank 7] a short news item in an international team is one of the activities at this year's forum. Teams will choose one of several (8) [Blank 8] affecting young people, such as access to education or youth employment. Participants will then practise (9) [Blank 9] their ideas in English before taking part in a recorded discussion. Each group will choose two student (10) [Blank 10] to speak during the discussion, while the other members help prepare examples and questions. The final discussion will be (11) [Blank 11] on the forum website so students at partner schools can watch it. (12) [Blank 12] , the project gives young people experience in reporting, teamwork, and communicating across cultures.📋BẢNG LỰA CHỌN CÁC Ô TRỐNG (CLOZE OPTIONS):Ô (7):A.To preparingB.PrepareC.PreparedD.PreparingÔ (8):A.current issuesB.leadership skillsC.contributionsD.cultural exchangesÔ (9):A.to presentingB.presentingC.presentedD.presentÔ (10):A.representativesB.relationsC.volunteersD.qualificationsÔ (11):A.representedB.eye-openingC.qualifiedD.live-streamedÔ (12):A.HoweverB.OverallC.For instanceD.Otherwise",
+      "questionId": "question-1999363-2",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following leaflet and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional youth media forum (7) [blank 7] a short news item in an international team is one of the activities at this year's forum. teams will choose one of several (8) [blank 8] affecting young people, such as access to education or youth employment. participants will then practise (9) [blank 9] their ideas in english before taking part in a recorded discussion. each group will choose two student (10) [blank 10] to speak during the discussion, while the other members help prepare examples and questions. the final discussion will be (11) [blank 11] on the forum website so students at partner schools can watch it. (12) [blank 12] , the project gives young people experience in reporting, teamwork, and communicating across cultures.📋bảng lựa chọn các ô trống (cloze options):ô (7):a.to preparingb.preparec.preparedd.preparingô (8):a.current issuesb.leadership skillsc.contributionsd.cultural exchangesô (9):a.to presentingb.presentingc.presentedd.presentô (10):a.representativesb.relationsc.volunteersd.qualificationsô (11):a.representedb.eye-openingc.qualifiedd.live-streamedô (12):a.howeverb.overallc.for instanced.otherwise",
+      "questionNumber": 2,
+      "selects": [
+        {
+          "index": 0,
+          "value": "D. Preparing"
+        },
+        {
+          "index": 1,
+          "value": "A. current issues"
+        },
+        {
+          "index": 2,
+          "value": "B. presenting"
+        },
+        {
+          "index": 3,
+          "value": "A. representatives"
+        },
+        {
+          "index": 4,
+          "value": "D. live-streamed"
+        },
+        {
+          "index": 5,
+          "value": "B. Overall"
+        }
+      ],
       "rightAnswer": ""
     }
   ]
