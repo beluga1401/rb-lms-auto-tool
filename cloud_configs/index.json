@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 00:06:39",
+  "updated_at": "2026-11-28 00:12:58",
   "total_configs": 101,
   "configs": [
     {
@@ -1803,7 +1803,7 @@
       "updated_at": "2026-11-27 23:59:10"
     },
     {
-      "account_name": "Văn Thiên Kim",
+      "account_name": "Nguyễn Minh Kha",
       "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
       "class_key": "khoi_11",
@@ -1818,7 +1818,7 @@
       "score": "100.00 trên 100.00",
       "score_pct": 100.0,
       "question_count": 40,
-      "updated_at": "2026-11-28 00:06:39"
+      "updated_at": "2026-11-28 00:12:58"
     }
   ]
 }
