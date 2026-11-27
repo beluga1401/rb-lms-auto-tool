@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 19:15:29",
+  "updated_at": "2026-11-27 19:16:58",
   "total_configs": 100,
   "configs": [
     {
@@ -1797,10 +1797,10 @@
       "cmid": "752944",
       "course_id": "4775",
       "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex56moet.json",
-      "score": "72.73 trên 100.00",
+      "score": "68.18 trên 100.00",
       "score_pct": 100,
-      "question_count": 11,
-      "updated_at": "2026-11-27 19:15:29"
+      "question_count": 13,
+      "updated_at": "2026-11-27 19:16:58"
     }
   ]
 }
