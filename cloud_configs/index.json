@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 18:57:18",
+  "updated_at": "2026-11-27 18:57:55",
   "total_configs": 98,
   "configs": [
     {
@@ -1695,24 +1695,6 @@
       "updated_at": "2026-11-26 21:11:57"
     },
     {
-      "account_name": "Student_Mobile",
-      "class_name": "Khối 11",
-      "raw_class_name": "Khối 11",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 5",
-      "unit_key": "session_5",
-      "quiz_title": "GR11EX53MOET",
-      "quiz_key": "gr11ex53moet",
-      "cmid": "750011",
-      "course_id": "4775",
-      "repo_path": "cloud_configs/khoi_11/session_5/gr11ex53moet.json",
-      "score": "100.0%",
-      "score_pct": 100,
-      "question_count": 6,
-      "updated_at": "2026-11-26 23:14:17"
-    },
-    {
       "account_name": "Kiều Khánh Linh",
       "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
       "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
@@ -1765,6 +1747,24 @@
       "score_pct": 100.0,
       "question_count": 60,
       "updated_at": "2026-11-27 18:57:18"
+    },
+    {
+      "account_name": "Vũ Thị Mỹ Chi",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 5",
+      "unit_key": "session_5",
+      "quiz_title": "GR11EX53MOET",
+      "quiz_key": "gr11ex53moet",
+      "cmid": "750011",
+      "course_id": "11364",
+      "repo_path": "cloud_configs/khoi_11/session_5/gr11ex53moet.json",
+      "score": "10.00",
+      "score_pct": 100.0,
+      "question_count": 88,
+      "updated_at": "2026-11-27 18:57:55"
     }
   ]
 }
