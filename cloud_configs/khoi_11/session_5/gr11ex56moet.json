@@ -1,21 +1,21 @@
 {
   "metadata": {
     "account_name": "Student_Mobile",
-    "class_name": "Khối 11 (LGK LC-Lớp 11XH (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11XH (2026-2027)",
+    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
     "grade_num": "11",
     "unit_name": "SESSION 5",
     "unit_key": "session_5",
     "quiz_title": "GR11EX56MOET",
     "quiz_key": "gr11ex56moet",
-    "cmid": "752944",
+    "cmid": "752936",
     "course_id": "4775",
     "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex56moet.json",
-    "score": "68.18 trên 100.00",
+    "score": "100.0%",
     "score_pct": 100,
-    "question_count": 13,
-    "updated_at": "2026-11-27 19:16:58"
+    "question_count": 15,
+    "updated_at": "2026-11-27 19:55:14"
   },
   "answers": [
     {
@@ -102,24 +102,28 @@
       "inputs": [
         {
           "index": 0,
-          "value": "c"
+          "value": "c",
+          "isCorrect": true
         },
         {
           "index": 1,
-          "questionNumber": 13,
-          "value": "a"
+          "value": "a",
+          "isCorrect": true
         },
         {
           "index": 2,
-          "value": "d"
+          "value": "d",
+          "isCorrect": true
         },
         {
           "index": 3,
-          "value": "b"
+          "value": "b",
+          "isCorrect": true
         },
         {
           "index": 4,
-          "value": "c"
+          "value": "c",
+          "isCorrect": true
         }
       ],
       "legacyQKey": "part 2 — passage completion questions 13–17 read the following passage and mark the letter a, b, c, or d to indicate the option that best fits each numbered blank from 13 to 17. a square that can change with the day central square is busy in the morning and evening, but many people avoid its open central area on hot, sunny afternoons. instead of covering the whole square permanently, planners have proposed several movable shade panels. (13) ______. the panels can be arranged in different ways depending on how the square is being used. to planners, this solution sounds (14) ______ because the same open space can still be used for markets, performances, or ordinary daily activities. some nearby shop owners were concerned that the panels might hide their signs. designers therefore raised the structures and kept clear views towards the shop fronts. (15) ______. the panels will normally be moved by small electric motors. however, planners know that automatic equipment can occasionally stop working, so staff will also be able to operate the panels manually. (16) ______. the purpose is not to make the square as technologically complicated as possible. (17) ______. question 13.a. the new structures would permanently divide the square into several smaller areas.b. the panels would remain closed even when large public events were being held.c. the panels could provide shade when needed and move aside for larger events.d. the project would replace the open square with a fully enclosed building.write a, b, c or d: {#1} question 14.a. flexibleb. flexiblyc. flexibilityd. flexwrite a, b, c or d: {#2} question 15.a. as a result, the shops would no longer be visible from the square.b. the owners therefore asked planners to remove every shade structure.c. the change meant that only temporary shops could operate nearby.d. this adjustment addressed the concern without removing the shade plan.write a, b, c or d: {#3} question 16.a. the square would therefore remain closed whenever an electric motor stopped.b. this backup would let staff move the panels if automatic controls failed.c. for this reason, the planners decided that all automatic controls were unnecessary.d. the manual controls would be available only during large evening performances.write a, b, c or d: {#4} question 17.a. instead, the planners want to remove all activities that do not require technology.b. the final design assumes that every visitor will prefer the same use of the square.c. the goal is to use a simple system that lets one public space serve different needs.d. the project therefore gives technology priority over the comfort of people using the square.write a, b, c or d: {#5}",
@@ -138,7 +142,8 @@
       "inputs": [
         {
           "index": 0,
-          "value": "a"
+          "value": "a",
+          "isCorrect": true
         }
       ],
       "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a cohesive and coherent exchange or text. question a. mai: in my opinion, teamwork skills are the most important for youth-programme participants.b. nam: why do you think teamwork matters most?c. mai: because participants often have to solve problems with people they have only just met.d. nam: that reason makes sense, but i think understanding different cultures is equally important.e. mai: that's a good point. without that understanding, teamwork could become more difficult.f. nam: then perhaps both skills should rank near the top.a. a – b – c – d – e – fb. b – a – c – d – e – fc. a – c – b – d – e – fd. a – b – d – c – e – f write a, b, c, or d - {#1}",
@@ -157,7 +162,8 @@
       "inputs": [
         {
           "index": 0,
-          "value": "a"
+          "value": "a",
+          "isCorrect": true
         }
       ],
       "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a cohesive and coherent exchange or text. question a. mai: i'm sure automated street-cleaning vehicles will become common in large city centres.b. phuc: what makes you so certain?c. mai: they can work at quiet times and may reduce the need to close streets during cleaning.d. phuc: i see. i'm less sure that they will work well in every narrow street.e. mai: that's true. older districts may still need smaller vehicles or ordinary cleaning teams.a. a – b – c – d – eb. b – a – c – d – ec. a – d – b – c – ed. d – e – a – c – b write a, b, c, or d - {#1}",
@@ -176,7 +182,8 @@
       "inputs": [
         {
           "index": 0,
-          "value": "b"
+          "value": "b",
+          "isCorrect": true
         }
       ],
       "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a cohesive and coherent exchange or text. question a. after the call, each pair will write a short reflection about one new thing they learned.b. next month's online exchange will pair each local student with a student from a partner school.c. before their first meeting, each student will prepare three questions about school and daily life.d. this preparation will help the pairs start their conversation more easily.e. during the call, the pairs will compare their answers and discuss one thing they have in common.a. b – d – c – e – ab. b – c – d – e – ac. c – b – d – e – ad. b – c – e – d – a write a, b, c, or d - {#1}",
@@ -195,7 +202,8 @@
       "inputs": [
         {
           "index": 0,
-          "value": "d"
+          "value": "d",
+          "isCorrect": true
         }
       ],
       "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a cohesive and coherent exchange or text. question a. with this aim in mind, the teams joined two workshops on communication and community projects.b. a regional youth forum opened at our school on saturday morning.c. at the end of the forum, each team presented one idea for future cooperation.d. the event brought together 60 students from four partner schools, who were divided into mixed teams.e. after the teams were formed, organisers explained that the forum aimed to help young people cooperate across cultures.a. b – e – d – a – cb. d – b – e – a – cc. b – d – a – e – cd. b – d – e – a – c write a, b, c, or d - {#1}",
@@ -214,7 +222,8 @@
       "inputs": [
         {
           "index": 0,
-          "value": "d"
+          "value": "d",
+          "isCorrect": true
         }
       ],
       "legacyQKey": "part 3 — text and dialogue organisation mark the letter a, b, c, or d to indicate the best arrangement of the sentences or utterances to make a cohesive and coherent exchange or text. question a. lan: your examples were clear, and your slides looked excellent.b. minh: thanks for saying that. we spent a lot of time preparing the slides and examples.c. lan: that preparation really showed. you also answered the audience's questions very confidently.d. minh: i'm pleased to hear that. i was nervous before we started.e. lan: i watched your group's asean presentation this morning.a. a – b – e – c – db. e – b – c – a – dc. e – b – a – c – dd. e – a – b – c – d write a, b, c, or d - {#1}",
@@ -392,6 +401,106 @@
           "exact_text": "B. relations",
           "stem": "Answer 6 Câu hỏi 2",
           "cleanStem": "answer 6 câu hỏi 2"
+        }
+      ]
+    },
+    {
+      "id": "question-1996829-1",
+      "questionId": "question-1996829-1",
+      "questionNumber": 1,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. FUTURE CITIES EXHIBITION Welcome to our school's Future Cities Exhibition. Visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. In one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. Smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. At the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. With more trees and public seating, the central square also looks (4) {#4}. The model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
+      "questionKey": "part 1 — language in functional texts questions 1–6 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. future cities exhibition welcome to our school's future cities exhibition. visitors can explore models showing how urban areas may become cleaner, smarter, and more comfortable to live in. in one model, city dwellers will use (1) {#1} such as electric buses and trams instead of depending mainly on cars. smart sensors will provide information about traffic and help the transport system operate more (2) {#2}. at the moment, the design team (3) {#3} a discussion with local residents in the next room, so visitors can hear different views about the plan. with more trees and public seating, the central square also looks (4) {#4}. the model includes several (5) {#5} near the metro station so more homes can be built on limited land. (6) {#6}, the model shows how technology and thoughtful urban design can work together to improve city life.",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "public transport",
+          "isCorrect": true
+        },
+        {
+          "index": 1,
+          "value": "efficiently",
+          "isCorrect": true
+        },
+        {
+          "index": 2,
+          "value": "is having",
+          "isCorrect": true
+        },
+        {
+          "index": 3,
+          "value": "welcoming",
+          "isCorrect": true
+        },
+        {
+          "index": 4,
+          "value": "high-rise buildings",
+          "isCorrect": true
+        },
+        {
+          "index": 5,
+          "value": "Overall",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "question-1996829-2",
+      "questionId": "question-1996829-2",
+      "questionNumber": 2,
+      "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 7–12 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. REGIONAL STUDENT DAY Our school will welcome students from several partner schools next Friday. Taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. Students interested in (8) {#2} the programme should register by Monday. The morning programme includes a team challenge in which one student guides the group and helps divide tasks. This activity is designed to develop (9) {#3}. In the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. Everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
+      "questionKey": "part 1 — language in functional texts questions 7–12 read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 7 to 12. regional student day our school will welcome students from several partner schools next friday. taking part in a (7) {#1} gives students a chance to learn about one another's ideas and traditions. students interested in (8) {#2} the programme should register by monday. the morning programme includes a team challenge in which one student guides the group and helps divide tasks. this activity is designed to develop (9) {#3}. in the afternoon, participants will enjoy (10) {#4} ideas with students from other countries during a short group task. (11) {#5}, each team will share one thing it learned about communicating across cultures. everyone can help strengthen positive (12) {#6} by listening carefully and sharing ideas.",
+      "letter": "",
+      "letters": [],
+      "answer": "",
+      "rightAnswer": "",
+      "verified_100": true,
+      "source": "silent_review",
+      "options": [
+        ""
+      ],
+      "is_checkbox": false,
+      "inputs": [],
+      "selects": [
+        {
+          "index": 0,
+          "value": "cultural exchange",
+          "isCorrect": true
+        },
+        {
+          "index": 1,
+          "value": "joining",
+          "isCorrect": true
+        },
+        {
+          "index": 2,
+          "value": "leadership skills",
+          "isCorrect": true
+        },
+        {
+          "index": 3,
+          "value": "discussing",
+          "isCorrect": true
+        },
+        {
+          "index": 4,
+          "value": "At the end of the day",
+          "isCorrect": true
+        },
+        {
+          "index": 5,
+          "value": "relations",
+          "isCorrect": true
         }
       ]
     }
