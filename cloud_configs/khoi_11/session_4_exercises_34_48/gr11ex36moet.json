@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "account_name": "Văn Thiên Kim",
+    "account_name": "Nguyễn Minh Kha",
     "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
     "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
     "class_key": "khoi_11",
@@ -15,11 +15,11 @@
     "score": "100.00 trên 100.00",
     "score_pct": 100.0,
     "question_count": 40,
-    "updated_at": "2026-11-28 00:06:39"
+    "updated_at": "2026-11-28 00:12:58"
   },
   "answers": [
     {
-      "id": "question-1999388-6",
+      "id": "question-1999391-6",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. Would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
       "options": [
@@ -27,17 +27,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-6",
-      "questionNumber": 2,
+      "questionId": "question-1999391-6",
+      "questionNumber": 10,
       "question": "Choose the option A, B, C, or D that best completes each sentence.Would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
       "answer": "explaining",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.would you mind ________ the goals of your welcome-event proposal before we discuss its activities?",
-      "letter": "B",
+      "letter": "D",
       "rightAnswer": "explaining"
     },
     {
-      "id": "question-1999388-3",
+      "id": "question-1999391-3",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.one proposed activity for the welcome event is ________ asean posters in mixed groups of local and visiting students.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. One proposed activity for the welcome event is ________ ASEAN posters in mixed groups of local and visiting students.",
       "options": [
@@ -45,17 +45,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-3",
-      "questionNumber": 8,
+      "questionId": "question-1999391-3",
+      "questionNumber": 6,
       "question": "Choose the option A, B, C, or D that best completes each sentence.One proposed activity for the welcome event is ________ ASEAN posters in mixed groups of local and visiting students.",
       "answer": "making",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.one proposed activity for the welcome event is ________ asean posters in mixed groups of local and visiting students.",
-      "letter": "B",
+      "letter": "A",
       "rightAnswer": "making"
     },
     {
-      "id": "question-1999388-5",
+      "id": "question-1999391-5",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.the student organisers suggested ________ a traditional games festival to help the visitors make friends.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. The student organisers suggested ________ a traditional games festival to help the visitors make friends.",
       "options": [
@@ -63,17 +63,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-5",
-      "questionNumber": 5,
+      "questionId": "question-1999391-5",
+      "questionNumber": 1,
       "question": "Choose the option A, B, C, or D that best completes each sentence.The student organisers suggested ________ a traditional games festival to help the visitors make friends.",
       "answer": "organising",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.the student organisers suggested ________ a traditional games festival to help the visitors make friends.",
-      "letter": "C",
+      "letter": "A",
       "rightAnswer": "organising"
     },
     {
-      "id": "question-1999388-10",
+      "id": "question-1999391-10",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. Several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
       "options": [
@@ -81,8 +81,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-10",
-      "questionNumber": 9,
+      "questionId": "question-1999391-10",
+      "questionNumber": 3,
       "question": "Choose the option A, B, C, or D that best completes each sentence.Several students are keen on ________ in the cultural exchange because they want to learn about other traditions.",
       "answer": "participating",
       "dragdrops": [],
@@ -91,7 +91,7 @@
       "rightAnswer": "participating"
     },
     {
-      "id": "question-1999388-7",
+      "id": "question-1999391-7",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. Making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
       "options": [
@@ -99,17 +99,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-7",
-      "questionNumber": 3,
+      "questionId": "question-1999391-7",
+      "questionNumber": 9,
       "question": "Choose the option A, B, C, or D that best completes each sentence.Making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
       "answer": "preparing",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.making arrangements for the cultural activities involves ________ materials and checking the event schedule.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "preparing"
     },
     {
-      "id": "question-1999388-8",
+      "id": "question-1999391-8",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. Through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
       "options": [
@@ -117,17 +117,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-8",
+      "questionId": "question-1999391-8",
       "questionNumber": 4,
       "question": "Choose the option A, B, C, or D that best completes each sentence.Through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
       "answer": "bringing",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.through their welcome activities, the organisers succeeded in ________ local and visiting students together.",
-      "letter": "D",
+      "letter": "B",
       "rightAnswer": "bringing"
     },
     {
-      "id": "question-1999388-1",
+      "id": "question-1999391-1",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.________ about asean countries helps students understand different cultures and recognise shared values.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. ________ about ASEAN countries helps students understand different cultures and recognise shared values.",
       "options": [
@@ -135,17 +135,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-1",
-      "questionNumber": 1,
+      "questionId": "question-1999391-1",
+      "questionNumber": 8,
       "question": "Choose the option A, B, C, or D that best completes each sentence.________ about ASEAN countries helps students understand different cultures and recognise shared values.",
       "answer": "Learning",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.________ about asean countries helps students understand different cultures and recognise shared values.",
-      "letter": "A",
+      "letter": "D",
       "rightAnswer": "Learning"
     },
     {
-      "id": "question-1999388-4",
+      "id": "question-1999391-4",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.during cultural exchanges, students enjoy ________ their traditions and learning about other people's customs.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. During cultural exchanges, students enjoy ________ their traditions and learning about other people’s customs.",
       "options": [
@@ -153,17 +153,17 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-4",
-      "questionNumber": 10,
+      "questionId": "question-1999391-4",
+      "questionNumber": 7,
       "question": "Choose the option A, B, C, or D that best completes each sentence.During cultural exchanges, students enjoy ________ their traditions and learning about other people's customs.",
       "answer": "sharing",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.during cultural exchanges, students enjoy ________ their traditions and learning about other people's customs.",
-      "letter": "D",
+      "letter": "A",
       "rightAnswer": "sharing"
     },
     {
-      "id": "question-1999388-2",
+      "id": "question-1999391-2",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.________ in community projects gives young volunteers opportunities to develop practical skills.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. ________ in community projects gives young volunteers opportunities to develop practical skills.",
       "options": [
@@ -171,8 +171,8 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-2",
-      "questionNumber": 6,
+      "questionId": "question-1999391-2",
+      "questionNumber": 5,
       "question": "Choose the option A, B, C, or D that best completes each sentence.________ in community projects gives young volunteers opportunities to develop practical skills.",
       "answer": "Taking part",
       "dragdrops": [],
@@ -181,7 +181,7 @@
       "rightAnswer": "Taking part"
     },
     {
-      "id": "question-1999388-9",
+      "id": "question-1999391-9",
       "questionKey": "choose the option a, b, c, or d that best completes each sentence.the visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
       "questionRaw": "Choose the option A, B, C, or D that best completes each sentence. The visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
       "options": [
@@ -189,13 +189,13 @@
       ],
       "inputs": [],
       "selects": [],
-      "questionId": "question-1999388-9",
-      "questionNumber": 7,
+      "questionId": "question-1999391-9",
+      "questionNumber": 2,
       "question": "Choose the option A, B, C, or D that best completes each sentence.The visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
       "answer": "helping",
       "dragdrops": [],
       "legacyQKey": "choose the option a, b, c, or d that best completes each sentence.the visitors thanked the volunteers for ________ them understand the instructions for the traditional games.",
-      "letter": "C",
+      "letter": "B",
       "rightAnswer": "helping"
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "answer": "B",
-      "id": "question-1999388-12",
+      "id": "question-1999391-12",
       "inputs": [
         {
           "index": 0,
@@ -329,15 +329,15 @@
       "letter": "",
       "options": [],
       "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. organiseB. organisingC. to organiseD. organised Write A, B, C or D: {#1} Question 2A. contributionsB. presentationsC. arrangementsD. opinions Write A, B, C or D: {#2} Question 3A. ThereforeB. NeverthelessC. InsteadD. Otherwise Write A, B, C or D: {#3}",
-      "questionId": "question-1999388-12",
+      "questionId": "question-1999391-12",
       "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. organiseb. organisingc. to organised. organised write a, b, c or d: {#1} question 2a. contributionsb. presentationsc. arrangementsd. opinions write a, b, c or d: {#2} question 3a. thereforeb. neverthelessc. insteadd. otherwise write a, b, c or d: {#3}",
-      "questionNumber": 11,
+      "questionNumber": 13,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "C",
-      "id": "question-1999388-11",
+      "id": "question-1999391-11",
       "inputs": [
         {
           "index": 0,
@@ -359,15 +359,15 @@
       "letter": "",
       "options": [],
       "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. participateB. participantC. participationD. participated Write A, B, C or D: {#1} Question 2A. leadershipB. researchC. languageD. presentation Write A, B, C or D: {#2} Question 3A. For exampleB. By contrastC. In the meantimeD. As a result Write A, B, C or D: {#3}",
-      "questionId": "question-1999388-11",
+      "questionId": "question-1999391-11",
       "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. participateb. participantc. participationd. participated write a, b, c or d: {#1} question 2a. leadershipb. researchc. languaged. presentation write a, b, c or d: {#2} question 3a. for exampleb. by contrastc. in the meantimed. as a result write a, b, c or d: {#3}",
-      "questionNumber": 13,
+      "questionNumber": 11,
       "selects": [],
       "rightAnswer": ""
     },
     {
       "answer": "D",
-      "id": "question-1999388-13",
+      "id": "question-1999391-13",
       "inputs": [
         {
           "index": 0,
@@ -394,7 +394,7 @@
       "letter": "",
       "options": [],
       "question": "Choose the option A, B, C, or D that best completes each blank. Question 1A. findB. to findC. foundD. finding Write A, B, C or D: {#1} Question 2A. representationB. representativeC. representD. represented Write A, B, C or D: {#2} Question 3A. beforeB. afterC. whileD. until Write A, B, C or D: {#3} Question 4A. resourcesB. schedulesC. valuesD. customs Write A, B, C or D: {#4}",
-      "questionId": "question-1999388-13",
+      "questionId": "question-1999391-13",
       "questionKey": "choose the option a, b, c, or d that best completes each blank. question 1a. findb. to findc. foundd. finding write a, b, c or d: {#1} question 2a. representationb. representativec. representd. represented write a, b, c or d: {#2} question 3a. beforeb. afterc. whiled. until write a, b, c or d: {#3} question 4a. resourcesb. schedulesc. valuesd. customs write a, b, c or d: {#4}",
       "questionNumber": 12,
       "selects": [],
