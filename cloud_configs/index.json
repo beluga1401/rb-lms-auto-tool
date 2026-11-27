@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 20:11:59",
+  "updated_at": "2026-11-27 20:15:39",
   "total_configs": 100,
   "configs": [
     {
@@ -1800,7 +1800,7 @@
       "score": "100.00 trên 100.00",
       "score_pct": 100,
       "question_count": 23,
-      "updated_at": "2026-11-27 20:11:59"
+      "updated_at": "2026-11-27 20:15:39"
     }
   ]
 }
