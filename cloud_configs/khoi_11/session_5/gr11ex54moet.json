@@ -1,25 +1,4 @@
-{
-  "metadata": {
-    "account_name": "Student_Mobile",
-    "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-    "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
-    "class_key": "khoi_11",
-    "grade_num": "11",
-    "unit_name": "SESSION 5",
-    "unit_key": "session_5",
-    "quiz_title": "GR11EX54MOET",
-    "quiz_key": "gr11ex54moet",
-    "cmid": "750012",
-    "course_id": "4775",
-    "repo_path": "cloud_configs\/khoi_11\/session_5\/gr11ex54moet.json",
-    "score": "100.00 trên 100.00",
-    "score_pct": 100,
-    "question_count": 23,
-    "updated_at": "2026-11-27 20:17:30"
-  },
-  "answers": [
-    {
-      "id": "question-1997086-1",
+
       "questionId": "question-1997086-1",
       "questionNumber": 1,
       "question": "PART 1 — LANGUAGE IN FUNCTIONAL TEXTS Questions 1–6 Read the following information text and choose the best answer to indicate the option that best fits each numbered blank from 1 to 6. LOWER-EMISSION RICE FARMING Flooded rice fields can make it easier for soil bacteria to produce (1) {#1} gases. (2) {#2} water levels more carefully, farmers can reduce the periods when fields remain flooded. (3) {#3} in carefully managed drier fields, rice can still grow well while the fields may produce fewer greenhouse gases. This method can also require (4) {#4} water than keeping fields permanently flooded. (5) {#5}, new farming methods may lower the climate impact while still supporting crop production. The aim is to find an (6) {#6} that reduces the warming impact without preventing farmers from growing successful crops.",
