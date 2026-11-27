@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 21:19:07",
+  "updated_at": "2026-11-27 21:19:39",
   "total_configs": 101,
   "configs": [
     {
@@ -1090,24 +1090,6 @@
       "grade_num": "11",
       "unit_name": "SESSION 4_EXERCISES 34-48",
       "unit_key": "session_4_exercises_34_48",
-      "quiz_title": "GR11EX36MOET",
-      "quiz_key": "gr11ex36moet",
-      "cmid": "742993",
-      "course_id": "9690",
-      "repo_path": "cloud_configs\/khoi_11\/session_4_exercises_34_48\/gr11ex36moet.json",
-      "score": "19.00\/20.00",
-      "score_pct": 95,
-      "question_count": 28,
-      "updated_at": "2026-11-08 20:45:11"
-    },
-    {
-      "account_name": "Cao Nguyễn Hoàng Gia Khang",
-      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
-      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
-      "class_key": "khoi_11",
-      "grade_num": "11",
-      "unit_name": "SESSION 4_EXERCISES 34-48",
-      "unit_key": "session_4_exercises_34_48",
       "quiz_title": "GR11EX37MOET",
       "quiz_key": "gr11ex37moet",
       "cmid": "744163",
@@ -1819,6 +1801,24 @@
       "score_pct": 100,
       "question_count": 20,
       "updated_at": "2026-11-27 21:19:07"
+    },
+    {
+      "account_name": "Student_Mobile",
+      "class_name": "Khối 11 (LGK LC-Lớp 11TN (2026-2027))",
+      "raw_class_name": "LGK LC-Lớp 11TN (2026-2027)",
+      "class_key": "khoi_11",
+      "grade_num": "11",
+      "unit_name": "SESSION 4_EXERCISES 34-48",
+      "unit_key": "session_4_exercises_34_48",
+      "quiz_title": "GR11EX36MOET",
+      "quiz_key": "gr11ex36moet",
+      "cmid": "742993",
+      "course_id": "11364",
+      "repo_path": "cloud_configs\/khoi_11\/session_4_exercises_34_48\/gr11ex36moet.json",
+      "score": "4.00",
+      "score_pct": 100,
+      "question_count": 19,
+      "updated_at": "2026-11-27 21:19:39"
     }
   ]
 }
